@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>German Shakespeare Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">gersh</idno>
+        <idno type="repo">https://github.com/dracor-org/gershdracor</idno>
+        <availability>
+          <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
+            CC0
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Edited by <ref target="https://lehkost.github.io/">Frank Fischer</ref>. This corpus
+          contains all 37 of Shakespeare's plays in their German translations published by Schlegel
+          and Tieck, in the edition of Aufbau-Verlag Berlin/Weimar (3rd edition 1975), which is based
+          on the last edition published during Schlegel's lifetime (3rd edition 1843/44). The
+          digitised print edition was procured from <ref
+            target="http://www.zeno.org/nid/20005683920">Zeno.org</ref> (via TextGrid Repository),
+          which also provided an additional play (»Die beiden edlen Vettern«) that Shakespeare is
+          now considered to have co-authored. This is a first beta version of the corpus. For a full
+          description please see the <ref target="https://github.com/dracor-org/gershdracor">README
+            on GitHub</ref>.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>
