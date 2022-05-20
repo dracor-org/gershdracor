@@ -4,6 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>German Shakespeare Drama Corpus</title>
+        <title type="acronym">GerShDraCor</title>
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
