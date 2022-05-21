@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1220,8 +1219,7 @@
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Der Türke segelt mit gewaltiger Kriegsrüstung gegen Cypern. Othello, Euch ist die
-              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb
-                n="406"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
+              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb n="406"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
               Meinung, jene unbeschränkte Gebieterin des Erfolgs, eine größere Zuversicht zu Euch.
               Ihr müßt Euch deshalb gefallen lassen, den Glanz Eures neuen Glücks durch diese rauhe
               und stürmische Unternehmung zu verdunkeln.</p>
@@ -2179,7 +2177,8 @@
           </sp>
           <sp who="#rodrigo">
             <speaker>RODRIGO.</speaker>
-            <p>Gott befohlen! – <stage>Ab.</stage></p>
+            <p>Gott befohlen! – <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
@@ -2228,7 +2227,8 @@
               außer jenem erfreulichen Ereignis feiert er heut seine Hochzeit: solches wird auf
               seinen Befehl ausgerufen. Alle Säle des Palastes sind geöffnet, und volle Freiheit zu
               Schmaus und Fest von jetzt fünf Uhr an, bis die elfte Stunde geschlagen. Der Himmel
-              segne die Insel Cypern und unsern edlen General Othello!« <stage>Ab.</stage></p>
+              segne die Insel Cypern und unsern edlen General Othello!« <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -2340,7 +2340,8 @@
           </sp>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
-            <p>Ich will's tun, aber es geschieht ungern. <stage>Geht ab.</stage></p>
+            <p>Ich will's tun, aber es geschieht ungern. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
@@ -2474,7 +2475,8 @@
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <p>Nun, recht gut also; ihr müßt also nicht meinen, daß ich betrunken sei. <stage>Er
-                geht ab.</stage></p>
+                geht ab.</stage>
+            </p>
           </sp>
           <sp who="#montano">
             <speaker>MONTANO.</speaker>
@@ -2907,7 +2909,8 @@
           </sp>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
-            <p>Gute Nacht, ehrlicher Jago! <stage>Er geht ab.</stage></p>
+            <p>Gute Nacht, ehrlicher Jago! <stage>Er geht ab.</stage>
+            </p>
           </sp>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
@@ -4430,7 +4433,8 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Dies auszurichten reicht nicht über das Vermögen des menschlichen Geistes, und darum
-              will ich das Abenteuer bestehen. <stage>Ab.</stage></p>
+              will ich das Abenteuer bestehen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
@@ -5397,7 +5401,8 @@
           <sp who="#bianca">
             <speaker>BIANCA.</speaker>
             <p>Willst du heut abend zum Essen kommen, so tu's; willst du nicht, so komm ein
-              andermal, wenn du Lust hast! <stage>Ab.</stage></p>
+              andermal, wenn du Lust hast! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#jago">
             <speaker>JAGO.</speaker>

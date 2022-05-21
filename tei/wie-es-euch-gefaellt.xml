@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -366,7 +365,8 @@
             <speaker>CHARLES.</speaker>
             <p>Ich bin herzlich erfreut, daß ich zu Euch kam. Stellt er sich morgen ein, so will ich
               ihm seinen Lohn geben. Wenn er je wieder auf die Beine kommt, so will ich mein Lebtag
-              nicht wieder um den Preis ringen. Gott behüte Euer Gnaden! <stage>Ab.</stage></p>
+              nicht wieder um den Preis ringen. Gott behüte Euer Gnaden! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#oliver">
             <speaker>OLIVER.</speaker>
@@ -377,7 +377,8 @@
               der Leute, besonders meiner eignen, die ihn am besten kennen, daß ich darüber ganz
               gering geschätzt werde. Aber so soll es nicht lange sein, – dieser Ringer soll alles
               ins reine bringen. Es bleibt nichts zu tun übrig, als daß ich den Knaben dorthin
-              hetze, was ich gleich ins Werk richten will. <stage>Ab.</stage></p>
+              hetze, was ich gleich ins Werk richten will. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="645"/>
@@ -3441,7 +3442,8 @@
           <sp who="#ehrn_olivarius">
             <speaker>EHRN OLIVARIUS.</speaker>
             <p>Es tut nichts. Keiner von allen diesen phantastischen Schelmen zusammen soll mich aus
-              meinem Beruf herausnecken. <stage>Ab.</stage></p>
+              meinem Beruf herausnecken. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -3898,7 +3900,8 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES.</speaker>
-            <p>Nein, dann Gott befohlen, wenn Ihr gar in Versen sprecht! <stage>Ab.</stage></p>
+            <p>Nein, dann Gott befohlen, wenn Ihr gar in Versen sprecht! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
@@ -4832,7 +4835,8 @@
           </sp>
           <sp who="#wilhelm">
             <speaker>WILHELM.</speaker>
-            <p>Gott erhalt' Euch guter Dinge, Herr! <stage>Ab.</stage></p>
+            <p>Gott erhalt' Euch guter Dinge, Herr! <stage>Ab.</stage>
+            </p>
             <stage>Corinnus kommt.</stage>
           </sp>
           <pb n="712"/>
@@ -4942,8 +4946,7 @@
               guten Gaben. Ich sage dies nicht, damit Ihr eine gute Meinung von meiner Wissenschaft
               fassen sollt, insofern ich sage: ich weiß, daß Ihr es seid; noch strebe ich nach einer
               größern Achtung, als die Euch einigermaßen Glauben ablocken kann, zu Eurem eignen
-              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb
-                n="714"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
+              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb n="714"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
               Zauberer von der tiefsten Einsicht in seiner Kunst, ohne doch verdammlich zu sein.
               Wenn Euch Rosalinde so sehr am Herzen liegt, als Euer Benehmen laut bezeugt, so sollt
               Ihr sie heiraten, wann Euer Bruder Aliena heiratet. Ich weiß, in welche bedrängte Lage
@@ -5612,7 +5615,8 @@
             so viele von euch küssen, als Bärte hätten, die mir gefielen, Gesichter, die mir
             anständen, und einen Atem, der mir nicht zuwider wäre; und ich bin gewiß, alle, die gute
             Bärte, Antlitze und angenehmen Atem haben, werden für mein freundliches Anerbieten,
-            indem ich meine Verbeugung mache, mir Lebewohl sagen. <stage>Geht ab.]</stage></p>
+            indem ich meine Verbeugung mache, mir Lebewohl sagen. <stage>Geht ab.]</stage>
+          </p>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -229,8 +228,7 @@
           <sp who="#erster_buerger">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Unsre Sache ist dem Senat nicht unbekannt; sie haben davon munkeln hören seit
-              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="800"
-              /> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
+              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="800"/> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
               auch schlimme Arme haben.</p>
           </sp>
           <sp who="#menenius">
@@ -3029,7 +3027,8 @@
           </sp>
           <sp who="#alle">
             <speaker>ALLE.</speaker>
-            <p>Recht so, recht so! <stage>Sie gehn ab.</stage></p>
+            <p>Recht so, recht so! <stage>Sie gehn ab.</stage>
+            </p>
           </sp>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
@@ -6066,7 +6065,8 @@
           </sp>
           <sp who="#zweiter_diener">
             <speaker>ZWEITER DIENER.</speaker>
-            <p>Das will ich. <stage>Geht ab.</stage></p>
+            <p>Das will ich. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#dritter_diener">
             <speaker>DRITTER DIENER.</speaker>
@@ -6109,7 +6109,8 @@
             <speaker>CORIOLANUS.</speaker>
             <p>Nun, das ist doch schicklicher, als wenn ich mit deiner Frau zu schaffen hätte. Du
               schwatzest und schwatzest. – Trag' deine Teller weg! Marsch! <stage>Er schlägt ihn
-                hinaus.</stage></p>
+                hinaus.</stage>
+            </p>
             <stage>Aufidius tritt auf.</stage>
           </sp>
           <sp who="#aufidius">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -440,7 +439,8 @@
           </sp>
           <sp who="#page">
             <speaker>PAGE.</speaker>
-            <p>Monsieur Parolles, der Graf läßt Euch rufen. <stage>Ab.</stage></p>
+            <p>Monsieur Parolles, der Graf läßt Euch rufen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
@@ -502,7 +502,8 @@
               begreifen willst, was weiser Rat dir mitteilt; wo nicht, so stirb dann in deiner
               Undankbarkeit, und deine Unwissenheit raffe dich hinweg! Leb wohl! Wenn du Zeit hast,
               sprich dein Gebet; wenn du keine hast, denk' an deine Freunde! Schaff' dir einen guten
-              Mann und halte ihn, wie er dich hält, und so leb wohl! <stage>Ab.</stage></p>
+              Mann und halte ihn, wie er dich hält, und so leb wohl! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
@@ -879,7 +880,8 @@
               Ehrlichkeit kein Puritaner, aber dennoch soll sie diesmal kein Ärgernis geben und den
               weißen Chorrock der Demut über dem schwarzen Priesterkleide ihres unmutigen Herzens
               tragen. Ich gehe, verlaßt Euch drauf: ich soll an Helena sagen, hieher zu kommen.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <pb n="128"/>
           <sp who="#graefin">
@@ -1959,7 +1961,8 @@
           </sp>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
-            <p><emph>Lustik</emph>, wie der Holländer spricht. Ich will allen Mädchen dafür noch
+            <p>
+              <emph>Lustik</emph>, wie der Holländer spricht. Ich will allen Mädchen dafür noch
               einmal so gut sein, solange ich noch einen Zahn im Kopfe habe. Wahrhaftig, er ist
               imstande und fodert sie zu einer Courante auf.</p>
           </sp>
@@ -2384,7 +2387,8 @@
             <speaker>LAFEU.</speaker>
             <p>Ich wollte, ich könnte dir die ewige Höllenpein schaffen, obgleich die Zeit des
               Schaffens bei mir vorüber ist; doch so viel verschafft mir mein Alter noch, daß ich
-              dich verlassen kann. <stage>Lafeu geht ab.</stage></p>
+              dich verlassen kann. <stage>Lafeu geht ab.</stage>
+            </p>
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
@@ -2434,7 +2438,8 @@
               Granatapfel stahlt; Ihr seid ein Landstreicher, und kein echter Reisender: Ihr betragt
               Euch viel unverschämter mit Edelleuten und Vornehmen, als das Patent Eurer Geburt und
               Vorzüge Euch die Ahnenprobe gibt. Ihr verdient kein Wort mehr, sonst nennt' ich Euch
-              noch Schurke. Ich verlasse Euch! <stage>Er geht.</stage></p>
+              noch Schurke. Ich verlasse Euch! <stage>Er geht.</stage>
+            </p>
             <stage>Bertram tritt auf.</stage>
           </sp>
           <sp who="#parolles">
@@ -2783,7 +2788,8 @@
               Angelegenheiten; ich habe solches Volk zahm gemacht und kenne seine Art. Gott
               befohlen, Monsieur! Ich habe besser von Euch gesprochen, als Ihr's um mich verdient
               habt oder verdienen werdet: aber man soll Böses mit Gutem vergelten.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
@@ -3015,7 +3021,8 @@
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <p>Laß mich sehn, was er schreibt, und wann er zu kommen denkt. <stage>Sie öffnet einen
-                Brief.</stage></p>
+                Brief.</stage>
+            </p>
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
@@ -3030,7 +3037,8 @@
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
-            <p>Grade was Ihr seht. <stage>Geht ab.</stage></p>
+            <p>Grade was Ihr seht. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#graefin">
             <speaker>GRÄFIN</speaker>
@@ -3859,7 +3867,8 @@
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
-            <p>Ich bin kein Freund von vielen Worten. <stage>Geht ab.</stage></p>
+            <p>Ich bin kein Freund von vielen Worten. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
@@ -4761,7 +4770,8 @@
           </sp>
           <sp who="#bertram">
             <speaker>BERTRAM.</speaker>
-            <p><emph>Dem</emph> ist alles eins; der Schurke ist ohne Gnade verloren!</p>
+            <p>
+              <emph>Dem</emph> ist alles eins; der Schurke ist ohne Gnade verloren!</p>
           </sp>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
@@ -5125,7 +5135,8 @@
             <speaker>DOLMETSCHER.</speaker>
             <p>Könntet Ihr ein Land auffinden, wo die Weiber nicht mehr Scham hätten als Ihr, Ihr
               würdet dort ein recht unverschämtes Volk stiften. Gehabt Euch wohl, Herr! Ich will
-              auch nach Frankreich; wir werden dort von Euch erzählen. <stage>Geht ab.</stage></p>
+              auch nach Frankreich; wir werden dort von Euch erzählen. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
@@ -5342,7 +5353,8 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Wenn ich ihnen mit Streichen komme, Herr, so sollen's Peitschenstreiche sein, die
-              gebühren ihnen nach dem Gesetz der Natur. <stage>Geht ab.</stage></p>
+              gebühren ihnen nach dem Gesetz der Natur. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
@@ -5589,7 +5601,8 @@
               sagt, muddig geworden ist. Ich bitte Euch, Herr, verfahrt mit diesem Karpfen, wie Ihr
               Lust habt, denn er sieht aus wie ein armer, schäbiger, kniffiger, schelmenhafter
               Taugenichts. Ich bemitleide seinen Unstern mit meinem trostreichen Lächeln und lasse
-              ihn Euer Gnaden. <stage>Geht ab.</stage></p>
+              ihn Euer Gnaden. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
@@ -5956,8 +5969,7 @@
             <speaker>KÖNIG</speaker>
             <stage>liest.</stage>
             <p>- »Auf seine vielen Beteurungen, mich zu heiraten, wenn seine Gattin tot wäre – ich
-              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb
-                n="201"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
+              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb n="201"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
               bezahlt. Er verließ Florenz heimlich, ohne Abschied zu nehmen, und ich folge ihm in
               sein Vaterland, um Recht zu finden. Gewährt es mir, o König: es steht völlig bei Euch;
               sonst triumphiert ein Verführer, und ein armes Mädchen ist verloren.</p>

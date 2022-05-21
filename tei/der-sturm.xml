@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -131,7 +130,8 @@
           <sp who="#schiffspatron">
             <speaker>SCHIFFSPATRON.</speaker>
             <p>Gut! Sprecht mit den Matrosen! Greift frisch an, oder wir treiben auf den Strand.
-              Rührt euch! rührt euch! <stage>Ab.</stage></p>
+              Rührt euch! rührt euch! <stage>Ab.</stage>
+            </p>
             <stage>Matrosen kommen.</stage>
           </sp>
           <sp who="#bootsmann">
@@ -178,7 +178,8 @@
               kein <pb n="597"/> Tau mehr anrühren: gebraucht nur Euer Ansehen! Wo nicht, so dankt
               Gott, daß Ihr so lange gelebt habt, und bereitet Euch in der Kajüte auf Euer
               Stündlein, wenn es schlagen sollte. – Lustig, liebe Kinder! – Aus dem Wege, sag' ich!
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#gonzalo">
             <speaker>GONZALO.</speaker>
@@ -265,17 +266,20 @@
           </sp>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
-            <p>So laßt uns alle mit dem König sinken! <stage>Ab.</stage></p>
+            <p>So laßt uns alle mit dem König sinken! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#sebastian">
             <speaker>SEBASTIAN.</speaker>
-            <p>Laßt uns Abschied von ihm nehmen! <stage>Ab.</stage></p>
+            <p>Laßt uns Abschied von ihm nehmen! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#gonzalo">
             <speaker>GONZALO.</speaker>
             <p>Jetzt gäb' ich tausend Hufen See für einen Morgen dürren Landes: hohe Heide, braune
               Geniste, was es auch wäre. Der Wille droben geschehe, aber ich stürbe gern eines
-              trocknen Todes! <stage>Ab.</stage></p>
+              trocknen Todes! <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -2608,7 +2612,8 @@
               <l>Hier sterb' ich auf dem Land. –</l>
             </lg>
             <p>Das ist eine lausige Melodie, gut bei einer Beerdigung zu singen: aber hier ist mein
-              Trost. <stage>Trinkt.</stage></p>
+              Trost. <stage>Trinkt.</stage>
+            </p>
             <lg>
               <l>Der Meister, der Bootsmann, der Konstabel und ich,</l>
               <l>Wir halten's mit artigen Mädchen,</l>

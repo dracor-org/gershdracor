@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3189,7 +3188,8 @@
               <l>Hold riegelt ihr das Wort Cupidos ein! –</l>
               <l>Gebt gute Nachricht, Götter!</l>
             </lg>
-            <p><stage>Sie liest.</stage> »Die Gerechtigkeit und der Zorn deines Vaters, wenn er mich
+            <p>
+              <stage>Sie liest.</stage> »Die Gerechtigkeit und der Zorn deines Vaters, wenn er mich
               auf seinem Gebiete ergriffe, könnten nicht so grausam gegen mich sein, daß dein Blick,
               Geliebteste, mich nicht in das Leben zurück riefe. Wisse, daß ich in Cambria, in
               Milford Hafen bin. Was deine Liebe dir auf diese Nachricht raten wird, dem folge!
@@ -4183,7 +4183,8 @@
           </sp>
           <sp who="#pisanio">
             <speaker>PISANIO.</speaker>
-            <p>Sogleich, Prinz. <stage>Er geht ab.</stage></p>
+            <p>Sogleich, Prinz. <stage>Er geht ab.</stage>
+            </p>
           </sp>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
@@ -4221,7 +4222,8 @@
               habe; das dritte ist, daß du von Herzen gern von meiner Absicht schweigst. Sei nur
               dienstbeflissen, und hohe Beförderung wird dir selbst entgegen kommen. – Meine Rache
               wohnt jetzt zu Milford: ich wollte, ich hätte Flügel, um sie zu verfolgen! Komm, und
-              sei treu! <stage>Cloten geht ab.</stage></p>
+              sei treu! <stage>Cloten geht ab.</stage>
+            </p>
           </sp>
           <sp who="#pisanio">
             <speaker>PISANIO.</speaker>
@@ -4563,7 +4565,8 @@
               seine wunderlichen Launen ganz beherrscht, wird alles zu meinem Besten kehren. Mein
               Pferd hab' ich angebunden. Heraus, Schwert, zu deinem tödlichen Werk! Fortuna, gib sie
               in meine Hand! Dies muß gerade der Platz sein, wo sie sich treffen wollten; und der
-              Kerl wagt wohl nicht, mich zu hintergehen. <stage>Geht ab.</stage></p>
+              Kerl wagt wohl nicht, mich zu hintergehen. <stage>Geht ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="449"/>
@@ -6446,7 +6449,8 @@
             <l>Edler, als der es trägt: laß deinen Inhalt</l>
             <l>Auch golden sein, ganz ungleich jetz'gem Hofmann:</l>
             <l>Halte, was du versprichst:</l>
-            <p><stage>Er liest.</stage> »Wenn eines Löwen Junges, sich selbst unbekannt, ohne Suchen
+            <p>
+              <stage>Er liest.</stage> »Wenn eines Löwen Junges, sich selbst unbekannt, ohne Suchen
               findet, und umarmt wird von einem Stück zarter Luft; und wenn von einer stattlichen
               Zeder Äste abgehauen sind, die, nachdem sie manches Jahr tot gelegen haben, sich
               wieder neu beleben, mit dem alten Stamm vereinen und frisch empor wachsen: dann wird
@@ -6553,7 +6557,8 @@
               wäre. Ich wollte, wir wären alle <emph>einer</emph> Gesinnung, und die eine Gesinnung
               wäre gut; oh! Dann würden alle Kerkermeister und Galgen aussterben! Ich spreche gegen
               meinen jetzigen Vorteil; aber mein Wunsch schließt eine Beförderung ein. <stage>Er
-                geht ab.</stage></p>
+                geht ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="478"/>

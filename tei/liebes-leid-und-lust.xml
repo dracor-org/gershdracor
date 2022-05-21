@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1058,8 +1057,7 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Ich will diesen Gegenstand von neuem bearbeiten lassen, damit ich ein Beispiel habe
-              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb
-                n="234"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
+              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb n="234"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
               kann Ansprüche machen ...</p>
           </sp>
           <sp who="#motte">
@@ -1212,7 +1210,8 @@
               Trommel! Denn euer Gebieter ist in Liebe; ja, er liebet. Hilf mir irgendein
               improvisierender Gott des Reims; denn zweifelsohne wird aus mir ein Sonettendichter.
               Erfinde, Witz; schreibe, Feder; denn ich bin gestimmt für ganze Bände in Folio.
-                <stage>Er geht ab.</stage></p>
+                <stage>Er geht ab.</stage>
+            </p>
           </sp>
         </div>
       </div>
@@ -2221,7 +2220,8 @@
               Gegenleistung lege ich dir nur dieses auf: überreiche gegenwärtiges Sendschreiben dem
               Landmädchen Jacquenetta. Hier ist Remuneration <stage>Gibt ihm Geld.</stage> denn die
               beste Stütze meiner Ehre ist, meine Vasallen zu unterstützen. Motte, folge! <stage>Er
-                geht ab.</stage></p>
+                geht ab.</stage>
+            </p>
           </sp>
           <sp who="#motte">
             <speaker>MOTTE.</speaker>
@@ -2316,7 +2316,8 @@
             <speaker>SCHÄDBL.</speaker>
             <p>Rekompens – o süßer Rekompens! Besser als Remuneration, elftehalb Pfennig besser. Ei
               du herziger Rekompens; ich will's tun, Herr, wie gedruckt. Rekompens! Remuneration!
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
@@ -3031,7 +3032,8 @@
           </sp>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
-            <p>Nimm mich mit, Mädel! <stage>Beide gehn ab.</stage></p>
+            <p>Nimm mich mit, Mädel! <stage>Beide gehn ab.</stage>
+            </p>
           </sp>
           <sp who="#nathanael">
             <speaker>NATHANAEL.</speaker>
@@ -3094,7 +3096,8 @@
               Narr sandt' es, und das Fräulein hat es: süßer Tölpel, süßerer Narr, süßestes
               Fräulein! Bei Gott, ich wollte alles drum geben, wenn die drei andern auch soweit
               wären. Hier kommt einer mit einem Papier: gebe der Himmel, daß er seufzen möge! –
-                <stage>Er versteckt sich.</stage></p>
+                <stage>Er versteckt sich.</stage>
+            </p>
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
@@ -3939,7 +3942,8 @@
           <sp who="#nathanael">
             <speaker>NATHANAEL.</speaker>
             <p>Ein höchst eigentümliches und auserwähltes Prädikat. <stage>Er nimmt seine
-                Schreibtafel.</stage></p>
+                Schreibtafel.</stage>
+            </p>
           </sp>
           <sp who="#holofernes">
             <speaker>HOLOFERNES.</speaker>
@@ -3994,8 +3998,7 @@
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Oh, sie zehren schon lange aus dem Almosenkorb der Worte. Mich wundert, daß dein Herr
-              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb
-                n="275"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
+              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb n="275"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
               leichter hinunter als ein Mandelschiffchen.</p>
           </sp>
           <sp who="#motte">
@@ -5689,7 +5692,8 @@
           </sp>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
-            <p>Gebt acht, wir machen's schmuck, setzen allen Fleiß daran. <stage>Ab.</stage></p>
+            <p>Gebt acht, wir machen's schmuck, setzen allen Fleiß daran. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
@@ -5727,7 +5731,8 @@
             <speaker>ARMADO.</speaker>
             <p>Gesalbter, ich flehe um so viel Aufwand deines königlichen geliebten Atems, als
               erforderlich ist für ein paar Worte. <stage>Er spricht heimlich mit dem
-              König.</stage></p>
+              König.</stage>
+            </p>
           </sp>
           <sp who="#prinzessin">
             <speaker>PRINZESSIN.</speaker>

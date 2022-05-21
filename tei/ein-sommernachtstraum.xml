@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3502,8 +3501,8 @@
           </sp>
           <sp who="#zettel">
             <speaker>ZETTEL.</speaker>
-            <p>Wenn mein Stichwort kommt, ruft mich, und ich will antworten. &#60;Mein nächstes ist:
-              »All'rschönster Pyramus!« –&#62; He! Holla! – Peter Squenz! Flaut, der Bälgenflicker!
+            <p>Wenn mein Stichwort kommt, ruft mich, und ich will antworten. &lt;Mein nächstes ist:
+              »All'rschönster Pyramus!« –&gt; He! Holla! – Peter Squenz! Flaut, der Bälgenflicker!
               Schnauz, der Kesselflicker! Schlucker! – Sapperment! Alle davon gelaufen, und lassen
               mich hier schlafen! – Ich habe ein äußerst rares Gesicht gehabt. Ich hatte 'nen Traum
               – 's geht über Menschenwitz, zu sagen, was es für ein Traum war. Der Mensch ist nur
@@ -3516,7 +3515,8 @@
               Peter Squenz dazu kriegen, mir von diesem Traum eine Ballade zu schreiben; sie soll
               Zettels Traum heißen, weil sie so seltsam angezettelt ist, und ich will sie gegen das
               Ende des Stücks vor dem Herzoge singen. Vielleicht, um sie noch anmutiger zu machen,
-              werde ich sie nach dem Tode singen. <stage>Ab.</stage></p>
+              werde ich sie nach dem Tode singen. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="361"/>

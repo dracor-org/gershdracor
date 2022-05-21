@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3288,8 +3287,7 @@
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <p>Der nicht, der selbst nicht so ist; und das ist Marc Anton. Sein ägyptisches Mahl
-              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb
-                n="725"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
+              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="725"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
               unmittelbare Veranlassung ihrer Entzweiung werden. Antonius wird seine Liebe zeigen,
               wo sie ist; hier hat er nur seinen Vorteil geheiratet. –</p>
           </sp>
@@ -8644,7 +8642,8 @@
           <sp who="#bauer">
             <speaker>BAUER.</speaker>
             <p>Ja wahrhaftig, ich wünsche Euch viel Zeitvertreib von dem Wurm.
-              <stage>Ab.</stage></p>
+              <stage>Ab.</stage>
+            </p>
             <stage>Iras kommt zurück mit Krone und Kleid.</stage>
           </sp>
           <sp who="#cleopatra">

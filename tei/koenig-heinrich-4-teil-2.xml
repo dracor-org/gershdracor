@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1001,7 +1000,8 @@
               eins von beiden macht sich mit meinem großen Zehen lustig. Es macht nichts aus, ob ich
               hinke; ich habe den Krieg zum Vorwande, und meine Pension wird um so billiger
               scheinen. Ein guter Kopf weiß alles zu benutzen: ich will Krankheiten zum Vorteil
-              kehren. <stage>Ab.</stage></p>
+              kehren. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="296"/>
@@ -1449,7 +1449,8 @@
           <pb n="304"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
-            <p>Komm her, Wirtin! <stage>Er zieht sie beiseit.</stage></p>
+            <p>Komm her, Wirtin! <stage>Er zieht sie beiseit.</stage>
+            </p>
             <stage>Gower kommt.</stage>
           </sp>
           <sp who="#oberrichter">
@@ -1769,7 +1770,8 @@
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Eines Talers werte, gute Auslegung, und da hast du ihn, Junge! <stage>Gibt ihm
-                Geld.</stage></p>
+                Geld.</stage>
+            </p>
           </sp>
           <sp who="#page">
             <speaker>PAGE.</speaker>
@@ -1814,8 +1816,7 @@
             <p>»John Falstaff, Ritter« – jedermann muß das wissen, so oft er Gelegenheit hat, sich
               zu nennen. Grade wie die Leute, die mit dem König verwandt sind, denn die stechen sich
               niemals in den Finger, ohne zu sagen: »Da wird etwas von des Königs Blut vergossen.« –
-              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb
-                n="309"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
+              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb n="309"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
               des Königs armer Vetter, mein Herr.«</p>
           </sp>
           <sp who="#prinz_heinrich">
@@ -1942,7 +1943,8 @@
             <p>Von einem Gott zu einem Stier? Eine schwere Herabsetzung! Sie war Jupiters Fall. Aus
               einem Prinzen in einen Kellerjungen? Eine niedrige Verwandlung! Sie soll die meinige
               sein, denn in jedem Dinge muß die Absicht mit der Torheit auf die Waagschale gelegt
-              werden. Folge mir, Eduard! <stage>Ab.</stage></p>
+              werden. Folge mir, Eduard! <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -2099,7 +2101,8 @@
           </sp>
           <sp who="#zweiter_kuefer">
             <speaker>ZWEITER KÜFER.</speaker>
-            <p>Ich will sehen, ob ich Schleicher finden kann. <stage>Ab.</stage></p>
+            <p>Ich will sehen, ob ich Schleicher finden kann. <stage>Ab.</stage>
+            </p>
             <stage>Wirtin und Dortchen Lakenreißer kommen.</stage>
           </sp>
           <sp who="#wirtin">
@@ -2453,7 +2456,8 @@
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
-            <p>Packt Euch die Treppe hinunter! <stage>Er zieht und jagt Pistol hinaus.</stage></p>
+            <p>Packt Euch die Treppe hinunter! <stage>Er zieht und jagt Pistol hinaus.</stage>
+            </p>
           </sp>
           <sp who="#wirtin">
             <speaker>WIRTIN.</speaker>
@@ -2514,8 +2518,7 @@
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Wahrhaftig, und du warst wie ein Kirchturm hinter ihm drein. Du verwettertes,
-              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb
-                n="320"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
+              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb n="320"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
               den Himmel zurecht zu flicken?</p>
             <stage>Im Hintergrunde erscheinen Prinz Heinrich und Poins, in Küfer verkleidet.</stage>
           </sp>
@@ -3563,8 +3566,7 @@
           <sp who="#schimmelig">
             <speaker>SCHIMMELIG.</speaker>
             <p>Und lieber Herr Korporal Kapitän, meiner alten Hausfrauen wegen, legt ein gut Wort
-              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb
-                n="335"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
+              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb n="335"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
               Schillinge haben, Herr.</p>
           </sp>
           <sp who="#bardolph">
@@ -3634,8 +3636,7 @@
               den Geist kommt es an, Herr Schaal. Da habt Ihr Warze, – Ihr seht, was es für eine
               ruppige Figur ist: der ladet und schießt Euch so flink, wie ein Zinngießer hämmert:
               läuft auf und ab, geschwinder wie einer, der des Brauers Eimer am Schwengel trägt. Und
-              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb
-                n="336"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
+              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb n="336"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
               Schneide eines Federmessers zielen; und geht's zum Rückzuge: – wie geschwind wird
               dieser Schwächlich, der Frauenschneider, davon laufen! O gebt mir die unansehnlichen
               Leute, so will ich die großen gar nicht ansehn. – Gib dem Warze eine Muskete in die
@@ -5500,7 +5501,8 @@
             <speaker>SCHAAL.</speaker>
             <p>Ich danke dir von ganzem Herzen, mein lieber Meister Bardolph; – <stage>Zu dem
                 Pagen.</stage> und willkommen, mein starker Mann! Kommt, Sir John! <stage>Schaal
-                ab.</stage></p>
+                ab.</stage>
+            </p>
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
@@ -5877,7 +5879,8 @@
                 anderen Tisch</stage> ich bin gleich wieder bei Euch, – schönster Herr, setzt Euch!
               – Herr Page, lieber Herr Page, setzt Euch; prosit! Was Euch an Essen abgeht, wollen
               wir mit Trinken ersetzen. Aber Ihr müßt vorlieb nehmen: der gute Wille ist die
-              Hauptsache. <stage>Ab.</stage></p>
+              Hauptsache. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -992,7 +991,8 @@
               zerstörenden Umwälzungen folgen uns rastlos bis an unser Grab. Erforsche mir den
               Buben, Edmund, es soll dein Schade nicht sein; tu's mit allem Eifer! Und der edle,
               treugeherzte Kent verbannt! Sein Verbrechen, Redlichkeit! – Seltsam, seltsam! –
-                <stage>Geht ab.</stage></p>
+                <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#edmund">
             <speaker>EDMUND.</speaker>
@@ -1288,7 +1288,8 @@
           </sp>
           <sp who="#haushofmeister">
             <speaker>HAUSHOFMEISTER.</speaker>
-            <p>Verzeiht mir – <stage>Er geht ab.</stage></p>
+            <p>Verzeiht mir – <stage>Er geht ab.</stage>
+            </p>
           </sp>
           <sp who="#lear">
             <speaker>LEAR.</speaker>
@@ -1361,7 +1362,8 @@
           </sp>
           <sp who="#lear">
             <speaker>LEAR.</speaker>
-            <p>Wirfst du mir Blicke zu, du Hundsfott? <stage>Er schlägt ihn.</stage></p>
+            <p>Wirfst du mir Blicke zu, du Hundsfott? <stage>Er schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#haushofmeister">
             <speaker>HAUSHOFMEISTER.</speaker>
@@ -1386,7 +1388,8 @@
           <sp who="#lear">
             <speaker>LEAR.</speaker>
             <p>Nun, mein freundlicher Gesell, ich danke dir, hier ist Handgeld auf deinen Dienst.
-                <stage>Er gibt Kent Geld.</stage></p>
+                <stage>Er gibt Kent Geld.</stage>
+            </p>
             <stage>Der Narr kommt.</stage>
           </sp>
           <sp who="#narr">
@@ -1941,7 +1944,8 @@
           <sp who="#kent">
             <speaker>KENT.</speaker>
             <p>Ich will nicht schlafen, Mylord, bis ich Euern Brief bestellt habe. <stage>Geht
-                ab.</stage></p>
+                ab.</stage>
+            </p>
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
@@ -2110,7 +2114,8 @@
           </sp>
           <sp who="#curan">
             <speaker>CURAN.</speaker>
-            <p>So werdet Ihr's noch hören. Lebt wohl, Herr! <stage>Ab.</stage></p>
+            <p>So werdet Ihr's noch hören. Lebt wohl, Herr! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#edmund">
             <speaker>EDMUND.</speaker>
@@ -2484,7 +2489,8 @@
               Sind's doch kaum zwei Tage, seit ich dir ein Bein stellte und dich vor dem König
               prügelte? Zieh', du Schuft, denn obgleich es Nacht ist, scheint der Mond; ich will
               eine Mondscheinstunke aus dir machen. Zieh', du niederträcht'ger, infamer Kam'rad von
-              Barbiergesellen, zieh'! <stage>Er zieht den Degen.</stage></p>
+              Barbiergesellen, zieh'! <stage>Er zieht den Degen.</stage>
+            </p>
           </sp>
           <sp who="#haushofmeister">
             <speaker>HAUSHOFMEISTER.</speaker>
@@ -2503,7 +2509,8 @@
           <sp who="#kent">
             <speaker>KENT.</speaker>
             <p>Wehr' dich, Bestie; steh, Schuft, steh; du geputzter Lumpenkerl, wehr' dich!
-                <stage>Er schlägt ihn.</stage></p>
+                <stage>Er schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#haushofmeister">
             <speaker>HAUSHOFMEISTER.</speaker>
@@ -3901,7 +3908,8 @@
               <l>Daß man mit Füßen pflegt zu gehn.</l>
             </lg>
             <p>Diese Prophezeiung wird Merlin machen, denn ich lebe vor seiner Zeit. –
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -3930,7 +3938,8 @@
               Teilnahme nicht bemerke. Wenn er nach mir fragt, bin ich krank und zu Bett gegangen.
               Und sollte es mein Tod sein (wie mir denn nichts Geringeres gedroht ist), dem König,
               meinem alten Herrn, muß geholfen werden. Es sind seltsame Dinge im Werk; Edmund, ich
-              bitte dich, sei behutsam! <stage>Er geht ab.</stage></p>
+              bitte dich, sei behutsam! <stage>Er geht ab.</stage>
+            </p>
           </sp>
           <sp who="#edmund">
             <speaker>EDMUND.</speaker>
@@ -6311,7 +6320,8 @@
           <sp who="#lear">
             <speaker>LEAR.</speaker>
             <p>So ist noch nichts verloren. Kommt! wenn ihr's haschen wollt, so müßt ihr's durch
-              Laufen haschen. Sa, sa, sa, sa! <stage>Er läuft fort.</stage></p>
+              Laufen haschen. Sa, sa, sa, sa! <stage>Er läuft fort.</stage>
+            </p>
           </sp>
           <sp who="#edelmann">
             <speaker>EDELMANN.</speaker>

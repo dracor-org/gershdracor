@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3372,7 +3371,8 @@
           </sp>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
-            <p>Oh, wär' ich nie geboren! <stage>Er wälzt sich auf der Erde.</stage></p>
+            <p>Oh, wär' ich nie geboren! <stage>Er wälzt sich auf der Erde.</stage>
+            </p>
           </sp>
           <sp who="#der_junge_schaefer">
             <speaker>DER JUNGE SCHÄFER.</speaker>
@@ -3414,7 +3414,8 @@
             <p>Wahrhaftig, nach der Kleidung, die er dir gelassen hat, muß er ein Fußgänger gewesen
               sein; wenn das ein Reiterwams ist, so muß es heißen Dienst ausgestanden haben. Gib mir
               die Hand, ich will dir aufhelfen; komm, gib mir die Hand! <stage>Er hilft ihm
-                auf.</stage></p>
+                auf.</stage>
+            </p>
           </sp>
           <pb n="546"/>
           <sp who="#autolycus">
@@ -3515,7 +3516,8 @@
           <sp who="#der_junge_schaefer">
             <speaker>DER JUNGE SCHÄFER.</speaker>
             <p>So lebe denn wohl; ich muß gehn und für unsre Schafschur Gewürze kaufen. <stage>Er
-                geht ab.</stage></p>
+                geht ab.</stage>
+            </p>
           </sp>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
@@ -6066,8 +6068,7 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich dachte es wohl, daß sie dort etwas Wichtiges vor habe, denn seit Hermiones Tode
-              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="585"
-              /> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
+              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="585"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
           </sp>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>

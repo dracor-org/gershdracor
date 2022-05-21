@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1443,7 +1442,8 @@
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Er ist oben auf den Hügel hinaufgegangen, ich will ihn suchen. <stage>Stellt sich,
-                als wenn er Poins suchte.</stage></p>
+                als wenn er Poins suchte.</stage>
+            </p>
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
@@ -1691,8 +1691,7 @@
               jetzt bei dem Schurken wäre, so könnte ich ihm mit seiner Frauen Fächer den Kopf
               einschlagen. Ist nicht mein Vater, mein Oheim und ich selbst dabei? Lord Edmund
               Mortimer, der Erzbischof von York und Owen Glendower? Ist nicht endlich der Douglas
-              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb
-                n="207"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
+              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb n="207"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
               ausgerückt? Was ist das für ein ungläubiger Schurke? Ein Heide! Ha, ihr sollt nun
               sehen, aus wahrer, aufrichtiger Furcht und Engherzigkeit wird er zum Könige gehn und
               ihm alle unsre Anstalten vorlegen. Oh, ich könnte mich zerteilen und mir Maulschellen
@@ -1921,7 +1920,8 @@
           </sp>
           <sp who="#poins">
             <speaker>POINS.</speaker>
-            <p>Franz! <stage>Ab.</stage></p>
+            <p>Franz! <stage>Ab.</stage>
+            </p>
             <stage>Franz kommt.</stage>
           </sp>
           <sp who="#franz">
@@ -2113,7 +2113,8 @@
             <p>Hol' die Pest alle feigen Memmen, und das Wetter obendrein! Ja und Amen! – Gib mir
               ein Glas Sekt, Junge! – Lieber als dies Leben lange führen, will ich Strümpfe stricken
               und sie stopfen und sie neu versohlen. Hol' die Pest alle feigen Memmen! – Gib mir ein
-              Glas Sekt, Schurke! – Ist keine Tugend mehr auf Erden? <stage>Er trinkt.</stage></p>
+              Glas Sekt, Schurke! – Ist keine Tugend mehr auf Erden? <stage>Er trinkt.</stage>
+            </p>
           </sp>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
@@ -2173,7 +2174,8 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Es kommt alles auf eins heraus. Hol' die Pest alle Memmen! sage ich nochmals.
-                <stage>Er trinkt.</stage></p>
+                <stage>Er trinkt.</stage>
+            </p>
           </sp>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
@@ -2466,7 +2468,8 @@
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
-            <p>Mein' Treu', ich will ihn schon heimleuchten. <stage>Ab.</stage></p>
+            <p>Mein' Treu', ich will ihn schon heimleuchten. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
@@ -2903,7 +2906,8 @@
           </sp>
           <sp who="#sheriff">
             <speaker>SHERIFF.</speaker>
-            <p>Ja, gnäd'ger Herr; ich glaub', es ist zwei Uhr. <stage>Ab.</stage></p>
+            <p>Ja, gnäd'ger Herr; ich glaub', es ist zwei Uhr. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
@@ -3538,7 +3542,8 @@
             <speaker>PERCY.</speaker>
             <p>Es führt auch gerade Weges dazu, Schneider zu werden oder Rotkehlchen abzurichten.
               Wenn die Kontrakte aufgesetzt sind, so will ich in den nächsten zwei Stunden fort;
-              also kommt mir nach, wenn Ihr wollt! <stage>Ab.</stage></p>
+              also kommt mir nach, wenn Ihr wollt! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#glendower">
             <speaker>GLENDOWER.</speaker>
@@ -4527,7 +4532,8 @@
           </sp>
           <sp who="#bardolph">
             <speaker>BARDOLPH.</speaker>
-            <p>Das will ich, Kapitän; lebt wohl! <stage>Ab.</stage></p>
+            <p>Das will ich, Kapitän; lebt wohl! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
@@ -5179,7 +5185,8 @@
           </sp>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
-            <p>Ei, du bist Gott einen Tod schuldig. <stage>Ab.</stage></p>
+            <p>Ei, du bist Gott einen Tod schuldig. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
@@ -5193,7 +5200,8 @@
               Nein. Hört er sie? Nein. Ist sie also nicht fühlbar? Für die Toten nicht. Aber lebt
               sie nicht etwa mit den Lebenden? Nein. Warum nicht? Die Verleumdung gibt es nicht zu.
               Ich mag sie also nicht. – Ehre ist nichts als ein gemalter Schild beim Leichenzuge,
-              und so endigt mein Katechismus. <stage>Ab.</stage></p>
+              und so endigt mein Katechismus. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -5548,7 +5556,8 @@
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was? Ist dies eine Zeit zu Späßen und Possen? <stage>Wirft ihm die Flasche zu und
-                geht ab.</stage></p>
+                geht ab.</stage>
+            </p>
           </sp>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
@@ -5557,7 +5566,8 @@
               er's nicht, und ich komme ihm freiwillig in den seinen, so soll er eine Karbonade aus
               mir machen. Ich mag nicht solche grinsende Ehre, als Sir Walter hat. Laßt mir das
               Leben! Kann ich's davon bringen, gut; wo nicht, so kommt die Ehre ungebeten, und damit
-              aus. <stage>Ab.</stage></p>
+              aus. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -5830,7 +5840,8 @@
               er nicht eben so gut aufstehen wie ich? Nichts kann mich widerlegen als Augen, und
               hier sieht mich niemand. <stage>Er sticht nach ihm.</stage> Also kommt, Bursch! Mit
               einer neuen Wunde im Schenkel müßt Ihr mit mir fort. <stage>Nimmt Percy auf den
-                Rücken.</stage></p>
+                Rücken.</stage>
+            </p>
             <stage>Prinz Heinrich kommt mit Prinz Johann.</stage>
           </sp>
           <sp who="#prinz_heinrich">

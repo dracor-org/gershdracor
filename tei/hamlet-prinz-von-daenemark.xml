@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3045,8 +3044,7 @@
             <p>Ich will euch sagen, warum; so wird mein Erraten eurer Entdeckung zuvorkommen, und
               eure Verschwiegenheit gegen den König und die Königin braucht keinen Zollbreit zu
               wanken. Ich habe seit kurzem – ich weiß nicht wodurch – alle meine Munterkeit
-              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb
-                n="304"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
+              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb n="304"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
               Vorgebirge scheint; seht ihr, dieser herrliche Baldachin, die Luft, dies wackre
               umwölbende Firmament, dies majestätische Dach mit goldnem Feuer ausgelegt: kommt es
               mir doch nicht anders vor, als ein fauler verpesteter Haufe von Dünsten. Welch ein
@@ -3876,7 +3874,8 @@
               unwissend. Geht mir! nichts weiter davon! es hat mich toll gemacht. Ich sage, wir
               wollen nichts mehr von Heiraten wissen: wer schon verheiratet ist, alle außer einem,
               soll das Leben behalten; die übrigen sollen bleiben, wie sie sind. In ein Kloster!
-              geh! <stage>Hamlet ab.</stage></p>
+              geh! <stage>Hamlet ab.</stage>
+            </p>
           </sp>
           <sp who="#ophelia">
             <speaker>OPHELIA.</speaker>
@@ -4209,8 +4208,7 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>So lange schon? Ei, so mag der Teufel schwarz gehn: ich will einen Zobelpelz tragen.
-              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb
-                n="323"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
+              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb n="323"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
               überleben kann. Aber, bei unsrer lieben Frauen! Kirchen muß er stiften, sonst denkt
               man nicht an ihn: es geht ihm wie dem Steckenpferde, dessen Grabschrift ist:</p>
             <lg>
@@ -4654,8 +4652,7 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Euch eine gesunde Antwort geben. Mein Verstand ist krank. Aber, Herr, solche Antwort,
-              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb
-                n="329"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
+              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb n="329"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
               Ihr –</p>
           </sp>
           <sp who="#rosenkranz">
@@ -4794,7 +4791,8 @@
           </sp>
           <sp who="#polonius">
             <speaker>POLONIUS.</speaker>
-            <p>Das will ich ihr sagen. <stage>Ab.</stage></p>
+            <p>Das will ich ihr sagen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
@@ -5733,8 +5731,7 @@
             <p>Nicht wo er speist, sondern wo er gespeist wird. Eine gewisse Reichsversammlung von
               politischen Würmern hat sich eben an ihn gemacht. So 'n Wurm ist Euch der einzige
               Kaiser, was die Tafel betrifft. Wir mästen alle andere Kreaturen, um uns zu mästen;
-              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb
-                n="346"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
+              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb n="346"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
               Ende vom Liede.</p>
           </sp>
           <sp who="#koenig">
@@ -5815,7 +5812,8 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Meine Mutter: Vater und Mutter sind Mann und Weib; Mann und Weib sind ein Fleisch:
-              also meine Mutter. Kommt, nach England! <stage>Ab.</stage></p>
+              also meine Mutter. Kommt, nach England! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
@@ -6155,7 +6153,8 @@
               zu weinen, wenn ich denke, daß sie ihn in den kalten Boden gelegt haben. Mein Bruder
               soll davon wissen, und so dank' ich Euch für Euren guten Rat. Kommt, meine Kutsche!
               Gute Nacht, Damen! gute Nacht, süße Damen! gute Nacht! gute Nacht!
-              <stage>Ab.</stage></p>
+              <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
@@ -6662,7 +6661,8 @@
               <l>Laßt uns!</l>
             </lg>
             <stage>Bote ab.</stage>
-            <p><stage>Liest.</stage> »Großmächtigster! Wisset, daß ich nackt an Euer Reich
+            <p>
+              <stage>Liest.</stage> »Großmächtigster! Wisset, daß ich nackt an Euer Reich
               ausgesetzt bin. Morgen werde ich um Erlaubnis bitten, vor Euer königliches Auge zu
               treten, und dann werde ich, wenn ich Euch erst um Vergünstigung dazu ersucht, die
               Veranlassung meiner plötzlichen und wunderbaren Rückkehr berichten.</p>
@@ -7368,7 +7368,8 @@
           </sp>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
-            <p>Dieser? <stage>Nimmt den Schädel.</stage></p>
+            <p>Dieser? <stage>Nimmt den Schädel.</stage>
+            </p>
           </sp>
           <sp who="#erster_totengraeber">
             <speaker>ERSTER TOTENGRÄBER.</speaker>
@@ -7400,7 +7401,8 @@
           </sp>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
-            <p>Und so roch! pah! <stage>Wirft den Schädel hin.</stage></p>
+            <p>Und so roch! pah! <stage>Wirft den Schädel hin.</stage>
+            </p>
           </sp>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
@@ -7892,8 +7894,7 @@
             <p>Erlaubt mir, wertester Prinz, zu meiner eignen Bequemlichkeit. Vor kurzem, Herr, ist
               Laertes hier an den Hof gekommen: auf meine Ehre, ein vollkommner Kavalier, von den
               vortrefflichsten Auszeichnungen, von einer sehr gefälligen Unterhaltung und glänzendem
-              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb
-                n="377"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
+              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb n="377"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
               finden, die ein Kavalier nur wünschen kann zu sehn.</p>
           </sp>
           <sp who="#hamlet">
@@ -8032,7 +8033,8 @@
           </sp>
           <sp who="#osrick">
             <speaker>OSRICK.</speaker>
-            <p>Ich empfehle Eurer Hoheit meine Ergebenheit. <stage>Ab.</stage></p>
+            <p>Ich empfehle Eurer Hoheit meine Ergebenheit. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>

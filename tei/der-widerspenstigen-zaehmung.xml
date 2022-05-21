@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -142,13 +141,15 @@
         <sp>
           <speaker>WIRTIN.</speaker>
           <p>Ich weiß schon, was ich zu tun habe: ich muß gehn und den Viertelsmeister holen. –
-              <stage>Ab.</stage></p>
+              <stage>Ab.</stage>
+          </p>
         </sp>
         <sp>
           <speaker>SCHLAU.</speaker>
           <p>Den Viertels-, Fünftels-, Sechstels- oder Achtelsmeister: ich werde ihm nach dem Gesetz
             antworten. Ich weiche keinen Zoll breit, Junge; laßt ihn kommen und in der Güte.
-              <stage>Schläft ein.</stage></p>
+              <stage>Schläft ein.</stage>
+          </p>
           <stage>Ein Lord, der mit seinem Gefolge von der Jagd zurückkehrt, tritt auf.</stage>
         </sp>
         <sp>
@@ -3852,7 +3853,8 @@
           </sp>
           <sp who="#grumio">
             <speaker>GRUMIO.</speaker>
-            <p>Da! <stage>Gibt ihm eine Ohrfeige.</stage></p>
+            <p>Da! <stage>Gibt ihm eine Ohrfeige.</stage>
+            </p>
           </sp>
           <sp who="#curtis">
             <speaker>CURTIS.</speaker>
@@ -5601,12 +5603,14 @@
           </sp>
           <sp who="#vincentio">
             <speaker>VINCENTIO.</speaker>
-            <p>Ist dem wirklich so? <stage>Schlägt ihn.</stage></p>
+            <p>Ist dem wirklich so? <stage>Schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#biondello">
             <speaker>BIONDELLO.</speaker>
             <p>Hülfe! Hülfe! Hier ist ein verrückter Mensch, der mich umbringen will. <stage>Läuft
-                davon.</stage></p>
+                davon.</stage>
+            </p>
           </sp>
           <pb n="137"/>
           <sp who="#magister">

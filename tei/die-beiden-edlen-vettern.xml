@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -51,8 +51,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1374,7 +1373,8 @@
           <sp who="#tochter">
             <speaker>TOCHTER.</speaker>
             <p>Solch ein Anblick ist ein wahrer Genuß. Gott! Wie die Menschen doch verschieden sind.
-                <stage>(Sie gehen ab.)</stage></p>
+                <stage>(Sie gehen ab.)</stage>
+            </p>
           </sp>
         </div>
         <pb n="31"/>
@@ -5792,7 +5792,8 @@
               die andre: »O, dieses Feuer«. Die eine jammert: »Ach, daß ich es hinter dem Vorhang
               that«, und heult dann; die andere verflucht den drängenden Bewerber und das
               Gartenhaus. <stage>(Singt.)</stage> »Mein Glück, mein Stern, dir bleib' ich treu!«
-                <stage>(Ab.)</stage></p>
+                <stage>(Ab.)</stage>
+            </p>
           </sp>
           <sp who="#doctor">
             <speaker>DOCTOR.</speaker>

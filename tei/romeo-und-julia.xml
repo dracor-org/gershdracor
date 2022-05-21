@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -830,12 +829,14 @@
           </sp>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
-            <p>Wart'! Ich kann lesen, Bursch. <stage>Er liest das Verzeichnis.</stage></p>
+            <p>Wart'! Ich kann lesen, Bursch. <stage>Er liest das Verzeichnis.</stage>
+            </p>
             <p>»Signor Martino und seine Frau und Tochter; Graf Anselm und seine reizenden
               Schwestern; die verwitwete Freifrau von Vitruvio; Signor Placentio und seine artigen
               Nichten; Mercutio und sein Bruder Valentio; mein Oheim Capulet seine Frau und Töchter;
               meine schöne Nichte Rosalinde; Livia; Signor Valentio und sein Vetter Tybalt; Lucio
-              und die muntre Helena.« <stage>Gibt das Papier zurück.</stage></p>
+              und die muntre Helena.« <stage>Gibt das Papier zurück.</stage>
+            </p>
             <p>Ein schöner Haufe! Wohin lädst du sie?</p>
           </sp>
           <sp who="#der_bediente">
@@ -866,7 +867,8 @@
             <speaker>DER BEDIENTE.</speaker>
             <p>Nun will ich's Euch ohne Fragen erklären. Meine Herrschaft ist der große, reiche
               Capulet, und wenn Ihr nicht vom Hause der Montagues seid, so bitt' ich Euch kommt,
-              stecht eine Flasche Wein mit aus! Gehabt Euch wohl! <stage>Geht ab.</stage></p>
+              stecht eine Flasche Wein mit aus! Gehabt Euch wohl! <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#benvolio">
             <speaker>BENVOLIO.</speaker>
@@ -2595,8 +2597,7 @@
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Ach, der arme Romeo! Er ist ja schon tot! durchbohrt von einer weißen Dirne schwarzem
-              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="117"
-              /> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
+              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="117"/> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
               Mann darnach, es mit dem Tybalt aufzunehmen?</p>
           </sp>
           <sp who="#benvolio">
@@ -2890,7 +2891,8 @@
           </sp>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
-            <p>Empfiehl mich deinem Fräulein! <stage>Ab.</stage></p>
+            <p>Empfiehl mich deinem Fräulein! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
@@ -6573,7 +6575,7 @@
           </sp>
           <sp who="#capulet">
             <speaker>CAPULET.</speaker>
-            <l>&#60;Was ist's, daß draußen so die Leute schrein?&#62;</l>
+            <l>&lt;Was ist's, daß draußen so die Leute schrein?&gt;</l>
           </sp>
           <sp who="#graefin_capulet">
             <speaker>[GRÄFIN CAPULET].</speaker>

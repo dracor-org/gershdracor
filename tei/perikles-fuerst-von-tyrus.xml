@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -3327,7 +3326,8 @@
           <sp who="#bolz">
             <speaker>BOLZ.</speaker>
             <p>Ja, die hat's ihm schnell versalzen, sie hat einen Braten für Würmer aus ihm gemacht.
-              Aber ich will gehn, und mich auf dem Markte umsehen. <stage>Geht ab.</stage></p>
+              Aber ich will gehn, und mich auf dem Markte umsehen. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#kuppler">
             <speaker>KUPPLER.</speaker>
@@ -3403,7 +3403,8 @@
           </sp>
           <sp who="#bolz">
             <speaker>BOLZ.</speaker>
-            <p>Sogleich soll es ausgeführt werden. <stage>Geht ab.</stage></p>
+            <p>Sogleich soll es ausgeführt werden. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#marina">
             <speaker>MARINA.</speaker>
@@ -4168,7 +4169,8 @@
             <p>Sie beschwört; fort mit ihr! Wäre sie doch nie über meine Schwelle gekommen! Sie ist
               zu unserm Ruin geboren. Du willst den Weg nicht gehen, den alle Menschen geh'n? Ja,
               hat sich was! Du Gericht Keuschheit mit Rosmarin und Lorbeer! <stage>Geht
-              ab.</stage></p>
+              ab.</stage>
+            </p>
           </sp>
           <sp who="#bolz">
             <speaker>BOLZ.</speaker>

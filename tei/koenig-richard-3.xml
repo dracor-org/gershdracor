@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -114,7 +113,8 @@
           <castItem>Elisabeth, Gemahlin König Eduards IV.</castItem>
           <castItem>Margareta, Witwe König Heinrichs VI.</castItem>
           <castItem>Herzogin von York, Mutter König Eduards IV., Clarences und Glosters</castItem>
-          <castItem><pb n="791"/> Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs
+          <castItem>
+            <pb n="791"/> Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs
             VI., nachmals mit Gloster vermählt</castItem>
           <castItem>Eine junge Tochter des Clarence</castItem>
           <castItem>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,

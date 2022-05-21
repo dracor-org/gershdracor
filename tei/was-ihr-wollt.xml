@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -547,7 +546,8 @@
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Ich habe es schon an Euern Fingern abgezählt, daß Ihr keine drei zählen könnt. Nun
-              lasse ich Euch gehn. <stage>Ab.</stage></p>
+              lasse ich Euch gehn. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
@@ -853,7 +853,8 @@
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Stille, Schelm! Nichts weiter davon! Ihr tätet wohl, wenn Ihr Euch vernünftig
-              entschuldigtet. <stage>Ab.</stage></p>
+              entschuldigtet. <stage>Ab.</stage>
+            </p>
             <stage>Olivia und Malvolio treten auf.</stage>
           </sp>
           <sp who="#narr">
@@ -1060,7 +1061,8 @@
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Meinetwegen der Teufel, wenn er Lust hat: was kümmert's mich? Glaubt mir, sag' ich
-              Euch. – Nun, es kommt alles auf eins heraus. <stage>Ab.</stage></p>
+              Euch. – Nun, es kommt alles auf eins heraus. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#olivia">
             <speaker>OLIVIA.</speaker>
@@ -1079,7 +1081,8 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Bis jetzt ist er nur noch toll, Madonna; und der Narr wird auf den Tollen acht geben.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
             <stage>Malvolio kommt zurück.</stage>
           </sp>
           <sp who="#malvolio">
@@ -1126,7 +1129,8 @@
           </sp>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
-            <p>Kammermädchen, das Fräulein ruft. <stage>Ab.</stage></p>
+            <p>Kammermädchen, das Fräulein ruft. <stage>Ab.</stage>
+            </p>
             <stage>Maria kommt zurück.</stage>
           </sp>
           <sp who="#olivia">
@@ -1521,7 +1525,8 @@
               gerettet habt, so verlangt es nicht! Lebt ein für allemal wohl! Mein Herz ist voller
               Zärtlichkeit, und ich habe noch so viel von der Art meiner Mutter an mir, – wenn Ihr
               mir noch den geringsten Anlaß gebt, werden meine Augen davon überfließen. Ich will zum
-              Hofe des Grafen Orsino: lebt wohl! <stage>Ab.</stage></p>
+              Hofe des Grafen Orsino: lebt wohl! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
@@ -1565,7 +1570,8 @@
             <speaker>MALVOLIO.</speaker>
             <p>Hört, Ihr habt ihn ihr ungestüm hingeworfen, und ihr Wille ist, ich soll ihn ebenso
               zurückgeben. Ist es der Mühe wert, sich darnach zu bücken, so liegt er hier vor Euern
-              Augen; wo nicht, so nehm' ihn der erste, der ihn findet. <stage>Ab.</stage></p>
+              Augen; wo nicht, so nehm' ihn der erste, der ihn findet. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
@@ -1895,7 +1901,8 @@
             <speaker>MALVOLIO.</speaker>
             <p>Jungfer Maria, wenn Ihr Euch das Geringste aus der Gnade des Fräuleins machtet, so
               würdet Ihr diesem unfeinen Lebenswandel keinen Vorschub geben. Sie soll es wissen, bei
-              meiner Ehre. <stage>Ab.</stage></p>
+              meiner Ehre. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
@@ -1987,7 +1994,8 @@
             <p>Ein königlicher Spaß, verlaßt euch drauf: ich weiß, mein Tränkchen wird bei ihm
               wirken. Ich will euch beide – der Narr kann den dritten Mann abgeben – auf die Lauer
               stellen, wo er den Brief finden soll. Gebt acht, wie er ihn auslegt! Für heute nacht
-              zu Bett, und laßt euch von der Kurzweil träumen! Adieu! <stage>Ab.</stage></p>
+              zu Bett, und laßt euch von der Kurzweil träumen! Adieu! <stage>Ab.</stage>
+            </p>
           </sp>
           <pb n="755"/>
           <sp who="#junker_tobias">
@@ -2028,7 +2036,8 @@
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Komm, komm! Ich will gebrannten Wein zurecht machen; es ist jetzt zu spät, zu Bette
-              zu gehn. Komm, Junker! komm, Junker! <stage>Ab.</stage></p>
+              zu gehn. Komm, Junker! komm, Junker! <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -2214,7 +2223,8 @@
               Schillertaft, denn dein Gemüt ist ein Opal, der in alle Farben spielt! Leute von
               solcher Beständigkeit sollte man auf die See schicken, damit sie alle Dinge treiben
               und nach allen Winden steuern müßten; denn wenn man nicht weiß, wo man hin will, so
-              kommt man am weitesten. – Gehabt Euch wohl! <stage>Ab.</stage></p>
+              kommt man am weitesten. – Gehabt Euch wohl! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
@@ -2371,7 +2381,8 @@
               Schwank ist! –</p>
             <stage>Die Männer verbergen sich.</stage>
             <p>Lieg' du hier <stage>Sie wirft den Brief hin.</stage> denn dort kommt die Forelle,
-              die mit Kitzeln gefangen werden muß. <stage>Ab.</stage></p>
+              die mit Kitzeln gefangen werden muß. <stage>Ab.</stage>
+            </p>
             <stage>Malvolio kommt.</stage>
           </sp>
           <sp who="#malvolio">
@@ -2675,7 +2686,8 @@
               Hier ist noch eine Nachschrift: »Du kannst nicht umhin, mich zu erraten. Wenn du meine
               Liebe begünstigst, so laß es in deinem Lächeln sichtbar werden. Dein Lächeln steht dir
               wohl, darum lächle stets in meiner Gegenwart, ich bitte dich!« – Götter, ich danke
-              euch! Ich will lächeln, ich will alles tun, was du verlangst. <stage>Ab.</stage></p>
+              euch! Ich will lächeln, ich will alles tun, was du verlangst. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#fabio">
             <speaker>FABIO.</speaker>
@@ -2886,7 +2898,8 @@
             <p>Ich denke, es ist keine große Sache, da ich nur um eine Bettlerin bettle. Cressida
               war eine Bettlerin. Mein Fräulein ist zu Haus, Herr. Ich will ihr bedeuten, woher Ihr
               kommt; wer Ihr seid, und was Ihr wollt, das liegt außer meiner <pb n="768"/> Sphäre;
-              ich könnte sagen: »Horizont«, aber das Wort ist zu abgenutzt. <stage>Ab.</stage></p>
+              ich könnte sagen: »Horizont«, aber das Wort ist zu abgenutzt. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
@@ -3735,7 +3748,8 @@
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Geht alle zum Henker! Ihr seid alle dumme alberne Geschöpfe. Ich gehöre nicht in eure
-              Sphäre: ihr sollt weiter von mir hören. <stage>Ab.</stage></p>
+              Sphäre: ihr sollt weiter von mir hören. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
@@ -3858,7 +3872,8 @@
           </sp>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
-            <p>Nun, wenn's Fluchen gilt, so laßt mich nur machen! <stage>Ab.</stage></p>
+            <p>Nun, wenn's Fluchen gilt, so laßt mich nur machen! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
@@ -4000,7 +4015,8 @@
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Das will ich tun. Signor Fabio, bleibt Ihr bei diesem Herrn, bis ich zurückkomme.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
@@ -4103,7 +4119,8 @@
           </sp>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
-            <p>Gott gebe, daß er sein Wort hält! <stage>Er zieht.</stage></p>
+            <p>Gott gebe, daß er sein Wort hält! <stage>Er zieht.</stage>
+            </p>
             <stage>Antonio kommt.</stage>
           </sp>
           <sp who="#viola">
@@ -4323,7 +4340,8 @@
           </sp>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
-            <p>Wenn ich's nicht tue! – <stage>Ab.</stage></p>
+            <p>Wenn ich's nicht tue! – <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#fabio">
             <speaker>FABIO.</speaker>
@@ -4392,7 +4410,8 @@
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Nun, Herr, treff ich Euch endlich wieder? Da habt Ihr was. <stage>Schlägt den
-                Sebastian.</stage></p>
+                Sebastian.</stage>
+            </p>
           </sp>
           <sp who="#sebastian">
             <speaker>SEBASTIAN</speaker>
@@ -4406,11 +4425,13 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Dies will ich gleich dem gnädigen Fräulein erzählen. Ich wollte nicht für einen
-              Dreier in Eurer Haut stecken. <stage>Ab.</stage></p>
+              Dreier in Eurer Haut stecken. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
-            <p>Gleich, Herr, haltet ein! <stage>Er hält den Sebastian.</stage></p>
+            <p>Gleich, Herr, haltet ein! <stage>Er hält den Sebastian.</stage>
+            </p>
           </sp>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
@@ -4430,12 +4451,14 @@
           <sp who="#sebastian">
             <speaker>SEBASTIAN.</speaker>
             <p>Ich <emph>will</emph> dich los sein. Sag, was willst du nun? Nimmst du's noch weiter
-              mit mir auf, so zieh'! <stage>Er zieht.</stage></p>
+              mit mir auf, so zieh'! <stage>Er zieht.</stage>
+            </p>
           </sp>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Was? was? Nun, so muß ich ein paar Unzen von deinem naseweisen Blut haben. <stage>Er
-                zieht.</stage></p>
+                zieht.</stage>
+            </p>
             <stage>Olivia kommt.</stage>
           </sp>
           <sp who="#olivia">
@@ -4499,7 +4522,8 @@
             <speaker>MARIA.</speaker>
             <p>Nun, sei so gut und leg' diesen Mantel und Kragen an; mach' ihm weis, du seist Ehrn
               Matthias der Pfarrer. Mach' geschwind, ich will unterdessen den Junker rufen.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
@@ -4969,7 +4993,8 @@
             <p>Nun, Herr, eiapopeia Eurer Freigebigkeit, bis ich zurückkomme! Ich gehe, Herr, aber
               Ihr müßt ja nicht denken, mein Verlangen, zu haben, sei Gewinnsucht. Doch, wie Ihr
               sagt, laßt Eure Freigebigkeit nur ein wenig einnicken; ich will sie gleich wieder
-              aufwecken. <stage>Ab.</stage></p>
+              aufwecken. <stage>Ab.</stage>
+            </p>
             <stage>Antonio und Gerichtsdiener kommen.</stage>
           </sp>
           <sp who="#viola">
@@ -5731,7 +5756,8 @@
           </sp>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
-            <p>Ich räche mich an Eurer ganzen Rotte. <stage>Ab.</stage></p>
+            <p>Ich räche mich an Eurer ganzen Rotte. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#olivia">
             <speaker>OLIVIA.</speaker>

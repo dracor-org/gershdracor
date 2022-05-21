@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -987,7 +986,8 @@
           <sp who="#apemantus">
             <speaker>APEMANTUS.</speaker>
             <p>Ich will, wie der Hund, die Hufen des Esels fliehen. <stage>Apemantus geht
-                ab.</stage></p>
+                ab.</stage>
+            </p>
           </sp>
           <sp who="#erster_lord">
             <speaker>ERSTER LORD.</speaker>
@@ -1996,7 +1996,8 @@
           <sp who="#page">
             <speaker>PAGE.</speaker>
             <p>Und du wurdest als Hund geworfen, und wirst verhungern, den Tod des Hundes. Antworte
-              nicht, denn ich bin schon fort. <stage>Der Page geht ab.</stage></p>
+              nicht, denn ich bin schon fort. <stage>Der Page geht ab.</stage>
+            </p>
           </sp>
           <sp who="#apemantus">
             <speaker>APEMANTUS.</speaker>
@@ -2433,7 +2434,8 @@
           <sp who="#lucullus">
             <speaker>LUCULLUS.</speaker>
             <p>Ha, ha! Nun sehe ich, du bist ein Narr, und schickst dich gut für deinen Herrn.
-                <stage>Lucullus geht ab.</stage></p>
+                <stage>Lucullus geht ab.</stage>
+            </p>
           </sp>
           <sp who="#flaminius">
             <speaker>FLAMINIUS.</speaker>

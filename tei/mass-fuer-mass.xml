@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1206,7 +1205,8 @@
           </sp>
           <sp who="#elbogen">
             <speaker>ELBOGEN.</speaker>
-            <p><emph>Der</emph>, gnädiger Herr? Ein Bierzapfer, Herr; ein Stück von einem Kuppler;
+            <p>
+              <emph>Der</emph>, gnädiger Herr? Ein Bierzapfer, Herr; ein Stück von einem Kuppler;
               dient einem schlechten Weibsbilde, deren Haus, wie es heißt, in den Vorstädten
               eingerissen ist: und nun macht sie Prozession von einem Badehause, und das ist auch
               ein recht schlechtes Haus.</p>
@@ -1614,7 +1614,8 @@
             <speaker>POMPEJUS.</speaker>
             <p>Ich dank' Eu'r Herrlichkeit für Euern guten Rat; aber folgen werd' ich ihm, wie
               Fleisch und Schicksal es fügen. Mich peitschen? Peitschen laßt den Kärrner seine
-              Mähre: Wer peitscht aus dem Beruf je einen Mann von Ehre? <stage>Ab.</stage></p>
+              Mähre: Wer peitscht aus dem Beruf je einen Mann von Ehre? <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#escalus">
             <speaker>ESCALUS.</speaker>
@@ -3247,7 +3248,8 @@
           </sp>
           <sp who="#schliesser">
             <speaker>SCHLIESSER.</speaker>
-            <p>Es sei so. – <emph>Geht ab.</emph></p>
+            <p>Es sei so. – <emph>Geht ab.</emph>
+            </p>
           </sp>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
@@ -3255,8 +3257,7 @@
               Schönheit gering geachtet, läßt auch der Schönheit nicht lange ihre Güte; aber
               Sittsamkeit, die Seele Eurer Züge, wird Euch auch immer schön erhalten. Von dem
               Angriff, den Angelo auf Euch versucht, hat mich der Zufall in Kenntnis gesetzt, und
-              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="254"
-              /> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
+              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="254"/> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
               zufrieden zu stellen und Euren Bruder zu retten?</p>
           </sp>
           <sp who="#isabella">
@@ -3727,7 +3728,8 @@
               Gebet! Der Herzog, sage ich dir, verschmäht auch Fleisch am Freitag nicht. Er ist
               jetzt über die Zeit hinaus, und doch sag' ich dir, er würde eine Bettlerin schnäbeln,
               und röche sie nach Schwarzbrot und Knoblauch. Sag nur, ich hätte dir's gesagt! Leb
-              wohl! – <stage>Ab.</stage></p>
+              wohl! – <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
@@ -4144,7 +4146,8 @@
           <sp who="#schliesser">
             <speaker>SCHLIESSER.</speaker>
             <p>Ach, geht nur! Ihr wiegt gleich viel; eine Feder wird auf der Waage den Ausschlag
-              geben. <stage>Ab.</stage></p>
+              geben. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
@@ -4158,8 +4161,7 @@
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Das Malen, Herr, habe ich sagen hören, sei eine Kunst; und da die Huren, Herr, unter
-              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb
-                n="269"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
+              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb n="269"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
               und wenn Ihr mich hängen wolltet –, das kann ich nicht einsehn.</p>
           </sp>
           <sp who="#grauslich">
@@ -4349,7 +4351,8 @@
             <p>Mein Herr sendet Euch diese Zeilen, und durch mich den mündlichen Auftrag, daß Ihr
               nicht von dem kleinsten Punkt derselben abweichen sollt, weder in Zeit, Inhalt, noch
               sonst einem Umstand. – Guten Morgen, denn ich denke, der Tag bricht schon an.
-                <stage>Bote geht ab.</stage></p>
+                <stage>Bote geht ab.</stage>
+            </p>
           </sp>
           <sp who="#schliesser">
             <speaker>SCHLIESSER.</speaker>
@@ -4654,7 +4657,8 @@
           <sp who="#bernardin">
             <speaker>BERNARDIN.</speaker>
             <p>Nicht ein Wort! Wenn Ihr mir was zu sagen habt, kommt in mein Gefängnis, denn ich
-              will heut keinen Schritt heraustun. <stage>Ab.</stage></p>
+              will heut keinen Schritt heraustun. <stage>Ab.</stage>
+            </p>
             <stage>Der Schließer kommt zurück.</stage>
           </sp>
           <sp who="#herzog">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -303,7 +302,8 @@
           </sp>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
-            <p>Don Pedro nähert sich eben. <stage>Geht ab.</stage></p>
+            <p>Don Pedro nähert sich eben. <stage>Geht ab.</stage>
+            </p>
             <stage>Don Pedro, Balthasar, Don Juan, Claudio und Benedikt treten auf.</stage>
           </sp>
           <sp who="#don_pedro">
@@ -644,8 +644,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Gut, andre Zeiten, andre Gedanken. Für jetzt, lieber Signor Benedikt, geht hinein zu
-              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="562"
-              /> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
+              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="562"/> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -664,7 +663,8 @@
             <p>Nun, spottet nicht, spottet nicht: der Inhalt Eurer Gespräche ist zuweilen mit Lappen
               verbrämt, und die Verbrämung nur sehr schwach aufgenäht: eh' Ihr so alte Späße wieder
               hervorsucht, prüft Euer Gewissen, und somit empfehle ich mich Euch. <stage>Benedikt
-                ab.</stage></p>
+                ab.</stage>
+            </p>
           </sp>
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
@@ -1372,7 +1372,8 @@
           </sp>
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
-            <p>Wenn Ihr denn nicht wollt, so gehe ich. <stage>Ab.</stage></p>
+            <p>Wenn Ihr denn nicht wollt, so gehe ich. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -1474,7 +1475,8 @@
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
             <p>O Himmel, mein Fürst, hier habt Ihr ein Gericht, das nicht für mich ist; ich kann
-              diese gnädige Frau Zunge nicht vertragen. <stage>Ab.</stage></p>
+              diese gnädige Frau Zunge nicht vertragen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
@@ -1521,8 +1523,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>In Wahrheit, Fräulein, diese heraldische Auslegung trifft zu; obgleich ich schwören
-              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb
-                n="576"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
+              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb n="576"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
               ihrem Vater an und habe seine Einwilligung erhalten. Bestimme jetzt deinen
               Hochzeitstag, und Gott schenke dir seinen Segen!</p>
           </sp>
@@ -1605,7 +1606,8 @@
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Oh, ich bitte tausendmal um Vergebung, Oheim; mit Eurer Hoheit Erlaubnis.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
@@ -1687,7 +1689,8 @@
               Beatricen verliebt werden soll. Wenn wir das zustande bringen, so ist Cupido kein
               Bogenschütze mehr; sein Ruhm wird uns zu teil werden, denn dann sind wir die einzigen
               wahren Liebesgötter. Kommt mit mir hinein, ich will euch meinen Plan sagen.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -1952,8 +1955,7 @@
             <speaker>BENEDIKT</speaker>
             <stage>beiseit.</stage>
             <p>Wär's ein Hund gewesen, der so geheult hätte, sie hätten ihn aufgehängt. Nun, Gott
-              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb
-                n="583"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
+              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb n="583"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO</speaker>
@@ -2256,7 +2258,8 @@
             <speaker>BEATRICE.</speaker>
             <p>Ja, grade so viel, als Ihr auf eine Messerspitze nehmen könnt, um's einer Dohle
               beizubringen. Ihr habt wohl keinen Appetit, Signor? So gehabt Euch wohl!
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -2265,7 +2268,8 @@
               Ihr Euch bemüht, mir zu danken«: das heißt so viel als: jede Mühe, die ich für Euch
               unternehme, ist so leicht als ein Dank. Wenn ich nicht Mitleid für sie fühle, so bin
               ich ein Schurke; wenn ich sie nicht liebe, so bin ich ein Jude. Ich will gleich gehn
-              und mir ihr Bildnis verschaffen. <stage>Ab.</stage></p>
+              und mir ihr Bildnis verschaffen. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
       </div>
@@ -3180,7 +3184,8 @@
           </sp>
           <sp who="#ursula">
             <speaker>URSULA.</speaker>
-            <p>Sehr wohl. <stage>Ab.</stage></p>
+            <p>Sehr wohl. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
@@ -3203,8 +3208,7 @@
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <p>Euren neuen Aufsatz finde ich allerliebst, wenn das Haar nur um einen Gedanken
-              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb
-                n="601"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
+              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb n="601"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
               Wesens macht.</p>
           </sp>
           <sp who="#hero">
@@ -3480,7 +3484,8 @@
           </sp>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
-            <p>Ich komme gleich, ich bin fertig. <stage>Ab.</stage></p>
+            <p>Ich komme gleich, ich bin fertig. <stage>Ab.</stage>
+            </p>
           </sp>
           <pb n="605"/>
           <sp who="#holzapfel">
@@ -4423,7 +4428,8 @@
               heimlich weggestohlen; Hero ward auf diese Weise angeklagt, auf eben diese Weise
               verstoßen, und ist aus Gram darüber plötzlich gestorben. <pb n="618"/> Herr Konstabel,
               laßt die beiden Leute binden und in Leonatos Haus führen, ich will voran gehn und ihm
-              das Verhör zeigen. <stage>Ab.</stage></p>
+              das Verhör zeigen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
@@ -4900,7 +4906,8 @@
               entziehn. Euer Bruder, der Bastard, ist aus Messina entflohen; ihr beide habt ein
               liebes, unschuldiges Mädchen ums Leben gebracht. Was diesen Don Ohnebart hier
               betrifft, so werden er und ich noch mit einander sprechen, und bis dahin mag er in
-              Frieden ziehn. <stage>Ab.</stage></p>
+              Frieden ziehn. <stage>Ab.</stage>
+            </p>
           </sp>
           <pb n="625"/>
           <sp who="#don_pedro">
@@ -5243,7 +5250,8 @@
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <p>Nun, ich will sie rufen, ich denke, sie hat ihre Füße bei der Hand.
-                <stage>[Ab.]</stage></p>
+                <stage>[Ab.]</stage>
+            </p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -5277,7 +5285,8 @@
           </sp>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
-            <p><emph>Dahin</emph>, habt Ihr jetzt eben gesagt, also lebt nun wohl! Doch eh' ich
+            <p>
+              <emph>Dahin</emph>, habt Ihr jetzt eben gesagt, also lebt nun wohl! Doch eh' ich
               gehe, sagt mir das, weshalb ich kam; laßt mich hören, was zwischen Euch und Claudio
               vorgefallen ist.</p>
           </sp>
@@ -5378,7 +5387,8 @@
             <speaker>BENEDIKT.</speaker>
             <p>Ich will in deinem Herzen leben, in deinem Schoß sterben, in deinen Augen begraben
               werden, und über das alles will ich mit dir zu deinem Oheim gehn.
-              <stage>Ab.</stage></p>
+              <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -5770,7 +5780,8 @@
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
-            <p>Still! ich stopfe dir den Mund. <stage>Küßt sie.</stage></p>
+            <p>Still! ich stopfe dir den Mund. <stage>Küßt sie.</stage>
+            </p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>

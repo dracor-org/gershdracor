@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1077,8 +1076,7 @@
           <sp who="#bursch">
             <speaker>BURSCH.</speaker>
             <p>Herr Wirt Pistol, Ihr müßt zu meinem Herrn kommen, – Ihr auch, Wirtin; – er ist sehr
-              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb
-                n="406"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
+              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb n="406"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
               schlimm.</p>
           </sp>
           <sp who="#bardolph">
@@ -1645,7 +1643,8 @@
           </sp>
           <sp who="#bardolph">
             <speaker>BARDOLPH.</speaker>
-            <p>Leb wohl, Wirtin. <stage>Küßt sie.</stage></p>
+            <p>Leb wohl, Wirtin. <stage>Küßt sie.</stage>
+            </p>
           </sp>
           <sp who="#nym">
             <speaker>NYM.</speaker>
@@ -1657,7 +1656,8 @@
           </sp>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
-            <p>Leb wohl! Adieu! <stage>Ab.</stage></p>
+            <p>Leb wohl! Adieu! <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="415"/>
@@ -2107,7 +2107,8 @@
               ich aus der Tasche einesandern nehmen sollte, um es in meine zu stecken: das hieße
               geradezu Unrecht einstecken. Ich muß sie verlassen und mir einen bessern Dienst
               suchen: ihre Schelmerei ist meinem schwachen Magen zuwider, ich muß sie von mir geben.
-                <stage>Bursch ab.</stage></p>
+                <stage>Bursch ab.</stage>
+            </p>
             <stage>Fluellen kommt zurück, und Gower nach ihm.</stage>
           </sp>
           <pb n="424"/>
@@ -2356,7 +2357,8 @@
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De hand.</emph> Et les doigts?</p>
+            <p>
+              <emph>De hand.</emph> Et les doigts?</p>
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
@@ -2375,8 +2377,10 @@
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De nails.</emph> Ecoutez! dites-moi, si je parle bien: <emph>de hand, de
-                fingres, de nails.</emph></p>
+            <p>
+              <emph>De nails.</emph> Ecoutez! dites-moi, si je parle bien: <emph>de hand, de
+                fingres, de nails.</emph>
+            </p>
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
@@ -2388,7 +2392,8 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De arm</emph>, madame.</p>
+            <p>
+              <emph>De arm</emph>, madame.</p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
@@ -2396,12 +2401,15 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De elbow.</emph></p>
+            <p>
+              <emph>De elbow.</emph>
+            </p>
           </sp>
           <pb n="429"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De elbow.</emph> Je me fais la répétition de tous les mots que vous m'avez
+            <p>
+              <emph>De elbow.</emph> Je me fais la répétition de tous les mots que vous m'avez
               appris dès à present.</p>
           </sp>
           <sp who="#alice">
@@ -2415,7 +2423,8 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De elbow</emph>, madame.</p>
+            <p>
+              <emph>De elbow</emph>, madame.</p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
@@ -2423,19 +2432,24 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De neck</emph>, madame.</p>
+            <p>
+              <emph>De neck</emph>, madame.</p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De neck</emph>, et le menton?</p>
+            <p>
+              <emph>De neck</emph>, et le menton?</p>
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De chin.</emph></p>
+            <p>
+              <emph>De chin.</emph>
+            </p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De sin. Le cou, de neck</emph>; le menton, <emph>de sin</emph>.</p>
+            <p>
+              <emph>De sin. Le cou, de neck</emph>; le menton, <emph>de sin</emph>.</p>
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
@@ -2457,11 +2471,13 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De nails</emph>, madame.</p>
+            <p>
+              <emph>De nails</emph>, madame.</p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De nails, de arme, de ilbow</emph>, –</p>
+            <p>
+              <emph>De nails, de arme, de ilbow</emph>, –</p>
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
@@ -2474,11 +2490,13 @@
           </sp>
           <sp who="#alice">
             <speaker>ALICE.</speaker>
-            <p><emph>De foot</emph>, madame, et <emph>de con</emph>.</p>
+            <p>
+              <emph>De foot</emph>, madame, et <emph>de con</emph>.</p>
           </sp>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
-            <p><emph>De foot</emph> et <emph>de con</emph>? O seigneur Dieu! Ce sont des mots d'un
+            <p>
+              <emph>De foot</emph> et <emph>de con</emph>? O seigneur Dieu! Ce sont des mots d'un
               son mauvais, corrompu, grossier et impudique, et dont les dames d'honneur ne sauraient
               se servir; je ne voudrais prononcer ces mots devant les seigneurs de France pour tout
               le monde. Il faut <emph>de foot</emph> et <emph>de con</emph> néanmoins. Je réciterai
@@ -2754,11 +2772,12 @@
           </sp>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
-            <p>Die span'sche Feige. <stage>Pistol ab.</stage></p>
+            <p>Die span'sche Feige. <stage>Pistol ab.</stage>
+            </p>
           </sp>
           <sp who="#fluellen">
-            <speaker>&#60;FLUELLEN.</speaker>
-            <p>Sehr wohl.&#62;</p>
+            <speaker>&lt;FLUELLEN.</speaker>
+            <p>Sehr wohl.&gt;</p>
           </sp>
           <sp who="#gower">
             <speaker>GOWER.</speaker>
@@ -3120,7 +3139,8 @@
           </sp>
           <sp who="#dauphin">
             <speaker>DAUPHIN.</speaker>
-            <p>Es ist Mitternacht, ich will gehn und meine Waffen anlegen. <stage>Ab.</stage></p>
+            <p>Es ist Mitternacht, ich will gehn und meine Waffen anlegen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#orleans">
             <speaker>ORLEANS.</speaker>
@@ -3263,8 +3283,7 @@
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Ganz recht, und die Menschen sympathisieren mit den Bullenbeißern im kräftigen und
-              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="442"
-              /> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
+              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="442"/> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
               fressen wie Wölfe und fechten wie Teufel.</p>
           </sp>
           <sp who="#orleans">
@@ -3540,8 +3559,7 @@
             <p>Nun, im Namen Jessu Christi, sprecht doch leiser! Es ist das Allerverwunderlichste in
               der sämtlichen Welt, wenn die wahren und uralten Prifilegien und Gesetze des Krieges
               nicht beobachtet sein. Wenn Ihr Euch nur die Mühe nehmen wolltet, die Kriege von
-              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb
-                n="447"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
+              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb n="447"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
               stehe Euch dafür, Ihr werdet finden daß die Cärimonien des Krieges, und die Sorgfalt
               in selbigem, und die Sitten in selbigem, und die Nüchternheit in selbigem, und die
               Bescheidenheit in selbigem ganz anders sein.</p>
@@ -3616,8 +3634,7 @@
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Nein, und er muß es auch nicht tun. Denn, ob ich es Euch schon sage, ich denke, der
-              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb
-                n="448"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
+              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb n="448"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
               menschlichen Bedingungen; seine Zeremonien bei Seite gesetzt, erscheint er in seiner
               Nacktheit nur als ein Mensch, und wiewohl seine Neigungen einen höheren Schwung nehmen
               als unsre, so senken sie sich doch mit demselben Fittig, wenn sie sich senken. Daher
@@ -4499,7 +4516,8 @@
               doch sind sie beide aufgehängt: und das widerführe ihm auch, wenn er irgend was dreist
               zu stehlen wagte. Ich muß bei den Troßbuben, beim Gepäck unsers Lagers bleiben: der
               Franzose könnte eine gute Beute haben, wenn er es wüßte; es sind nichts wie Jungen da,
-              um es zu bewachen. <stage>Ab.</stage></p>
+              um es zu bewachen. <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -4892,8 +4910,7 @@
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Mit Euer Majestät Erlaubnis, ein Schelm, der mir letzte Nacht was vorschwadronierte;
-              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb
-                n="469"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
+              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb n="469"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
               Handschuh an seiner Mütze zu sehen kriege (und er schwur, so wahr er ein Soldat wäre,
               er wollte ihn tragen, wenn er am Leben bliebe), so will ich ihn ihm tüchtig herunter
               schlagen.</p>
@@ -4948,7 +4965,8 @@
           </sp>
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
-            <p>Das will ich, gnädigster Herr. <stage>Ab.</stage></p>
+            <p>Das will ich, gnädigster Herr. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
@@ -4979,7 +4997,8 @@
           </sp>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
-            <p>Ich will ihn holen. <stage>Ab.</stage></p>
+            <p>Ich will ihn holen. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
@@ -5028,7 +5047,8 @@
           </sp>
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
-            <p>Den da kenne ich, und so fodre ich ihn zurück. <stage>Schlägt ihn.</stage></p>
+            <p>Den da kenne ich, und so fodre ich ihn zurück. <stage>Schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
@@ -5074,10 +5094,10 @@
             <l>Nun, was gibt's hier?</l>
           </sp>
           <sp who="#fluellen">
-            <speaker>&#60;FLUELLEN.</speaker>
+            <speaker>&lt;FLUELLEN.</speaker>
             <p>Gnädigster Herr, hier ist ein Schelm und ein Verräter, der, sehen Euer Gnaden, nach
               dem Handschuh geschlagen hat, den Eure Majestät vom Helme des Alençon nehmen
-              tat.&#62;</p>
+              tat.&gt;</p>
           </sp>
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
@@ -5150,8 +5170,7 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Es geschieht mit gutem Willen; ich sage Euch, Ihr könnt Eure Schuh' damit flicken
-              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb
-                n="473"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
+              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb n="473"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
               wechseln.</p>
             <stage>Ein englischer Herold tritt auf.</stage>
           </sp>
@@ -5448,7 +5467,8 @@
             <speaker>FLUELLEN.</speaker>
             <p>Wenn ich Euch irgend was schuldig bin, so will ich es in Priegeln bezahlen: Ihr sollt
               ein Holzhändler werden und nichts als Priegel von mir kaufen. Gott geleit' Euch, und
-              erhalte Euch, und heile Euren Kopf! <stage>Ab.</stage></p>
+              erhalte Euch, und heile Euren Kopf! <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
@@ -5464,7 +5484,8 @@
               nicht nach seinem eigentümlichen Schnitte sprechen kann, so könne er auch keinen
               englischen Prügel handhaben. Ihr findet es anders: lernt daher für die Zukunft von
               einer wäl'schen Züchtigung eine gute englische Gesinnung. Gehabt Euch wohl!
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1986,7 +1985,8 @@
             <speaker>SIMPCOX.</speaker>
             <p>Ach, Herr, was soll ich tun? Ich bin nicht imstande zu stehen. <stage>Nachdem ihn der
                 Büttel einmal geschlagen hat, springt er über den Schemel und läuft dovon; und das
-                Volk läuft nach und schreit: »Ein Wunder!«</stage></p>
+                Volk läuft nach und schreit: »Ein Wunder!«</stage>
+            </p>
           </sp>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
@@ -2487,7 +2487,8 @@
           <sp who="#horner">
             <speaker>HORNER.</speaker>
             <p>Halt, Peter, halt! Ich bekenne, ich bekenne meine Verräterei.
-              <stage>Stirbt.</stage></p>
+              <stage>Stirbt.</stage>
+            </p>
           </sp>
           <sp who="#york">
             <speaker>YORK.</speaker>
@@ -5770,7 +5771,8 @@
               und der Hölle zum Trotz will ich recht mitten durch euch hindurch, und ich rufe den
               Himmel und die Ehre zu Zeugen, daß kein Mangel an Entschlossenheit in mir, sondern
               bloß der schnöde und schimpfliche Verrat meiner Anhänger mich auf flüchtigen Fuß
-              setzt. <stage>Ab.</stage></p>
+              setzt. <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#buckingham">
             <speaker>BUCKINGHAM.</speaker>
@@ -6007,7 +6009,8 @@
             <p>Iden, leb wohl und sei stolz auf deinen Sieg. Sage den Kentern von meinetwegen, daß
               sie ihren besten Mann verloren haben, und ermahne alle Welt, feige Memmen zu sein:
               denn ich, der ich mich nie vor keinem gefürchtet, muß dem Hunger erliegen, nicht der
-              Tapferkeit. <stage>Stirbt.</stage></p>
+              Tapferkeit. <stage>Stirbt.</stage>
+            </p>
           </sp>
           <sp who="#iden">
             <speaker>IDEN.</speaker>

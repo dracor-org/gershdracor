@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -44,8 +44,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -219,8 +218,7 @@
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Ja, aufs Säuern; aber nun kommt noch in dem Wort <emph>hernach</emph> das Kneten, das
-              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb
-                n="8"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
+              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb n="8"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
               verbrennen.</p>
           </sp>
           <sp who="#troilus">
@@ -341,7 +339,8 @@
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Bitt' Euch, laßt mich in Frieden. Ich lasse alles, wie ich's gefunden, und damit gut.
-                <stage>Pandarus ab.</stage></p>
+                <stage>Pandarus ab.</stage>
+            </p>
             <stage>Es wird zum Kampf geblasen.</stage>
           </sp>
           <sp who="#troilus">
@@ -704,8 +703,7 @@
             <speaker>CRESSIDA.</speaker>
             <p>So hätte Troilus denn zu viel Farbe; wenn sie sein Kolorit <emph>über</emph> das des
               andern stellt, ist er höher an Farbe; wenn nun Paris rot genug ist und Troilus
-              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb
-                n="14"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
+              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb n="14"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
@@ -1090,7 +1088,8 @@
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
-            <p>Nun ja! Ein Liebespfand von Troilus. <stage>Geht ab.</stage></p>
+            <p>Nun ja! Ein Liebespfand von Troilus. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
@@ -1820,7 +1819,8 @@
           <sp who="#ajax">
             <speaker>AJAX.</speaker>
             <p>Du Brut einer Wolfspetze, kannst du nicht hören? So fühle denn! – <stage>Schlägt
-                ihn.</stage></p>
+                ihn.</stage>
+            </p>
           </sp>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
@@ -1892,7 +1892,8 @@
           </sp>
           <sp who="#ajax">
             <speaker>AJAX.</speaker>
-            <p>Du verdammter Köter! – <stage>Schlägt ihn.</stage></p>
+            <p>Du verdammter Köter! – <stage>Schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
@@ -1921,7 +1922,8 @@
           </sp>
           <sp who="#ajax">
             <speaker>AJAX.</speaker>
-            <p>Köter! <stage>Schlägt ihn.</stage></p>
+            <p>Köter! <stage>Schlägt ihn.</stage>
+            </p>
           </sp>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
@@ -2112,7 +2114,8 @@
             <speaker>THERSITES.</speaker>
             <p>Ich will euch gehängt sehn wie dumme Teufel, ehe ich je wieder in euer Zelt komme;
               ich werde mich zu Leuten halten, die ihre fünf Sinne haben, und die Zunft der Narren
-              verlassen. <stage>Geht ab.</stage></p>
+              verlassen. <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#patroklus">
             <speaker>PATROKLUS.</speaker>
@@ -2637,7 +2640,8 @@
           <sp who="#achilles">
             <speaker>ACHILLES.</speaker>
             <p>Patroklus, ich will mit niemand reden. Komm mit mir hinein, Thersites! <stage>Geht
-                ab.</stage></p>
+                ab.</stage>
+            </p>
           </sp>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
@@ -2645,7 +2649,8 @@
               Geschichte dreht sich um einen Hahnrei und eine Hure; ein hübscher Gegenstand, um
               Parteiung und Ehrgeiz aufzuhetzen und sich daran zu Tode zu bluten: daß doch der
               Aussatz das Gesindel fräße! Und Krieg und Lüderlichkeit alle zusammen verdürbe! –
-                <stage>Geht ab.</stage></p>
+                <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#agamemnon">
             <speaker>AGAMEMNON.</speaker>
@@ -2683,7 +2688,8 @@
             <p>Ja doch, löwenkrank; krank an einem stolzen Herzen. Ihr mögt's Melancholie nennen,
               wenn Ihr höflich von dem Manne reden wollt; aber, bei meinem Haupt, 's ist Stolz:
               aber, auf was? Auf was? Er soll uns einmal einen Grund angeben! Ein Wort, mein Fürst!
-                <stage>Nimmt Agamemnon auf die Seite</stage></p>
+                <stage>Nimmt Agamemnon auf die Seite</stage>
+            </p>
           </sp>
           <sp who="#nestor">
             <speaker>NESTOR.</speaker>
@@ -3590,7 +3596,8 @@
             <p>Sie macht sich fertig: gleich wird sie hier sein; nun seid gescheut! Sie errötet und
               holt so kurz Atem, als wäre sie von einem Gespenst erschreckt. Ich will sie holen. Es
               ist die niedlichste Spitzbübin: sie atmet so kurz wie ein eben gefangner Sperling.
-                <stage>Geht ab.</stage></p>
+                <stage>Geht ab.</stage>
+            </p>
           </sp>
           <pb n="55"/>
           <sp who="#troilus">
@@ -3626,7 +3633,8 @@
             <p>Worte zahlen keine Schulden; gebt ihr Taten; aber sie wird Euch auch um die Taten
               bringen, wenn sie Eure Tätigkeit in Anspruch nimmt. – Was, wieder geschnäbelt? Hier
               heißt's, »zur Bekräftigung dessen von beiden Parteien wechselseitig« – Kommt hinein,
-              kommt hinein, ich will ein Feuer machen lassen. <stage>Pandarus geht ab.</stage></p>
+              kommt hinein, ich will ein Feuer machen lassen. <stage>Pandarus geht ab.</stage>
+            </p>
           </sp>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
@@ -4501,8 +4509,7 @@
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <p>Nein, in eben solcher Verstimmung. Wie viel Musik in ihm nachbleibt, wenn Hektor ihm
-              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb
-                n="69"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
+              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb n="69"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
               machen.</p>
           </sp>
           <sp who="#achilles">
@@ -4526,7 +4533,8 @@
             <speaker>THERSITES.</speaker>
             <p>Ich wollte, der Born Eures Geistes wäre wieder klar, daß ich einen Esel daraus
               tränken könnte. Wär' ich doch lieber eine Laus in Schafwolle, als solche tapfre
-              Dummheit! <stage>Er geht ab.</stage></p>
+              Dummheit! <stage>Er geht ab.</stage>
+            </p>
           </sp>
         </div>
       </div>
@@ -6495,7 +6503,8 @@
               Umwälzung ankündigt; die Sonne borgt vom Monde, wenn Diomed Wort hält. Ich will lieber
               den Hektor nicht sehn, als diesem nicht nachspüren; man sagt, er hält sich eine
               trojanische Metze, und der Verräter Kalchas leiht ihm sein Zelt; ich will ihm nach.
-              Nichts als Unzucht! Lauter lüderliche Spitzbuben! <stage>Geht ab.</stage></p>
+              Nichts als Unzucht! Lauter lüderliche Spitzbuben! <stage>Geht ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -6766,7 +6775,8 @@
           </sp>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
-            <p>Ich hole dir's. <stage>Cressida geht ab.</stage></p>
+            <p>Ich hole dir's. <stage>Cressida geht ab.</stage>
+            </p>
           </sp>
           <sp who="#ulysses">
             <speaker>ULYSSES.</speaker>
@@ -7159,7 +7169,8 @@
               wollt' ich – dem wollt' ich prophezeien! Patroklus gibt mir, was ich will, wenn ich
               ihm von dieser Hure sage: kein Papagei tut mehr für eine Mandel, als er für eine
               willige Metze. Unzucht, Unzucht; lauter Krieg und Lüderlichkeit; die bleiben immer in
-              der Mode. Daß ein brennender Teufel sie holte! – <stage>Er geht ab.</stage></p>
+              der Mode. Daß ein brennender Teufel sie holte! – <stage>Er geht ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="101"/>
@@ -7553,7 +7564,8 @@
           </sp>
           <sp who="#hektor">
             <speaker>HEKTOR.</speaker>
-            <p>Ich glaube dir, drum lebe! <stage>Hektor geht ab.</stage></p>
+            <p>Ich glaube dir, drum lebe! <stage>Hektor geht ab.</stage>
+            </p>
           </sp>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
@@ -7838,7 +7850,8 @@
           </sp>
           <sp who="#margarelon">
             <speaker>MARGARELON.</speaker>
-            <p>Hol' dich der Teufel, Feighard! – <stage>Gehn ab.</stage></p>
+            <p>Hol' dich der Teufel, Feighard! – <stage>Gehn ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="110"/>

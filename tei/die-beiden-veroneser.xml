@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -42,8 +42,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1181,8 +1180,7 @@
               Geschmack zu finden wie ein Rotkehlchen; allein einherzuschreiten wie ein Pestkranker;
               zu ächzen wie ein Schulknabe, der sein ABC verloren hat; zu weinen wie eine junge
               Dirne, die ihre Großmutter begrub; zu fasten wie einer, der in der Hungerkur liegt; zu
-              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb
-                n="163"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
+              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb n="163"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
               krähen; wenn Ihr einher ginget, wie ein Löwe zu wandeln; wenn Ihr fastetet, war es
               gleich nach dem Essen; wenn Ihr finster blicktet, war es, weil Euch Geld fehlte; und
               jetzt seid Ihr von Eurer Dame verwandelt, daß, wenn ich Euch ansehe, ich Euch kaum für
@@ -3556,13 +3554,15 @@
           <sp who="#flink">
             <speaker>FLINK.</speaker>
             <p>Warum sagtest du mir das nicht früher? Hol' der Henker deinen Liebesbrief!
-                <stage>Geht ab.</stage></p>
+                <stage>Geht ab.</stage>
+            </p>
           </sp>
           <sp who="#lanz">
             <speaker>LANZ.</speaker>
             <p>Jetzt kriegt er Prügel, weil er meinen Brief gelesen hat; ein unverschämter Kerl, der
               sich in Geheimnisse drängen will! – Ich will hinterher und an des Bengels Züchtigung
-              meine Freude haben. <stage>Geht ab.</stage></p>
+              meine Freude haben. <stage>Geht ab.</stage>
+            </p>
           </sp>
         </div>
         <div type="scene">
@@ -4549,8 +4549,7 @@
               Geschenk von meinem Herrn zu überbringen, und kaum bin ich in den Speisesaal getreten,
               so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel. Oh, es ist ein
               böses Ding, wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß! Ich
-              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb
-                n="205"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
+              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb n="205"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
               nicht mehr Verstand gehabt hätte, als er, und den Fehler auf mich genommen, den er
               beging, so glaube ich wahrhaftig, er wäre dafür gehängt. So wahr ich lebe, sie hätten
               ihn dafür hingerichtet! Urteilt selbst: da schiebt er sich ein in die Gesellschaft von

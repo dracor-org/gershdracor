@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
@@ -43,8 +43,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -1177,8 +1176,7 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Schlagt Euch rechter Hand an der nächsten Ecke, aber bei der allernächsten Ecke
-              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb
-                n="398"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
+              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="398"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
               herum.</p>
           </sp>
           <sp who="#gobbo">
@@ -1545,7 +1543,8 @@
             <p>Adieu! – Tränen müssen meine Zunge vertreten, allerschönste Heidin! allerliebste
               Jüdin! Wenn ein Christ nicht zum Schelm an dir wird und dich bekommt, so trügt mich
               alles. Aber adieu! Diese törichten Tropfen erweichen meinen männlichen Mut allzusehr.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#jessica">
             <speaker>JESSICA.</speaker>
@@ -2638,7 +2637,8 @@
               vierzehn Tage vorher. Ich will sein Herz haben, wenn er verfällt; denn wenn er aus
               Venedig weg ist, so kann ich Handel treiben, wie ich will. Geh, geh, Tubal, und triff
               mich bei unsrer Synagoge! Geh, guter Tubal! bei unsrer Synagoge, Tubal!
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
         </div>
         <pb n="420"/>
@@ -3561,7 +3561,8 @@
             <speaker>LANZELOT.</speaker>
             <p>Der Tisch, Herr, soll aufgetragen werden, das Essen soll gedeckt werden; und was Euer
               Hereinkommen zur Mahlzeit betrifft, dabei laßt Lust und Laune walten.
-                <stage>Ab.</stage></p>
+                <stage>Ab.</stage>
+            </p>
           </sp>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
@@ -4928,7 +4929,8 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Sagt ihm, daß ein Postillon von meinem Herrn gekommen ist, der sein Horn voll guter
-              Neuigkeiten hat: mein Herr wird vor morgens hier sein. <stage>Lanzelot ab.</stage></p>
+              Neuigkeiten hat: mein Herr wird vor morgens hier sein. <stage>Lanzelot ab.</stage>
+            </p>
           </sp>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
