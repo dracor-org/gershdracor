@@ -42,7 +42,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q53590</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -57,7 +56,6 @@
           <bibl type="originalSource">
             <title>Die Englische Bühne zu Shakespeare's Zeit. Zwölf Dramen seiner Zeitgenossen.
               Übersetzt von F.A. Gelbcke. Dritter Theil. Leipzig: Brockhaus 1890, S. 1–105.</title>
-            <date type="print" when="1890"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -76,6 +74,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1890">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q53590"/>
+  </standOff>
   <text>
     <pb n="1"/>
     <front>

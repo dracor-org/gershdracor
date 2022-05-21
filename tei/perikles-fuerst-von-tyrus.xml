@@ -33,7 +33,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q584729</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -48,7 +47,6 @@
           <bibl type="originalSource">
             <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von
               Anselm Schlösser. Berlin: Aufbau, 1975. S. 301–379.</title>
-            <date type="print" when="1811"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -67,6 +65,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1811">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q584729"/>
+  </standOff>
   <text>
     <front>
       <div type="front">

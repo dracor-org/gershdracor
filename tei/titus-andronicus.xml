@@ -35,7 +35,6 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q272169</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -50,7 +49,6 @@
           <bibl type="originalSource">
             <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von
               Anselm Schlösser. Berlin: Aufbau, 1975. S. 5–82.</title>
-            <date type="print" when="1831"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -70,6 +68,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1831">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q272169"/>
+  </standOff>
   <text>
     <front>
       <div type="front">
