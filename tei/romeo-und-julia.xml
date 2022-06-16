@@ -58,6 +58,130 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="simson" sex="MALE">
+            <persName>Simson</persName>
+          </person>
+          <person xml:id="gregorio" sex="MALE">
+            <persName>Gregorio</persName>
+          </person>
+          <person xml:id="abraham" sex="MALE">
+            <persName>Abraham</persName>
+          </person>
+          <person xml:id="benvolio" sex="MALE">
+            <persName>Benvolio</persName>
+          </person>
+          <person xml:id="tybalt" sex="MALE">
+            <persName>Tybalt</persName>
+          </person>
+          <person xml:id="ein_buerger_i-1" sex="MALE">
+            <persName>Ein Bürger (I/1)</persName>
+          </person>
+          <person xml:id="capulet" sex="MALE">
+            <persName>Capulet</persName>
+          </person>
+          <person xml:id="graefin_capulet" sex="FEMALE">
+            <persName>Gräfin Capulet</persName>
+          </person>
+          <person xml:id="montague" sex="MALE">
+            <persName>Montague</persName>
+          </person>
+          <person xml:id="graefin_montague" sex="FEMALE">
+            <persName>Gräfin Montague</persName>
+          </person>
+          <person xml:id="prinz" sex="MALE">
+            <persName>Prinz</persName>
+          </person>
+          <person xml:id="romeo" sex="MALE">
+            <persName>Romeo</persName>
+          </person>
+          <person xml:id="paris" sex="MALE">
+            <persName>Paris</persName>
+          </person>
+          <person xml:id="der_bediente_i-2" sex="MALE">
+            <persName>Der Bediente (I/2)</persName>
+          </person>
+          <person xml:id="waerterin" sex="FEMALE">
+            <persName>Wärterin</persName>
+          </person>
+          <person xml:id="julia" sex="FEMALE">
+            <persName>Julia</persName>
+          </person>
+          <person xml:id="der_bediente_i-3" sex="MALE">
+            <persName>Der Bediente (I/3)</persName>
+          </person>
+          <person xml:id="mercutio" sex="MALE">
+            <persName>Mercutio</persName>
+          </person>
+          <person xml:id="erster_bediente_i-5" sex="MALE">
+            <persName>Erster Bediente (I/5)</persName>
+          </person>
+          <person xml:id="zweiter_bediente_i-5" sex="MALE">
+            <persName>Zweiter Bediente (I/5)</persName>
+          </person>
+          <personGrp xml:id="bediente_i-5" sex="MALE">
+            <name>Bediente (I/5)</name>
+          </personGrp>
+          <person xml:id="zweiter_capulet" sex="MALE">
+            <persName>Zweiter Capulet</persName>
+          </person>
+          <person xml:id="der_bediente_i-5" sex="MALE">
+            <persName>Der Bediente (I/5)</persName>
+          </person>
+          <person xml:id="lorenzo" sex="MALE">
+            <persName>Lorenzo</persName>
+          </person>
+          <person xml:id="peter" sex="MALE">
+            <persName>Peter</persName>
+          </person>
+          <person xml:id="ein_buerger_iii-1" sex="MALE">
+            <persName>Ein Bürger (III/1)</persName>
+          </person>
+          <person xml:id="bedienter_iv-2" sex="MALE">
+            <persName>Bedienter (IV/2)</persName>
+          </person>
+          <person xml:id="erster_bediente_iv-4" sex="MALE">
+            <persName>Erster Bediente (IV/3)</persName>
+          </person>
+          <person xml:id="zweiter_bediente_iv-4" sex="MALE">
+            <persName>Zweiter Bediente (IV/3)</persName>
+          </person>
+          <person xml:id="erster_musikant" sex="MALE">
+            <persName>Erster Musikant</persName>
+          </person>
+          <person xml:id="zweiter_musikant" sex="MALE">
+            <persName>Zweiter Musikant</persName>
+          </person>
+          <person xml:id="dritter_musikant" sex="MALE">
+            <persName>Dritter Musikant</persName>
+          </person>
+          <person xml:id="balthasar" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="apotheker" sex="MALE">
+            <persName>Apotheker</persName>
+          </person>
+          <person xml:id="marcus" sex="MALE">
+            <persName>Marcus</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Page</persName>
+          </person>
+          <personGrp xml:id="waechter" sex="MALE">
+            <name>Wächter</name>
+          </personGrp>
+          <person xml:id="erster_waechter" sex="MALE">
+            <persName>Erster Wächter</persName>
+          </person>
+          <person xml:id="zweiter_waechter" sex="MALE">
+            <persName>Zweiter Wächter</persName>
+          </person>
+          <person xml:id="dritter_waechter" sex="MALE">
+            <persName>Dritter Wächter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -312,7 +436,7 @@
             <stage>Verschiedene Anhänger beider Häuser kommen und mischen sich in den Streit; dann
               Bürger mit Knitteln.</stage>
           </sp>
-          <sp who="#ein_buerger">
+          <sp who="#ein_buerger_i-1">
             <speaker>EIN BÜRGER.</speaker>
             <lg>
               <l>He! Spieß' und Stangen her! Schlagt auf sie los!</l>
@@ -763,7 +887,7 @@
             </lg>
             <stage>Capulet und Paris gehn ab.</stage>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Die Leute soll ich suchen, wovon die Namen hier geschrieben stehn? Es steht
               geschrieben, der Schuster soll sich um seine Elle kümmern, der Schneider um seinen
@@ -811,7 +935,7 @@
             <stage>Zu dem Bedienten.</stage>
             <l>Guten Abend, Freund!</l>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <l>Gott grüß' Euch, Herr! Ich bitt' Euch, könnt Ihr lesen?</l>
           </sp>
@@ -819,7 +943,7 @@
             <speaker>ROMEO.</speaker>
             <l>Jawohl, in meinem Elend mein Geschick.</l>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <lg>
               <l>Vielleicht habt Ihr das auswendig gelernt.</l>
@@ -830,7 +954,7 @@
             <speaker>ROMEO.</speaker>
             <p>Ja freilich, wenn ich Schrift und Sprache kenne.</p>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Ihr redet ehrlich. Gehabt Euch wohl!</p>
           </sp>
@@ -846,7 +970,7 @@
             </p>
             <p>Ein schöner Haufe! Wohin lädst du sie?</p>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Hinauf.</p>
           </sp>
@@ -854,7 +978,7 @@
             <speaker>ROMEO.</speaker>
             <p>Wohin?</p>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Zum Abendessen in unser Haus</p>
           </sp>
@@ -862,7 +986,7 @@
             <speaker>ROMEO.</speaker>
             <p>Wessen Haus?</p>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Meines Herrn.</p>
           </sp>
@@ -870,7 +994,7 @@
             <speaker>ROMEO.</speaker>
             <p>Das hätt' ich freilich eher fragen sollen.</p>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-2">
             <speaker>DER BEDIENTE.</speaker>
             <p>Nun will ich's Euch ohne Fragen erklären. Meine Herrschaft ist der große, reiche
               Capulet, und wenn Ihr nicht vom Hause der Montagues seid, so bitt' ich Euch kommt,
@@ -949,7 +1073,7 @@
             <speaker>JULIA.</speaker>
             <l>Hier bin ich, gnäd'ge Mutter! Was beliebt?</l>
           </sp>
-          <sp who="#graefin">
+          <sp who="#graefin_capulet">
             <speaker>GRÄFIN.</speaker>
             <lg>
               <l>Die Sach' ist diese! – Amme, geh beiseit',</l>
@@ -1138,7 +1262,7 @@
             </lg>
             <stage>Ein Bedienter kommt.</stage>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-3">
             <speaker>DER BEDIENTE.</speaker>
             <p>Gnädige Frau, die Gäste sind da, das Abendessen auf dem Tisch, Ihr werdet gerufen,
               das Fräulein gesucht, die Amme in der Speisekammer zum Henker gewünscht, und alles
@@ -1433,32 +1557,32 @@
           <head>Fünfte Szene</head>
           <stage>Ein Saal in Capulets Hause.</stage>
           <stage>Musikanten. Bediente kommen.</stage>
-          <sp who="#erster_bediente">
+          <sp who="#erster_bediente_i-5">
             <speaker>ERSTER BEDIENTE.</speaker>
             <p>Wo ist Schmorpfanne, daß er nicht abräumen hilft? Daß dich! mit seinem Tellermausen,
               seinem Tellerlecken!</p>
           </sp>
-          <sp who="#zweiter_bediente">
+          <sp who="#zweiter_bediente_i-5">
             <speaker>ZWEITER BEDIENTE.</speaker>
             <p>Wenn die gute Lebensart in eines odei zweier Menschen Händen sein soll, die noch
               obendrein ungewaschen sind, – 's ist ein unsaubrer Handel.</p>
           </sp>
-          <sp who="#erster_bediente">
+          <sp who="#erster_bediente_i-5">
             <speaker>ERSTER BEDIENTE.</speaker>
             <p>Die Lehnstühle fort! Rückt den Schenktisch beiseit! Seht nach dem Silberzeuge!
               Kamerad, heb mir ein Stück Marzipan auf, und wo du mich lieb hast, sag dem Pförtner,
               daß er Suse Mühlstein und Lene hereinläßt. Anton! Schmorpfanne!</p>
             <stage>Andre Bediente kommen.</stage>
           </sp>
-          <sp who="#bediente">
+          <sp who="#bediente_i-5">
             <speaker>BEDIENTE.</speaker>
             <p>Hier, Bursch, wir sind parat.</p>
           </sp>
-          <sp who="#erster_bediente">
+          <sp who="#erster_bediente_i-5">
             <speaker>ERSTER BEDIENTE.</speaker>
             <p>Im großen Saale verlangt man euch, vermißt man euch, sucht man euch.</p>
           </sp>
-          <sp who="#bediente">
+          <sp who="#bediente_i-5">
             <speaker>BEDIENTE.</speaker>
             <p>Wir können nicht zugleich hier und dort sein. – Lustig, Kerle! Haltet euch brav; wer
               am längsten lebt, kriegt den ganzen Bettel.</p>
@@ -1528,7 +1652,7 @@
               <l>Mit ihrer Hand beehrt?</l>
             </lg>
           </sp>
-          <sp who="#der_bediente">
+          <sp who="#der_bediente_i-5">
             <speaker>DER BEDIENTE.</speaker>
             <l>Ich weiß nicht, Herr.</l>
           </sp>
@@ -2604,7 +2728,8 @@
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Ach, der arme Romeo! Er ist ja schon tot! durchbohrt von einer weißen Dirne schwarzem
-              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="117"/> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
+              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="117"
+              /> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
               Mann darnach, es mit dem Tybalt aufzunehmen?</p>
           </sp>
           <sp who="#benvolio">
@@ -2677,8 +2802,8 @@
             <speaker>MERCUTIO.</speaker>
             <p>Was kömmt da angesegelt?</p>
           </sp>
-          <sp who="#waertrerin">
-            <speaker>WÄRTRERIN.</speaker>
+          <sp who="#waerterin">
+            <speaker>WÄRTERIN.</speaker>
             <p>Peter!</p>
           </sp>
           <sp who="#peter">
@@ -3317,7 +3442,6 @@
               <l>Zu lieben, mildert sehr die Wut, die sonst</l>
               <l>Auf diesen Gruß sich ziemt': Ich bin kein Schurke,</l>
               <l>Drum lebe wohl! Ich seh', du kennst mich nicht.</l>
-              <l>(</l>
             </lg>
           </sp>
           <sp who="#tybalt">
@@ -3507,7 +3631,7 @@
             <stage>Romeo ab.</stage>
             <stage>Bürger u.s.w. treten auf.</stage>
           </sp>
-          <sp who="#ein_buerger">
+          <sp who="#ein_buerger_iii-1">
             <speaker>EIN BÜRGER.</speaker>
             <lg>
               <l>Wo lief er hin, der den Mercutio tot schlug?</l>
@@ -3518,7 +3642,7 @@
             <speaker>BENVOLIO.</speaker>
             <l>Da liegt der Tybalt.</l>
           </sp>
-          <sp who="#ein_buerger">
+          <sp who="#ein_buerger_iii-1">
             <speaker>EIN BÜRGER.</speaker>
             <lg>
               <l>Herr, gleich müßt Ihr mit mir gehn.</l>
@@ -4309,7 +4433,7 @@
               <l>Gräfin, schlaft wohl, empfehlt mich Eurer Tochter!</l>
             </lg>
           </sp>
-          <sp who="#graefin">
+          <sp who="#graefin_capulet">
             <speaker>GRÄFIN.</speaker>
             <lg>
               <l>Ich tu's, und forsche morgen früh sie aus:</l>
@@ -5240,7 +5364,7 @@
             <stage>Ein Bedienter ab.</stage>
             <l>Du, Bursch, geh', miet' mir zwanzig tücht'ge Köche!</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_iv-2">
             <speaker>BEDIENTER.</speaker>
             <p>Ihr sollt gewiß keine schlechten kriegen, gnäd'ger Herr; denn ich will erst zusehn,
               ob sie sich die Finger ablecken können.</p>
@@ -5249,7 +5373,7 @@
             <speaker>CAPULET.</speaker>
             <p>Was soll das für eine Probe sein?</p>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_iv-2">
             <speaker>BEDIENTER.</speaker>
             <p>Ei, gnädiger Herr, das wäre ein schlechter Koch, der seinen eignen Finger nicht
               ablecken könnte. Drum, wer das nicht kann, der geht nicht mit mir.</p>
@@ -5515,8 +5639,8 @@
             </lg>
             <stage>Bediente mit Bratspießen, Scheiten und Körben gehn über die Bühne.</stage>
           </sp>
-          <sp who="#erste_bediente">
-            <speaker>ERSTE BEDIENTE.</speaker>
+          <sp who="#erster_bediente_iv-4">
+            <speaker>ERSTER BEDIENTE.</speaker>
             <l>s' ist für den Koch, Herr; was, das weiß ich nicht.</l>
           </sp>
           <sp who="#capulet">
@@ -5528,7 +5652,7 @@
               <l>Ruf' Petern, denn der weiß es, wo sie sind.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_bediente">
+          <sp who="#zweiter_bediente_iv-4">
             <speaker>ZWEITER BEDIENTE.</speaker>
             <lg>
               <l>Braucht Ihr 'nen Klotz, Herr, bin ich selber da,</l>
@@ -5803,7 +5927,7 @@
             <speaker>PETER.</speaker>
             <p>Ihr wollt es also nicht?</p>
           </sp>
-          <sp who="#musikanten">
+          <sp who="#erster_musikant #zweiter_musikant #dritter_musikant">
             <speaker>MUSIKANTEN.</speaker>
             <p>Nein.</p>
           </sp>
@@ -6608,8 +6732,8 @@
             <speaker>PRINZ.</speaker>
             <l>Sucht, späht, erforscht die Täter dieser Greuel!</l>
           </sp>
-          <sp who="#erster_waerter">
-            <speaker>ERSTER WÄRTER.</speaker>
+          <sp who="#erster_waechter">
+            <speaker>ERSTER WÄCHTER.</speaker>
             <lg>
               <l>Hier ist ein Mönch und Romeos Bedienter.</l>
               <l>Man fand Gerät bei ihnen, das die Gräber</l>
