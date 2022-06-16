@@ -58,6 +58,118 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="bernardo" sex="MALE">
+            <persName>Bernardo</persName>
+          </person>
+          <person xml:id="francisco" sex="MALE">
+            <persName>Francisco</persName>
+          </person>
+          <person xml:id="horatio" sex="MALE">
+            <persName>Horatio</persName>
+          </person>
+          <person xml:id="marcellus" sex="MALE">
+            <persName>Marcellus</persName>
+          </person>
+          <person xml:id="koenig" sex="MALE">
+            <persName>König</persName>
+          </person>
+          <person xml:id="cornelius" sex="MALE">
+            <persName>Cornelius</persName>
+          </person>
+          <person xml:id="voltimand" sex="MALE">
+            <persName>Voltimand</persName>
+          </person>
+          <person xml:id="laertes" sex="MALE">
+            <persName>Laertes</persName>
+          </person>
+          <person xml:id="polonius" sex="MALE">
+            <persName>Polonius</persName>
+          </person>
+          <person xml:id="hamlet" sex="MALE">
+            <persName>Hamlet</persName>
+          </person>
+          <person xml:id="koenigin" sex="FEMALE">
+            <persName>Königin</persName>
+          </person>
+          <person xml:id="ophelia" sex="FEMALE">
+            <persName>Ophelia</persName>
+          </person>
+          <person xml:id="geist" sex="MALE">
+            <persName>Geist</persName>
+          </person>
+          <person xml:id="reinhold" sex="MALE">
+            <persName>Reinhold</persName>
+          </person>
+          <person xml:id="rosenkranz" sex="MALE">
+            <persName>Rosenkranz</persName>
+          </person>
+          <person xml:id="gueldenstern" sex="MALE">
+            <persName>Güldenstern</persName>
+          </person>
+          <person xml:id="erster_schauspieler" sex="MALE">
+            <persName>Erster Schauspieler</persName>
+          </person>
+          <person xml:id="prolog" sex="MALE">
+            <persName>Prolog</persName>
+          </person>
+          <person xml:id="koenig_im_schauspiel" sex="MALE">
+            <persName>König im Schauspiel</persName>
+          </person>
+          <person xml:id="koenigin_im_schauspiel" sex="FEMALE">
+            <persName>Königin im Schauspiel</persName>
+          </person>
+          <person xml:id="lucianus" sex="MALE">
+            <persName>Lucianus</persName>
+          </person>
+          <person xml:id="fortinbras" sex="MALE">
+            <persName>Fortinbras</persName>
+          </person>
+          <person xml:id="hauptmann" sex="MALE">
+            <persName>Hauptmann</persName>
+          </person>
+          <person xml:id="edelmann_iv-5" sex="MALE">
+            <persName>Edelmann (IV/5)</persName>
+          </person>
+          <personGrp xml:id="daenen" sex="MALE">
+            <name>Dänen</name>
+          </personGrp>
+          <person xml:id="diener" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="erster_matrose" sex="MALE">
+            <persName>Erster Matrose</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="erster_totengraeber" sex="MALE">
+            <persName>Erster Totengräber</persName>
+          </person>
+          <person xml:id="zweiter_totengraeber" sex="MALE">
+            <persName>Zweiter Totengräber</persName>
+          </person>
+          <person xml:id="priester" sex="MALE">
+            <persName>Priester</persName>
+          </person>
+          <personGrp xml:id="gefolge" sex="UNKNOWN">
+            <name>Gefolge</name>
+          </personGrp>
+          <person xml:id="osrick" sex="MALE">
+            <persName>Osrick</persName>
+          </person>
+          <person xml:id="edelmann_v-2" sex="MALE">
+            <persName>Edelmann (V/2)</persName>
+          </person>
+          <personGrp xml:id="herren_vom_hofe" sex="MALE">
+            <name>Herren vom Hofe</name>
+          </personGrp>
+          <person xml:id="erster_gesandter" sex="MALE">
+            <persName>Erster Gesandter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -1013,7 +1125,7 @@
               <l>Habt ihr die Wache heut?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#horatio #bernardo #marcellus">
             <speaker>ALLE.</speaker>
             <l>Ja, gnäd'ger Herr.</l>
           </sp>
@@ -1021,7 +1133,7 @@
             <speaker>HAMLET.</speaker>
             <l>Geharnischt, sagt ihr?</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#horatio #bernardo #marcellus">
             <speaker>ALLE.</speaker>
             <l>Geharnischt, gnäd'ger Herr.</l>
           </sp>
@@ -1029,7 +1141,7 @@
             <speaker>HAMLET.</speaker>
             <l>Vom Wirbel bis zur Zeh'?</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#horatio #bernardo #marcellus">
             <speaker>ALLE.</speaker>
             <l>Von Kopf zu Fuß.</l>
           </sp>
@@ -1136,7 +1248,7 @@
               <l>Besuch' ich euch.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#horatio #bernardo #marcellus">
             <speaker>ALLE.</speaker>
             <l>Eu'r Gnaden unsre Dienste!</l>
           </sp>
@@ -2990,7 +3102,7 @@
               Bettler Schatten. Sollen <pb n="303"/> wir an den Hof? Denn, mein' Seel', ich weiß
               nicht zu räsonieren.</p>
           </sp>
-          <sp who="#beide">
+          <sp who="#rosenkranz #gueldenstern">
             <speaker>BEIDE.</speaker>
             <p>Wir sind beide zu Euren Diensten.</p>
           </sp>
@@ -3051,7 +3163,8 @@
             <p>Ich will euch sagen, warum; so wird mein Erraten eurer Entdeckung zuvorkommen, und
               eure Verschwiegenheit gegen den König und die Königin braucht keinen Zollbreit zu
               wanken. Ich habe seit kurzem – ich weiß nicht wodurch – alle meine Munterkeit
-              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb n="304"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
+              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb
+                n="304"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
               Vorgebirge scheint; seht ihr, dieser herrliche Baldachin, die Luft, dies wackre
               umwölbende Firmament, dies majestätische Dach mit goldnem Feuer ausgelegt: kommt es
               mir doch nicht anders vor, als ein fauler verpesteter Haufe von Dünsten. Welch ein
@@ -4215,7 +4328,8 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>So lange schon? Ei, so mag der Teufel schwarz gehn: ich will einen Zobelpelz tragen.
-              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb n="323"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
+              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb
+                n="323"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
               überleben kann. Aber, bei unsrer lieben Frauen! Kirchen muß er stiften, sonst denkt
               man nicht an ihn: es geht ihm wie dem Steckenpferde, dessen Grabschrift ist:</p>
             <lg>
@@ -4287,7 +4401,7 @@
             <p>Wie Frauenliebe.</p>
             <stage>Ein König und eine Königin treten auf.</stage>
           </sp>
-          <sp who="#koenig">
+          <sp who="#koenig_im_schauspiel">
             <speaker>KÖNIG</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4299,7 +4413,7 @@
               <l>Und Hymens Bande Hand in Hand geschlungen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_im_schauspiel">
             <speaker>KÖNIGIN</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4317,7 +4431,7 @@
               <l>Und ihre Größ' in kleiner Sorg' entdecken.</l>
             </lg>
           </sp>
-          <sp who="#koenig">
+          <sp who="#koenig_im_schauspiel">
             <speaker>KÖNIG</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4328,7 +4442,7 @@
               <l>Ein zweiter Gatte –</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_im_schauspiel">
             <speaker>KÖNIGIN</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4342,7 +4456,7 @@
             <speaker>HAMLET.</speaker>
             <l>Das ist Wermut.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_im_schauspiel">
             <speaker>KÖNIGIN</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4353,7 +4467,7 @@
               <l>Dem zweiten die Umarmung zu gestatten.</l>
             </lg>
           </sp>
-          <sp who="#koenig">
+          <sp who="#koenig_im_schauspiel">
             <speaker>KÖNIG</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4389,7 +4503,7 @@
               <l>Doch mag dies Denken mit dem ersten sterben.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_im_schauspiel">
             <speaker>KÖNIGIN</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4409,7 +4523,7 @@
             <stage>zu Ophelia.</stage>
             <l>Wenn sie es nun brechen sollte –</l>
           </sp>
-          <sp who="#koenig">
+          <sp who="#koenig_im_schauspiel">
             <speaker>KÖNIG</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4418,7 +4532,7 @@
               <l>Die Zeit zu täuschen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_im_schauspiel">
             <speaker>KÖNIGIN</speaker>
             <stage>im Schauspiel.</stage>
             <lg>
@@ -4659,7 +4773,8 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Euch eine gesunde Antwort geben. Mein Verstand ist krank. Aber, Herr, solche Antwort,
-              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb n="329"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
+              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb
+                n="329"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
               Ihr –</p>
           </sp>
           <sp who="#rosenkranz">
@@ -5738,7 +5853,8 @@
             <p>Nicht wo er speist, sondern wo er gespeist wird. Eine gewisse Reichsversammlung von
               politischen Würmern hat sich eben an ihn gemacht. So 'n Wurm ist Euch der einzige
               Kaiser, was die Tafel betrifft. Wir mästen alle andere Kreaturen, um uns zu mästen;
-              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb n="346"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
+              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb
+                n="346"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
               Ende vom Liede.</p>
           </sp>
           <sp who="#koenig">
@@ -6159,8 +6275,7 @@
             <p>Ich hoffe, alles wird gut gehn. Wir müssen geduldig sein: aber ich kann nicht umhin
               zu weinen, wenn ich denke, daß sie ihn in den kalten Boden gelegt haben. Mein Bruder
               soll davon wissen, und so dank' ich Euch für Euren guten Rat. Kommt, meine Kutsche!
-              Gute Nacht, Damen! gute Nacht, süße Damen! gute Nacht! gute Nacht!
-              <stage>Ab.</stage>
+              Gute Nacht, Damen! gute Nacht, süße Damen! gute Nacht! gute Nacht! <stage>Ab.</stage>
             </p>
           </sp>
           <sp who="#koenig">
@@ -6208,7 +6323,7 @@
               <l>Was gibt es draußen?</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-5">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Rettet Euch, mein Fürst:</l>
@@ -6669,10 +6784,10 @@
             </lg>
             <stage>Bote ab.</stage>
             <p>
-              <stage>Liest.</stage> »Großmächtigster! Wisset, daß ich nackt an Euer Reich
-              ausgesetzt bin. Morgen werde ich um Erlaubnis bitten, vor Euer königliches Auge zu
-              treten, und dann werde ich, wenn ich Euch erst um Vergünstigung dazu ersucht, die
-              Veranlassung meiner plötzlichen und wunderbaren Rückkehr berichten.</p>
+              <stage>Liest.</stage> »Großmächtigster! Wisset, daß ich nackt an Euer Reich ausgesetzt
+              bin. Morgen werde ich um Erlaubnis bitten, vor Euer königliches Auge zu treten, und
+              dann werde ich, wenn ich Euch erst um Vergünstigung dazu ersucht, die Veranlassung
+              meiner plötzlichen und wunderbaren Rückkehr berichten.</p>
             <p>Hamlet.«</p>
             <lg>
               <l>Was heißt dies? Sind sie alle wieder da?</l>
@@ -7467,7 +7582,7 @@
             <speaker>LAERTES.</speaker>
             <l>Was für Gebräuche sonst?</l>
           </sp>
-          <sp who="#erster_priester">
+          <sp who="#priester">
             <speaker>ERSTER PRIESTER.</speaker>
             <lg>
               <l>Wir dehnten ihr Begräbnis aus, so weit</l>
@@ -7572,7 +7687,7 @@
             <speaker>KÖNIGIN.</speaker>
             <l>Hamlet! Hamlet!</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#gefolge">
             <speaker>ALLE.</speaker>
             <l>Ihr Herren –</l>
           </sp>
@@ -7901,7 +8016,8 @@
             <p>Erlaubt mir, wertester Prinz, zu meiner eignen Bequemlichkeit. Vor kurzem, Herr, ist
               Laertes hier an den Hof gekommen: auf meine Ehre, ein vollkommner Kavalier, von den
               vortrefflichsten Auszeichnungen, von einer sehr gefälligen Unterhaltung und glänzendem
-              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb n="377"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
+              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb
+                n="377"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
               finden, die ein Kavalier nur wünschen kann zu sehn.</p>
           </sp>
           <sp who="#hamlet">
@@ -8063,7 +8179,7 @@
               platzen.</p>
             <stage>Ein Edelmann kommt.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-2">
             <speaker>EDELMANN.</speaker>
             <p>Gnädiger Herr, Seine Majestät hat sich Euch durch den jungen Osrick empfehlen lassen,
               der ihm meldet, daß Ihr ihn im Saale erwarten wollt. Er schickt mich, um zu fragen: ob
@@ -8076,7 +8192,7 @@
               ihm gelegen ist, bin ich bereit, jetzt oder zu jeder an dern Zeit; vorausgesetzt, daß
               ich so gut imstande bin wie jetzt.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-2">
             <speaker>EDELMANN.</speaker>
             <p>Der König, die Königin und alle sind auf dem Wege hieher.</p>
           </sp>
@@ -8084,7 +8200,7 @@
             <speaker>HAMLET.</speaker>
             <p>In Gottes Namen.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-2">
             <speaker>EDELMANN.</speaker>
             <p>Die Königin wünscht, Ihr möchtet den Laertes freundschaftlich anreden, ehe Ihr
               anfangt zu fechten.</p>
