@@ -41,7 +41,8 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
+                >Lizenzvertrag</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -58,6 +59,85 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="theseus" sex="MALE">
+            <persName>Theseus</persName>
+          </person>
+          <person xml:id="hippolyta" sex="FEMALE">
+            <persName>Hippolyta</persName>
+          </person>
+          <person xml:id="egeus" sex="MALE">
+            <persName>Egeus</persName>
+          </person>
+          <person xml:id="hermia" sex="FEMALE">
+            <persName>Hermia</persName>
+          </person>
+          <person xml:id="demetrius" sex="MALE">
+            <persName>Demetrius</persName>
+          </person>
+          <person xml:id="lysander" sex="MALE">
+            <persName>Lysander</persName>
+          </person>
+          <person xml:id="helena" sex="FEMALE">
+            <persName>Helena</persName>
+          </person>
+          <person xml:id="squenz" sex="MALE">
+            <persName>Squenz (Prolog)</persName>
+          </person>
+          <person xml:id="zettel" sex="MALE">
+            <persName>Zettel (Pyramus)</persName>
+          </person>
+          <person xml:id="flaut" sex="MALE">
+            <persName>Flaut (Thisbe)</persName>
+          </person>
+          <person xml:id="schlucker" sex="MALE">
+            <persName>Schlucker (Mond)</persName>
+          </person>
+          <person xml:id="schnauz" sex="MALE">
+            <persName>Schnauz (Wand)</persName>
+          </person>
+          <person xml:id="schnock" sex="MALE">
+            <persName>Schnock (Löwe)</persName>
+          </person>
+          <person xml:id="droll" sex="MALE">
+            <persName>Droll</persName>
+          </person>
+          <person xml:id="elfe" sex="UNKNOWN">
+            <persName>Elfe</persName>
+          </person>
+          <person xml:id="oberon" sex="MALE">
+            <persName>Oberon</persName>
+          </person>
+          <person xml:id="titania" sex="FEMALE">
+            <persName>Titania</persName>
+          </person>
+          <person xml:id="erster_elfe" sex="UNKNOWN">
+            <persName>Erster Elfe</persName>
+          </person>
+          <personGrp xml:id="chor" sex="UNKNOWN">
+            <name>Chor</name>
+          </personGrp>
+          <person xml:id="zweiter_elfe" sex="UNKNOWN">
+            <persName>Zweiter Elfe</persName>
+          </person>
+          <person xml:id="senfsamen" sex="UNKNOWN">
+            <persName>Senfsamen</persName>
+          </person>
+          <person xml:id="bohnenbluete" sex="UNKNOWN">
+            <persName>Bohnenblüte</persName>
+          </person>
+          <person xml:id="motte" sex="UNKNOWN">
+            <persName>Motte</persName>
+          </person>
+          <person xml:id="spinnweb" sex="UNKNOWN">
+            <persName>Spinnweb</persName>
+          </person>
+          <person xml:id="philostrat" sex="MALE">
+            <persName>Philostrat</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -777,7 +857,7 @@
             <p>Wenn Ihr es gar zu fürchterlich machtet, so würdet Ihr die Herzogin und die Damen
               erschrecken, daß sie schrien, und das brächte euch alle an den Galgen.</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#schnock #zettel #flaut #schnauz #schlucker">
             <speaker>ALLE.</speaker>
             <p>Ja, das brächte uns an den Galgen, wie wir da sind.</p>
           </sp>
@@ -1775,7 +1855,7 @@
             <speaker>SQUENZ.</speaker>
             <l>Sprecht, Pyramus; Thisbe, tretet vor!</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <l>»Thisbe, wie eine Blum' von Giften duftet süß, –</l>
           </sp>
@@ -1783,7 +1863,7 @@
             <speaker>SQUENZ.</speaker>
             <l>Düften! Düften!</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»– von Düften duftet süß,</l>
@@ -1799,7 +1879,7 @@
             <l>Ein seltnes Stück von einem Pyramus.</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>Muß ich jetzt reden?</l>
           </sp>
@@ -1808,7 +1888,7 @@
             <p>Ja, zum Henker, freilich müßt Ihr; Ihr müßt wissen, er geht nur weg, um ein Geräusch
               zu sehen, das er gehört hat, und wird gleich wieder kommen.</p>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <lg>
               <l>»Umstrahlter Pyramus, an Farbe lilienweiß,</l>
@@ -1826,11 +1906,11 @@
               auch«.</p>
             <stage>Zettel mit einem Eselskopfe und Droll kommen zurück.</stage>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>Uf – »So treu, wie's treuste Pferd, das nie ermüdet auch.«</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <l>»Wenn, Thisbe, ich wär' schön, so wär' ich einzig dein.«</l>
           </sp>
@@ -1950,23 +2030,23 @@
             <stage>Vier Elfen treten auf.</stage>
           </sp>
           <pb n="339"/>
-          <sp who="#erster_elfe">
+          <sp who="#senfsamen">
             <speaker>ERSTER ELFE.</speaker>
             <l>Hier!</l>
           </sp>
-          <sp who="#zweiter_elfe">
+          <sp who="#bohnenbluete">
             <speaker>ZWEITER ELFE.</speaker>
             <l>Und ich!</l>
           </sp>
-          <sp who="#dritter_elfe">
+          <sp who="#motte">
             <speaker>DRITTER ELFE.</speaker>
             <l>Und ich!</l>
           </sp>
-          <sp who="#vierter_elfe">
+          <sp who="#spinnweb">
             <speaker>VIERTER ELFE.</speaker>
             <l>Und ich!</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#senfsamen #bohnenbluete #motte #spinnweb">
             <speaker>ALLE.</speaker>
             <l>Was sollen wir?</l>
           </sp>
@@ -1986,19 +2066,19 @@
               <l>Nun, Elfen, huldigt ihm und neigt euch fein.</l>
             </lg>
           </sp>
-          <sp who="#erster_elfe">
+          <sp who="#senfsamen">
             <speaker>ERSTER ELFE.</speaker>
             <p>Heil dir, Sterblicher!</p>
           </sp>
-          <sp who="#zweiter_elfe">
+          <sp who="#bohnenbluete">
             <speaker>ZWEITER ELFE.</speaker>
             <p>Heil!</p>
           </sp>
-          <sp who="#dritter_elfe">
+          <sp who="#motte">
             <speaker>DRITTER ELFE.</speaker>
             <p>Heil!</p>
           </sp>
-          <sp who="#vierter_elfe">
+          <sp who="#spinnweb">
             <speaker>VIERTER ELFE.</speaker>
             <p>Heil!</p>
           </sp>
@@ -3846,7 +3926,7 @@
             <stage>Trompeten.</stage>
             <stage>Der Prolog tritt auf.</stage>
           </sp>
-          <sp who="#prolog">
+          <sp who="#squenz">
             <speaker>PROLOG.</speaker>
             <lg>
               <l>»Wenn wir mißfallen tun, so ist's mit gutem Willen;</l>
@@ -3884,7 +3964,7 @@
             <stage>Pyramus, Thisbe, Wand, Mondschein und Löwe treten als stumme Personen
               auf.</stage>
           </sp>
-          <sp who="#prolog">
+          <sp who="#squenz">
             <speaker>PROLOG.</speaker>
             <lg>
               <l>»Was dies bedeuten soll, das wird euch wundern müssen,</l>
@@ -3927,7 +4007,7 @@
             <speaker>DEMETRIUS.</speaker>
             <l>Kein Wunder, gnädiger Herr: ein Löwe kann's wohl, da so viele Esel es tun.</l>
           </sp>
-          <sp who="#wand">
+          <sp who="#schnauz">
             <speaker>WAND.</speaker>
             <lg>
               <l>»In dem besagten Stück es sich zutragen tut,</l>
@@ -3954,7 +4034,7 @@
             <speaker>THESEUS.</speaker>
             <l>Pyramus geht auf die Wand los. Stille!</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»O Nacht, so schwarz von Farb', o grimmerfüllte Nacht!</l>
@@ -3979,14 +4059,14 @@
             <speaker>THESEUS.</speaker>
             <l>Mich dünkt, die Wand müßte wieder fluchen, da sie Empfindung hat.</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <p>Nein, fürwahr, Herr, das muß er nicht. »Äffest mich« ist Thisbes Stichwort; sie muß
               hereinkommen, und ich muß sie dann durch die Wand ausspionieren. Ihr sollt sehen, es
               wird just zutreffen, wie ich Euch sage. Da kommt sie schon.</p>
             <stage>Thisbe kommt.</stage>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <lg>
               <l>»O Wand, du hast schon oft gehört das Seufzen mein,</l>
@@ -3995,7 +4075,7 @@
               <l>Dein' Stein', mit Leim und Haar geküttet auf in dir.«</l>
             </lg>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»Ein' Stimm' ich sehen tu'; ich will zur Spalt' und schauen,</l>
@@ -4003,42 +4083,42 @@
               <l>Thisbe!«</l>
             </lg>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>»Dies ist mein Schatz, mein Liebchen ist's, fürwahr!«</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»Denk', was du willst, ich bin's; du kannst mir sicher trauen.</l>
               <l>Und gleich Limander bin ich treu in meiner Pflicht.«</l>
             </lg>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>»Und ich gleich Helena, bis mich der Tod ersticht.«</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <l>»So treu war Schefelus einst seiner Prokrus nicht.«</l>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>»Wie Prokrus Scheflus liebt', lieb' ich dein Angesicht.«</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <l>»O küss' mich durch das Loch von dieser garst'gen Wand!«</l>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>»Mein Kuß trifft nur das Loch, nicht deiner Lippen Rand.«</l>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <l>»Willst du bei Nickels Grab heut nacht mich treffen an?«</l>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <lg>
               <l>»Sei's lebend oder tot, ich komme, wenn ich kann.«</l>
@@ -4077,7 +4157,7 @@
               Löwe.</p>
             <stage>Löwe und Mondschein treten auf.</stage>
           </sp>
-          <sp who="#loewe">
+          <sp who="#schnock">
             <speaker>LÖWE.</speaker>
             <lg>
               <l>»Ihr, Fräulein, deren Herz fürchtet die kleinste Maus,</l>
@@ -4117,7 +4197,7 @@
               eine Gans bemeistert sich keines Fuchses. Wohl! überlaßt es seiner Klugheit, und laßt
               uns auf den Mond horchen!</p>
           </sp>
-          <sp who="#mond">
+          <sp who="#schlucker">
             <speaker>MOND.</speaker>
             <p>»Den wohlgehörnten Mond d' Latern' z' erkennen gibt.«</p>
           </sp>
@@ -4130,7 +4210,7 @@
             <p>Er ist ein Vollmond; seine Hörner stecken unsichtbar in der Scheibe.</p>
           </sp>
           <pb n="371"/>
-          <sp who="#mond">
+          <sp who="#schlucker">
             <speaker>MOND.</speaker>
             <lg>
               <l>»Den wohlgehörnten Mond d' Latern' z' erkennen gibt;</l>
@@ -4159,7 +4239,7 @@
             <speaker>LYSANDER.</speaker>
             <p>Sprich weiter, Mond!</p>
           </sp>
-          <sp who="#mond">
+          <sp who="#schlucker">
             <speaker>MOND.</speaker>
             <p>Alles, was ich zu sagen habe, ist, euch zu melden: daß diese Laterne der Mond ist;
               ich der Mann im Monde; dieser Dornbusch, mein Dornbusch; und dieser Hund, mein
@@ -4171,11 +4251,11 @@
               still! hier kommt Thisbe.</p>
             <stage>Thisbe tritt auf.</stage>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <l>»Dies ist ja Nickels Grab; wo ist mein Liebchen denn?«</l>
           </sp>
-          <sp who="#loewe">
+          <sp who="#schnock">
             <speaker>LÖWE.</speaker>
             <p>Oh!</p>
             <stage>Der Löwe brüllt, Thisbe läuft davon.</stage>
@@ -4207,7 +4287,7 @@
             <p>Und da verschwand der Löwe.</p>
             <stage>Löwe ab.</stage>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»Ich dank' dir, süßer Mond, für deine Sonnenstrahlen,</l>
@@ -4246,7 +4326,7 @@
             <speaker>HIPPOLYTA.</speaker>
             <p>Bei meiner Seele, ich bedaure den Mann.</p>
           </sp>
-          <sp who="#pyramus">
+          <sp who="#zettel">
             <speaker>PYRAMUS.</speaker>
             <lg>
               <l>»Warum denn, o Natur, tatst du den Löwen bauen?</l>
@@ -4306,7 +4386,7 @@
             <speaker>DEMETRIUS.</speaker>
             <l>Und so jammert sie, folgendergestalt:</l>
           </sp>
-          <sp who="#thisbe">
+          <sp who="#flaut">
             <speaker>THISBE.</speaker>
             <lg>
               <l>»Schläfst du, mein Kind?</l>

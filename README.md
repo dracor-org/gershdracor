@@ -4,7 +4,7 @@
 More info soon.
 
 ## Known Issues
-* Character IDs not yet checked.
+* Character IDs not yet checked (in progress).
 
 ## Changelog
 ### 21.10.2021

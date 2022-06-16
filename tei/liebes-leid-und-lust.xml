@@ -59,6 +59,73 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="koenig" sex="MALE">
+            <persName>Der König von Navarra</persName>
+          </person>
+          <person xml:id="longaville" sex="MALE">
+            <persName>Longaville</persName>
+          </person>
+          <person xml:id="dumain" sex="MALE">
+            <persName>Dumain</persName>
+          </person>
+          <person xml:id="biron" sex="MALE">
+            <persName>Biron</persName>
+          </person>
+          <person xml:id="dumm" sex="MALE">
+            <persName>Dumm</persName>
+          </person>
+          <person xml:id="schaedel" sex="MALE">
+            <persName>Schädel</persName>
+          </person>
+          <person xml:id="armado" sex="MALE">
+            <persName>Don Adriano de Armado</persName>
+          </person>
+          <person xml:id="motte" sex="MALE">
+            <persName>Motte</persName>
+          </person>
+          <person xml:id="jacquenette" sex="FEMALE">
+            <persName>Jacquenette</persName>
+          </person>
+          <person xml:id="boyet" sex="MALE">
+            <persName>Boyet</persName>
+          </person>
+          <person xml:id="prinzessin" sex="FEMALE">
+            <persName>Die Prinzessin von Frankreich</persName>
+          </person>
+          <person xml:id="lord" sex="MALE">
+            <persName>Lord</persName>
+          </person>
+          <person xml:id="maria" sex="FEMALE">
+            <persName>Maria</persName>
+          </person>
+          <person xml:id="katharine" sex="FEMALE">
+            <persName>Katharine</persName>
+          </person>
+          <person xml:id="rosaline" sex="FEMALE">
+            <persName>Rosaline</persName>
+          </person>
+          <person xml:id="foerster" sex="MALE">
+            <persName>Ein Förster</persName>
+          </person>
+          <person xml:id="nathanael" sex="MALE">
+            <persName>Nathanael</persName>
+          </person>
+          <person xml:id="holofernes" sex="MALE">
+            <persName>Holofernes</persName>
+          </person>
+          <person xml:id="mercade" sex="MALE">
+            <persName>Mercade</persName>
+          </person>
+          <person xml:id="fruehling" sex="UNKNOWN">
+            <persName>Frühling</persName>
+          </person>
+          <person xml:id="winter" sex="UNKNOWN">
+            <persName>Winter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -2319,8 +2386,8 @@
             </lg>
             <stage>Gibt ihm Geld.</stage>
           </sp>
-          <sp who="#schaedbl">
-            <speaker>SCHÄDBL.</speaker>
+          <sp who="#schaedel">
+            <speaker>SCHÄDEL.</speaker>
             <p>Rekompens – o süßer Rekompens! Besser als Remuneration, elftehalb Pfennig besser. Ei
               du herziger Rekompens; ich will's tun, Herr, wie gedruckt. Rekompens! Remuneration!
                 <stage>Ab.</stage>
@@ -5304,8 +5371,8 @@
               <l>Noch eben sahn wir edle Russen vier.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
-            <speaker>KÖNIGIN.</speaker>
+          <sp who="#koenig">
+            <speaker>KÖNIG.</speaker>
             <l>Wie, Fürstin, Russen? –</l>
           </sp>
           <sp who="#prinzessin">
@@ -6633,7 +6700,7 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <l>Holla! Tretet ein! –</l>
-            <stage>Holefernes, Motte, Schädel und andre treten auf mit Musik.</stage>
+            <stage>Holofernes, Motte, Schädel und andre treten auf mit Musik.</stage>
             <lg>
               <l>Hier stellt sich Ver, der Lenz,</l>
               <l>Dort Hiems, Winter; diesem folgt die Eule,</l>

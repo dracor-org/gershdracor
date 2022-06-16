@@ -58,6 +58,64 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Herzog</persName>
+          </person>
+          <person xml:id="curio" sex="MALE">
+            <persName>Curio</persName>
+          </person>
+          <person xml:id="valentin" sex="MALE">
+            <persName>Valentin</persName>
+          </person>
+          <person xml:id="viola" sex="FEMALE">
+            <persName>Viola</persName>
+          </person>
+          <person xml:id="schiffshauptmann" sex="MALE">
+            <persName>Schiffshauptmann</persName>
+          </person>
+          <person xml:id="junker_tobias" sex="MALE">
+            <persName>Junker Tobias</persName>
+          </person>
+          <person xml:id="maria" sex="FEMALE">
+            <persName>Maria</persName>
+          </person>
+          <person xml:id="junker_christoph" sex="MALE">
+            <persName>Junker Christoph</persName>
+          </person>
+          <person xml:id="narr" sex="MALE">
+            <persName>Narr</persName>
+          </person>
+          <person xml:id="olivia" sex="FEMALE">
+            <persName>Olivia</persName>
+          </person>
+          <person xml:id="malvolio" sex="MALE">
+            <persName>Malvolio</persName>
+          </person>
+          <person xml:id="antonio" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="sebastian" sex="MALE">
+            <persName>Sebastian</persName>
+          </person>
+          <person xml:id="fabio" sex="MALE">
+            <persName>Fabio</persName>
+          </person>
+          <person xml:id="bedienter" sex="MALE">
+            <persName>Bedienter</persName>
+          </person>
+          <person xml:id="erster_gerichtsdiener" sex="MALE">
+            <persName>Erster Gerichtsdiener</persName>
+          </person>
+          <person xml:id="zweiter_gerichtsdiener" sex="MALE">
+            <persName>Zweiter Gerichtsdiener</persName>
+          </person>
+          <person xml:id="priester" sex="MALE">
+            <persName>Priester</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -221,8 +279,8 @@
               <l>Was denkt Ihr, Schiffer?</l>
             </lg>
           </sp>
-          <sp who="#schiffshauptmamn">
-            <speaker>SCHIFFSHAUPTMAMN.</speaker>
+          <sp who="#schiffshauptmann">
+            <speaker>SCHIFFSHAUPTMANN.</speaker>
             <l>Kaum war es möglich, daß Ihr selbst entkamt.</l>
           </sp>
           <sp who="#viola">
@@ -5292,8 +5350,8 @@
             <speaker>VIOLA.</speaker>
             <l>Ich schwöre, gnäd'ger Herr –</l>
           </sp>
-          <sp who="#oliva">
-            <speaker>OLIVA.</speaker>
+          <sp who="#olivia">
+            <speaker>OLIVIA.</speaker>
             <lg>
               <l>Oh, keinen Schwur!</l>
               <l>Bei so viel Furcht, heg' etwas Treu' doch nur!</l>
