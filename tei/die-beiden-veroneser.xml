@@ -57,6 +57,61 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="valentin" sex="MALE">
+            <persName>Valentin</persName>
+          </person>
+          <person xml:id="proteus" sex="MALE">
+            <persName>Proteus</persName>
+          </person>
+          <person xml:id="flink" sex="MALE">
+            <persName>Flink</persName>
+          </person>
+          <person xml:id="julia" sex="FEMALE">
+            <persName>Julia</persName>
+          </person>
+          <person xml:id="lucetta" sex="FEMALE">
+            <persName>Lucetta</persName>
+          </person>
+          <person xml:id="antonio" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="panthino" sex="MALE">
+            <persName>Panthino</persName>
+          </person>
+          <person xml:id="silvia" sex="FEMALE">
+            <persName>Silvia</persName>
+          </person>
+          <person xml:id="lanz" sex="MALE">
+            <persName>Lanz</persName>
+          </person>
+          <person xml:id="thurio" sex="MALE">
+            <persName>Thurio</persName>
+          </person>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Herzog</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="erster_raeuber" sex="MALE">
+            <persName>Erster Räuber</persName>
+          </person>
+          <person xml:id="zweiter_raeuber" sex="MALE">
+            <persName>Zweiter Räuber</persName>
+          </person>
+          <person xml:id="dritter_raeuber" sex="MALE">
+            <persName>Dritter Räuber</persName>
+          </person>
+          <person xml:id="wirt" sex="MALE">
+            <persName>Wirt</persName>
+          </person>
+          <person xml:id="eglamour" sex="MALE">
+            <persName>Eglamour</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -1187,7 +1242,8 @@
               Geschmack zu finden wie ein Rotkehlchen; allein einherzuschreiten wie ein Pestkranker;
               zu ächzen wie ein Schulknabe, der sein ABC verloren hat; zu weinen wie eine junge
               Dirne, die ihre Großmutter begrub; zu fasten wie einer, der in der Hungerkur liegt; zu
-              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb n="163"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
+              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb
+                n="163"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
               krähen; wenn Ihr einher ginget, wie ein Löwe zu wandeln; wenn Ihr fastetet, war es
               gleich nach dem Essen; wenn Ihr finster blicktet, war es, weil Euch Geld fehlte; und
               jetzt seid Ihr von Eurer Dame verwandelt, daß, wenn ich Euch ansehe, ich Euch kaum für
@@ -4146,7 +4202,7 @@
             <speaker>WIRT.</speaker>
             <p>Ja, aber still, laßt uns zuhören:</p>
           </sp>
-          <sp who="#gesang">
+          <sp who="#proteus">
             <speaker>Gesang</speaker>
             <l>Wer ist Silvia? Was ist sie,</l>
             <l>Die aller Welt Verehrung?</l>
@@ -4556,7 +4612,8 @@
               Geschenk von meinem Herrn zu überbringen, und kaum bin ich in den Speisesaal getreten,
               so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel. Oh, es ist ein
               böses Ding, wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß! Ich
-              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb n="205"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
+              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb
+                n="205"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
               nicht mehr Verstand gehabt hätte, als er, und den Fehler auf mich genommen, den er
               beging, so glaube ich wahrhaftig, er wäre dafür gehängt. So wahr ich lebe, sie hätten
               ihn dafür hingerichtet! Urteilt selbst: da schiebt er sich ein in die Gesellschaft von
@@ -5176,7 +5233,7 @@
           <head>Dritte Szene</head>
           <stage>Wald.</stage>
           <stage>Silvia und die Räuber kommen.</stage>
-          <sp who="#raeuber">
+          <sp who="#erster_raeuber">
             <speaker>RÄUBER.</speaker>
             <lg>
               <l>Kommt, kommt!</l>
@@ -5515,7 +5572,7 @@
             <l>Der meine mir.</l>
             <stage>Räuber kommen mit dem Herzog und Thurio.</stage>
           </sp>
-          <sp who="#raeuber">
+          <sp who="#erster_raeuber #zweiter_raeuber #dritter_raeuber">
             <speaker>RÄUBER.</speaker>
             <l>Ha, Beute, Beute!</l>
           </sp>
