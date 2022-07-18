@@ -46,8 +46,16 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von
-              Anselm Schlösser. Berlin: Aufbau, 1975. S. 1–62.</title>
+            <author>William Shakespeare</author>:
+            <title level="a">Die Komödie der Irrungen</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>.
+            Band <biblScope unit="volume">1</biblScope>: Komödien.
+            <edition>3. Auflage</edition>.
+            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+            <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>,
+            S. <biblScope unit="page" from="1" to="62">1–62</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>

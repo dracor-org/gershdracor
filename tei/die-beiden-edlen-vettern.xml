@@ -53,8 +53,16 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>Die Englische Bühne zu Shakespeare's Zeit. Zwölf Dramen seiner Zeitgenossen.
-              Übersetzt von F.A. Gelbcke. Dritter Theil. Leipzig: Brockhaus 1890, S. 1–105.</title>
+            <author>John Fletcher (und [Philip] Massinger)</author>:
+            <title level="a">Die beiden edlen Vettern</title>.
+            In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit. Zwölf Dramen seiner Zeitgenossen.</title>
+            Uebersetzt von <editor role="translator">F[erdinand] A[dolph] Gelbcke</editor>.
+            Mit Einleitungen von <editor role="preface">Robert Boyle</editor>.
+            <biblScope unit="volume">Dritter Theil</biblScope>.
+            <pubPlace>Leipzig</pubPlace>:
+            <publisher>F.A. Brockhaus</publisher>
+            <date>1890</date>,
+            S. <biblScope unit="page" from="1" to="1–105">1–105</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>

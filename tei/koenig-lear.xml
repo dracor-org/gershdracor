@@ -46,8 +46,16 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von
-              Anselm Schlösser. Berlin: Aufbau, 1975. S. 497–604.</title>
+            <author>William Shakespeare</author>:
+            <title level="a">König Lear</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>.
+            Band <biblScope unit="volume">4</biblScope>: Tragödien.
+            <edition>3. Auflage</edition>.
+            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+            <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>,
+            S. <biblScope unit="page" from="497" to="604">497–604</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>

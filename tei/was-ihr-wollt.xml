@@ -45,8 +45,16 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von
-              Anselm Schlösser. Berlin: Aufbau, 1975. S. 727–809.</title>
+            <author>William Shakespeare</author>:
+            <title level="a">Was ihr wollt</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>.
+            Band <biblScope unit="volume">1</biblScope>: Komödien.
+            <edition>3. Auflage</edition>.
+            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+            <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>,
+            S. <biblScope unit="page" from="727" to="809">727–809</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
