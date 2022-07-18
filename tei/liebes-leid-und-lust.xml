@@ -151,41 +151,41 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Liebes Leid und Lust</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Liebes Leid und Lust</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="222"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Der König von Navarra</castItem>
-          <castGroup>
-            <castItem>Biron,</castItem>
-            <castItem>Longaville,</castItem>
-            <castItem>Dumain,</castItem>
-            <roleDesc>Herren im Gefolge des Königs</roleDesc>
-          </castGroup>
-          <castItem>Boyet</castItem>
-          <castItem>Mercade</castItem>
-          <castItem>Don Adriano de Armado, ein Spanier</castItem>
-          <castItem>Nathanael, ein Dorfpfarrer</castItem>
-          <castItem>Dumm, ein Konstabel</castItem>
-          <castItem>Holofernes, ein Schulmeister</castItem>
-          <castItem>Schädel, ein Bauer</castItem>
-          <castItem>Motte, Page des Don Adriano de Armado</castItem>
-          <castItem>Ein Förster</castItem>
-          <castItem>Die Prinzessin von Frankreich</castItem>
-          <castGroup>
-            <castItem>Rosaline,</castItem>
-            <castItem>Maria,</castItem>
-            <castItem>Katharine,</castItem>
-            <roleDesc>Hoffräulein der Prinzessin</roleDesc>
-          </castGroup>
-          <castItem>Jacquenette, ein Milchmädchen</castItem>
-          <castItem>Gefolge des Königs und der Prinzessin</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Der König von Navarra</castItem>
+        <castGroup>
+          <castItem>Biron,</castItem>
+          <castItem>Longaville,</castItem>
+          <castItem>Dumain,</castItem>
+          <roleDesc>Herren im Gefolge des Königs</roleDesc>
+        </castGroup>
+        <castItem>Boyet</castItem>
+        <castItem>Mercade</castItem>
+        <castItem>Don Adriano de Armado, ein Spanier</castItem>
+        <castItem>Nathanael, ein Dorfpfarrer</castItem>
+        <castItem>Dumm, ein Konstabel</castItem>
+        <castItem>Holofernes, ein Schulmeister</castItem>
+        <castItem>Schädel, ein Bauer</castItem>
+        <castItem>Motte, Page des Don Adriano de Armado</castItem>
+        <castItem>Ein Förster</castItem>
+        <castItem>Die Prinzessin von Frankreich</castItem>
+        <castGroup>
+          <castItem>Rosaline,</castItem>
+          <castItem>Maria,</castItem>
+          <castItem>Katharine,</castItem>
+          <roleDesc>Hoffräulein der Prinzessin</roleDesc>
+        </castGroup>
+        <castItem>Jacquenette, ein Milchmädchen</castItem>
+        <castItem>Gefolge des Königs und der Prinzessin</castItem>
+      </castList>
       <set>
         <p>Szene: in Navarra</p>
       </set>

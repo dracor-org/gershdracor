@@ -82,41 +82,41 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Coriolanus</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Coriolanus</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="798"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Cajus Marcius Coriolanus, ein edler Römer</castItem>
-          <castGroup>
-            <castItem>Titus Lartius,</castItem>
-            <castItem>Cominius,</castItem>
-            <roleDesc>Anführer gegen die Volsker</roleDesc>
-          </castGroup>
-          <castItem>Menenius Agrippa, Coriolans Freund</castItem>
-          <castGroup>
-            <castItem>Sicinius Velutus,</castItem>
-            <castItem>Junius Brutus,</castItem>
-            <roleDesc>Volkstribunen.</roleDesc>
-          </castGroup>
-          <castItem>Marcius, Coriolans Kleiner Sohn</castItem>
-          <castItem>Ein römischer Herold</castItem>
-          <castItem>Tullus Aufidius, Anführer der Volsker</castItem>
-          <castItem>Ein Unterfeldherr des Aufidius</castItem>
-          <castItem>Verschworne</castItem>
-          <castItem>Ein Bürger von Antium</castItem>
-          <castItem>Zwei volskische Wachen</castItem>
-          <castItem>Volumnia, Coriolans Mutter</castItem>
-          <castItem>Virgilia, Coriolans Gemahlin</castItem>
-          <castItem>Valeria, Virgilias Freundin</castItem>
-          <castItem>Dienerinnen der Virgilia</castItem>
-          <castItem>Römer und Volsker. Senatoren, Patrizier, Ädilen, Liktoren, Krieger, Bürger,
-            Boten</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Cajus Marcius Coriolanus, ein edler Römer</castItem>
+        <castGroup>
+          <castItem>Titus Lartius,</castItem>
+          <castItem>Cominius,</castItem>
+          <roleDesc>Anführer gegen die Volsker</roleDesc>
+        </castGroup>
+        <castItem>Menenius Agrippa, Coriolans Freund</castItem>
+        <castGroup>
+          <castItem>Sicinius Velutus,</castItem>
+          <castItem>Junius Brutus,</castItem>
+          <roleDesc>Volkstribunen.</roleDesc>
+        </castGroup>
+        <castItem>Marcius, Coriolans Kleiner Sohn</castItem>
+        <castItem>Ein römischer Herold</castItem>
+        <castItem>Tullus Aufidius, Anführer der Volsker</castItem>
+        <castItem>Ein Unterfeldherr des Aufidius</castItem>
+        <castItem>Verschworne</castItem>
+        <castItem>Ein Bürger von Antium</castItem>
+        <castItem>Zwei volskische Wachen</castItem>
+        <castItem>Volumnia, Coriolans Mutter</castItem>
+        <castItem>Virgilia, Coriolans Gemahlin</castItem>
+        <castItem>Valeria, Virgilias Freundin</castItem>
+        <castItem>Dienerinnen der Virgilia</castItem>
+        <castItem>Römer und Volsker. Senatoren, Patrizier, Ädilen, Liktoren, Krieger, Bürger,
+          Boten</castItem>
+      </castList>
     </front>
     <pb n="798"/>
     <body>

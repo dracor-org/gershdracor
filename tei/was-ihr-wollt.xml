@@ -141,38 +141,38 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Was ihr wollt</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Was ihr wollt</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="728"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Orsino, Herzog von Illyrien</castItem>
-          <castItem>Sebastian, ein junger Edelmann, Violas Bruder</castItem>
-          <castItem>Antonio, ein Schiffshauptmann</castItem>
-          <castItem>Ein Schiffshauptmann</castItem>
-          <castGroup>
-            <castItem>Valentin,</castItem>
-            <castItem>Curio,</castItem>
-            <roleDesc>Kavaliere des Herzogs</roleDesc>
-          </castGroup>
-          <castItem>Junker Tobias von Rülp, Olivias Oheim</castItem>
-          <castItem>Junker Christoph von Bleichenwang</castItem>
-          <castItem>Malvolio, Olivias Haushofmeister</castItem>
-          <castGroup>
-            <castItem>Fabio,</castItem>
-            <castItem>Narr,</castItem>
-            <roleDesc>in Olivias Dienst</roleDesc>
-          </castGroup>
-          <castItem>Olivia, eine reiche Gräfin</castItem>
-          <castItem>Viola</castItem>
-          <castItem>Maria, Olivias Kammermädchen</castItem>
-          <castItem>Herren vom Hofe, ein Priester, Matrosen, Gerichtsdiener, Musikanten und andres
-            Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Orsino, Herzog von Illyrien</castItem>
+        <castItem>Sebastian, ein junger Edelmann, Violas Bruder</castItem>
+        <castItem>Antonio, ein Schiffshauptmann</castItem>
+        <castItem>Ein Schiffshauptmann</castItem>
+        <castGroup>
+          <castItem>Valentin,</castItem>
+          <castItem>Curio,</castItem>
+          <roleDesc>Kavaliere des Herzogs</roleDesc>
+        </castGroup>
+        <castItem>Junker Tobias von Rülp, Olivias Oheim</castItem>
+        <castItem>Junker Christoph von Bleichenwang</castItem>
+        <castItem>Malvolio, Olivias Haushofmeister</castItem>
+        <castGroup>
+          <castItem>Fabio,</castItem>
+          <castItem>Narr,</castItem>
+          <roleDesc>in Olivias Dienst</roleDesc>
+        </castGroup>
+        <castItem>Olivia, eine reiche Gräfin</castItem>
+        <castItem>Viola</castItem>
+        <castItem>Maria, Olivias Kammermädchen</castItem>
+        <castItem>Herren vom Hofe, ein Priester, Matrosen, Gerichtsdiener, Musikanten und andres
+          Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist eine Stadt in Illyrien und die benachbarte Seeküste</p>
       </set>

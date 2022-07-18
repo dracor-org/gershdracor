@@ -84,38 +84,38 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Ende gut, alles gut</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Ende gut, alles gut</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="116"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Der König von Frankreich</castItem>
-          <castItem>Der Herzog von Florenz</castItem>
-          <castItem>Bertram, Graf von Roussillon</castItem>
-          <castItem>Lafeu, ein Vasall des Königs</castItem>
-          <castItem>Parolles, Gesellschafter des Grafen</castItem>
-          <castItem>Mehrere junge französische Edelleute</castItem>
-          <castGroup>
-            <castItem>Haushofmeister,</castItem>
-            <castItem>Narr,</castItem>
-            <castItem>[Ein Page],</castItem>
-            <roleDesc>in Diensten der Gräfin von Roussillon</roleDesc>
-          </castGroup>
-          <castItem>Die Gräfin von Roussillon</castItem>
-          <castItem>Helena, ihre Pflegetochter</castItem>
-          <castItem>Eine Witwe</castItem>
-          <castItem>Diana, deren Tochter</castItem>
-          <castGroup>
-            <castItem>Violenta,</castItem>
-            <castItem>Mariane,</castItem>
-            <roleDesc>Dianens Freundinen</roleDesc>
-          </castGroup>
-          <castItem>Herren vom Hofe; Hauptleute; Soldaten</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Der König von Frankreich</castItem>
+        <castItem>Der Herzog von Florenz</castItem>
+        <castItem>Bertram, Graf von Roussillon</castItem>
+        <castItem>Lafeu, ein Vasall des Königs</castItem>
+        <castItem>Parolles, Gesellschafter des Grafen</castItem>
+        <castItem>Mehrere junge französische Edelleute</castItem>
+        <castGroup>
+          <castItem>Haushofmeister,</castItem>
+          <castItem>Narr,</castItem>
+          <castItem>[Ein Page],</castItem>
+          <roleDesc>in Diensten der Gräfin von Roussillon</roleDesc>
+        </castGroup>
+        <castItem>Die Gräfin von Roussillon</castItem>
+        <castItem>Helena, ihre Pflegetochter</castItem>
+        <castItem>Eine Witwe</castItem>
+        <castItem>Diana, deren Tochter</castItem>
+        <castGroup>
+          <castItem>Violenta,</castItem>
+          <castItem>Mariane,</castItem>
+          <roleDesc>Dianens Freundinen</roleDesc>
+        </castGroup>
+        <castItem>Herren vom Hofe; Hauptleute; Soldaten</castItem>
+      </castList>
       <set>
         <p>Die Szene ist teils in Frankreich, teils in Toskana</p>
       </set>

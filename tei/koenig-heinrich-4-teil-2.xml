@@ -83,61 +83,60 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich IV.</head>
-        <head>Zweiter Teil</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich IV. Zweiter Teil</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="279"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich IV.</castItem>
-          <castGroup>
-            <castItem>Prinz Heinrich von Wales</castItem>
-            <castItem>Thomas, Herzog von Clarence</castItem>
-            <castItem>Prinz Johann von Lancaster</castItem>
-            <castItem>Prinz Humphrey von Gloster,</castItem>
-            <roleDesc>Söhne des Königs</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Graf von Warwick</castItem>
-            <castItem>Graf von Westmoreland</castItem>
-            <castItem>Gower</castItem>
-            <castItem>Harcourt,</castItem>
-            <roleDesc>von des Königs Partei</roleDesc>
-          </castGroup>
-          <castItem>Der Oberrichter von der königlichen Bank</castItem>
-          <castItem>Ein Unterbeamter im Gefolge des Oberrichters</castItem>
-          <castGroup>
-            <castItem>Graf von Northumberland,</castItem>
-            <castItem>Scroop, Erzbischof von York</castItem>
-            <castItem>Lord Mowbray</castItem>
-            <castItem>Lord Hastings</castItem>
-            <castItem>Lord Bardolph,</castItem>
-            <roleDesc>Feinde des Königs</roleDesc>
-          </castGroup>
-          <castItem>Sir John Colevile</castItem>
-          <castItem>Travers und Morton, Bediente Northumberlands</castItem>
-          <castItem>Falstaff</castItem>
-          <castItem>Bardolph</castItem>
-          <castItem>Pistol</castItem>
-          <castItem>Ein Page</castItem>
-          <castItem>Poins und Peto, Begleiter Prinz Heinrichs</castItem>
-          <castItem>Schaal und Stille, Friedensrichter auf dem Lande</castItem>
-          <castItem>David, Schaals Bedienter</castItem>
-          <castItem>Schimmelig, Schatte, Warze, Schwächlich und Bullenkalb, Rekruten</castItem>
-          <castItem>Klaue und Schlinge, Gerichtsdiener</castItem>
-          <castItem>Ein Pförtner</castItem>
-          <pb n="279"/>
-          <castItem>Lady Northumberland</castItem>
-          <castItem>Lady Percy</castItem>
-          <castItem>Frau Hurtig, Wirtin</castItem>
-          <castItem>Dortchen Lakenreißer</castItem>
-          <castItem>Lords und andres Gefolge, Offiziere, Soldaten, Bote, Küfer, Büttel, Kammerdiener
-            usw.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich IV.</castItem>
+        <castGroup>
+          <castItem>Prinz Heinrich von Wales</castItem>
+          <castItem>Thomas, Herzog von Clarence</castItem>
+          <castItem>Prinz Johann von Lancaster</castItem>
+          <castItem>Prinz Humphrey von Gloster,</castItem>
+          <roleDesc>Söhne des Königs</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Graf von Warwick</castItem>
+          <castItem>Graf von Westmoreland</castItem>
+          <castItem>Gower</castItem>
+          <castItem>Harcourt,</castItem>
+          <roleDesc>von des Königs Partei</roleDesc>
+        </castGroup>
+        <castItem>Der Oberrichter von der königlichen Bank</castItem>
+        <castItem>Ein Unterbeamter im Gefolge des Oberrichters</castItem>
+        <castGroup>
+          <castItem>Graf von Northumberland,</castItem>
+          <castItem>Scroop, Erzbischof von York</castItem>
+          <castItem>Lord Mowbray</castItem>
+          <castItem>Lord Hastings</castItem>
+          <castItem>Lord Bardolph,</castItem>
+          <roleDesc>Feinde des Königs</roleDesc>
+        </castGroup>
+        <castItem>Sir John Colevile</castItem>
+        <castItem>Travers und Morton, Bediente Northumberlands</castItem>
+        <castItem>Falstaff</castItem>
+        <castItem>Bardolph</castItem>
+        <castItem>Pistol</castItem>
+        <castItem>Ein Page</castItem>
+        <castItem>Poins und Peto, Begleiter Prinz Heinrichs</castItem>
+        <castItem>Schaal und Stille, Friedensrichter auf dem Lande</castItem>
+        <castItem>David, Schaals Bedienter</castItem>
+        <castItem>Schimmelig, Schatte, Warze, Schwächlich und Bullenkalb, Rekruten</castItem>
+        <castItem>Klaue und Schlinge, Gerichtsdiener</castItem>
+        <castItem>Ein Pförtner</castItem>
+        <pb n="279"/>
+        <castItem>Lady Northumberland</castItem>
+        <castItem>Lady Percy</castItem>
+        <castItem>Frau Hurtig, Wirtin</castItem>
+        <castItem>Dortchen Lakenreißer</castItem>
+        <castItem>Lords und andres Gefolge, Offiziere, Soldaten, Bote, Küfer, Büttel, Kammerdiener
+          usw.</castItem>
+      </castList>
     </front>
     <pb n="280"/>
     <body>

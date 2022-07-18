@@ -84,47 +84,47 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Titus Andronicus</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Titus Andronicus</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="6"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Saturninus, Sohn des letzten römischen Kaisern, späterhin selbst
-            Kaiser</castItem>
-          <castItem>Bassianus, dessen Bruder, Liebhaber der Lavinia</castItem>
-          <castItem>Titus Andronicus, ein edler Kölner und Heerführer wider die Goten</castItem>
-          <castItem>Marcus Andronicus, Volkstribun, des Titus Bruder</castItem>
-          <castGroup>
-            <castItem>Lucius</castItem>
-            <castItem>Quintus</castItem>
-            <castItem>Mutius</castItem>
-            <castItem>Marcius,</castItem>
-            <roleDesc>Söhne des Titus Andromcus</roleDesc>
-          </castGroup>
-          <castItem>Der jüngere Lucius, Lucius' Sohn. Titus' Enkel</castItem>
-          <castItem>Publius, Sohn des Marcus Andronicus</castItem>
-          <castItem>Ämilius, römischer Patrizier</castItem>
-          <castGroup>
-            <castItem>Alarbus</castItem>
-            <castItem>Chiron</castItem>
-            <castItem>Demetrius,</castItem>
-            <roleDesc>Söhne der Tanwra</roleDesc>
-          </castGroup>
-          <castItem>Aaron, ein Mohr, Tamoras Geliebter</castItem>
-          <castItem>Ein Hauptmann</castItem>
-          <castItem>Ein Tribun</castItem>
-          <castItem>Ein Bote</castItem>
-          <castItem>Ein Bauer</castItem>
-          <castItem>Tamora, Königin der Goten</castItem>
-          <castItem>Lavinia, Tochter des Titus Andronicus</castItem>
-          <castItem>Eine Wärterin</castItem>
-          <castItem>Ein Mohrenkind</castItem>
-          <castItem>Senatoren, Tribunen, Gerichtsdiener, Kriegsleute und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Saturninus, Sohn des letzten römischen Kaisern, späterhin selbst
+          Kaiser</castItem>
+        <castItem>Bassianus, dessen Bruder, Liebhaber der Lavinia</castItem>
+        <castItem>Titus Andronicus, ein edler Kölner und Heerführer wider die Goten</castItem>
+        <castItem>Marcus Andronicus, Volkstribun, des Titus Bruder</castItem>
+        <castGroup>
+          <castItem>Lucius</castItem>
+          <castItem>Quintus</castItem>
+          <castItem>Mutius</castItem>
+          <castItem>Marcius,</castItem>
+          <roleDesc>Söhne des Titus Andromcus</roleDesc>
+        </castGroup>
+        <castItem>Der jüngere Lucius, Lucius' Sohn. Titus' Enkel</castItem>
+        <castItem>Publius, Sohn des Marcus Andronicus</castItem>
+        <castItem>Ämilius, römischer Patrizier</castItem>
+        <castGroup>
+          <castItem>Alarbus</castItem>
+          <castItem>Chiron</castItem>
+          <castItem>Demetrius,</castItem>
+          <roleDesc>Söhne der Tanwra</roleDesc>
+        </castGroup>
+        <castItem>Aaron, ein Mohr, Tamoras Geliebter</castItem>
+        <castItem>Ein Hauptmann</castItem>
+        <castItem>Ein Tribun</castItem>
+        <castItem>Ein Bote</castItem>
+        <castItem>Ein Bauer</castItem>
+        <castItem>Tamora, Königin der Goten</castItem>
+        <castItem>Lavinia, Tochter des Titus Andronicus</castItem>
+        <castItem>Eine Wärterin</castItem>
+        <castItem>Ein Mohrenkind</castItem>
+        <castItem>Senatoren, Tribunen, Gerichtsdiener, Kriegsleute und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Szene: Rom und die umliegende Gegend</p>
       </set>

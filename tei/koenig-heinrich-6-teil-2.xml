@@ -83,61 +83,60 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich VI.</head>
-        <head>Zweiter Teil</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich VI. Zweiter Teil</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="587"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich VI.</castItem>
-          <castItem>Humphrey, Herzog von Gloster, sein Oheim</castItem>
-          <castItem>Kardinal Beaufort, Bischof von Winchester, Großoheim des Königs</castItem>
-          <castItem>Richard Plantagenet, Herzog von York</castItem>
-          <castItem>Eduard und Richard, seine Söhne</castItem>
-          <castGroup>
-            <castItem>Herzog von Somerset,</castItem>
-            <castItem>Herzog von Suffolk,</castItem>
-            <castItem>Herzog von Buckingham,</castItem>
-            <castItem>Lord Clifford</castItem>
-            <castItem>Der junge Clifford, sein Sohn,</castItem>
-            <roleDesc>von der königlichen Partei</roleDesc>
-          </castGroup>
-          <castItem>Graf von Salisbury,</castItem>
-          <castItem>Graf von Warwick, von der Yorkschen Partei</castItem>
-          <castItem>Lord Scales, Befehlshaber des Turmes</castItem>
-          <castItem>Lord Say</castItem>
-          <castItem>Sir Humphrey Stafford und sein Bruder</castItem>
-          <castItem>Sir John Stanley</castItem>
-          <castItem>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart
-            Wittmer</castItem>
-          <castItem>Zwei Edelleute, nebst Suffolk gefangen</castItem>
-          <castItem>Ein Herold</castItem>
-          <castItem>Vaux</castItem>
-          <castItem>Hume und Southwell, zwei Pfaffen</castItem>
-          <castItem>Bolingbroke, ein Beschwörer. Ein von ihm aufgerufner Geist</castItem>
-          <castItem>Thomas Horner, ein Waffenschmied</castItem>
-          <castItem>Peter, sein Geselle</castItem>
-          <castItem>Der Schreiber von Chatham</castItem>
-          <castItem>Der Schulz von Sankt-Albans</castItem>
-          <castItem>Simpcox, ein Betrüger</castItem>
-          <castItem>Zwei Mörder</castItem>
-          <castItem>Hans Cade, ein Rebell</castItem>
-          <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel
-            u.a., seine Anhänger</castItem>
-          <castItem>Alexander Iden, ein kentischer Edelmann</castItem>
-          <pb n="587"/>
-          <castItem>Margareta, König Heinrichs Gemahlin</castItem>
-          <castItem>Leonora, Herzogin von Gloster</castItem>
-          <castItem>Grete Jordan, eine Hexe</castItem>
-          <castItem>Simpcoxens Frau</castItem>
-          <castItem>Herren und Frauen von Adel und sonstiges Gefolge; Supplikanten, Aldermänner, ein
-            Büttel, Sheriff und Beamte; Bürger, Lehrbursche, Falkeniere, Wachen, Soldaten, Boten
-            usw.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich VI.</castItem>
+        <castItem>Humphrey, Herzog von Gloster, sein Oheim</castItem>
+        <castItem>Kardinal Beaufort, Bischof von Winchester, Großoheim des Königs</castItem>
+        <castItem>Richard Plantagenet, Herzog von York</castItem>
+        <castItem>Eduard und Richard, seine Söhne</castItem>
+        <castGroup>
+          <castItem>Herzog von Somerset,</castItem>
+          <castItem>Herzog von Suffolk,</castItem>
+          <castItem>Herzog von Buckingham,</castItem>
+          <castItem>Lord Clifford</castItem>
+          <castItem>Der junge Clifford, sein Sohn,</castItem>
+          <roleDesc>von der königlichen Partei</roleDesc>
+        </castGroup>
+        <castItem>Graf von Salisbury,</castItem>
+        <castItem>Graf von Warwick, von der Yorkschen Partei</castItem>
+        <castItem>Lord Scales, Befehlshaber des Turmes</castItem>
+        <castItem>Lord Say</castItem>
+        <castItem>Sir Humphrey Stafford und sein Bruder</castItem>
+        <castItem>Sir John Stanley</castItem>
+        <castItem>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart
+          Wittmer</castItem>
+        <castItem>Zwei Edelleute, nebst Suffolk gefangen</castItem>
+        <castItem>Ein Herold</castItem>
+        <castItem>Vaux</castItem>
+        <castItem>Hume und Southwell, zwei Pfaffen</castItem>
+        <castItem>Bolingbroke, ein Beschwörer. Ein von ihm aufgerufner Geist</castItem>
+        <castItem>Thomas Horner, ein Waffenschmied</castItem>
+        <castItem>Peter, sein Geselle</castItem>
+        <castItem>Der Schreiber von Chatham</castItem>
+        <castItem>Der Schulz von Sankt-Albans</castItem>
+        <castItem>Simpcox, ein Betrüger</castItem>
+        <castItem>Zwei Mörder</castItem>
+        <castItem>Hans Cade, ein Rebell</castItem>
+        <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel
+          u.a., seine Anhänger</castItem>
+        <castItem>Alexander Iden, ein kentischer Edelmann</castItem>
+        <pb n="587"/>
+        <castItem>Margareta, König Heinrichs Gemahlin</castItem>
+        <castItem>Leonora, Herzogin von Gloster</castItem>
+        <castItem>Grete Jordan, eine Hexe</castItem>
+        <castItem>Simpcoxens Frau</castItem>
+        <castItem>Herren und Frauen von Adel und sonstiges Gefolge; Supplikanten, Aldermänner, ein
+          Büttel, Sheriff und Beamte; Bürger, Lehrbursche, Falkeniere, Wachen, Soldaten, Boten
+          usw.</castItem>
+      </castList>
       <set>
         <p>Die Szene ist abwechselnd in verschiednen Gegenden Englands</p>
       </set>

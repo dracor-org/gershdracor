@@ -84,41 +84,41 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Lear</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Lear</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="498"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Lear, König von Britannien</castItem>
-          <castItem>König von Frankreich</castItem>
-          <castItem>Herzog von Burgund</castItem>
-          <castItem>Herzog von Cornwall</castItem>
-          <castItem>Herzog von Albanien</castItem>
-          <castItem>Graf von Gloster</castItem>
-          <castItem>Graf von Kent</castItem>
-          <castItem>Edgar, Glosters Sohn</castItem>
-          <castItem>Edmund, Glosters Bastard</castItem>
-          <castItem>Curan, ein Höfling</castItem>
-          <castItem>Ein Arzt</castItem>
-          <castItem>Der Narr</castItem>
-          <castItem>Oswald, Gonerils Haushofmeister</castItem>
-          <castItem>Ein Hauptmann</castItem>
-          <castItem>Ein Edelmann im Gefolge der Cordelia</castItem>
-          <castItem>Ein Herold</castItem>
-          <castItem>Ein alter Mann, Glosters Pachter</castItem>
-          <castItem>Bediente von Cornwall</castItem>
-          <castGroup>
-            <castItem>Goneril</castItem>
-            <castItem>Regan</castItem>
-            <castItem>Cordelia,</castItem>
-            <roleDesc>Lears Töchter</roleDesc>
-          </castGroup>
-          <castItem>Ritter im Gefolge des Königs, Offiziere, Boten, Soldaten und Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Lear, König von Britannien</castItem>
+        <castItem>König von Frankreich</castItem>
+        <castItem>Herzog von Burgund</castItem>
+        <castItem>Herzog von Cornwall</castItem>
+        <castItem>Herzog von Albanien</castItem>
+        <castItem>Graf von Gloster</castItem>
+        <castItem>Graf von Kent</castItem>
+        <castItem>Edgar, Glosters Sohn</castItem>
+        <castItem>Edmund, Glosters Bastard</castItem>
+        <castItem>Curan, ein Höfling</castItem>
+        <castItem>Ein Arzt</castItem>
+        <castItem>Der Narr</castItem>
+        <castItem>Oswald, Gonerils Haushofmeister</castItem>
+        <castItem>Ein Hauptmann</castItem>
+        <castItem>Ein Edelmann im Gefolge der Cordelia</castItem>
+        <castItem>Ein Herold</castItem>
+        <castItem>Ein alter Mann, Glosters Pachter</castItem>
+        <castItem>Bediente von Cornwall</castItem>
+        <castGroup>
+          <castItem>Goneril</castItem>
+          <castItem>Regan</castItem>
+          <castItem>Cordelia,</castItem>
+          <roleDesc>Lears Töchter</roleDesc>
+        </castGroup>
+        <castItem>Ritter im Gefolge des Königs, Offiziere, Boten, Soldaten und Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in Britannien</p>
       </set>

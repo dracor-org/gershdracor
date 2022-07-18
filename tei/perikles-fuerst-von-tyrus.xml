@@ -81,44 +81,43 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Perikles</head>
-        <head>Fürst von Tyrus</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Perikles. Fürst von Tyrus</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="302"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Antiochus, König von Antiochien</castItem>
-          <castItem> Perikles, Fürst von Tyrus</castItem>
-          <castGroup>
-            <castItem> Helicanus</castItem>
-            <castItem> Escanes,</castItem>
-            <roleDesc>Hofleute aus Tyrus</roleDesc>
-          </castGroup>
-          <castItem> Simonides, König von Pentapolis</castItem>
-          <castItem> Cleon, Statthalter von Tharsus</castItem>
-          <castItem> Lysimachus, Statthalter von Mitylene</castItem>
-          <castItem> Cerimon, ein Hofmann aus Ephesus</castItem>
-          <castItem> Thaliard, ein Hofmann aus Antiochien</castItem>
-          <castItem> Philemon, Cerimons Diener</castItem>
-          <castItem> Leonin, Dionysas Diener</castItem>
-          <castItem> Marschall</castItem>
-          <castItem> Ein Kuppler</castItem>
-          <castItem> Bolz, sein Diener</castItem>
-          <castItem> Gower, an Stelle des Chores</castItem>
-          <castItem> Die Tochter des Antiochus</castItem>
-          <castItem> Thaisa, Tochter des Simonides</castItem>
-          <castItem> Marina, Tochter des Perikles und der Thaisa</castItem>
-          <castItem> Dionysa, Gemahlin des Cleon</castItem>
-          <castItem> Lychorida, Marinas Amme</castItem>
-          <castItem> Diana</castItem>
-          <castItem> Eine Kupplerin</castItem>
-          <castItem> Hofleute, Ritter, Matrosen,</castItem>
-          <castItem> Seeräuber, Fischer, Boten</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Antiochus, König von Antiochien</castItem>
+        <castItem>Perikles, Fürst von Tyrus</castItem>
+        <castGroup>
+          <castItem>Helicanus</castItem>
+          <castItem>Escanes,</castItem>
+          <roleDesc>Hofleute aus Tyrus</roleDesc>
+        </castGroup>
+        <castItem>Simonides, König von Pentapolis</castItem>
+        <castItem>Cleon, Statthalter von Tharsus</castItem>
+        <castItem>Lysimachus, Statthalter von Mitylene</castItem>
+        <castItem>Cerimon, ein Hofmann aus Ephesus</castItem>
+        <castItem>Thaliard, ein Hofmann aus Antiochien</castItem>
+        <castItem>Philemon, Cerimons Diener</castItem>
+        <castItem>Leonin, Dionysas Diener</castItem>
+        <castItem>Marschall</castItem>
+        <castItem>Ein Kuppler</castItem>
+        <castItem>Bolz, sein Diener</castItem>
+        <castItem>Gower, an Stelle des Chores</castItem>
+        <castItem>Die Tochter des Antiochus</castItem>
+        <castItem>Thaisa, Tochter des Simonides</castItem>
+        <castItem>Marina, Tochter des Perikles und der Thaisa</castItem>
+        <castItem>Dionysa, Gemahlin des Cleon</castItem>
+        <castItem>Lychorida, Marinas Amme</castItem>
+        <castItem>Diana</castItem>
+        <castItem>Eine Kupplerin</castItem>
+        <castItem>Hofleute, Ritter, Matrosen,</castItem>
+        <castItem>Seeräuber, Fischer, Boten</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in verschiedenen Ländern</p>
       </set>

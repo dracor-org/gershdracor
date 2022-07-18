@@ -91,43 +91,43 @@
   <text>
     <pb n="1"/>
     <front>
-      <div type="front">
-        <head>Die beiden edlen Vettern.</head>
-        <head>Drama von John Fletcher (und Massinger).</head>
-      </div>
+      <titlePage>
+        <docAuthor>John Fletcher (und [Philip] Massinger)</docAuthor>
+        <docTitle>
+          <titlePart type="main">Die beiden edlen Vettern</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="11"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen:</head>
-          <castItem>Theseus, Herzog von Athen.</castItem>
-          <castItem>Pirithous, atheniensischer Feldherr.</castItem>
-          <castItem>Artesius, atheniensischer Hauptmann.</castItem>
-          <castGroup>
-            <castItem>Palämon,</castItem>
-            <castItem>Arcites,</castItem>
-            <roleDesc>Neffen des thebanischen Königs Kreon.</roleDesc>
-          </castGroup>
-          <castItem>Valerius, ein thebanischer Edelmann.</castItem>
-          <castItem>Sechs Ritter.</castItem>
-          <castItem>Ein Herold.</castItem>
-          <castItem>Kerkermeister.</castItem>
-          <castItem>Ein Freier der Tochter des Kerkermeisters.</castItem>
-          <castItem>Ein Arzt.</castItem>
-          <castGroup>
-            <castItem>Bruder</castItem>
-            <castItem>Freunde</castItem>
-            <roleDesc>des Kerkermeisters.</roleDesc>
-          </castGroup>
-          <castItem>Ein Edelmann.</castItem>
-          <castItem>Gerrold, ein Schulmeister.</castItem>
-          <castItem>Hippolyta, eine Amazone, Braut des Theseus.</castItem>
-          <castItem>Emilia, Schwester des Theseus.</castItem>
-          <castItem>Drei Königinnen.</castItem>
-          <castItem>Die Tochter des Kerkermeisters.</castItem>
-          <castItem>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen vorstellt.
-            Ein Knabe. Ein Henker. Wache. Dienstboten. Landmädchen. Nymphen.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen:</head>
+        <castItem>Theseus, Herzog von Athen.</castItem>
+        <castItem>Pirithous, atheniensischer Feldherr.</castItem>
+        <castItem>Artesius, atheniensischer Hauptmann.</castItem>
+        <castGroup>
+          <castItem>Palämon,</castItem>
+          <castItem>Arcites,</castItem>
+          <roleDesc>Neffen des thebanischen Königs Kreon.</roleDesc>
+        </castGroup>
+        <castItem>Valerius, ein thebanischer Edelmann.</castItem>
+        <castItem>Sechs Ritter.</castItem>
+        <castItem>Ein Herold.</castItem>
+        <castItem>Kerkermeister.</castItem>
+        <castItem>Ein Freier der Tochter des Kerkermeisters.</castItem>
+        <castItem>Ein Arzt.</castItem>
+        <castGroup>
+          <castItem>Bruder</castItem>
+          <castItem>Freunde</castItem>
+          <roleDesc>des Kerkermeisters.</roleDesc>
+        </castGroup>
+        <castItem>Ein Edelmann.</castItem>
+        <castItem>Gerrold, ein Schulmeister.</castItem>
+        <castItem>Hippolyta, eine Amazone, Braut des Theseus.</castItem>
+        <castItem>Emilia, Schwester des Theseus.</castItem>
+        <castItem>Drei Königinnen.</castItem>
+        <castItem>Die Tochter des Kerkermeisters.</castItem>
+        <castItem>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen vorstellt.
+          Ein Knabe. Ein Henker. Wache. Dienstboten. Landmädchen. Nymphen.</castItem>
+      </castList>
       <set>
         <p>Scene: Athen und seine Umgebung, außer im ersten Act, wo die Handlung auch in Theben und
           seiner Umgebung vor sich geht.</p>

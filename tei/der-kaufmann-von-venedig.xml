@@ -83,47 +83,47 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Der Kaufmann von Venedig</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Der Kaufmann von Venedig</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="380"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Der Doge von Venedig</castItem>
-          <castGroup>
-            <castItem>Prinz von Marokko</castItem>
-            <castItem>Prinz von Arragon,</castItem>
-            <roleDesc>Freier der Porzia</roleDesc>
-          </castGroup>
-          <castItem>Antonio, der Kaufmann von Venedig</castItem>
-          <castItem>Bassanio, sein Freund</castItem>
-          <castGroup>
-            <castItem>Solanio,</castItem>
-            <castItem>Salarino,</castItem>
-            <castItem>Graziano,</castItem>
-            <roleDesc>Freunde des Antonio</roleDesc>
-          </castGroup>
-          <castItem>Lorenzo, Liebhaber der Jessica</castItem>
-          <castItem>Shylock, ein Jude</castItem>
-          <castItem>Tubal, ein Jude, sein Freund</castItem>
-          <castItem>Lanzelot Gobbo, Shylocks Diener</castItem>
-          <castItem>Der alte Gobbo, Lanzelots Vater</castItem>
-          <castItem>Salerio, ein Bote von Venedig</castItem>
-          <castItem>Leonardo, Bassanios Diener</castItem>
-          <castGroup>
-            <castItem>Balthasar</castItem>
-            <castItem>Stephano,</castItem>
-            <roleDesc>Porzias Diener</roleDesc>
-          </castGroup>
-          <castItem>Porzia, eine reiche Erbin</castItem>
-          <castItem>Nerissa, ihre Begleiterin</castItem>
-          <castItem>Jessica, Shylocks Tochter</castItem>
-          <castItem>Senatoren von Venedig, Beamte des Gerichtshofes, Gefangenwärter, Bediente und
-            andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Der Doge von Venedig</castItem>
+        <castGroup>
+          <castItem>Prinz von Marokko</castItem>
+          <castItem>Prinz von Arragon,</castItem>
+          <roleDesc>Freier der Porzia</roleDesc>
+        </castGroup>
+        <castItem>Antonio, der Kaufmann von Venedig</castItem>
+        <castItem>Bassanio, sein Freund</castItem>
+        <castGroup>
+          <castItem>Solanio,</castItem>
+          <castItem>Salarino,</castItem>
+          <castItem>Graziano,</castItem>
+          <roleDesc>Freunde des Antonio</roleDesc>
+        </castGroup>
+        <castItem>Lorenzo, Liebhaber der Jessica</castItem>
+        <castItem>Shylock, ein Jude</castItem>
+        <castItem>Tubal, ein Jude, sein Freund</castItem>
+        <castItem>Lanzelot Gobbo, Shylocks Diener</castItem>
+        <castItem>Der alte Gobbo, Lanzelots Vater</castItem>
+        <castItem>Salerio, ein Bote von Venedig</castItem>
+        <castItem>Leonardo, Bassanios Diener</castItem>
+        <castGroup>
+          <castItem>Balthasar</castItem>
+          <castItem>Stephano,</castItem>
+          <roleDesc>Porzias Diener</roleDesc>
+        </castGroup>
+        <castItem>Porzia, eine reiche Erbin</castItem>
+        <castItem>Nerissa, ihre Begleiterin</castItem>
+        <castItem>Jessica, Shylocks Tochter</castItem>
+        <castItem>Senatoren von Venedig, Beamte des Gerichtshofes, Gefangenwärter, Bediente und
+          andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist teils zu Venedig, teils zu Belmont, Porzias Landsitz</p>
       </set>

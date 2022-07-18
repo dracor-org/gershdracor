@@ -84,35 +84,35 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Othello</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Othello</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="390"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Herzog von Venedig</castItem>
-          <castItem>Brabantio, Senator</castItem>
-          <castItem>Mehrere Senatoren</castItem>
-          <castGroup>
-            <castItem>Gratiano,</castItem>
-            <castItem>Lodovico,</castItem>
-            <roleDesc>Verwandte des Brabantio</roleDesc>
-          </castGroup>
-          <castItem>Othello, Feldherr; Mohr</castItem>
-          <castItem>Cassio, sein Leutnant</castItem>
-          <castItem>Jago, sein Fähndrich</castItem>
-          <castItem>Rodrigo, ein junger Venetianer</castItem>
-          <castItem>Montano, Statthalter von Cypern</castItem>
-          <castItem>Ein Diener des Othello</castItem>
-          <castItem>Herold</castItem>
-          <castItem>Desdemona, Brabantios Tochter</castItem>
-          <castItem>Emilie, Jagos Frau</castItem>
-          <castItem>Bianca, Kurtisane</castItem>
-          <castItem>Offiziere, Edelleute, Boten, Musikanten, Matrosen, Gefolge u.s.w.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Herzog von Venedig</castItem>
+        <castItem>Brabantio, Senator</castItem>
+        <castItem>Mehrere Senatoren</castItem>
+        <castGroup>
+          <castItem>Gratiano,</castItem>
+          <castItem>Lodovico,</castItem>
+          <roleDesc>Verwandte des Brabantio</roleDesc>
+        </castGroup>
+        <castItem>Othello, Feldherr; Mohr</castItem>
+        <castItem>Cassio, sein Leutnant</castItem>
+        <castItem>Jago, sein Fähndrich</castItem>
+        <castItem>Rodrigo, ein junger Venetianer</castItem>
+        <castItem>Montano, Statthalter von Cypern</castItem>
+        <castItem>Ein Diener des Othello</castItem>
+        <castItem>Herold</castItem>
+        <castItem>Desdemona, Brabantios Tochter</castItem>
+        <castItem>Emilie, Jagos Frau</castItem>
+        <castItem>Bianca, Kurtisane</castItem>
+        <castItem>Offiziere, Edelleute, Boten, Musikanten, Matrosen, Gefolge u.s.w.</castItem>
+      </castList>
       <set>
         <p>Szene im ersten Aufzug in Venedig; hernach in Cypern</p>
       </set>

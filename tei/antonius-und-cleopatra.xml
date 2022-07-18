@@ -84,69 +84,69 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Antonius und Cleopatra</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Antonius und Cleopatra</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="686"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castGroup>
-            <castItem>Marcus Antonius,</castItem>
-            <castItem>Octavius Cäsar,</castItem>
-            <castItem>M. Ämilius Lepidus,</castItem>
-            <roleDesc>Triumvirn</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Sextus Pompejus,</castItem>
-            <castItem>Domitius Enobarbus,</castItem>
-            <castItem>Ventidius,</castItem>
-            <castItem>Eros,</castItem>
-            <castItem>Scarus,</castItem>
-            <castItem>Dercetas,</castItem>
-            <castItem>Demetrius,</castItem>
-            <castItem>Philo,</castItem>
-            <roleDesc>Freunde des Antonius</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Mäcenas,</castItem>
-            <castItem>Agrippa,</castItem>
-            <castItem>Dolabella,</castItem>
-            <castItem>Proculejus,</castItem>
-            <castItem>Thyräus,</castItem>
-            <castItem>Gallus,</castItem>
-            <roleDesc>Freunde des Cäsar</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Menas,</castItem>
-            <castItem>Menecrates,</castItem>
-            <castItem>Varrius,</castItem>
-            <roleDesc>Freunde des Pompejus</roleDesc>
-          </castGroup>
-          <castItem>Taurus, Oberbefehlshaber unter Cäsar</castItem>
-          <castItem>Canidius, Oberbefehlshaber unter Antonius</castItem>
-          <castItem>Solius, ein Offizier in der Armee des Ventidius</castItem>
-          <castItem>Euphronius, ein Gesandter des Antonius an Cäsar</castItem>
-          <castGroup>
-            <castItem>Alexas,</castItem>
-            <castItem>Mardian,</castItem>
-            <castItem>Seleucus,</castItem>
-            <castItem>Diomedes,</castItem>
-            <roleDesc>im Dienste der Cleopatra</roleDesc>
-          </castGroup>
-          <castItem>Ein Wahrsager</castItem>
-          <castItem>Ein Bauer</castItem>
-          <castItem>Cleopatra, Königin von Ägypten</castItem>
-          <castItem>Octavia, Cäsars Schwester, Gemahlin des Antonius</castItem>
-          <castGroup>
-            <castItem>Charmion,</castItem>
-            <castItem>Iras,</castItem>
-            <roleDesc>im Dienste der Cleopatra</roleDesc>
-          </castGroup>
-          <castItem>Hauptleute, Soldaten, Boten und Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castGroup>
+          <castItem>Marcus Antonius,</castItem>
+          <castItem>Octavius Cäsar,</castItem>
+          <castItem>M. Ämilius Lepidus,</castItem>
+          <roleDesc>Triumvirn</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Sextus Pompejus,</castItem>
+          <castItem>Domitius Enobarbus,</castItem>
+          <castItem>Ventidius,</castItem>
+          <castItem>Eros,</castItem>
+          <castItem>Scarus,</castItem>
+          <castItem>Dercetas,</castItem>
+          <castItem>Demetrius,</castItem>
+          <castItem>Philo,</castItem>
+          <roleDesc>Freunde des Antonius</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Mäcenas,</castItem>
+          <castItem>Agrippa,</castItem>
+          <castItem>Dolabella,</castItem>
+          <castItem>Proculejus,</castItem>
+          <castItem>Thyräus,</castItem>
+          <castItem>Gallus,</castItem>
+          <roleDesc>Freunde des Cäsar</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Menas,</castItem>
+          <castItem>Menecrates,</castItem>
+          <castItem>Varrius,</castItem>
+          <roleDesc>Freunde des Pompejus</roleDesc>
+        </castGroup>
+        <castItem>Taurus, Oberbefehlshaber unter Cäsar</castItem>
+        <castItem>Canidius, Oberbefehlshaber unter Antonius</castItem>
+        <castItem>Solius, ein Offizier in der Armee des Ventidius</castItem>
+        <castItem>Euphronius, ein Gesandter des Antonius an Cäsar</castItem>
+        <castGroup>
+          <castItem>Alexas,</castItem>
+          <castItem>Mardian,</castItem>
+          <castItem>Seleucus,</castItem>
+          <castItem>Diomedes,</castItem>
+          <roleDesc>im Dienste der Cleopatra</roleDesc>
+        </castGroup>
+        <castItem>Ein Wahrsager</castItem>
+        <castItem>Ein Bauer</castItem>
+        <castItem>Cleopatra, Königin von Ägypten</castItem>
+        <castItem>Octavia, Cäsars Schwester, Gemahlin des Antonius</castItem>
+        <castGroup>
+          <castItem>Charmion,</castItem>
+          <castItem>Iras,</castItem>
+          <roleDesc>im Dienste der Cleopatra</roleDesc>
+        </castGroup>
+        <castItem>Hauptleute, Soldaten, Boten und Gefolge</castItem>
+      </castList>
     </front>
     <pb n="686"/>
     <body>

@@ -82,40 +82,40 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Cymbeline</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Cymbeline</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="382"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Cymbeline, König von Britannien</castItem>
-          <castItem>Cloten, Sohn der Königin, von ihrem ersten Gemahl</castItem>
-          <castItem>Leonatus Posthumus, ein Edelmann, Imogens Gemahl</castItem>
-          <castItem>Bellarius, ein verbannter Lord, unter dem Namen Morgan</castItem>
-          <castGroup>
-            <castItem>Guiderius</castItem>
-            <castItem>Arviragus,</castItem>
-            <roleDesc>Cymbelines Söhne, unter den Namen Polydor und Cadwall; für Bellarius' Söhne
-              gehalten</roleDesc>
-          </castGroup>
-          <castItem>Philario, Posthumus' Freund</castItem>
-          <castItem>Jachimo, Philarios Freund</castItem>
-          <castItem>Ein französischer Edelmann, Philarios Freund</castItem>
-          <castItem>Cajus Lucius, römischer Feldherr</castItem>
-          <castItem>Ein römischer Hauptmann, zwei britische Hauptleute</castItem>
-          <castItem>Pisanio, Posthumus' Diener</castItem>
-          <castItem>Cornelius, ein Arzt</castItem>
-          <castItem>Zwei Edelleute</castItem>
-          <castItem>Zwei Kerkermeister</castItem>
-          <castItem>Die Königin, Cymbelines Gemahlin</castItem>
-          <castItem>Imogen, Cymbelines Tochter, von der vorigen Königin</castItem>
-          <castItem>Helene, Imogens Kammerfrau</castItem>
-          <castItem>Lords, Hofdamen, römische Senatoren, Tribunen, Geister, ein Wahrsager, ein
-            Holländer, ein Spanier, Musiker, Anführer, Soldaten, Boten, Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Cymbeline, König von Britannien</castItem>
+        <castItem>Cloten, Sohn der Königin, von ihrem ersten Gemahl</castItem>
+        <castItem>Leonatus Posthumus, ein Edelmann, Imogens Gemahl</castItem>
+        <castItem>Bellarius, ein verbannter Lord, unter dem Namen Morgan</castItem>
+        <castGroup>
+          <castItem>Guiderius</castItem>
+          <castItem>Arviragus,</castItem>
+          <roleDesc>Cymbelines Söhne, unter den Namen Polydor und Cadwall; für Bellarius' Söhne
+            gehalten</roleDesc>
+        </castGroup>
+        <castItem>Philario, Posthumus' Freund</castItem>
+        <castItem>Jachimo, Philarios Freund</castItem>
+        <castItem>Ein französischer Edelmann, Philarios Freund</castItem>
+        <castItem>Cajus Lucius, römischer Feldherr</castItem>
+        <castItem>Ein römischer Hauptmann, zwei britische Hauptleute</castItem>
+        <castItem>Pisanio, Posthumus' Diener</castItem>
+        <castItem>Cornelius, ein Arzt</castItem>
+        <castItem>Zwei Edelleute</castItem>
+        <castItem>Zwei Kerkermeister</castItem>
+        <castItem>Die Königin, Cymbelines Gemahlin</castItem>
+        <castItem>Imogen, Cymbelines Tochter, von der vorigen Königin</castItem>
+        <castItem>Helene, Imogens Kammerfrau</castItem>
+        <castItem>Lords, Hofdamen, römische Senatoren, Tribunen, Geister, ein Wahrsager, ein
+          Holländer, ein Spanier, Musiker, Anführer, Soldaten, Boten, Gefolge</castItem>
+      </castList>
       <set>
         <p>Szene: abwechselnd in Britannien und Rom</p>
       </set>

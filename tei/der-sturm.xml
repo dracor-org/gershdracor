@@ -83,42 +83,42 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Der Sturm</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Der Sturm</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="596"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Alonso, König von Neapel</castItem>
-          <castItem>Sebastian, sein Bruder</castItem>
-          <castItem>Prospero, der rechtmäßige Herzog von Mailand</castItem>
-          <castItem>Antonio, sein Bruder, der unrechtmäßige Herzog von Mailand</castItem>
-          <castItem>Ferdinand, Sohn des Königs von Neapel</castItem>
-          <castItem>Gonzalo, ein ehrlicher alter Rat des Königs</castItem>
-          <castGroup>
-            <castItem>Adrian</castItem>
-            <castItem>Francisco,</castItem>
-            <roleDesc>Herren vom Hofe</roleDesc>
-          </castGroup>
-          <castItem>Caliban, ein wilder und mißgestalter Sklav'</castItem>
-          <castItem>Trinculo, ein Spaßmacher</castItem>
-          <castItem>Stephano, ein betrunkener Kellner</castItem>
-          <castItem>Ein Schiffepatron, Bootsmann und Matrosen</castItem>
-          <castItem>Miranda, Tochter des Prospero</castItem>
-          <castItem>Ariel, ein Luftgeist</castItem>
-          <castGroup>
-            <castItem>Iris</castItem>
-            <castItem>Ceres</castItem>
-            <castItem>Juno</castItem>
-            <castItem>Nymphen</castItem>
-            <castItem>Schnitter,</castItem>
-            <roleDesc>Geister</roleDesc>
-          </castGroup>
-          <castItem>Andre dem Prospero dienende Geister</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Alonso, König von Neapel</castItem>
+        <castItem>Sebastian, sein Bruder</castItem>
+        <castItem>Prospero, der rechtmäßige Herzog von Mailand</castItem>
+        <castItem>Antonio, sein Bruder, der unrechtmäßige Herzog von Mailand</castItem>
+        <castItem>Ferdinand, Sohn des Königs von Neapel</castItem>
+        <castItem>Gonzalo, ein ehrlicher alter Rat des Königs</castItem>
+        <castGroup>
+          <castItem>Adrian</castItem>
+          <castItem>Francisco,</castItem>
+          <roleDesc>Herren vom Hofe</roleDesc>
+        </castGroup>
+        <castItem>Caliban, ein wilder und mißgestalter Sklav'</castItem>
+        <castItem>Trinculo, ein Spaßmacher</castItem>
+        <castItem>Stephano, ein betrunkener Kellner</castItem>
+        <castItem>Ein Schiffepatron, Bootsmann und Matrosen</castItem>
+        <castItem>Miranda, Tochter des Prospero</castItem>
+        <castItem>Ariel, ein Luftgeist</castItem>
+        <castGroup>
+          <castItem>Iris</castItem>
+          <castItem>Ceres</castItem>
+          <castItem>Juno</castItem>
+          <castItem>Nymphen</castItem>
+          <castItem>Schnitter,</castItem>
+          <roleDesc>Geister</roleDesc>
+        </castGroup>
+        <castItem>Andre dem Prospero dienende Geister</castItem>
+      </castList>
       <set>
         <p>Die Szene ist anfänglich die See mit einem Schiffe, nachher eine unbewohnte Insel</p>
       </set>

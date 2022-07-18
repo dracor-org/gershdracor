@@ -83,66 +83,65 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich VI.</head>
-        <head>Dritter Teil</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich VI. Dritter Teil</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="691"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich VI.</castItem>
-          <castItem>Eduard, Prinz von Wales, sein Sohn</castItem>
-          <castItem>Ludwig XI., König von Frankreich</castItem>
-          <castGroup>
-            <castItem>Herzog von Somerset</castItem>
-            <castItem>Herzog von Exeter</castItem>
-            <castItem>Graf von Oxford</castItem>
-            <castItem>Graf von Northumberland</castItem>
-            <castItem>Graf von Westmoreland</castItem>
-            <castItem>Lord Clifford,</castItem>
-            <roleDesc>von König Heinrichs Partei</roleDesc>
-          </castGroup>
-          <castItem>Richard Plantagenet, Herzog von York</castItem>
-          <castGroup>
-            <castItem>Eduard, Graf von March, nachmals König Eduard IV.</castItem>
-            <castItem>Edmund, Graf von Rutland</castItem>
-            <castItem>Georg, nachmals Herzog von Clarence</castItem>
-            <castItem>Richard, nachmals Herzog von Glocester,</castItem>
-            <roleDesc>seine Söhne</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Herzog von Norfolk</castItem>
-            <castItem>Marquis von Montague</castItem>
-            <castItem>Graf von Warwick</castItem>
-            <castItem>Graf von Pembroke</castItem>
-            <castItem>Lord Hastings</castItem>
-            <castItem>Lord Stafford,</castItem>
-            <roleDesc>von des Herzogs von York Partei</roleDesc>
-          </castGroup>
-          <castItem>Sir John Mortimer</castItem>
-          <castItem>Sir Hugh Mortimer, Oheime des Herzogs von York</castItem>
-          <castItem>Henry, der junge Graf von Richmond</castItem>
-          <castItem>Lord Rivers, Bruder der Lady Grey</castItem>
-          <castItem>Sir William Stanley</castItem>
-          <castItem>Sir John Montgomery</castItem>
-          <castItem>Sir John Somerville</castItem>
-          <castItem>Der Lehrmeister Rutlands</castItem>
-          <castItem>Der Schultheiß von York</castItem>
-          <castItem>Der Kommandant des Turmes</castItem>
-          <castItem>Ein Edelmann</castItem>
-          <castItem>Zwei Förster, ein Jäger</castItem>
-          <pb n="691"/>
-          <castItem>Ein Sohn, der seinen Vater umgebracht hat</castItem>
-          <castItem>Ein Vater, der seinen Sohn umgebracht hat</castItem>
-          <castItem>Königin Margareta</castItem>
-          <castItem>Lady Grey, nachmals Gemahlin Eduards IV.</castItem>
-          <castItem>Bona, Schwester des Königs von Frankreich</castItem>
-          <castItem>Soldaten und andres Gefolge König Heinrichs und König Eduards, Boten, Wächter
-            u.s.w.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich VI.</castItem>
+        <castItem>Eduard, Prinz von Wales, sein Sohn</castItem>
+        <castItem>Ludwig XI., König von Frankreich</castItem>
+        <castGroup>
+          <castItem>Herzog von Somerset</castItem>
+          <castItem>Herzog von Exeter</castItem>
+          <castItem>Graf von Oxford</castItem>
+          <castItem>Graf von Northumberland</castItem>
+          <castItem>Graf von Westmoreland</castItem>
+          <castItem>Lord Clifford,</castItem>
+          <roleDesc>von König Heinrichs Partei</roleDesc>
+        </castGroup>
+        <castItem>Richard Plantagenet, Herzog von York</castItem>
+        <castGroup>
+          <castItem>Eduard, Graf von March, nachmals König Eduard IV.</castItem>
+          <castItem>Edmund, Graf von Rutland</castItem>
+          <castItem>Georg, nachmals Herzog von Clarence</castItem>
+          <castItem>Richard, nachmals Herzog von Glocester,</castItem>
+          <roleDesc>seine Söhne</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Herzog von Norfolk</castItem>
+          <castItem>Marquis von Montague</castItem>
+          <castItem>Graf von Warwick</castItem>
+          <castItem>Graf von Pembroke</castItem>
+          <castItem>Lord Hastings</castItem>
+          <castItem>Lord Stafford,</castItem>
+          <roleDesc>von des Herzogs von York Partei</roleDesc>
+        </castGroup>
+        <castItem>Sir John Mortimer</castItem>
+        <castItem>Sir Hugh Mortimer, Oheime des Herzogs von York</castItem>
+        <castItem>Henry, der junge Graf von Richmond</castItem>
+        <castItem>Lord Rivers, Bruder der Lady Grey</castItem>
+        <castItem>Sir William Stanley</castItem>
+        <castItem>Sir John Montgomery</castItem>
+        <castItem>Sir John Somerville</castItem>
+        <castItem>Der Lehrmeister Rutlands</castItem>
+        <castItem>Der Schultheiß von York</castItem>
+        <castItem>Der Kommandant des Turmes</castItem>
+        <castItem>Ein Edelmann</castItem>
+        <castItem>Zwei Förster, ein Jäger</castItem>
+        <pb n="691"/>
+        <castItem>Ein Sohn, der seinen Vater umgebracht hat</castItem>
+        <castItem>Ein Vater, der seinen Sohn umgebracht hat</castItem>
+        <castItem>Königin Margareta</castItem>
+        <castItem>Lady Grey, nachmals Gemahlin Eduards IV.</castItem>
+        <castItem>Bona, Schwester des Königs von Frankreich</castItem>
+        <castItem>Soldaten und andres Gefolge König Heinrichs und König Eduards, Boten, Wächter
+          u.s.w.</castItem>
+      </castList>
       <set>
         <p>Die Szene ist im dritten Aufzuge zum Teil in Frankreich, während des ganzen übrigen
           Stücks in England</p>

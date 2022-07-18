@@ -82,53 +82,53 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Timon von Athen</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Timon von Athen</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="916"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Timon, ein edler Athenienser</castItem>
-          <castGroup>
-            <castItem>Lucius,</castItem>
-            <castItem>Lucullus,</castItem>
-            <castItem>Sempronius,</castItem>
-            <castItem>Ventidius,</castItem>
-            <roleDesc>seine Freunde</roleDesc>
-          </castGroup>
-          <castItem>Apemantus, Philosoph</castItem>
-          <castItem>Alcibiades, Feldherr</castItem>
-          <castItem>Flavius, Timons Haushofmeister</castItem>
-          <castGroup>
-            <castItem>Flaminius,</castItem>
-            <castItem>Lucilius,</castItem>
-            <roleDesc>Timons Diener</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Servilius,</castItem>
-            <castItem>Caphis,</castItem>
-            <castItem>Philotus,</castItem>
-            <castItem>Titus,</castItem>
-            <castItem>Lucius,</castItem>
-            <castItem>Hortensius,</castItem>
-            <roleDesc>Diener von Timons Gläubigern</roleDesc>
-          </castGroup>
-          <castItem>Zwei Diener des Varrus</castItem>
-          <castItem>Ein Diener des Isidor</castItem>
-          <castItem>Cupido und andre Masken. Zwei Fremde</castItem>
-          <castItem>Ein Dichter, ein Maler, ein Kaufmann und</castItem>
-          <castItem>ein Juwelier</castItem>
-          <castItem>Ein alter Athenienser, ein Page, ein Narr</castItem>
-          <castItem>Phrynia,</castItem>
-          <castItem>Timandra, Kurtisanen</castItem>
-          <castItem>Senatoren, Hauptleute, Krieger,</castItem>
-          <castItem>Diebe, Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Timon, ein edler Athenienser</castItem>
+        <castGroup>
+          <castItem>Lucius,</castItem>
+          <castItem>Lucullus,</castItem>
+          <castItem>Sempronius,</castItem>
+          <castItem>Ventidius,</castItem>
+          <roleDesc>seine Freunde</roleDesc>
+        </castGroup>
+        <castItem>Apemantus, Philosoph</castItem>
+        <castItem>Alcibiades, Feldherr</castItem>
+        <castItem>Flavius, Timons Haushofmeister</castItem>
+        <castGroup>
+          <castItem>Flaminius,</castItem>
+          <castItem>Lucilius,</castItem>
+          <roleDesc>Timons Diener</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Servilius,</castItem>
+          <castItem>Caphis,</castItem>
+          <castItem>Philotus,</castItem>
+          <castItem>Titus,</castItem>
+          <castItem>Lucius,</castItem>
+          <castItem>Hortensius,</castItem>
+          <roleDesc>Diener von Timons Gläubigern</roleDesc>
+        </castGroup>
+        <castItem>Zwei Diener des Varrus</castItem>
+        <castItem>Ein Diener des Isidor</castItem>
+        <castItem>Cupido und andre Masken. Zwei Fremde</castItem>
+        <castItem>Ein Dichter, ein Maler, ein Kaufmann und</castItem>
+        <castItem>ein Juwelier</castItem>
+        <castItem>Ein alter Athenienser, ein Page, ein Narr</castItem>
+        <castItem>Phrynia,</castItem>
+        <castItem>Timandra, Kurtisanen</castItem>
+        <castItem>Senatoren, Hauptleute, Krieger,</castItem>
+        <castItem>Diebe, Gefolge</castItem>
+      </castList>
       <set>
-        <p>Die Szene ist in Athen und dem nahen Walds</p>
+        <p>Die Szene ist in Athen und dem nahen Walde</p>
       </set>
     </front>
     <body>

@@ -83,42 +83,42 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Johann</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Johann</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="6"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Johann</castItem>
-          <castItem>Prinz Heinrich, sein Sohn, nachmaliger König Heinrich III.</castItem>
-          <castItem>Arthur, Herzog von Bretagne, Sohn des verstorbnen Herzogs Gottfried von
-            Bretagne, älteren Bruders vom König Johann</castItem>
-          <castItem>William Mareshall, Graf von Pembroke</castItem>
-          <castItem>Geffrey Fitz-Peter, Graf von Essex, Oberrichter von England</castItem>
-          <castItem>William Longsword, Graf von Salisbury</castItem>
-          <castItem>Robert Bigot, Graf von Norfolk</castItem>
-          <castItem>Hubert de Burgh, Kämmerer des Königs</castItem>
-          <castItem>Robert Faulconbridge, Sohn des Sir Robert Faulconbridge</castItem>
-          <castItem>Philipp Faulconbridge, sein Halbbruder, Bastard König Richard I.</castItem>
-          <castItem>Jakob Gurney, Diener der Lady Faulconbridge</castItem>
-          <castItem>Peter von Pomfret, ein Prophet</castItem>
-          <castItem>Philipp, König von Frankreich</castItem>
-          <castItem>Louis, der Dauphin</castItem>
-          <castItem>Der Erzherzog von Österreich</castItem>
-          <castItem>Kardinal Pandulpho, Legat des Papstes</castItem>
-          <castItem>Melun, ein französischer Edelmann</castItem>
-          <castItem>Chatillon, Gesandter von Frankreich an König Johann</castItem>
-          <castItem>Eleonore, die Witwe König Heinrich II. und Mutter König Johanns</castItem>
-          <castItem>Constanze, Arthurs Mutter</castItem>
-          <castItem>Blanca, Tochter Alfonsos, des Königs von Kastilien, und Nichte König
-            Johanns</castItem>
-          <castItem>Lady Faulconbridge, Mutter des Bastards und Robert Faulconbridges</castItem>
-          <castItem>Herren und Frauen, Bürger von Angers, ein Sheriff, Herolde, Beamte, Soldaten,
-            Boten und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Johann</castItem>
+        <castItem>Prinz Heinrich, sein Sohn, nachmaliger König Heinrich III.</castItem>
+        <castItem>Arthur, Herzog von Bretagne, Sohn des verstorbnen Herzogs Gottfried von
+          Bretagne, älteren Bruders vom König Johann</castItem>
+        <castItem>William Mareshall, Graf von Pembroke</castItem>
+        <castItem>Geffrey Fitz-Peter, Graf von Essex, Oberrichter von England</castItem>
+        <castItem>William Longsword, Graf von Salisbury</castItem>
+        <castItem>Robert Bigot, Graf von Norfolk</castItem>
+        <castItem>Hubert de Burgh, Kämmerer des Königs</castItem>
+        <castItem>Robert Faulconbridge, Sohn des Sir Robert Faulconbridge</castItem>
+        <castItem>Philipp Faulconbridge, sein Halbbruder, Bastard König Richard I.</castItem>
+        <castItem>Jakob Gurney, Diener der Lady Faulconbridge</castItem>
+        <castItem>Peter von Pomfret, ein Prophet</castItem>
+        <castItem>Philipp, König von Frankreich</castItem>
+        <castItem>Louis, der Dauphin</castItem>
+        <castItem>Der Erzherzog von Österreich</castItem>
+        <castItem>Kardinal Pandulpho, Legat des Papstes</castItem>
+        <castItem>Melun, ein französischer Edelmann</castItem>
+        <castItem>Chatillon, Gesandter von Frankreich an König Johann</castItem>
+        <castItem>Eleonore, die Witwe König Heinrich II. und Mutter König Johanns</castItem>
+        <castItem>Constanze, Arthurs Mutter</castItem>
+        <castItem>Blanca, Tochter Alfonsos, des Königs von Kastilien, und Nichte König
+          Johanns</castItem>
+        <castItem>Lady Faulconbridge, Mutter des Bastards und Robert Faulconbridges</castItem>
+        <castItem>Herren und Frauen, Bürger von Angers, ein Sheriff, Herolde, Beamte, Soldaten,
+          Boten und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist bald in England, bald in Frankreich</p>
       </set>

@@ -195,48 +195,47 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Hamlet</head>
-        <head>Prinz von Dänemark</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Hamlet. Prinz von Dänemark</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="264"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Claudius, König von Dänemark</castItem>
-          <castItem>Hamlet, Sohn des vorigen und Neffe des gegenwärtigen Königs</castItem>
-          <castItem>Polonius, Oberkämmerer</castItem>
-          <castItem>Horatio, Hamlets Freund</castItem>
-          <castItem>Laertes, Sohn des Polonius</castItem>
-          <castGroup>
-            <castItem>Voltimand</castItem>
-            <castItem>Cornelius</castItem>
-            <castItem>Rosenkranz</castItem>
-            <castItem>Güldenstern,</castItem>
-            <roleDesc>Hofleute</roleDesc>
-          </castGroup>
-          <castItem>Osrick, ein Hofmann</castItem>
-          <castItem>Ein andrer Hofmann</castItem>
-          <castItem>Ein Priester</castItem>
-          <castGroup>
-            <castItem>Marcellus</castItem>
-            <castItem>Bernardo,</castItem>
-            <roleDesc>Offiziere</roleDesc>
-          </castGroup>
-          <castItem>Francisco, ein Soldat</castItem>
-          <castItem>Reinhold, Diener des Polonius</castItem>
-          <castItem>Ein Hauptmann</castItem>
-          <castItem>Ein Gesandter</castItem>
-          <castItem>Der Geist von Hamlets Vater</castItem>
-          <castItem>Fortinbras, Prinz von Norwegen</castItem>
-          <castItem>Gertrude, Königin von Dänemark und Hamlets Mutter</castItem>
-          <castItem>Ophelia, Tochter des Polonius</castItem>
-          <castItem>Herren und Frauen vom Hofe, Offiziere</castItem>
-          <castItem>Soldaten, Schauspieler, Totengräber</castItem>
-          <castItem>Matrosen, Boten und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Claudius, König von Dänemark</castItem>
+        <castItem>Hamlet, Sohn des vorigen und Neffe des gegenwärtigen Königs</castItem>
+        <castItem>Polonius, Oberkämmerer</castItem>
+        <castItem>Horatio, Hamlets Freund</castItem>
+        <castItem>Laertes, Sohn des Polonius</castItem>
+        <castGroup>
+          <castItem>Voltimand</castItem>
+          <castItem>Cornelius</castItem>
+          <castItem>Rosenkranz</castItem>
+          <castItem>Güldenstern,</castItem>
+          <roleDesc>Hofleute</roleDesc>
+        </castGroup>
+        <castItem>Osrick, ein Hofmann</castItem>
+        <castItem>Ein andrer Hofmann</castItem>
+        <castItem>Ein Priester</castItem>
+        <castGroup>
+          <castItem>Marcellus</castItem>
+          <castItem>Bernardo,</castItem>
+          <roleDesc>Offiziere</roleDesc>
+        </castGroup>
+        <castItem>Francisco, ein Soldat</castItem>
+        <castItem>Reinhold, Diener des Polonius</castItem>
+        <castItem>Ein Hauptmann</castItem>
+        <castItem>Ein Gesandter</castItem>
+        <castItem>Der Geist von Hamlets Vater</castItem>
+        <castItem>Fortinbras, Prinz von Norwegen</castItem>
+        <castItem>Gertrude, Königin von Dänemark und Hamlets Mutter</castItem>
+        <castItem>Ophelia, Tochter des Polonius</castItem>
+        <castItem>Herren und Frauen vom Hofe, Offiziere</castItem>
+        <castItem>Soldaten, Schauspieler, Totengräber</castItem>
+        <castItem>Matrosen, Boten und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in Helsingör</p>
       </set>

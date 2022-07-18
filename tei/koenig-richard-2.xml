@@ -83,47 +83,47 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Richard II.</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Richard II.</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="90"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Richard II.</castItem>
-          <castGroup>
-            <castItem>Edmund von Langley, Herzog von York</castItem>
-            <castItem>Johann von Gaunt, Herzog von Lancaster,</castItem>
-            <roleDesc>Oheime des Königs</roleDesc>
-          </castGroup>
-          <castItem>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford, Sohn Johanns von
-            Gaunt nachmaliger König Heinrich IV.</castItem>
-          <castItem>Herzog von Aumerle, Sohn des Herzogs von York</castItem>
-          <castItem>Mowbray, Herzog von Norfolk</castItem>
-          <castItem>Herzog von Surrey</castItem>
-          <castItem>Graf von Salisbury</castItem>
-          <castItem>Graf Berkley</castItem>
-          <castItem>Bushy, Bagot, Green, Kreaturen König Richards</castItem>
-          <castItem>Graf von Northumberland</castItem>
-          <castItem>Heinrich Percy, sein Sohn</castItem>
-          <castItem>Lord Ross</castItem>
-          <castItem>Lord Willoughby</castItem>
-          <castItem>Lord Fitzwater</castItem>
-          <castItem>Bischof von Carlisle</castItem>
-          <castItem>Abt von Westminster</castItem>
-          <castItem>Der Lord Marschall und ein andrer Lord</castItem>
-          <castItem>Sir Pierce von Exton</castItem>
-          <castItem>Sir Stephen Scroop</castItem>
-          <castItem>Der Hauptmann einer Schar von Wallisern</castItem>
-          <castItem>Die Königin, Gemahlin König Richards</castItem>
-          <castItem>Herzogin von Gloster</castItem>
-          <castItem>Herzogin von York</castItem>
-          <castItem>Ein Hoffräulein der Königin</castItem>
-          <castItem>Herren von Adel, Herolde, Offiziere, Soldaten, zwei Gärtner, Gefangenwärter,
-            Bote, Stallknecht und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Richard II.</castItem>
+        <castGroup>
+          <castItem>Edmund von Langley, Herzog von York</castItem>
+          <castItem>Johann von Gaunt, Herzog von Lancaster,</castItem>
+          <roleDesc>Oheime des Königs</roleDesc>
+        </castGroup>
+        <castItem>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford, Sohn Johanns von
+          Gaunt nachmaliger König Heinrich IV.</castItem>
+        <castItem>Herzog von Aumerle, Sohn des Herzogs von York</castItem>
+        <castItem>Mowbray, Herzog von Norfolk</castItem>
+        <castItem>Herzog von Surrey</castItem>
+        <castItem>Graf von Salisbury</castItem>
+        <castItem>Graf Berkley</castItem>
+        <castItem>Bushy, Bagot, Green, Kreaturen König Richards</castItem>
+        <castItem>Graf von Northumberland</castItem>
+        <castItem>Heinrich Percy, sein Sohn</castItem>
+        <castItem>Lord Ross</castItem>
+        <castItem>Lord Willoughby</castItem>
+        <castItem>Lord Fitzwater</castItem>
+        <castItem>Bischof von Carlisle</castItem>
+        <castItem>Abt von Westminster</castItem>
+        <castItem>Der Lord Marschall und ein andrer Lord</castItem>
+        <castItem>Sir Pierce von Exton</castItem>
+        <castItem>Sir Stephen Scroop</castItem>
+        <castItem>Der Hauptmann einer Schar von Wallisern</castItem>
+        <castItem>Die Königin, Gemahlin König Richards</castItem>
+        <castItem>Herzogin von Gloster</castItem>
+        <castItem>Herzogin von York</castItem>
+        <castItem>Ein Hoffräulein der Königin</castItem>
+        <castItem>Herren von Adel, Herolde, Offiziere, Soldaten, zwei Gärtner, Gefangenwärter,
+          Bote, Stallknecht und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist an verschiednen Orten in England und Wales</p>
       </set>

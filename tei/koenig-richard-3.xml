@@ -83,61 +83,61 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Richard III.</head>
-      </div>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>
-            <pb n="791"/> Personen</head>
-          <castItem>König Eduard IV.</castItem>
-          <castGroup>
-            <castItem>Eduard, Prinz von Wales, nachmals König Eduard V.</castItem>
-            <castItem>Richard, Herzog von York,</castItem>
-            <roleDesc>Söhne des Königs</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>George, Herzog von Clarence</castItem>
-            <castItem>Richard, Herzog von Gloster, nachmals König Richard III.,</castItem>
-            <roleDesc>Brüder des Königs</roleDesc>
-          </castGroup>
-          <castItem>Ein junger Sohn des Clarence</castItem>
-          <castItem>Heinrich, Graf von Richmond, nachmals König Heinrich VII.</castItem>
-          <castItem>Kardinal Bourchier, Erzbischof von Canterbury</castItem>
-          <castItem>Erzbischof von York</castItem>
-          <castItem>Bischof von Ely</castItem>
-          <castItem>Herzog von Buckingham</castItem>
-          <castItem>Herzog von Norfolk</castItem>
-          <castItem>Graf von Surrey, sein Sohn</castItem>
-          <castItem>Graf Rivers, Bruder der Gemahlin König Eduards</castItem>
-          <castItem>Marquis von Dorset und Lord Grey, ihre Söhne</castItem>
-          <castItem>Graf von Oxford</castItem>
-          <castItem>Lord Hastings</castItem>
-          <castItem>Lord Stanley</castItem>
-          <castItem>Lord Lovel</castItem>
-          <castItem>Sir Thomas Vaughan. Sir Richard Ratcliff</castItem>
-          <castItem>Sir William Catesby. Sir James Tyrrel</castItem>
-          <castItem>Sir James Blount. Sir Walter Herbert</castItem>
-          <castItem>Sir Robert Brakenbury, Kommandant des Turms</castItem>
-          <castItem>Christopher Urswick, ein Priester. Ein andrer Priester</castItem>
-          <castItem>Lord Mayor von London. Sheriff von Wiltshire</castItem>
-          <castItem>Elisabeth, Gemahlin König Eduards IV.</castItem>
-          <castItem>Margareta, Witwe König Heinrichs VI.</castItem>
-          <castItem>Herzogin von York, Mutter König Eduards IV., Clarences und Glosters</castItem>
-          <castItem>
-            <pb n="791"/> Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs
-            VI., nachmals mit Gloster vermählt</castItem>
-          <castItem>Eine junge Tochter des Clarence</castItem>
-          <castItem>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,
-            Mörder, Boten, Geister, Soldaten u.s.w.</castItem>
-        </castList>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Richard III.</titlePart>
+        </docTitle>
+      </titlePage>
+      <pb n="791"/>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Eduard IV.</castItem>
+        <castGroup>
+          <castItem>Eduard, Prinz von Wales, nachmals König Eduard V.</castItem>
+          <castItem>Richard, Herzog von York,</castItem>
+          <roleDesc>Söhne des Königs</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>George, Herzog von Clarence</castItem>
+          <castItem>Richard, Herzog von Gloster, nachmals König Richard III.,</castItem>
+          <roleDesc>Brüder des Königs</roleDesc>
+        </castGroup>
+        <castItem>Ein junger Sohn des Clarence</castItem>
+        <castItem>Heinrich, Graf von Richmond, nachmals König Heinrich VII.</castItem>
+        <castItem>Kardinal Bourchier, Erzbischof von Canterbury</castItem>
+        <castItem>Erzbischof von York</castItem>
+        <castItem>Bischof von Ely</castItem>
+        <castItem>Herzog von Buckingham</castItem>
+        <castItem>Herzog von Norfolk</castItem>
+        <castItem>Graf von Surrey, sein Sohn</castItem>
+        <castItem>Graf Rivers, Bruder der Gemahlin König Eduards</castItem>
+        <castItem>Marquis von Dorset und Lord Grey, ihre Söhne</castItem>
+        <castItem>Graf von Oxford</castItem>
+        <castItem>Lord Hastings</castItem>
+        <castItem>Lord Stanley</castItem>
+        <castItem>Lord Lovel</castItem>
+        <castItem>Sir Thomas Vaughan. Sir Richard Ratcliff</castItem>
+        <castItem>Sir William Catesby. Sir James Tyrrel</castItem>
+        <castItem>Sir James Blount. Sir Walter Herbert</castItem>
+        <castItem>Sir Robert Brakenbury, Kommandant des Turms</castItem>
+        <castItem>Christopher Urswick, ein Priester. Ein andrer Priester</castItem>
+        <castItem>Lord Mayor von London. Sheriff von Wiltshire</castItem>
+        <castItem>Elisabeth, Gemahlin König Eduards IV.</castItem>
+        <castItem>Margareta, Witwe König Heinrichs VI.</castItem>
+        <castItem>Herzogin von York, Mutter König Eduards IV., Clarences und Glosters</castItem>
+        <pb n="791"/>
+        <castItem>Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs
+          VI., nachmals mit Gloster vermählt</castItem>
+        <castItem>Eine junge Tochter des Clarence</castItem>
+        <castItem>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,
+          Mörder, Boten, Geister, Soldaten u.s.w.</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in England</p>
       </set>
-      <pb n="792"/>
     </front>
+    <pb n="792"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>

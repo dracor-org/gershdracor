@@ -82,55 +82,55 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich VIII.</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich VIII.</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="909"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich VIII.</castItem>
-          <castItem>Kardinal Wolsey</castItem>
-          <castItem>Kardinal Campejus</castItem>
-          <castItem>Capucius, Botschafter Kaiser Karls V.</castItem>
-          <castItem>Cranmer, Erzbischof von Canterbury</castItem>
-          <castItem>Herzog von Norfolk</castItem>
-          <castItem>Herzog von Buckingham</castItem>
-          <castItem>Herzog von Suffolk</castItem>
-          <castItem>Graf von Surrey</castItem>
-          <castItem>Lord Kämmerer</castItem>
-          <castItem>Sir Thomas Audley, Lord Siegelbewahrer</castItem>
-          <castItem>Gardiner, Bischof von Winchester</castItem>
-          <castItem>Bischof von Lincoln</castItem>
-          <castItem>Lord Abergavenny</castItem>
-          <castItem>Lord Sands</castItem>
-          <castItem>Sir Heinrich Guilford</castItem>
-          <castItem>Sir Thomas Lovell</castItem>
-          <castItem>Sir Anton Denny</castItem>
-          <castItem>Sir Nikolas Vaux</castItem>
-          <castItem>Sir William Sands</castItem>
-          <castItem>Cromwell, Wolseys Diener</castItem>
-          <castItem>Griffith, Marschall der Königin Katharina</castItem>
-          <castItem>Drei Herren vom Hofe</castItem>
-          <castItem>Doktor Butts, Leibarzt des Königs</castItem>
-          <castItem>Garter, Wappenherold</castItem>
-          <castItem>Haushofmeister des Herzogs von Buckingham</castItem>
-          <castItem>Brandon</castItem>
-          <castItem>Sergeant</castItem>
-          <castItem>Türhüter vor dem Saal des Staatsrats</castItem>
-          <castItem>Pförtner</castItem>
-          <castItem>Dessen Knecht</castItem>
-          <pb n="909"/>
-          <castItem>Katharina, Königin von England</castItem>
-          <castItem>Anna Bullen</castItem>
-          <castItem>Eine alte Hofdame</castItem>
-          <castItem>Patienza, Kammerfrau der Königin Katharina</castItem>
-          <castItem>Verschiedene Herren und Flauen vom Hof, als stumme Personen. Weiber im Gefolge
-            der Königin; Geister, die ihr erscheinen. Schreiber, Offiziere, Wachen, Gefolge, Volk
-            usw.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich VIII.</castItem>
+        <castItem>Kardinal Wolsey</castItem>
+        <castItem>Kardinal Campejus</castItem>
+        <castItem>Capucius, Botschafter Kaiser Karls V.</castItem>
+        <castItem>Cranmer, Erzbischof von Canterbury</castItem>
+        <castItem>Herzog von Norfolk</castItem>
+        <castItem>Herzog von Buckingham</castItem>
+        <castItem>Herzog von Suffolk</castItem>
+        <castItem>Graf von Surrey</castItem>
+        <castItem>Lord Kämmerer</castItem>
+        <castItem>Sir Thomas Audley, Lord Siegelbewahrer</castItem>
+        <castItem>Gardiner, Bischof von Winchester</castItem>
+        <castItem>Bischof von Lincoln</castItem>
+        <castItem>Lord Abergavenny</castItem>
+        <castItem>Lord Sands</castItem>
+        <castItem>Sir Heinrich Guilford</castItem>
+        <castItem>Sir Thomas Lovell</castItem>
+        <castItem>Sir Anton Denny</castItem>
+        <castItem>Sir Nikolas Vaux</castItem>
+        <castItem>Sir William Sands</castItem>
+        <castItem>Cromwell, Wolseys Diener</castItem>
+        <castItem>Griffith, Marschall der Königin Katharina</castItem>
+        <castItem>Drei Herren vom Hofe</castItem>
+        <castItem>Doktor Butts, Leibarzt des Königs</castItem>
+        <castItem>Garter, Wappenherold</castItem>
+        <castItem>Haushofmeister des Herzogs von Buckingham</castItem>
+        <castItem>Brandon</castItem>
+        <castItem>Sergeant</castItem>
+        <castItem>Türhüter vor dem Saal des Staatsrats</castItem>
+        <castItem>Pförtner</castItem>
+        <castItem>Dessen Knecht</castItem>
+        <pb n="909"/>
+        <castItem>Katharina, Königin von England</castItem>
+        <castItem>Anna Bullen</castItem>
+        <castItem>Eine alte Hofdame</castItem>
+        <castItem>Patienza, Kammerfrau der Königin Katharina</castItem>
+        <castItem>Verschiedene Herren und Flauen vom Hof, als stumme Personen. Weiber im Gefolge
+          der Königin; Geister, die ihr erscheinen. Schreiber, Offiziere, Wachen, Gefolge, Volk
+          usw.</castItem>
+      </castList>
       <set>
         <p>Die Szene ist abwechselnd in London und Westminster; einmal in Kimbolton</p>
       </set>

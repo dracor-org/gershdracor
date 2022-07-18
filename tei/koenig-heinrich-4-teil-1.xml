@@ -83,46 +83,45 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich IV.</head>
-        <head>Erster Teil</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich IV. Erster Teil</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="180"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich IV.</castItem>
-          <castGroup>
-            <castItem> Heinrich, Prinz von Wales</castItem>
-            <castItem> Prinz Johann von Lancaster,</castItem>
-            <roleDesc>Söhne des Königs</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem> Graf von Westmoreland</castItem>
-            <castItem> Sir Walter Blunt,</castItem>
-            <roleDesc>Freunde des Königs</roleDesc>
-          </castGroup>
-          <castItem> Graf von Worcester</castItem>
-          <castItem> Graf von Northumberland</castItem>
-          <castItem> Heinrich Percy, mit dem Beinamen Heißsporn, sein Sohn</castItem>
-          <castItem> Edmund Mortimer, Graf von March</castItem>
-          <castItem> Scroop, Erzbischof von York</castItem>
-          <castItem> Archibald, Graf von Douglas</castItem>
-          <castItem> Owen Glendower</castItem>
-          <castItem> Sir Richard Vernon</castItem>
-          <castItem> Sir John Falstaff</castItem>
-          <castItem> Poins</castItem>
-          <castItem> Gadshill</castItem>
-          <castItem> Peto</castItem>
-          <castItem> Bardolph</castItem>
-          <castItem> Lady Percy, Gemahlin des jungen Percy und Mortimers Schwester</castItem>
-          <castItem> Lady Mortimer, Glendowers Tochter und Mortimers Gemahlin</castItem>
-          <castItem> Frau Hurtig, Wirtin einer Schenke zu Eastcheap</castItem>
-          <castItem> Herren von Adel, Beamte, Sheriff, Kellner, Hausknecht, Küfer, zwei Kärrner,
-            Reisende, Gefolge usw.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich IV.</castItem>
+        <castGroup>
+          <castItem>Heinrich, Prinz von Wales</castItem>
+          <castItem>Prinz Johann von Lancaster,</castItem>
+          <roleDesc>Söhne des Königs</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Graf von Westmoreland</castItem>
+          <castItem>Sir Walter Blunt,</castItem>
+          <roleDesc>Freunde des Königs</roleDesc>
+        </castGroup>
+        <castItem>Graf von Worcester</castItem>
+        <castItem>Graf von Northumberland</castItem>
+        <castItem>Heinrich Percy, mit dem Beinamen Heißsporn, sein Sohn</castItem>
+        <castItem>Edmund Mortimer, Graf von March</castItem>
+        <castItem>Scroop, Erzbischof von York</castItem>
+        <castItem>Archibald, Graf von Douglas</castItem>
+        <castItem>Owen Glendower</castItem>
+        <castItem>Sir Richard Vernon</castItem>
+        <castItem>Sir John Falstaff</castItem>
+        <castItem>Poins</castItem>
+        <castItem>Gadshill</castItem>
+        <castItem>Peto</castItem>
+        <castItem>Bardolph</castItem>
+        <castItem>Lady Percy, Gemahlin des jungen Percy und Mortimers Schwester</castItem>
+        <castItem>Lady Mortimer, Glendowers Tochter und Mortimers Gemahlin</castItem>
+        <castItem>Frau Hurtig, Wirtin einer Schenke zu Eastcheap</castItem>
+        <castItem>Herren von Adel, Beamte, Sheriff, Kellner, Hausknecht, Küfer, zwei Kärrner,
+          Reisende, Gefolge usw.</castItem>
+      </castList>
     </front>
     <pb n="180"/>
     <body>

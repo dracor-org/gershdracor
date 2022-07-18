@@ -84,43 +84,43 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Viel Lärmen um nichts</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Viel Lärmen um nichts</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="554"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Don Pedro, Prinz von Arragon</castItem>
-          <castItem>Leonato, Gouverneur von Messina</castItem>
-          <castItem>Don Juan, Pedros Halbbruder</castItem>
-          <castItem>Claudio, ein florentinischer Graf</castItem>
-          <castItem>Benedikt, ein Edelmann aus Padua</castItem>
-          <castItem>Antonio, Leonatos Bruder</castItem>
-          <castItem>Balthasar, Don Pedros Diener</castItem>
-          <castGroup>
-            <castItem>Borachio,</castItem>
-            <castItem>Konrad,</castItem>
-            <roleDesc>Don Juans Begleiter</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Holzapfel</castItem>
-            <castItem>Schleewein,</castItem>
-            <roleDesc>einfältige Gerichtsdiener</roleDesc>
-          </castGroup>
-          <castItem>Ein Schreiber</castItem>
-          <castItem>Hero, Leonatos Tochter</castItem>
-          <castItem>Beatrice, Leonatos Nichte</castItem>
-          <castGroup>
-            <castItem>Margareta,</castItem>
-            <castItem>Ursula,</castItem>
-            <roleDesc>Heros Kammerfrauen</roleDesc>
-          </castGroup>
-          <castItem>Ein Mönch</castItem>
-          <castItem>Ein Knabe, Boten, Wachen, Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Don Pedro, Prinz von Arragon</castItem>
+        <castItem>Leonato, Gouverneur von Messina</castItem>
+        <castItem>Don Juan, Pedros Halbbruder</castItem>
+        <castItem>Claudio, ein florentinischer Graf</castItem>
+        <castItem>Benedikt, ein Edelmann aus Padua</castItem>
+        <castItem>Antonio, Leonatos Bruder</castItem>
+        <castItem>Balthasar, Don Pedros Diener</castItem>
+        <castGroup>
+          <castItem>Borachio,</castItem>
+          <castItem>Konrad,</castItem>
+          <roleDesc>Don Juans Begleiter</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Holzapfel</castItem>
+          <castItem>Schleewein,</castItem>
+          <roleDesc>einfältige Gerichtsdiener</roleDesc>
+        </castGroup>
+        <castItem>Ein Schreiber</castItem>
+        <castItem>Hero, Leonatos Tochter</castItem>
+        <castItem>Beatrice, Leonatos Nichte</castItem>
+        <castGroup>
+          <castItem>Margareta,</castItem>
+          <castItem>Ursula,</castItem>
+          <roleDesc>Heros Kammerfrauen</roleDesc>
+        </castGroup>
+        <castItem>Ein Mönch</castItem>
+        <castItem>Ein Knabe, Boten, Wachen, Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in Messina</p>
       </set>

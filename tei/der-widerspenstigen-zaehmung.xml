@@ -84,40 +84,40 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Der Widerspenstigen Zähmung</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Der Widerspenstigen Zähmung</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="64"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Ein Lord</castItem>
-          <castItem>Christoph Schlau, ein betrunkner Kesselflicker</castItem>
-          <castItem>Wirtin, Page, Schauspieler, Jäger und andre Bediente des Lords</castItem>
-          <castItem>Baptista, ein reicher Edelmann in Padua</castItem>
-          <castItem>Vincentio, ein alter Edelmann aus Pisa</castItem>
-          <castItem>Lucentio, Vincentios Sohn, Liebhaber der Bianca</castItem>
-          <castItem>Petruchio, ein Edelmann aus Verona, Katharinens Freier</castItem>
-          <castGroup>
-            <castItem>Gremio,</castItem>
-            <castItem>Hortensio,</castItem>
-            <roleDesc>Biancas Freier</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Tranio,</castItem>
-            <castItem>Biondello,</castItem>
-            <roleDesc>Lucentios Diener</roleDesc>
-          </castGroup>
-          <castItem>Grumio,</castItem>
-          <castItem>Curtis, Petruchios Diener</castItem>
-          <castItem>Ein Magister, der den Vincentio vorstellen soll</castItem>
-          <castItem>Katharina, die Widerspenstige,</castItem>
-          <castItem>Bianca, ihre Schwester,</castItem>
-          <castItem>Eine Witwe, Baptistas Töchter</castItem>
-          <castItem>Schneider, Putzbändler und Bediente des Baptista und des Petruchio</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Ein Lord</castItem>
+        <castItem>Christoph Schlau, ein betrunkner Kesselflicker</castItem>
+        <castItem>Wirtin, Page, Schauspieler, Jäger und andre Bediente des Lords</castItem>
+        <castItem>Baptista, ein reicher Edelmann in Padua</castItem>
+        <castItem>Vincentio, ein alter Edelmann aus Pisa</castItem>
+        <castItem>Lucentio, Vincentios Sohn, Liebhaber der Bianca</castItem>
+        <castItem>Petruchio, ein Edelmann aus Verona, Katharinens Freier</castItem>
+        <castGroup>
+          <castItem>Gremio,</castItem>
+          <castItem>Hortensio,</castItem>
+          <roleDesc>Biancas Freier</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Tranio,</castItem>
+          <castItem>Biondello,</castItem>
+          <roleDesc>Lucentios Diener</roleDesc>
+        </castGroup>
+        <castItem>Grumio,</castItem>
+        <castItem>Curtis, Petruchios Diener</castItem>
+        <castItem>Ein Magister, der den Vincentio vorstellen soll</castItem>
+        <castItem>Katharina, die Widerspenstige,</castItem>
+        <castItem>Bianca, ihre Schwester,</castItem>
+        <castItem>Eine Witwe, Baptistas Töchter</castItem>
+        <castItem>Schneider, Putzbändler und Bediente des Baptista und des Petruchio</castItem>
+      </castList>
       <set>
         <p>Die Handlung ist abwechselnd in Padua, und in dem Landhause des Petruchio</p>
       </set>

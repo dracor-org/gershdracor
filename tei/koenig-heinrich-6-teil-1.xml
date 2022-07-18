@@ -83,60 +83,59 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>König Heinrich VI.</head>
-        <head>Erster Teil</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">König Heinrich VI. Erster Teil</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="495"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>König Heinrich VI.</castItem>
-          <castItem>Herzog von Gloster, Oheim des Königs und Protektor</castItem>
-          <castItem>Herzog von Bedford, Oheim des Königs und Regent von Frankreich</castItem>
-          <castItem>Thomas Beaufort, Herzog von Exeter, Großoheim des Königs</castItem>
-          <castItem>Heinrich Beaufort, Großoheim des Königs, Bischof von Winchester und nachmals
-            Kardinal</castItem>
-          <castItem>Johann Beaufort, Graf von Somerset, nachmals Herzog</castItem>
-          <castItem>Richard Plantagenet, ältester Sohn des hingerichteten Grafen von Cambridge,
-            nachmals Herzog von York</castItem>
-          <castItem>Graf von Warwick</castItem>
-          <castItem>Graf von Salisbury</castItem>
-          <castItem>Graf von Suffolk</castItem>
-          <castItem>Lord Talbot, nachmals Graf von Shrewsbury</castItem>
-          <castItem>Johann Talbot, sein Sohn</castItem>
-          <castItem>Edmund Mortimer, Graf von March</castItem>
-          <castItem>Mortimers Gefangenwarter</castItem>
-          <castItem>Ein Rechtsgelehrter</castItem>
-          <castItem>Sir John Fastolfe</castItem>
-          <castItem>Sir William Lucy</castItem>
-          <castItem>Sir William Glansdale</castItem>
-          <castItem>Sir Thomas Gargrave</castItem>
-          <castItem>Schultheiß von London</castItem>
-          <castItem>Woodville, Kommandant des Turmes</castItem>
-          <castItem>Vernon</castItem>
-          <castItem>Basset</castItem>
-          <castItem>Karl, Dauphin, nachmaliger König von Frankreich</castItem>
-          <castItem>Reignier, Herzog von Anjou und Titular-König von Neapel</castItem>
-          <castItem>Herzog von Burgund</castItem>
-          <castItem>Herzog von Alençon</castItem>
-          <castItem>Der Statthalter von Paris</castItem>
-          <castItem>Bastard von Orleans</castItem>
-          <pb n="495"/>
-          <castItem>Der Büchsenmeister von Orleans und sein Sohn</castItem>
-          <castItem>Der General der französischen Truppen in Bordeaux</castItem>
-          <castItem>Ein französischer Sergeant</castItem>
-          <castItem>Ein Torwärter</castItem>
-          <castItem>Ein alter Schäfer, Vater der Pucelle</castItem>
-          <castItem>Margareta, Reigniers Tochter</castItem>
-          <castItem>Gräfin von Auvergne</castItem>
-          <castItem>Jeanne d'Arc, genannt La Pucelle</castItem>
-          <castItem>Böse Geister, die der Pucelle erscheinen, Herren von Adel, Wächter des Turmes,
-            Herolde, Offiziere, Soldaten, Boten und Gefolge sowohl der englischen als französischen
-            Herrscharten</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>König Heinrich VI.</castItem>
+        <castItem>Herzog von Gloster, Oheim des Königs und Protektor</castItem>
+        <castItem>Herzog von Bedford, Oheim des Königs und Regent von Frankreich</castItem>
+        <castItem>Thomas Beaufort, Herzog von Exeter, Großoheim des Königs</castItem>
+        <castItem>Heinrich Beaufort, Großoheim des Königs, Bischof von Winchester und nachmals
+          Kardinal</castItem>
+        <castItem>Johann Beaufort, Graf von Somerset, nachmals Herzog</castItem>
+        <castItem>Richard Plantagenet, ältester Sohn des hingerichteten Grafen von Cambridge,
+          nachmals Herzog von York</castItem>
+        <castItem>Graf von Warwick</castItem>
+        <castItem>Graf von Salisbury</castItem>
+        <castItem>Graf von Suffolk</castItem>
+        <castItem>Lord Talbot, nachmals Graf von Shrewsbury</castItem>
+        <castItem>Johann Talbot, sein Sohn</castItem>
+        <castItem>Edmund Mortimer, Graf von March</castItem>
+        <castItem>Mortimers Gefangenwarter</castItem>
+        <castItem>Ein Rechtsgelehrter</castItem>
+        <castItem>Sir John Fastolfe</castItem>
+        <castItem>Sir William Lucy</castItem>
+        <castItem>Sir William Glansdale</castItem>
+        <castItem>Sir Thomas Gargrave</castItem>
+        <castItem>Schultheiß von London</castItem>
+        <castItem>Woodville, Kommandant des Turmes</castItem>
+        <castItem>Vernon</castItem>
+        <castItem>Basset</castItem>
+        <castItem>Karl, Dauphin, nachmaliger König von Frankreich</castItem>
+        <castItem>Reignier, Herzog von Anjou und Titular-König von Neapel</castItem>
+        <castItem>Herzog von Burgund</castItem>
+        <castItem>Herzog von Alençon</castItem>
+        <castItem>Der Statthalter von Paris</castItem>
+        <castItem>Bastard von Orleans</castItem>
+        <pb n="495"/>
+        <castItem>Der Büchsenmeister von Orleans und sein Sohn</castItem>
+        <castItem>Der General der französischen Truppen in Bordeaux</castItem>
+        <castItem>Ein französischer Sergeant</castItem>
+        <castItem>Ein Torwärter</castItem>
+        <castItem>Ein alter Schäfer, Vater der Pucelle</castItem>
+        <castItem>Margareta, Reigniers Tochter</castItem>
+        <castItem>Gräfin von Auvergne</castItem>
+        <castItem>Jeanne d'Arc, genannt La Pucelle</castItem>
+        <castItem>Böse Geister, die der Pucelle erscheinen, Herren von Adel, Wächter des Turmes,
+          Herolde, Offiziere, Soldaten, Boten und Gefolge sowohl der englischen als französischen
+          Herrscharten</castItem>
+      </castList>
       <set>
         <p>Die Szene ist teils in England, teils in Frankreich</p>
       </set>

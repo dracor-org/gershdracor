@@ -162,53 +162,53 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Ein Sommernachtstraum</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Ein Sommernachtstraum</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="310"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Theseus, Herzog von Athen</castItem>
-          <castItem>Egeus, Vater der Hermia</castItem>
-          <castGroup>
-            <castItem>Lysander,</castItem>
-            <castItem>Demetrius,</castItem>
-            <roleDesc>Liebhaber der Hermia</roleDesc>
-          </castGroup>
-          <castItem>Philostrat, Aufseher der Lustbarkeiten am Hofe des Theseus</castItem>
-          <castItem>Squenz, der Zimmermann</castItem>
-          <castItem>Schnock, der Schreiner</castItem>
-          <castItem>Zettel, der Weber</castItem>
-          <castItem>Flaut, der Bälgenflicker</castItem>
-          <castItem>Schnauz, der Kesselflicker</castItem>
-          <castItem>Schlucker, der Schneider</castItem>
-          <castItem>Hippolyta, Königin der Amazonen, mit Theseus verlobt</castItem>
-          <castItem>Hermia, Tochter des Egeus, in Lysander verliebt</castItem>
-          <castItem>Helena, in Demetrius verliebt</castItem>
-          <castItem>Oberon, König der Elfen</castItem>
-          <castItem>Titania, Königin der Elfen</castItem>
-          <castItem>Droll, ein Elfe</castItem>
-          <castGroup>
-            <castItem>Bohnenblüte,</castItem>
-            <castItem>Spinnweb,</castItem>
-            <castItem>Motte,</castItem>
-            <castItem>Senfsamen,</castItem>
-            <roleDesc>Elfen</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Pyramus,</castItem>
-            <castItem>Thisbe,</castItem>
-            <castItem>Wand,</castItem>
-            <castItem>Mondschein,</castItem>
-            <castItem>Löwe,</castItem>
-            <roleDesc>Rollen in dem Zwischenspiele, das von den Rüpeln vorgestellt wird</roleDesc>
-          </castGroup>
-          <castItem>Andere Elfen, im Gefolge des Königs und der Königin. Gefolge des Theseus und der
-            Hippolyta</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Theseus, Herzog von Athen</castItem>
+        <castItem>Egeus, Vater der Hermia</castItem>
+        <castGroup>
+          <castItem>Lysander,</castItem>
+          <castItem>Demetrius,</castItem>
+          <roleDesc>Liebhaber der Hermia</roleDesc>
+        </castGroup>
+        <castItem>Philostrat, Aufseher der Lustbarkeiten am Hofe des Theseus</castItem>
+        <castItem>Squenz, der Zimmermann</castItem>
+        <castItem>Schnock, der Schreiner</castItem>
+        <castItem>Zettel, der Weber</castItem>
+        <castItem>Flaut, der Bälgenflicker</castItem>
+        <castItem>Schnauz, der Kesselflicker</castItem>
+        <castItem>Schlucker, der Schneider</castItem>
+        <castItem>Hippolyta, Königin der Amazonen, mit Theseus verlobt</castItem>
+        <castItem>Hermia, Tochter des Egeus, in Lysander verliebt</castItem>
+        <castItem>Helena, in Demetrius verliebt</castItem>
+        <castItem>Oberon, König der Elfen</castItem>
+        <castItem>Titania, Königin der Elfen</castItem>
+        <castItem>Droll, ein Elfe</castItem>
+        <castGroup>
+          <castItem>Bohnenblüte,</castItem>
+          <castItem>Spinnweb,</castItem>
+          <castItem>Motte,</castItem>
+          <castItem>Senfsamen,</castItem>
+          <roleDesc>Elfen</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Pyramus,</castItem>
+          <castItem>Thisbe,</castItem>
+          <castItem>Wand,</castItem>
+          <castItem>Mondschein,</castItem>
+          <castItem>Löwe,</castItem>
+          <roleDesc>Rollen in dem Zwischenspiele, das von den Rüpeln vorgestellt wird</roleDesc>
+        </castGroup>
+        <castItem>Andere Elfen, im Gefolge des Königs und der Königin. Gefolge des Theseus und der
+          Hippolyta</castItem>
+      </castList>
       <set>
         <p>Szene: Athen und ein nahe gelegener Wald</p>
       </set>

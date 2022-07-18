@@ -83,71 +83,71 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Julius Cäsar</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Julius Cäsar</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="181"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Julius Cäsar</castItem>
-          <castGroup>
-            <castItem>Octavius Cäsar</castItem>
-            <castItem>Marcus Antonius</castItem>
-            <castItem>M. Ämilius Lepidus,</castItem>
-            <roleDesc>Triumvirn nach dem Tode des Julius Cäsar</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Cicero</castItem>
-            <castItem>Publius</castItem>
-            <castItem>Popilius Lena,</castItem>
-            <roleDesc>Senatoren</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Marcus Brutus</castItem>
-            <castItem>Cassius</castItem>
-            <castItem>Casca</castItem>
-            <castItem>Trebonius</castItem>
-            <castItem>Ligarius</castItem>
-            <castItem>Decius Brutus</castItem>
-            <castItem>Metellus Cimber</castItem>
-            <castItem>Cinna,</castItem>
-            <roleDesc>Verschworne gegen Julius Cäsar</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Flavius</castItem>
-            <castItem>Marullus,</castItem>
-            <roleDesc>Tribunen</roleDesc>
-          </castGroup>
-          <castItem>Artemidorus, ein Sophist von Knidos</castItem>
-          <castItem>Ein Wahrsager</castItem>
-          <castItem>Cinna, ein Poet</castItem>
-          <castItem>Ein andrer Poet</castItem>
-          <castGroup>
-            <castItem>Lucilius</castItem>
-            <castItem>Titinius</castItem>
-            <castItem>Messala</castItem>
-            <castItem>Der junge Cato</castItem>
-            <castItem>Volumnius,</castItem>
-            <roleDesc>Freunde des Brutus und Cassius</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Varro</castItem>
-            <castItem>Clitus</castItem>
-            <castItem>Claudius</castItem>
-            <castItem>Strato</castItem>
-            <castItem>Lucius</castItem>
-            <castItem>Dardanius,</castItem>
-            <roleDesc>Diener des Brutus</roleDesc>
-          </castGroup>
-          <pb n="181"/>
-          <castItem>Pindarus, Diener des Cassius</castItem>
-          <castItem>Calpurnia, Gemahlin des Cäsar</castItem>
-          <castItem>Portia, Gemahlin des Brutus</castItem>
-          <castItem>Senatoren, Bürger, Wache, Gefolge u.s.w.</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Julius Cäsar</castItem>
+        <castGroup>
+          <castItem>Octavius Cäsar</castItem>
+          <castItem>Marcus Antonius</castItem>
+          <castItem>M. Ämilius Lepidus,</castItem>
+          <roleDesc>Triumvirn nach dem Tode des Julius Cäsar</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Cicero</castItem>
+          <castItem>Publius</castItem>
+          <castItem>Popilius Lena,</castItem>
+          <roleDesc>Senatoren</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Marcus Brutus</castItem>
+          <castItem>Cassius</castItem>
+          <castItem>Casca</castItem>
+          <castItem>Trebonius</castItem>
+          <castItem>Ligarius</castItem>
+          <castItem>Decius Brutus</castItem>
+          <castItem>Metellus Cimber</castItem>
+          <castItem>Cinna,</castItem>
+          <roleDesc>Verschworne gegen Julius Cäsar</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Flavius</castItem>
+          <castItem>Marullus,</castItem>
+          <roleDesc>Tribunen</roleDesc>
+        </castGroup>
+        <castItem>Artemidorus, ein Sophist von Knidos</castItem>
+        <castItem>Ein Wahrsager</castItem>
+        <castItem>Cinna, ein Poet</castItem>
+        <castItem>Ein andrer Poet</castItem>
+        <castGroup>
+          <castItem>Lucilius</castItem>
+          <castItem>Titinius</castItem>
+          <castItem>Messala</castItem>
+          <castItem>Der junge Cato</castItem>
+          <castItem>Volumnius,</castItem>
+          <roleDesc>Freunde des Brutus und Cassius</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Varro</castItem>
+          <castItem>Clitus</castItem>
+          <castItem>Claudius</castItem>
+          <castItem>Strato</castItem>
+          <castItem>Lucius</castItem>
+          <castItem>Dardanius,</castItem>
+          <roleDesc>Diener des Brutus</roleDesc>
+        </castGroup>
+        <pb n="181"/>
+        <castItem>Pindarus, Diener des Cassius</castItem>
+        <castItem>Calpurnia, Gemahlin des Cäsar</castItem>
+        <castItem>Portia, Gemahlin des Brutus</castItem>
+        <castItem>Senatoren, Bürger, Wache, Gefolge u.s.w.</castItem>
+      </castList>
       <set>
         <p>Die Szene ist einen großen Teil des Stücks hindurch zu Rom, nachher zu Sardes und bei
           Philippi</p>

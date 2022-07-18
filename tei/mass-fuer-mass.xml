@@ -84,40 +84,40 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Maß für Maß</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Maß für Maß</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="212"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Vincentio, Herzog von Wien</castItem>
-          <castItem>Angelo, Statthalter während des Herzogs Abwesenheit</castItem>
-          <castItem>Escalus, ein alter Herr vom Staatsrat und Gehülfe des Angelo</castItem>
-          <castItem>Claudio, ein junger Edelmann</castItem>
-          <castItem>Lucio, ein Wüstling</castItem>
-          <castItem>Zwei junge Edelleute, Freunde des Lucio</castItem>
-          <castItem>Varrius, ein Edelmann, in des Herzogs Diensten</castItem>
-          <castGroup>
-            <castItem>Ein Kerkermeister</castItem>
-            <castItem>Thomas</castItem>
-            <castItem>Peter,</castItem>
-            <roleDesc>Mönche</roleDesc>
-          </castGroup>
-          <castItem>Elbogen, ein einfältiger Gerichtsdiener</castItem>
-          <castItem>Schaum, ein alberner junger Mensch</castItem>
-          <castItem>Pompejus, Bierzapfer bei der Frau Überley</castItem>
-          <castItem>Grauslich, ein Scharfrichter</castItem>
-          <castItem>Bernardino, ein Mörder</castItem>
-          <castItem>Isabella, Schwester des Claudio</castItem>
-          <castItem>Mariane, Angelos Verlobte</castItem>
-          <castItem>Julia, Claudios Geliebte</castItem>
-          <castItem>Franziska, eine Nonne</castItem>
-          <castItem>Frau Überley, eine Kupplerin</castItem>
-          <castItem>Herren, Wachen, Gerichtsdiener und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Vincentio, Herzog von Wien</castItem>
+        <castItem>Angelo, Statthalter während des Herzogs Abwesenheit</castItem>
+        <castItem>Escalus, ein alter Herr vom Staatsrat und Gehülfe des Angelo</castItem>
+        <castItem>Claudio, ein junger Edelmann</castItem>
+        <castItem>Lucio, ein Wüstling</castItem>
+        <castItem>Zwei junge Edelleute, Freunde des Lucio</castItem>
+        <castItem>Varrius, ein Edelmann, in des Herzogs Diensten</castItem>
+        <castGroup>
+          <castItem>Ein Kerkermeister</castItem>
+          <castItem>Thomas</castItem>
+          <castItem>Peter,</castItem>
+          <roleDesc>Mönche</roleDesc>
+        </castGroup>
+        <castItem>Elbogen, ein einfältiger Gerichtsdiener</castItem>
+        <castItem>Schaum, ein alberner junger Mensch</castItem>
+        <castItem>Pompejus, Bierzapfer bei der Frau Überley</castItem>
+        <castItem>Grauslich, ein Scharfrichter</castItem>
+        <castItem>Bernardino, ein Mörder</castItem>
+        <castItem>Isabella, Schwester des Claudio</castItem>
+        <castItem>Mariane, Angelos Verlobte</castItem>
+        <castItem>Julia, Claudios Geliebte</castItem>
+        <castItem>Franziska, eine Nonne</castItem>
+        <castItem>Frau Überley, eine Kupplerin</castItem>
+        <castItem>Herren, Wachen, Gerichtsdiener und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in Wien</p>
       </set>

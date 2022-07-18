@@ -84,38 +84,38 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Die Komödie der Irrungen</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Die Komödie der Irrungen</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="2"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Solinus, Herzog von Ephesus</castItem>
-          <castItem>Ägeon, ein Kaufmann aus Syrakus</castItem>
-          <castGroup>
-            <castItem>Antipholus von Ephesus,</castItem>
-            <castItem>Antipholus von Syrakus,</castItem>
-            <roleDesc>Zwillingsbrüder und Söhne des Ägeon</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Dromio von Ephesus,</castItem>
-            <castItem>Dromio von Syrakus,</castItem>
-            <roleDesc>Zwillingsbrüder und Sklaven der beiden Antipholus</roleDesc>
-          </castGroup>
-          <castItem>Balthasar, ein Kaufmann</castItem>
-          <castItem>Angelo, ein Goldschmied</castItem>
-          <castItem>Ein Kaufmann, Freund des Antipholus von Syrakus</castItem>
-          <castItem>Doktor Zwick, ein Schulmeister und Beschwörer</castItem>
-          <castItem>Ämilia, Frau des Ägeon, Äbtissin zu Ephesus</castItem>
-          <castItem>Adriana, Frau des Antipholus von Ephesus</castItem>
-          <castItem>Luciana, Schwester der Adriana</castItem>
-          <castItem>Lucie, Adrianens Kammermädchen</castItem>
-          <castItem>Eine Kurtisane</castItem>
-          <castItem>Kerkermeister, Gerichtsdiener und Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Solinus, Herzog von Ephesus</castItem>
+        <castItem>Ägeon, ein Kaufmann aus Syrakus</castItem>
+        <castGroup>
+          <castItem>Antipholus von Ephesus,</castItem>
+          <castItem>Antipholus von Syrakus,</castItem>
+          <roleDesc>Zwillingsbrüder und Söhne des Ägeon</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Dromio von Ephesus,</castItem>
+          <castItem>Dromio von Syrakus,</castItem>
+          <roleDesc>Zwillingsbrüder und Sklaven der beiden Antipholus</roleDesc>
+        </castGroup>
+        <castItem>Balthasar, ein Kaufmann</castItem>
+        <castItem>Angelo, ein Goldschmied</castItem>
+        <castItem>Ein Kaufmann, Freund des Antipholus von Syrakus</castItem>
+        <castItem>Doktor Zwick, ein Schulmeister und Beschwörer</castItem>
+        <castItem>Ämilia, Frau des Ägeon, Äbtissin zu Ephesus</castItem>
+        <castItem>Adriana, Frau des Antipholus von Ephesus</castItem>
+        <castItem>Luciana, Schwester der Adriana</castItem>
+        <castItem>Lucie, Adrianens Kammermädchen</castItem>
+        <castItem>Eine Kurtisane</castItem>
+        <castItem>Kerkermeister, Gerichtsdiener und Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist in Ephesus</p>
       </set>

@@ -82,49 +82,49 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Macbeth</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Macbeth</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="606"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Duncan, König von Schottland</castItem>
-          <castGroup>
-            <castItem>Malcolm,</castItem>
-            <castItem>Donalbain,</castItem>
-            <roleDesc>seine Söhne</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Macbeth,</castItem>
-            <castItem>Banquo,</castItem>
-            <roleDesc>Anführer des königlichen Heeres</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Macduff,</castItem>
-            <castItem>Lenox,</castItem>
-            <castItem>Rosse,</castItem>
-            <castItem>Menteth,</castItem>
-            <castItem>Angus,</castItem>
-            <castItem>Cathness,</castItem>
-            <roleDesc>schottische Edle</roleDesc>
-          </castGroup>
-          <castItem>Fleance, Banquos Sohn</castItem>
-          <castItem>Siward, Graf von Northumberland, Führer der englischen Truppen</castItem>
-          <castItem>Der junge Siward, sein Sohn</castItem>
-          <castItem>Seyton, ein Offizier in Macbeths Gefolge</castItem>
-          <castItem>Macduffs kleiner Sohn</castItem>
-          <castItem>Ein englischer Arzt und ein schottischer Arzt</castItem>
-          <castItem>Ein Soldat, ein Pförtner, ein alter Mann</castItem>
-          <castItem>Lady Macbeth</castItem>
-          <castItem>Lady Macduff</castItem>
-          <castItem>Eine Kammerfrau der Lady Macbeth</castItem>
-          <castItem>Hekate und drei Hexen</castItem>
-          <castItem>Lords, Edelleute, Anführer, Krieger, Mörder, Boten, Banquos Geist und andere
-            Erscheinungen</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Duncan, König von Schottland</castItem>
+        <castGroup>
+          <castItem>Malcolm,</castItem>
+          <castItem>Donalbain,</castItem>
+          <roleDesc>seine Söhne</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Macbeth,</castItem>
+          <castItem>Banquo,</castItem>
+          <roleDesc>Anführer des königlichen Heeres</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Macduff,</castItem>
+          <castItem>Lenox,</castItem>
+          <castItem>Rosse,</castItem>
+          <castItem>Menteth,</castItem>
+          <castItem>Angus,</castItem>
+          <castItem>Cathness,</castItem>
+          <roleDesc>schottische Edle</roleDesc>
+        </castGroup>
+        <castItem>Fleance, Banquos Sohn</castItem>
+        <castItem>Siward, Graf von Northumberland, Führer der englischen Truppen</castItem>
+        <castItem>Der junge Siward, sein Sohn</castItem>
+        <castItem>Seyton, ein Offizier in Macbeths Gefolge</castItem>
+        <castItem>Macduffs kleiner Sohn</castItem>
+        <castItem>Ein englischer Arzt und ein schottischer Arzt</castItem>
+        <castItem>Ein Soldat, ein Pförtner, ein alter Mann</castItem>
+        <castItem>Lady Macbeth</castItem>
+        <castItem>Lady Macduff</castItem>
+        <castItem>Eine Kammerfrau der Lady Macbeth</castItem>
+        <castItem>Hekate und drei Hexen</castItem>
+        <castItem>Lords, Edelleute, Anführer, Krieger, Mörder, Boten, Banquos Geist und andere
+          Erscheinungen</castItem>
+      </castList>
       <set>
         <p>Szene: Schottland. Zu Ende des vierten Aufzugs: England</p>
       </set>

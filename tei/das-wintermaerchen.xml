@@ -82,46 +82,46 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Das Wintermärchen</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Das Wintermärchen</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="496"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Leontes, König von Sizilien</castItem>
-          <castItem>Hermione, seine Gemahlin</castItem>
-          <castGroup>
-            <castItem>Mamillius</castItem>
-            <castItem>Perdita,</castItem>
-            <roleDesc>seine Kinder</roleDesc>
-          </castGroup>
-          <castGroup>
-            <castItem>Camillo</castItem>
-            <castItem>Antigonus</castItem>
-            <castItem>Cleomenes</castItem>
-            <castItem>Dion,</castItem>
-            <roleDesc>vornehme Sizilianer</roleDesc>
-          </castGroup>
-          <castItem>Herren vom Hofe und sizilianische Edelleute</castItem>
-          <castItem>Paulina, Antigonus' Gemahlin</castItem>
-          <castItem>Emilia, Kammerfrau der Königin</castItem>
-          <castItem>Hofdamen</castItem>
-          <castItem>Ein Beamter und mehrere Gerichtsdiener</castItem>
-          <castItem>Ein Kerkermeister</castItem>
-          <castItem>Ein Matrose</castItem>
-          <castItem>Polyxenes, König von Böhmen</castItem>
-          <castItem>Florizel, sein Sohn</castItem>
-          <castItem>Archidamus, am Hofe des Königs</castItem>
-          <castItem>Ein alter Schäfer</castItem>
-          <castItem>Sein Sohn</castItem>
-          <castItem>Autolycus, ein Spitzbube</castItem>
-          <castItem>Mopsa und Dorcas. Schäferinnen.</castItem>
-          <castItem>Schäfer. Knechte</castItem>
-          <castItem>Die Zeit als Chorus</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Leontes, König von Sizilien</castItem>
+        <castItem>Hermione, seine Gemahlin</castItem>
+        <castGroup>
+          <castItem>Mamillius</castItem>
+          <castItem>Perdita,</castItem>
+          <roleDesc>seine Kinder</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem>Camillo</castItem>
+          <castItem>Antigonus</castItem>
+          <castItem>Cleomenes</castItem>
+          <castItem>Dion,</castItem>
+          <roleDesc>vornehme Sizilianer</roleDesc>
+        </castGroup>
+        <castItem>Herren vom Hofe und sizilianische Edelleute</castItem>
+        <castItem>Paulina, Antigonus' Gemahlin</castItem>
+        <castItem>Emilia, Kammerfrau der Königin</castItem>
+        <castItem>Hofdamen</castItem>
+        <castItem>Ein Beamter und mehrere Gerichtsdiener</castItem>
+        <castItem>Ein Kerkermeister</castItem>
+        <castItem>Ein Matrose</castItem>
+        <castItem>Polyxenes, König von Böhmen</castItem>
+        <castItem>Florizel, sein Sohn</castItem>
+        <castItem>Archidamus, am Hofe des Königs</castItem>
+        <castItem>Ein alter Schäfer</castItem>
+        <castItem>Sein Sohn</castItem>
+        <castItem>Autolycus, ein Spitzbube</castItem>
+        <castItem>Mopsa und Dorcas. Schäferinnen.</castItem>
+        <castItem>Schäfer. Knechte</castItem>
+        <castItem>Die Zeit als Chorus</castItem>
+      </castList>
     </front>
     <pb n="496"/>
     <body>

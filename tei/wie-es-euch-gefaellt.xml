@@ -83,48 +83,48 @@
   </standOff>
   <text>
     <front>
-      <div type="front">
-        <head>William Shakespeare</head>
-        <head>Wie es euch gefällt</head>
-      </div>
+      <titlePage>
+        <docAuthor>William Shakespeare</docAuthor>
+        <docTitle>
+          <titlePart type="main">Wie es euch gefällt</titlePart>
+        </docTitle>
+      </titlePage>
       <pb n="640"/>
-      <div type="Dramatis_Personae">
-        <castList>
-          <head>Personen</head>
-          <castItem>Der Herzog, in der Verbannung</castItem>
-          <castItem>Friedrich, Bruder des Herzogs und Usurpator seines Gebiets</castItem>
-          <castGroup>
-            <castItem>Amiens,</castItem>
-            <castItem>Jaques,</castItem>
-            <roleDesc>Edelleute, die den Herzog in der Verbannung begleiten</roleDesc>
-          </castGroup>
-          <castItem>Le Beau, ein Hofmann in Friedrichs Diensten</castItem>
-          <castItem>Charles, Friedrichs Ringer</castItem>
-          <castGroup>
-            <castItem>Oliver,</castItem>
-            <castItem>Jakob,</castItem>
-            <castItem>Orlando,</castItem>
-            <roleDesc>Söhne des Freiherrn Roland de Boys</roleDesc>
-          </castGroup>
-          <castItem>Adam,</castItem>
-          <castItem>Dennis, Bediente Olivers</castItem>
-          <castItem>Probstein, der Narr</castItem>
-          <castItem>Ehrn Olivarius Textdreher, ein Pfarrer</castItem>
-          <castGroup>
-            <castItem>Corinnus,</castItem>
-            <castItem>Silvius,</castItem>
-            <roleDesc>Schäfer</roleDesc>
-          </castGroup>
-          <castItem>Wilhelm, ein Bauernbursche, in Käthchen verliebt</castItem>
-          <castItem>Eine Person, die den Hymen vorstellt</castItem>
-          <castItem>Rosalinde, Tochter des vertriebnen Herzogs</castItem>
-          <castItem>Celia, Friedrichs Tochter</castItem>
-          <castItem>Phoebe, eine Schäferin</castItem>
-          <castItem>Käthchen, ein Bauernmädchen</castItem>
-          <castItem>Edelleute der beiden Herzoge, Pagen,</castItem>
-          <castItem>Jäger und andres Gefolge</castItem>
-        </castList>
-      </div>
+      <castList>
+        <head>Personen</head>
+        <castItem>Der Herzog, in der Verbannung</castItem>
+        <castItem>Friedrich, Bruder des Herzogs und Usurpator seines Gebiets</castItem>
+        <castGroup>
+          <castItem>Amiens,</castItem>
+          <castItem>Jaques,</castItem>
+          <roleDesc>Edelleute, die den Herzog in der Verbannung begleiten</roleDesc>
+        </castGroup>
+        <castItem>Le Beau, ein Hofmann in Friedrichs Diensten</castItem>
+        <castItem>Charles, Friedrichs Ringer</castItem>
+        <castGroup>
+          <castItem>Oliver,</castItem>
+          <castItem>Jakob,</castItem>
+          <castItem>Orlando,</castItem>
+          <roleDesc>Söhne des Freiherrn Roland de Boys</roleDesc>
+        </castGroup>
+        <castItem>Adam,</castItem>
+        <castItem>Dennis, Bediente Olivers</castItem>
+        <castItem>Probstein, der Narr</castItem>
+        <castItem>Ehrn Olivarius Textdreher, ein Pfarrer</castItem>
+        <castGroup>
+          <castItem>Corinnus,</castItem>
+          <castItem>Silvius,</castItem>
+          <roleDesc>Schäfer</roleDesc>
+        </castGroup>
+        <castItem>Wilhelm, ein Bauernbursche, in Käthchen verliebt</castItem>
+        <castItem>Eine Person, die den Hymen vorstellt</castItem>
+        <castItem>Rosalinde, Tochter des vertriebnen Herzogs</castItem>
+        <castItem>Celia, Friedrichs Tochter</castItem>
+        <castItem>Phoebe, eine Schäferin</castItem>
+        <castItem>Käthchen, ein Bauernmädchen</castItem>
+        <castItem>Edelleute der beiden Herzoge, Pagen,</castItem>
+        <castItem>Jäger und andres Gefolge</castItem>
+      </castList>
       <set>
         <p>Die Szene ist anfänglich bei Olivers Hause; nachher teils am Hofe des Usurpators, teils
           im Ardenner Wald</p>
