@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="689"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,6 +90,7 @@
           <titlePart type="main">König Heinrich VI. Dritter Teil</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="690"/>
       <pb n="691"/>
       <castList>
         <head>Personen</head>
@@ -101,7 +103,7 @@
           <castItem>Graf von Oxford</castItem>
           <castItem>Graf von Northumberland</castItem>
           <castItem>Graf von Westmoreland</castItem>
-          <castItem>Lord Clifford,</castItem>
+          <castItem>Lord Clifford</castItem>
           <roleDesc>von König Heinrichs Partei</roleDesc>
         </castGroup>
         <castItem>Richard Plantagenet, Herzog von York</castItem>
@@ -109,7 +111,7 @@
           <castItem>Eduard, Graf von March, nachmals König Eduard IV.</castItem>
           <castItem>Edmund, Graf von Rutland</castItem>
           <castItem>Georg, nachmals Herzog von Clarence</castItem>
-          <castItem>Richard, nachmals Herzog von Glocester,</castItem>
+          <castItem>Richard, nachmals Herzog von Glocester</castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
         <castGroup>
@@ -118,11 +120,14 @@
           <castItem>Graf von Warwick</castItem>
           <castItem>Graf von Pembroke</castItem>
           <castItem>Lord Hastings</castItem>
-          <castItem>Lord Stafford,</castItem>
+          <castItem>Lord Stafford</castItem>
           <roleDesc>von des Herzogs von York Partei</roleDesc>
         </castGroup>
-        <castItem>Sir John Mortimer</castItem>
-        <castItem>Sir Hugh Mortimer, Oheime des Herzogs von York</castItem>
+        <castGroup>
+          <castItem>Sir John Mortimer</castItem>
+          <castItem>Sir Hugh Mortimer</castItem>
+          <roleDesc>Oheime des Herzogs von York</roleDesc>
+        </castGroup>
         <castItem>Henry, der junge Graf von Richmond</castItem>
         <castItem>Lord Rivers, Bruder der Lady Grey</castItem>
         <castItem>Sir William Stanley</castItem>
@@ -133,7 +138,7 @@
         <castItem>Der Kommandant des Turmes</castItem>
         <castItem>Ein Edelmann</castItem>
         <castItem>Zwei Förster, ein Jäger</castItem>
-        <pb n="691"/>
+        <pb n="692"/>
         <castItem>Ein Sohn, der seinen Vater umgebracht hat</castItem>
         <castItem>Ein Vater, der seinen Sohn umgebracht hat</castItem>
         <castItem>Königin Margareta</castItem>
@@ -147,7 +152,7 @@
           Stücks in England</p>
       </set>
     </front>
-    <pb n="692"/>
+    <pb n="693"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -212,7 +217,7 @@
             <speaker>RICHARD.</speaker>
             <l>So hoff' ich König Heinrichs Kopf zu schütteln.</l>
           </sp>
-          <pb n="693"/>
+          <pb n="694"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -294,7 +299,7 @@
             <stage>König Heinrich, Clifford, Northumberland, Westmoreland, Exeter und andre treten
               auf, mit roten Rosen an ihren Hüten.</stage>
           </sp>
-          <pb n="694"/>
+          <pb n="695"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -390,7 +395,7 @@
             <speaker>CLIFFORD.</speaker>
             <l>Wem sollt' er folgen als dem echten König?</l>
           </sp>
-          <pb n="695"/>
+          <pb n="696"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <l>Ja, Clifford: das ist Richard, Herzog York.</l>
@@ -498,7 +503,7 @@
               <l>So ficht es aus statt dieser Wortgezänke.</l>
             </lg>
           </sp>
-          <pb n="696"/>
+          <pb n="697"/>
           <sp who="#richard">
             <speaker>RICHARD.</speaker>
             <l>Die Trommeln rührt, so wird der König fliehn.</l>
@@ -611,7 +616,7 @@
               <l>Denk' nicht, daß Heinrich so entsetzt soll werden.</l>
             </lg>
           </sp>
-          <pb n="697"/>
+          <pb n="698"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <l>Entsetzt wird er, der ganzen Welt zum Trotz.</l>
@@ -726,7 +731,7 @@
             </lg>
             <stage>Northumberland, Clifford und Westmoreland ab.</stage>
           </sp>
-          <pb n="698"/>
+          <pb n="699"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <l>Hieher sieh, Heinrich, achte nicht auf sie.</l>
@@ -818,7 +823,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Nein, geh nicht vor mir weg: ich will dir folgen.</l>
           </sp>
-          <pb n="699"/>
+          <pb n="700"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Geduldig, bestes Weib! und ich will bleiben.</l>
@@ -877,7 +882,7 @@
               <l>Und da ich dieses sehe, scheid' ich hier</l>
               <l>Mich, Heinrich, selbst von deinem Tisch und Bett,</l>
               <l>Bis man den Parlamentsschluß widerruft,</l>
-              <pb n="700"/>
+              <pb n="701"/>
               <l>Wodurch mein Sohn gebracht wird um sein Erb'.</l>
               <l>Die nord'schen Lords, die dein Panier verschworen,</l>
               <l>Ziehn meinem nach, sobald sie's fliegen sehn;</l>
@@ -952,7 +957,7 @@
             <l>Doch ich weiß Gründe von Gewicht und Kraft.</l>
             <stage>York tritt auf.</stage>
           </sp>
-          <pb n="701"/>
+          <pb n="702"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -1045,7 +1050,7 @@
               <l>Ihr, Richard, sollt zum Herzog Norfolk hin</l>
               <l>Und im Vertraun ihm unsern Vorsatz melden.</l>
               <l>Ihr, Eduard, sollt für mich zu Mylord Cobham,</l>
-              <pb n="702"/>
+              <pb n="703"/>
               <l>Mit dem die Kenter willig aufstehn werden.</l>
               <l>Auf sie vertrau' ich; denn es sind Soldaten,</l>
               <l>Klug, höflich, freien Sinnes und voll Mut. –</l>
@@ -1123,7 +1128,7 @@
             <lg>
               <l>Fünf gegen zwanzig! Große Übermacht;</l>
               <l>Doch zweifl' ich, Oheim, nicht an unserm Sieg.</l>
-              <pb n="703"/>
+              <pb n="704"/>
               <l>Ich hab' in Frankreich manche Schlacht gewonnen,</l>
               <l>Wo zehn die Feinde waren gegen eins:</l>
               <l>Weswegen sollt' es minder jetzt gelingen?</l>
@@ -1202,7 +1207,7 @@
               <l>Er ist ein Mann: miß, Clifford, dich mit ihm.</l>
             </lg>
           </sp>
-          <pb n="704"/>
+          <pb n="705"/>
           <sp who="#clifford">
             <speaker>CLIFFORD.</speaker>
             <lg>
@@ -1284,7 +1289,7 @@
               <l>Das Heer der Königin gewinnt das Feld;</l>
               <l>Mich rettend fielen meine beiden Onkel,</l>
               <l>Und all mein Volk weicht dem erhitzten Feind</l>
-              <pb n="705"/>
+              <pb n="706"/>
               <l>Und flieht wie Schiffe vor dem Wind, wie Lämmer,</l>
               <l>Verfolgt von ausgehungert gier'gen Wölfen.</l>
               <l>Gott weiß, was meine Söhne hat betroffen;</l>
@@ -1334,7 +1339,7 @@
               <l>Mein Staub kann wie der Phönix einen Vogel</l>
               <l>Erzeugen, der mich an euch allen rächt;</l>
               <l>Und in der Hoffnung schau' ich auf zum Himmel,</l>
-              <pb n="706"/>
+              <pb n="707"/>
               <l>Verachtend, was ihr auch mir antun mögt.</l>
               <l>Nun, kommt ihr nicht? So viele, und doch Furcht?</l>
             </lg>
@@ -1415,7 +1420,7 @@
               <l>Kommt, stellt ihn hier auf diesen Maulwurfs-Hügel,</l>
               <l>Der Berge griff mit ausgestreckten Armen,</l>
               <l>Doch nur den Schatten mit der Hand geteilt. –</l>
-              <pb n="707"/>
+              <pb n="708"/>
               <l>Wart Ihr's, der Englands König wollte sein?</l>
               <l>Wart Ihr's, der lärmt' in unserm Parlament</l>
               <l>Und predigte von seiner hohen Abkunft?</l>
@@ -1453,7 +1458,7 @@
               <l>Wollt Ihr das Haupt mit Heinrichs Würd' umfahn,</l>
               <l>Des Diadems berauben seine Schläfe,</l>
               <l>Dem heil'gen Eid zuwider, da er lebt?</l>
-              <pb n="708"/>
+              <pb n="709"/>
               <l>Oh, dies Vergeh'n ist allzu unverzeihlich!</l>
               <l>Die Kron' herunter und das Haupt zugleich,</l>
               <l>Und keine Zeit versäumt zum Todesstreich!</l>
@@ -1503,7 +1508,7 @@
               <l>Und trägst noch eines Weibes Angesicht?</l>
               <l>Weiber sind sanft, mild, mitleidsvoll und biegsam;</l>
               <l>Du starr, verstockt, rauh, kieselhart, gefühllos.</l>
-              <pb n="709"/>
+              <pb n="710"/>
               <l>Ich sollte rasen? Ja, dir ist's gewährt.</l>
               <l>Ich sollte weinen? Ja, du hast's erreicht.</l>
               <l>Denn Schauer stürmt der wüste Wind herbei,</l>
@@ -1561,7 +1566,7 @@
               <l>Und das wird schnell die weichen Tränen trocknen.</l>
             </lg>
           </sp>
-          <pb n="710"/>
+          <pb n="711"/>
           <sp who="#clifford">
             <speaker>CLIFFORD.</speaker>
             <l>Das hier für meinen Eid, das für des Vaters Tod.</l>
@@ -1589,8 +1594,8 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="711"/>
       </div>
+      <pb n="712"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1639,7 +1644,7 @@
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Drei lichte Sonnen, jede ganz vollkommen;</l>
-              <pb n="712"/>
+              <pb n="713"/>
               <l>Nicht unterbrochen durch die zieh'nden Wolken,</l>
               <l>Von blassem klarem Himmel rein getrennt.</l>
               <l>Sieh, sieh! sie nahn, umarmen, küssen sich,</l>
@@ -1704,7 +1709,7 @@
               <l>Lacht' ihm ins Angesicht, und als er weinte,</l>
               <l>Gab die Barbarin ihm, sich abzutrocknen,</l>
               <l>Ein Tuch, getaucht in das schuldlose Blut</l>
-              <pb n="713"/>
+              <pb n="714"/>
               <l>Des jungen Rutland, welchen Clifford schlug;</l>
               <l>So nahmen sie, nach vielem Spott und Schimpf,</l>
               <l>Sein Haupt, und aufgesteckt am Tor von York</l>
@@ -1769,7 +1774,7 @@
             <lg>
               <l>Wenn wir die grause Zeitung, großer Warwick,</l>
               <l>Erzählen sollten und bei jedem Wort</l>
-              <pb n="714"/>
+              <pb n="715"/>
               <l>Mit Dolchen uns zerfleischen, bis zum Schluß:</l>
               <l>Der Worte Pein wär' ärger ab der Wunden.</l>
               <l>O tapfrer Lord, der Herzog York ist tot!</l>
@@ -1818,7 +1823,7 @@
               <l>Fiel ganz gelind, als ob sie Freunde träfen.</l>
               <l>Ich trieb sie an mit der gerechten Sache,</l>
               <l>Mit hohen Soldes, großen Lohns Verheißung.</l>
-              <pb n="715"/>
+              <pb n="716"/>
               <l>Umsonst! Sie hatten zum Gefecht kein Herz,</l>
               <l>Wir keine Hoffnung auf den Sieg durch sie,</l>
               <l>So daß wir flohn: zur Königin der König,</l>
@@ -1886,7 +1891,7 @@
               <l>Vernehmt mich, Lords. Der frechen Königin,</l>
               <l>Samt Clifford und Northumberland, dem stolzen,</l>
               <l>Und andern stolzen Gästen dieses Schlags,</l>
-              <pb n="716"/>
+              <pb n="717"/>
               <l>Gelang's, den König leicht wie Wachs zu schmelzen.</l>
               <l>Er schwor zu eurem Erbrecht Beistimmung,</l>
               <l>Verzeichnet ist sein Eid im Parlament;</l>
@@ -1951,7 +1956,7 @@
             <speaker>WARWICK.</speaker>
             <l>Wie nun? Was gibt's?</l>
           </sp>
-          <pb n="717"/>
+          <pb n="718"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <lg>
@@ -2008,7 +2013,7 @@
               <l>Zum König machen, seinen Stamm erhöhn,</l>
               <l>Als liebevoller Vater; du, ein König.</l>
               <l>Der mit so wackerm Sohn gesegnet ist,</l>
-              <pb n="718"/>
+              <pb n="719"/>
               <l>Gabst deine Beistimmung, ihn zu enterben,</l>
               <l>Was dich als höchst lieblosen Vater zeigte.</l>
               <l>Es nähren unvernünft'ge Kreaturen</l>
@@ -2058,7 +2063,7 @@
               <l>Eduard, knie nieder!</l>
             </lg>
           </sp>
-          <pb n="719"/>
+          <pb n="720"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -2146,7 +2151,7 @@
               <l>Ich ward durch seine Zustimmung sein Erbe.</l>
               <l>Seitdem brach man den Eid: denn, wie ich höre,</l>
               <l>Habt Ihr, als die Ihr wirklich König seid,</l>
-              <pb n="720"/>
+              <pb n="721"/>
               <l>Trägt er die Krone gleich, ihn angestiftet,</l>
               <l>Durch neuen Parlamentsschluß mich zu streichen</l>
               <l>Und seinen eignen Sohn dafür zu setzen.</l>
@@ -2261,7 +2266,7 @@
               <l>Daß Cliffords Mannsinn auf der Zunge wohnt.</l>
             </lg>
           </sp>
-          <pb n="721"/>
+          <pb n="722"/>
           <sp who="#eduard">
             <speaker>EDUARD.</speaker>
             <lg>
@@ -2332,7 +2337,7 @@
               <l>Und heim auf seine Kron' Empörung häufte.</l>
               <l>Denn was schuf diesen Aufruhr als dein Stolz?</l>
               <l>Warst du nur glimpflich, schlief' unser Anspruch noch;</l>
-              <pb n="722"/>
+              <pb n="723"/>
               <l>Aus Mitleid für den sanften König hätten</l>
               <l>Die Fod'rung wir auf andre Zeit verspart.</l>
             </lg>
@@ -2401,7 +2406,7 @@
             <l>So sagt, Mylord! Wie glückt's? Was ist für Hoffnung?</l>
             <stage>George tritt auf.</stage>
           </sp>
-          <pb n="723"/>
+          <pb n="724"/>
           <sp who="#george">
             <speaker>GEORGE.</speaker>
             <lg>
@@ -2464,7 +2469,7 @@
               <l>Wo es auch sei, im Himmel oder auf Erden.</l>
             </lg>
           </sp>
-          <pb n="724"/>
+          <pb n="725"/>
           <sp who="#richard">
             <speaker>RICHARD.</speaker>
             <lg>
@@ -2528,7 +2533,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="725"/>
+        <pb n="726"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Ein andrer Teil des Schlachtfeldes. Getümmel. König Heinrich tritt auf.</stage>
@@ -2569,7 +2574,7 @@
               <l>So viele Stunden muß der Ruh' ich pflegen,</l>
               <l>So viele Stunden muß ich Andacht üben,</l>
               <l>So viele Stunden muß ich mich ergötzen;</l>
-              <pb n="726"/>
+              <pb n="727"/>
               <l>So viele Tage trugen schon die Schafe,</l>
               <l>So viele Wochen, bis die armen lammen,</l>
               <l>So viele Jahr, eh' ich die Wolle schere.</l>
@@ -2612,7 +2617,7 @@
               <l>Und ich, der ich von seiner Hand das Leben</l>
               <l>Empfangen, raubt' es ihm mit meiner Hand.</l>
               <l>Verzeih' mir, Gott, nicht wußt' ich, was ich tat!</l>
-              <pb n="727"/>
+              <pb n="728"/>
               <l>Verzeih' auch, Vater, denn dich kannt' ich nicht!</l>
               <l>Die blut'gen Zeichen sollen meine Tränen</l>
               <l>Hinweg dir waschen, und kein Wort mehr nun,</l>
@@ -2667,7 +2672,7 @@
               <l>Kämpft ihr, so müssen tausend Leben welken</l>
             </lg>
           </sp>
-          <pb n="728"/>
+          <pb n="729"/>
           <sp who="#sohn">
             <speaker>SOHN.</speaker>
             <lg>
@@ -2760,7 +2765,7 @@
               <l>Sonst kommt mir nach, so will ich Euch voran.</l>
             </lg>
           </sp>
-          <pb n="729"/>
+          <pb n="730"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -2805,7 +2810,7 @@
               <l>Denn ich verdient' um ihn ja kein Erbarmen.</l>
               <l>Die Luft drang in die schweren Wunden mir,</l>
               <l>Und viel Verlust vom Blute macht mich matt.</l>
-              <pb n="730"/>
+              <pb n="731"/>
               <l>York, Richard, Warwick, alle her auf mich!</l>
               <l>Durchbohrt die Brust, wie euren Vätern ich.</l>
             </lg>
@@ -2877,7 +2882,7 @@
             <lg>
               <l>Bringt her den Unglücksuhu unsers Hauses,</l>
               <l>Der nichts als Tod uns und den Unsern sang.</l>
-              <pb n="731"/>
+              <pb n="732"/>
               <l>Nun wird der Tod den droh'nden Laut ihm hemmen</l>
               <l>Und seine grause Zunge nicht mehr sprechen.</l>
             </lg>
@@ -2961,7 +2966,7 @@
               <l>Dann setzt nach Frankreich Warwick übers Meer</l>
               <l>Und wirbt dir Fräulein Bona zum Gemahl:</l>
               <l>So wirst du diese Länder fest verknüpfen</l>
-              <pb n="732"/>
+              <pb n="733"/>
               <l>Und darfst, im Bund mit Frankreich, nicht befürchten,</l>
               <l>Daß der zerstreute Feind sich wieder sammle,</l>
               <l>Wie er es hofft; denn ob sie schon nicht viel</l>
@@ -3002,7 +3007,7 @@
           </sp>
         </div>
       </div>
-      <pb n="733"/>
+      <pb n="734"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3055,7 +3060,7 @@
               <l>Wie sollt' ich andern helfen und nicht mir?</l>
             </lg>
           </sp>
-          <pb n="734"/>
+          <pb n="735"/>
           <sp who="#erster_foerster">
             <speaker>ERSTER FÖRSTER.</speaker>
             <lg>
@@ -3118,7 +3123,7 @@
               <l>Und Königinnen sprichst?</l>
             </lg>
           </sp>
-          <pb n="735"/>
+          <pb n="736"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -3202,7 +3207,7 @@
               <l>Und wie die Luft zu mir zurück sie bläst,</l>
               <l>Die, wenn ich blase, meinem Hauch gehorcht</l>
               <l>Und einem andern nachgibt, wenn er bläst,</l>
-              <pb n="736"/>
+              <pb n="737"/>
               <l>Vom stärkern Windstoß immerfort regiert:</l>
               <l>So leichten Sinns seid ihr geringen Leute.</l>
               <l>Doch brecht die Eide nicht; mit dieser Sünde</l>
@@ -3279,7 +3284,7 @@
               <l>Bevor der König ihr Gesuch gewährt.</l>
             </lg>
           </sp>
-          <pb n="737"/>
+          <pb n="738"/>
           <sp who="#clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
@@ -3399,7 +3404,7 @@
             <speaker>LADY GREY.</speaker>
             <l>Das wird mich Euer Hoheit Dienst verpflichten.</l>
           </sp>
-          <pb n="738"/>
+          <pb n="739"/>
           <sp who="#koenig_eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Was tust du mir zum Dienst, wenn ich sie gebe?</l>
@@ -3523,7 +3528,7 @@
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Du tust damit den Kindern sehr zu nah.</l>
           </sp>
-          <pb n="739"/>
+          <pb n="740"/>
           <sp who="#lady_grey">
             <speaker>LADY GREY.</speaker>
             <lg>
@@ -3612,7 +3617,7 @@
               <l>Erwidre nichts, du wirst nun mein Gemahl.</l>
             </lg>
           </sp>
-          <pb n="740"/>
+          <pb n="741"/>
           <sp who="#gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
@@ -3695,7 +3700,7 @@
               <l>Ein schlimmer Vorbedacht für meinen Zweck!</l>
               <l>So träum' ich also nur von Oberherrschaft,</l>
               <l>Wie wer auf einem Vorgebirge steht</l>
-              <pb n="741"/>
+              <pb n="742"/>
               <l>Und späht ein fernes, gern erreichtes Ufer</l>
               <l>Und wünscht, sein Fuß käm' seinem Auge gleich;</l>
               <l>Er schilt die See, die ihn von dorten trennt,</l>
@@ -3734,7 +3739,7 @@
               <l>Bis auf dem mißgeschaffnen Rumpf mein Kopf</l>
               <l>Umzirkelt ist mit einer reichen Krone.</l>
               <l>Doch weiß ich nicht, wie ich die Kron' erlange,</l>
-              <pb n="742"/>
+              <pb n="743"/>
               <l>Denn manches Leben trennt mich von der Heimat;</l>
               <l>Und ich, wie ein im dorn'gen Wald Verirrter,</l>
               <l>Die Dornen reißend und davon gerissen,</l>
@@ -3782,7 +3787,7 @@
             <speaker>MARGARETA.</speaker>
             <lg>
               <l>Nein, großer König Frankreichs! Margareta</l>
-              <pb n="743"/>
+              <pb n="744"/>
               <l>Muß nun ihr Segel streichen und für jetzt,</l>
               <l>Wo Könige gebieten, dienen lernen.</l>
               <l>Ich war vom großen Albion Königin,</l>
@@ -3845,7 +3850,7 @@
               <l>Den Sturm, indes wir sinnen ihn zu dämpfen.</l>
             </lg>
           </sp>
-          <pb n="744"/>
+          <pb n="745"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <l>Je mehr wir zögern, wird der Feind verstärkt.</l>
@@ -3922,7 +3927,7 @@
               <l>Kann ein Tyrann zu Hause sicher herrschen,</l>
               <l>Wenn er nicht auswärts mächtig sich verbündet?</l>
               <l>Er sei Tyrann, beweist genugsam dies,</l>
-              <pb n="745"/>
+              <pb n="746"/>
               <l>Daß Heinrich ja noch lebt; und wär' er tot,</l>
               <l>Hier steht Prinz Eduard, König Heinrichs Sohn.</l>
               <l>Drum, Ludwig, sieh, daß dieses Heiratsbündnis</l>
@@ -3999,7 +4004,7 @@
               <l>Hält er das Haus von Lancaster empor.</l>
             </lg>
           </sp>
-          <pb n="746"/>
+          <pb n="747"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <l>Und ich das Haus von York.</l>
@@ -4081,7 +4086,7 @@
             <speaker>PRINZ.</speaker>
             <l>Mit Eduard, aber nicht mit Englands König.</l>
           </sp>
-          <pb n="747"/>
+          <pb n="748"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <lg>
@@ -4154,7 +4159,7 @@
               <l>Ich hoff', es geht noch gut.</l>
             </lg>
           </sp>
-          <pb n="748"/>
+          <pb n="749"/>
           <sp who="#koenig_ludwig">
             <speaker>KÖNIG LUDWIG.</speaker>
             <lg>
@@ -4226,7 +4231,7 @@
               <l>Daß, wenn der König Ludwig wenig Scharen</l>
               <l>Erlesnen Volks uns zu verleihn geruht,</l>
               <l>So unternehm' ich, sie bei uns zu landen</l>
-              <pb n="749"/>
+              <pb n="750"/>
               <l>Und den Tyrann mit Krieg vom Thron zu stoßen.</l>
               <l>Nicht seine neue Braut beschirmt ihn wohl,</l>
               <l>Und Clarence, wie mir meine Briefe melden,</l>
@@ -4315,7 +4320,7 @@
               <l>Was dient zum Pfand für deine feste Treu'?</l>
             </lg>
           </sp>
-          <pb n="750"/>
+          <pb n="751"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -4373,7 +4378,7 @@
           </sp>
         </div>
       </div>
-      <pb n="751"/>
+      <pb n="752"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4449,7 +4454,7 @@
             <lg>
               <l>Ich nicht:</l>
               <l>Verhüte Gott, daß ich geschieden wünschte,</l>
-              <pb n="752"/>
+              <pb n="753"/>
               <l>Die Gott verbunden; ja und es wäre schade,</l>
               <l>Ein Paar zu trennen, das so schön sich paßt.</l>
             </lg>
@@ -4547,7 +4552,7 @@
               <l>Und Eure Brüder sonst wo freien lassen.</l>
             </lg>
           </sp>
-          <pb n="753"/>
+          <pb n="754"/>
           <sp who="#koenig_eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
@@ -4631,7 +4636,7 @@
             <lg>
               <l>Dies waren seine Worte, da ich schied:</l>
               <l>»Geh, sage deinem eingebild'ten König,</l>
-              <pb n="754"/>
+              <pb n="755"/>
               <l>Dem falschen Eduard, daß ihm Ludewig</l>
               <l>Von Frankreich Masken will hinübersenden</l>
               <l>Zum Tanz mit ihm und seiner neuen Braut.«</l>
@@ -4725,7 +4730,7 @@
             <lg>
               <l>Clarence und Somerset, zum Warwick beide!</l>
               <l>Doch bin ich auf das Äußerste gewaffnet,</l>
-              <pb n="755"/>
+              <pb n="756"/>
               <l>Und Eil' ist nötig bei der großen Not. –</l>
               <l>Pembroke und Stafford, geht, bringt Mannschaft auf</l>
               <l>Zu unserm Dienst, macht Zurüstung zum Krieg:</l>
@@ -4787,7 +4792,7 @@
             <speaker>CLARENCE.</speaker>
             <l>Sorgt darum nicht, Mylord!</l>
           </sp>
-          <pb n="756"/>
+          <pb n="757"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -4836,7 +4841,7 @@
             <speaker>ZWEITE SCHILDWACHE.</speaker>
             <l>Was? Will er nicht zu Bett?</l>
           </sp>
-          <pb n="757"/>
+          <pb n="758"/>
           <sp who="#erste_schildwache">
             <speaker>ERSTE SCHILDWACHE.</speaker>
             <lg>
@@ -4918,7 +4923,7 @@
               den König im Schlafrock, in einem Lehnstuhl sitzend, heraus. Gloster und Hastings
               fliehn über die Bühne.</stage>
           </sp>
-          <pb n="758"/>
+          <pb n="759"/>
           <sp who="#somerset">
             <speaker>SOMERSET.</speaker>
             <l>Wer sind sie, die da flohn?</l>
@@ -4985,7 +4990,7 @@
             </lg>
             <stage>König Eduard wird abgeführt, Somerset begleitet ihn.</stage>
           </sp>
-          <pb n="759"/>
+          <pb n="760"/>
           <sp who="#oxford">
             <speaker>OXFORD.</speaker>
             <lg>
@@ -5063,7 +5068,7 @@
               <l>Den Sprößling Eduards, Englands echten Erben.</l>
             </lg>
           </sp>
-          <pb n="760"/>
+          <pb n="761"/>
           <sp who="#rivers">
             <speaker>RIVERS.</speaker>
             <l>Doch, gnäd'ge Frau, wo kam denn Warwick hin?</l>
@@ -5121,7 +5126,7 @@
               <l>Steckt ihr so hier, des Bischofs Wild zu stehlen?</l>
             </lg>
           </sp>
-          <pb n="761"/>
+          <pb n="762"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -5202,7 +5207,7 @@
               <l>Ja solch Vergnügen, wie im Käfig Vögel</l>
               <l>Empfinden, wenn nach langem Trübsinn sie</l>
               <l>Zuletzt bei häuslichen Gesanges Tönen</l>
-              <pb n="762"/>
+              <pb n="763"/>
               <l>An den Verlust der Freiheit sich gewöhnen. –</l>
               <l>Doch, Warwick, du nächst Gott hast mich befreit,</l>
               <l>Drum bin ich dir nächst Gott zum Dank bereit:</l>
@@ -5271,7 +5276,7 @@
               <l>Wir woll'n uns wie ein Doppelschatten fügen</l>
               <l>An Heinrichs Leib und seinen Platz vertreten;</l>
               <l>Ich meine bei der Last des Regiments:</l>
-              <pb n="763"/>
+              <pb n="764"/>
               <l>Er soll die Ehr' und seine Ruh' genießen.</l>
               <l>Und, Clarence, nun ist's mehr als dringend, gleich</l>
               <l>Für Hochverräter Eduard zu erklären</l>
@@ -5350,7 +5355,7 @@
               <l>Er ward entführt durch Richard, Herzog Gloster,</l>
               <l>Und den Lord Hastings, die im Hinterhalt</l>
               <l>Auf ihn gewartet an des Waldes Ende</l>
-              <pb n="764"/>
+              <pb n="765"/>
               <l>Und von des Bischofs Jägern ihn befreit,</l>
               <l>Denn täglich war die Jagd sein Zeitvertreib.</l>
             </lg>
@@ -5414,7 +5419,7 @@
               <l>Als einziehn, wie in unser Herzogtum?</l>
             </lg>
           </sp>
-          <pb n="765"/>
+          <pb n="766"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -5500,7 +5505,7 @@
               <l>Als bei der Nacht und in der Zeit des Kriegs.</l>
               <l>Freund, fürchte nichts und gib die Schlüssel ab:</l>
               <stage>Er nimmt die Schlüssel.</stage>
-              <pb n="766"/>
+              <pb n="767"/>
               <l>Denn Eduard will die Stadt und dich verfechten</l>
               <l>Und alle die, so hold sind unsern Rechten.</l>
             </lg>
@@ -5591,7 +5596,7 @@
               <l>Und Heinrich maßt das Diadem sich an.</l>
             </lg>
           </sp>
-          <pb n="767"/>
+          <pb n="768"/>
           <sp who="#montgomery">
             <speaker>MONTGOMERY.</speaker>
             <lg>
@@ -5658,7 +5663,7 @@
               <l>Und viel betörtes Volk schart sich zu ihm.</l>
             </lg>
           </sp>
-          <pb n="768"/>
+          <pb n="769"/>
           <sp who="#oxford">
             <speaker>OXFORD.</speaker>
             <l>Man werbe Mannschaft, ihn zurückzuschlagen.</l>
@@ -5741,7 +5746,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
               <l>Das fürcht' ich nicht, mir schaffte Ruhm mein Tun.</l>
-              <pb n="769"/>
+              <pb n="770"/>
               <l>Ich stopfte ihren Bitten nicht mein Ohr,</l>
               <l>Schob die Gesuche nicht bei Seit' mit Zögern;</l>
               <l>Mein Mitleid war ein Balsam ihren Wunden,</l>
@@ -5789,7 +5794,7 @@
           </sp>
         </div>
       </div>
-      <pb n="770"/>
+      <pb n="771"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5872,7 +5877,7 @@
               <l>Daß wir von seiner Ankunft nichts gehört?</l>
             </lg>
           </sp>
-          <pb n="771"/>
+          <pb n="772"/>
           <sp who="#koenig_eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
@@ -5968,7 +5973,7 @@
               <l>Ja, segle, wie du kannst, mit Wind und Flut!</l>
               <l>Die Hand hier, um dein kohlschwarz Haar gewunden,</l>
               <l>Soll, weil dein abgehauner Kopf noch warm,</l>
-              <pb n="772"/>
+              <pb n="773"/>
               <l>Mit deinem Blut dies schreiben in den Staub:</l>
               <l>»Der wetterwend'sche Warwick wechselt nun nicht mehr.«</l>
             </lg>
@@ -6051,7 +6056,7 @@
             <lg>
               <l>Weißt du, was dies bedeutet, Vater Warwick?</l>
               <stage>Nimmt die rote Rose von seinem Hut.</stage>
-              <pb n="773"/>
+              <pb n="774"/>
               <l>Sieh hier, ich werfe meine Schmach dir zu!</l>
               <l>Nicht stürzen will ich meines Vaters Haus,</l>
               <l>Des eignes Blut die Steine festgekittet,</l>
@@ -6114,7 +6119,7 @@
             <stage>Ein Marsch. Alle ab.</stage>
           </sp>
         </div>
-        <pb n="774"/>
+        <pb n="775"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Schlachtfeld bei Barnet.</stage>
@@ -6165,7 +6170,7 @@
             <lg>
               <l>Ach, Warwick, Warwick! Wärst du, wie wir sind,</l>
               <l>Wir könnten ganz noch den Verlust ersetzen.</l>
-              <pb n="775"/>
+              <pb n="776"/>
               <l>Die Königin hat eine große Macht</l>
               <l>Aus Frankreich mitgebracht, die Zeitung hörten</l>
               <l>Wir eben jetzt: ach, könntest du nur fliehn!</l>
@@ -6225,7 +6230,7 @@
               <l>Die unsrer lichten Sonne wird begegnen,</l>
               <l>Eh' sie ihr ruhig Bett im West erreicht.</l>
               <l>Ich meine Lords, das Heer der Königin,</l>
-              <pb n="776"/>
+              <pb n="777"/>
               <l>In Gallien angeworben, hat gelandet</l>
               <l>Und zieht, so hören wir, zum Kampf heran.</l>
             </lg>
@@ -6282,7 +6287,7 @@
               <l>Das Fleiß und Mut noch hätte retten mögen?</l>
               <l>Ach, welche Schande, welch Vergeh'n wär' das!</l>
               <l>War Warwick unser Anker auch: was tut's?</l>
-              <pb n="777"/>
+              <pb n="778"/>
               <l>Und Montague der große Mast: was schadet's?</l>
               <l>Erschlagne Freunde unser Tauwerk: nun?</l>
               <l>Sagt, ist nicht Oxford hier ein andrer Anker?</l>
@@ -6331,7 +6336,7 @@
             <speaker>OXFORD.</speaker>
             <lg>
               <l>Weiber und Kinder von so hohem Mut</l>
-              <pb n="778"/>
+              <pb n="779"/>
               <l>Und Krieger zaghaft, – ew'ge Schande wär's!</l>
               <l>O wackrer Prinz! Dein rühmlicher Großvater</l>
               <l>Lebt wieder auf in dir; lang' mögst du leben,</l>
@@ -6411,7 +6416,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="779"/>
+        <pb n="780"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Getümmel, Angriffe, dann ein Rückzug. Hierauf kommen König Eduard, Clarence,
@@ -6500,7 +6505,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Du bist geboren zu der Menschen Plage.</l>
           </sp>
-          <pb n="780"/>
+          <pb n="781"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <l>Schafft doch das lose Maul von Weibe weg!</l>
@@ -6593,7 +6598,7 @@
               <l>Gibt's Ärgres noch als Mörder, daß ich's nenne?</l>
               <l>Nein, nein! Mein Herz wird bersten, wenn ich rede,</l>
               <l>Und reden will ich, daß das Herz mir berste.</l>
-              <pb n="781"/>
+              <pb n="782"/>
               <l>Schlächter und Buben! Blut'ge Kannibalen!</l>
               <l>Welch süße Pflanze mähtet ihr zu früh!</l>
               <l>Nein, ihr habt keine Kinder, der Gedanke</l>
@@ -6670,7 +6675,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="782"/>
+        <pb n="783"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>London. Ein Zimmer im Turm.</stage>
@@ -6743,7 +6748,7 @@
               <l>Doch warum kommst du? meines Lebens wegen?</l>
             </lg>
           </sp>
-          <pb n="783"/>
+          <pb n="784"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <l>Denkst du, ich sei ein Henker?</l>
@@ -6810,7 +6815,7 @@
             <lg>
               <l>Wie? Sinkt der Lancaster hochstrebend Blut</l>
               <l>Doch in den Grund? Ich dacht', es würde steigen.</l>
-              <pb n="784"/>
+              <pb n="785"/>
               <l>Seht, wie mein Schwert weint um des Königs Tod!</l>
               <l>Oh, stets vergieße solche Purpurtränen,</l>
               <l>Wer irgend unsers Hauses Umsturz wünscht!</l>
@@ -6847,7 +6852,7 @@
             <stage>Ab mit der Leiche.</stage>
           </sp>
         </div>
-        <pb n="785"/>
+        <pb n="786"/>
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Ein Zimmer im Palast.</stage>
@@ -6908,7 +6913,7 @@
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Dank, edler Clarence! Würd'ger Bruder, Dank!</l>
           </sp>
-          <pb n="786"/>
+          <pb n="787"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>

@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="553"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -101,21 +102,21 @@
         <castItem>Antonio, Leonatos Bruder</castItem>
         <castItem>Balthasar, Don Pedros Diener</castItem>
         <castGroup>
-          <castItem>Borachio,</castItem>
-          <castItem>Konrad,</castItem>
+          <castItem>Borachio</castItem>
+          <castItem>Konrad</castItem>
           <roleDesc>Don Juans Begleiter</roleDesc>
         </castGroup>
         <castGroup>
           <castItem>Holzapfel</castItem>
-          <castItem>Schleewein,</castItem>
+          <castItem>Schleewein</castItem>
           <roleDesc>einfältige Gerichtsdiener</roleDesc>
         </castGroup>
         <castItem>Ein Schreiber</castItem>
         <castItem>Hero, Leonatos Tochter</castItem>
         <castItem>Beatrice, Leonatos Nichte</castItem>
         <castGroup>
-          <castItem>Margareta,</castItem>
-          <castItem>Ursula,</castItem>
+          <castItem>Margareta</castItem>
+          <castItem>Ursula</castItem>
           <roleDesc>Heros Kammerfrauen</roleDesc>
         </castGroup>
         <castItem>Ein Mönch</castItem>
@@ -126,7 +127,7 @@
       </set>
     </front>
     <body>
-      <pb n="554"/>
+      <pb n="555"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -183,7 +184,7 @@
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <p>Eine zärtliche Ergießung der Zärtlichkeit. Keine Gesichter sind echter, als die so
-              gewaschen werden. Wie <pb n="555"/> viel besser ist's, über die Freude zu weinen, als
+              gewaschen werden. Wie <pb n="556"/> viel besser ist's, über die Freude zu weinen, als
               sich am Weinen zu freuen!</p>
           </sp>
           <sp who="#beatrice">
@@ -254,7 +255,7 @@
               scherzhaftem Krieg zwischen ihr und Signor Benedikt. Sie kom men nie zusammen ohne ein
               Scharmützel von sinnreichen Einfällen.</p>
           </sp>
-          <pb n="556"/>
+          <pb n="557"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Leider gewinnt er niemals dabei. In unsrer letzten Affaire gingen ihm vier von seinen
@@ -323,7 +324,7 @@
             <p>Teurer Signor Leonato, Ihr geht Eurer Unruhe entgegen. Es ist sonst der Welt Brauch,
               Unkosten zu vermeiden, und Ihr sucht sie auf.</p>
           </sp>
-          <pb n="557"/>
+          <pb n="558"/>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <p>Nie kam Unruhe unter Eurer Gestalt in mein Haus, mein gnädiger Fürst. Wenn uns die
@@ -390,7 +391,7 @@
             <p>Gott erhalte mein gnädiges Fräulein immer in dieser Gesinnung! So wird doch ein oder
               der andre ehrliche Mann dem Schicksal eines zerkratzten Gesichts entgehn.</p>
           </sp>
-          <pb n="558"/>
+          <pb n="559"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Kratzen würde es nicht schlimmer machen, wenn es ein Gesicht wäre wie Eures.</p>
@@ -459,7 +460,7 @@
               soll ich Euch nach meiner Gewohnheit als ein erklärter Feind ihres Geschlechts
               antworten?</p>
           </sp>
-          <pb n="559"/>
+          <pb n="560"/>
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
             <p>Nein, ich bitte dich, rede nach ernstem, nüchternem Urteil.</p>
@@ -515,7 +516,7 @@
               Don Pedro und sucht dich.</p>
             <stage>Don Pedro kommt zurück.</stage>
           </sp>
-          <pb n="560"/>
+          <pb n="561"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Welch Geheimnis hat euch hier zurückgehalten, daß ihr nicht mit uns in Leonatos Haus
@@ -597,7 +598,7 @@
             <speaker>BENEDIKT.</speaker>
             <p>Daß mich ein Weib geboren hat, dafür dank' ich ihr; daß sie mich aufzog, auch dafür
               sag' ich ihr meinen demütigsten Dank: aber daß ich meine Stirn dazu hergebe, die Jagd
-              darauf abzublasen, oder mein Hifthorn an einen <pb n="561"/> unsichtbaren Riem
+              darauf abzublasen, oder mein Hifthorn an einen <pb n="562"/> unsichtbaren Riem
               aufhänge, das können mir die Frauen nicht zumuten. Weil ich ihnen das Unrecht nicht
               tun möchte, einer von ihnen zu mißtrauen, so will ich mir das Recht vorbehalten,
               keiner zu trauen; und das Ende vom Liede ist (und zugleich gewiß auch das beste Lied),
@@ -656,7 +657,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Gut, andre Zeiten, andre Gedanken. Für jetzt, lieber Signor Benedikt, geht hinein zu
-              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="562"/> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
+              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="563"/> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -732,7 +733,7 @@
             <lg>
               <l>Wie lieblich pflegt Ihr doch des Liebeskranken,</l>
               <l>Des Gram Ihr gleich an seiner Blässe kennt.</l>
-              <pb n="563"/>
+              <pb n="564"/>
               <l>Nur daß mein Leid zu plötzlich nicht erschiene,</l>
               <l>Wollt' ich durch längres Heilen es beschönen.</l>
             </lg>
@@ -787,7 +788,7 @@
             <speaker>LEONATO.</speaker>
             <p>Hat der Bursche einigen Verstand, der das sagte?</p>
           </sp>
-          <pb n="564"/>
+          <pb n="565"/>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
             <p>Ein guter, ein recht schlauer Bursch: ich will ihn rufen lassen, dann kannst du ihn
@@ -841,7 +842,7 @@
           </sp>
           <sp who="#konrad">
             <speaker>KONRAD.</speaker>
-            <p>Ei ja; aber Ihr solltet Euch nicht so zur Schau tragen, <pb n="565"/> bis Ihr's ohne
+            <p>Ei ja; aber Ihr solltet Euch nicht so zur Schau tragen, <pb n="566"/> bis Ihr's ohne
               Widerspruch tun könnt. Erst neulich habt Ihr Euch mit Eurem Bruder überworfen, und
               jetzt eben hat er Euch wieder zu Gnaden aufgenommen; da könnt Ihr unmöglich in seiner
               Gunst Wurzel schlagen, wenn Ihr Euch nicht selbst das gute Wetter dazu macht. Ihr müßt
@@ -900,7 +901,7 @@
             <speaker>BORACHIO.</speaker>
             <p>Nun, Hero, Leonatos Tochter und Erbin.</p>
           </sp>
-          <pb n="566"/>
+          <pb n="567"/>
           <sp who="#don_juan">
             <speaker>DON JUAN.</speaker>
             <p>Das kaum flügge Märzhühnchen? Wie kommst du dazu? –</p>
@@ -937,7 +938,7 @@
           </sp>
         </div>
       </div>
-      <pb n="567"/>
+      <pb n="568"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -997,7 +998,7 @@
             <speaker>LEONATO.</speaker>
             <p>Weil du also zu böse bist, wird Gott dir gar keine Hörner geben.</p>
           </sp>
-          <pb n="568"/>
+          <pb n="569"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Richtig, wenn er mir keinen Mann gibt, und das ist ein Segen, um den ich jeden Morgen
@@ -1050,7 +1051,7 @@
             <speaker>BEATRICE.</speaker>
             <p>Nicht ehe, bis der liebe Gott die Männer aus einem andern Stoff macht als aus Erde.
               Soll es ein armes Mädchen nicht verdrießen, sich von einem Stück gewaltigen Staubes
-              meistern zu lassen? Einem nichtsnutzigen Lehmkloß Rechenschaft <pb n="569"/> von ihrem
+              meistern zu lassen? Einem nichtsnutzigen Lehmkloß Rechenschaft <pb n="570"/> von ihrem
               Tun und Lassen abzulegen? Nein, Onkel, ich nehme keinen. Adams Söhne sind meine
               Brüder, und im Ernst, ich halte es für eine Sünde, so nah in meine Verwandtschaft zu
               heiraten.</p>
@@ -1115,7 +1116,7 @@
             <speaker>DON PEDRO.</speaker>
             <p>Meine Maske ist wie Philemons Dach, drinnen in der Hütte ist Jupiter.</p>
           </sp>
-          <pb n="570"/>
+          <pb n="571"/>
           <sp who="#hero">
             <speaker>HERO.</speaker>
             <p>Auf die Weise müßte Eure Maske mit Stroh gedeckt sein.</p>
@@ -1212,7 +1213,7 @@
             <speaker>BENEDIKT.</speaker>
             <p>Und wollt Ihr mir auch nicht sagen, wer Ihr seid?</p>
           </sp>
-          <pb n="571"/>
+          <pb n="572"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Jetzt nicht.</p>
@@ -1286,7 +1287,7 @@
               genommen, um ihm den Antrag zu machen: die Damen folgen ihr, und nur eine Maske bleibt
               zurück.</p>
           </sp>
-          <pb n="572"/>
+          <pb n="573"/>
           <sp who="#borachio">
             <speaker>BORACHIO.</speaker>
             <p>Und das ist Claudio, ich kenne ihn an seiner Haltung.</p>
@@ -1362,7 +1363,7 @@
               unterm Arm, wie eines Hauptmanns Schärpe? Tragen müßt Ihr ihn, auf eine oder die andre
               Weise, denn der Prinz hat Eure Hero weggefangen.</p>
           </sp>
-          <pb n="573"/>
+          <pb n="574"/>
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
             <p>Viel Glück mit ihr!</p>
@@ -1426,7 +1427,7 @@
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
-            <p>Nun, es wäre doch nicht umsonst gewesen, wenn <pb n="574"/> wir die Rute gebunden
+            <p>Nun, es wäre doch nicht umsonst gewesen, wenn <pb n="575"/> wir die Rute gebunden
               hätten und den Kranz dazu; den Kranz hätte er selbst tragen können, und die Rute wäre
               für Euch gewesen, denn Ihr habt ihm, wie mir's vorkommt, sein Vogelnest gestohlen.</p>
           </sp>
@@ -1470,7 +1471,7 @@
             <speaker>DON PEDRO.</speaker>
             <p>Seht, da kommt sie.</p>
           </sp>
-          <pb n="575"/>
+          <pb n="576"/>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
             <p>Hat Eure Hoheit nicht eine Bestellung für mich an das Ende der Welt? Ich wäre jetzt
@@ -1535,7 +1536,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>In Wahrheit, Fräulein, diese heraldische Auslegung trifft zu; obgleich ich schwören
-              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb n="576"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
+              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb n="577"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
               ihrem Vater an und habe seine Einwilligung erhalten. Bestimme jetzt deinen
               Hochzeitstag, und Gott schenke dir seinen Segen!</p>
           </sp>
@@ -1600,7 +1601,7 @@
               verzeiht mir, mein Prinz; ich bin einmal dazu geboren, lauter Torheiten und nichts
               Ernsthaftes zu sprechen.</p>
           </sp>
-          <pb n="577"/>
+          <pb n="578"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Euer Schweigen verdrießt mich am meisten; nichts kleidet Euch besser als Munterkeit,
@@ -1669,7 +1670,7 @@
               dir's, Claudio, diese Woche soll uns nicht langweilig werden. Ich will während dieser
               Zwischenzeit eine von Herkules' Arbeiten vollbringen, und zwar die, den Signor
               Benedikt und das Fräulein Beatrice sterblich ineinander verliebt zu machen. Ich sähe
-              die beiden gar zu gern als ein Paar, und zweifle nicht, damit <pb n="578"/> zustande
+              die beiden gar zu gern als ein Paar, und zweifle nicht, damit <pb n="579"/> zustande
               zu kommen, wenn ihr drei mir solchen Beistand versprechen wollt, wie ich's jedem von
               euch anweisen werde.</p>
           </sp>
@@ -1728,7 +1729,7 @@
             <p>Nicht auf eine redliche Art, gnädiger Herr, aber so versteckt, daß keine
               Unredlichkeit an mir sichtbar werden soll.</p>
           </sp>
-          <pb n="579"/>
+          <pb n="580"/>
           <sp who="#don_juan">
             <speaker>DON JUAN.</speaker>
             <p>Wie denn? Mach's kurz!</p>
@@ -1786,7 +1787,7 @@
               wahrscheinliche Gründe für ihre Treulosigkeit häufen, Eifersucht als Überzeugung
               erscheinen und die ganze Zurüstung unnütz werden soll.</p>
           </sp>
-          <pb n="580"/>
+          <pb n="581"/>
           <sp who="#don_juan">
             <speaker>DON JUAN.</speaker>
             <p>Mag daraus kommen, was will, ich unternehme es. Zeige dich gewandt in der Ausführung,
@@ -1837,7 +1838,7 @@
               um den Schnitt eines neuen Wamses zu ersinnen. Sonst sprach er schlicht vom Munde weg,
               wie ein ehrlicher Junge und ein guter Soldat; nun ist er ein Wortdrechsler geworden,
               seine Rede ist wie ein phantastisch besetztes Bankett, ebenso viel kurioses, seltsames
-              Konfekt. – Sollt' ich jemals so verwandelt werden <pb n="581"/> können, solange ich
+              Konfekt. – Sollt' ich jemals so verwandelt werden <pb n="582"/> können, solange ich
               noch aus diesen Augen sehe? Wer weiß: – Ich glaube es nicht. Ich will nicht darauf
               schwören, daß mich die Liebe nicht in eine Auster verwandeln könne; aber darauf möchte
               ich doch einen Eid ablegen, daß sie mich vorher erst in eine Auster verwandelt haben
@@ -1901,7 +1902,7 @@
             <lg>
               <l>Weil Ihr von Werbung sprecht, so will ich singen,</l>
               <l>Denn oft beginnt sein Werben ein Galan,</l>
-              <pb n="582"/>
+              <pb n="583"/>
               <l>Wo's ihm der Müh' nicht wert scheint: dennoch wirbt er,</l>
               <l>Und schwört, er sei verliebt.</l>
             </lg>
@@ -1967,7 +1968,7 @@
             <speaker>BENEDIKT</speaker>
             <stage>beiseit.</stage>
             <p>Wär's ein Hund gewesen, der so geheult hätte, sie hätten ihn aufgehängt. Nun, Gott
-              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb n="583"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
+              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb n="584"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO</speaker>
@@ -2046,7 +2047,7 @@
             <speaker>LEONATO.</speaker>
             <p>Darauf hätte ich auch geschworen, mein Fürst, und besonders gegen Benedikt.</p>
           </sp>
-          <pb n="584"/>
+          <pb n="585"/>
           <sp who="#benedikt">
             <speaker>BENEDIKT</speaker>
             <stage>beiseit.</stage>
@@ -2113,7 +2114,7 @@
             <speaker>CLAUDIO.</speaker>
             <p>Dabei ist sie ausgezeichnet verständig.</p>
           </sp>
-          <pb n="585"/>
+          <pb n="586"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>In allen andern Dingen, nur nicht darin, daß sie den Benedikt liebt.</p>
@@ -2181,7 +2182,7 @@
               bricht, kann's nicht anders sein, als daß er seine Händel mit Furcht und Zittern
               anfängt.</p>
           </sp>
-          <pb n="586"/>
+          <pb n="587"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Und so ist es auch. Denn der Mann fürchtet Gott, obgleich nach seinen derben Späßen
@@ -2234,7 +2235,7 @@
               gebärden, wenn ich merke, wie sie mich liebt. Sie sagen ferner, sie werde ehe sterben,
               als irgendein Zeichen ihrer Neigung geben. Ich dachte nie zu heiraten; aber man soll
               mich nicht für stolz halten. Glücklich sind, die erfahren, was man an ihnen aussetzt,
-              und sich darnach bessern können. Sie sagen, <pb n="587"/> das Fräulein sei schön; ja,
+              und sich darnach bessern können. Sie sagen, <pb n="588"/> das Fräulein sei schön; ja,
               das ist eine Wahrheit, die ich bezeugen kann; und tugendhaft: – allerdings, ich kann
               nichts dawider sagen; – und verständig, ausgenommen, daß sie in mich verliebt sei: –
               nun, – meiner Treu, das ist eben kein Zuwachs ihrer Verständigkeit, aber doch kein
@@ -2285,7 +2286,7 @@
           </sp>
         </div>
       </div>
-      <pb n="588"/>
+      <pb n="589"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2332,7 +2333,7 @@
             </lg>
             <stage>Beatrice schleicht in die Laube.</stage>
           </sp>
-          <pb n="589"/>
+          <pb n="590"/>
           <sp who="#ursula">
             <speaker>URSULA.</speaker>
             <lg>
@@ -2416,7 +2417,7 @@
             <speaker>HERO.</speaker>
             <lg>
               <l>Da sagst du wahr. Ich sah noch keinen Mann,</l>
-              <pb n="590"/>
+              <pb n="591"/>
               <l>So klug, so jung und brav, so schön gebildet,</l>
               <l>Sie münzt ihn um ins Gegenteil. Wenn blond,</l>
               <l>So schwur sie, sollt' er ihre Schwester heißen.</l>
@@ -2485,7 +2486,7 @@
             <lg>
               <l>Ich bitt' Euch, zürnt mir deshalb nicht, mein Fräulein:</l>
               <l>Nach meiner Ansicht glaub' ich, Signor Benedikt</l>
-              <pb n="591"/>
+              <pb n="592"/>
               <l>Zählt an Gestalt und Haltung, Geist und Mut</l>
               <l>In unserm Welschland zu den ersten Männern.</l>
             </lg>
@@ -2560,7 +2561,7 @@
             <p>Nein, das hieße, den neuen Glanz Eures Ehestands eben so verderben, als einem Kinde
               sein neues Kleid zeigen und ihm verbieten, es zu tragen. Ich will mir nur Benedikts
               Gesellschaft erbitten, denn der ist von der Spitze seines Scheitels bis zur Sohle
-              seines Fußes lauter Fröhlichkeit. <pb n="592"/> Er hat Cupidos Bogensenne zwei- oder
+              seines Fußes lauter Fröhlichkeit. <pb n="593"/> Er hat Cupidos Bogensenne zwei- oder
               dreimal durchgeschnitten, und der kleine Henker wagt seitdem nicht mehr, auf ihn zu
               schießen. Er hat ein Herz, so gesund und ganz wie eine Glocke, und seine Zunge ist der
               Klöpfel, denn was sein Herz denkt, spricht seine Zunge aus.</p>
@@ -2638,7 +2639,7 @@
             <speaker>CLAUDIO.</speaker>
             <p>Das heißt mit andern Worten, der holde Knabe liebt.</p>
           </sp>
-          <pb n="593"/>
+          <pb n="594"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Der größte Beweis ist seine Schwermut.</p>
@@ -2727,7 +2728,7 @@
             <speaker>DON PEDRO.</speaker>
             <p>Das wißt Ihr ja.</p>
           </sp>
-          <pb n="594"/>
+          <pb n="595"/>
           <sp who="#don_juan">
             <speaker>DON JUAN.</speaker>
             <p>Das weiß ich nicht, wenn er erst wissen wird, was ich weiß.</p>
@@ -2794,7 +2795,7 @@
               will ich sie vor der ganzen Versammlung, wo sie getraut werden sollte,
               beschimpfen.</p>
           </sp>
-          <pb n="595"/>
+          <pb n="596"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Und so wie ich für dich warb, sie zu erlangen, so will ich mich nun mit dir
@@ -2869,7 +2870,7 @@
             <p>Habt Ihr, ich weiß, daß Ihr das sagen wolltet. Also dann, was Eure Physiognomik
               betrifft, seht, da gebt Gott die Ehre und macht nicht viel Rühmens davon; und Eure
               Schreibe- und Lesekunst, damit könnt Ihr Euch sehn lassen, wo kein Mensch solche
-              Dummheiten nötig hat. Man <pb n="596"/> hält Euch hier für den allerstupidsten
+              Dummheiten nötig hat. Man <pb n="597"/> hält Euch hier für den allerstupidsten
               Menschen, um Konstabel bei unsrer Wache zu sein; darum sollt Ihr die Laterne halten.
               So lautet Eure Vorschrift: Ihr sollt alle Fragebunten irritieren: Ihr seid dazu da,
               daß Ihr allen und jeden zuruft: »Halt! in des Prinzen Namen.«</p>
@@ -2935,7 +2936,7 @@
           </sp>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
-            <p>Freilich, kraft Eures Amts könnt Ihr's tun; aber <pb n="597"/> ich denke, wer Pech
+            <p>Freilich, kraft Eures Amts könnt Ihr's tun; aber <pb n="598"/> ich denke, wer Pech
               angreift, besudelt sich: der friedfertigste Weg ist immer, wenn Ihr einen Dieb fangt,
               laßt ihn zeigen, was er kann, und sich aus Eurer Gesellschaft wegstehlen.</p>
           </sp>
@@ -3001,7 +3002,7 @@
           </sp>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
-            <p>Noch ein Wort, ehrliche Nachbarn! Ich bitte euch, <pb n="598"/> wacht doch vor Signor
+            <p>Noch ein Wort, ehrliche Nachbarn! Ich bitte euch, <pb n="599"/> wacht doch vor Signor
               Leonatos Türe, denn weil's da morgen eine Hochzeit gibt, so wird heut abend viel
               Spektakel sein. Gott befohlen! Nun, gute Addition! das bitte ich euch.</p>
             <stage>Holzapfel und Schlehwein ab.</stage>
@@ -3085,7 +3086,7 @@
           <sp who="#erste_wache">
             <speaker>ERSTE WACHE.</speaker>
             <p>Ei! den Herrn Mißgestalt kenne ich: der hat nun an die sieben Jahr das
-              Schelmenhandwerk mitgemacht <pb n="599"/> und geht jetzt herum wie ein vornehmer Herr;
+              Schelmenhandwerk mitgemacht <pb n="600"/> und geht jetzt herum wie ein vornehmer Herr;
               ich besinne mich auf seinen Namen.</p>
           </sp>
           <sp who="#borachio">
@@ -3136,7 +3137,7 @@
               Entdeckung von dem, was er in der Nacht gesehn, beschimpfen und sie ohne Gemahl nach
               Hause schicken.</p>
           </sp>
-          <pb n="600"/>
+          <pb n="601"/>
           <sp who="#erste_wache">
             <speaker>ERSTE WACHE.</speaker>
             <p>Wir befehlen Euch in des Prinzen Namen, steht!</p>
@@ -3220,7 +3221,7 @@
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <p>Euren neuen Aufsatz finde ich allerliebst, wenn das Haar nur um einen Gedanken
-              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb n="601"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
+              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb n="602"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
               Wesens macht.</p>
           </sp>
           <sp who="#hero">
@@ -3284,7 +3285,7 @@
             <p>Nun, wenn Ihr nicht eine Renegatin geworden seid, so kann man nicht mehr nach den
               Sternensegeln.</p>
           </sp>
-          <pb n="602"/>
+          <pb n="603"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Was meint die Närrin damit?</p>
@@ -3354,7 +3355,7 @@
             <speaker>MARGARETA.</speaker>
             <p>Kein falscher Galopp.</p>
           </sp>
-          <pb n="603"/>
+          <pb n="604"/>
           <sp who="#ursula">
             <speaker>URSULA</speaker>
             <stage>kommt zurück.</stage>
@@ -3426,7 +3427,7 @@
             <speaker>LEONATO.</speaker>
             <p>Dein ganzes Talent zu ennuyieren auf mich?</p>
           </sp>
-          <pb n="604"/>
+          <pb n="605"/>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
             <p>Ja, und wenn's noch tausendmal mehr wäre, als es schon ist; denn ich höre eine so
@@ -3499,7 +3500,7 @@
             <p>Ich komme gleich, ich bin fertig. <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="605"/>
+          <pb n="606"/>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
             <p>Geht doch, lieber Kamerad, geht doch zum Görge Steinkohle, sagt doch, er soll seine
@@ -3520,7 +3521,7 @@
           </sp>
         </div>
       </div>
-      <pb n="606"/>
+      <pb n="607"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3591,7 +3592,7 @@
               <l>Dies Mädchen, Eure Tochter?</l>
             </lg>
           </sp>
-          <pb n="607"/>
+          <pb n="608"/>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <l>So frei, mein Sohn, als Gott sie mir gegeben.</l>
@@ -3671,7 +3672,7 @@
               <l>Die sich im wilden Sinnentaumel wälzen.</l>
             </lg>
           </sp>
-          <pb n="608"/>
+          <pb n="609"/>
           <sp who="#hero">
             <speaker>HERO.</speaker>
             <l>Ist meinem Herrn nicht wohl, daß er so spricht?</l>
@@ -3778,7 +3779,7 @@
             <lg>
               <l>Pfui! Pfui! Man kann</l>
               <l>Sie nicht benennen, Herr, noch drüber reden.</l>
-              <pb n="609"/>
+              <pb n="610"/>
               <l>Die Sprach' ist nicht so rein, um ohne Sünde</l>
               <l>Davon zu sprechen; drum, mein schönes Kind,</l>
               <l>Beklag' ich Euren schlecht beratnen Wandel.</l>
@@ -3861,7 +3862,7 @@
               <l>Daß deine Kraft die Schande überlebte,</l>
               <l>Ich würde selbst als Schlußwort meiner Flüche</l>
               <l>Dein Herz durchbohren. – Klagt' ich, du seist mein Einz'ges?</l>
-              <pb n="610"/>
+              <pb n="611"/>
               <l>Zürnt' ich deshalb der kargenden Natur?</l>
               <l>Oh, eins zu viel an dir! Weshalb das eine! –</l>
               <l>Weshalb warst du je lieblich meinem Auge,</l>
@@ -3926,7 +3927,7 @@
               <l>Und in dem Auge glüht' ein Feuer auf,</l>
               <l>Verbrennend allen Irrwahn, den die Prinzen</l>
               <l>Aufstellten wider ihre Mädchentreu'.</l>
-              <pb n="611"/>
+              <pb n="612"/>
               <l>– Nennt mich Tor,</l>
               <l>Traut meinem Wissen nicht, noch der Erfahrung,</l>
               <l>Die mit der Prüfung Siegel stets bekräftigt</l>
@@ -3993,7 +3994,7 @@
               <l>Es ihnen überg'nug zu zahlen.</l>
             </lg>
           </sp>
-          <pb n="612"/>
+          <pb n="613"/>
           <sp who="#moench">
             <speaker>MÖNCH.</speaker>
             <lg>
@@ -4043,7 +4044,7 @@
               <l>Wird dieses Glück noch glänzender bekleiden,</l>
               <l>Als ich das ungefähre Bild entwerfe.</l>
               <l>Doch wär' auch jeglich andres Ziel verfehlt:</l>
-              <pb n="613"/>
+              <pb n="614"/>
               <l>Die Überzeugung von des Fräuleins Tod</l>
               <l>Tilgt das Gerücht von ihrer Schmach gewiß;</l>
               <l>Und schlüg' Euch alles fehl, so bergt sie dann,</l>
@@ -4128,7 +4129,7 @@
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>So seltsam, als etwas, von dem ich nichts weiß. Es wäre ebenso möglich, zu sagen, ich
-              liebte nichts in der Welt <pb n="614"/> so sehr, als Euch: aber glaubt mir's nicht;
+              liebte nichts in der Welt <pb n="615"/> so sehr, als Euch: aber glaubt mir's nicht;
               und doch lüg' ich nicht: ich bekenne nichts und leugne nichts. Mich jammert meine
               Muhme.</p>
           </sp>
@@ -4225,7 +4226,7 @@
             <speaker>BEATRICE.</speaker>
             <p>Hat sich der nicht auf den äußersten Grad als ein Schurke gezeigt, der meine
               Verwandte verleumdet, geschmäht, entehrt hat? Oh! daß ich ein Mann wäre! – Was! Sie
-              hinzuhalten, bis sie ihm am Altar die Hand hinhält, und <pb n="615"/> dann mit so
+              hinzuhalten, bis sie ihm am Altar die Hand hinhält, und <pb n="616"/> dann mit so
               öffentlicher Beschuldigung, so unverhohlener Beschimpfung, so unbarmherziger Tücke, –
               o Gott! daß ich ein Mann wäre! ich wollte sein Herz auf offnem Markt verzehren.</p>
           </sp>
@@ -4285,7 +4286,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="616"/>
+        <pb n="617"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>[Gefängnis.]</stage>
@@ -4361,7 +4362,7 @@
             <speaker>BORACHIO.</speaker>
             <p>Herr, ich sage Euch, wir sind keine.</p>
           </sp>
-          <pb n="617"/>
+          <pb n="618"/>
           <sp who="#holzapfel">
             <speaker>HOLZAPFEL.</speaker>
             <p>Tretet wieder auf die Seite. Bei Gott, sprechen sie nicht, als hätten sie sich mit
@@ -4438,7 +4439,7 @@
             <speaker>SCHREIBER.</speaker>
             <p>Und das ist mehr, Leute, als ihr leugnen könnt. Prinz Juan hat sich diesen Morgen
               heimlich weggestohlen; Hero ward auf diese Weise angeklagt, auf eben diese Weise
-              verstoßen, und ist aus Gram darüber plötzlich gestorben. <pb n="618"/> Herr Konstabel,
+              verstoßen, und ist aus Gram darüber plötzlich gestorben. <pb n="619"/> Herr Konstabel,
               laßt die beiden Leute binden und in Leonatos Haus führen, ich will voran gehn und ihm
               das Verhör zeigen. <stage>Ab.</stage>
             </p>
@@ -4481,7 +4482,7 @@
           </sp>
         </div>
       </div>
-      <pb n="619"/>
+      <pb n="620"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4522,7 +4523,7 @@
               <l>Dann wird zur wilden Wut derselbe Trost,</l>
               <l>Der eben noch Arznei dem Gram verschrieb,</l>
               <l>An seidner Schnur den Wahnsinn wollte fesseln,</l>
-              <pb n="620"/>
+              <pb n="621"/>
               <l>Herzweh mit Luft, den Krampf mit Worten stillen.</l>
               <l>Nein! Nein! Stets war's der Brauch, Geduld zu rühmen</l>
               <l>Dem Armen, den die Last des Kummers beugt:</l>
@@ -4621,7 +4622,7 @@
               <l>Die Hand am Schwert hat nichts bedeutet, wahrlich!</l>
             </lg>
           </sp>
-          <pb n="621"/>
+          <pb n="622"/>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <lg>
@@ -4706,7 +4707,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Ei was, sei still! – Was da! ich kenne sie,</l>
-              <pb n="622"/>
+              <pb n="623"/>
               <l>Weiß, was sie gelten, bis auf einen Skrupel:</l>
               <l>Vorlaute, dreiste, modesücht'ge Knaben,</l>
               <l>Die lügen, witzeln, höhnen, schmähn und lästern,</l>
@@ -4793,7 +4794,7 @@
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
             <p>Und wir sind schon lange auf den Beinen, dich zu suchen. Denn wir sind gewaltig
-              melancholisch und sähen's <pb n="623"/> gern, wenn uns das jemand austriebe. Willst du
+              melancholisch und sähen's <pb n="624"/> gern, wenn uns das jemand austriebe. Willst du
               deinen Witz in Bewegung setzen?</p>
           </sp>
           <sp who="#benedikt">
@@ -4871,7 +4872,7 @@
             <speaker>BENEDIKT.</speaker>
             <p>Signor, Euer Witz geht einen guten leichten Paß, er fällt nicht schwer.</p>
           </sp>
-          <pb n="624"/>
+          <pb n="625"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Ich muß dir doch erzählen, wie Beatrice neulich deinen Witz herausstrich. Ich sagte,
@@ -4921,7 +4922,7 @@
               Frieden ziehn. <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="625"/>
+          <pb n="626"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Es ist sein Ernst?</p>
@@ -4991,7 +4992,7 @@
             <p>Richtig subdividiert, nach seiner eignen Einteilung. Das nenn' ich mir entwirrte
               Verwirrung.</p>
           </sp>
-          <pb n="626"/>
+          <pb n="627"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Was habt ihr begangen, Leute, daß man euch auf diese Weise gebunden hat? Dieser
@@ -5053,7 +5054,7 @@
             <p>Hier, hier kommt der Herr Signor Leonato, und der Schreiber dazu.</p>
             <stage>Leonato, Antonio und der Schreiber kommen.</stage>
           </sp>
-          <pb n="627"/>
+          <pb n="628"/>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <lg>
@@ -5131,7 +5132,7 @@
             <lg>
               <l>Edler Mann!</l>
               <l>So übergroße Güt' entlockt mir Tränen.</l>
-              <pb n="628"/>
+              <pb n="629"/>
               <l>Mit Rührung nehm' ich's an: verfügt nun künftig</l>
               <l>Nach Willkür mit dem armen Claudio.</l>
             </lg>
@@ -5196,7 +5197,7 @@
               seiner Gnade verhüten! Kommt, Nachbar!</p>
             <stage>Gehn ab.</stage>
           </sp>
-          <pb n="629"/>
+          <pb n="630"/>
           <sp who="#leonato">
             <speaker>LEONATO.</speaker>
             <p>Nun, bis auf morgen früh, ihr Herren, lebt wohl!</p>
@@ -5276,7 +5277,7 @@
               <l>Wie schwach ich bin. –</l>
             </lg>
             <p>Ich meine im Singen aber in der Liebe ... Leander, der treffliche Schwimmer; Troilus,
-              der den ersten Pandarus in Requisition <pb n="630"/> setzte, und ein ganzes Buch voll
+              der den ersten Pandarus in Requisition <pb n="631"/> setzte, und ein ganzes Buch voll
               von diesen Liebesrittern, deren Namen jetzt so glatt in der ebenen Bahn der
               fünffüßigen Jamben dahin gleiten, alle diese waren nie so ernstlich über und über in
               Liebe versenkt, als mein armes Ich. Aber wahrhaftig, ich kann's nicht in Reimen
@@ -5328,7 +5329,7 @@
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
-            <p>Die Liebe erdulden! Eine hübsche Phrase! Freilich <pb n="631"/> erdulde ich die
+            <p>Die Liebe erdulden! Eine hübsche Phrase! Freilich <pb n="632"/> erdulde ich die
               Liebe, denn wider meinen Willen muß ich dich lieben.</p>
           </sp>
           <sp who="#beatrice">
@@ -5390,7 +5391,7 @@
               mächtig betrogen, und Don Juan, der Anstifter von dem allen, hat sich auf und davon
               gemacht. Wollt Ihr jetzt gleich mit kommen?</p>
           </sp>
-          <pb n="632"/>
+          <pb n="633"/>
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>Wollt Ihr diese Neuigkeiten mit anhören, Signor? –</p>
@@ -5455,7 +5456,7 @@
               <l>Dies Fest soll jährlich sich erneun.</l>
             </lg>
           </sp>
-          <pb n="633"/>
+          <pb n="634"/>
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <lg>
@@ -5532,7 +5533,7 @@
             <speaker>ANTONIO.</speaker>
             <l>Das tu' ich dir mit fester, sichrer Miene.</l>
           </sp>
-          <pb n="634"/>
+          <pb n="635"/>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
             <l>Euch, Pater, denk' ich auch noch zu bemühn.</l>
@@ -5630,7 +5631,7 @@
             <lg>
               <l>Zeus brüllt' als Stier ein sehr verführend Muh,</l>
               <l>Und solch ein Gast kirrt' Eures Vaters Kuh,</l>
-              <pb n="635"/>
+              <pb n="636"/>
               <l>Und ließ ein Kalb zurück dem edlen Tier,</l>
               <l>Ganz so von Ansehn und Geblök wie Ihr.</l>
             </lg>
@@ -5741,7 +5742,7 @@
               <l>Gar sehr getäuscht; sie schwuren doch: Ihr liebtet.</l>
             </lg>
           </sp>
-          <pb n="636"/>
+          <pb n="637"/>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
             <l>Sie schwuren ja: Ihr seid fast krank um mich?</l>
@@ -5815,7 +5816,7 @@
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
             <p>Ich hatte schon gehofft, du würdest Beatricen einen Korb geben, damit ich dich aus
-              deinem einzelnen Stande <pb n="637"/> hätte herausklopfen können und dich zu einem
+              deinem einzelnen Stande <pb n="638"/> hätte herausklopfen können und dich zu einem
               Dualisten machen, und ein solcher wirst du auch ohne Zweifel werden, wenn meine Muhme
               dir nicht gewaltig auf die Finger sieht.</p>
           </sp>

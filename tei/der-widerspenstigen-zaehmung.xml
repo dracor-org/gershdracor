@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="63"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -101,28 +102,34 @@
         <castItem>Lucentio, Vincentios Sohn, Liebhaber der Bianca</castItem>
         <castItem>Petruchio, ein Edelmann aus Verona, Katharinens Freier</castItem>
         <castGroup>
-          <castItem>Gremio,</castItem>
-          <castItem>Hortensio,</castItem>
+          <castItem>Gremio</castItem>
+          <castItem>Hortensio</castItem>
           <roleDesc>Biancas Freier</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Tranio,</castItem>
-          <castItem>Biondello,</castItem>
+          <castItem>Tranio</castItem>
+          <castItem>Biondello</castItem>
           <roleDesc>Lucentios Diener</roleDesc>
         </castGroup>
-        <castItem>Grumio,</castItem>
-        <castItem>Curtis, Petruchios Diener</castItem>
+        <castGroup>
+          <castItem>Grumio</castItem>
+          <castItem>Curtis</castItem>
+          <roleDesc>Petruchios Diener</roleDesc>
+        </castGroup>
         <castItem>Ein Magister, der den Vincentio vorstellen soll</castItem>
-        <castItem>Katharina, die Widerspenstige,</castItem>
-        <castItem>Bianca, ihre Schwester,</castItem>
-        <castItem>Eine Witwe, Baptistas Töchter</castItem>
+        <castGroup>
+          <castItem>Katharina, die Widerspenstige</castItem>
+          <castItem>Bianca, ihre Schwester</castItem>
+          <roleDesc>Baptistas Töchter</roleDesc>
+        </castGroup>
+        <castItem>Eine Witwe</castItem>
         <castItem>Schneider, Putzbändler und Bediente des Baptista und des Petruchio</castItem>
       </castList>
       <set>
         <p>Die Handlung ist abwechselnd in Padua, und in dem Landhause des Petruchio</p>
       </set>
     </front>
-    <pb n="64"/>
+    <pb n="65"/>
     <body>
       <div type="prologue">
         <head>Einleitung</head>
@@ -188,7 +195,7 @@
           <speaker>LORD.</speaker>
           <lg>
             <l>Du bist ein Narr; wär' Echo nur so flink,</l>
-            <pb n="65"/>
+            <pb n="66"/>
             <l>Ich schätzt' ihn höher als ein Dutzend solcher.</l>
             <l>Nun füttre diese gut, und sieh nach allen;</l>
             <l>Ich reite morgen wieder auf die Jagd.</l>
@@ -255,7 +262,7 @@
             <l>Und frag' ihn, welch ein Anzug ihm beliebt?</l>
             <l>Noch einer sprech' ihm vor von Pferd und Hunden,</l>
             <l>Und wie sein Unfall sein Gemahl bekümmre.</l>
-            <pb n="66"/>
+            <pb n="67"/>
             <l>Macht ihm begreiflich, er sei längst verrückt,</l>
             <l>Und sagt er euch, er sei ... so sprecht, ihm träume,</l>
             <l>Er sei nichts anders, als ein mächt'ger Lord. –</l>
@@ -333,7 +340,7 @@
             <l>So mehr, da ich 'nen Spaß mir vorgesetzt,</l>
             <l>Wo ihr mit euerm Witz mir helfen könnt.</l>
             <l>Ein Lord hier wird euch heute spielen sehn:</l>
-            <pb n="67"/>
+            <pb n="68"/>
             <l>Allein ich furcht', ihr kommt mir aus der Fassung:</l>
             <l>Daß, fällt sein närrisch Wesen euch ins Auge</l>
             <l>(Denn noch sah Mylord niemals ein Theater),</l>
@@ -382,7 +389,7 @@
             <l>Wird eine Zwiebel ihm behülflich sein,</l>
             <l>Die heimlich eingewickelt in ein Tuch</l>
             <l>Die Augen sicher unter Wasser setzt. –</l>
-            <pb n="68"/>
+            <pb n="69"/>
             <l>Besorge dies, so schleunig du's vermagst:</l>
             <l>Ich will sogleich dir mehr noch anvertraun.</l>
           </lg>
@@ -439,7 +446,7 @@
           <speaker>SCHLAU.</speaker>
           <p>Was! wollt Ihr mich verrückt machen? Bin ich denn nicht Christoph Schlau, Sohn des
             alten Schlau von Burtonhaide? durch Geburt ein Hausierer, durch Erziehung ein
-            Hechelkrämer, durch Verwandlung ein Bärenführer und nun <pb n="69"/> nach meiner
+            Hechelkrämer, durch Verwandlung ein Bärenführer und nun <pb n="70"/> nach meiner
             jetzigen Hantierung ein Kesselflicker? Fragt nur Anne Hacket, die dicke Bierwirtin von
             Wincot, ob sie mich nicht kennt. Wenn sie sagt, daß sie mich nicht mit vierzehn
             Pfennigen für Weißbier auf ihrem Kerbholz angestrichen hat, so streicht mich an als den
@@ -499,7 +506,7 @@
           <speaker>LORD.</speaker>
           <lg>
             <l>Wir zeigen Jo dir, da sie noch Jungfrau,</l>
-            <pb n="70"/>
+            <pb n="71"/>
             <l>Wie sie betrogen ward und überrascht,</l>
             <l>Ganz nach dem Leben täuschend dargestellt.</l>
           </lg>
@@ -577,7 +584,7 @@
           <speaker>SCHLAU.</speaker>
           <l>Ja, ja, der Wirtin Tochter in der Schenke.</l>
         </sp>
-        <pb n="71"/>
+        <pb n="72"/>
         <sp>
           <speaker>DRITTER DIENER.</speaker>
           <lg>
@@ -681,7 +688,7 @@
             <l>So steht die Sache, drum entschuldigt mich!</l>
           </lg>
         </sp>
-        <pb n="72"/>
+        <pb n="73"/>
         <sp>
           <speaker>SCHLAU.</speaker>
           <p>I nun ja, wenn's so steht, ist's aber doch schwer, so lange zu warten. Aber es sollte
@@ -725,7 +732,7 @@
             ihren Lauf; wir werden niemals wieder jünger.</p>
         </sp>
       </div>
-      <pb n="73"/>
+      <pb n="74"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -766,7 +773,7 @@
             <lg>
               <l>Mi perdonate, lieber junger Herr:</l>
               <l>Ich denk' in allem grade so wie Ihr,</l>
-              <pb n="74"/>
+              <pb n="75"/>
               <l>Froh, daß Ihr fest bei Eurem Vorsatz bleibt,</l>
               <l>Der süßen Weisheit Süßigkeit zu saugen.</l>
               <l>Nur, guter Herr, indem wir so bewundern</l>
@@ -833,7 +840,7 @@
               <l>Du mußt erst neue, sanftre Form verkünden.</l>
             </lg>
           </sp>
-          <pb n="75"/>
+          <pb n="76"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
@@ -929,7 +936,7 @@
               <l>Zur Bildung ihrer Jugend. Ihr, Hortensio,</l>
               <l>Und Signor Gremio, wißt ihr irgendeinen,</l>
               <l>So schickt ihn zu mir, denn gelehrten Männern</l>
-              <pb n="76"/>
+              <pb n="77"/>
               <l>Erzeig' ich Freundlichkeit und spare nichts,</l>
               <l>Recht sorgsam meine Kinder zu erziehn.</l>
               <l>Und so lebt wohl! Du, Katharina, bleibe:</l>
@@ -994,7 +1001,7 @@
           </sp>
           <sp who="#gremio">
             <speaker>GREMIO.</speaker>
-            <p>Das mag sein: aber ich nähme ebenso gern ihre Aussteuer <pb n="77"/> mit der
+            <p>Das mag sein: aber ich nähme ebenso gern ihre Aussteuer <pb n="78"/> mit der
               Bedingung, alle Morgen am Pranger gestäupt zu werden.</p>
           </sp>
           <sp who="#hortensio">
@@ -1059,7 +1066,7 @@
               <l>Und habt wohl kaum das Wichtigste bemerkt? –</l>
             </lg>
           </sp>
-          <pb n="78"/>
+          <pb n="79"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <lg>
@@ -1153,7 +1160,7 @@
               <l>Man hat in keinem Haus uns noch gesehn,</l>
               <l>Und niemand unterscheidet am Gesicht,</l>
               <l>Wer Herr, wer Diener ist; und daraus folgt:</l>
-              <pb n="79"/>
+              <pb n="80"/>
               <l>Du sollst an meiner Statt als Herr gebieten,</l>
               <l>Statt meiner Haus und Staat und Leute halten;</l>
               <l>Ich will ein andrer sein, ein Reisender</l>
@@ -1215,7 +1222,7 @@
             <speaker>BIONDELLO.</speaker>
             <l>Ich, Herr? Auch nicht ein Jota.</l>
           </sp>
-          <pb n="80"/>
+          <pb n="81"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <lg>
@@ -1296,7 +1303,7 @@
             <speaker>GRUMIO.</speaker>
             <p>Euch hier klopfen, Herr? Ach, wer bin ich, daß ich Euch hier klopfen sollte? –</p>
           </sp>
-          <pb n="81"/>
+          <pb n="82"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <lg>
@@ -1374,7 +1381,7 @@
             <lg>
               <l>Du lieber Himmel! Klopfen an das Tor!</l>
               <l>Spracht Ihr nicht deutlich so: »Kerl, klopf' mich hier,</l>
-              <pb n="82"/>
+              <pb n="83"/>
               <l>Hol' aus und klopf' mich derb! und klopf' mich tüchtig!« –</l>
               <l>Und kommt Ihr jetzt mit »klopf' mir hier ans Tor?«</l>
             </lg>
@@ -1439,7 +1446,7 @@
             <speaker>GRUMIO.</speaker>
             <p>Nun seht, lieber Herr, er sagt's Euch wenigstens klar heraus, wie er denkt. Ei, gebt
               ihm nur Gold genug, und verheiratet ihn mit einer Marionette, oder einem Haubenblock,
-                <pb n="83"/> oder einer alten Schachtel, die keinen Zahn mehr im Munde hat, hätte
+                <pb n="84"/> oder einer alten Schachtel, die keinen Zahn mehr im Munde hat, hätte
               sie auch so viel Krankheiten als zweiundfunfzig Pferde; nichts bringt ihm Angst,
               wenn's ihm nur Geld bringt.</p>
           </sp>
@@ -1501,7 +1508,7 @@
             <speaker>HORTENSIO.</speaker>
             <lg>
               <l>Wart' nur, Petruchio, ich will mit dir gehn.</l>
-              <pb n="84"/>
+              <pb n="85"/>
               <l>Baptista ist der Wächter meines Schatzes,</l>
               <l>Der meiner Seele Kleinod aufbewahrt,</l>
               <l>Die schöne Bianca, seine jüngste Tochter:</l>
@@ -1567,7 +1574,7 @@
               <l>Versteht Ihr mich? Dann will ich, außer dem,</l>
               <l>Was Euch Signor Baptistas Großmut schenkt,</l>
               <l>Euch wohl bedenken. Die Papiere nehmt,</l>
-              <pb n="85"/>
+              <pb n="86"/>
               <l>Laßt sie mit süßem Wohlgeruch durchräuchern,</l>
               <l>Denn sie ist süßer noch als Wohlgeruch,</l>
               <l>Der sie bestimmt. Was wollt Ihr mit ihr lesen? –</l>
@@ -1656,7 +1663,7 @@
               <l>Ist's weiter nichts? Ihr Herrn, was ist da schlimm?</l>
             </lg>
           </sp>
-          <pb n="86"/>
+          <pb n="87"/>
           <sp who="#gremio">
             <speaker>GREMIO.</speaker>
             <l>Nicht schlimm, mein Freund? Was für ein Landsmann seid Ihr?</l>
@@ -1743,7 +1750,7 @@
               <l>Zum Hause des Signor Baptista Minola.</l>
             </lg>
           </sp>
-          <pb n="87"/>
+          <pb n="88"/>
           <sp who="#gremio">
             <speaker>GREMIO.</speaker>
             <lg>
@@ -1863,7 +1870,7 @@
             <speaker>PETRUCHIO.</speaker>
             <l>Herr, Herr, die Ältst' ist mein, die laßt mir gehn!</l>
           </sp>
-          <pb n="88"/>
+          <pb n="89"/>
           <sp who="#gremio">
             <speaker>GREMIO.</speaker>
             <lg>
@@ -1926,7 +1933,7 @@
           </sp>
         </div>
       </div>
-      <pb n="89"/>
+      <pb n="90"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1997,7 +2004,7 @@
             <lg>
               <l>He, halt, du Drache! Was soll diese Bosheit?</l>
               <l>Bianca hieher! Das arme Kind, es weint! –</l>
-              <pb n="90"/>
+              <pb n="91"/>
               <l>Bleib' doch beim Nähn, gib dich mit ihr nicht ab!</l>
               <l>Pfui! schäme dich, du böse Teufelslarve!</l>
               <l>Was kränkst du sie, die dich noch nie gekränkt?</l>
@@ -2070,7 +2077,7 @@
               <l>Gelockt, als Gast sich einzudrängen wagt</l>
               <l>In Euer Haus, damit mein Aug' erfahre</l>
               <l>Die Wahrheit des, was ich so oft gehört.</l>
-              <pb n="91"/>
+              <pb n="92"/>
               <l>Und als das Angeld der Bewillkommnung</l>
               <l>Bring' ich Euch diesen meinen Diener hier,</l>
             </lg>
@@ -2145,7 +2152,7 @@
               Aber, werter Herr, Ihr geht wie ein Fremder; darf ich so kühn sein, nach der Ursach'
               Eures Hierseins zu fragen? –</p>
           </sp>
-          <pb n="92"/>
+          <pb n="93"/>
           <sp who="#tranio">
             <speaker>TRANIO.</speaker>
             <lg>
@@ -2212,7 +2219,7 @@
               <l>Welch eine Mitgift bringt sie mir ins Haus? –</l>
             </lg>
           </sp>
-          <pb n="93"/>
+          <pb n="94"/>
           <sp who="#baptista">
             <speaker>BAPTISTA.</speaker>
             <lg>
@@ -2297,7 +2304,7 @@
               <l>Daß durch die Laut' er einen Weg sich bahnte.</l>
               <l>So stand ich da, erschrocken und betäubt,</l>
               <l>Wie durchs Halseisen schaut' ich durch die Laute,</l>
-              <pb n="94"/>
+              <pb n="95"/>
               <l>Während sie tobt', und schalt mich lump'ger Fiedler,</l>
               <l>Und Klimperhans, und zwanzig schlimme Namen,</l>
               <l>Als hätte sie's studiert, mich recht zu schimpfen.</l>
@@ -2358,7 +2365,7 @@
               <l>Doch, Käthchen, schmuckstes Käthchen in Europa,</l>
               <l>Käthchen von Käthchenheim, du, Käthchen, goldnes</l>
               <l>(Dukätchen sind Dukaten, drum Gold-Käthchen),</l>
-              <pb n="95"/>
+              <pb n="96"/>
               <l>Erfahre denn, du Käthchen Herzenstrost:</l>
               <l>Weil alle Welt mir deine Sanftmut preist,</l>
               <l>Von deiner Tugend spricht, dich reizend nennt,</l>
@@ -2478,7 +2485,7 @@
               <l>Ich bin ein Edelmann ...</l>
             </lg>
           </sp>
-          <pb n="96"/>
+          <pb n="97"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <l>Das woll'n wir sehn.</l>
@@ -2581,7 +2588,7 @@
               <l>Du magst niemand im Reden überhaun,</l>
               <l>Mit Sanftmut unterhältst du deine Freier,</l>
               <l>Mit freundlichem Gespräch und süßen Phrasen. –</l>
-              <pb n="97"/>
+              <pb n="98"/>
               <l>Was fabelt denn die Welt, daß Käthchen hinkt?</l>
               <l>O böse Welt! Sieh, gleich der Haselgerte</l>
               <l>Ist Käthchen schlank und grad' und braun von Farbe</l>
@@ -2664,7 +2671,7 @@
             <speaker>BAPTISTA.</speaker>
             <l>Nun, Tochter Katharina? So verstört?</l>
           </sp>
-          <pb n="98"/>
+          <pb n="99"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
@@ -2733,7 +2740,7 @@
             <speaker>GREMIO UND TRANIO.</speaker>
             <l>Amen von ganzem Herzen! Wir sind Zeugen. –</l>
           </sp>
-          <pb n="99"/>
+          <pb n="100"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <lg>
@@ -2824,7 +2831,7 @@
               <l>Battiste, türk'sche perlgestickte Polster,</l>
               <l>Umhänge von Venedig, golddurchnäht,</l>
               <l>Kupfer und Zinngeschirr, und was gehört</l>
-              <pb n="100"/>
+              <pb n="101"/>
               <l>Zum Haus und Hausrat: dann im Prachthof hab' ich</l>
               <l>Einhundert Stück Milchkühe, für den Eimer,</l>
               <l>In Ställen hundertzwanzig fette Ochsen,</l>
@@ -2904,7 +2911,7 @@
             <lg>
               <l>Wohlan, ihr Herrn,</l>
               <l>Dies ist mein Wort: Auf nächsten Sonntag, wißt ihr,</l>
-              <pb n="101"/>
+              <pb n="102"/>
               <l>Ist meiner Tochter Katharine Trauung:</l>
               <l>Nun, einen Sonntag später will ich Bianca</l>
               <l>Mit Euch verloben, schafft Ihr den Revers;</l>
@@ -2940,7 +2947,7 @@
           </sp>
         </div>
       </div>
-      <pb n="102"/>
+      <pb n="103"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2998,7 +3005,7 @@
             <l>So schließt ihr, wenn ich recht in Stimmung bin?</l>
             <stage>Zieht sich zurück.</stage>
           </sp>
-          <pb n="103"/>
+          <pb n="104"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <l>Das wird wohl nie der Fall sein. Stimmt nur immer!</l>
@@ -3091,7 +3098,7 @@
               <l>Dreistimmige Musik kommt heut nicht vor.</l>
             </lg>
           </sp>
-          <pb n="104"/>
+          <pb n="105"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <lg>
@@ -3172,7 +3179,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="105"/>
+        <pb n="106"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Anderes Zimmer.</stage>
@@ -3231,7 +3238,7 @@
             </lg>
             <stage>Biondello kommt.</stage>
           </sp>
-          <pb n="106"/>
+          <pb n="107"/>
           <sp who="#biondello">
             <speaker>BIONDELLO.</speaker>
             <p>Herr, Herr, Neuigkeiten! Alte Neuigkeiten! Solche Neuigkeiten, wie Ihr sie nie gehört
@@ -3297,7 +3304,7 @@
           </sp>
           <sp who="#biondello">
             <speaker>BIONDELLO.</speaker>
-            <p>O Herr, sein Lakai, der leibhaftig wie das Pferd <pb n="107"/> ausstaffiert ist: mit
+            <p>O Herr, sein Lakai, der leibhaftig wie das Pferd <pb n="108"/> ausstaffiert ist: mit
               einem leinenen Strumpf an einem Bein, und einem groben wollenen Jagdstrumpf am andern,
               und ein Paar rote und blaue Tucheggen als Kniegürtel; ein alter Hut, an dem die
               vierzig verliebten neuen Lieder als Feder stecken; ein Ungeheuer, ein rechtes
@@ -3387,7 +3394,7 @@
             <lg>
               <l>Ei nun, Ihr wißt, heut ist Eu'r Hochzeittag: –</l>
               <l>Erst sorgten wir, Ihr möchtet gar nicht kommen,</l>
-              <pb n="108"/>
+              <pb n="109"/>
               <l>Nun mehr noch, daß Ihr kommt so ungeschmückt.</l>
               <l>Pfui! Weg das Kleid, Schand' einem Mann wie Ihr,</l>
               <l>Und unserm Ehrentag ein Dorn im Auge!</l>
@@ -3464,7 +3471,7 @@
               <l>Schaff' ich uns einen Mann; wer es auch sei,</l>
               <l>Macht wenig aus: den richten wir uns ab,</l>
               <l>Der soll Vincentio aus Pisa sein,</l>
-              <pb n="109"/>
+              <pb n="110"/>
               <l>Und hier in Padua die Verschreibung geben</l>
               <l>Auf größre Summen noch, als ich versprach.</l>
               <l>So sollt Ihr Eures Glücks Euch ruhig freun,</l>
@@ -3544,7 +3551,7 @@
             <lg>
               <l>Die war ganz Furcht: denn seht, er stampft' und fluchte,</l>
               <l>Als hätt' der Priester ihn betören wollen.</l>
-              <pb n="110"/>
+              <pb n="111"/>
               <l>Als nun die Zeremonien all' geendet,</l>
               <l>Ruft er nach Wein:</l>
               <l>Und: »Prosit!« schreit er, wie auf dem Verdeck,</l>
@@ -3615,7 +3622,7 @@
             <speaker>PETRUCHIO.</speaker>
             <l>Das ist mir recht!</l>
           </sp>
-          <pb n="111"/>
+          <pb n="112"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <l>So ist's Euch recht, zu bleiben? –</l>
@@ -3694,7 +3701,7 @@
               <l>Der mir den Weg in Padua sperrt! Zieh', Grumio,</l>
               <l>Zieh' deinen Sarras: rund um uns sind Räuber,</l>
               <l>Hau' deine Frau heraus, bist du ein Mann!</l>
-              <pb n="112"/>
+              <pb n="113"/>
               <l>Ruhig, lieb Herz, sie tun dir nichts, mein Käthchen,</l>
               <l>Ich helf' dir durch, und wären's Millionen.</l>
             </lg>
@@ -3745,7 +3752,7 @@
           </sp>
         </div>
       </div>
-      <pb n="113"/>
+      <pb n="114"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3789,7 +3796,7 @@
           <sp who="#grumio">
             <speaker>GRUMIO.</speaker>
             <p>Das war sie, guter Curtis, vor diesem Frost; aber du weißt, der Winter zähmt Mann,
-              Frau und Vieh; denn er hat <pb n="114"/> meinen alten Herrn und meine neue Frau
+              Frau und Vieh; denn er hat <pb n="115"/> meinen alten Herrn und meine neue Frau
               gezähmt, und mich selbst, Kam'rad Curtis.</p>
           </sp>
           <sp who="#curtis">
@@ -3872,7 +3879,7 @@
             <speaker>CURTIS.</speaker>
             <p>Das heißt eine Geschichte fühlen, nicht eine Geschichte hören.</p>
           </sp>
-          <pb n="115"/>
+          <pb n="116"/>
           <sp who="#grumio">
             <speaker>GRUMIO.</speaker>
             <p>Und darum nennt man's eine gefühlvolle Geschichte: und dieser Schlag sollte nur an
@@ -3937,7 +3944,7 @@
             <speaker>CURTIS.</speaker>
             <p>Das ist gewiß.</p>
           </sp>
-          <pb n="116"/>
+          <pb n="117"/>
           <sp who="#grumio">
             <speaker>GRUMIO.</speaker>
             <p>Nun, was rufst du denn die Leute, ihr ein Ansehn zu geben? –</p>
@@ -4031,7 +4038,7 @@
               <l>Doch wie sie sind, hab' ich sie hergeholt.</l>
             </lg>
           </sp>
-          <pb n="117"/>
+          <pb n="118"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <l>Geht, Schlingel! Geht, besorgt das Abendessen!</l>
@@ -4098,7 +4105,7 @@
             <lg>
               <l>Es ist verbrannt, und so ist alles Essen:</l>
               <l>Welch Hundevolk! Wo ist der Koch, die Bestie?</l>
-              <pb n="118"/>
+              <pb n="119"/>
               <l>Wie wagt ihr, Schurken, das mir anzurichten,</l>
               <l>Mir vorzusetzen, was ich doch nicht mag? –</l>
               <l>Da! Fort damit! Fort Teller, Becher! Alles! –</l>
@@ -4164,7 +4171,7 @@
               <l>Und hoffe, ferner glücklich zu regieren.</l>
               <l>Mein Falk ist nun geschärft und tüchtig hungrig,</l>
               <l>Und bis er zahm ist, kriegt er auch kein Futter:</l>
-              <pb n="119"/>
+              <pb n="120"/>
               <l>Sonst wird er nie auf meinen Wink gehorchen. –</l>
               <l>Noch kirr' ich anders meinen wilden Sperber,</l>
               <l>So daß er kommt und kennt des Wächters Ruf:</l>
@@ -4226,7 +4233,7 @@
             <speaker>BIANCA.</speaker>
             <l>Mögt Ihr bald Meister sein in dieser Kunst!</l>
           </sp>
-          <pb n="120"/>
+          <pb n="121"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <l>Nehmt Ihr als Lehrling mich in Eure Gunst. –</l>
@@ -4302,7 +4309,7 @@
             <stage>Hortensio ab.</stage>
             <stage>Bianca und Lucentio kommen wieder.</stage>
           </sp>
-          <pb n="121"/>
+          <pb n="122"/>
           <sp who="#tranio">
             <speaker>TRANIO.</speaker>
             <lg>
@@ -4408,7 +4415,7 @@
               <l>Ist hier Eu'r Ziel, Herr, oder reist Ihr weiter?</l>
             </lg>
           </sp>
-          <pb n="122"/>
+          <pb n="123"/>
           <sp who="#magister">
             <speaker>MAGISTER.</speaker>
             <lg>
@@ -4504,7 +4511,7 @@
               <l>Mein Haus steht Euch zu Diensten, wohnt bei mir!</l>
               <l>Betragt Euch so, daß niemand Argwohn faßt,</l>
               <l>Nun, Ihr versteht mich; ja, so sollt Ihr bleiben,</l>
-              <pb n="123"/>
+              <pb n="124"/>
               <l>Bis Eu'r Geschäft in dieser Stadt beendigt. –</l>
               <l>Ist dies ein Dienst, so nehmt ihn willig an!</l>
             </lg>
@@ -4573,7 +4580,7 @@
               <l>Allein ein fett Gekröse, gut geschmort?</l>
             </lg>
           </sp>
-          <pb n="124"/>
+          <pb n="125"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <l>Das mag ich gern, o Liebster, hol' es mir!</l>
@@ -4682,7 +4689,7 @@
             <stage>Laut.</stage>
             <lg>
               <l>Nun, wohl bekomm' es dir, mein liebes Herz:</l>
-              <pb n="125"/>
+              <pb n="126"/>
               <l>Iß schnell, mein Käthchen! – Nun, mein süßes Liebchen,</l>
               <l>Laß uns zurück zu deinem Vater reisen;</l>
               <l>Dort laß uns wacker schwärmen und stolzieren,</l>
@@ -4755,7 +4762,7 @@
               <l>Ich hab' dich lieb drum, daß sie dir mißfällt.</l>
             </lg>
           </sp>
-          <pb n="126"/>
+          <pb n="127"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
@@ -4839,7 +4846,7 @@
             <speaker>GRUMIO.</speaker>
             <l>Ich gab nicht Ordre; Zeug hab' ich gegeben.</l>
           </sp>
-          <pb n="127"/>
+          <pb n="128"/>
           <sp who="#schneider">
             <speaker>SCHNEIDER.</speaker>
             <l>Und wie verlangtet Ihr's von ihm gemacht? –</l>
@@ -4945,7 +4952,7 @@
             <speaker>GRUMIO.</speaker>
             <p>Da habt Ihr recht, 's ist für die gnäd'ge Frau.</p>
           </sp>
-          <pb n="128"/>
+          <pb n="129"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <p>Geh, nimm es auf zu deines Herrn Gebrauch!</p>
@@ -5016,7 +5023,7 @@
             <speaker>PETRUCHIO.</speaker>
             <lg>
               <l>Es soll nun sieben Uhr sein, eh' wir reiten.</l>
-              <pb n="129"/>
+              <pb n="130"/>
               <l>Sieh, was ich sag' und tu' und möchte tun,</l>
               <l>Stets mußt du widersprechen! Leute, laßt uns,</l>
               <l>Ich will nun heut nicht fort: und eh' ich reite,</l>
@@ -5099,7 +5106,7 @@
               <l>Gebt mir mein Erbteil nun um Biancas willen!</l>
             </lg>
           </sp>
-          <pb n="130"/>
+          <pb n="131"/>
           <sp who="#magister">
             <speaker>MAGISTER.</speaker>
             <lg>
@@ -5160,7 +5167,7 @@
               <l>Verhandeln wir die Sache still und heimlich.</l>
               <l>Schickt diesen Diener hin zu Eurer Tochter;</l>
               <l>Mein Bursch soll gleich uns den Notar besorgen.</l>
-              <pb n="131"/>
+              <pb n="132"/>
               <l>Das Schlimmste bleibt, – daß, hastig so bestellt,</l>
               <l>Ihr hast'ge, magre Vorbereitung findet.</l>
             </lg>
@@ -5249,7 +5256,7 @@
               Versicherung beschäftigen. Denkt Ihr nun darauf, Euch ihrer zu versichern, cum
               privilegio ad imprimend um solum: macht, daß Ihr zur Kirche kommt: nehmt Pfarrer,
               Küster und ein paar gültige Zeugen mit: –</p>
-            <pb n="132"/>
+            <pb n="133"/>
             <lg>
               <l>Und hilft Euch nicht zum Ziele, was ich Euch jetzt erdacht,</l>
               <l>Sagt Eurer schönen Bianca nur auf ewig gute Nacht!</l>
@@ -5325,7 +5332,7 @@
               <l>Ich schwör', es soll für mich dasselbe sein.</l>
             </lg>
           </sp>
-          <pb n="133"/>
+          <pb n="134"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <l>Ich sag', es ist der Mond.</l>
@@ -5408,7 +5415,7 @@
             <speaker>PETRUCHIO.</speaker>
             <lg>
               <l>Tu's, guter alter Mann, und laß uns wissen,</l>
-              <pb n="134"/>
+              <pb n="135"/>
               <l>Wohin du reisest. – Ist es unser Weg,</l>
               <l>Soll die Gesellschaft uns erfreulich sein.</l>
             </lg>
@@ -5479,7 +5486,7 @@
           </sp>
         </div>
       </div>
-      <pb n="135"/>
+      <pb n="136"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5546,7 +5553,7 @@
             <p>Wenn ihm nun aber jemand ein- oder zweihundert Pfund brächte, um sich einen guten Tag
               zu machen? –</p>
           </sp>
-          <pb n="136"/>
+          <pb n="137"/>
           <sp who="#magister">
             <speaker>MAGISTER.</speaker>
             <p>Behaltet Eure hundert Pfund für Euch, er hat sie nicht nötig, solange ich lebe.</p>
@@ -5624,7 +5631,7 @@
                 davon.</stage>
             </p>
           </sp>
-          <pb n="137"/>
+          <pb n="138"/>
           <sp who="#magister">
             <speaker>MAGISTER.</speaker>
             <p>Zu Hülfe, mein Sohn! Zu Hülfe, Signor Baptista! –</p>
@@ -5692,7 +5699,7 @@
             <speaker>TRANIO.</speaker>
             <p>Ruft einen Gerichtsdiener her:</p>
             <stage>Einer von den Bedienten geht und holt einen Gerichtsdiener.</stage>
-            <pb n="138"/>
+            <pb n="139"/>
             <p>Bringt diesen verrückten Menschen ins Gefängnis! Vater Baptista, ich mache es Euch
               zur Pflicht, ihn fortzuschaffen.</p>
           </sp>
@@ -5786,7 +5793,7 @@
               <l>Der prahlt' und Trotz mir bot ins Angesicht? –</l>
             </lg>
           </sp>
-          <pb n="139"/>
+          <pb n="140"/>
           <sp who="#baptista">
             <speaker>BAPTISTA.</speaker>
             <l>Ei, sagt mir, ist nicht dies mein Cambio?</l>
@@ -5881,7 +5888,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="140"/>
+        <pb n="141"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Zimmer.</stage>
@@ -5970,7 +5977,7 @@
             <speaker>PETRUCHIO.</speaker>
             <l>Gut eingelenkt! Küßt ihn dafür, Frau Witwe!</l>
           </sp>
-          <pb n="141"/>
+          <pb n="142"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
@@ -6092,7 +6099,7 @@
             <speaker>LUCENTIO.</speaker>
             <l>Ich danke dir den Hieb, mein guter Tranio!</l>
           </sp>
-          <pb n="142"/>
+          <pb n="143"/>
           <sp who="#hortensio">
             <speaker>HORTENSIO.</speaker>
             <l>Bekennt, bekennt: hat er Euch nicht getroffen?</l>
@@ -6209,7 +6216,7 @@
             </lg>
             <stage>Biondello ab.</stage>
           </sp>
-          <pb n="143"/>
+          <pb n="144"/>
           <sp who="#petruchio">
             <speaker>PETRUCHIO.</speaker>
             <lg>
@@ -6307,7 +6314,7 @@
               <l>Nun, dir sei alles Heil, guter Petruchio:</l>
               <l>Die Wett' ist dein; ich aber füge noch</l>
               <l>Zu dem Gewinste zwanzigtausend Kronen,</l>
-              <pb n="144"/>
+              <pb n="145"/>
               <l>Der andern Tochter eine andre Mitgift;</l>
               <l>Denn anders ist sie, als sie je gewesen.</l>
             </lg>
@@ -6390,7 +6397,7 @@
               <l>Sie würd'gen, einen Tropfen draus zu schlürfen.</l>
               <l>Dein Eh'mann ist dein Herr, ist dein Erhalter,</l>
               <l>Dein Licht, dein Haupt, dein Fürst; er sorgt für dich</l>
-              <pb n="145"/>
+              <pb n="146"/>
               <l>Und deinen Unterhalt, gibt seinen Leib</l>
               <l>Mühsel'ger Arbeit preis zu Land und Meer,</l>
               <l>Wacht Nächte durch in Sturm, und Tag' in Kälte,</l>
@@ -6437,7 +6444,7 @@
             <speaker>VINCENTIO.</speaker>
             <l>Das klingt recht fein, wenn Kinder fromm und fügsam!</l>
           </sp>
-          <pb n="146"/>
+          <pb n="147"/>
           <sp who="#lucentio">
             <speaker>LUCENTIO.</speaker>
             <l>Doch schlimm, wenn Frau'n verstockt und ungenügsam.</l>

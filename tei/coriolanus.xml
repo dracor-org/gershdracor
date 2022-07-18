@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="797"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -93,15 +94,15 @@
         <head>Personen</head>
         <castItem>Cajus Marcius Coriolanus, ein edler Römer</castItem>
         <castGroup>
-          <castItem>Titus Lartius,</castItem>
-          <castItem>Cominius,</castItem>
+          <castItem>Titus Lartius</castItem>
+          <castItem>Cominius</castItem>
           <roleDesc>Anführer gegen die Volsker</roleDesc>
         </castGroup>
         <castItem>Menenius Agrippa, Coriolans Freund</castItem>
         <castGroup>
-          <castItem>Sicinius Velutus,</castItem>
-          <castItem>Junius Brutus,</castItem>
-          <roleDesc>Volkstribunen.</roleDesc>
+          <castItem>Sicinius Velutus</castItem>
+          <castItem>Junius Brutus</castItem>
+          <roleDesc>Volkstribunen</roleDesc>
         </castGroup>
         <castItem>Marcius, Coriolans Kleiner Sohn</castItem>
         <castItem>Ein römischer Herold</castItem>
@@ -118,7 +119,7 @@
           Boten</castItem>
       </castList>
     </front>
-    <pb n="798"/>
+    <pb n="799"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -174,7 +175,7 @@
               werden. Denn das wissen die Götter! ich rede so aus Hunger nach Brot, und nicht aus
               Durst nach Rache.</p>
           </sp>
-          <pb n="799"/>
+          <pb n="800"/>
           <sp who="#zweiter_buerger">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Wollt ihr besonders auf den Cajus Marcius los gehen?</p>
@@ -240,7 +241,7 @@
           <sp who="#erster_buerger">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Unsre Sache ist dem Senat nicht unbekannt; sie haben davon munkeln hören seit
-              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="800"/> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
+              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="801"/> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
               auch schlimme Arme haben.</p>
           </sp>
           <sp who="#menenius">
@@ -302,7 +303,7 @@
             <speaker>MENENIUS.</speaker>
             <lg>
               <l>Einstmals geschah's, daß alle Leibesglieder,</l>
-              <pb n="801"/>
+              <pb n="802"/>
               <l>Dem Bauch rebellisch, also ihn verklagten:</l>
               <l>Daß er allein nur wie ein Schlund verharre</l>
               <l>In Leibes Mitte, arbeitslos und müßig,</l>
@@ -384,7 +385,7 @@
             <lg>
               <l>Jetzt paßt wohl auf, mein Freund!</l>
               <l>Eu'r höchst verständ'ger Bauch, er war bedächtig,</l>
-              <pb n="802"/>
+              <pb n="803"/>
               <l>Nicht rasch, gleich den Beschuld'gern, und sprach so:</l>
               <l>»Wahr ist's, ihr einverleibten Freunde«, sagt' er,</l>
               <l>»Zuerst nehm' ich die ganze Nahrung auf,</l>
@@ -449,7 +450,7 @@
             <stage>Cajus Marcius tritt auf.</stage>
             <l>Heil, edler Marcius!</l>
           </sp>
-          <pb n="803"/>
+          <pb n="804"/>
           <sp who="#marcius">
             <speaker>MARCIUS.</speaker>
             <lg>
@@ -507,7 +508,7 @@
               <l>Und schließen Ehen; stärken die Partei</l>
               <l>Und beugen die, die nicht nach ihrem Sinn,</l>
               <l>Noch unter ihre Nägelschuh'. Sie sagen,</l>
-              <pb n="804"/>
+              <pb n="805"/>
               <l>Korn sei genug vorhanden?</l>
               <l>Wenn sich der Adel doch der Mild' entschlüge,</l>
               <l>Daß ich mein Schwert ziehn dürft'. Ich häufte Berge</l>
@@ -583,7 +584,7 @@
             <speaker>MARCIUS.</speaker>
             <lg>
               <l>Mich freut's! So werden wir am besten los</l>
-              <pb n="805"/>
+              <pb n="806"/>
               <l>Den Überfluß, der schimmlicht wird. – Seht da,</l>
               <l>Die würd'gen Väter!</l>
             </lg>
@@ -681,7 +682,7 @@
             <lg>
               <l>Nein, laßt sie folgen!</l>
               <l>Die Volsker haben Korn; dahin, ihr Ratten,</l>
-              <pb n="806"/>
+              <pb n="807"/>
               <l>Die Scheuren freßt! – Hochadlige Rebellen,</l>
               <l>Eu'r Mut schlägt herrlich aus. Ich bitte, folgt!</l>
             </lg>
@@ -769,7 +770,7 @@
             <lg>
               <l>Kommt, laßt uns hin und hören</l>
               <l>Die Ausfert'gung, und in was Art und Weise</l>
-              <pb n="807"/>
+              <pb n="808"/>
               <l>Er, außer seiner Einzigkeit, nun geht</l>
               <l>In diesen jetz'gen Kampf.</l>
             </lg>
@@ -838,7 +839,7 @@
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Edler Aufidius,</l>
-              <pb n="808"/>
+              <pb n="809"/>
               <l>Nehmt Eure Vollmacht, eilt zu Euren Scharen,</l>
               <l>Laßt uns zurück, Corioli zu schützen;</l>
               <l>Belagern sie uns hier, kommt zum Entsatz</l>
@@ -895,7 +896,7 @@
               als ein Gemälde, das an der Wand hängt, wenn Ruhmbegier es nicht belebte –, war ich
               erfreut, ihn da Gefahren suchen zu sehn, wo er hoffen konnte, Ruhm zu finden. In einen
               grausamen Krieg sandte ich ihn, aus dem er zurück kehrte, die Stirn mit Eichenlaub
-              umwunden. <pb n="809"/> Glaube mir, Tochter, mein Herz hüpfte nicht mehr vor Freuden,
+              umwunden. <pb n="810"/> Glaube mir, Tochter, mein Herz hüpfte nicht mehr vor Freuden,
               als ich zuerst hörte, es sei ein Knabe, als jetzt, da ich zuerst sah, es sei ein Mann
               geworden.</p>
           </sp>
@@ -966,7 +967,7 @@
             </lg>
             <stage>Valeria tritt auf.</stage>
           </sp>
-          <pb n="810"/>
+          <pb n="811"/>
           <sp who="#valeria">
             <speaker>VALERIA.</speaker>
             <p>Ihr edlen Frauen, euch beiden guten Tag!</p>
@@ -1052,7 +1053,7 @@
             <speaker>VOLUMNIA.</speaker>
             <p>Nun, warum denn nicht?</p>
           </sp>
-          <pb n="811"/>
+          <pb n="812"/>
           <sp who="#virgilia">
             <speaker>VIRGILIA.</speaker>
             <p>Es ist gewiß nicht Trägheit oder Mangel an Liebe.</p>
@@ -1117,7 +1118,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="812"/>
+        <pb n="813"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Mit Trommeln und Fahnen treten auf Marcius, Titus Lartius, Anführer, Krieger. Zu
@@ -1200,7 +1201,7 @@
               <l>Dort im gespaltnen Heer!</l>
             </lg>
           </sp>
-          <pb n="813"/>
+          <pb n="814"/>
           <sp who="#marcius">
             <speaker>MARCIUS.</speaker>
             <l>Ha! sie sind dran!</l>
@@ -1265,7 +1266,7 @@
               <l>Ihn eingesperrt.</l>
             </lg>
           </sp>
-          <pb n="814"/>
+          <pb n="815"/>
           <sp who="#alle">
             <speaker>ALLE.</speaker>
             <l>Nun geht er drauf, das glaubt nur.</l>
@@ -1339,7 +1340,7 @@
               <l>Seht diese Trödler, die die Stunden schätzen</l>
               <l>Nach rost'gen Drachmen. Kissen, bleierne Löffel,</l>
               <l>Blechstückchen, Wämser, die der Henker selbst</l>
-              <pb n="815"/>
+              <pb n="816"/>
               <l>Verscharrte mit dem Leichnam, stiehlt die Brut,</l>
               <l>Eh' noch die Schlacht zu Ende. – Haut sie nieder! –</l>
               <l>Oh, hört des Feldherrn Schlachtruf! Fort zu ihm!</l>
@@ -1409,7 +1410,7 @@
               <l>Erklang, vom Wind geführt, in Zwischenräumen</l>
               <l>Der Freunde Schlachtruf. Oh! ihr Götter Roms!</l>
               <l>Führt sie zu Ruhm und Sieg, so wie uns selbst,</l>
-              <pb n="816"/>
+              <pb n="817"/>
               <l>Daß unsre Heere, lächelnd sich begegnend,</l>
               <l>Euch dankbar Opfer bringen!</l>
             </lg>
@@ -1502,7 +1503,7 @@
               <l>Mein Kriegesheld, wie geht's dem Titus Lartius?</l>
             </lg>
           </sp>
-          <pb n="817"/>
+          <pb n="818"/>
           <sp who="#marcius">
             <speaker>MARCIUS.</speaker>
             <lg>
@@ -1587,7 +1588,7 @@
               <l>Wünscht'ich gleich,</l>
               <l>Du würdest in ein laues Bad geführt,</l>
               <l>Dir Balsam aufgelegt: doch wag' ich nie,</l>
-              <pb n="818"/>
+              <pb n="819"/>
               <l>Dir etwas zu verweigern. Wähl' dir selbst</l>
               <l>Für diesen Kampf die Besten!</l>
             </lg>
@@ -1641,7 +1642,7 @@
             <lg>
               <l>Besetzt die Tore wohl, tut Eure Pflicht,</l>
               <l>Wie ich's Euch vorschrieb! Send' ich, schickt zur Hülfe</l>
-              <pb n="819"/>
+              <pb n="820"/>
               <l>Uns die Centurien nach; der Rest genügt</l>
               <l>Für kurze Deckung. Geht die Schlacht verloren,</l>
               <l>So bleibt die Stadt uns doch nicht.</l>
@@ -1717,7 +1718,7 @@
             <stage>Alle fechtend ab.</stage>
           </sp>
         </div>
-        <pb n="820"/>
+        <pb n="821"/>
         <div type="scene">
           <head>Neunte Szene</head>
           <stage>Man bläst zum Rückzug; Trompeten. Von einer Seite tritt auf Cominius mit seinem
@@ -1780,7 +1781,7 @@
               <l>Sich so erwähnt zu hören.</l>
             </lg>
           </sp>
-          <pb n="821"/>
+          <pb n="822"/>
           <sp who="#cominius">
             <speaker>COMINIUS.</speaker>
             <lg>
@@ -1833,7 +1834,7 @@
               <l>Des Krieges Kranz erwarb. Und des zum Zeichen</l>
               <l>Nehm' er mein edles Roß, bekannt dem Lager,</l>
               <l>Mit allem Schmuck; und heiß' er von heut an,</l>
-              <pb n="822"/>
+              <pb n="823"/>
               <l>Für das, was vor Corioli er tat,</l>
               <l>Mit vollem Beifallsruf des ganzen Heeres:</l>
               <l>Cajus Marcius Coriolanus. – Führe</l>
@@ -1914,7 +1915,7 @@
               <l>Ist hier nicht Wein?</l>
             </lg>
           </sp>
-          <pb n="823"/>
+          <pb n="824"/>
           <sp who="#cominius">
             <speaker>COMINIUS.</speaker>
             <lg>
@@ -1973,7 +1974,7 @@
               <l>Daheim, in meines Bruders Schutz, selbst da,</l>
               <l>Dem gastlichen Gebot zuwider, wüsch' ich</l>
               <l>Die wilde Hand in seinem Herzblut. Geht, –</l>
-              <pb n="824"/>
+              <pb n="825"/>
               <l>Erforscht, wie man die Stadt bewahrt, und wer</l>
               <l>Als Geisel muß nach Rom.</l>
             </lg>
@@ -1998,7 +1999,7 @@
           </sp>
         </div>
       </div>
-      <pb n="825"/>
+      <pb n="826"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -2070,7 +2071,7 @@
             <speaker>BRUTUS.</speaker>
             <p>Nun, wie werden wir denn beurteilt?</p>
           </sp>
-          <pb n="826"/>
+          <pb n="827"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <p>Weil ihr doch eben vom Stolz sprachet – wollt ihr nicht böse werden?</p>
@@ -2123,7 +2124,7 @@
               widerwärtig schmeckt, so mache ich ein krauses Gesicht dazu. Ich kann nicht sagen:
               Euer Edlen haben die Sache sehr gut vorgetragen, wenn ich den Esel aus jedem eurer
               Worte herausgucken sehe; und obwohl ich mit denen Geduld haben muß, welche sagen, ihr
-              seid ehrwürdige, stattliche <pb n="827"/> Männer, so lügen doch die ganz abscheulich,
+              seid ehrwürdige, stattliche <pb n="828"/> Männer, so lügen doch die ganz abscheulich,
               welche behaupten, ihr hättet gute Gesichter. Wenn ihr dies auf der Landkarte meines
               Mikrokosmus entdeckt, folgt daraus, daß ich auch bekannt genug bin? Welch Unheil lesen
               eure blinden Scharfsichtigkeiten aus diesem Charakter heraus, um sagen zu können, daß
@@ -2160,7 +2161,7 @@
               Und doch müßt ihr sagen: »Marcius ist stolz!« der, billig gerechnet, mehr wert ist als
               alle eure Vorfahren, seit Deukalion; wenn auch vielleicht einige der Besten von ihnen
               erbliche Henkersknechte waren. Ich wünsch' Euer Gnaden einen guten Abend; längere
-              Unterhaltung mit euch würde mein Gehirn anstecken, denn ihr seid ja die <pb n="828"/>
+              Unterhaltung mit euch würde mein Gehirn anstecken, denn ihr seid ja die <pb n="829"/>
               Hirten des Plebejerviehes. Ich bin so dreist, mich von euch zu beurlauben.</p>
             <stage>Brutus und Sicinius ziehen sich in den Hintergrund zurück.</stage>
             <stage>Volumnia, Virgilia und Valeria kommen.</stage>
@@ -2229,7 +2230,7 @@
             <speaker>MENENIUS.</speaker>
             <p>Hat er den Aufidius tüchtig in die Lehre genommen?</p>
           </sp>
-          <pb n="829"/>
+          <pb n="830"/>
           <sp who="#volumnia">
             <speaker>VOLUMNIA.</speaker>
             <p>Titus Lartius schrieb: »Sie fochten mit einander, aber Aufidius entkam.«</p>
@@ -2293,7 +2294,7 @@
             <lg>
               <l>Sie sind des Marcius Führer! Vor sich trägt er</l>
               <l>Gejauchz' der Lust, läßt Tränen hinter sich.</l>
-              <pb n="830"/>
+              <pb n="831"/>
               <l>Der schwarze Tod liegt ihm im nerv'gen Arm;</l>
               <l>Erhebt er ihn, so stürzt der Feinde Schwarm.</l>
             </lg>
@@ -2378,7 +2379,7 @@
               <l>Willkommen tausendmal! Ich könnte weinen</l>
               <l>Und lachen; ich bin leicht und schwer. Willkommen!</l>
               <l>Ein Fluch entwurzle eines jeden Herz,</l>
-              <pb n="831"/>
+              <pb n="832"/>
               <l>Der nicht mit Freuden dich erblickt! Euch drei</l>
               <l>Muß Rom vergöttern. – Doch, auf Treu' und Glauben,</l>
               <l>Holzäpfel, alte, stehn noch hier, die niemals</l>
@@ -2449,7 +2450,7 @@
               <l>In Gier, nur ihn zu schaun. Es drängen sich</l>
               <l>Fast nie gesehne Priester durch den Schwarm</l>
               <l>Und stoßen, um beim Pöbel Platz zu finden;</l>
-              <pb n="832"/>
+              <pb n="833"/>
               <l>Verhüllte Frau'n ergeben Weiß und Rot</l>
               <l>Auf zartgeschonter Wang' dem wilden Raub</l>
               <l>Von Phöbus' Feuerküssen. Solch ein Wirrwarr,</l>
@@ -2538,7 +2539,7 @@
               <l>Bereden wir das Volk, daß er sie stets</l>
               <l>Gehaßt; und, hätt' er Macht, zu Eseln sie</l>
               <l>Umschafft', verstummen hieße ihre Sprecher,</l>
-              <pb n="833"/>
+              <pb n="834"/>
               <l>Und ihre Freiheit bräche, sie so haltend,</l>
               <l>In Fähigkeit des Geists und Kraft zu handeln,</l>
               <l>Von nicht mehr Seel' und Tatkraft für die Welt,</l>
@@ -2603,7 +2604,7 @@
             <speaker>ZWEITER RATSDIENER.</speaker>
             <p>Drei, heißt es; aber jedermann glaubt, daß Coriolanus es erhalten wird.</p>
           </sp>
-          <pb n="834"/>
+          <pb n="835"/>
           <sp who="#erster_ratsdiener">
             <speaker>ERSTER RATSDIENER.</speaker>
             <p>Das ist ein wackrer Gesell; aber er ist verzweifelt stolz und liebt das gemeine Volk
@@ -2649,7 +2650,7 @@
             <lg>
               <l>Da ein Beschluß gefaßt, der Volsker wegen,</l>
               <l>Und wir den Titus Lartius heimberufen,</l>
-              <pb n="835"/>
+              <pb n="836"/>
               <l>Bleibt noch als Hauptpunkt dieser zweiten Sitzung,</l>
               <l>Des Helden edlen Dienst zu lohnen, der</l>
               <l>So für sein Vaterland gekämpft. – Geruht dann,</l>
@@ -2725,7 +2726,7 @@
               <l>Was edel du getan.</l>
             </lg>
           </sp>
-          <pb n="836"/>
+          <pb n="837"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <lg>
@@ -2796,7 +2797,7 @@
               <l>Zeigt' er sich ganz als Mann im Kampf; zum Lohn</l>
               <l>Ward ihm der Eichenkranz. Sein zartes Alter</l>
               <l>Gereift zum Manne, wuchs er, gleich dem Meer,</l>
-              <pb n="837"/>
+              <pb n="838"/>
               <l>Und seit der Zeit, im Sturm von siebzehn Schlachten,</l>
               <l>Streift' er den Kranz von jedem Schwert. Sein Letztes,</l>
               <l>Erst vor, dann in Corioli, ist so,</l>
@@ -2864,7 +2865,7 @@
               <l>Der sämtliche Senat.</l>
             </lg>
           </sp>
-          <pb n="838"/>
+          <pb n="839"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <lg>
@@ -2963,7 +2964,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="839"/>
+        <pb n="840"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Mehrere Bürger treten auf.</stage>
@@ -3018,7 +3019,7 @@
           <sp who="#dritter_buerger">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Um sich in einem Nebel zu verlieren; wären nun drei Viertel davon in faulem Dunst
-              weggeschmolzen, so <pb n="840"/> würde der letzte Teil aus Gewissenhaftigkeit zurück
+              weggeschmolzen, so <pb n="841"/> würde der letzte Teil aus Gewissenhaftigkeit zurück
               kommen, um dir zu einer Frau zu verhelfen.</p>
           </sp>
           <sp who="#zweiter_buerger">
@@ -3085,7 +3086,7 @@
             </lg>
             <stage>Es kommen zwei Bürger.</stage>
           </sp>
-          <pb n="841"/>
+          <pb n="842"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <lg>
@@ -3186,7 +3187,7 @@
           </sp>
           <sp who="#dritter_buerger">
             <speaker>DRITTER BÜRGER.</speaker>
-            <p>Ihr waret eine Geißel für seine Feinde; Ihr <pb n="842"/> waret eine Rute für seine
+            <p>Ihr waret eine Geißel für seine Feinde; Ihr <pb n="843"/> waret eine Rute für seine
               Freunde. Ihr habt, die Wahrheit zu sagen, das gemeine Volk nicht geliebt.</p>
           </sp>
           <sp who="#coriolanus">
@@ -3236,7 +3237,7 @@
               <l>Dem, den's gelüstet! – Halb ist's schon geschehn:</l>
               <l>Viel überstanden, mag's nun weiter gehn.</l>
               <stage>Drei andre Bürger kommen.</stage>
-              <pb n="843"/>
+              <pb n="844"/>
               <l>Mehr Stimmen noch! –</l>
               <l>Eure Stimmen! denn für eure Stimmen focht ich,</l>
               <l>Für eure Stimmen wacht' ich, für eure Stimmen</l>
@@ -3328,7 +3329,7 @@
               <l>Wie's ihm am Herzen liegt.</l>
             </lg>
           </sp>
-          <pb n="844"/>
+          <pb n="845"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -3415,7 +3416,7 @@
               <l>Feind der Plebejer, könnten eure Stimmen</l>
               <l>Zum Fluch euch werden. Konntet ihr nicht sagen:</l>
               <l>Gebühr' auch seinem edlen Tun nichts mindres,</l>
-              <pb n="845"/>
+              <pb n="846"/>
               <l>Als was er suche, mög' er doch mit Huld,</l>
               <l>Zum Lohn für eure Stimmen, euer denken,</l>
               <l>Verwandelnd seinen Haß für euch in Liebe,</l>
@@ -3490,7 +3491,7 @@
               <l>Und widerruft, nach reiferm Urteil, alle</l>
               <l>Die übereilte Wahl! Denkt seines Stolzes,</l>
               <l>Wie seines alten Grolls auf euch! Vergeßt nicht,</l>
-              <pb n="846"/>
+              <pb n="847"/>
               <l>Wie er mit Hoffart trug der Demut Kleid,</l>
               <l>Wie flehend er euch höhnt'! Nur eure Liebe,</l>
               <l>Gedenkend seiner Dienste, hindert' euch,</l>
@@ -3556,7 +3557,7 @@
               <l>Aufs Kapitol!</l>
             </lg>
           </sp>
-          <pb n="847"/>
+          <pb n="848"/>
           <sp who="#mehrere_buerger">
             <speaker>MEHRERE BÜRGER.</speaker>
             <lg>
@@ -3588,7 +3589,7 @@
           </sp>
         </div>
       </div>
-      <pb n="848"/>
+      <pb n="849"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3670,7 +3671,7 @@
               <l>Oh! hätt' ich Ursach', dort ihn aufzusuchen,</l>
               <l>Zu trotzen seinem Haß! Willkommen hier!</l>
               <stage>Sicinius und Brutus treten auf.</stage>
-              <pb n="849"/>
+              <pb n="850"/>
               <l>Ha! seht, das da sind unsre Volkstribunen,</l>
               <l>Zungen des großen Mundes; mir verächtlich,</l>
               <l>Weil sie mit ihrer Amtsgewalt sich brüsten,</l>
@@ -3780,7 +3781,7 @@
             <speaker>CORIOLANUS.</speaker>
             <l>Solch Tun sieht Euch schon ähnlich.</l>
           </sp>
-          <pb n="850"/>
+          <pb n="851"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -3866,7 +3867,7 @@
               <l>Hab' ich mein Blut fürs Vaterland vergossen,</l>
               <l>Furchtlos dem fremden Dräun, so soll die Brust</l>
               <l>Laut schelten, bis sie bricht, Aussätz'ge schmähend,</l>
-              <pb n="851"/>
+              <pb n="852"/>
               <l>Vor deren Pest uns graut, und streben doch,</l>
               <l>Von ihnen angesteckt zu sein.</l>
             </lg>
@@ -3941,7 +3942,7 @@
               <l>Als Griechenland nur je verehrt. Beim Zeus!</l>
               <l>Beschimpft wird so der Konsul, und mein Herz weint,</l>
               <l>Zu sehn, wie, wenn zwei Mächte sich erheben,</l>
-              <pb n="852"/>
+              <pb n="853"/>
               <l>Und keine herrscht, Verderben, ungesäumt,</l>
               <l>Dringt in die Lücke zwischen beid' und stürzt</l>
               <l>Die eine durch die andre.</l>
@@ -4017,7 +4018,7 @@
             <speaker>CORIOLANUS.</speaker>
             <lg>
               <l>Nein! nehmt noch mehr:</l>
-              <pb n="853"/>
+              <pb n="854"/>
               <l>Was nur den Schwur, sei's göttlich, menschlich, heiligt,</l>
               <l>Besiegle meinen Schluß! Die Doppelherrschaft,</l>
               <l>Wo dieser Teil mit Grund verachtet, jener</l>
@@ -4083,7 +4084,7 @@
             <lg>
               <l>Geht, ruft das Volk!</l>
               <stage>Brutus geht ab.</stage>
-              <pb n="854"/>
+              <pb n="855"/>
               <l>Ich selbst, in seinem Namen,</l>
               <l>Ergreife dich als Neu'rer und Empörer</l>
               <l>Und Feind des Staats. – Folg', ich befehl' es dir,</l>
@@ -4194,7 +4195,7 @@
               <l>Das Volk nur ist die Stadt.</l>
             </lg>
           </sp>
-          <pb n="855"/>
+          <pb n="856"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -4301,7 +4302,7 @@
               <l>Ihr hier vom Adel, helft ihm, jung und alt!</l>
             </lg>
           </sp>
-          <pb n="856"/>
+          <pb n="857"/>
           <sp who="#die_buerger">
             <speaker>DIE BÜRGER.</speaker>
             <l>Nieder mit ihm! Nieder mit ihm!</l>
@@ -4399,7 +4400,7 @@
             <l>Nun komm!</l>
             <stage>Coriolanus, Cominius und andere gehn ab.</stage>
           </sp>
-          <pb n="857"/>
+          <pb n="858"/>
           <sp who="#erster_patrizier">
             <speaker>ERSTER PATRIZIER.</speaker>
             <l>Der Mann hat ganz sein Glück zerstört.</l>
@@ -4497,7 +4498,7 @@
             <speaker>SICINIUS.</speaker>
             <l>Konsul? welcher Konsul?</l>
           </sp>
-          <pb n="858"/>
+          <pb n="859"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <l>Der Konsul Coriolan.</l>
@@ -4586,7 +4587,7 @@
               <l>Nicht weiter fort sich zünde!</l>
             </lg>
           </sp>
-          <pb n="859"/>
+          <pb n="860"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <lg>
@@ -4667,7 +4668,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="860"/>
+        <pb n="861"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Coriolanus tritt auf mit einigen Patriziern.</stage>
@@ -4744,7 +4745,7 @@
               <l>Ihr müßt zurück, es bessern.</l>
             </lg>
           </sp>
-          <pb n="861"/>
+          <pb n="862"/>
           <sp who="#erster_senator">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
@@ -4837,7 +4838,7 @@
               <l>Weil jetzt dir obliegt, zu dem Volk zu reden,</l>
               <l>Nicht nach des eignen Sinnes Unterweisung,</l>
               <l>Noch in der Art, wie dir dein Herz befiehlt, –</l>
-              <pb n="862"/>
+              <pb n="863"/>
               <l>Mit Worten nur, die auf der Zunge wachsen,</l>
               <l>Bastardgeburten, Lauten nur und Silben,</l>
               <l>Die nicht des Herzens Wahrheit sind verpflichtet.</l>
@@ -4893,7 +4894,7 @@
               <l>Als sonst sie müßig schwatzen.</l>
             </lg>
           </sp>
-          <pb n="863"/>
+          <pb n="864"/>
           <sp who="#volumnia">
             <speaker>VOLUMNIA.</speaker>
             <lg>
@@ -4970,7 +4971,7 @@
               <l>Verdunkeln mir den Blick; des Bettlers Zunge</l>
               <l>Reg' in dem Mund sich; mein bepanzert Knie,</l>
               <l>Das nur im Bügel krumm war, beuge sich</l>
-              <pb n="864"/>
+              <pb n="865"/>
               <l>Wie des, der Pfenn'ge fleht! – Ich will's nicht tun,</l>
               <l>Nicht so der eignen Wahrheit Ehre schlachten</l>
               <l>Und durch des Leibs Gebärdung meinen Sinn</l>
@@ -5043,7 +5044,7 @@
             <lg>
               <l>Das muß der Hauptpunkt sein: daß er erstrebt</l>
               <l>Tyrannische Gewalt; entschlüpft er da,</l>
-              <pb n="865"/>
+              <pb n="866"/>
               <l>Treibt ihn mit seinem Volkshaß in die Enge,</l>
               <l>Und daß er nie verteilen ließ die Beute,</l>
               <l>Die den Antiaten abgenommen ward.</l>
@@ -5132,7 +5133,7 @@
               <l>Zu siegen, und ihm gilt als höchster Ruhm</l>
               <l>Der Widerspruch. Einmal in Wut, nie lenkt er</l>
               <l>Zur Mäßigung zurück; dann spricht er aus,</l>
-              <pb n="866"/>
+              <pb n="867"/>
               <l>Was er im Herzen hat; genug ist dort,</l>
               <l>Was uns von selbst hilft, ihm den Hals zu brechen.</l>
             </lg>
@@ -5223,7 +5224,7 @@
               <l>Daß, hört ihr ihn nicht gleich dem Bürger sprechen,</l>
               <l>Den Krieger findet ihr in ihm. Nehmt nicht</l>
               <l>Den rauhen Klang für bös gemeintes Wort;</l>
-              <pb n="867"/>
+              <pb n="868"/>
               <l>Nein, wie gesagt, so wie's dem Krieger ziemt,</l>
               <l>Nicht feindlich euch.</l>
             </lg>
@@ -5318,7 +5319,7 @@
             <speaker>CORIOLANUS.</speaker>
             <l>Ihr?</l>
           </sp>
-          <pb n="868"/>
+          <pb n="869"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <lg>
@@ -5404,7 +5405,7 @@
             <speaker>DIE BÜRGER.</speaker>
             <l>So soll's sein! So soll es sein!</l>
           </sp>
-          <pb n="869"/>
+          <pb n="870"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <lg>
@@ -5465,7 +5466,7 @@
               <l>Mit vielen Köpfen stößt mich weg. Ei. Mutter!</l>
               <l>Wo ist dein alter Mut? Du sagtest oft:</l>
               <l>Es sei das Unglück Prüfstein der Gemüter,</l>
-              <pb n="870"/>
+              <pb n="871"/>
               <l>Gemeine Not trag' ein gemeiner Mensch.</l>
               <l>Es segl' auf stiller See mit gleicher Kunst</l>
               <l>Ein jedes Boot; doch tiefe Todeswunden,</l>
@@ -5530,7 +5531,7 @@
             <speaker>CORIOLANUS.</speaker>
             <l>O ihr Götter!</l>
           </sp>
-          <pb n="871"/>
+          <pb n="872"/>
           <sp who="#cominius">
             <speaker>COMINIUS.</speaker>
             <lg>
@@ -5604,7 +5605,7 @@
               <l>Und neu befestigt ihre Macht.</l>
             </lg>
           </sp>
-          <pb n="872"/>
+          <pb n="873"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -5715,7 +5716,7 @@
               <l>Zu lösen, den er schlang.</l>
             </lg>
           </sp>
-          <pb n="873"/>
+          <pb n="874"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>So wünscht' ich auch.</l>
@@ -5792,7 +5793,7 @@
           </sp>
         </div>
       </div>
-      <pb n="874"/>
+      <pb n="875"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -5848,7 +5849,7 @@
             <speaker>VOLSKER.</speaker>
             <p>Coriolan verbannt?</p>
           </sp>
-          <pb n="875"/>
+          <pb n="876"/>
           <sp who="#roemer">
             <speaker>RÖMER.</speaker>
             <p>Ja, verbannt.</p>
@@ -5908,7 +5909,7 @@
               <l>Ich schuf dir deine Witwen. Manchen Erben</l>
               <l>Der schönen Häuser hört' ich in der Schlacht</l>
               <l>Stöhnen und sterben. – Kenne mich drum nicht,</l>
-              <pb n="876"/>
+              <pb n="877"/>
               <l>Sonst morden mich mit Bratspieß' deine Weiber,</l>
               <l>In kind'scher Schlacht mit Steinen deine Knaben.</l>
             </lg>
@@ -5977,7 +5978,7 @@
             <stage>Geht ab.</stage>
             <stage>Ein zweiter Diener kommt.</stage>
           </sp>
-          <pb n="877"/>
+          <pb n="878"/>
           <sp who="#zweiter_diener">
             <speaker>ZWEITER DIENER.</speaker>
             <p>Wo ist Cotus? Der Herr ruft ihn. Cotus!</p>
@@ -6069,7 +6070,7 @@
             <p>Euerm Berufe folgt! Hinweg! Stopft Euch mit kalten Bissen.</p>
             <stage>Stößt den Diener weg.</stage>
           </sp>
-          <pb n="878"/>
+          <pb n="879"/>
           <sp who="#dritter_diener">
             <speaker>DRITTER DIENER.</speaker>
             <p>Was, Ihr wollt nicht? Bitte, sage doch meinem Herrn, was er hier für einen seltsamen
@@ -6169,7 +6170,7 @@
               <l>Zeigst du als wackres Schiff dich. Wie dein Name?</l>
             </lg>
           </sp>
-          <pb n="879"/>
+          <pb n="880"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <l>Zieh' deine Stirn in Falten! Kennst mich jetzt?</l>
@@ -6217,7 +6218,7 @@
               <l>So würdest du nur als ein Tor dich zeigen;</l>
               <l>Denn immer hab' ich dich mit Grimm verfolgt</l>
               <l>Und Tonnen Blutes deinem Land entzapft.</l>
-              <pb n="880"/>
+              <pb n="881"/>
               <l>Ich kann nur leben dir zum Hohn, es sei denn,</l>
               <l>Um Dienste dir zu tun.</l>
             </lg>
@@ -6263,7 +6264,7 @@
               <l>Wenn auch nicht Rom selbst.</l>
             </lg>
           </sp>
-          <pb n="881"/>
+          <pb n="882"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <l>Götter, seid gepriesen!</l>
@@ -6337,7 +6338,7 @@
           </sp>
           <sp who="#zweiter_diener">
             <speaker>ZWEITER DIENER.</speaker>
-            <p>Mein' Treu'! sieh, man kann nicht sagen, was <pb n="882"/> man davon denken soll; was
+            <p>Mein' Treu'! sieh, man kann nicht sagen, was <pb n="883"/> man davon denken soll; was
               die Verteidigung einer Stadt betrifft, da ist unser Feldherr vorzüglich.</p>
           </sp>
           <sp who="#erster_diener">
@@ -6403,7 +6404,7 @@
               heraus, wenn er spricht. Aber der Grund und Boden meiner Neuigkeit ist: unser Feldherr
               ist mitten durchgeschnitten, und nur noch die Hälfte von dem, was er gestern war; denn
               der andre hat die Hälfte durch Ansuchen und Genehmigung der ganzen Tafel. Er sagt, er
-              will gehn und den Pförtner von Rom bei den Ohren im Kot sühlen, <pb n="883"/> er will
+              will gehn und den Pförtner von Rom bei den Ohren im Kot sühlen, <pb n="884"/> er will
               alles vor sich niedermähen und sich glatten Weg machen.</p>
           </sp>
           <sp who="#zweiter_diener">
@@ -6470,7 +6471,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="884"/>
+        <pb n="885"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Rom. Ein öffentlicher Platz.</stage>
@@ -6566,7 +6567,7 @@
             <speaker>DIE BÜRGER.</speaker>
             <l>Der Himmel segn' euch!</l>
           </sp>
-          <pb n="885"/>
+          <pb n="886"/>
           <sp who="#die_tribunen">
             <speaker>DIE TRIBUNEN.</speaker>
             <l>Lebt wohl! Lebt wohl!</l>
@@ -6657,7 +6658,7 @@
               <l>Wohl sagt uns die Erinn'rung, daß es sein kann;</l>
               <l>Dreimal bezeugt es uns dasselbe Beispiel,</l>
               <l>In meiner Zeit. – Sprecht doch mit dem Gesellen,</l>
-              <pb n="886"/>
+              <pb n="887"/>
               <l>Eh' ihr ihn straft, fragt ihn, wo er's gehört;</l>
               <l>Ihr möchtet sonst wohl eure Warnung peitschen,</l>
               <l>Den Boten schlagen, der euch wahren will</l>
@@ -6748,7 +6749,7 @@
               <l>Ein furchtbar Heer, geführt von Cajus Marcius,</l>
               <l>Aufidius zugesellt, verwüstet rings</l>
               <l>Die ganze Landschaft, und betritt den Weg</l>
-              <pb n="887"/>
+              <pb n="888"/>
               <l>Hieher, durch Feu'r gebahnt, zerstörend alles,</l>
               <l>Was ihrer Wut begegnet.</l>
             </lg>
@@ -6840,7 +6841,7 @@
               <l>Die Feind' ihm sind, sehn jetzo, was er ist.</l>
             </lg>
           </sp>
-          <pb n="888"/>
+          <pb n="889"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <lg>
@@ -6914,7 +6915,7 @@
               <l>Wird euch zur Geißel. – So viel Narrenköpfe,</l>
               <l>Als Mützen flogen, wird er niederstrecken</l>
               <l>Zum Lohn für eure Stimmen. – Nun, was tut's?</l>
-              <pb n="889"/>
+              <pb n="890"/>
               <l>Und wenn er all' uns brennt in eine Kohle,</l>
               <l>Geschieht uns recht.</l>
             </lg>
@@ -6996,7 +6997,7 @@
             <stage>Gehn ab.</stage>
           </sp>
         </div>
-        <pb n="890"/>
+        <pb n="891"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Aufidius und ein Hauptmann treten auf.</stage>
@@ -7063,7 +7064,7 @@
               <l>Patrizier lieben ihn und Senatoren.</l>
               <l>Den Krieg versteht nicht der Tribun. Das Volk</l>
               <l>Wird schnell zurück ihn rufen, wie's ihn eilig</l>
-              <pb n="891"/>
+              <pb n="892"/>
               <l>Von dort verstieß. Ich glaub', er ist für Rom,</l>
               <l>Was für den Fisch der Meeraar, der ihn fängt</l>
               <l>Durch angeborne Macht. Erst war er ihnen</l>
@@ -7094,7 +7095,7 @@
           </sp>
         </div>
       </div>
-      <pb n="892"/>
+      <pb n="893"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -7161,7 +7162,7 @@
             <speaker>COMINIUS.</speaker>
             <lg>
               <l>Ich suchte dann sein Mitleid zu erwecken</l>
-              <pb n="893"/>
+              <pb n="894"/>
               <l>Für die besondern Freund'. Er gab zur Antwort:</l>
               <l>Nicht lesen könn' er sie aus einem Haufen</l>
               <l>Verdorbner, schlechter Spreu; auch sei es Torheit,</l>
@@ -7239,7 +7240,7 @@
               <l>Zu geben und vergeben; doch gefüllt</l>
               <l>Die Röhren und Kanäle unsers Bluts</l>
               <l>Mit Wein und Nahrung, macht die Seele schmeid'ger</l>
-              <pb n="894"/>
+              <pb n="895"/>
               <l>Als priesterliches Fasten. – Drum erpass' ich,</l>
               <l>Bis er für mein Gesuch in Tafellaune,</l>
               <l>Und dann mach' ich mich an ihn.</l>
@@ -7322,7 +7323,7 @@
               <l>Will nichts von dort mehr hören.</l>
             </lg>
           </sp>
-          <pb n="895"/>
+          <pb n="896"/>
           <sp who="#zweite_wache">
             <speaker>ZWEITE WACHE.</speaker>
             <lg>
@@ -7395,7 +7396,7 @@
             <speaker>ERSTE WACHE.</speaker>
             <p>Dann solltet Ihr auch Rom hassen, so wie er. Könnt ihr, nachdem ihr euern Verteidiger
               zu euren Toren hinaus gestoßen und in eurer blödsinnigen Volkswut euerm Feind euern
-              eignen Schild gegeben habt, noch glauben, <pb n="896"/> seine Rache ließe sich durch
+              eignen Schild gegeben habt, noch glauben, <pb n="897"/> seine Rache ließe sich durch
               die schwächlichen Seufzer alter Frauen abwenden, durch das jungfräuliche Händefalten
               eurer Töchter, oder durch gichtlahme Gebärdung eines so welken, kindischen Mannes, wie
               Ihr zu sein scheint? Könnt Ihr glauben, das Feuer, das eure Stadt entflammen soll, mit
@@ -7443,7 +7444,7 @@
               es zu löschen. Ich war schwer zu bewegen, zu dir zu gehn; aber weil ich überzeugt in,
               daß keiner besser als ich dich bewegen kann, so bin ich mit Seufzern aus den Toren
               dort hinausgeblasen worden, und beschwöre dich nun, Rom und deinen fleh'nden
-              Landsleuten zu verzeihn. Die gütigen Götter mögen deinen Zorn <pb n="897"/> sänftigen
+              Landsleuten zu verzeihn. Die gütigen Götter mögen deinen Zorn <pb n="898"/> sänftigen
               und die Hefen davon hier auf diesen Schurken leiten, auf diesen, der mir, wie ein
               Klotz, den Eintritt zu dir versagte.</p>
           </sp>
@@ -7507,7 +7508,7 @@
             <speaker>ERSTE WACHE.</speaker>
             <p>Ein edler Mann, das muß ich sagen.</p>
           </sp>
-          <pb n="898"/>
+          <pb n="899"/>
           <sp who="#zweite_wache">
             <speaker>ZWEITE WACHE.</speaker>
             <p>Der würdigste Mann ist unser Feldherr: er ist n Fels, eine Eiche, die kein Sturm
@@ -7563,7 +7564,7 @@
             <lg>
               <l>Mein Weib voran, dann die ehrwürd'ge Form,</l>
               <l>Die meinen Leib erschuf, an ihrer Hand</l>
-              <pb n="899"/>
+              <pb n="900"/>
               <l>Der Enkel ihres Bluts. – Fort, Sympathie!</l>
               <l>Brecht, all ihr Band' und Rechte der Natur!</l>
               <l>Sei's tugendhaft, in Starrsinn fest zu bleiben!</l>
@@ -7627,7 +7628,7 @@
             </lg>
             <stage>Sie kniet.</stage>
           </sp>
-          <pb n="900"/>
+          <pb n="901"/>
           <sp who="#coriolanus">
             <speaker>CORIOLANUS.</speaker>
             <lg>
@@ -7710,7 +7711,7 @@
               <l>Oh! nicht mehr! nicht mehr!</l>
               <l>Du hast erklärt, du willst uns nichts gewähren;</l>
               <l>Denn nichts zu wünschen haben wir, als das,</l>
-              <pb n="901"/>
+              <pb n="902"/>
               <l>Was du schon abschlugst; dennoch will ich wünschen,</l>
               <l>Daß, weichst du unsern Bitten aus, der Tadel</l>
               <l>Nur deine Härte treffen mag. Drum hör' uns!</l>
@@ -7764,7 +7765,7 @@
             <speaker>VIRGILIA.</speaker>
             <lg>
               <l>Ja, auch auf meinen,</l>
-              <pb n="902"/>
+              <pb n="903"/>
               <l>Der diesen Sohn dir gab, auf daß dein Name</l>
               <l>Der Nachwelt blüh'.</l>
             </lg>
@@ -7818,7 +7819,7 @@
               <l>Vielleicht bewegt dein Kindsgeschwätz ihn mehr,</l>
               <l>Als unsre Rede mag. – Kein Mann auf Erden</l>
               <l>Verdankt der Mutter mehr; doch hier läßt er</l>
-              <pb n="903"/>
+              <pb n="904"/>
               <l>Mich schwatzen, wie ein Weib am Pranger. – Nie</l>
               <l>Im ganzen Leben gabst der lieben Mutter</l>
               <l>Du freundlich nach, wenn sie, die arme Henne,</l>
@@ -7863,7 +7864,7 @@
               <l>Wen'ger gehört? ihr wen'ger zugestanden?</l>
             </lg>
           </sp>
-          <pb n="904"/>
+          <pb n="905"/>
           <sp who="#aufidius">
             <speaker>AUFIDIUS.</speaker>
             <l>Ich war bewegt.</l>
@@ -7926,7 +7927,7 @@
             <speaker>SICINIUS.</speaker>
             <p>Ist es möglich, daß eine so kurze Zeit die Gemütsart eines Menschen so verändert?</p>
           </sp>
-          <pb n="905"/>
+          <pb n="906"/>
           <sp who="#menenius">
             <speaker>MENENIUS.</speaker>
             <p>Es ist ein Unterschied zwischen einer Raupe und einem Schmetterling; und doch war der
@@ -7983,7 +7984,7 @@
             <speaker>SICINIUS.</speaker>
             <l>Was für Nachricht?</l>
           </sp>
-          <pb n="906"/>
+          <pb n="907"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <lg>
@@ -8065,7 +8066,7 @@
             <lg>
               <l>Seht unsre Schutzgöttin, das Leben Roms!</l>
               <l>Ruft alles Volk zusammen, preist die Götter,</l>
-              <pb n="907"/>
+              <pb n="908"/>
               <l>Macht Freudenfeuer, streut den Weg mit Blumen,</l>
               <l>Und übertönt den Schrei, der Marcius bannte,</l>
               <l>Ruft ihn zurück im Willkomm seiner Mutter!</l>
@@ -8132,7 +8133,7 @@
               <l>Macht, daß der andre alles erbt.</l>
             </lg>
           </sp>
-          <pb n="908"/>
+          <pb n="909"/>
           <sp who="#aufidius">
             <speaker>AUFIDIUS.</speaker>
             <lg>
@@ -8201,7 +8202,7 @@
               <l>Zerreißt ihr Schrei'n die Luft.</l>
             </lg>
           </sp>
-          <pb n="909"/>
+          <pb n="910"/>
           <sp who="#zweiter_verschworner">
             <speaker>ZWEITER VERSCHWORNER.</speaker>
             <lg>
@@ -8275,7 +8276,7 @@
               <l>Die Kosten dieses Kriegs. Wir machten Frieden,</l>
               <l>Mit minderm Ruhm nicht für die Antiaten</l>
               <l>Als Schmach für Rom, und überliefern hier,</l>
-              <pb n="910"/>
+              <pb n="911"/>
               <l>Von Konsuln und Patriziern unterschrieben,</l>
               <l>Und mit dem Siegel des Senats versehn,</l>
               <l>Euch den Vergleich.</l>
@@ -8357,7 +8358,7 @@
             <lg>
               <l>Reißt mich in Stück', ihr Volsker! Männer, Kinder,</l>
               <l>Taucht euern Stahl in mich! – »Knab'«? – Falscher Hund,</l>
-              <pb n="911"/>
+              <pb n="912"/>
               <l>Wenn eure Chronik Wahrheit spricht, – da steht's,</l>
               <l>Daß, wie im Taubenhaus der Adler, ich</l>
               <l>Gescheucht die Volsker in Corioli.</l>
@@ -8442,7 +8443,7 @@
               <l>Die euch sein Leben droht', erfreut ihr euch,</l>
               <l>Daß er so weggeräumt. Beruft mich, Edle,</l>
               <l>Gleich in den Rat, so zeig' ich, daß ich bin</l>
-              <pb n="912"/>
+              <pb n="913"/>
               <l>Eu'r treuster Diener, oder ich erdulde</l>
               <l>Die schwerste Strafe.</l>
             </lg>

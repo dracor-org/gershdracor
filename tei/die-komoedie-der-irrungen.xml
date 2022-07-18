@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="1"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -96,13 +97,13 @@
         <castItem>Solinus, Herzog von Ephesus</castItem>
         <castItem>Ägeon, ein Kaufmann aus Syrakus</castItem>
         <castGroup>
-          <castItem>Antipholus von Ephesus,</castItem>
-          <castItem>Antipholus von Syrakus,</castItem>
+          <castItem>Antipholus von Ephesus</castItem>
+          <castItem>Antipholus von Syrakus</castItem>
           <roleDesc>Zwillingsbrüder und Söhne des Ägeon</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Dromio von Ephesus,</castItem>
-          <castItem>Dromio von Syrakus,</castItem>
+          <castItem>Dromio von Ephesus</castItem>
+          <castItem>Dromio von Syrakus</castItem>
           <roleDesc>Zwillingsbrüder und Sklaven der beiden Antipholus</roleDesc>
         </castGroup>
         <castItem>Balthasar, ein Kaufmann</castItem>
@@ -120,6 +121,7 @@
         <p>Die Szene ist in Ephesus</p>
       </set>
     </front>
+    <pb n="3"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -159,7 +161,7 @@
               <l>Es sei denn, daß er tausend Mark bezahlt,</l>
               <l>Der Strafe zu entgehn, als Lösegeld. –</l>
               <l>Nun, deine Habe, noch so hoch geschätzt,</l>
-              <pb n="3"/>
+              <pb n="4"/>
               <l>Beläuft sich, denk' ich, kaum auf hundert Mark;</l>
               <l>Deshalb bist du dem Tod mit Recht verfallen.</l>
             </lg>
@@ -213,7 +215,7 @@
               <l>Betrieb die bald'ge Heimkehr, Tag für Tag;</l>
               <l>Ungern gewährt' ich's ihr, ach, nur zu schnell!</l>
               <l>Wir schifften ab:</l>
-              <pb n="4"/>
+              <pb n="5"/>
               <l>Und kaum 'ne Meil' in See von Epidamnus,</l>
               <l>Als die dem Wind stets untertän'ge Tiefe</l>
               <l>Uns manche Vorbedeutung wies des Unglücks.</l>
@@ -262,7 +264,7 @@
             <lg>
               <l>Oh, taten das die Götter, braucht' ich nicht</l>
               <l>Sie jetzt mit Recht der Grausamkeit zu zeihn! –</l>
-              <pb n="5"/>
+              <pb n="6"/>
               <l>Denn, eh' die Schiff' uns nah auf zwanzig Knoten,</l>
               <l>Gerieten wir an ein gewaltig Riff,</l>
               <l>Und heftig angetrieben an den Fels</l>
@@ -311,7 +313,7 @@
               <l>Zwar hoffnungslos, wollt' ich doch diesen Ort</l>
               <l>Wie jeden, wo nur Menschen sind, durchforschen.</l>
               <l>Hier endet die Geschichte meines Lebens,</l>
-              <pb n="6"/>
+              <pb n="7"/>
               <l>Und glücklich preis ich meinen frühen Tod,</l>
               <l>Gäb' all mein Reisen mir Gewähr: sie lebten.</l>
             </lg>
@@ -371,7 +373,7 @@
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Geh, trag's in den Zentauren, unsern Gasthof,</l>
-              <pb n="7"/>
+              <pb n="8"/>
               <l>Und bleib' dort, Dromio, bis ich wiederkomme.</l>
               <l>In einer Stund' ist Mittagessens Zeit;</l>
               <l>Bis dahin will ich mir das Volk betrachten,</l>
@@ -440,7 +442,7 @@
               <l>Wie nun! Was kehrst du denn so bald zurück?</l>
             </lg>
           </sp>
-          <pb n="8"/>
+          <pb n="9"/>
           <sp who="#dromio_von_ephesus">
             <speaker>DROMIO VON EPHESUS.</speaker>
             <lg>
@@ -518,7 +520,7 @@
               <l>Die Frau und ihre Schwester warten schon.</l>
             </lg>
           </sp>
-          <pb n="9"/>
+          <pb n="10"/>
           <sp who="#antipholus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
@@ -585,7 +587,7 @@
           </sp>
         </div>
       </div>
-      <pb n="10"/>
+      <pb n="11"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -651,7 +653,7 @@
             <speaker>ADRIANA.</speaker>
             <l>Um nicht zu dienen, bleibst du unvermählt?</l>
           </sp>
-          <pb n="11"/>
+          <pb n="12"/>
           <sp who="#luciana">
             <speaker>LUCIANA.</speaker>
             <l>Nein! weil der Eh'stand so viel Sorgen zählt.</l>
@@ -744,7 +746,7 @@
               <l>Nicht hahnreitoll, doch sicher rasend toll;</l>
               <l>Als ich ihn bat, zum Essen heim zu kommen,</l>
               <l>So fragt' er mich nach tausend Mark in Gold.</l>
-              <pb n="12"/>
+              <pb n="13"/>
               <l>»'s ist Essenszeit«, sagt' ich; »mein Gold«, sagt' er.</l>
               <l>»Das Fleisch brennt an«, sagt' ich; »mein Gold!« sagt' er.</l>
               <l>»Kommt Ihr nicht bald?« sagt' ich; »mein Gold!« sagt' er;</l>
@@ -820,7 +822,7 @@
               <l>Durch seine Kält' und Rauheit ward sie spröde.</l>
               <l>Wenn ihm der andern muntrer Putz gefällt,</l>
               <l>Ist's mein Vergehn, was er mir vorenthält? –</l>
-              <pb n="13"/>
+              <pb n="14"/>
               <l>Was für Ruinen magst du an mir finden,</l>
               <l>Die nicht sein Werk? Wenn meine Reize schwinden,</l>
               <l>Er will es so; von ihm ein Sonnenblick</l>
@@ -876,7 +878,7 @@
               <l>Nun, Freund? ist dir der Übermut vergangen? –</l>
               <l>Nun spaße wieder, wenn du Schläge liebst!</l>
               <l>Du kennst den Gasthof nicht? Bekamst kein Gold?</l>
-              <pb n="14"/>
+              <pb n="15"/>
               <l>Dich schickt die Frau, zum Essen mich zu rufen?</l>
               <l>Ich wohn' im Phönix? Sag mir, warst du toll,</l>
               <l>Daß du mir solche tolle Antwort gabst? –</l>
@@ -948,7 +950,7 @@
               Schanze für meinen Kopf anschaffen und ihn einschanzen, oder ich werde meinen Witz in
               meinen Schultern suchen. Aber mit Vergunst, Herr, warum werd' ich geschlagen?</p>
           </sp>
-          <pb n="15"/>
+          <pb n="16"/>
           <sp who="#antipholus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Das weißt du nicht? –</p>
@@ -1051,7 +1053,7 @@
             <speaker>ANTIPHOLUS.</speaker>
             <p>Auch nicht durch Prozeß und Restitution?</p>
           </sp>
-          <pb n="16"/>
+          <pb n="17"/>
           <sp who="#dromio_von_syrakus">
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>O ja; durch den Prozeß eines Perückenkaufs oder durch die Restauration, die man durch
@@ -1137,7 +1139,7 @@
             <p>Ich verbessere ihn so: die Zeit selbst ist kahl, und deshalb wird sie bis ans Ende
               der Welt Kahlköpfe in ihrem Gefolge haben.</p>
           </sp>
-          <pb n="17"/>
+          <pb n="18"/>
           <sp who="#antipholus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Ich wußte schon, es würde einen kahlen Schluß geben. Aber still! Was winkt uns dort?
@@ -1181,7 +1183,7 @@
               <l>Mein Blut ist angesteckt von sünd'ger Lust;</l>
               <l>Denn sind wir zwei wie eins, und du bist falsch,</l>
               <l>So wohnt das Gift in meinen Adern auch:</l>
-              <pb n="18"/>
+              <pb n="19"/>
               <l>Von dir berührt, werd' ich zur Buhlerin.</l>
               <l>Drum halt' den Bund! Dem echten Bett sei treu;</l>
               <l>Dann leb' ich rein, und du von Schande frei.</l>
@@ -1264,7 +1266,7 @@
               <l>Und euch geteilte Kraft und Hülfe danken.</l>
               <l>Ach! wuchernd Unkraut wuchs schon übergroß!</l>
               <l>Habsücht'ger Epheu, Dorn, unnützes Moos,</l>
-              <pb n="19"/>
+              <pb n="20"/>
               <l>Das, weil man's nicht vertilgt, mit gift'ger Gärung</l>
               <l>Den Saft dir raubt und droht dem Baum Zerstörung.</l>
             </lg>
@@ -1343,7 +1345,7 @@
               <l>Wir woll'n heut oben speisen, lieber Mann,</l>
               <l>Und tausend Sünden sollst du mir gestehn.</l>
               <l>Bursch, wenn dich jemand fragt nach deinem Herrn,</l>
-              <pb n="20"/>
+              <pb n="21"/>
               <l>Sag, er sei auswärts; laß mir niemand ein!</l>
               <l>Komm, Schwester! Dromio, du behüt' die Schwelle! –</l>
             </lg>
@@ -1373,7 +1375,7 @@
           </sp>
         </div>
       </div>
-      <pb n="21"/>
+      <pb n="22"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -1426,7 +1428,7 @@
               <l>Möge mit meinem Willkomm und Freundesgruß sich messen!</l>
             </lg>
           </sp>
-          <pb n="22"/>
+          <pb n="23"/>
           <sp who="#balthasar">
             <speaker>BALTHASAR.</speaker>
             <l>Oh, über Eure Freundlichkeit kann ich das Mahl vergessen.</l>
@@ -1503,7 +1505,7 @@
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <l>Wer bist du, frecher Schlingel, der mir mein Haus verbietet?</l>
           </sp>
-          <pb n="23"/>
+          <pb n="24"/>
           <sp who="#dromio_von_syrakus">
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Euch aufzuwarten: Dromio, der heut die Pforte hütet.</l>
@@ -1601,7 +1603,7 @@
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <l>Wie, Weib, bist du da drinnen? Was kamst du nicht schon lange?</l>
           </sp>
-          <pb n="24"/>
+          <pb n="25"/>
           <sp who="#adriana">
             <speaker>ADRIANA.</speaker>
             <l>Dein Weib, verwünschter Schurke? Lauf, daß man dich nicht fange!</l>
@@ -1673,7 +1675,7 @@
               <l>Und was den Bock betrifft, den hast du selbst geschossen.</l>
             </lg>
           </sp>
-          <pb n="25"/>
+          <pb n="26"/>
           <sp who="#antipholus_von_ephesus">
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <l>Geh, mach' dich auf, schaff' mir 'nen Hebebaum!</l>
@@ -1725,7 +1727,7 @@
               <l>So heißt das Haus; die goldne Kette schenk' ich,</l>
               <l>Und wär's auch nur, um meine Frau zu ärgern,</l>
               <l>An unsre Wirtin. Eilt Euch, lieber Herr;</l>
-              <pb n="26"/>
+              <pb n="27"/>
               <l>Da mir die eigne Pforte widerstehn will,</l>
               <l>So klopf' ich an, wo man uns nicht verschmähn will.</l>
             </lg>
@@ -1773,7 +1775,7 @@
               <l>Ihr wißt, wie gern ein liebend Herz entschuldigt.</l>
               <l>Drum, lieber Bruder, geht zu ihr hinein,</l>
               <l>Liebkost der Schwester, sprecht ihr freundlich zu:</l>
-              <pb n="27"/>
+              <pb n="28"/>
               <l>'s ist heil'ger Trug, ein wenig falsch zu sein,</l>
               <l>Bringt süßes Schmeichelwort den Geist zur Ruh'.</l>
             </lg>
@@ -1839,7 +1841,7 @@
             <speaker>ANTIPHOLUS VON SYRAKUS.</speaker>
             <l>Der Schwester Schwester!</l>
           </sp>
-          <pb n="28"/>
+          <pb n="29"/>
           <sp who="#luciana">
             <speaker>LUCIANA.</speaker>
             <l>Meine Schwester!</l>
@@ -1918,7 +1920,7 @@
           <sp who="#dromio_von_syrakus">
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Ein sehr respektables Korpus; so eine, von der man nicht reden kann, ohne
-              hinzuzusetzen: »mit <pb n="29"/> Respekt zu melden«. Ich mache nur ein magres Glück
+              hinzuzusetzen: »mit <pb n="30"/> Respekt zu melden«. Ich mache nur ein magres Glück
               bei der Partie, und doch ist's eine erstaunlich fette Heirat.</p>
           </sp>
           <sp who="#antipholus_von_syrakus">
@@ -1991,7 +1993,7 @@
           <sp who="#dromio_von_syrakus">
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Ich suchte nach den Kalkfelsen, aber ich konnte nichts Weißes an ihr entdecken; doch
-              denk' ich, <pb n="30"/> es liegt auf ihrem Kinn, wegen der salzigen Feuchtigkeit, die
+              denk' ich, <pb n="31"/> es liegt auf ihrem Kinn, wegen der salzigen Feuchtigkeit, die
               zwischen ihm und Frankreich fließt.</p>
           </sp>
           <sp who="#antipholus_von_syrakus">
@@ -2053,7 +2055,7 @@
               <l>Drum ist es hohe Zeit, davon zu gehn.</l>
               <l>Die hier Gemahl mich nannte, schafft mir Grau'n,</l>
               <l>Als Frau zu denken; doch die schöne Schwester,</l>
-              <pb n="31"/>
+              <pb n="32"/>
               <l>Begabt mit so viel holdem, mächt'gem Reiz,</l>
               <l>So süßem Zauber in Gespräch und Umgang,</l>
               <l>Macht fast mich zum Verräter an mir selbst. –</l>
@@ -2126,7 +2128,7 @@
           </sp>
         </div>
       </div>
-      <pb n="32"/>
+      <pb n="33"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -2181,7 +2183,7 @@
             </lg>
             <stage>Geht ab.</stage>
           </sp>
-          <pb n="33"/>
+          <pb n="34"/>
           <sp who="#antipholus_von_ephesus">
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <lg>
@@ -2259,7 +2261,7 @@
             <speaker>ANGELO.</speaker>
             <l>Ihr hört, wie er mir lästig wird; die Kette ...</l>
           </sp>
-          <pb n="34"/>
+          <pb n="35"/>
           <sp who="#antipholus_von_ephesus">
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <l>Ei, gebt sie meiner Frau, und holt Eu'r Geld!</l>
@@ -2356,7 +2358,7 @@
               <l>Daß all Eu'r Gold im Laden nicht genügt.</l>
             </lg>
           </sp>
-          <pb n="35"/>
+          <pb n="36"/>
           <sp who="#angelo">
             <speaker>ANGELO.</speaker>
             <lg>
@@ -2430,7 +2432,7 @@
             <stage>Geht ab.</stage>
           </sp>
         </div>
-        <pb n="36"/>
+        <pb n="37"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Zimmer.</stage>
@@ -2525,7 +2527,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Heda! das Pult! den Beutel! Sucht, geschwinde!</l>
           </sp>
-          <pb n="37"/>
+          <pb n="38"/>
           <sp who="#luciana">
             <speaker>LUCIANA.</speaker>
             <l>So atemlos?</l>
@@ -2601,7 +2603,7 @@
               <l>Zwei war es, da ich ging: nun hat's schon eins geschlagen.</l>
             </lg>
           </sp>
-          <pb n="38"/>
+          <pb n="39"/>
           <sp who="#adriana">
             <speaker>ADRIANA.</speaker>
             <l>Gehn jetzt die Stunden rückwärts? Ei, hört mir doch den Gecken!</l>
@@ -2652,7 +2654,7 @@
               <l>Erst eben rief ein Schneider mich ins Haus</l>
               <l>Und zeigte Stoffe, die er mir gekauft,</l>
               <l>Und nahm zugleich das Maß mir ohne weitres.</l>
-              <pb n="39"/>
+              <pb n="40"/>
               <l>Gewiß, Trugbilder sind's der Phantasie,</l>
               <l>Und Lapplands Hexenmeister wohnen hier.</l>
             </lg>
@@ -2712,7 +2714,7 @@
             <speaker>ANTIPHOLUS VON SYRAKUS.</speaker>
             <lg>
               <l>Der Bursch ist ganz verwirrt, das bin ich auch;</l>
-              <pb n="40"/>
+              <pb n="41"/>
               <l>Wir wandern unter Trug und Blendwerk hier;</l>
               <l>Ein guter Geist entführ' uns bald von hinnen! –</l>
             </lg>
@@ -2788,7 +2790,7 @@
             <lg>
               <l>Sonst fodern Teufel wohl ein Stückchen Nagel,</l>
               <l>Ein Haar, 'nen Strohhalm, Tropfen Blut, 'ne Nadel,</l>
-              <pb n="41"/>
+              <pb n="42"/>
               <l>'ne Nuß, 'nen Kirschkern; aber die ist geiz'ger,</l>
               <l>Die will 'ne Kette.</l>
               <l>Nehmt Euch in acht; wenn Ihr die Kette gebt,</l>
@@ -2844,7 +2846,7 @@
               <l>Sei unbesorgt, mein Freund, ich flüchte nicht:</l>
               <l>Ich schaff' dir, eh' ich geh', die ganze Summe</l>
               <l>Und kaufe so mich los von dem Verhaft.</l>
-              <pb n="42"/>
+              <pb n="43"/>
               <l>Mein Weib ist heut in wunderlicher Laune</l>
               <l>Und glaubt gewiß dem Boten nicht so leicht,</l>
               <l>Daß ich gefangen sei in Ephesus;</l>
@@ -2920,7 +2922,7 @@
           <sp who="#dromio_von_ephesus">
             <speaker>DROMIO VON EPHESUS.</speaker>
             <p>Jawohl, ein Esel; so lang werdet Ihr mir die Ohren noch ziehen. – Ich habe ihm von
-              der Stunde meiner Geburt an bis auf diesen Augenblick gedient, und habe <pb n="43"/>
+              der Stunde meiner Geburt an bis auf diesen Augenblick gedient, und habe <pb n="44"/>
               nie etwas davon gehabt, als Schläge. Wenn mich friert, so heizt er mir ein mit
               Schlägen; wenn ich heiß bin, so kühlt er mich ab mit Schlägen; ich werde damit
               geweckt, wenn ich schlafe, auf die Beine gebracht, wenn ich sitze, aus der Tür gejagt,
@@ -2994,7 +2996,7 @@
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <lg>
               <l>Sag, Schätzchen, sag: sind das die werten Freunde?</l>
-              <pb n="44"/>
+              <pb n="45"/>
               <l>Die safrangelbe Fratze, schmauste sie</l>
               <l>Und zecht' an meinem Tische heut bei dir,</l>
               <l>Indes sich mir die sünd'ge Pforte schloß</l>
@@ -3081,7 +3083,7 @@
               <l>Doch Geld, mein' Seel'! empfing ich keinen Heller.</l>
             </lg>
           </sp>
-          <pb n="45"/>
+          <pb n="46"/>
           <sp who="#antipholus_von_ephesus">
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <l>Gingst du nicht hin, die Börse Gold zu holen?</l>
@@ -3180,7 +3182,7 @@
               <l>Sich selber in Verdruß und Unglück bringt?</l>
             </lg>
           </sp>
-          <pb n="46"/>
+          <pb n="47"/>
           <sp who="#schliesser">
             <speaker>SCHLIESSER.</speaker>
             <lg>
@@ -3277,7 +3279,7 @@
             <speaker>LUCIANA.</speaker>
             <l>Gott sei uns gnädig; sie sind wieder los!</l>
           </sp>
-          <pb n="47"/>
+          <pb n="48"/>
           <sp who="#adriana">
             <speaker>ADRIANA.</speaker>
             <lg>
@@ -3323,7 +3325,7 @@
           </sp>
         </div>
       </div>
-      <pb n="48"/>
+      <pb n="49"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -3378,7 +3380,7 @@
             <speaker>ANTIPHOLUS VON SYRAKUS.</speaker>
             <l>Mich dünkt, von Euch; noch hab' ich's nie geleugnet.</l>
           </sp>
-          <pb n="49"/>
+          <pb n="50"/>
           <sp who="#kaufmann">
             <speaker>KAUFMANN.</speaker>
             <l>O ja, Ihr tatet's, Herr, und schwurt sogar!</l>
@@ -3470,7 +3472,7 @@
               <l>An welcher dieser Sorgen liegt er krank? –</l>
             </lg>
           </sp>
-          <pb n="50"/>
+          <pb n="51"/>
           <sp who="#adriana">
             <speaker>ADRIANA.</speaker>
             <lg>
@@ -3549,7 +3551,7 @@
               <l>Hörst du den Tadel ruhig an und schweigst?</l>
             </lg>
           </sp>
-          <pb n="51"/>
+          <pb n="52"/>
           <sp who="#adriana">
             <speaker>ADRIANA.</speaker>
             <lg>
@@ -3639,7 +3641,7 @@
             <speaker>KAUFMANN.</speaker>
             <lg>
               <l>Um einen würd'gen Syrakuser Kaufmann,</l>
-              <pb n="52"/>
+              <pb n="53"/>
               <l>Der wider dieser Stadt Gesetz und Recht</l>
               <l>Zu seinem Unglück in den Hafen lief,</l>
               <l>Vor allem Volk enthaupten hier zu sehn.</l>
@@ -3703,7 +3705,7 @@
               <l>Und nun schließt die Äbtissin uns die Pforte</l>
               <l>Und will uns nicht gestatten, ihn zu holen,</l>
               <l>Noch selbst ihn senden, um ihn heim zu schaffen.</l>
-              <pb n="53"/>
+              <pb n="54"/>
               <l>Deshalb, o edler Herzog, gib Befehl,</l>
               <l>Ihn auszuliefern, daß ihm Hülfe werde!</l>
             </lg>
@@ -3769,7 +3771,7 @@
             </lg>
             <stage>Antipholus von Ephesus und Dromio von Ephesus treten auf.</stage>
           </sp>
-          <pb n="54"/>
+          <pb n="55"/>
           <sp who="#antipholus_von_ephesus">
             <speaker>ANTIPHOLUS VON EPHESUS.</speaker>
             <lg>
@@ -3850,7 +3852,7 @@
               <l>Könnt' es bezeugen, denn er war dabei</l>
               <l>Und ging dann, eine Kette mir zu holen,</l>
               <l>Wo Balthasar und ich zusammen aßen.</l>
-              <pb n="55"/>
+              <pb n="56"/>
               <l>Als wir gespeist und er nicht wieder kam,</l>
               <l>Sucht' ich ihn auf; ich traf ihn auf der Straße</l>
               <l>Und in Gesellschaft jenes andern Herrn.</l>
@@ -3907,7 +3909,7 @@
             <lg>
               <l>Zudem versichr' ich: hier mit eignen Ohren</l>
               <l>Hört' ich Euch eingestehn der Kett' Empfang,</l>
-              <pb n="56"/>
+              <pb n="57"/>
               <l>Nachdem Ihr's auf dem Markt erst abgeleugnet,</l>
               <l>Und deshalb zog ich gegen Euch den Degen.</l>
               <l>Darauf verbargt Ihr Euch in der Abtei,</l>
@@ -3998,7 +4000,7 @@
             <speaker>DROMIO VON EPHESUS.</speaker>
             <lg>
               <l>An uns sind wir durch Euch erinnert, Herr,</l>
-              <pb n="57"/>
+              <pb n="58"/>
               <l>Denn jüngst noch waren wir gleich Euch gebunden.</l>
               <l>Hat Zwick Euch in der Kur? Ich will nicht hoffen.</l>
             </lg>
@@ -4085,7 +4087,7 @@
             <speaker>HERZOG.</speaker>
             <lg>
               <l>Ich sag' dir, Syrakuser, zwanzig Jahr</l>
-              <pb n="58"/>
+              <pb n="59"/>
               <l>Lebt' unter meinem Schutz Antipholus</l>
               <l>Und war seitdem noch nie in Syrakus;</l>
               <l>Dich macht Gefahr und Alter, scheint mir, kindisch.</l>
@@ -4161,7 +4163,7 @@
             <speaker>HERZOG.</speaker>
             <lg>
               <l>Das paßt ja zu der Mär von heute morgen!</l>
-              <pb n="59"/>
+              <pb n="60"/>
               <l>Die zwei Antipholus, so täuschend gleich,</l>
               <l>Und die zwei Dromio, <emph>eins</emph> dem Ansehn nach;</l>
               <l>Dazu der Schiffbruch, dessen sie gedenkt! –</l>
@@ -4252,7 +4254,7 @@
               <l>Die Börse mit Dukaten kam an mich,</l>
               <l>Und Dromio, mein Diener, gab sie mir;</l>
               <l>Ich seh', wir trafen stets des andern Diener,</l>
-              <pb n="60"/>
+              <pb n="61"/>
               <l>Und mich hielt man für ihn, wie ihn für mich;</l>
               <l>Daraus entstanden diese Irrungen.</l>
             </lg>
@@ -4326,7 +4328,7 @@
               <l>Wird meine Schwester nun, nicht meine Frau? –</l>
             </lg>
           </sp>
-          <pb n="61"/>
+          <pb n="62"/>
           <sp who="#dromio_von_ephesus">
             <speaker>DROMIO VON EPHESUS.</speaker>
             <lg>

@@ -80,6 +80,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="301"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -94,7 +95,7 @@
         <castItem>Perikles, Fürst von Tyrus</castItem>
         <castGroup>
           <castItem>Helicanus</castItem>
-          <castItem>Escanes,</castItem>
+          <castItem>Escanes</castItem>
           <roleDesc>Hofleute aus Tyrus</roleDesc>
         </castGroup>
         <castItem>Simonides, König von Pentapolis</castItem>
@@ -115,14 +116,13 @@
         <castItem>Lychorida, Marinas Amme</castItem>
         <castItem>Diana</castItem>
         <castItem>Eine Kupplerin</castItem>
-        <castItem>Hofleute, Ritter, Matrosen,</castItem>
-        <castItem>Seeräuber, Fischer, Boten</castItem>
+        <castItem>Hofleute, Ritter, Matrosen, Seeräuber, Fischer, Boten</castItem>
       </castList>
       <set>
         <p>Die Szene ist in verschiedenen Ländern</p>
       </set>
     </front>
-    <pb n="302"/>
+    <pb n="303"/>
     <body>
       <div type="act">
         <head>Erster Akt</head>
@@ -159,7 +159,7 @@
               <l>Davon der Vater ward gerührt,</l>
               <l>Und zur Blutschande sie verführt.</l>
               <l>Schlimm Kind, und bös'rer Vater, eigen Blut</l>
-              <pb n="303"/>
+              <pb n="304"/>
               <l>Zu reizen, daß es also übel tut!</l>
               <l>Gewohnheit bald sie dahin bracht,</l>
               <l>Daß es nicht Sünde ward geacht't.</l>
@@ -217,7 +217,7 @@
               <l>Dient jeder Preis, der Menschen herrlich macht:</l>
               <l>Im Angesicht, dem Buch der Schönheit, liest</l>
               <l>Man nur die feinste Lust, als sei von dort</l>
-              <pb n="304"/>
+              <pb n="305"/>
               <l>Der Gram vertilgt auf immer, mürrisch Zürnen</l>
               <l>Auf ewig unbekannt dem heitern Blick.</l>
               <l>Götter, die ihr in Liebe herrscht, mich schuft,</l>
@@ -272,7 +272,7 @@
               <l>Mein Reichtum sei der Erde, die ihn gab,</l>
               <l>Doch dir die reine Flamme meiner Liebe.</l>
               <l>Bereitet so zu Leben oder Tod,</l>
-              <pb n="305"/>
+              <pb n="306"/>
               <l>Erwart' ich nun den Schlag, Antiochus,</l>
               <l>Vorsicht verschmähend; laß das Blatt mich lesen.</l>
             </lg>
@@ -339,7 +339,7 @@
             <lg>
               <l>Monarch! Ungern hört man die Sünde, gern getan,</l>
               <l>Ich schölte Euch zu arg, wenn ich es sagte:</l>
-              <pb n="306"/>
+              <pb n="307"/>
               <l>Wer in ein Buch verfaßt, was Kön'ge tun,</l>
               <l>Verschließt es sichrer wohl, als er es zeigt;</l>
               <l>Erzähltes Laster fährt wie Wind dahin,</l>
@@ -388,7 +388,7 @@
               <l>Wo du nun beides, Vater bist und Sohn,</l>
               <l>Dein eigen Kind gottlos in Armen hältst,</l>
               <l>(Die Freude, die dem Mann, nicht Vater ziemt)</l>
-              <pb n="307"/>
+              <pb n="308"/>
               <l>Und sie sich nährt von ihrer Mutter Fleisch,</l>
               <l>Da sie das elterliche Bett entehrt,</l>
               <l>Und beide Schlangen gleich, die schöne Blüten</l>
@@ -448,7 +448,7 @@
             <l>Nun genug.</l>
             <stage>Ein Bote kommt.</stage>
           </sp>
-          <pb n="308"/>
+          <pb n="309"/>
           <sp who="#antiochus">
             <speaker>ANTIOCHUS.</speaker>
             <l>Kühl' deinen Atem, sage deine Eil.</l>
@@ -511,7 +511,7 @@
               <l>Setzt durch in Übermacht, was er nur will,</l>
               <l>Er meint, ich spreche, schwör' ich gleich zu schweigen;</l>
               <l>Mir frommt nicht, daß ich sag', ich ehre ihn,</l>
-              <pb n="309"/>
+              <pb n="310"/>
               <l>Hat er Verdacht, ich möchte ihn entehren;</l>
               <l>Was ihn erröten mag, wird es bekannt.</l>
               <l>Rät Wegräumung, wodurch es wird bekannt,</l>
@@ -578,7 +578,7 @@
               <l>Wie darf dein Wort solch' Zürnen dort erregen?</l>
             </lg>
           </sp>
-          <pb n="310"/>
+          <pb n="311"/>
           <sp who="#helicanus">
             <speaker>HELICANUS.</speaker>
             <lg>
@@ -639,7 +639,7 @@
               <l>Wie mancher Fürsten Blut vergossen ward,</l>
               <l>Das Lager seiner Gräuel zu verbergen. –</l>
               <l>Zu töten diese Furcht, bringt er ein Heer,</l>
-              <pb n="311"/>
+              <pb n="312"/>
               <l>Schützt Kränkung vor, die ich ihm angetan;</l>
               <l>Dann büßt mein Fehlen, (wenn man es so nennt)</l>
               <l>Das Volk im Krieg, der keine Unschuld kennt;</l>
@@ -707,7 +707,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="312"/>
+        <pb n="313"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Thaliard tritt auf.</stage>
@@ -777,7 +777,7 @@
             <speaker>HELICANUS.</speaker>
             <l>Gegrüßt, Lord Thaliard, von Antiochus!</l>
           </sp>
-          <pb n="313"/>
+          <pb n="314"/>
           <sp who="#thaliard">
             <speaker>THALIARD.</speaker>
             <lg>
@@ -846,7 +846,7 @@
               <l>Tharsus allhier, des Statthalter ich bin,</l>
               <l>Sonst von des Überflusses Hand gesegnet,</l>
               <l>Des Reichtum selber in den Straßen lag,</l>
-              <pb n="314"/>
+              <pb n="315"/>
               <l>Des Türme hochgebaut die Wolken küßten,</l>
               <l>Daß jeder Fremde staunte, der es sah;</l>
               <l>Des Herrn und Frau'n im bunten Schmuck sich spreizten,</l>
@@ -910,7 +910,7 @@
               <l>Denn allzufern ist Trost für uns und Hoffnung.</l>
             </lg>
           </sp>
-          <pb n="315"/>
+          <pb n="316"/>
           <sp who="#lord">
             <speaker>LORD.</speaker>
             <lg>
@@ -979,7 +979,7 @@
               <l>Und diese unsre Schiffe, die Ihr wohl</l>
               <l>Wie der Trojaner Pferd gefüllet meint</l>
               <l>Mit blut'ger Feindschaft, drohendem Verderben,</l>
-              <pb n="316"/>
+              <pb n="317"/>
               <l>Sie bringen Korn, und, was Euch höchlich not,</l>
               <l>Den Halberstorb'nen Leben mit und Brot.</l>
             </lg>
@@ -1020,7 +1020,7 @@
           </sp>
         </div>
       </div>
-      <pb n="317"/>
+      <pb n="318"/>
       <div type="act">
         <head>Zweiter Akt</head>
         <div type="scene">
@@ -1062,7 +1062,7 @@
               <l>Schmaus't nicht, wie Drohnen, Honigseim</l>
               <l>Der andern Bienen, sein Bestreben</l>
               <l>Ist, Bös ertöten, Gut beleben.</l>
-              <pb n="318"/>
+              <pb n="319"/>
               <l>Zu tun, was ihm sein Fürst befahl,</l>
               <l>Schreibt er ihm, was gescheh'n zumal:</l>
               <l>Wie Thaliard kam mit bösem Sinn,</l>
@@ -1107,7 +1107,7 @@
             </lg>
             <stage>Drei Fischer treten auf.</stage>
           </sp>
-          <pb n="319"/>
+          <pb n="320"/>
           <sp who="#erster_fischer">
             <speaker>ERSTER FISCHER.</speaker>
             <p>He! Leder-Wams!</p>
@@ -1180,7 +1180,7 @@
             <stage>beiseit.</stage>
             <p>Simonides?</p>
           </sp>
-          <pb n="320"/>
+          <pb n="321"/>
           <sp who="#dritter_fischer">
             <speaker>DRITTER FISCHER.</speaker>
             <p>Dann wollten wir das Land schon von diesen Drohnen reinigen, die den Bienen ihren
@@ -1253,7 +1253,7 @@
             <p>Sterben sagt er? Das sollen die Götter verhüten! Hier hab' ich einen Mantel; komm,
               zieh' ihn an! Halt' dich warm. Nun, meiner Seel', ein recht hübscher Mensch! Komm, du
               sollst mit mir geh'n, du sollst Fleisch haben für alle Tage, Fische an den Fasttagen,
-              und noch etwas <pb n="321"/> mehr, oder Pudding und Eierkuchen, und herzlich sollst du
+              und noch etwas <pb n="322"/> mehr, oder Pudding und Eierkuchen, und herzlich sollst du
               mir willkommen sein.</p>
           </sp>
           <sp who="#perikles">
@@ -1340,7 +1340,7 @@
           <sp who="#zweiter_fischer">
             <speaker>ZWEITER FISCHER.</speaker>
             <p>Helft, Meister, helft! Hier hängt ein Fisch im Netz, wie das Recht eines Armen im
-              Prozeß; gar nicht <pb n="322"/> heraus zu kriegen. – Ha! Daß dich der Geier! Nun
+              Prozeß; gar nicht <pb n="323"/> heraus zu kriegen. – Ha! Daß dich der Geier! Nun
               kommt's endlich, und ist eine rostige Waffenrüstung.</p>
           </sp>
           <sp who="#perikles">
@@ -1404,7 +1404,7 @@
               <l>Das werd' ich,</l>
               <l>Durch euch bin ich in Stahl nunmehr gekleidet,</l>
               <l>Und allem wilden Raub der See zum Trotz</l>
-              <pb n="323"/>
+              <pb n="324"/>
               <l>Halt' ich dies Kleinod noch an meinem Arm;</l>
               <l>Sein Wert soll mich alsbald beritten machen,</l>
               <l>Auf einem Renner, der mit schnellen Sprüngen</l>
@@ -1485,7 +1485,7 @@
               <l>Das Wort: Lux tua vita mihi.</l>
             </lg>
           </sp>
-          <pb n="324"/>
+          <pb n="325"/>
           <sp who="#simonides">
             <speaker>SIMONIDES.</speaker>
             <l>Sehr liebt dich, wer nur Leben von dir hat.</l>
@@ -1571,7 +1571,7 @@
             <lg>
               <l>Und wohl bedarf er, daß was andres, als</l>
               <l>Sein Äußeres zu seinem Besten spricht:</l>
-              <pb n="325"/>
+              <pb n="326"/>
               <l>Denn so verrostet scheint es, daß er wohl</l>
               <l>Die Peitsche statt der Lanze sonst geschwungen.</l>
             </lg>
@@ -1648,7 +1648,7 @@
             <speaker>DIE RITTER.</speaker>
             <l>Sehr hoch ehrt uns Simonides der Gute.</l>
           </sp>
-          <pb n="326"/>
+          <pb n="327"/>
           <sp who="#simonides">
             <speaker>SIMONIDES.</speaker>
             <lg>
@@ -1746,7 +1746,7 @@
             <lg>
               <l>Noch haltet an!</l>
               <l>Mich dünkt, der Ritter dort ist allzu traurig,</l>
-              <pb n="327"/>
+              <pb n="328"/>
               <l>Als wäre seinem Werte zu gering</l>
               <l>Die Festlichkeit an unserm Hofe hier.</l>
               <l>Thaisa, siehst du's nicht?</l>
@@ -1841,7 +1841,7 @@
               <l>Und will aus seiner Trauer ihn erwecken. –</l>
               <l>Ihr Herren, kömmt, wir sitzen allzu lange,</l>
               <l>Die Zeit vergeht, es wartet andre Lust,</l>
-              <pb n="328"/>
+              <pb n="329"/>
               <l>In eurer Rüstung, wie ihr seid gekleidet,</l>
               <l>Wird gut ein kriegerischer Tanz sich schicken:</l>
               <l>Und kein Entschuld'gen gilt, daß ihr wohl sagt,</l>
@@ -1902,7 +1902,7 @@
               <l>Zurückzuhalten mehr die grause Strafe,</l>
               <l>Die solchen schrecklichen Verbrechen ziemt,</l>
               <l>Grad' als er in dem Stolz all' seines Pomps</l>
-              <pb n="329"/>
+              <pb n="330"/>
               <l>Auf einem Wagen saß, unschätzbar köstlich,</l>
               <l>Die Tochter mit ihm, Feu'r vom Himmel sandten,</l>
               <l>Das beide so versengte, daß sie allen</l>
@@ -1995,7 +1995,7 @@
             <lg>
               <l>Der Ehre folgt, und laßt die Huldigung,</l>
               <l>Laßt dies, liebt ihr den Fürsten Perikles. –</l>
-              <pb n="330"/>
+              <pb n="331"/>
               <l>(Nähm' ich es an, ich spräng' in eine See,</l>
               <l>Wo Lust des Augenblicks für Stunden Weh)</l>
               <l>Zwölf Monat länger, laßt mich euch erbitten,</l>
@@ -2062,7 +2062,7 @@
             <l>Wir nehmen Urlaub, traurig, so zu scheiden.</l>
             <stage>Sie gehn ab.</stage>
           </sp>
-          <pb n="331"/>
+          <pb n="332"/>
           <sp who="#simonides">
             <speaker>SIMONIDES.</speaker>
             <lg>
@@ -2159,7 +2159,7 @@
               <l>Ein Niederträcht'ger.</l>
             </lg>
           </sp>
-          <pb n="332"/>
+          <pb n="333"/>
           <sp who="#perikles">
             <speaker>PERIKLES.</speaker>
             <lg>
@@ -2240,7 +2240,7 @@
               <l>Wo nicht, so mach' ich euch – zu Mann und Frau! –</l>
               <l>Kommt, Händ' und Lippen müssen's auch besiegeln,</l>
               <l>Und so vereint, stör' ich so eure Hoffnung.</l>
-              <pb n="333"/>
+              <pb n="334"/>
               <l>Zur Strafe denn – Gott geb' euch viele Freude!</l>
               <l>Nun, seid ihr glücklich?</l>
             </lg>
@@ -2271,7 +2271,7 @@
           </sp>
         </div>
       </div>
-      <pb n="334"/>
+      <pb n="335"/>
       <div type="act">
         <head>Dritter Akt</head>
         <div type="scene">
@@ -2312,7 +2312,7 @@
               <l>In Ecken vier, durch die die Welt</l>
               <l>Sich gegensteh'nd zusammenhält;</l>
               <l>Es ist daran gespart kein Fleiß,</l>
-              <pb n="335"/>
+              <pb n="336"/>
               <l>Was Roß' und Schiff', und Geld und Schweiß</l>
               <l>Vermocht; endlich von Tyrus dann,</l>
               <l>Weil scharf die Nachsuchung getan,</l>
@@ -2351,7 +2351,7 @@
               <l>Nichts sag' ich mehr, in Handlung kann</l>
               <l>Das andere leichtlich sein getan,</l>
               <l>Nicht, was ich euch bis jetzt erzählt,</l>
-              <pb n="336"/>
+              <pb n="337"/>
               <l>Wenn Einbildung nur fest behält:</l>
               <l>Die Bühn' ist Schiff, und vom Verdecke</l>
               <l>Spricht Perikles, der seebestürmte Recke.</l>
@@ -2417,7 +2417,7 @@
             <speaker>LYCHORIDA.</speaker>
             <l>Geduldig, Herr, um diese Eure Sorge.</l>
           </sp>
-          <pb n="337"/>
+          <pb n="338"/>
           <sp who="#perikles">
             <speaker>PERIKLES.</speaker>
             <lg>
@@ -2489,7 +2489,7 @@
               <l>Nicht Licht, nicht Feu'r; die wilden Elemente</l>
               <l>Vergaßen dich so ganz, auch fehlt mir Zeit,</l>
               <l>Geweiht dich in dein Grab zu legen; stracks,</l>
-              <pb n="338"/>
+              <pb n="339"/>
               <l>Kaum eingesargt, werf' ich dich in die Flut,</l>
               <l>Wo statt des Monuments auf deiner Leiche,</l>
               <l>Statt Lampen, über dir der Walfisch wälzt,</l>
@@ -2563,7 +2563,7 @@
               <l>Hab' ich nie überstanden.</l>
             </lg>
           </sp>
-          <pb n="339"/>
+          <pb n="340"/>
           <sp who="#cerimon">
             <speaker>CERIMON.</speaker>
             <lg>
@@ -2636,7 +2636,7 @@
               <l>So mag ich alle Störungen erkennen,</l>
               <l>Die die Natur bewirkt und ihre Heilung;</l>
               <l>Dies gibt mir größere Lust in wahrer Freude,</l>
-              <pb n="340"/>
+              <pb n="341"/>
               <l>Als nach der Ungewissen Ehre dürsten,</l>
               <l>In seid'ne Beutel mein Vergnügen binden,</l>
               <l>Damit mich Narr und Tod verlachen.</l>
@@ -2733,7 +2733,7 @@
               <l>Apollo, laß die Züge mich versteh'n!</l>
               <l>Durch die Schrift sei es bekannt,</l>
               <l>Kommt dieser Sarg jemals zu Land:</l>
-              <pb n="341"/>
+              <pb n="342"/>
               <l>Mir, Perikles, starb sie zu Leid,</l>
               <l>Die mehr mir als Weltkostbarkeit.</l>
               <l>Ein Grab bereit' ihr, wer sie find't,</l>
@@ -2792,7 +2792,7 @@
               <l>Die Perikles verlor, zerteilen schon</l>
               <l>Die Säume hellen Golds; die Diamanten</l>
               <l>Vom allerreinsten Wasser zeigen sich,</l>
-              <pb n="342"/>
+              <pb n="343"/>
               <l>Kostbar die Welt zu machen; leb' und laß uns weinen</l>
               <l>Dein Schicksal, schönes Bild, von dir zu hören.</l>
             </lg>
@@ -2870,7 +2870,7 @@
               <l>Sorgt, mein König, nicht, Ihr habt</l>
               <l>Mit Eurem Korne dieses Land gespeis't,</l>
               <l>Wofür das Volk Euch täglich Segen ruft:</l>
-              <pb n="343"/>
+              <pb n="344"/>
               <l>Dies wird in Eurem Kind vergolten; wär' ich</l>
               <l>So schlecht, es zu versäumen, zwänge mich</l>
               <l>Das Land, das Ihr erlöst, zu meiner Pflicht;</l>
@@ -2941,7 +2941,7 @@
               <l>Daß ich ward eingeschifft, erinnr' ich mich,</l>
               <l>Auch meiner Weh'n, doch ob ich ward entbunden,</l>
               <l>Das, bei den hohen Göttern, weiß ich nicht;</l>
-              <pb n="344"/>
+              <pb n="345"/>
               <l>Doch, da ich niemals wieder seh' den mir</l>
               <l>Vermählten König Perikles, will ich</l>
               <l>Gehn in Vestalentracht, mich nie mehr freu'n.</l>
@@ -2967,7 +2967,7 @@
           </sp>
         </div>
       </div>
-      <pb n="345"/>
+      <pb n="346"/>
       <div type="act">
         <head>Vierter Akt</head>
         <div type="scene">
@@ -3003,7 +3003,7 @@
               <l>Oder daß sie in den Saiten rauschte</l>
               <l>Und sang, daß selbst die Nacht'gall lauschte,</l>
               <l>Die immer Klage tönt; auch wie</l>
-              <pb n="346"/>
+              <pb n="347"/>
               <l>Ihr reicher Griffel dichtete</l>
               <l>Dianen, ihre Herrin – stritt</l>
               <l>Auch Philoten in allem mit;</l>
@@ -3049,7 +3049,7 @@
               <l>Standhaftigkeit erzeige als Soldat.</l>
             </lg>
           </sp>
-          <pb n="347"/>
+          <pb n="348"/>
           <sp who="#leonin">
             <speaker>LEONIN.</speaker>
             <l>Ich tu's! doch ist sie wohl ein trefflich Wesen.</l>
@@ -3122,7 +3122,7 @@
             <speaker>DIONYSA.</speaker>
             <lg>
               <l>Komm, komm, ich weiß, es ist dir gut.</l>
-              <pb n="348"/>
+              <pb n="349"/>
               <l>Geh, Leonin, 'ne halbe Stunde mind'stens.</l>
               <l>Vergiß nicht, was ich sagte.</l>
             </lg>
@@ -3216,7 +3216,7 @@
               <l>In meinem Leben ihr kein Leid getan.</l>
               <l>Sprach kein schlimm Wort, tat keinem lebenden</l>
               <l>Geschöpfe Harm, das glaubt mir auf mein Wort;</l>
-              <pb n="349"/>
+              <pb n="350"/>
               <l>Kein Mäuschen macht' ich tot, kränkt' keine Fliege;</l>
               <l>Mal trat ich auf 'nen Wurm, ohn' meinen Willen,</l>
               <l>Und weinte drum; wie hab' ich mich vergangen,</l>
@@ -3286,7 +3286,7 @@
             <stage>Geht ab.</stage>
           </sp>
         </div>
-        <pb n="350"/>
+        <pb n="351"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Ein Kuppler, Bolz und die Kupplerin treten herein.</stage>
@@ -3355,7 +3355,7 @@
             <p>Ja, wenn unser Kredit nur mit der Ware frisch würde, oder sich die Ware nur mit der
               Gefahr gleich hielte! Wenn wir also in unsern jungen Tagen ein hübsches Vermögen
               zusammenscharren könnten, so möchten wir nachher nur die Bude schließen. Außerdem
-              sollte uns auch, daß wir <pb n="351"/> bei den Göttern so schlecht angeschrieben
+              sollte uns auch, daß wir <pb n="352"/> bei den Göttern so schlecht angeschrieben
               stehen, antreiben, die Sache aufzugeben.</p>
           </sp>
           <sp who="#kupplerin">
@@ -3434,7 +3434,7 @@
             <speaker>MARINA.</speaker>
             <p>Daß ich hübsch bin.</p>
           </sp>
-          <pb n="352"/>
+          <pb n="353"/>
           <sp who="#kupplerin">
             <speaker>KUPPLERIN.</speaker>
             <p>Laß gut sein, die Götter haben das Ihrige an dir getan.</p>
@@ -3515,7 +3515,7 @@
             <speaker>KUPPLERIN.</speaker>
             <p>Den haben wir morgen mit seiner besten Halskrause hier.</p>
           </sp>
-          <pb n="353"/>
+          <pb n="354"/>
           <sp who="#bolz">
             <speaker>BOLZ.</speaker>
             <p>Heut abend, heut abend; aber Frau, Ihr kennt doch den französischen Ritter, der mit
@@ -3589,7 +3589,7 @@
             <speaker>KUPPLERIN.</speaker>
             <p>Bolz, da, verzehre das in der Stadt; sage, welche Ware wir haben; du wirst bei der
               Kundschaft nichts verlieren. Als die Natur dies Ding erschuf, hatte sie es gut mit dir
-                <pb n="354"/> vor, darum erzähle nur von ihrer Herrlichkeit, und aus deinen Reden
+                <pb n="355"/> vor, darum erzähle nur von ihrer Herrlichkeit, und aus deinen Reden
               wird eine Ernte für dich.</p>
           </sp>
           <sp who="#bolz">
@@ -3663,7 +3663,7 @@
             <speaker>CLEON.</speaker>
             <lg>
               <l>Gewiß,</l>
-              <pb n="355"/>
+              <pb n="356"/>
               <l>Von allen Sünden unterm Himmel, zürnen</l>
               <l>Zumeist die Götter dieser.</l>
             </lg>
@@ -3738,7 +3738,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="356"/>
+        <pb n="357"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>Gower tritt ein.</stage>
@@ -3786,7 +3786,7 @@
               <l>Sein Haar, und wäscht nicht mehr sein Angesicht;</l>
               <l>Er sitzt im Trauerkleid, ein Sturm her wettert,</l>
               <l>Der fast sein sterbliches Gefäß zerschmettert,</l>
-              <pb n="357"/>
+              <pb n="358"/>
               <l>Er merkt ihn kaum. Nun mögt ihr hören jetzt</l>
               <l>Die Grabschrift, die Marinen hat gesetzt</l>
               <l>Die böse Dionysa:</l>
@@ -3840,7 +3840,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="358"/>
+        <pb n="359"/>
         <div type="scene">
           <head>Achte Szene</head>
           <stage>Kuppler, Kupplerin, Bolz.</stage>
@@ -3909,7 +3909,7 @@
             <speaker>KUPPLERIN.</speaker>
             <p>Der gnädige Herr weiß wohl von selbst, was die Meinung ist.</p>
           </sp>
-          <pb n="359"/>
+          <pb n="360"/>
           <sp who="#lysimachus">
             <speaker>LYSIMACHUS.</speaker>
             <p>Nun, rufe sie, rufe sie.</p>
@@ -3992,7 +3992,7 @@
             <speaker>LYSIMACHUS.</speaker>
             <p>Nun, du hübsches Ding, seit wie lange bist du bei diesem Gewerbe?</p>
           </sp>
-          <pb n="360"/>
+          <pb n="361"/>
           <sp who="#marina">
             <speaker>MARINA.</speaker>
             <p>Welchem Gewerbe, Herr?</p>
@@ -4072,7 +4072,7 @@
               <l>Der fliegt in reiner Luft.</l>
             </lg>
           </sp>
-          <pb n="361"/>
+          <pb n="362"/>
           <sp who="#lysimachus">
             <speaker>LYSIMACHUS.</speaker>
             <lg>
@@ -4146,7 +4146,7 @@
             <speaker>KUPPLERIN.</speaker>
             <p>O, abscheulich!</p>
           </sp>
-          <pb n="362"/>
+          <pb n="363"/>
           <sp who="#bolz">
             <speaker>BOLZ.</speaker>
             <p>Sie macht unsre Hantierung gleichsam stinkend vor dem Angesichte der Götter.</p>
@@ -4231,7 +4231,7 @@
               eines Beines dienen kann und am Ende nicht Geld genug hat, um sich ein hölzernes zu
               kaufen?</p>
           </sp>
-          <pb n="363"/>
+          <pb n="364"/>
           <sp who="#marina">
             <speaker>MARINA.</speaker>
             <lg>
@@ -4283,7 +4283,7 @@
           </sp>
         </div>
       </div>
-      <pb n="364"/>
+      <pb n="365"/>
       <div type="act">
         <head>Fünfter Akt</head>
         <div type="scene">
@@ -4320,7 +4320,7 @@
             <stage>Geht ab.</stage>
           </sp>
         </div>
-        <pb n="365"/>
+        <pb n="366"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Zwei Matrosen treten auf</stage>
@@ -4422,7 +4422,7 @@
               <l>Mit niemand.</l>
             </lg>
           </sp>
-          <pb n="366"/>
+          <pb n="367"/>
           <sp who="#lysimachus">
             <speaker>LYSIMACHUS.</speaker>
             <l>Doch gewährt mir meinen Wunsch.</l>
@@ -4506,7 +4506,7 @@
               <l>Ist sie nicht trefflich?</l>
             </lg>
           </sp>
-          <pb n="367"/>
+          <pb n="368"/>
           <sp who="#helicanus">
             <speaker>HELICANUS.</speaker>
             <l>Lieblich anzuschau'n.</l>
@@ -4587,7 +4587,7 @@
             </lg>
             <stage>Er stößt sie heftig von sich.</stage>
           </sp>
-          <pb n="368"/>
+          <pb n="369"/>
           <sp who="#marina">
             <speaker>MARINA.</speaker>
             <lg>
@@ -4672,7 +4672,7 @@
             <lg>
               <l>So nenne dein Geschlecht; mir dünkt, du sagtest,</l>
               <l>Es sei dir Schmach und Kränkung widerfahren;</l>
-              <pb n="369"/>
+              <pb n="370"/>
               <l>Du meintest, daß dein Leid wohl meinem gliche,</l>
               <l>Wenn beide kund.</l>
             </lg>
@@ -4772,7 +4772,7 @@
             <speaker>MARINA.</speaker>
             <lg>
               <l>Sie war die Tochter eines Königes,</l>
-              <pb n="370"/>
+              <pb n="371"/>
               <l>Sie starb im Augenblick, als ich geboren,</l>
               <l>Wie mir mit Tränen oft die gute Amme</l>
               <l>Lychorida erzählt'.</l>
@@ -4855,7 +4855,7 @@
             <lg>
               <l>O Helicanus, schlag' mich, edler Freund!</l>
               <l>Verwunde mich, mach' mir fühlbaren Schmerz,</l>
-              <pb n="371"/>
+              <pb n="372"/>
               <l>Daß nicht dies Freudenmeer, das auf mich stürzt,</l>
               <l>Die Ufer meines Lebens überschwelle,</l>
               <l>Und mich in Lust ertränk'. – O komm hierher,</l>
@@ -4927,7 +4927,7 @@
             <speaker>HELICANUS.</speaker>
             <l>Ich höre keine.</l>
           </sp>
-          <pb n="372"/>
+          <pb n="373"/>
           <sp who="#perikles">
             <speaker>PERIKLES.</speaker>
             <l>Nicht? – Die Musik der Sphären. – Horch, Marina!</l>
@@ -5020,7 +5020,7 @@
             <stage>Alle gehn ab.</stage>
           </sp>
         </div>
-        <pb n="373"/>
+        <pb n="374"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Gower tritt auf.</stage>
@@ -5066,7 +5066,7 @@
               <l>Sie starb zur See im Kindbett, doch gebar sie</l>
               <l>Ein Töchterlein, Marina, die, o Göttin,</l>
               <l>In deiner Silbertracht noch geht. Zu Tharsus</l>
-              <pb n="374"/>
+              <pb n="375"/>
               <l>Erzog sie Cleon, der vor vierzehn Jahren</l>
               <l>Sie zu ermorden strebte; bessere Sterne</l>
               <l>Geleiteten nach Mitylene sie,</l>
@@ -5165,7 +5165,7 @@
             <lg>
               <l>Jaja, – nicht mehr, ihr Götter – Eu're Güte</l>
               <l>Macht nur zum Scherz vergangnes Leid; o laßt mich</l>
-              <pb n="375"/>
+              <pb n="376"/>
               <l>Gleich, wenn ich ihren Mund berühre, schmelzen,</l>
               <l>Hinschwinden ganz! Komm, sei begraben denn</l>
               <l>Zum zweiten Male an dieser Brust!</l>
@@ -5256,7 +5256,7 @@
               <l>Weih' ich dir Opfer. – Dieser Fürst, Thaisa,</l>
               <l>Ist der Verlobte deiner Tochter, zu</l>
               <l>Pentapolis soll die Vermählung sein,</l>
-              <pb n="376"/>
+              <pb n="377"/>
               <l>Und diese Zier, die mich so wild entstellt,</l>
               <l>Soll nun zuerst nach vierzehn Jahren wieder</l>
               <l>Das Messer fühlen, sich von neuem schmücken,</l>
@@ -5312,7 +5312,7 @@
           </sp>
         </div>
       </div>
-      <pb n="377"/>
+      <pb n="378"/>
       <div type="appendix">
         <head>Szeneneinteilung</head>
         <div type="act">
@@ -5349,7 +5349,7 @@
           <p>Siebente Szene: Mitylene. Eine Straße vor dem Bordell.</p>
           <p>Achte Szene: Daselbst. Ein Zimmer im Bordell.</p>
         </div>
-        <pb n="378"/>
+        <pb n="379"/>
         <div type="act">
           <head>Fünfter Akt</head>
           <p>Zweite Szene: An Bord von Perikles Schiff bei Mitylene. Ein Zelt auf dem Verdeck mit

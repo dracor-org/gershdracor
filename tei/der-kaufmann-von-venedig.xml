@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="379"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -95,15 +96,15 @@
         <castItem>Der Doge von Venedig</castItem>
         <castGroup>
           <castItem>Prinz von Marokko</castItem>
-          <castItem>Prinz von Arragon,</castItem>
+          <castItem>Prinz von Arragon</castItem>
           <roleDesc>Freier der Porzia</roleDesc>
         </castGroup>
         <castItem>Antonio, der Kaufmann von Venedig</castItem>
         <castItem>Bassanio, sein Freund</castItem>
         <castGroup>
-          <castItem>Solanio,</castItem>
-          <castItem>Salarino,</castItem>
-          <castItem>Graziano,</castItem>
+          <castItem>Solanio</castItem>
+          <castItem>Salarino</castItem>
+          <castItem>Graziano</castItem>
           <roleDesc>Freunde des Antonio</roleDesc>
         </castGroup>
         <castItem>Lorenzo, Liebhaber der Jessica</castItem>
@@ -115,7 +116,7 @@
         <castItem>Leonardo, Bassanios Diener</castItem>
         <castGroup>
           <castItem>Balthasar</castItem>
-          <castItem>Stephano,</castItem>
+          <castItem>Stephano</castItem>
           <roleDesc>Porzias Diener</roleDesc>
         </castGroup>
         <castItem>Porzia, eine reiche Erbin</castItem>
@@ -128,7 +129,7 @@
         <p>Die Szene ist teils zu Venedig, teils zu Belmont, Porzias Landsitz</p>
       </set>
     </front>
-    <pb n="380"/>
+    <pb n="381"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -180,7 +181,7 @@
               <l>Mir Fieberschauer anwehn, dächt' ich dran,</l>
               <l>Wie viel zur See ein starker Wind kann schaden.</l>
               <l>Ich könnte nicht die Sanduhr rinnen sehn,</l>
-              <pb n="381"/>
+              <pb n="382"/>
               <l>So dächt' ich gleich an Seichten und an Bänke,</l>
               <l>Säh' meinen reichen Hans im Sande fest,</l>
               <l>Das Haupt bis unter seine Rippen neigend,</l>
@@ -237,7 +238,7 @@
               <l>Wir lassen Euch in besserer Gesellschaft.</l>
             </lg>
           </sp>
-          <pb n="382"/>
+          <pb n="383"/>
           <sp who="#salarino">
             <speaker>SALARINO.</speaker>
             <lg>
@@ -317,7 +318,7 @@
               <l>Und die ein eigensinnig Schweigen halten,</l>
               <l>Aus Absicht, sich in einen Schein zu kleiden</l>
               <l>Von Weisheit, Würdigkeit und tiefem Sinn;</l>
-              <pb n="383"/>
+              <pb n="384"/>
               <l>Als wenn man spräche: »Ich bin Herr Orakel;</l>
               <l>Tu' ich den Mund auf, rühr' sich keine Maus!«</l>
               <l>O mein Antonio, ich kenne deren,</l>
@@ -388,7 +389,7 @@
               <l>Auch jammr' ich jetzt nicht, daß die große Art</l>
               <l>Mir untersagt ist; meine Sorg' ist bloß,</l>
               <l>Mit Ehren von den Schulden los zu kommen,</l>
-              <pb n="384"/>
+              <pb n="385"/>
               <l>Worin mein Leben, etwas zu verschwend'risch,</l>
               <l>Mich hat verstrickt. Bei Euch, Antonio,</l>
               <l>Steht meine größte Schuld, an Geld und Liebe,</l>
@@ -447,7 +448,7 @@
               <l>Von hohen Tugenden; von ihren Augen</l>
               <l>Empfing ich holde stumme Botschaft einst.</l>
               <l>Ihr Nam' ist Porzia; minder nicht an Wert</l>
-              <pb n="385"/>
+              <pb n="386"/>
               <l>Als Catos Tochter, Brutus' Portia.</l>
               <l>Auch ist die weite Welt des nicht unkundig,</l>
               <l>Denn die vier Winde wehn von allen Küsten</l>
@@ -501,7 +502,7 @@
             <speaker>NERISSA.</speaker>
             <p>Gut befolgt, wären sie besser.</p>
           </sp>
-          <pb n="386"/>
+          <pb n="387"/>
           <sp who="#porzia">
             <speaker>PORZIA.</speaker>
             <p>Wäre tun so leicht, als wissen, was gut zu tun ist, so wären Kapellen Kirchen
@@ -548,7 +549,7 @@
             <speaker>PORZIA.</speaker>
             <p>Er tut nichts wie stirnrunzeln, als wollt' er sagen: »Wenn Ihr mich nicht haben
               wollt, so laßt's!« Er hört lustige Geschichten an, und lächelt nicht. Ich fürchte, es
-              wird der weinende Philosoph aus ihm, wenn er alt wird, da er in seiner <pb n="387"/>
+              wird der weinende Philosoph aus ihm, wenn er alt wird, da er in seiner <pb n="388"/>
               Jugend so unhöflich finster sieht. Ich möchte lieber an einen Totenkopf mit dem
               Knochen im Munde verheiratet sein, als an einen von diesen. Gott beschütze mich vor
               beiden!</p>
@@ -598,7 +599,7 @@
             <speaker>PORZIA.</speaker>
             <p>Sehr abscheulich des Morgens, wenn er nüchtern ist; und höchst abscheulich des
               Nachmittags, wenn er betrunken ist. Wenn er am besten ist, so ist er wenig schlechter
-              als ein <pb n="388"/> Mann, und wenn er am schlechtesten ist, wenig besser als ein
+              als ein <pb n="389"/> Mann, und wenn er am schlechtesten ist, wenig besser als ein
               Vieh. Komme das Schlimmste, was da will, ich hoffe, es soll mir doch glücken, ihn los
               zu werden.</p>
           </sp>
@@ -651,7 +652,7 @@
             <stage>Ein Diener kommt.</stage>
             <l>Nun, was gibt es Neues?</l>
           </sp>
-          <pb n="389"/>
+          <pb n="390"/>
           <sp who="#bedienter">
             <speaker>BEDIENTER.</speaker>
             <p>Die vier Fremden suchen Euch, Fräulein, um Abschied zu nehmen; und es ist ein
@@ -719,7 +720,7 @@
               eine Galeone, die auf Tripolis geht, eine andre nach Indien. Ich höre ferner auf dem
               Rialto, daß er eine dritte zu Mexiko hat, eine vierte nach England – und so hat er
               noch andre Auslagen in der Fremde verstreut. Aber Schiffe sind nur Bretter, Matrosen
-                <pb n="390"/> sind nur Menschen; es gibt Landratten und Wasserratten, Wasserdiebe
+                <pb n="391"/> sind nur Menschen; es gibt Landratten und Wasserratten, Wasserdiebe
               und Landdiebe – ich will sagen, Korsaren, und dann haben wir die Gefahr von Wind,
               Wellen und Klippen. – Der Mann ist bei alle dem vermögend – dreitausend Dukaten – ich
               denke, ich kann seine Bürgschaft annehmen.</p>
@@ -780,7 +781,7 @@
               <l>Kann ich die volle Summe von dreitausend</l>
               <l>Dukaten nicht gleich schaffen. – Nun, was tut's?</l>
               <l>Tubal, ein wohlbegüterter Hebräer,</l>
-              <pb n="391"/>
+              <pb n="392"/>
               <l>Hilft mir schon aus. – Doch still! auf wie viel Monat</l>
               <l>Begehrt Ihr! –</l>
             </lg>
@@ -860,7 +861,7 @@
               <l>Dies war ein Glücksfall, worauf Jakob diente;</l>
               <l>In seiner Macht stand's nicht, es zu bewirken,</l>
               <l>Des Himmels Hand regiert' und lenkt' es so.</l>
-              <pb n="392"/>
+              <pb n="393"/>
               <l>Steht dies, um Zinsen gut zu heißen, da?</l>
               <l>Und ist Eu'r Gold und Silber Schaf' und Widder?</l>
             </lg>
@@ -927,7 +928,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Ich könnte leichtlich wieder so dich nennen,</l>
-              <pb n="393"/>
+              <pb n="394"/>
               <l>Dich wieder anspein, ja mit Füßen treten.</l>
               <l>Willst du dies Geld uns leihen, leih' es nicht</l>
               <l>Als deinen Freunden (denn wann nahm die Freundschaft</l>
@@ -999,7 +1000,7 @@
               <l>Die mir verfallne Buße einzutreiben?</l>
               <l>Ein Pfund von Menschenfleisch, von einem Menschen</l>
               <l>Genommen, ist so schätzbar, auch so nutzbar nicht,</l>
-              <pb n="394"/>
+              <pb n="395"/>
               <l>Als Fleisch von Schöpsen, Ochsen, Ziegen. Seht,</l>
               <l>Ihm zu Gefallen biet' ich diesen Dienst:</l>
               <l>Wenn er ihn annimmt, gut; wo nicht, lebt wohl,</l>
@@ -1044,7 +1045,7 @@
           </sp>
         </div>
       </div>
-      <pb n="395"/>
+      <pb n="396"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1090,7 +1091,7 @@
             <speaker>MAROKKO.</speaker>
             <lg>
               <l>Habt auch dafür Dank!</l>
-              <pb n="396"/>
+              <pb n="397"/>
               <l>Drum führt mich zu den Kästchen, daß ich gleich</l>
               <l>Mein Glück versuche. Bei diesem Säbel, der</l>
               <l>Den Sophi schlug und einen Perserprinz,</l>
@@ -1147,7 +1148,7 @@
             <speaker>LANZELOT.</speaker>
             <p>Sicherlich, mein Gewissen läßt mir's zu, von diesem Juden, meinem Herrn, wegzulaufen.
               Der böse Feind ist mir auf der Ferse und versucht mich und sagt zu mir: »Gobbo,
-              Lanzelot Gobbo, guter Lanzelot«, oder »guter Gobbo«, oder <pb n="397"/> »guter
+              Lanzelot Gobbo, guter Lanzelot«, oder »guter Gobbo«, oder <pb n="398"/> »guter
               Lanzelot Gobbo, (brauch' deine Beine,) reiß' aus, lauf' davon!« Mein Gewissen sagt:
               »Nein, hüte dich; ehrlicher Lanzelot; hüte dich, ehrlicher Gobbo; (oder, wie
               obgemeld't, ehrlicher Lanzelot Gobbo;) lauf' nicht, laß das Ausreißen bleiben!« Gut,
@@ -1188,7 +1189,7 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Schlagt Euch rechter Hand an der nächsten Ecke, aber bei der allernächsten Ecke
-              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="398"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
+              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
               herum.</p>
           </sp>
           <sp who="#gobbo">
@@ -1263,7 +1264,7 @@
             <speaker>LANZELOT.</speaker>
             <p>Nun wahrhaftig, wenn Ihr auch Eure Augen hättet, so könntet Ihr mich doch wohl nicht
               kennen: das ist ein weiser Vater, der sein eignes Kind kennt. Gut, alter Mann, ich
-              will Euch Nachricht von Eurem Sohne geben. Gebt mir <pb n="399"/> Euren Segen!
+              will Euch Nachricht von Eurem Sohne geben. Gebt mir <pb n="400"/> Euren Segen!
               Wahrheit muß ans Licht kommen. Ein Mord kann nicht lange verborgen bleiben, eines
               Menschen Sohn kann's; aber zuletzt muß die Wahrheit heraus.</p>
           </sp>
@@ -1316,7 +1317,7 @@
               ich bei dem Juden länger diene.</p>
             <stage>Bassanio kommt mit Leonardo und andern Begleitern.</stage>
           </sp>
-          <pb n="400"/>
+          <pb n="401"/>
           <sp who="#bassanio">
             <speaker>BASSANIO.</speaker>
             <p>Das könnt Ihr tun – aber seid so bei der Hand, daß das Abendessen spätestens um fünf
@@ -1400,7 +1401,7 @@
           </sp>
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
-            <p>Das alte Sprichwort ist recht schön verteilt zwischen <pb n="401"/> meinem Herrn
+            <p>Das alte Sprichwort ist recht schön verteilt zwischen <pb n="402"/> meinem Herrn
               Shylock und Euch, Herr: Ihr habt die Gnade Gottes, und er hat genug.</p>
           </sp>
           <sp who="#bassanio">
@@ -1472,7 +1473,7 @@
             <speaker>GRAZIANO.</speaker>
             <p>Ihr müßt mir's nicht weigern, ich muß mit Euch nach Belmont gehen.</p>
           </sp>
-          <pb n="402"/>
+          <pb n="403"/>
           <sp who="#bassanio">
             <speaker>BASSANIO.</speaker>
             <lg>
@@ -1541,7 +1542,7 @@
               <l>Es tut mir leid, daß du uns so verläßt:</l>
               <l>Dies Haus ist Hölle, und du, ein lust'ger Teufel,</l>
               <l>Nahmst ihm ein Teil von seiner Widrigkeit.</l>
-              <pb n="403"/>
+              <pb n="404"/>
               <l>Doch lebe wohl! (da hast du 'nen Dukaten!)</l>
               <l>Und, Lanzelot, du wirst beim Abendessen</l>
               <l>Lorenzo sehn, als Gast von deinem Herrn.</l>
@@ -1611,7 +1612,7 @@
             <speaker>LANZELOT.</speaker>
             <p>Wenn's Euch beliebt, dies aufzubrechen, so wird es gleichsam andeuten.</p>
           </sp>
-          <pb n="404"/>
+          <pb n="405"/>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
             <lg>
@@ -1692,7 +1693,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="405"/>
+        <pb n="406"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Vor Shylocks Hause.</stage>
@@ -1760,7 +1761,7 @@
               <l>Was? Gibt es Masken? Jessica, hör' an:</l>
               <l>Verschließ' die Tür, und wenn du Trommeln hörst,</l>
               <l>Und das Gequäk der quergehalsten Pfeife,</l>
-              <pb n="406"/>
+              <pb n="407"/>
               <l>So klettre mir nicht an den Fenstern auf,</l>
               <l>Steck' nicht den Kopf hinaus in offne Straße,</l>
               <l>Nach Christennarren mit bemaltem Antlitz</l>
@@ -1832,7 +1833,7 @@
             <speaker>SALARINO.</speaker>
             <l>Die Stund' ist fast vorbei.</l>
           </sp>
-          <pb n="407"/>
+          <pb n="408"/>
           <sp who="#graziano">
             <speaker>GRAZIANO.</speaker>
             <lg>
@@ -1912,7 +1913,7 @@
               <l>Gut, daß es Nacht ist, daß Ihr mich nicht seht;</l>
               <l>Denn ich bin sehr beschämt von meinem Tausch.</l>
               <l>Doch Lieb' ist blind, Verliebte sehen nicht</l>
-              <pb n="408"/>
+              <pb n="409"/>
               <l>Die art'gen Kinderei'n, die sie begehen;</l>
               <l>Denn könnten sie's, Cupido würd' erröten,</l>
               <l>Als Knaben so verwandelt mich zu sehn.</l>
@@ -1998,7 +1999,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="409"/>
+        <pb n="410"/>
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Belmont. Ein Zimmer in Porzias Hause.</stage>
@@ -2054,7 +2055,7 @@
               <l>Das wäre schwaches Mißtraun in mich selbst.</l>
               <l>So viel, als ich verdiene? – Ja, das ist</l>
               <l>Das Fräulein; durch Geburt verdien' ich sie,</l>
-              <pb n="410"/>
+              <pb n="411"/>
               <l>Durch Glück, durch Zier und Gaben der Erziehung;</l>
               <l>Doch mehr verdien' ich sie durch Liebe. Wie,</l>
               <l>Wenn ich nicht weiter schweift' und wählte hier?</l>
@@ -2104,7 +2105,7 @@
               <l>Manchen in Gefahr es reißt,</l>
               <l>Was mein äußrer Schein verheißt:</l>
               <l>Goldnes Grab hegt Würmer meist.</l>
-              <pb n="411"/>
+              <pb n="412"/>
               <l>Wäret Ihr so weis' als dreist,</l>
               <l>Jung an Gliedern, alt an Geist,</l>
               <l>So würdet Ihr nicht abgespeist</l>
@@ -2168,7 +2169,7 @@
               <l>Voll von Dukaten, doppelten Dukaten,</l>
               <l>Gestohl'n von meiner Tochter; und Juwelen,</l>
               <l>Zwei Stein' – zwei reich' und köstliche Gestein'</l>
-              <pb n="412"/>
+              <pb n="413"/>
               <l>Gestohl'n von meiner Tochter! O Gerichte,</l>
               <l>Find't mir das Mädchen! – Sie hat die Steine bei sich</l>
               <l>Und die Dukaten.«</l>
@@ -2242,7 +2243,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="413"/>
+        <pb n="414"/>
         <div type="scene">
           <head>Neunte Szene</head>
           <stage>Belmont. Ein Zimmer in Porzias Hause.</stage>
@@ -2303,7 +2304,7 @@
               <l>Ich wähle nicht, was mancher Mann begehrt,</l>
               <l>Weil ich nicht bei gemeinen Geistern hausen,</l>
               <l>Noch mich zu rohen Haufen stellen will.</l>
-              <pb n="414"/>
+              <pb n="415"/>
               <l>Nun dann zu dir, du silbern Schatzgemach!</l>
               <l>Sag mir noch 'mal die Inschrift, die du führst:</l>
               <l>»Wer mich erwählt, bekommt so viel, als er verdient.«</l>
@@ -2360,7 +2361,7 @@
               <l>Mancher Narr in Silber fährt,</l>
               <l>So auch dieser, der Euch lehrt.</l>
               <l>Nehmet, wen Ihr wollt, zum Weib,</l>
-              <pb n="415"/>
+              <pb n="416"/>
               <l>Immer trägt mich Euer Leib:</l>
               <l>Geht und sucht Euch Zeitvertreib!«</l>
               <l>Mehr und mehr zum Narr'n mich macht</l>
@@ -2432,7 +2433,7 @@
           </sp>
         </div>
       </div>
-      <pb n="416"/>
+      <pb n="417"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2477,7 +2478,7 @@
             <stage>Shylock kommt.</stage>
             <l>Wie steht's, Shylock? Was gibt es Neues unter den Kaufleuten?</l>
           </sp>
-          <pb n="417"/>
+          <pb n="418"/>
           <sp who="#shylock">
             <speaker>SHYLOCK.</speaker>
             <p>Ihr wußtet, niemand besser, niemand besser als Ihr, um meiner Tochter Flucht.</p>
@@ -2539,7 +2540,7 @@
               verleitet, meine Feinde gehetzt. Und was hat er für Grund? Ich bin ein Jude. (Hat
               nicht ein Jude Augen?) Hat nicht ein Jude Hände, Gliedmaßen, Werkzeuge, Sinne,
               Neigungen, Leidenschaften? mit derselben Speise genährt, mit denselben Waffen
-              verletzt, <pb n="418"/> denselben Krankheiten unterworfen, mit denselben Mitteln
+              verletzt, <pb n="419"/> denselben Krankheiten unterworfen, mit denselben Mitteln
               geheilt, gewärmt und gekältet von eben dem Winter und Sommer, als ein Christ? Wenn ihr
               uns stecht, bluten wir nicht? Wenn ihr uns kitzelt, lachen wir nicht? Wenn ihr uns
               vergiftet, sterben wir nicht? Und wenn ihr uns beleidigt, sollen wir uns nicht rächen?
@@ -2582,7 +2583,7 @@
               wollte, meine Tochter läge tot zu meinen Füßen, und hätte die Juwelen in den Ohren!
               Wollte, sie läge eingesargt zu meinen Füßen, und die Dukaten im Sarge! Keine Nachricht
               von ihnen! Ei, daß dich! – und ich weiß noch nicht, was beim Nachsetzen drauf geht.
-              Ei, du Verlust über Verlust! Der Dieb mit so viel davon gegangen, <pb n="419"/> und so
+              Ei, du Verlust über Verlust! Der Dieb mit so viel davon gegangen, <pb n="420"/> und so
               viel, um den Dieb zu finden; und keine Genugtuung, keine Rache! Kein Unglück tut sich
               auf, als was mir auf den Hals fällt; keine Seufzer, als die ich ausstoße, keine
               Tränen, als die ich vergieße.</p>
@@ -2653,7 +2654,7 @@
             </p>
           </sp>
         </div>
-        <pb n="420"/>
+        <pb n="421"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Belmont. Ein Zimmer in Porzias Hause.</stage>
@@ -2711,7 +2712,7 @@
               <l>Zum Leben, als Verrat und meine Liebe.</l>
             </lg>
           </sp>
-          <pb n="421"/>
+          <pb n="422"/>
           <sp who="#porzia">
             <speaker>PORZIA.</speaker>
             <lg>
@@ -2775,7 +2776,7 @@
               <l>Ist euch ihr Lebenslauf bewußt?</l>
             </lg>
           </sp>
-          <pb n="422"/>
+          <pb n="423"/>
           <sp who="#zweite_stimme">
             <speaker>ZWEITE STIMME.</speaker>
             <lg>
@@ -2825,7 +2826,7 @@
               <l>Auch Weise fängt. Darum, du gleißend Gold,</l>
               <l>Des Midas harte Kost, dich will ich nicht;</l>
               <l>Noch dich, gemeiner, bleicher Botenläufer</l>
-              <pb n="423"/>
+              <pb n="424"/>
               <l>Von Mann zu Mann; doch du, du magres Blei,</l>
               <l>Das eher droht als irgend was verheißt,</l>
               <l>Dein schlichtes Ansehn spricht beredt mich an:</l>
@@ -2876,7 +2877,7 @@
               <l>Müßt Ihr Eurer Liebsten nahn,</l>
               <l>Und sprecht mit holdem Kuß sie an!«</l>
             </lg>
-            <pb n="424"/>
+            <pb n="425"/>
             <lg>
               <l>Ein freundlich Blatt – erlaubt, mein holdes Leben,</l>
               <stage>er küßt sie</stage>
@@ -2927,7 +2928,7 @@
             <speaker>BASSANIO.</speaker>
             <lg>
               <l>Fräulein, Ihr habt der Worte mich beraubt,</l>
-              <pb n="425"/>
+              <pb n="426"/>
               <l>Mein Blut nur in den Adern spricht zu Euch;</l>
               <l>Verwirrung ist in meinen Lebensgeistern,</l>
               <l>Wie sie nach einer wohlgesprochnen Rede</l>
@@ -2998,7 +2999,7 @@
             <speaker>GRAZIANO.</speaker>
             <l>Ja, auf mein Wort.</l>
           </sp>
-          <pb n="426"/>
+          <pb n="427"/>
           <sp who="#bassanio">
             <speaker>BASSANIO.</speaker>
             <l>Ihr ehrt durch Eure Heirat unser Fest.</l>
@@ -3085,7 +3086,7 @@
               <l>Es stiehlt die Farbe von Bassanios Wangen.</l>
               <l>Ein teurer Freund tot; nichts auf Erden sonst,</l>
               <l>Was eines festgesinnten Mannes Fassung</l>
-              <pb n="427"/>
+              <pb n="428"/>
               <l>So ganz verwandeln kann. Wie? schlimm und schlimmer?</l>
               <l>Erlaubt, Bassanio, ich bin halb Ihr selbst,</l>
               <l>Und mir gebührt die Hälfte auch von allem,</l>
@@ -3134,7 +3135,7 @@
               <l>Wenn man sein Recht ihm weigert: zwanzig Handelsleute,</l>
               <l>Der Doge selber, und die Senatoren</l>
               <l>Vom größten Ansehn reden all' ihm zu:</l>
-              <pb n="428"/>
+              <pb n="429"/>
               <l>Doch niemand kann aus der Schikan' ihn treiben</l>
               <l>Von Recht, verfallner Buß' und seinem Schein.</l>
             </lg>
@@ -3200,7 +3201,7 @@
             <stage>liest.</stage>
             <p>»Liebster Bassanio, meine Schiffe sind alle verunglückt, meine Gläubiger werden
               grausam, mein Glücksstand ist ganz zerrüttet, meine Verschreibung an den Juden ist
-              verfallen, und da es unmöglich ist, daß ich lebe, wenn ich <pb n="429"/> sie zahle, so
+              verfallen, und da es unmöglich ist, daß ich lebe, wenn ich <pb n="430"/> sie zahle, so
               sind alle Schulden zwischen mir und Euch berichtigt. Wenn ich Euch nur bei meinem Tode
               sehen könnte! Jedoch handelt nach Belieben: wenn Eure Liebe Euch nicht überredet zu
               kommen, so muß es mein Brief nicht.«</p>
@@ -3275,7 +3276,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Laßt ihn nur gehn,</l>
-              <pb n="430"/>
+              <pb n="431"/>
               <l>Ich geh' ihm nicht mehr nach mit eitlen Bitten,</l>
               <l>Er sucht mein Leben, und ich weiß warum:</l>
               <l>Oft hab' ich Schuldner, die mir vorgeklagt,</l>
@@ -3334,7 +3335,7 @@
               <l>Die mit einander ihre Zeit verleben,</l>
               <l>Und deren Herz ein Joch der Liebe trägt,</l>
               <l>Da muß unfehlbar auch ein Ebenmaß</l>
-              <pb n="431"/>
+              <pb n="432"/>
               <l>Von Zügen sein, von Sitten und Gemüt.</l>
               <l>Dies macht mich glauben, der Antonio,</l>
               <l>Als Busenfreund von meinem Gatten, müsse</l>
@@ -3396,7 +3397,7 @@
               <l>Und eile, was in Menschenkräften steht,</l>
               <l>Nach Padua; gib ihn zu eignen Händen</l>
               <l>An meinen Vetter ab, Doktor Bellario.</l>
-              <pb n="432"/>
+              <pb n="433"/>
               <l>Sieh zu, was er dir für Papiere gibt</l>
               <l>Und Kleider, bringe die in höchster Eil'</l>
               <l>Zur Überfahrt an die gemeine Fähre,</l>
@@ -3462,7 +3463,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="433"/>
+        <pb n="434"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Belmont. Ein Garten. Lanzelot und Jessica kommen.</stage>
@@ -3517,7 +3518,7 @@
           </sp>
           <sp who="#jessica">
             <speaker>JESSICA.</speaker>
-            <p>Ihr habt nichts zu befürchten, Lorenzo; Lanzelot <pb n="434"/> und ich, wir sind ganz
+            <p>Ihr habt nichts zu befürchten, Lorenzo; Lanzelot <pb n="435"/> und ich, wir sind ganz
               entzweit. Er sagt mir grade heraus, im Himmel sei keine Gnade für mich, weil ich eines
               Juden Tochter bin; und er behauptet, daß Ihr kein gutes Mitglied des gemeinen Wesens
               seid, weil Ihr Juden zum Christentum bekehrt und dadurch den Preis des
@@ -3584,7 +3585,7 @@
               <l>Wortspiele eingeprägt. Und kenn' ich doch</l>
               <l>Gar manchen Narr'n an einer bessern Stelle,</l>
               <l>So aufgestutzt, der um ein spitzes Wort</l>
-              <pb n="435"/>
+              <pb n="436"/>
               <l>Die Sache preis gibt. – Wie geht's dir, Jessica?</l>
               <l>Und nun sag deine Meinung, liebes Herz,</l>
               <l>Wie Don Bassanios Gattin dir gefällt?</l>
@@ -3641,7 +3642,7 @@
           </sp>
         </div>
       </div>
-      <pb n="436"/>
+      <pb n="437"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3698,7 +3699,7 @@
               <l>So glaubt man, wirst du dein Erbarmen zeigen</l>
               <l>Und deine Milde, wunderbarer noch</l>
               <l>Als deine angenommne Grausamkeit.</l>
-              <pb n="437"/>
+              <pb n="438"/>
               <l>Statt daß du jetzt das dir Verfallne eintreibst,</l>
               <l>Ein Pfund von dieses armen Kaufmanns Fleisch,</l>
               <l>Wirst du nicht nur die Buße fahren lassen,</l>
@@ -3742,7 +3743,7 @@
               <l>Daß der kein schmatzend Ferkel leiden kann,</l>
               <l>Der keine Katz', ein harmlos nützlich Tier,</l>
               <l>Der keinen Dudelsack; und muß durchaus</l>
-              <pb n="438"/>
+              <pb n="439"/>
               <l>Sich solcher unfreiwill'gen Schmach ergeben,</l>
               <l>Daß er, belästigt, selbst beläst'gen muß,</l>
               <l>So weiß ich keinen Grund, will keinen sagen,</l>
@@ -3822,7 +3823,7 @@
               <l>Die ihr wie eure Esel, Hund' und Maultier'</l>
               <l>In sklavischem verworfnen Dienst gebraucht,</l>
               <l>Weil ihr sie kauftet. Sag' ich nun zu euch:</l>
-              <pb n="439"/>
+              <pb n="440"/>
               <l>»Laßt sie doch frei, vermählt sie euren Erben;</l>
               <l>Was plagt ihr sie mit Lasten? Laßt ihr Bett</l>
               <l>So weich als eures sein, labt ihren Gaum</l>
@@ -3902,7 +3903,7 @@
               <l>So können keine Bitten dich durchdringen?</l>
             </lg>
           </sp>
-          <pb n="440"/>
+          <pb n="441"/>
           <sp who="#shylock">
             <speaker>SHYLOCK.</speaker>
             <l>Nein, keine, die du Witz zu machen hast.</l>
@@ -3967,7 +3968,7 @@
               Gelehrsamkeit (deren Größe ich nicht genug empfehlen kann), auf mein Andringen
               mitgenommen hat, um Euer Hoheit an meiner Statt Genüge zu leisten. Ich ersuche Euch,
               laßt seinen Mangel an Jahren keinen Grund sein, ihm eine anständige Achtung zu
-              versagen: denn ich kannte noch niemals <pb n="441"/> einen so jungen Körper mit einem
+              versagen: denn ich kannte noch niemals <pb n="442"/> einen so jungen Körper mit einem
               so alten Kopf. Ich überlasse ihn Eurer gnädigen Aufnahme, seine Prüfung wird ihn am
               besten empfehlen.«</p>
           </sp>
@@ -4057,7 +4058,7 @@
               <l>Worin die Furcht und Scheu der Kön'ge sitzt.</l>
               <l>Doch Gnad' ist über diese Szeptermacht,</l>
               <l>Sie thronet in dem Herzen der Monarchen,</l>
-              <pb n="442"/>
+              <pb n="443"/>
               <l>Sie ist ein Attribut der Gottheit selbst,</l>
               <l>Und ird'sche Macht kommt göttlicher am nächsten,</l>
               <l>Wenn Gnade bei dem Recht steht; darum, Jude,</l>
@@ -4135,7 +4136,7 @@
               <l>Nicht um Venedig!</l>
             </lg>
           </sp>
-          <pb n="443"/>
+          <pb n="444"/>
           <sp who="#porzia">
             <speaker>PORZIA.</speaker>
             <lg>
@@ -4245,7 +4246,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Nur wenig: ich bin fertig und gerüstet.</l>
-              <pb n="444"/>
+              <pb n="445"/>
               <l>Gebt mir die Hand, Bassanio, lebet wohl!</l>
               <l>Es kränk' Euch nicht, daß dies für Euch mich trifft,</l>
               <l>Denn hierin zeigt das Glück sich gütiger,</l>
@@ -4316,7 +4317,7 @@
               <l>Der Hof erkennt es, und das Recht erteilt es.</l>
             </lg>
           </sp>
-          <pb n="445"/>
+          <pb n="446"/>
           <sp who="#shylock">
             <speaker>SHYLOCK.</speaker>
             <lg>
@@ -4419,7 +4420,7 @@
             <speaker>PORZIA.</speaker>
             <l>Was hält den Juden auf? Nimm deine Buße!</l>
           </sp>
-          <pb n="446"/>
+          <pb n="447"/>
           <sp who="#shylock">
             <speaker>SHYLOCK.</speaker>
             <l>Gebt mir mein Kapital, und laßt mich gehn!</l>
@@ -4502,7 +4503,7 @@
               <l>Was Demut mildern kann zu einer Buße.</l>
             </lg>
           </sp>
-          <pb n="447"/>
+          <pb n="448"/>
           <sp who="#porzia">
             <speaker>PORZIA.</speaker>
             <l>Ja, für den Staat, nicht für Antonio.</l>
@@ -4596,7 +4597,7 @@
             <speaker>DOGE.</speaker>
             <lg>
               <l>Es tut mir leid, daß Ihr Verhind'rung habt.</l>
-              <pb n="448"/>
+              <pb n="449"/>
               <l>Antonio, zeigt Euch dankbar diesem Mann:</l>
               <l>Ihr seid ihm sehr verpflichtet, wie mich dünkt.</l>
             </lg>
@@ -4684,7 +4685,7 @@
             <speaker>BASSANIO.</speaker>
             <lg>
               <l>Den Ring gab meine Frau mir, bester Herr,</l>
-              <pb n="449"/>
+              <pb n="450"/>
               <l>Sie steckte mir ihn an und hieß mich schwören,</l>
               <l>Ich woll' ihn nie verlieren noch vergeben.</l>
             </lg>
@@ -4752,7 +4753,7 @@
             <speaker>PORZIA.</speaker>
             <lg>
               <l>Das kann nicht sein;</l>
-              <pb n="450"/>
+              <pb n="451"/>
               <l>Den Ring nehm' ich mit allem Danke an,</l>
               <l>Und bitt' Euch, sagt ihm das; seid auch so gut,</l>
               <l>Den jungen Mann nach Shylocks Haus zu weisen.</l>
@@ -4790,7 +4791,7 @@
           </sp>
         </div>
       </div>
-      <pb n="451"/>
+      <pb n="452"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4853,7 +4854,7 @@
               <l>Wovon nicht eines echt war.</l>
             </lg>
           </sp>
-          <pb n="452"/>
+          <pb n="453"/>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
             <lg>
@@ -4949,7 +4950,7 @@
             <lg>
               <l>Komm, süßes Herz, erwarten wir sie drinnen!</l>
               <l>Und doch, es macht nichts aus: wozu hineingehn?</l>
-              <pb n="453"/>
+              <pb n="454"/>
               <l>Freund Stephano, ich bitt' Euch, meldet gleich</l>
               <l>Im Haus die Ankunft Eurer gnäd'gen Frau,</l>
               <l>Und bringt die Musikanten her ins Freie!</l>
@@ -4997,7 +4998,7 @@
               <l>Gelenkt hab' Orpheus Bäume, Felsen, Fluten,</l>
               <l>Weil nichts so stöckisch, hart und voll von Wut,</l>
               <l>Das nicht Musik auf eine Zeit verwandelt.</l>
-              <pb n="454"/>
+              <pb n="455"/>
               <l>Der Mann, der nicht Musik hat in ihm selbst,</l>
               <l>Den nicht die Eintracht süßer Töne rührt,</l>
               <l>Taugt zu Verrat, zu Räuberei und Tücken;</l>
@@ -5081,7 +5082,7 @@
             <speaker>PORZIA.</speaker>
             <lg>
               <l>Wir beteten für unsrer Männer Wohlfahrt,</l>
-              <pb n="455"/>
+              <pb n="456"/>
               <l>Und hoffen, unsre Worte fördern sie.</l>
               <l>Sind sie zurück?</l>
             </lg>
@@ -5169,7 +5170,7 @@
             <lg>
               <l>Ich schwör's bei jenem Mond, Ihr tut mir Unrecht:</l>
               <l>Fürwahr, ich gab ihn an des Richters Schreiber.</l>
-              <pb n="456"/>
+              <pb n="457"/>
               <l>Wär' er verschnitten, dem ich ihn geschenkt,</l>
               <l>Weil Ihr Euch, Liebste, so darüber kränkt!</l>
             </lg>
@@ -5248,7 +5249,7 @@
             <speaker>GRAZIANO.</speaker>
             <lg>
               <l>Bassanio schenkte seinen Ring dem Richter,</l>
-              <pb n="457"/>
+              <pb n="458"/>
               <l>Der darum bat, und in der Tat ihn auch</l>
               <l>Verdiente; dann erbat der Bursch, sein Schreiber,</l>
               <l>Der Müh' vom Schreiben hatte, meinen sich,</l>
@@ -5322,7 +5323,7 @@
               <l>Dukaten ausschlug und den Ring erbat,</l>
               <l>Ich weigert's ihm, ließ ihn verdrießlich gehn,</l>
               <l>Den Mann, der meines teuern Freundes Leben</l>
-              <pb n="458"/>
+              <pb n="459"/>
               <l>Aufrecht erhielt. Was soll ich sagen, Holde?</l>
               <l>Ich war genötigt, ihn ihm nachzuschicken,</l>
               <l>Gefälligkeit und Scham bedrängten mich,</l>
@@ -5402,7 +5403,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Ich lieh einst meinen Leib hin für sein Gut;</l>
-              <pb n="459"/>
+              <pb n="460"/>
               <l>Ohn' ihn, der Eures Gatten Ring bekam,</l>
               <l>War er dahin; ich darf mich noch verpflichten,</l>
               <l>Zum Pfande meine Seele, Eu'r Gemahl</l>
@@ -5496,7 +5497,7 @@
             <speaker>ANTONIO.</speaker>
             <lg>
               <l>Ihr gabt mir Leben, Teure, und zu leben:</l>
-              <pb n="460"/>
+              <pb n="461"/>
               <l>Hier les' ich für gewiß, daß meine Schiffe</l>
               <l>Im Hafen sicher sind.</l>
             </lg>

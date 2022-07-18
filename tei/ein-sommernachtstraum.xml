@@ -161,6 +161,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="309"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -174,8 +175,8 @@
         <castItem>Theseus, Herzog von Athen</castItem>
         <castItem>Egeus, Vater der Hermia</castItem>
         <castGroup>
-          <castItem>Lysander,</castItem>
-          <castItem>Demetrius,</castItem>
+          <castItem>Lysander</castItem>
+          <castItem>Demetrius</castItem>
           <roleDesc>Liebhaber der Hermia</roleDesc>
         </castGroup>
         <castItem>Philostrat, Aufseher der Lustbarkeiten am Hofe des Theseus</castItem>
@@ -192,18 +193,18 @@
         <castItem>Titania, Königin der Elfen</castItem>
         <castItem>Droll, ein Elfe</castItem>
         <castGroup>
-          <castItem>Bohnenblüte,</castItem>
-          <castItem>Spinnweb,</castItem>
-          <castItem>Motte,</castItem>
-          <castItem>Senfsamen,</castItem>
+          <castItem>Bohnenblüte</castItem>
+          <castItem>Spinnweb</castItem>
+          <castItem>Motte</castItem>
+          <castItem>Senfsamen</castItem>
           <roleDesc>Elfen</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Pyramus,</castItem>
-          <castItem>Thisbe,</castItem>
-          <castItem>Wand,</castItem>
-          <castItem>Mondschein,</castItem>
-          <castItem>Löwe,</castItem>
+          <castItem>Pyramus</castItem>
+          <castItem>Thisbe</castItem>
+          <castItem>Wand</castItem>
+          <castItem>Mondschein</castItem>
+          <castItem>Löwe</castItem>
           <roleDesc>Rollen in dem Zwischenspiele, das von den Rüpeln vorgestellt wird</roleDesc>
         </castGroup>
         <castItem>Andere Elfen, im Gefolge des Königs und der Königin. Gefolge des Theseus und der
@@ -213,7 +214,7 @@
         <p>Szene: Athen und ein nahe gelegener Wald</p>
       </set>
     </front>
-    <pb n="310"/>
+    <pb n="311"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -269,7 +270,7 @@
             <speaker>THESEUS.</speaker>
             <l>Mein guter Egeus, Dank! Was bringst du Neues?</l>
           </sp>
-          <pb n="311"/>
+          <pb n="312"/>
           <sp who="#egeus">
             <speaker>EGEUS.</speaker>
             <lg>
@@ -335,7 +336,7 @@
             <speaker>HERMIA.</speaker>
             <lg>
               <l>Ich bitt' Euch, gnäd'ger Fürst, mir zu verzeihn.</l>
-              <pb n="312"/>
+              <pb n="313"/>
               <l>Ich weiß nicht, welche Macht mir Kühnheit gibt,</l>
               <l>Noch wie es meiner Sittsamkeit geziemt,</l>
               <l>In solcher Gegenwart das Wort zu führen;</l>
@@ -404,7 +405,7 @@
             <speaker>EGEUS.</speaker>
             <lg>
               <l>Ganz recht, du Spötter! Meine Liebe hat er;</l>
-              <pb n="313"/>
+              <pb n="314"/>
               <l>Was mein ist, wird ihm meine Liebe geben;</l>
               <l>Und sie ist mein; und alle meine Rechte</l>
               <l>An sie verschreib' ich dem Demetrius.</l>
@@ -462,7 +463,7 @@
               <l>Wie sind die Rosen dort so schnell verwelkt?</l>
             </lg>
           </sp>
-          <pb n="314"/>
+          <pb n="315"/>
           <sp who="#hermia">
             <speaker>HERMIA.</speaker>
             <lg>
@@ -538,7 +539,7 @@
               <l>Aus deines Vaters Hause morgen nacht,</l>
               <l>Und in dem Wald, 'ne Meile von der Stadt,</l>
               <l>Wo ich einmal mit Helena dich traf,</l>
-              <pb n="315"/>
+              <pb n="316"/>
               <l>Um einen Maienmorgen zu begehn,</l>
               <l>Da will ich deiner warten.</l>
             </lg>
@@ -614,7 +615,7 @@
             <speaker>HERMIA.</speaker>
             <l>Soll ich denn schuld an seiner Torheit sein?</l>
           </sp>
-          <pb n="316"/>
+          <pb n="317"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <l>Nur Eure Schönheit: wär' die Schuld doch mein!</l>
@@ -680,7 +681,7 @@
               <l>Und ihr Gemüt kann nie zum Urteil taugen.</l>
               <l>Drum nennt man ja den Gott der Liebe blind.</l>
               <l>Auch malt man ihn geflügelt und als Kind,</l>
-              <pb n="317"/>
+              <pb n="318"/>
               <l>Weil er, von Spiel zu Spielen fortgezogen,</l>
               <l>In seiner Wahl so häufig wird betrogen.</l>
               <l>Wie Buben oft im Scherze lügen, so</l>
@@ -736,8 +737,8 @@
           <sp who="#squenz">
             <speaker>SQUENZ.</speaker>
             <p>Antwortet, wie ich euch rufe! – Klaus Zettel, der Weber!</p>
-            <pb n="318"/>
           </sp>
+          <pb n="319"/>
           <sp who="#zettel">
             <speaker>ZETTEL.</speaker>
             <p>Hier! Sagt, was ich für einen Part habe, und dann weiter.</p>
@@ -810,7 +811,7 @@
               terribel feinen Stimme reden: »Thisne, Thisne! – Ach Pyramus, mein Liebster schön!
               Deine Thisbe schön, und Fräulein schön!«</p>
           </sp>
-          <pb n="319"/>
+          <pb n="320"/>
           <sp who="#squenz">
             <speaker>SQUENZ.</speaker>
             <p>Nein, nein! Ihr müßt den Pyramus spielen, und, Flaut, Ihr die Thisbe.</p>
@@ -888,7 +889,7 @@
             <speaker>SQUENZ.</speaker>
             <p>Nu, in was für einem Ihr wollt.</p>
           </sp>
-          <pb n="320"/>
+          <pb n="321"/>
           <sp who="#zettel">
             <speaker>ZETTEL.</speaker>
             <p>Ich will ihn machen, entweder in dem strohfarbenen Bart, oder in dem orangegelben
@@ -919,7 +920,7 @@
           </sp>
         </div>
       </div>
-      <pb n="321"/>
+      <pb n="322"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -963,7 +964,7 @@
               <l>Und eifersüchtig fodert Ob'ron ihn,</l>
               <l>Den rauhen Forst als Knappe zu durchziehn;</l>
               <l>Doch sie versagt durchaus den holden Knaben,</l>
-              <pb n="322"/>
+              <pb n="323"/>
               <l>Bekränzt ihn, will an ihm sich einzig laben.</l>
               <l>Nun treffen sie sich nie in Wies' und Hain,</l>
               <l>Am klaren Quell, bei lust'gem Sonnenschein;</l>
@@ -1019,7 +1020,7 @@
             <speaker>OBERON.</speaker>
             <l>Schlimm treffen wir bei Mondenlicht, du stolze Titania!</l>
           </sp>
-          <pb n="323"/>
+          <pb n="324"/>
           <sp who="#titania">
             <speaker>TITANIA.</speaker>
             <lg>
@@ -1079,7 +1080,7 @@
               <l>Und machten jeden winz'gen Bach so stolz,</l>
               <l>Daß er des Bettes Dämme niederriß.</l>
               <l>Drum schleppt der Stier sein Joch umsonst, der Pflüger</l>
-              <pb n="324"/>
+              <pb n="325"/>
               <l>Vergeudet seinen Schweiß, das grüne Korn</l>
               <l>Verfault, eh' seine Jugend Bart gewinnt.</l>
               <l>Leer steht die Hürd' auf der ersäuften Flur,</l>
@@ -1128,7 +1129,7 @@
               <l>Sahn nach den Handelsschiffen auf der Flut,</l>
               <l>Und lachten, wenn vom üpp'gen Spiel des Windes</l>
               <l>Der Segel schwangrer Leib zu schwellen schien.</l>
-              <pb n="325"/>
+              <pb n="326"/>
               <l>Dies ahmte sie, mit kleinen Schritten wankend</l>
               <l>(Ihr Leib trug damals meinen kleinen Junker),</l>
               <l>Aus Torheit nach, und segelt' auf dem Lande</l>
@@ -1195,7 +1196,7 @@
               <l>Allein ich sah das feurige Geschoß</l>
               <l>Im keuschen Strahl des feuchten Monds verlöschen;</l>
               <l>Die königliche Priesterin ging weiter,</l>
-              <pb n="326"/>
+              <pb n="327"/>
               <l>In sittsamer Betrachtung, liebefrei;</l>
               <l>Doch merkt' ich auf den Pfeil, wohin er fiele.</l>
               <l>Er fiel gen Westen auf ein zartes Blümchen,</l>
@@ -1256,7 +1257,7 @@
               <l>So hab' ich dir zu folgen keine Macht.</l>
             </lg>
           </sp>
-          <pb n="327"/>
+          <pb n="328"/>
           <sp who="#demetrius">
             <speaker>DEMETRIUS.</speaker>
             <lg>
@@ -1336,7 +1337,7 @@
             <speaker>DEMETRIUS.</speaker>
             <lg>
               <l>Ich steh' nicht länger Rede: laß mich gehn!</l>
-              <pb n="328"/>
+              <pb n="329"/>
               <l>Wo du mir folgst, so glaube sicherlich,</l>
               <l>Ich tue dir im Walde Leides noch.</l>
             </lg>
@@ -1398,7 +1399,7 @@
             <stage>Sie gehen ab.</stage>
           </sp>
         </div>
-        <pb n="329"/>
+        <pb n="330"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein anderer Teil des Waldes.</stage>
@@ -1461,7 +1462,7 @@
               <l>Nun gute Nacht mit Eia popei!</l>
             </lg>
           </sp>
-          <pb n="330"/>
+          <pb n="331"/>
           <sp who="#erster_elfe">
             <speaker>ERSTER ELFE.</speaker>
             <lg>
@@ -1538,7 +1539,7 @@
               <l>Hätt' ich, Lysander lüge, je gemeint.</l>
               <l>Doch aus Gefälligkeit und Lieb', ich bitte,</l>
               <l>Rückt weiter weg! so weit, wie nach der Sitte</l>
-              <pb n="331"/>
+              <pb n="332"/>
               <l>Der Menschen sich, getrennt von einem Mann,</l>
               <l>Ein tugendsames Mädchen betten kann.</l>
               <l><emph>Der</emph> Raum sei zwischen uns. – Schlaf' süß! Der Himmel gebe,</l>
@@ -1608,7 +1609,7 @@
             <lg>
               <l>Die tolle Jagd, sie macht mir weh und bange!</l>
               <l>Je mehr ich fleh', je minder ich erlange.</l>
-              <pb n="332"/>
+              <pb n="333"/>
               <l>Wo Hermia ruhen mag, – sie ist beglückt,</l>
               <l>Denn sie hat Augen, deren Strahl entzückt.</l>
               <l>Wie wurden sie so hell? Durch Tränen? Nein!</l>
@@ -1667,7 +1668,7 @@
               <l>Verdient' ich es um Euch, daß Ihr mich quält?</l>
               <l>War's nicht genug, genug nicht, junger Mann,</l>
               <l>Daß ich nicht einen Blick gewinnen kann,</l>
-              <pb n="333"/>
+              <pb n="334"/>
               <l>Nicht einen holden Blick von dem Geliebten,</l>
               <l>Wenn Eure Spötterei'n mich nicht betrübten?</l>
               <l>Ihr tut, fürwahr, Ihr tut an mir nicht recht,</l>
@@ -1716,7 +1717,7 @@
           </sp>
         </div>
       </div>
-      <pb n="334"/>
+      <pb n="335"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -1767,7 +1768,7 @@
             <speaker>SQUENZ.</speaker>
             <p>Gut, wir wollen einen solchen Prologus haben.</p>
           </sp>
-          <pb n="335"/>
+          <pb n="336"/>
           <sp who="#schnauz">
             <speaker>SCHNAUZ.</speaker>
             <p>Werden die Damen nicht auch vor dem Löwen erschrecken?</p>
@@ -1825,7 +1826,7 @@
             <speaker>SQUENZ.</speaker>
             <p>Ja, oder es könnte auch einer mit einem Dornbusch und einer Laterne herauskommen, und
               sagen, er komme, die Person des Mondscheins zu defigurieren oder zu präsentieren. Aber
-              da ist noch ein Punkt: wir müssen in der großen <pb n="336"/> Stube eine Wand haben;
+              da ist noch ein Punkt: wir müssen in der großen <pb n="337"/> Stube eine Wand haben;
               denn Pyramus und Thisbe, sagt die Historie, redeten durch die Spalte einer Wand mit
               einander.</p>
           </sp>
@@ -1904,7 +1905,7 @@
           </sp>
           <sp who="#squenz">
             <speaker>SQUENZ.</speaker>
-            <p>Ninus' Grab, Kerl. Aber das müßt Ihr jetzt nicht sagen, <pb n="337"/> das antwortet
+            <p>Ninus' Grab, Kerl. Aber das müßt Ihr jetzt nicht sagen, <pb n="338"/> das antwortet
               Ihr dem Pyramus. Ihr sagt Euren ganzen Part auf einmal her, Stichwörter und den ganzen
               Plunder. – Pyramus, tretet auf; Euer Stichwort ist schon dagewesen; es ist: »ermüdet
               auch«.</p>
@@ -1970,7 +1971,7 @@
               <l>Bis in den Himmel 'nein.</l>
             </lg>
           </sp>
-          <pb n="338"/>
+          <pb n="339"/>
           <sp who="#titania">
             <speaker>TITANIA</speaker>
             <stage>erwachend.</stage>
@@ -2033,7 +2034,7 @@
             </lg>
             <stage>Vier Elfen treten auf.</stage>
           </sp>
-          <pb n="339"/>
+          <pb n="340"/>
           <sp who="#senfsamen">
             <speaker>ERSTER ELFE.</speaker>
             <l>Hier!</l>
@@ -2119,7 +2120,7 @@
             <speaker>ZETTEL.</speaker>
             <p>Lieber Musje Senfsamen, ich kenne Ihre Geduld gar wohl. Jener niederträchtige und
               ungeschlachte Kerl, Rinderbraten, hat schon manchen wackern Herrn von Ihrem Hause
-              verschlungen. Sei'n Sie versichert, Ihre Freundschaft <pb n="340"/> hat mir schon oft
+              verschlungen. Sei'n Sie versichert, Ihre Freundschaft <pb n="341"/> hat mir schon oft
               die Augen übergehen machen. Ich wünsche nähere Bekanntschaft, lieber Musje
               Senfsamen.</p>
           </sp>
@@ -2172,7 +2173,7 @@
               <l>Mein Affe tritt heraus; kaum sehen ihn</l>
               <l>Die Freund', als sie wie wilde Gänse fliehn,</l>
               <l>Wenn sie des Jägers leisen Tritt erlauschen;</l>
-              <pb n="341"/>
+              <pb n="342"/>
               <l>Wie graue Krähen, deren Schwarm mit Rauschen</l>
               <l>Und Krächzen auffliegt, wenn ein Schuß geschieht,</l>
               <l>Und wild am Himmel da- und dorthin zieht.</l>
@@ -2236,7 +2237,7 @@
               <l>Und durch die Öffnung zu den Antipoden</l>
               <l>Zu senden des verwegnen Mondes Gruß,</l>
               <l>Der hellen Mittagssonne zum Verdruß.</l>
-              <pb n="342"/>
+              <pb n="343"/>
               <l>Es kann nicht anders sein, du mordetest ihn mir:</l>
               <l>So sieht ein Mörder aus, so graß, so stier.</l>
             </lg>
@@ -2328,7 +2329,7 @@
               <l>Millionen falsch auf Schwüre Schwür' entweihen.</l>
             </lg>
           </sp>
-          <pb n="343"/>
+          <pb n="344"/>
           <sp who="#oberon">
             <speaker>OBERON.</speaker>
             <lg>
@@ -2401,7 +2402,7 @@
               <l>Die an der Stirn des Ernstes Siegel tragen?</l>
             </lg>
           </sp>
-          <pb n="344"/>
+          <pb n="345"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <lg>
@@ -2467,7 +2468,7 @@
               <l>Du liebst ja Hermia; weißt, daß ich es weiß.</l>
               <l>Hier sei von Herzensgrund, in Güt' und Frieden,</l>
               <l>An Hermias Huld mein Anteil dir beschieden.</l>
-              <pb n="345"/>
+              <pb n="346"/>
               <l>Tritt deinen nun an Helena mir ab;</l>
               <l>Ich lieb' und will sie lieben bis ins Grab.</l>
             </lg>
@@ -2545,7 +2546,7 @@
               <l>Sind alle Heimlichkeiten, die wir teilten,</l>
               <l>Der Schwestertreu' Gelübde, jene Stunden,</l>
               <l>Wo wir den raschen Tritt der Zeit verwünscht,</l>
-              <pb n="346"/>
+              <pb n="347"/>
               <l>Weil sie uns schied: oh, alles nun vergessen?</l>
               <l>Die Schulgenossenschaft, die Kinderunschuld?</l>
               <l>Wie kunstbegabte Götter schufen wir</l>
@@ -2602,7 +2603,7 @@
             <speaker>HELENA.</speaker>
             <lg>
               <l>Schon recht! Beharrt nur! Heuchelt ernste Blicke,</l>
-              <pb n="347"/>
+              <pb n="348"/>
               <l>Und zieht Gesichter hinterm Rücken mir!</l>
               <l>Blinzt Euch nur zu! Verfolgt den feinen Scherz!</l>
               <l>Wohl ausgeführt, wird er euch nachgerühmt.</l>
@@ -2716,7 +2717,7 @@
               <l>Hass' ich sie schon, ich will kein Leid ihr tun.</l>
             </lg>
           </sp>
-          <pb n="348"/>
+          <pb n="349"/>
           <sp who="#hermia">
             <speaker>HERMIA.</speaker>
             <lg>
@@ -2785,7 +2786,7 @@
               <l>Ich nähm' es mit ihr auf.</l>
             </lg>
           </sp>
-          <pb n="349"/>
+          <pb n="350"/>
           <sp who="#hermia">
             <speaker>HERMIA.</speaker>
             <l>Schon wieder kleiner?</l>
@@ -2878,7 +2879,7 @@
             <l>Dir folgen? Nein, ich halte Schritt mit dir.</l>
             <stage>Lysander und Demetrius ab.</stage>
           </sp>
-          <pb n="350"/>
+          <pb n="351"/>
           <sp who="#hermia">
             <speaker>HERMIA.</speaker>
             <lg>
@@ -2943,7 +2944,7 @@
               <l>Wie Träum' und eitle Nachtgebild' entflogen;</l>
               <l>Dann kehren wieder nach Athen zurück</l>
               <l>Die Liebenden, vereint zu stetem Glück.</l>
-              <pb n="351"/>
+              <pb n="352"/>
               <l>Derweil dies alles deine Sorgen sind</l>
               <l>Bitt' ich Titanien um ihr indisch Kind;</l>
               <l>Ich bann' ihr vom betörten Augenlide</l>
@@ -3019,7 +3020,7 @@
               <l>In welchem Busche steckst du? Sprich ein Wort!</l>
             </lg>
           </sp>
-          <pb n="352"/>
+          <pb n="353"/>
           <sp who="#droll">
             <speaker>DROLL.</speaker>
             <lg>
@@ -3093,7 +3094,7 @@
               <l>Und Tageslicht, laß mich nicht länger schmachten!</l>
               <l>Zur Heimat führe weg von diesen mich,</l>
               <l>Die meine arme Gegenwart verachten.</l>
-              <pb n="353"/>
+              <pb n="354"/>
               <l>Du, Schlaf, der oft dem Grame Lind'rung leiht,</l>
               <l>Entziehe mich mir selbst auf kurze Zeit!</l>
             </lg>
@@ -3150,7 +3151,7 @@
           </sp>
         </div>
       </div>
-      <pb n="354"/>
+      <pb n="355"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3212,7 +3213,7 @@
               ich bin ein so zärtlicher Esel: wenn mein Haar mich nur ein bißchen kitzelt, gleich
               muß ich kratzen.</p>
           </sp>
-          <pb n="355"/>
+          <pb n="356"/>
           <sp who="#titania">
             <speaker>TITANIA.</speaker>
             <p>Willst du Musik vernehmen, süßer Freund?</p>
@@ -3276,7 +3277,7 @@
               <l>Sie gab's mir gleich und sandte ihren Elfen</l>
               <l>Zu meiner Laub' im Feenland mit ihm.</l>
               <l>Nun, da der Knabe mein ist, sei ihr Auge</l>
-              <pb n="356"/>
+              <pb n="357"/>
               <l>Von dieser häßlichen Verblendung frei.</l>
               <l>Du, lieber Droll, nimm diese fremde Larve</l>
               <l>Vom Kopfe des Gesellen aus Athen;</l>
@@ -3348,7 +3349,7 @@
               <l>Die Paare hier in Wonn' und Fröhlichkeit.</l>
             </lg>
           </sp>
-          <pb n="357"/>
+          <pb n="358"/>
           <sp who="#droll">
             <speaker>DROLL.</speaker>
             <lg>
@@ -3414,7 +3415,7 @@
               <l>Nicht schnell zur Jagd, doch ihrer Kehlen Ton</l>
               <l>Folgt aufeinander wie ein Glockenspiel.</l>
               <l>Harmonischer scholl niemals ein Gebell</l>
-              <pb n="358"/>
+              <pb n="359"/>
               <l>Zum Hussa und zum frohen Hörnerschall</l>
               <l>In Kreta, Sparta, noch Thessalien.</l>
               <l>Entscheidet selbst! – Doch still! wer sind hier diese?</l>
@@ -3491,7 +3492,7 @@
             <speaker>EGEUS.</speaker>
             <lg>
               <l>Genug, genug! Mein Fürst, Ihr habt genug;</l>
-              <pb n="359"/>
+              <pb n="360"/>
               <l>Ich will den Bann, den Bann auf seinen Kopf.</l>
               <l>Fliehn wollten sie, ja fliehn, Demetrius!</l>
               <l>Und wollten so berauben dich und mich,</l>
@@ -3551,7 +3552,7 @@
               <l>Dem alles doppelt scheint.</l>
             </lg>
           </sp>
-          <pb n="360"/>
+          <pb n="361"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <lg>
@@ -3610,7 +3611,7 @@
             </p>
           </sp>
         </div>
-        <pb n="361"/>
+        <pb n="362"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Athen. Eine Stube in Squenzens Hause.</stage>
@@ -3677,7 +3678,7 @@
               sage bin ich kein ehrlicher Athener. Ich will euch alles sagen, just wie es sich
               zutrug.</p>
           </sp>
-          <pb n="362"/>
+          <pb n="363"/>
           <sp who="#squenz">
             <speaker>SQUENZ.</speaker>
             <p>Laß uns hören, lieber Zettel!</p>
@@ -3697,7 +3698,7 @@
           </sp>
         </div>
       </div>
-      <pb n="363"/>
+      <pb n="364"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -3739,7 +3740,7 @@
               <l>Wie leicht, daß man den Busch für einen Bären hält!</l>
             </lg>
           </sp>
-          <pb n="364"/>
+          <pb n="365"/>
           <sp who="#hippolyta">
             <speaker>HIPPOLYTA.</speaker>
             <lg>
@@ -3813,7 +3814,7 @@
               <l>»Der Musen Neunzahl, traurend um den Tod</l>
               <l>Der jüngst im Bettelstand verstorbenen Gelahrtheit.«</l>
               <l>Das ist 'ne strenge, beißende Satire,</l>
-              <pb n="365"/>
+              <pb n="366"/>
               <l>Die nicht zu einer Hochzeitfeier paßt.</l>
               <l>»Ein kurz langweil'ger Akt vom jungen Pyramus</l>
               <l>Und Thisbe, seinem Lieb'. Spaßhafte Tragödie.«</l>
@@ -3887,7 +3888,7 @@
             <speaker>THESEUS.</speaker>
             <l>Du sollst ja, Teure, nichts dergleichen sehn.</l>
           </sp>
-          <pb n="366"/>
+          <pb n="367"/>
           <sp who="#hippolyta">
             <speaker>HIPPOLYTA.</speaker>
             <l>Er sagt ja, sie verstehen nichts davon.</l>
@@ -3945,7 +3946,7 @@
               <l>Versteht ihr alles schon, was ihr nur wollt verstehen.«</l>
             </lg>
           </sp>
-          <pb n="367"/>
+          <pb n="368"/>
           <sp who="#theseus">
             <speaker>THESEUS.</speaker>
             <l>Dieser Bursche nimmt's nicht sehr genau.</l>
@@ -3996,7 +3997,7 @@
               <l>Und Thisbe, die indes im Maulbeerschatten g'legen,</l>
               <l>Zog seinen Dolch heraus und sich das Herz zerbrach.</l>
               <l>Was noch zu sagen ist, das wird, glaubt mir fürwahr!</l>
-              <pb n="368"/>
+              <pb n="369"/>
               <l>Euch Mondschein, Wand und Löw' und das verliebte Paar</l>
               <l>Der Läng' und Breite nach, solang' sie hier verweilen,</l>
               <l>Erzählen, wenn ihr wollt, in wohlgereimten Zeilen.«</l>
@@ -4058,7 +4059,7 @@
               <l>Verflucht sei'n deine Stein', daß du so äffest mich.«</l>
             </lg>
           </sp>
-          <pb n="369"/>
+          <pb n="370"/>
           <sp who="#theseus">
             <speaker>THESEUS.</speaker>
             <l>Mich dünkt, die Wand müßte wieder fluchen, da sie Empfindung hat.</l>
@@ -4136,7 +4137,7 @@
             <speaker>THESEUS.</speaker>
             <p>Nun ist also die Wand zwischen den beiden Nachbarn nieder.</p>
           </sp>
-          <pb n="370"/>
+          <pb n="371"/>
           <sp who="#demetrius">
             <speaker>DEMETRIUS.</speaker>
             <p>Das ist nicht mehr als billig, gnädiger Herr, wenn Wände Ohren haben.</p>
@@ -4213,7 +4214,7 @@
             <speaker>THESEUS.</speaker>
             <p>Er ist ein Vollmond; seine Hörner stecken unsichtbar in der Scheibe.</p>
           </sp>
-          <pb n="371"/>
+          <pb n="372"/>
           <sp who="#schlucker">
             <speaker>MOND.</speaker>
             <lg>
@@ -4299,7 +4300,7 @@
               <l>Dieweil bei deinem Gold und funkelnd süßem Licht</l>
               <l>Zu kosten ich verhoff' mein'r Thisben Angesicht.</l>
             </lg>
-            <pb n="372"/>
+            <pb n="373"/>
             <lg>
               <l>Doch halt, o Pein!</l>
               <l>Was soll dies sein?</l>
@@ -4365,7 +4366,7 @@
             <p>Wie kommt's, daß der Mondschein weggegangen ist, ehe Thisbe zurückkommt und ihren
               Liebhaber findet?</p>
           </sp>
-          <pb n="373"/>
+          <pb n="374"/>
           <sp who="#theseus">
             <speaker>THESEUS.</speaker>
             <p>Sie wird ihn beim Sternenlicht finden. – Hier kommt sie; und ihr Jammer endigt das
@@ -4434,7 +4435,7 @@
             </lg>
             <stage>Sie stirbt.</stage>
           </sp>
-          <pb n="374"/>
+          <pb n="375"/>
           <sp who="#theseus">
             <speaker>THESEUS.</speaker>
             <p>Mondschein und Löwe sind übrig geblieben, um die Toten zu begraben.</p>
@@ -4489,7 +4490,7 @@
               <l>Und, entschlüpft den kalten Mauern,</l>
               <l>Sieht man Geister auf und ab,</l>
               <l>Sieht am Kirchhofszaun sie lauern.</l>
-              <pb n="375"/>
+              <pb n="376"/>
               <l>Und wir Elfen, die mit Tanz</l>
               <l>Hekates Gespann umhüpfen</l>
               <l>Und, gescheucht vom Sonnenglanz,</l>
@@ -4542,7 +4543,7 @@
               <l>Elfen, sprengt durchs ganze Haus</l>
               <l>Tropfen heil'gen Wiesentaus!</l>
               <l>Jedes Zimmer, jeden Saal</l>
-              <pb n="376"/>
+              <pb n="377"/>
               <l>Weiht und segnet allzumal!</l>
               <l>Friede sei in diesem Schloß,</l>
               <l>Und sein Herr ein Glücksgenoß!</l>

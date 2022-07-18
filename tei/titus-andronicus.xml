@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="5"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -102,7 +103,7 @@
           <castItem>Lucius</castItem>
           <castItem>Quintus</castItem>
           <castItem>Mutius</castItem>
-          <castItem>Marcius,</castItem>
+          <castItem>Marcius</castItem>
           <roleDesc>Söhne des Titus Andromcus</roleDesc>
         </castGroup>
         <castItem>Der jüngere Lucius, Lucius' Sohn. Titus' Enkel</castItem>
@@ -111,7 +112,7 @@
         <castGroup>
           <castItem>Alarbus</castItem>
           <castItem>Chiron</castItem>
-          <castItem>Demetrius,</castItem>
+          <castItem>Demetrius</castItem>
           <roleDesc>Söhne der Tanwra</roleDesc>
         </castGroup>
         <castItem>Aaron, ein Mohr, Tamoras Geliebter</castItem>
@@ -129,8 +130,8 @@
         <p>Szene: Rom und die umliegende Gegend</p>
       </set>
     </front>
+    <pb n="7"/>
     <body>
-      <pb n="6"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -175,7 +176,7 @@
               <l>Es grüßt das röm'sche Volk, für das wir stehn</l>
               <l>Mit unsern Freunden, durch einmüt'gen Ruf</l>
               <l>Nach seinem Wahlrecht, als des Reiches Fürst</l>
-              <pb n="7"/>
+              <pb n="8"/>
               <l>Andronicus, der Fromme zubenamt,</l>
               <l>Für sein vielfach und groß Verdienst um Rom. –</l>
               <l>Ein beßrer Krieger, ein getreu'rer Mann</l>
@@ -225,7 +226,7 @@
             <lg>
               <l>Freunde, die so bereit mein Recht geschirmt,</l>
               <l>Ich dank' euch all'n, und all' entlass' ich euch;</l>
-              <pb n="8"/>
+              <pb n="9"/>
               <l>Und meines Vaterlandes Lieb' und Gunst</l>
               <l>Vertrau' ich hier mich selbst und mein Gesuch. –</l>
               <l>Rom, sei gerecht und so gewogen mir,</l>
@@ -275,7 +276,7 @@
               <l>Hälfte der Zahl von König Priams Stamm,</l>
               <l>Schau hier den armen Rest, lebend und tot! –</l>
               <l>Mit Lieb' empfange Rom euch Lebende;</l>
-              <pb n="9"/>
+              <pb n="10"/>
               <l>Euch Toten, die zur letzten Ruh'statt gehn,</l>
               <l>Schenk' es ein Grab in ihrer Ahnen Gruft;</l>
               <l>Hier gönnt der Got' erst Ruhe meinem Schwert.</l>
@@ -330,7 +331,7 @@
               <l>Titus, beflecke nicht dein Grab mit Blut;</l>
               <l>Und willst du der Natur der Götter nahn,</l>
               <l>Nah' ihnen denn, indem du Gnade übst:</l>
-              <pb n="10"/>
+              <pb n="11"/>
               <l>Denn gnädig sein gibt echten Adel kund.</l>
               <l>O schone, Titus, meinen ältsten Sohn! –</l>
             </lg>
@@ -400,7 +401,7 @@
             <lg>
               <l>Schlaft, meine Söhne, hier in Fried' und Ruhm!</l>
               <l>Roms mutigste Verteid'ger, ruht allhier,</l>
-              <pb n="11"/>
+              <pb n="12"/>
               <l>Geschirmt vor Leid und Wechsel dieser Welt!</l>
               <l>Hier lauert kein Verrat, hier schwillt kein Neid,</l>
               <l>Wächst kein verhaßter Zwist, kein Sturm für euch,</l>
@@ -466,7 +467,7 @@
             <speaker>TITUS.</speaker>
             <lg>
               <l>Ein beßres Haupt gebührt so edlem Leib</l>
-              <pb n="12"/>
+              <pb n="13"/>
               <l>Als meins, das längst von Schwäch' und Alter wankt.</l>
               <l>Wie trüg' ich dies Gewand euch zur Beschwer?</l>
               <l>Ihr wähltet heut mit lautem Beifall mich,</l>
@@ -549,7 +550,7 @@
             <lg>
               <l>Habt Dank, Tribunen! So ersuch' ich euch,</l>
               <l>Daß ihr erwählt des Kaisers ältsten Sohn,</l>
-              <pb n="13"/>
+              <pb n="14"/>
               <l>Prinz Saturnin; des Tugend, hoff ich, Rom</l>
               <l>Bestrahlen wird, wie Titans Licht die Welt,</l>
               <l>Und Recht und Sitte reifen hier im Staat.</l>
@@ -611,7 +612,7 @@
             <stage>zu Tamora.</stage>
             <lg>
               <l>Dem Kaiser, Fürstin, seid Ihr jetzt Gefangne,</l>
-              <pb n="14"/>
+              <pb n="15"/>
               <l>Der, Eures Rangs und Standes eingedenk,</l>
               <l>Euch und den Dienern mild begegnen wird.</l>
             </lg>
@@ -708,7 +709,7 @@
             <speaker>MUTIUS.</speaker>
             <l>Halt' ein, o Vater!</l>
           </sp>
-          <pb n="15"/>
+          <pb n="16"/>
           <sp who="#titus">
             <speaker>TITUS.</speaker>
             <lg>
@@ -788,7 +789,7 @@
               <l>Dann schwör' ich dir, bei allen Göttern Roms,</l>
               <l>Weil Priester und geweihtes Wasser nah,</l>
               <l>Die Fackel flammt, und jeder heil'ge Brauch</l>
-              <pb n="16"/>
+              <pb n="17"/>
               <l>Für Hymenäus' Feier steht bereit:</l>
               <l>Ich will nicht wiedersehn die Straßen Roms,</l>
               <l>Noch des Palastes Schwelle, führ' ich nicht</l>
@@ -871,7 +872,7 @@
             <speaker>DIE SÖHNE DES TITUS.</speaker>
             <l>Das soll er, oder alle folgen ihm!</l>
           </sp>
-          <pb n="17"/>
+          <pb n="18"/>
           <sp who="#titus">
             <speaker>TITUS.</speaker>
             <l>Er soll? Wer war der Schurke, der so sprach?</l>
@@ -972,7 +973,7 @@
             <speaker>MARCUS.</speaker>
             <lg>
               <l>Bruder, – so trübe Schwermut zu zerstreun, –</l>
-              <pb n="18"/>
+              <pb n="19"/>
               <l>Wie hat die schlaue Gotenkönigin</l>
               <l>So schleunig sich den Weg gebahnt in Rom?</l>
             </lg>
@@ -1050,7 +1051,7 @@
             <lg>
               <l>Prinz Bassianus, sei mein Anwalt nicht;</l>
               <l>Du bist's und jene dort, die mich entehrt;</l>
-              <pb n="19"/>
+              <pb n="20"/>
               <l>Rom und der ew'ge Himmel richten mich,</l>
               <l>Wie treu ich ehrt' und liebte Saturnin!</l>
             </lg>
@@ -1123,7 +1124,7 @@
             <lg>
               <l>Titus, ich bin jetzt einverleibt in Rom,</l>
               <l>Als Römerin nun glücklich anerkannt,</l>
-              <pb n="20"/>
+              <pb n="21"/>
               <l>Und muß dem Kaiser raten für sein Wohl.</l>
               <l>Heut sterbe jeder Groll, Andronicus; –</l>
               <l>Und sei's mein schönster Ruhm, du tapfrer Held,</l>
@@ -1190,7 +1191,7 @@
           </sp>
         </div>
       </div>
-      <pb n="21"/>
+      <pb n="22"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1227,7 +1228,7 @@
             </lg>
             <stage>Es treten auf Chiron und Demetrius, einander drohend.</stage>
           </sp>
-          <pb n="22"/>
+          <pb n="23"/>
           <sp who="#demetrius">
             <speaker>DEMETRIUS.</speaker>
             <lg>
@@ -1307,7 +1308,7 @@
               <l>Und der das Eisen nicht zu brauchen wagt!</l>
             </lg>
           </sp>
-          <pb n="23"/>
+          <pb n="24"/>
           <sp who="#aaron">
             <speaker>AARON.</speaker>
             <lg>
@@ -1388,7 +1389,7 @@
               <l>Und vor des Försters Nase trugst du's heim? –</l>
             </lg>
           </sp>
-          <pb n="24"/>
+          <pb n="25"/>
           <sp who="#aaron">
             <speaker>AARON.</speaker>
             <lg>
@@ -1452,7 +1453,7 @@
               <l>Der Palast voller Zungen, Ohren, Augen:</l>
               <l>Der Wald ist fühllos, schrecklich, taub und stumm;</l>
               <l>Da sprecht und schlagt, ihr Wackern, beid' im Glück,</l>
-              <pb n="25"/>
+              <pb n="26"/>
               <l>Da büßt die Lust, beschirmt vom dunkeln Wald,</l>
               <l>Und schwelget in Laviniens keuschem Schatz!</l>
             </lg>
@@ -1523,7 +1524,7 @@
             <speaker>SATURNINUS.</speaker>
             <lg>
               <l>Frisch auf dann; Roß und Wagen holt herbei,</l>
-              <pb n="26"/>
+              <pb n="27"/>
               <l>Und hin zum Forst; Herrin, jetzt sollt Ihr sehn</l>
               <l>Ein römisch Jagdfest!</l>
             </lg>
@@ -1584,7 +1585,7 @@
               <l>Dem vollen Horn antwortend hellen Ruf,</l>
               <l>Als tönt' ein Doppeljagen uns zugleich. –</l>
               <l>Setz' dich und horch' dem fröhlichen Gebell!</l>
-              <pb n="27"/>
+              <pb n="28"/>
               <l>Und nach verliebtem Kampf (des, wie man wähnt,</l>
               <l>Der flücht'ge Held und Dido einst sich freuten,</l>
               <l>Als sie ein glücklicher Orkan gescheucht</l>
@@ -1641,7 +1642,7 @@
             <lg>
               <l>Wer naht uns hier? Roms hohe Kaiserin,</l>
               <l>Vom ziemenden Gefolg' so weit entfernt?</l>
-              <pb n="28"/>
+              <pb n="29"/>
               <l>Wie, oder Diana, so geschmückt wie sie,</l>
               <l>Die ihr geheiligt Waldasyl verließ,</l>
               <l>Zu schaun die große Jagd in diesem Forst?</l>
@@ -1719,7 +1720,7 @@
             <speaker>TAMORA.</speaker>
             <lg>
               <l>Was meint Ihr, hab' ich Grund nicht, bleich zu sehn?</l>
-              <pb n="29"/>
+              <pb n="30"/>
               <l>Die zwei verlockten mich in dieses Tal:</l>
               <l>Ihr seht, es ist ein wüst abscheul'cher Ort,</l>
               <l>Die Bäum', obwohl im Sommer, kahl und dürr,</l>
@@ -1781,7 +1782,7 @@
               <l>Und nähme sie das alles mit ins Grab?</l>
             </lg>
           </sp>
-          <pb n="30"/>
+          <pb n="31"/>
           <sp who="#chiron">
             <speaker>CHIRON.</speaker>
             <lg>
@@ -1876,7 +1877,7 @@
               <l>Gedenkt nur, Knaben, wie ich weint' umsonst,</l>
               <l>Vom Opfer euern Bruder zu befrein;</l>
               <l>Doch nimmer gab der grimme Titus nach!</l>
-              <pb n="31"/>
+              <pb n="32"/>
               <l>Drum schafft sie fort, verfahrt mit ihr nach Lust;</l>
               <l>Je schlimmer, um so besser mir geliebt!</l>
             </lg>
@@ -1961,7 +1962,7 @@
             <speaker>QUINTUS.</speaker>
             <l>Was es auch deute, trübe ward mein Blick.</l>
           </sp>
-          <pb n="32"/>
+          <pb n="33"/>
           <sp who="#marcius">
             <speaker>MARCIUS.</speaker>
             <lg>
@@ -2052,7 +2053,7 @@
               <l>Auf seiner Leiche fahles Antlitz scheint,</l>
               <l>Und zeigt der Grube scheußlich Eingeweide.</l>
               <l>So bleich auch schien der Mond auf Pyramus,</l>
-              <pb n="33"/>
+              <pb n="34"/>
               <l>Als er gebadet lag in Mädchenblut!</l>
               <l>O Bruder, hilf mir mit kraftloser Hand –</l>
               <l>(Wenn Furcht dich kraftlos machte, so wie mich, –),</l>
@@ -2142,7 +2143,7 @@
             <lg>
               <l>Dann allzu spät erhältst du dieses Blatt,</l>
               <l>Den Plan des übereilten Trauerspiels.</l>
-              <pb n="34"/>
+              <pb n="35"/>
               <l>Ich staune, wie ein menschlich Antlitz barg</l>
               <l>In sanftem Lächeln so tyrann'schen Mord.</l>
             </lg>
@@ -2222,7 +2223,7 @@
             <speaker>SATURNINUS.</speaker>
             <lg>
               <l>Du sollst nicht Bürge sein: gleich folge mir!</l>
-              <pb n="35"/>
+              <pb n="36"/>
               <l>Ihr nehmt den Toten, ihr die Mörder mit:</l>
               <l>Laßt sie nicht reden, ihre Schuld ist klar;</l>
               <l>Denn wahrlich, gäb' es härtre Straf als Tod,</l>
@@ -2299,7 +2300,7 @@
               <l>Der beiden Zweige süße Zier, die Laube,</l>
               <l>In deren Schatten Kön'ge gern geruht</l>
               <l>Und nimmer ein so reizend Glück erstrebt</l>
-              <pb n="36"/>
+              <pb n="37"/>
               <l>Als halb nur deine Gunst? Was sprichst du nicht?</l>
               <l>Weh mir! ein Purpurstrom von warmem Blut,</l>
               <l>Gleich einem Springquell, den der Wind bewegt,</l>
@@ -2342,7 +2343,7 @@
           </sp>
         </div>
       </div>
-      <pb n="37"/>
+      <pb n="38"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2380,7 +2381,7 @@
               <l>Wenn du nicht trinkst der teuren Söhne Blut.</l>
             </lg>
             <stage>Die Richter sind weggegangen; Lucius kommt mit gezogenem Schwert.</stage>
-            <pb n="38"/>
+            <pb n="39"/>
             <lg>
               <l>O würdige Tribunen! Teure Greise,</l>
               <l>Befreit sie, ruft zurück den Todesspruch,</l>
@@ -2448,7 +2449,7 @@
             </lg>
             <stage>Marcus kommt mit Lavinia.</stage>
           </sp>
-          <pb n="39"/>
+          <pb n="40"/>
           <sp who="#marcus">
             <speaker>MARCUS.</speaker>
             <lg>
@@ -2528,7 +2529,7 @@
               <l>Nun steh' ich wie ein Mann auf einem Fels,</l>
               <l>Umgeben von der weiten, wüsten See,</l>
               <l>Der Wog' auf Woge schwellen sieht die Flut,</l>
-              <pb n="40"/>
+              <pb n="41"/>
               <l>Und stets erwartet, ob ein neid'scher Schwall</l>
               <l>In seine salz'gen Tiefen ihn begräbt.</l>
               <l>Zum Tod hier gingen meine armen Söhne;</l>
@@ -2577,7 +2578,7 @@
               <l>Die Zung' abbeißen, und mit stummen Zeichen</l>
               <l>Verhaßter Tage Überrest verbringen?</l>
               <l>Was soll'n wir tun? Laßt uns, die Zungen haben,</l>
-              <pb n="41"/>
+              <pb n="42"/>
               <l>Ein Jammerspiel entwerfen fernern Elends,</l>
               <l>Daß wir ein Wunder werden künft'ger Zeit!</l>
             </lg>
@@ -2656,7 +2657,7 @@
               <l>Wes Hand von euch hat Rom nicht Schutz verliehn</l>
               <l>Und hoch im Kampf die blut'ge Axt gezückt,</l>
               <l>Vernichtung schreibend auf der Feinde Helm?</l>
-              <pb n="42"/>
+              <pb n="43"/>
               <l>Oh, keine, die nicht höchsten Ruhm erfocht,</l>
               <l>Und meine war nur müßig; diene sie,</l>
               <l>Vom Tod die beiden Neffen zu befrein,</l>
@@ -2748,7 +2749,7 @@
             <lg>
               <l>Ich geh', Andronicus; für deine Hand</l>
               <l>Mach' dich bereit, die Söhne bald zu sehn; –</l>
-              <pb n="43"/>
+              <pb n="44"/>
               <l><stage>beiseit</stage> Der Buben Häupter mein' ich. – Wie der Streich,</l>
               <l>Wenn ich dran denke, mich ergötzt und weidet! –</l>
               <l>Laß Narr'n und Weiße fromm um Gnade werben,</l>
@@ -2819,7 +2820,7 @@
               <l>Die gute Hand, die du dem Kaiser gabst.</l>
               <l>Sieh hier zwei Häupter deiner edlen Söhne;</l>
               <l>Hier deine Hand, zum Hohn zurückgeschickt:</l>
-              <pb n="44"/>
+              <pb n="45"/>
               <l>Dein Schmerz ihr Spott, und dein Entschluß verhöhnt,</l>
               <l>So daß mir's weh ist, denk' ich deines Wehs,</l>
               <l>Mehr als Erinn'rung an des Vaters Tod.</l>
@@ -2892,7 +2893,7 @@
               <l>Denn diese Häupter reden ja zu mir,</l>
               <l>Und drohn mir, ewig nicht erlang' ich Ruh',</l>
               <l>Bis all dies Elend ward zurückgezahlt,</l>
-              <pb n="45"/>
+              <pb n="46"/>
               <l>Zurück in deren Schlund, die's ausgesandt.</l>
               <l>Still! Laßt mich sehn, was nun mein Tagewerk:</l>
               <l>Ihr Volk des Jammers, stellt euch um mich her,</l>
@@ -2940,7 +2941,7 @@
             <lg>
               <l>So, so; nun sitzt; gebt acht und eßt nicht mehr,</l>
               <l>Als was nur eben uns in Kraft erhält,</l>
-              <pb n="46"/>
+              <pb n="47"/>
               <l>Rache zu nehmen für dies bittre Weh.</l>
               <l>Marcus, entknüpf' den gramgeschlungnen Knoten!</l>
               <l>Der Nicht' und mir, uns Ärmsten, fehlen Hände,</l>
@@ -2992,7 +2993,7 @@
               <l>Ihr Becher sei die Wang', ihr Aug' die Kelter.</l>
               <l>Sprachlose Klag'! Ich forsche deinen Sinn,</l>
               <l>Dein stummes Reden lern' ich so verstehn,</l>
-              <pb n="47"/>
+              <pb n="48"/>
               <l>Wie bettelnde Einsiedler ihr Brevier.</l>
               <l>Du sollst nicht seufzen, nicht zum Himmel sehn,</l>
               <l>Nicht winken, nicken, Zeichen machen, knien,</l>
@@ -3071,7 +3072,7 @@
               <l>Das nimm für dich! und dies für Tamora!</l>
               <l>Ah, Bube!</l>
               <l>Ich denke doch, so sind wir nicht herunter,</l>
-              <pb n="48"/>
+              <pb n="49"/>
               <l>Daß wir am Tisch hier nicht 'ne Flieg' erschlügen,</l>
               <l>Die kohlschwarz wie ein Mohr sich zu uns drängt!</l>
             </lg>
@@ -3096,7 +3097,7 @@
           </sp>
         </div>
       </div>
-      <pb n="49"/>
+      <pb n="50"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3157,7 +3158,7 @@
               <l>So zärtlich mich, als meine Mutter tat,</l>
               <l>Und nur im Fieber könnte sie mich schrecken.</l>
               <l>So warf ich denn die Bücher hin und lief,</l>
-              <pb n="50"/>
+              <pb n="51"/>
               <l>Vielleicht um nichts: doch, Muhme, seid nicht bös!</l>
               <l>Und, Base, wenn mein Oheim Marcus folgt,</l>
               <l>Dann will ich mit Euch gehn, wohin es sei.</l>
@@ -3245,7 +3246,7 @@
             <speaker>TITUS.</speaker>
             <lg>
               <l>Gib Zeichen, Kind, – hier sind ja Freunde nur –,</l>
-              <pb n="51"/>
+              <pb n="52"/>
               <l>Wer ist der Römer, der die Tat gewagt?</l>
               <l>Schlich Saturnin heran, wie einst Tarquin,</l>
               <l>Als er vom Heer sich zu Lucretien stahl?</l>
@@ -3312,7 +3313,7 @@
               <l>Sie morden, oder selbst als Feige sterben.</l>
             </lg>
           </sp>
-          <pb n="52"/>
+          <pb n="53"/>
           <sp who="#titus">
             <speaker>TITUS.</speaker>
             <lg>
@@ -3388,7 +3389,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="53"/>
+        <pb n="54"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Zimmer im kaiserlichen Palast.</stage>
@@ -3468,7 +3469,7 @@
               <l>Wär' unsre witz'ge Kaiserin wohlauf,</l>
               <l>Sie klatschte Beifall Titus' spitzem Wort:</l>
               <l>Doch mag sie ruhn, unruhig wie sie ist. –</l>
-              <pb n="54"/>
+              <pb n="55"/>
               <stage>Laut.</stage>
               <l>Nun, junge Herrn, war's nicht ein gut Gestirn,</l>
               <l>Das uns als Fremde hergeführt nach Rom,</l>
@@ -3584,7 +3585,7 @@
               <l>Geb' ihr 'ne gute Nacht! Was schickt' er ihr?</l>
             </lg>
           </sp>
-          <pb n="55"/>
+          <pb n="56"/>
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
             <l>Einen Teufel.</l>
@@ -3682,7 +3683,7 @@
               <l>Was? Ihr blutdürst'gen Buben, schalen Geistes,</l>
               <l>Weißkalk'ge Wände, bunte Bierhauszeichen:</l>
               <l>Kohlschwarz gilt mehr als jede andre Farbe;</l>
-              <pb n="56"/>
+              <pb n="57"/>
               <l>Denn alle Wasserflut im weiten Meer</l>
               <l>Wäscht nicht des Schwanes schwarze Füße weiß,</l>
               <l>Obschon er stündlich sie im Meere spült. –</l>
@@ -3766,7 +3767,7 @@
             <speaker>AARON.</speaker>
             <lg>
               <l>Seht, liebe Herrn, wenn wir uns einig sind,</l>
-              <pb n="57"/>
+              <pb n="58"/>
               <l>Bin ich ein Lamm: doch bietet Trotz dem Mohren,</l>
               <l>Und Aaron stürmt, wie das empörte Meer,</l>
               <l>Wie Eber wild und Löwen im Gebirg'. –</l>
@@ -3835,7 +3836,7 @@
             </lg>
             <stage>Chiron und Demetrius gehn ab.</stage>
           </sp>
-          <pb n="58"/>
+          <pb n="59"/>
           <sp who="#aaron">
             <speaker>AARON.</speaker>
             <lg>
@@ -3882,7 +3883,7 @@
               <l>Für ihn, der jetzt mich heimsucht als Tyrann.</l>
               <l>Geht, geht! Ich bitt' euch, habt mir acht und forscht,</l>
               <l>Und laßt mir ja kein Kriegsschiff undurchsucht: –</l>
-              <pb n="59"/>
+              <pb n="60"/>
               <l>Falls sie der Kaiser über Meer geschifft,</l>
               <l>Dann, Vettern, pfeift nur nach Gerechtigkeit!</l>
             </lg>
@@ -3952,7 +3953,7 @@
               <l>Saturn und Coelus: nicht an Saturnin, –</l>
               <l>Das wär', als schösst' ihr gegen Sturm und Wind! –</l>
               <l>Nun, Knabe, frisch; sowie ich winke, schießt!</l>
-              <pb n="60"/>
+              <pb n="61"/>
               <l>Verlaßt euch drauf, ich schrieb es mit Bedacht; –</l>
               <l>Da ist kein Gott, zu dem ich nicht gefleht.</l>
             </lg>
@@ -4041,7 +4042,7 @@
               ich gehe mit meinen Tauben zu dem Tribunalplebs, weil ich einen Zank zwischen meinem
               Vetter und einem von Seiner Kaiserlichkeit Bedienten schlichten helfen will.</p>
           </sp>
-          <pb n="61"/>
+          <pb n="62"/>
           <sp who="#marcus">
             <speaker>MARCUS.</speaker>
             <p>Seht, Bruder, das kommt uns so gelegen wie möglich, um Eure Supplik zu unterstützen;
@@ -4113,7 +4114,7 @@
               <l>Wie dünkt euch solche Kränkung? Bot man je</l>
               <l>Roms kaiserlichem Herrscher solchen Trotz,</l>
               <l>Belästigt und erzürnt ihn? – Höhnt ihn so,</l>
-              <pb n="62"/>
+              <pb n="63"/>
               <l>Weil er das Recht erfüllt, den Spruch vollzog?</l>
               <l>Ihr wißt es, Herrn, gleich den allseh'nden Göttern, –</l>
               <l>(Was auch die Störer unsrer Ruh' dem Volk</l>
@@ -4162,7 +4163,7 @@
             <stage>Der Bauer kommt.</stage>
             <l>Was gibt's, mein Freund, bringst du uns ein Gesuch?</l>
           </sp>
-          <pb n="63"/>
+          <pb n="64"/>
           <sp who="#bauer">
             <speaker>BAUER.</speaker>
             <l>Ja freilich, wenn Euer Wohlgeboren kaiserlich sind.</l>
@@ -4233,7 +4234,7 @@
               <l>Er ist es, den der Pöbel stets geliebt;</l>
               <l>Ich selber hörte klagen unterm Volk</l>
               <l>(Wenn ich umherging wie ein Bürgersmann),</l>
-              <pb n="64"/>
+              <pb n="65"/>
               <l>Daß Lucius widerrechtlich sei verbannt,</l>
               <l>Und wie sie Lucius sich zum Kaiser wünschten.</l>
             </lg>
@@ -4314,7 +4315,7 @@
           </sp>
         </div>
       </div>
-      <pb n="65"/>
+      <pb n="66"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4367,7 +4368,7 @@
               <l>Auf die zerstörten Mauern, – plötzlich, Herr,</l>
               <l>Hört' ich ein Kind im Steingewölbe schrein.</l>
               <l>Ich ging dem Laute nach, da hört' ich bald</l>
-              <pb n="66"/>
+              <pb n="67"/>
               <l>Den schrei'nden Wurm gestillt mit dieser Rede:</l>
               <l>»Schweig', brauner Schelm! halb ich, halb deine Mutter!</l>
               <l>Wenn nicht die Farbe sprach, wes Brut du seist,</l>
@@ -4434,7 +4435,7 @@
             <lg>
               <l>Wenn dir's gefällt? Nein, das beteur' ich, Lucius,</l>
               <l>Es wird dein Herz zerreißen, was du hörst.</l>
-              <pb n="67"/>
+              <pb n="68"/>
               <l>Ich muß von Totschlag reden, Mord und Raub,</l>
               <l>Von nächt'gen Taten und verruchtem Greu'l,</l>
               <l>Verrat, fluchwürd'gem Anschlag, Missetat,</l>
@@ -4514,7 +4515,7 @@
             <speaker>LUCIUS.</speaker>
             <l>O wilde, vieh'sche Buben, wie du selbst!</l>
           </sp>
-          <pb n="68"/>
+          <pb n="69"/>
           <sp who="#aaron">
             <speaker>AARON.</speaker>
             <lg>
@@ -4569,7 +4570,7 @@
               <l>Den Herden armer Leute brach den Hals;</l>
               <l>In Scheun' und Schober Kohlen warf bei Nacht,</l>
               <l>Und rief dem Eigner: »Löscht den Brand mit Tränen!«</l>
-              <pb n="69"/>
+              <pb n="70"/>
               <l>Oft grub ich tote Körper aus dem Grab</l>
               <l>Und stellte sie vor lieber Freunde Tür,</l>
               <l>Recht wenn ihr Kummer fast vergessen war;</l>
@@ -4641,7 +4642,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="70"/>
+        <pb n="71"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Tamora, Demetrius und Chiron treten verkleidet auf.</stage>
@@ -4707,7 +4708,7 @@
               <l>Ich bin die Rach', entsandt dem Höllenreich,</l>
               <l>Dein Herz zu heilen von des Geiers Biß</l>
               <l>Durch blutige Vergeltung an dem Feind. –</l>
-              <pb n="71"/>
+              <pb n="72"/>
               <l>Komm und begrüß' mich auf der Oberwelt,</l>
               <l>Zieh' mich zu Rat nun über Tod und Mord!</l>
               <l>Denn keine Höhle gibt es, kein Versteck,</l>
@@ -4777,7 +4778,7 @@
             </lg>
             <stage>Titus kommt von oben herab.</stage>
           </sp>
-          <pb n="72"/>
+          <pb n="73"/>
           <sp who="#tamora">
             <speaker>TAMORA.</speaker>
             <lg>
@@ -4844,7 +4845,7 @@
               <l>Den töte, Raub, er ist ein Weiberschänder.</l>
               <l>Geh du mit ihnen; an des Kaisers Hof</l>
               <l>Lebt eine Kön'gin, und mit ihr ein Mohr,</l>
-              <pb n="73"/>
+              <pb n="74"/>
               <l>Die magst du, als dein Abbild, leicht erkennen,</l>
               <l>Denn ganz, von Kopf zu Füßen, gleicht sie dir.</l>
               <l>Ich bitt' dich, diesen gib grausamen Tod,</l>
@@ -4914,7 +4915,7 @@
               <l>Und weilt mit ihm, bis ich zurückgekehrt!</l>
             </lg>
           </sp>
-          <pb n="74"/>
+          <pb n="75"/>
           <sp who="#titus">
             <speaker>TITUS</speaker>
             <stage>beiseit.</stage>
@@ -5005,7 +5006,7 @@
               <l>Der holde Lenz, durch euern Frost erstarrt.</l>
               <l>Ihr schlugt ihr den Gemahl; für diesen Greu'l</l>
               <l>Sind ihrer Brüder zwei zum Tod verdammt.</l>
-              <pb n="75"/>
+              <pb n="76"/>
               <l>Mir ward die Hand geraubt zu frechem Spott,</l>
               <l>Ihr Händ' und Zunge, ja, was teurer ist</l>
               <l>Als Zung' und Hand, – die unbefleckte Keuschheit,</l>
@@ -5046,7 +5047,7 @@
             <stage>Alle gehn ab.</stage>
           </sp>
         </div>
-        <pb n="76"/>
+        <pb n="77"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ein Gezelt mit Tischen und andern Sachen.</stage>
@@ -5122,7 +5123,7 @@
             <lg>
               <l>Willkommen, Herr! Willkommen, Kaiserin! –</l>
               <l>Willkommen, tapfre Goten; willkommen, Lucius!</l>
-              <pb n="77"/>
+              <pb n="78"/>
               <l>Willkommen all'! Ist gleich das Mahl gering,</l>
               <l>Doch wird's den Hunger stillen. Wollt ihr essen?</l>
             </lg>
@@ -5221,7 +5222,7 @@
             <lg>
               <l>Nun wohl! hier sind sie schon, zerhackt zu Teig,</l>
               <l>Von dem die Mutter lüstern hat genossen,</l>
-              <pb n="78"/>
+              <pb n="79"/>
               <l>Verzehrend, was dem eignen Blut entsprossen.</l>
               <l>'s ist wahr! 's ist wahr! Bezeug's mein scharfer Dolch!</l>
             </lg>
@@ -5272,7 +5273,7 @@
               <l>Und mir die Stimme bricht, wenn sie zumeist</l>
               <l>Euch rühren sollt' und euer Ohr gewinnen,</l>
               <l>Und eure Hülf' und liebreich Mitgefühl. –</l>
-              <pb n="79"/>
+              <pb n="80"/>
               <l>Hier ist ein Feldherr, der's erzählen mag:</l>
               <l>Eu'r Herz wird weinen, hört ihr seine Rede.</l>
             </lg>
@@ -5321,7 +5322,7 @@
               <l>Ist hier zu viel geschehn, dann zeigt, worin, –</l>
               <l>Und von dem Platz, auf dem wir vor euch stehn,</l>
               <l>Woll'n wir, des Titus' armer Überrest,</l>
-              <pb n="80"/>
+              <pb n="81"/>
               <l>Häuptlings hinab uns werfen, Hand in Hand,</l>
               <l>Am scharfen Stein zerschmetternd unser Hirn,</l>
               <l>Und so vereint austilgen unsern Stamm.</l>
@@ -5391,7 +5392,7 @@
               <l>Des sei gedenk, und als ein liebreich Kind</l>
               <l>Geuß ein'ge Tropfen auch aus zartem Auge:</l>
               <l>Mitleidig gab Natur uns dies Gebot,</l>
-              <pb n="81"/>
+              <pb n="82"/>
               <l>Der Freund soll weinen um des Freundes Not!</l>
               <l>Sag ihm Lebwohl, geleit' ihn an sein Grab,</l>
               <l>Die Pflicht erfüll' und scheide dann von ihm!</l>

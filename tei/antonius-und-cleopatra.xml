@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="685"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -94,35 +95,35 @@
       <castList>
         <head>Personen</head>
         <castGroup>
-          <castItem>Marcus Antonius,</castItem>
-          <castItem>Octavius Cäsar,</castItem>
-          <castItem>M. Ämilius Lepidus,</castItem>
+          <castItem>Marcus Antonius</castItem>
+          <castItem>Octavius Cäsar</castItem>
+          <castItem>M. Ämilius Lepidus</castItem>
           <roleDesc>Triumvirn</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Sextus Pompejus,</castItem>
-          <castItem>Domitius Enobarbus,</castItem>
-          <castItem>Ventidius,</castItem>
-          <castItem>Eros,</castItem>
-          <castItem>Scarus,</castItem>
-          <castItem>Dercetas,</castItem>
-          <castItem>Demetrius,</castItem>
-          <castItem>Philo,</castItem>
+          <castItem>Sextus Pompejus</castItem>
+          <castItem>Domitius Enobarbus</castItem>
+          <castItem>Ventidius</castItem>
+          <castItem>Eros</castItem>
+          <castItem>Scarus</castItem>
+          <castItem>Dercetas</castItem>
+          <castItem>Demetrius</castItem>
+          <castItem>Philo</castItem>
           <roleDesc>Freunde des Antonius</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Mäcenas,</castItem>
-          <castItem>Agrippa,</castItem>
-          <castItem>Dolabella,</castItem>
-          <castItem>Proculejus,</castItem>
-          <castItem>Thyräus,</castItem>
-          <castItem>Gallus,</castItem>
+          <castItem>Mäcenas</castItem>
+          <castItem>Agrippa</castItem>
+          <castItem>Dolabella</castItem>
+          <castItem>Proculejus</castItem>
+          <castItem>Thyräus</castItem>
+          <castItem>Gallus</castItem>
           <roleDesc>Freunde des Cäsar</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Menas,</castItem>
-          <castItem>Menecrates,</castItem>
-          <castItem>Varrius,</castItem>
+          <castItem>Menas</castItem>
+          <castItem>Menecrates</castItem>
+          <castItem>Varrius</castItem>
           <roleDesc>Freunde des Pompejus</roleDesc>
         </castGroup>
         <castItem>Taurus, Oberbefehlshaber unter Cäsar</castItem>
@@ -130,10 +131,10 @@
         <castItem>Solius, ein Offizier in der Armee des Ventidius</castItem>
         <castItem>Euphronius, ein Gesandter des Antonius an Cäsar</castItem>
         <castGroup>
-          <castItem>Alexas,</castItem>
-          <castItem>Mardian,</castItem>
-          <castItem>Seleucus,</castItem>
-          <castItem>Diomedes,</castItem>
+          <castItem>Alexas</castItem>
+          <castItem>Mardian</castItem>
+          <castItem>Seleucus</castItem>
+          <castItem>Diomedes</castItem>
           <roleDesc>im Dienste der Cleopatra</roleDesc>
         </castGroup>
         <castItem>Ein Wahrsager</castItem>
@@ -141,14 +142,14 @@
         <castItem>Cleopatra, Königin von Ägypten</castItem>
         <castItem>Octavia, Cäsars Schwester, Gemahlin des Antonius</castItem>
         <castGroup>
-          <castItem>Charmion,</castItem>
-          <castItem>Iras,</castItem>
+          <castItem>Charmion</castItem>
+          <castItem>Iras</castItem>
           <roleDesc>im Dienste der Cleopatra</roleDesc>
         </castGroup>
         <castItem>Hauptleute, Soldaten, Boten und Gefolge</castItem>
       </castList>
     </front>
-    <pb n="686"/>
+    <pb n="687"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -208,7 +209,7 @@
             <speaker>CLEOPATRA.</speaker>
             <lg>
               <l>Nein, höre sie, Antonius:</l>
-              <pb n="687"/>
+              <pb n="688"/>
               <l>Fulvia vielleicht ist zornig? Oder hat –</l>
               <l>– Wer weiß es? – der dünnbärt'ge Cäsar</l>
               <l>Sein Machtgebot gesandt: »Tu' dies und das!</l>
@@ -281,7 +282,7 @@
               <l>Daß sie zur Schönheit und Bewund'rung wird. –</l>
               <l>Kein Bote! Einzig dein, und ganz allein! –</l>
               <l>Zu Nacht durchwandern wir die Stadt und merken</l>
-              <pb n="688"/>
+              <pb n="689"/>
               <l>Des Volkes Launen. Komm, o Königin,</l>
               <l>Noch gestern wünschtest du's. – Sprecht nicht zu uns!</l>
             </lg>
@@ -367,7 +368,7 @@
             <speaker>WAHRSAGER.</speaker>
             <p>Ihr werdet noch an Schönheit zunehmen.</p>
           </sp>
-          <pb n="689"/>
+          <pb n="690"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <p>Er meint an Umfang.</p>
@@ -466,7 +467,7 @@
             <speaker>IRAS.</speaker>
             <p>Geh, du wilde Gesellin, du verstehst nichts vom Wahrsagen.</p>
           </sp>
-          <pb n="690"/>
+          <pb n="691"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <p>Nein, wenn eine feuchte Hand nicht ein Wahrzeichen von Fruchtbarkeit ist, so kann ich
@@ -558,7 +559,7 @@
             <speaker>ENOBARBUS.</speaker>
             <p>Fürstin? –</p>
           </sp>
-          <pb n="691"/>
+          <pb n="692"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <p>Such' ihn und bring' ihn her! Wo ist Alexas?</p>
@@ -650,7 +651,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Was meldet man von Sicyon? Sag an.</l>
           </sp>
-          <pb n="692"/>
+          <pb n="693"/>
           <sp who="#erster_diener">
             <speaker>ERSTER DIENER.</speaker>
             <l>Der Bot' aus Sicyon! War nicht einer da?</l>
@@ -726,7 +727,7 @@
               wegzuwerfen: aber ist von ihnen und einer wichtigen Sache die Rede, so muß man sie für
               nichts rechnen. Cleopatra, wenn sie nur das Mindeste hievon wittert, stirbt
               augenblicklich: ich habe sie zwanzigmal um weit armseligem Grund sterben sehn. Ich
-              denke, es steckt eine Kraft im Tode, die wie eine Liebesumarmung <pb n="693"/> auf sie
+              denke, es steckt eine Kraft im Tode, die wie eine Liebesumarmung <pb n="694"/> auf sie
               wirkt, so ist sie mit dem Sterben bei der Hand.</p>
           </sp>
           <sp who="#antonius">
@@ -799,7 +800,7 @@
               <l>Der Königin den Anlaß dieser Eil',</l>
               <l>Urlaub von ihrer Liebe fordernd. Nicht allein</l>
             </lg>
-            <pb n="694"/>
+            <pb n="695"/>
             <lg>
               <l>Der Fulvia Tod und andre ernste Mahnung</l>
               <l>Ruft uns nachdrücklich; andre Briefe auch,</l>
@@ -867,7 +868,7 @@
             <speaker>CLEOPATRA.</speaker>
             <l>Törichter Rat! Der Weg, ihn zu verlieren! –</l>
           </sp>
-          <pb n="695"/>
+          <pb n="696"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <lg>
@@ -962,7 +963,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Mir das! Wie!</l>
           </sp>
-          <pb n="696"/>
+          <pb n="697"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <lg>
@@ -1035,7 +1036,7 @@
               <l>Ganz wie Antonius liebt.</l>
             </lg>
           </sp>
-          <pb n="697"/>
+          <pb n="698"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <lg>
@@ -1119,7 +1120,7 @@
               <l>Komm;</l>
               <l>Es flieht zugleich und weilet unsre Trennung:</l>
               <l>Denn du, hier thronend, gehst doch fort mit mir,</l>
-              <pb n="698"/>
+              <pb n="699"/>
               <l>Und ich, fortschiffend, bleibe doch mit dir. –</l>
               <l>Hinweg!</l>
             </lg>
@@ -1172,7 +1173,7 @@
               <l>Die leeren Stunden sich mit Wollust aus,</l>
               <l>Vertrocknet Mark und Ekel zögen ihn</l>
               <l>Zur Rechenschaft: – doch solche Zeit verwüsten,</l>
-              <pb n="699"/>
+              <pb n="700"/>
               <l>Die ihn vom Schmerz wegtrommelt – und so laut,</l>
               <l>Wie Weltherrschaft nur mahnt: das muß man schelten,</l>
               <l>Wie man den Knaben schmält, der, wohlerfahren,</l>
@@ -1234,7 +1235,7 @@
               <l>Der Hunger deinen Fersen: den bestandst du</l>
               <l>(Obgleich so zart gewöhnt) mit mehr Geduld,</l>
               <l>Als Wilde selbst vermöchten; ja, du trankst</l>
-              <pb n="700"/>
+              <pb n="701"/>
               <l>Den Harn der Rosse und den falben Schlamm,</l>
               <l>Der Vieh zum Ekel zwänge: dein Gaum verschmähte</l>
               <l>Die herbste Beere nicht auf rauhster Hecke:</l>
@@ -1313,7 +1314,7 @@
               <l>Gib mir Mandragora zu trinken!</l>
             </lg>
           </sp>
-          <pb n="701"/>
+          <pb n="702"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <l>Wie?</l>
@@ -1401,7 +1402,7 @@
             <speaker>ALEXAS.</speaker>
             <l>Herrin Ägyptens, Heil!</l>
           </sp>
-          <pb n="702"/>
+          <pb n="703"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <lg>
@@ -1480,7 +1481,7 @@
               <l>Liebt' ich je Cäsarn so?</l>
             </lg>
           </sp>
-          <pb n="703"/>
+          <pb n="704"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <l>Du edler Cäsar!</l>
@@ -1524,7 +1525,7 @@
           </sp>
         </div>
       </div>
-      <pb n="704"/>
+      <pb n="705"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1596,7 +1597,7 @@
               <l>Er träumt: ich weiß, sie sind in Rom zusammen,</l>
               <l>Und harren auf Anton: doch Liebreiz würze</l>
               <l>Der üpp'gen Cleopatra dünne Lippen,</l>
-              <pb n="705"/>
+              <pb n="706"/>
               <l>Zauber erhöh' die Schönheit, Wollust beide;</l>
               <l>Den Schwelger bind' ein Heer von Festgelagen,</l>
               <l>Sein Hirn umnebelnd: Epikur'sche Köche</l>
@@ -1656,7 +1657,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="706"/>
+        <pb n="707"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Rom. Im Hause des Lepidus.</stage>
@@ -1740,7 +1741,7 @@
               <l>Den nicht'gen Streit so laut, dann wird ein Mord,</l>
               <l>Was Wunden sollte heilen. Drum, edle Freunde</l>
               <l>(Und um so mehr, je ernstlicher ich bitte),</l>
-              <pb n="707"/>
+              <pb n="708"/>
               <l>Berührt mit mildstem Wort die herbsten Punkte,</l>
               <l>Daß Laune nicht das Übel mehre!</l>
             </lg>
@@ -1832,7 +1833,7 @@
               <l>Führt' er den Krieg nicht meinem Sinn entgegen,</l>
               <l>Der Euch verbündet war? All meine Briefe</l>
               <l>Beweisen's klar: drum, wollt Ihr Händel flicken</l>
-              <pb n="708"/>
+              <pb n="709"/>
               <l>(Denn nicht aus ganzem Tuch könnt Ihr sie schneiden),</l>
               <l>So muß es dies nicht sein.</l>
             </lg>
@@ -1914,7 +1915,7 @@
             <lg>
               <l>Nein,</l>
               <l>Lepidus, laßt ihn reden! –</l>
-              <pb n="709"/>
+              <pb n="710"/>
               <l>Die Ehr' ist rein und heilig, die er angreift,</l>
               <l>Im Wahn, ich sei ihr treulos. Weiter, Cäsar,</l>
               <l>Der Hauptpunkt meines Eids ...</l>
@@ -1992,7 +1993,7 @@
               <l>Sucht' ich ihn auf.</l>
             </lg>
           </sp>
-          <pb n="710"/>
+          <pb n="711"/>
           <sp who="#agrippa">
             <speaker>AGRIPPA.</speaker>
             <l>Wollt Ihr vergönnen, Cäsar ...</l>
@@ -2077,7 +2078,7 @@
               <l>Dem edlen Antrag, der so herrlich glänzt,</l>
               <l>Verhind'rung träumen. Reich' mir deine Hand,</l>
               <l>Fördre den frommen Bund; und nun, von Stund' an,</l>
-              <pb n="711"/>
+              <pb n="712"/>
               <l>Regier' in unsrer Liebe Brudereintracht,</l>
               <l>Das hohe Ziel erstrebend!</l>
             </lg>
@@ -2179,7 +2180,7 @@
               <l>Mein ehrenwerter Freund Agrippa! –</l>
             </lg>
           </sp>
-          <pb n="712"/>
+          <pb n="713"/>
           <sp who="#agrippa">
             <speaker>AGRIPPA.</speaker>
             <l>Wackrer Enobarbus!</l>
@@ -2250,7 +2251,7 @@
               <l>Die Dienerinnen, wie die Nereiden,</l>
               <l>Spannten, Sirenen gleich, nach ihr die Blicke,</l>
               <l>Und Schmuck ward jede Beugung; eine Meerfrau</l>
-              <pb n="713"/>
+              <pb n="714"/>
               <l>Lenkte das Steuer; seidnes Tauwerk schwoll</l>
               <l>Dem Druck so blumenreicher Händ' entgegen,</l>
               <l>Die frisch den Dienst versahn. Der Bark' entströmend</l>
@@ -2322,7 +2323,7 @@
               <l>Ein segensreiches Los.</l>
             </lg>
           </sp>
-          <pb n="714"/>
+          <pb n="715"/>
           <sp who="#agrippa">
             <speaker>AGRIPPA.</speaker>
             <lg>
@@ -2413,7 +2414,7 @@
               <l>Dein Geist, der dich beschützt, dein Dämon, ist</l>
               <l>Hochherzig, mutig, edel, unerreichbar,</l>
               <l>Dem Cäsar fern; doch nah ihm wird dein Engel</l>
-              <pb n="715"/>
+              <pb n="716"/>
               <l>Zur Furcht, wie eingeschüchtert. Darum bleibe</l>
               <l>Raum zwischen dir und ihm!</l>
             </lg>
@@ -2478,7 +2479,7 @@
               <l>Umarmt nur noch Octavien; gleich dann gehn wir.</l>
             </lg>
           </sp>
-          <pb n="716"/>
+          <pb n="717"/>
           <sp who="#lepidus">
             <speaker>LEPIDUS.</speaker>
             <lg>
@@ -2568,7 +2569,7 @@
             <lg>
               <l>Lustig war;</l>
               <l>Mit ihm das Wette-Angeln, als Eu'r Taucher</l>
-              <pb n="717"/>
+              <pb n="718"/>
               <l>Den Salzfisch hängt' an seine Schnur, den er</l>
               <l>So eifrig aufzog.</l>
             </lg>
@@ -2647,7 +2648,7 @@
               <l>Von reichen Perlen!</l>
             </lg>
           </sp>
-          <pb n="718"/>
+          <pb n="719"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <l>Er ist wohl.</l>
@@ -2756,7 +2757,7 @@
             <l>Schurke, du hast zu lang gelebt ...</l>
             <stage>Zieht einen Dolch.</stage>
           </sp>
-          <pb n="719"/>
+          <pb n="720"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <lg>
@@ -2856,7 +2857,7 @@
             <lg>
               <l>O daß dein Frevel dich zum Schurken macht,</l>
               <l>Der du nicht bist! Wie! weißt du's sicher? Fort!</l>
-              <pb n="720"/>
+              <pb n="721"/>
               <l>Die Ware, die du mir von Rom gebracht,</l>
               <l>Ist mir zu teuer; bleibe sie dir liegen,</l>
               <l>Und möge dich verderben!</l>
@@ -2917,7 +2918,7 @@
               <l>Voraus, was wir dir schriftlich zugestanden.</l>
               <l>Hast du dies wohl erwogen, zeig' uns an,</l>
               <l>Ob's in der Scheide hält dein zürnend Schwert</l>
-              <pb n="721"/>
+              <pb n="722"/>
               <l>Und führt zurück Siziliens mut'ge Jugend,</l>
               <l>Die sonst hier fallen muß.</l>
             </lg>
@@ -2996,7 +2997,7 @@
               <l>Ihr botet mir</l>
               <l>Sizilien und Sardinien, und ich soll</l>
               <l>Das Meer befrein von Räubern; soll nach Rom</l>
-              <pb n="722"/>
+              <pb n="723"/>
               <l>Vorrat von Weizen senden: tu' ich das,</l>
               <l>Ziehn wir mit unzerhacktem Schwert nach Haus</l>
               <l>Und glattem Schild.</l>
@@ -3094,7 +3095,7 @@
               <l>Ward dort vom Schmausen fett.</l>
             </lg>
           </sp>
-          <pb n="723"/>
+          <pb n="724"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <l>Ihr hörtet vieles!</l>
@@ -3203,7 +3204,7 @@
             <p>Ich werde jeden loben, der mich lobt, obgleich nicht zu leugnen ist, was ich zu Lande
               getan.</p>
           </sp>
-          <pb n="724"/>
+          <pb n="725"/>
           <sp who="#menas">
             <speaker>MENAS.</speaker>
             <p>Noch was ich zu Wasser getan. –</p>
@@ -3299,7 +3300,7 @@
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <p>Der nicht, der selbst nicht so ist; und das ist Marc Anton. Sein ägyptisches Mahl
-              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="725"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
+              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
               unmittelbare Veranlassung ihrer Entzweiung werden. Antonius wird seine Liebe zeigen,
               wo sie ist; hier hat er nur seinen Vorteil geheiratet. –</p>
           </sp>
@@ -3360,7 +3361,7 @@
           </sp>
           <sp who="#antonius">
             <speaker>ANTONIUS</speaker>
-            <pb n="726"/>
+            <pb n="727"/>
             <stage>zum Cäsar.</stage>
             <lg>
               <l>So ist der Brauch: sie messen dort den Strom</l>
@@ -3449,7 +3450,7 @@
             <speaker>ANTONIUS.</speaker>
             <p>Auch seine eigentümliche Farbe.</p>
           </sp>
-          <pb n="727"/>
+          <pb n="728"/>
           <sp who="#lepidus">
             <speaker>LEPIDUS.</speaker>
             <p>Ein kurioser Wurm! –</p>
@@ -3561,7 +3562,7 @@
               <l>Von dir getreuer Dienst. Vergiß es nie,</l>
               <l>Mein Vorteil nicht geht meiner Ehre vor,</l>
               <l>Die Ehre ihm! Bereu' es, daß dein Mund</l>
-              <pb n="728"/>
+              <pb n="729"/>
               <l>So deine Tat verriet: Tatst du's geheim,</l>
               <l>Dann hätt' ich's, wenn's geschehn, als gut erkannt,</l>
               <l>Doch nun muß ich's verdammen. – Vergiß, und trink!</l>
@@ -3681,7 +3682,7 @@
             <lg>
               <l>Nun umfaßt euch:</l>
               <l>Bestürmt das Ohr mit lärmender Musik,</l>
-              <pb n="729"/>
+              <pb n="730"/>
               <l>Bis ich euch stelle: dann singt der Knab' ein Lied,</l>
               <l>Und jeder fällt mit ein im Chor, so laut,</l>
               <l>Als seine starke Brust nur schmettern kann. –</l>
@@ -3759,7 +3760,7 @@
           </sp>
         </div>
       </div>
-      <pb n="730"/>
+      <pb n="731"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3804,7 +3805,7 @@
               <l>Den er erlangt im Umsehn, seine Gunst.</l>
               <l>Wer mehr im Krieg tut, als sein Feldherr kann,</l>
               <l>Wird seines Feldherrn Feldherr; und der Ehrgeiz,</l>
-              <pb n="731"/>
+              <pb n="732"/>
               <l>Des Kriegers Tugend, wählt Verlust wohl lieber,</l>
               <l>Als Sieg, der ihn verdunkelt.</l>
               <l>Ich könnte mehr tun zu Antonius' Vorteil,</l>
@@ -3894,7 +3895,7 @@
             <speaker>ENOBARBUS.</speaker>
             <l>Cäsarn zu loben sprecht: »Cäsar!« Nichts mehr! –</l>
           </sp>
-          <pb n="732"/>
+          <pb n="733"/>
           <sp who="#agrippa">
             <speaker>AGRIPPA.</speaker>
             <l>Ja, beiden spendet er erhabnes Lob.</l>
@@ -3979,7 +3980,7 @@
             <speaker>OCTAVIA.</speaker>
             <l>Mein edler Bruder! –</l>
           </sp>
-          <pb n="733"/>
+          <pb n="734"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <lg>
@@ -4083,7 +4084,7 @@
             <stage>Trompetenstoß. Alle ab.</stage>
           </sp>
         </div>
-        <pb n="734"/>
+        <pb n="735"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Alexandria. Ein Zimmer im Palast.</stage>
@@ -4185,7 +4186,7 @@
               <l>Mehr Bildnis als beseelt.</l>
             </lg>
           </sp>
-          <pb n="735"/>
+          <pb n="736"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <l>Ist das gewiß?</l>
@@ -4306,7 +4307,7 @@
             <stage>Gehn ab.</stage>
           </sp>
         </div>
-        <pb n="736"/>
+        <pb n="737"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Athen. Zimmer in Antonius' Hause.</stage>
@@ -4362,7 +4363,7 @@
               <l>Dank, mein Gatte!</l>
               <l>Der Weltregierer mache mich, die Schwächste,</l>
               <l>Euch zur Versöhnerin! – Krieg zwischen euch,</l>
-              <pb n="737"/>
+              <pb n="738"/>
               <l>Das wär', als spaltete die Welt, und Leichen</l>
               <l>Füllten die weite Kluft! –</l>
             </lg>
@@ -4437,7 +4438,7 @@
             <speaker>EROS.</speaker>
             <lg>
               <l>Wider Italien und den Cäsar. – Eins noch:</l>
-              <pb n="738"/>
+              <pb n="739"/>
               <l>Anton verlangt Euch jetzt; die Neuigkeit</l>
               <l>Konnt' ich Euch später sagen.</l>
             </lg>
@@ -4516,7 +4517,7 @@
             <speaker>AGRIPPA.</speaker>
             <l>Wen beschuldigt er?</l>
           </sp>
-          <pb n="739"/>
+          <pb n="740"/>
           <sp who="#caesar">
             <speaker>CÄSAR.</speaker>
             <lg>
@@ -4589,7 +4590,7 @@
             <speaker>OCTAVIA.</speaker>
             <lg>
               <l>Teurer Bruder,</l>
-              <pb n="740"/>
+              <pb n="741"/>
               <l>Nicht kam ich so, weil man mich zwang; ich tat's</l>
               <l>Aus freier Wahl. Antonius, mein Gebieter,</l>
               <l>Von deiner Rüstung hörend, gab mir Nachricht</l>
@@ -4659,7 +4660,7 @@
               <l>Teurer als je! Weit über alles Maß</l>
               <l>Wardst du gekränkt; und die erhabne Gottheit</l>
               <l>Macht, dich zu rächen, uns zu ihren Dienern</l>
-              <pb n="741"/>
+              <pb n="742"/>
               <l>Und alle, die dich lieben. Teures Leben,</l>
               <l>Sei immer uns gegrüßt!</l>
             </lg>
@@ -4747,7 +4748,7 @@
               <l>Regierten diesen Krieg.</l>
             </lg>
           </sp>
-          <pb n="742"/>
+          <pb n="743"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <lg>
@@ -4838,7 +4839,7 @@
               <l>O großer Mann! dadurch vernichtest du</l>
               <l>Dein' unerreichte Feldherrnkunst zu Land;</l>
               <l>Verwirrst dein Heer, von dem die größte Zahl</l>
-              <pb n="743"/>
+              <pb n="744"/>
               <l>Erprobtes Fußvolk ist: unangewandt</l>
               <l>Bleibt deine Kriegeskenntnis: du verfehlst</l>
               <l>Den Weg, der dir Erfolg verheißt, und gibst</l>
@@ -4925,7 +4926,7 @@
             <speaker>CANIDIUS.</speaker>
             <lg>
               <l>Marcus Octavius und Marcus Justejus,</l>
-              <pb n="744"/>
+              <pb n="745"/>
               <l>Publicola und Cälius sind zur See;</l>
               <l>Wir alle stehn am Lande. Diese Eil'</l>
               <l>Des Cäsar ist unglaublich.</l>
@@ -4998,7 +4999,7 @@
               der andern Taurus, Cäsars Unterfeldherr. Nachdem sie vorbeimarschiert sind, hört man
               das Getöse einer Seeschlacht. Feldgeschrei. Enobarbus kommt zurück.</stage>
           </sp>
-          <pb n="745"/>
+          <pb n="746"/>
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <lg>
@@ -5076,7 +5077,7 @@
               <l>Zur See ist unser Glück ganz außer Atem</l>
               <l>Und sinkt höchst jammervoll. War unser Feldherr heut</l>
               <l>Nur, wie er selbst sich kannte, ging es gut!</l>
-              <pb n="746"/>
+              <pb n="747"/>
               <l>Oh, er hat Beispiel unsrer Flucht gegeben,</l>
               <l>Höchst schmählich, durch die eigne! –</l>
             </lg>
@@ -5151,7 +5152,7 @@
               <l>Feigheit und Wahnwitz! – Freunde, geht! Ich will</l>
               <l>Euch Brief' an solche geben, die den Weg</l>
               <l>Euch ebnen sollen. Bitt' euch, seid nicht traurig,</l>
-              <pb n="747"/>
+              <pb n="748"/>
               <l>Erwidert nicht mit Trübsinn, nehmt die Weisung,</l>
               <l>Die mir Verzweiflung rät: verlassen sei,</l>
               <l>Was selber sich verläßt! Geht stracks zur See,</l>
@@ -5256,7 +5257,7 @@
             <speaker>ANTONIUS.</speaker>
             <lg>
               <l>Oh, wohin bracht'st du mich, Ägypten? Sieh,</l>
-              <pb n="748"/>
+              <pb n="749"/>
               <l>Wie ich die Schmach entziehe deinem Auge</l>
               <l>Und seh' zurück auf das, was ich verließ,</l>
               <l>Zerstört in Schande! –</l>
@@ -5330,7 +5331,7 @@
             <speaker>DOLABELLA.</speaker>
             <lg>
               <l>'s ist der Lehrer seiner Kinder:</l>
-              <pb n="749"/>
+              <pb n="750"/>
               <l>Das zeigt, wie kahl er ist, entsandt' er uns</l>
               <l>Aus seinem Flügel solche dürft'ge Feder,</l>
               <l>Er, der vor wenig Monden Könige könnt'</l>
@@ -5400,7 +5401,7 @@
               <l>Uns sei Gesetz dein Wort!</l>
             </lg>
           </sp>
-          <pb n="750"/>
+          <pb n="751"/>
           <sp who="#thyreus">
             <speaker>THYREUS.</speaker>
             <l>Cäsar, ich gehe.</l>
@@ -5484,7 +5485,7 @@
               <l>Mit Fürstentümern.</l>
             </lg>
           </sp>
-          <pb n="751"/>
+          <pb n="752"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <l>Dieses Haupt, mein Feldherr?</l>
@@ -5554,7 +5555,7 @@
             <speaker>THYREUS.</speaker>
             <l>Hört mich allein!</l>
           </sp>
-          <pb n="752"/>
+          <pb n="753"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <l>Hier stehn nur Freunde: Redet!</l>
@@ -5652,7 +5653,7 @@
               <l>Dem großen Cäsar sag, die Hand des Siegers</l>
               <l>In diesem Kampfe küss' ich; meine Krone</l>
               <l>Leg' ich zu Füßen ihm, und wolle knieend</l>
-              <pb n="753"/>
+              <pb n="754"/>
               <l>Von seinem mächt'gen Hauch Ägyptens Schicksal</l>
               <l>Vernehmen.</l>
             </lg>
@@ -5736,7 +5737,7 @@
               <l>Bringt ihn zurück! Der Narr des Cäsar soll</l>
               <l>Uns ein Gewerb' an ihn bestellen.</l>
               <stage>Gefolge mit dem Thyreus ab.</stage>
-              <pb n="754"/>
+              <pb n="755"/>
               <l>Ihr wart halb welk, eh' ich Euch kannte: Ha! –</l>
               <l>Ließ ich mein Kissen ungedrückt in Rom,</l>
               <l>Entsagt' ich der Erzeugung echten Stamms</l>
@@ -5812,7 +5813,7 @@
             <speaker>ANTONIUS.</speaker>
             <lg>
               <l>Hast du 'nen Vater noch, der soll's bereun,</l>
-              <pb n="755"/>
+              <pb n="756"/>
               <l>Daß du kein Weib geworden. Dir sei Angst,</l>
               <l>Cäsarn in seinem Glück zu folgen, seit</l>
               <l>Du für dein Folgen wardst gepeitscht: Fortan</l>
@@ -5880,7 +5881,7 @@
               <l>Als Raub bestatteten!</l>
             </lg>
           </sp>
-          <pb n="756"/>
+          <pb n="757"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <lg>
@@ -5955,7 +5956,7 @@
           </sp>
         </div>
       </div>
-      <pb n="757"/>
+      <pb n="758"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -5997,7 +5998,7 @@
             <stage>Gehn ab.</stage>
           </sp>
         </div>
-        <pb n="758"/>
+        <pb n="759"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Alexandrien. Ein Zimmer im Palast.</stage>
@@ -6089,7 +6090,7 @@
             <speaker>ENOBARBUS.</speaker>
             <l>Zum Weinen sie zu bringen.</l>
           </sp>
-          <pb n="759"/>
+          <pb n="760"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <lg>
@@ -6157,7 +6158,7 @@
               <l>Nochmals gut' Nacht!</l>
             </lg>
           </sp>
-          <pb n="760"/>
+          <pb n="761"/>
           <sp who="#erster_soldat">
             <speaker>ERSTER SOLDAT.</speaker>
             <l>Gut' Nacht, Kam'rad!</l>
@@ -6267,7 +6268,7 @@
             <stage>Gehn ab.</stage>
           </sp>
         </div>
-        <pb n="761"/>
+        <pb n="762"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Daselbst. Ein Zimmer im Palast.</stage>
@@ -6345,7 +6346,7 @@
               <l>Und gehn mit Freuden dran.</l>
             </lg>
           </sp>
-          <pb n="762"/>
+          <pb n="763"/>
           <sp who="#erster_hauptmann">
             <speaker>ERSTER HAUPTMANN.</speaker>
             <lg>
@@ -6414,7 +6415,7 @@
             <lg>
               <l>Tatst du so,</l>
               <l>Die abgefallnen Kön'ge und der Krieger,</l>
-              <pb n="763"/>
+              <pb n="764"/>
               <l>Der diesen Morgen dich verließ, sie folgten</l>
               <l>Noch deinen Fersen.</l>
             </lg>
@@ -6504,7 +6505,7 @@
               <l>Rückt an zur Schlacht. –</l>
             </lg>
           </sp>
-          <pb n="764"/>
+          <pb n="765"/>
           <sp who="#caesar">
             <speaker>CÄSAR.</speaker>
             <lg>
@@ -6572,7 +6573,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="765"/>
+        <pb n="766"/>
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Schlachtfeld zwischen den Lagern.</stage>
@@ -6647,7 +6648,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="766"/>
+        <pb n="767"/>
         <div type="scene">
           <head>Achte Szene</head>
           <stage>Unter den Mauern von Alexandrien.</stage>
@@ -6711,7 +6712,7 @@
             <speaker>ANTONIUS.</speaker>
             <lg>
               <l>Er hat's verdient: wär' sie auch voll Karfunkeln,</l>
-              <pb n="767"/>
+              <pb n="768"/>
               <l>Wie Phöbus' heil'ger Wagen. – Deine Hand!</l>
               <l>Durch Alexandrien in freud'gem Marsch</l>
               <l>Tragt den zerhackten Schild, wie's Helden ziemt:</l>
@@ -6784,7 +6785,7 @@
               <l>Daß Leben, meinem Willen längst empört,</l>
               <l>Nicht länger auf mir laste! Wirf mein Herz</l>
               <l>Wider den harten Marmor meiner Schuld!</l>
-              <pb n="768"/>
+              <pb n="769"/>
               <l>Gedörrt von Gram zerfall' es dann in Staub,</l>
               <l>Mit ihm der böse Sinn! O Marc Antonius,</l>
               <l>Erhabner, als mein Abfall schändlich ist,</l>
@@ -6872,7 +6873,7 @@
               <l>Wir föchten auch dort. Doch so sei's: das Fußvolk</l>
               <l>Dort auf den Hügeln, so die Stadt begrenzen,</l>
               <l>Zieht her zu mir; zur See befahl ich ihnen,</l>
-              <pb n="769"/>
+              <pb n="770"/>
               <l>Den Hafen zu verlassen. Nun hinan,</l>
               <l>Wo ihre Stellung wird erspäht am besten</l>
               <l>Und jegliche Bewegung!</l>
@@ -6931,7 +6932,7 @@
             <lg>
               <l>O Sonne! Nimmer seh' ich deinen Aufgang!</l>
               <l>Ich und Fortuna scheiden hier: – hier grade schütteln</l>
-              <pb n="770"/>
+              <pb n="771"/>
               <l>Die Hand wir uns! Kam es dahin? Die Herzen,</l>
               <l>Die hündisch mir gefolgt, die jeden Wunsch</l>
               <l>Von mir verlangten,</l>
@@ -6982,7 +6983,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="771"/>
+        <pb n="772"/>
         <div type="scene">
           <head>Elfte Szene</head>
           <stage>Alexandrien. Zimmer im Palast.</stage>
@@ -7055,7 +7056,7 @@
               <l>Wie Wasser ist im Wasser. –</l>
             </lg>
           </sp>
-          <pb n="772"/>
+          <pb n="773"/>
           <sp who="#eros">
             <speaker>EROS.</speaker>
             <l>Ja, so ist's.</l>
@@ -7126,7 +7127,7 @@
             <lg>
               <l>Nicht Ajax' siebenfält'ger Schild bewahrte</l>
               <l>Vor diesem Sturm mein Herz. O brecht, ihr Seiten!</l>
-              <pb n="773"/>
+              <pb n="774"/>
               <l>Herz, diesmal stärker sei als deine Hülle,</l>
               <l>Spreng' dein zerbrechlich Haus! Schnell, Eros, schnell!</l>
               <l>Kein Krieger mehr! Lebt wohl, zerschlagne Waffen,</l>
@@ -7184,7 +7185,7 @@
             <speaker>ANTONIUS.</speaker>
             <lg>
               <l>Mein Eros,</l>
-              <pb n="774"/>
+              <pb n="775"/>
               <l>Möcht'st du am Fenster stehn im großen Rom,</l>
               <l>Und deinen Feldherrn schaun, verschränkt den Arm,</l>
               <l>Geneigt den unterjochten Hals, sein Antlitz</l>
@@ -7281,7 +7282,7 @@
               <l>Wie zu der Liebsten Bett. Wohlan! Und Eros,</l>
               <l>Dein Meister stirbt dein Schüler: das zu tun</l>
               <stage>fällt in sein Schwert</stage>
-              <pb n="775"/>
+              <pb n="776"/>
               <l>Lernt' ich von dir ... Was? – Nicht tot? Nicht tot? Wache!</l>
               <l>Oh, endet nun mit mir! –</l>
             </lg>
@@ -7385,7 +7386,7 @@
               <l>Weissagt' ihr, was geschehn. Denn als sie sah</l>
               <l>(Was nimmer sich bewähren wird) Euch mißtraun,</l>
               <l>Sie halt' es mit dem Cäsar, und Eu'r Grimm</l>
-              <pb n="776"/>
+              <pb n="777"/>
               <l>Sei nicht zu sänft'gen, gab sie sich für tot;</l>
               <l>Dann, fürchtend, wie Ihr's tragen möchtet, hieß sie</l>
               <l>Mich, Euch die Wahrheit künden: doch ich kam</l>
@@ -7457,7 +7458,7 @@
               <l>Als was ihn uns erregt.</l>
             </lg>
             <stage>Diomedes tritt auf.</stage>
-            <pb n="777"/>
+            <pb n="778"/>
             <l>Sprich, ist er tot?</l>
           </sp>
           <sp who="#diomedes">
@@ -7532,7 +7533,7 @@
               <l>Merkur, der Kraftbeschwingte, höbe dich,</l>
               <l>Und setzte dich an Jovis Seite. Komm nur!</l>
               <l>Wünschen war nimmer Torheit: komm, komm, komm:</l>
-              <pb n="778"/>
+              <pb n="779"/>
               <l>Willkommen, willkommen! Stirb nun, wo du lebtest,</l>
               <l>Leb' auf im Kuß! Vermöchten das die Lippen,</l>
               <l>Wegküssen sollt'st du sie! –</l>
@@ -7628,7 +7629,7 @@
             <speaker>IRAS.</speaker>
             <l>Fürstin!]</l>
           </sp>
-          <pb n="779"/>
+          <pb n="780"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <l>O Fürstin, Fürstin, Fürstin! –</l>
@@ -7669,7 +7670,7 @@
           </sp>
         </div>
       </div>
-      <pb n="780"/>
+      <pb n="781"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -7730,7 +7731,7 @@
               <l>Die halbe Welt.</l>
             </lg>
           </sp>
-          <pb n="781"/>
+          <pb n="782"/>
           <sp who="#dercetas">
             <speaker>DERCETAS.</speaker>
             <lg>
@@ -7801,7 +7802,7 @@
               <l>Die vor'ge Einheit. Hört mich, werte Freunde, –</l>
               <l>– Doch sag' ich's lieber euch zu beßrer Zeit!</l>
               <stage>Ein Bote kommt.</stage>
-              <pb n="782"/>
+              <pb n="783"/>
               <l>Des Mannes Botschaft kündet schon sein Blick!</l>
               <l>Laßt uns ihn hören! Woher bist du?</l>
             </lg>
@@ -7876,7 +7877,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="783"/>
+        <pb n="784"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Alexandrien. Ein Zimmer im Monument.</stage>
@@ -7941,7 +7942,7 @@
               <l>Um was Ihr knieend fleht.</l>
             </lg>
           </sp>
-          <pb n="784"/>
+          <pb n="785"/>
           <sp who="#cleopatra">
             <speaker>CLEOPATRA.</speaker>
             <lg>
@@ -8028,7 +8029,7 @@
               <l>In Ketten je an Eures Feldherrn Hof,</l>
               <l>Noch soll mich je das kalte Auge zücht'gen</l>
               <l>Der nüchternen Octavia. Hochgehoben</l>
-              <pb n="785"/>
+              <pb n="786"/>
               <l>Sollt' ich des schmäh'nden Roms jubelndem Pöbel</l>
               <l>Zur Schau stehn? Lieber sei ein Sumpf Ägyptens</l>
               <l>Mein freundlich Grab! Lieber in Nilus' Schlamm</l>
@@ -8122,7 +8123,7 @@
             <speaker>CLEOPATRA.</speaker>
             <lg>
               <l>Den Ozean überschritt sein Bein; sein Arm,</l>
-              <pb n="786"/>
+              <pb n="787"/>
               <l>Erhoben, ward Helmschmuck der Welt; sein Wort</l>
               <l>War Harmonie, wie aller Sphären Klang,</l>
               <l>Doch Freunden nur;</l>
@@ -8209,7 +8210,7 @@
             <stage>Hinter der Szene:</stage>
             <l>»Platz! Macht Platz dem Cäsar! –«</l>
           </sp>
-          <pb n="787"/>
+          <pb n="788"/>
           <stage>Cäsar, Gallus, Proculejus, Mäcenas, Seleucus und Gefolge treten auf.</stage>
           <sp who="#caesar">
             <speaker>CÄSAR.</speaker>
@@ -8293,7 +8294,7 @@
               <l>Nur Kleinigkeiten fehlen; wo ist Seleucus?</l>
             </lg>
           </sp>
-          <pb n="788"/>
+          <pb n="789"/>
           <sp who="#seleucus">
             <speaker>SELEUCUS.</speaker>
             <l>Hier, Fürstin.</l>
@@ -8368,7 +8369,7 @@
               <l>Du hätt'st Mitleid für mich.</l>
             </lg>
           </sp>
-          <pb n="789"/>
+          <pb n="790"/>
           <sp who="#caesar">
             <speaker>CÄSAR.</speaker>
             <l>Geht fort, Seleucus!</l>
@@ -8455,7 +8456,7 @@
               <l>Auf Eures königlichen Worts Geheiß,</l>
               <l>Dem meine Lieb' als heilig treu gehorcht,</l>
               <l>Meld' ich Euch dies: durch Syrien denkt nun Cäsar</l>
-              <pb n="790"/>
+              <pb n="791"/>
               <l>Den Marsch zu lenken; innerhalb drei Tagen</l>
               <l>Schickt er mit Euern Kindern Euch voraus.</l>
               <l>Nutzt diese Frist, so gut Ihr könnt: ich tat</l>
@@ -8536,7 +8537,7 @@
             <lg>
               <l>Nun, Charmion? Nun?</l>
               <l>Schmückt mich als Königin, ihr Frau'n; geht, holt</l>
-              <pb n="791"/>
+              <pb n="792"/>
               <l>Mein schönstes Kleid: ich will zum Cydnus wieder,</l>
               <l>Und Marc Anton begegnen. Hurtig, Iras! –</l>
               <l>Nun, edle Charmion, wirklich enden wir,</l>
@@ -8597,7 +8598,7 @@
             <p>Sehr viele; Mannsleute und Frauensleute dazu: ich hörte ganz kürzlich, noch gestern,
               von einer, ein recht braves Weib, nur etwas dem Lügen ergeben (und das sollte eine
               Frau nie sein, außer in redlicher Art und Weise), die erzählte, wie sie an seinem Biß
-              gestorben war, was sie für Schmerzen <pb n="792"/> gefühlt. Mein' Seel', sie sagt viel
+              gestorben war, was sie für Schmerzen <pb n="793"/> gefühlt. Mein' Seel', sie sagt viel
               Gutes von dem Wurm; aber wer den Leuten alles glauben will, was sie sagen, dem hilft
               nicht die Hälfte von dem, was sie tun. Das ist aber auf jeden Fall eine inkomplete
               Wahrheit: der Wurm ist ein kurioser Wurm.</p>
@@ -8669,7 +8670,7 @@
               <l>Mein edles Tun zu preisen; er verspottet</l>
               <l>Des Cäsar Glück, das Zeus nur als Entschuld'gung</l>
               <l>Zukünft'gen Zorns verleiht. Gemahl, ich komme! –</l>
-              <pb n="793"/>
+              <pb n="794"/>
               <l>Jetzt schafft mein Mut ein Recht mir zu dem Titel!</l>
               <l>Ganz Feu'r und Luft, geb' ich dem niedern Leben</l>
               <l>Die andern Elemente. – Seid ihr fertig,</l>
@@ -8737,7 +8738,7 @@
             <l>Was wart' ich noch ...</l>
             <stage>Fällt zurück und stirbt.</stage>
           </sp>
-          <pb n="794"/>
+          <pb n="795"/>
           <sp who="#charmion">
             <speaker>CHARMION.</speaker>
             <lg>
@@ -8825,7 +8826,7 @@
               <l>Ich seh' kein Blut.</l>
             </lg>
           </sp>
-          <pb n="795"/>
+          <pb n="796"/>
           <sp who="#dolabella">
             <speaker>DOLABELLA.</speaker>
             <l>Wer war zuletzt mit ihnen?</l>

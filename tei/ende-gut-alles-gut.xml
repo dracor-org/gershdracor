@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="115"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -100,9 +101,9 @@
         <castItem>Parolles, Gesellschafter des Grafen</castItem>
         <castItem>Mehrere junge französische Edelleute</castItem>
         <castGroup>
-          <castItem>Haushofmeister,</castItem>
-          <castItem>Narr,</castItem>
-          <castItem>[Ein Page],</castItem>
+          <castItem>Haushofmeister</castItem>
+          <castItem>Narr</castItem>
+          <castItem>[Ein Page]</castItem>
           <roleDesc>in Diensten der Gräfin von Roussillon</roleDesc>
         </castGroup>
         <castItem>Die Gräfin von Roussillon</castItem>
@@ -110,8 +111,8 @@
         <castItem>Eine Witwe</castItem>
         <castItem>Diana, deren Tochter</castItem>
         <castGroup>
-          <castItem>Violenta,</castItem>
-          <castItem>Mariane,</castItem>
+          <castItem>Violenta</castItem>
+          <castItem>Mariane</castItem>
           <roleDesc>Dianens Freundinen</roleDesc>
         </castGroup>
         <castItem>Herren vom Hofe; Hauptleute; Soldaten</castItem>
@@ -120,7 +121,7 @@
         <p>Die Szene ist teils in Frankreich, teils in Toskana</p>
       </set>
     </front>
-    <pb n="116"/>
+    <pb n="117"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -162,7 +163,7 @@
               Gedanke liegt darin!), dessen Talent fast so groß war als seine Rechtschaffenheit.
               Wäre es ihr ganz gleich gekommen, es hätte die Natur unsterblich gemacht, und der Tod,
               aus Mangel an Arbeit, hätte sich dem Spiel ergeben. Ich wünschte um des Königs willen,
-              er <pb n="117"/> lebte noch; ich glaube, das würde für des Königs Krankheit der Tod
+              er <pb n="118"/> lebte noch; ich glaube, das würde für des Königs Krankheit der Tod
               sein.</p>
           </sp>
           <sp who="#lafeu">
@@ -231,7 +232,7 @@
             <p>Wenn der Lebende dem Gram erst feind ist, wird diesem das Übermaß bald tödlich
               werden.</p>
           </sp>
-          <pb n="118"/>
+          <pb n="119"/>
           <sp who="#bertram">
             <speaker>BERTRAM.</speaker>
             <p>Teure Mutter, ich bitte um Euer Gebet für mich.</p>
@@ -298,7 +299,7 @@
               <l>So straft sich selbst der Ehrgeiz meiner Liebe:</l>
               <l>Die Hindin, die den Löwen wünscht zum Gatten,</l>
               <l>Muß liebend sterben. O der süßen Qual,</l>
-              <pb n="119"/>
+              <pb n="120"/>
               <l>Ihn stündlich anzusehn! Ich saß und malte</l>
               <l>Die hohen Brau'n, sein Falkenaug', die Locken</l>
               <l>In meines Herzens Tafel, allzu offen</l>
@@ -365,7 +366,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Läßt sich denn ein vernünftiger Grund im Naturrecht nachweisen, das Jungfrauentum zu
               bewahren? Verlust des Jungfrauentums ist vielmehr verständige Zunahme; und noch nie
-              ward eine Jungfrau geboren, daß nicht vorher ein <pb n="120"/> Jungfrauentum verloren
+              ward eine Jungfrau geboren, daß nicht vorher ein <pb n="121"/> Jungfrauentum verloren
               ward. Das, woraus Ihr besteht, ist Stoff, um Jungfrauen hervorzubringen. Euer
               Jungfrauentum, einmal verloren, kann zehnmal wieder ersetzt werden; wollt Ihr's immer
               erhalten, so geht's auf ewig verloren; es ist ein zu frostiger Gefährte: weg
@@ -413,7 +414,7 @@
             <lg>
               <l>Göttin, und Führerin, und Königin,</l>
               <l>Ratgeberin, Verräterin, und Liebchen,</l>
-              <pb n="121"/>
+              <pb n="122"/>
               <l>Demüt'ger Ehrgeiz und ehrgeiz'ge Demut,</l>
               <l>Harmon'sche Dissonanz, verstimmter Einklang,</l>
               <l>Und Treu', und süßer Unstern; und so nennt er</l>
@@ -508,7 +509,7 @@
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
-            <p>Ich bin so voller Geschäfte, daß ich dir nicht gleich <pb n="122"/> spitzig antworten
+            <p>Ich bin so voller Geschäfte, daß ich dir nicht gleich <pb n="123"/> spitzig antworten
               kann. Ich kehre zurück als ein vollkommner Hofmann; dann soll mein Unterricht dich
               hier naturalisieren, wenn du anders für eines Hofmanns Geheimnis empfänglich bist und
               begreifen willst, was weiser Rat dir mitteilt; wo nicht, so stirb dann in deiner
@@ -562,7 +563,7 @@
               <l>Die sichre Nachricht unser Vetter Östreich</l>
               <l>Und fügt hinzu, wie uns um schnellen Beistand</l>
               <l>Florenz ersuchen wird; es warnt zugleich</l>
-              <pb n="123"/>
+              <pb n="124"/>
               <l>Mein teurer Freund uns im voraus und hofft,</l>
               <l>Wir schlagen's ab.</l>
             </lg>
@@ -636,7 +637,7 @@
               <l>Nie färbten seine Streng' und seinen Stolz:</l>
               <l>Geschah's, so war's nur gegen seines Gleichen.</l>
               <l>Und seine Ehre zeigt' als treue Uhr</l>
-              <pb n="124"/>
+              <pb n="125"/>
               <l>Genau den Punkt, wo Zeit ihn reden hieß,</l>
               <l>Und dann gehorcht' ihr Zeiger seiner Hand.</l>
               <l>Geringre</l>
@@ -705,7 +706,7 @@
             <lg>
               <l>Lebt' er noch, hätt' ich's doch mit ihm versucht.</l>
               <l>Gebt mir den Arm! – Die andern schwächten mich</l>
-              <pb n="125"/>
+              <pb n="126"/>
               <l>Durch mancherlei Behandlung: mag's Natur</l>
               <l>Und Krankheit nun entscheiden. – Willkommen, Graf! –</l>
             </lg>
@@ -768,7 +769,7 @@
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
-            <p>In Elsbeths Sache und meine eigne. Dienst ist keine <pb n="126"/> Erbschaft, und ich
+            <p>In Elsbeths Sache und meine eigne. Dienst ist keine <pb n="127"/> Erbschaft, und ich
               denke, ich gelange nicht zu Gottes Segen, bis ich Nachkommenschaft sehe; denn, wie die
               Leute sagen: Kinder sind ein Segen Gottes.</p>
           </sp>
@@ -832,7 +833,7 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Ein Prophet, gnädige Frau; ich rede die Wahrheit ohne Umschweif: –</p>
-            <pb n="127"/>
+            <pb n="128"/>
             <lg>
               <l>Gedenkt nur an das alte Lied,</l>
               <l>Es gilt noch heut wie gestern:</l>
@@ -895,7 +896,7 @@
                 <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="128"/>
+          <pb n="129"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <p>Nun, also?</p>
@@ -938,7 +939,7 @@
               <l>Natur verlangt ihr Recht; der scharf Dorn</l>
               <l>Ward gleich der Jugendrose mitgegeben,</l>
               <l>Die Leidenschaft quillt aus des Blutes Born.</l>
-              <pb n="129"/>
+              <pb n="130"/>
               <l>Natur bewährt am treusten ihre Kraft,</l>
               <l>Wo Jugend glüht in starker Leidenschaft;</l>
               <l>Und denk' ich jetzt der Fehl' in vor'gen Stunden,</l>
@@ -1012,7 +1013,7 @@
               <l>– Müßt' Euer Sohn nur nicht mein Bruder sein! –</l>
             </lg>
             <l>Ganz meine Mutter; wärt uns beiden Mutter:</l>
-            <pb n="130"/>
+            <pb n="131"/>
             <lg>
               <l>Das wünscht' ich, wie ich mir den Himmel wünsche:</l>
               <l>Nur ich nicht seine Schwester! Ist's nur dann vergönnt,</l>
@@ -1084,7 +1085,7 @@
               <l>Ihn einzig liebe. Arm, doch tugendhaft</l>
               <l>War mein Geschlecht: so ist mein Lieben auch.</l>
               <l>Seid nicht erzürnt, es bringt ihm keine Kränkung,</l>
-              <pb n="131"/>
+              <pb n="132"/>
               <l>Von mir geliebt zu sein: nie offenbart' ich</l>
               <l>Ein Zeichen ihm zudringlicher Bewerbung;</l>
               <l>Ich wünsch' ihn nicht, eh' ich ihn mir verdient,</l>
@@ -1144,7 +1145,7 @@
               <l>An der der König hinwelkt.</l>
             </lg>
           </sp>
-          <pb n="132"/>
+          <pb n="133"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <lg>
@@ -1210,7 +1211,7 @@
           </sp>
         </div>
       </div>
-      <pb n="133"/>
+      <pb n="134"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1268,7 +1269,7 @@
             <speaker>BEIDE.</speaker>
             <l>Dank für Eure Warnung! –</l>
           </sp>
-          <pb n="134"/>
+          <pb n="135"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Lebt wohl! – Kommt her zu mir!</l>
@@ -1358,7 +1359,7 @@
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Ihr solltet gegen diese edeln Kavaliere ein ausdrucksvolleres Zeremoniell annehmen;
-              Ihr aber beschränkt <pb n="135"/> Euch in den Grenzen eines allzu kaltsinnigen
+              Ihr aber beschränkt <pb n="136"/> Euch in den Grenzen eines allzu kaltsinnigen
               Abschieds. Zeigt ihnen mehr Entgegenkommen; denn sie schwimmen obenauf in der Strömung
               der Zeit; sie sind die vollkommenen Meister des echten Gehens, Essens und Redens und
               bewegen sich unter dem Einfluß des anerkanntesten Gestirns; und wäre der Teufel ihr
@@ -1435,7 +1436,7 @@
             <lg>
               <l>Ei, eine Ärztin, Sire: sie ist schon hier,</l>
               <l>Wenn Ihr sie ansehn wollt. Auf Her' und Treu',</l>
-              <pb n="136"/>
+              <pb n="137"/>
               <l>Wenn ich nach diesem leichten Vortrag ernstlich</l>
               <l>Berichten darf: – ich sprach mit einem Mädchen,</l>
               <l>Das mich durch Absicht, Jugend und Geschlecht,</l>
@@ -1511,7 +1512,7 @@
               <l>Teurer als meine beiden. Also tat ich;</l>
               <l>Und hörend, wie Eu'r Majestät verschmachtet</l>
               <l>An jener bösen Krankheit, die den Ruhm</l>
-              <pb n="137"/>
+              <pb n="138"/>
               <l>Von meines Vaters Kunst zumeist erhöht,</l>
               <l>Kam ich mit Wünschen und mit Demut, Euch</l>
               <l>Die Rettung anzubieten.</l>
@@ -1577,7 +1578,7 @@
               <l>Als Dank für einen Dienst, den ich nicht brauche.</l>
             </lg>
           </sp>
-          <pb n="138"/>
+          <pb n="139"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <lg>
@@ -1644,7 +1645,7 @@
             <lg>
               <l>So viel zu wagen, solch Vertraun zu zeigen,</l>
               <l>Ist nur der Kunst, wo nicht dem Wahnsinn eigen;</l>
-              <pb n="139"/>
+              <pb n="140"/>
               <l>Drum, lieber Arzt, versuch' an mir dein Heil,</l>
               <l>Und sterb' ich, wird dir selbst der Tod zu teil.</l>
             </lg>
@@ -1715,7 +1716,7 @@
             <p>Ihr werdet bald sehn, ich sei besser genährt als gelehrt, und daraus folgt, für den
               Hof sei ich gut genug.</p>
           </sp>
-          <pb n="140"/>
+          <pb n="141"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <p>Gut genug! Nun, auf welche Stelle hast du's abgesehn, wenn du davon so verächtlich
@@ -1774,7 +1775,7 @@
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <p>Wieder jung zu werden, wenn's möglich wäre. – Ich will so närrisch sein, zu fragen,
-              in der Hoffnung, desto weiser <pb n="141"/> durch Eure Antwort zu werden. Sagt mir
+              in der Hoffnung, desto weiser <pb n="142"/> durch Eure Antwort zu werden. Sagt mir
               also, mein Herr, seid Ihr ein Hofkavalier?</p>
           </sp>
           <sp who="#narr">
@@ -1853,7 +1854,7 @@
             <stage>Beide gehn ab.</stage>
           </sp>
         </div>
-        <pb n="142"/>
+        <pb n="143"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Im Palast des Königs.</stage>
@@ -1947,7 +1948,7 @@
             <speaker>LAFEU.</speaker>
             <p>Unverkennbare Hand des Himmels. –</p>
           </sp>
-          <pb n="143"/>
+          <pb n="144"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Ja, so sag' ich.</p>
@@ -2034,7 +2035,7 @@
               <l>Gott hat durch mich den König hergestellt.</l>
             </lg>
           </sp>
-          <pb n="144"/>
+          <pb n="145"/>
           <sp who="#alle">
             <speaker>ALLE.</speaker>
             <p>Wir hörten's, und wir danken Gott für Euch.</p>
@@ -2132,7 +2133,7 @@
           </sp>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
-            <p>Da ist noch eine Traube; ich weiß gewiß, dein Vater <pb n="145"/> trank Wein: wenn du
+            <p>Da ist noch eine Traube; ich weiß gewiß, dein Vater <pb n="146"/> trank Wein: wenn du
               aber nicht ein Esel bist, so bin ich ein Junge von vierzehn. Ich kenne dich schon.</p>
           </sp>
           <sp who="#helena">
@@ -2205,7 +2206,7 @@
               <l>Der Ehre zeugt, wie Ehre <emph>den</emph> verdammt,</l>
               <l>Der sich berühmt, er sei von ihr entstammt,</l>
               <l>Und gleicht der Mutter nicht. Der Ehre Saat</l>
-              <pb n="146"/>
+              <pb n="147"/>
               <l>Gedeiht weit minder durch der Ahnen Tat,</l>
               <l>Als eignen Wert. Das Wort frönt wie ein Sklav'</l>
               <l>Jeglicher Gruft, auf jedem Epitaph</l>
@@ -2267,7 +2268,7 @@
               <l>Als wär' sie ebenbürtig.</l>
             </lg>
           </sp>
-          <pb n="147"/>
+          <pb n="148"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -2351,7 +2352,7 @@
               zu großer Ladung zu achten. Ich habe dich nun gefunden; wenn ich dich wieder verliere,
               gilt mir's gleich; du bist doch des Aufhebens nicht wert.</p>
           </sp>
-          <pb n="148"/>
+          <pb n="149"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Trügst du nicht den Freibrief der Antiquität an dir. ...</p>
@@ -2412,7 +2413,7 @@
               wenn ich ihm nur wieder begegnen kann.</p>
             <stage>Lafeu kommt zurück.</stage>
           </sp>
-          <pb n="149"/>
+          <pb n="150"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <p>He, Freund! Euer Herr und Gebieter ist verheiratet: da habt Ihr etwas Neues für Euch;
@@ -2488,7 +2489,7 @@
               <l>Ins Feld nach Florenz! Nie mit ihr zu Bett!</l>
             </lg>
           </sp>
-          <pb n="150"/>
+          <pb n="151"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <lg>
@@ -2562,7 +2563,7 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Sie ist nicht wohl, und doch ist sie bei Gesundheit; sie ist recht munter, und doch
-              ist sie nicht wohl; aber Gott sei <pb n="151"/> Dank, sie ist sehr wohl, und ihr fehlt
+              ist sie nicht wohl; aber Gott sei <pb n="152"/> Dank, sie ist sehr wohl, und ihr fehlt
               nichts in der Welt; und doch ist sie nicht wohl.</p>
           </sp>
           <sp who="#helena">
@@ -2634,7 +2635,7 @@
             <speaker>PAROLLES.</speaker>
             <lg>
               <l>Ein guter Schelm und trefflich aufgefüttert. –</l>
-              <pb n="152"/>
+              <pb n="153"/>
               <l>Gräfin, mein gnäd'ger Herr verreist heut nacht,</l>
               <l>Höchst wichtige Geschäfte rufen ihn.</l>
               <l>Den großen Anspruch und der Liebe Vorrecht</l>
@@ -2715,7 +2716,7 @@
             <p>Ich versichre Euch, gnädiger Herr, er ist von tiefer Einsicht und eben so vieler
               Tapferkeit.</p>
           </sp>
-          <pb n="153"/>
+          <pb n="154"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <p>So habe ich denn gegen seine Erfahrung gesündigt und mich gegen seine Tapferkeit
@@ -2796,7 +2797,7 @@
             <speaker>LAFEU.</speaker>
             <p>Das wird auch nie geschehn, selbst wenn ich ihn beim Hochwürdigsten träfe. Lebt wohl,
               Herr Graf, und glaubt mir, in dieser tauben Nuß kann kein Kern stecken; die Seele
-              dieses Menschen sitzt in seinen Kleidern. Traut ihm nicht <pb n="154"/> in wichtigen
+              dieses Menschen sitzt in seinen Kleidern. Traut ihm nicht <pb n="155"/> in wichtigen
               Angelegenheiten; ich habe solches Volk zahm gemacht und kenne seine Art. Gott
               befohlen, Monsieur! Ich habe besser von Euch gesprochen, als Ihr's um mich verdient
               habt oder verdienen werdet: aber man soll Böses mit Gutem vergelten.
@@ -2871,7 +2872,7 @@
             <lg>
               <l>Und stets bemüht</l>
               <l>Mit treuer Sorglichkeit Euch zu ersetzen,</l>
-              <pb n="155"/>
+              <pb n="156"/>
               <l>Was mir ein niedriges Gestirn versagt,</l>
               <l>Um wert zu sein so großen Glücks.</l>
             </lg>
@@ -2937,7 +2938,7 @@
           </sp>
         </div>
       </div>
-      <pb n="156"/>
+      <pb n="157"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3001,7 +3002,7 @@
               <l>Sei sie uns willkommen!</l>
               <l>Und alle Ehren, die wir spenden mögen,</l>
               <l>Erwarten sie. Auf euern Posten hin!</l>
-              <pb n="157"/>
+              <pb n="158"/>
               <l>Wenn Höh're fallen, ist's für euch Gewinn.</l>
               <l>Morgen ins Feld! –</l>
             </lg>
@@ -3061,7 +3062,7 @@
               erfahrt es durch mich, eh' der Ruf es Euch meldet. Wenn die Welt breit genug ist,
               werde ich mich in weiter Entfernung halten.</p>
             <p>Mit kindlicher Hochachtung Euer unglücklicher Sohn Bertram.« –</p>
-            <pb n="158"/>
+            <pb n="159"/>
             <l>Das ist nicht recht, unbänd'ger, rascher Knabe! –</l>
             <lg>
               <l>Die Gunst zu meiden solches guten Herrn,</l>
@@ -3135,7 +3136,7 @@
               mich Gemahl; aber dieses ›dann‹ ist so viel als ›nie‹.«</p>
             <p>Das ist ein harter Spruch!</p>
           </sp>
-          <pb n="159"/>
+          <pb n="160"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <l>Habt ihr den Brief gebracht, ihr Herrn?</l>
@@ -3249,7 +3250,7 @@
             <speaker>GRÄFIN.</speaker>
             <lg>
               <l>Seid willkommen,</l>
-              <pb n="160"/>
+              <pb n="161"/>
               <l>Ihr Herrn! Ich bitt' euch, sagt doch meinem Sohn,</l>
               <l>Es könn' ihm nie sein Schwert die Her' erringen,</l>
               <l>Die er verliert; noch Weitres bitt' ich euch</l>
@@ -3302,7 +3303,7 @@
               <l>Und dazu blieb' ich? Nimmermehr! Ob auch</l>
               <l>Des Paradieses Luft dies Haus umwehte</l>
               <l>Und Engel drin mir dienten. Ich will gehn.</l>
-              <pb n="161"/>
+              <pb n="162"/>
               <l>Meld' ihm, Gerücht, mitleidig, daß ich floh,</l>
               <l>Und tröst' ihn! Komm, o Nacht! Mit Tags Entweichen</l>
               <l>Will ich, ein armer Dieb, von hier mich schleichen.</l>
@@ -3371,7 +3372,7 @@
               <l>Weil Lieb' und Ehrgeiz wild mein Herz zerrissen,</l>
               <l>Wandr' ich auf hartem Grund mit nacktem Fuß,</l>
               <l>Ein fromm Gelübd' erleichtre mein Gewissen.</l>
-              <pb n="162"/>
+              <pb n="163"/>
               <l>Schreibt Eurem Sohn, schreibt meinem liebsten Herrn,</l>
               <l>Daß er aus blut'ger Schlacht zur Heimat kehre;</l>
               <l>Ihn segne Frieden hier, indes ich fern</l>
@@ -3428,7 +3429,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="163"/>
+        <pb n="164"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Vor den Toren von Florenz.</stage>
@@ -3478,7 +3479,7 @@
             <p>Ihr sollt nicht Ursache haben, meinetwegen besorgt zu sein.</p>
             <stage>Helena tritt auf, als Pilgerin verkleidet.</stage>
           </sp>
-          <pb n="164"/>
+          <pb n="165"/>
           <sp who="#witwe">
             <speaker>WITWE.</speaker>
             <p>Das hoffe ich. Seht, da kommt eine Pilgerin: ich weiß, sie wird in meinem Hause
@@ -3589,7 +3590,7 @@
             <speaker>HELENA.</speaker>
             <lg>
               <l>Nun, ich geb' ihm recht;</l>
-              <pb n="165"/>
+              <pb n="166"/>
               <l>Denn in Betracht der Würd' und Trefflichkeit</l>
               <l>Des hohen Grafen selbst ist sie zu niedrig,</l>
               <l>Um oft erwähnt zu sein. All ihr Verdienst</l>
@@ -3680,7 +3681,7 @@
             <speaker>DIANA.</speaker>
             <p>Der Geck mit all den Bändern. Warum ist er wohl melancholisch?</p>
           </sp>
-          <pb n="166"/>
+          <pb n="167"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <p>Er ward vielleicht in der Schlacht verwundet.</p>
@@ -3754,7 +3755,7 @@
             <p>Glaubt mir's, Graf, nach allem, was ich unmittelbar von ihm weiß – ohne irgend
               Bosheit, und indem ich nur von ihm rede, wie ich von meinem Vetter tun würde –, er ist
               ein ausgemachter Hasenfuß, ein unendlicher und grenzenloser Lügner, ein stündlicher
-              Wortbrecher und Besitzer <pb n="167"/> keine einzigen Eigenschaft, die es verdiente,
+              Wortbrecher und Besitzer <pb n="168"/> keine einzigen Eigenschaft, die es verdiente,
               daß Eure Herrlichkeit sich seiner annimmt.</p>
           </sp>
           <sp who="#zweiter_edelmann">
@@ -3803,7 +3804,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Wie geht's, Monsieur? Diese Trommel scheint Euch schwer auf dem Herzen zu liegen.</p>
           </sp>
-          <pb n="168"/>
+          <pb n="169"/>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Hol' sie der Henker! Laßt sie doch, es ist ja nur eine Trommel.</p>
@@ -3866,7 +3867,7 @@
             <p>Darf ich im voraus den Herzog davon benachrichtigen, daß Ihr Euch an das Unternehmen
               macht?</p>
           </sp>
-          <pb n="169"/>
+          <pb n="170"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Ich weiß nicht, wie der Erfolg sein wird, gnädiger Herr, aber den Versuch gelob'
@@ -3937,7 +3938,7 @@
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Doch sagt Ihr, sie sei keusch?</l>
           </sp>
-          <pb n="170"/>
+          <pb n="171"/>
           <sp who="#bertram">
             <speaker>BERTRAM.</speaker>
             <lg>
@@ -4008,7 +4009,7 @@
               <l>Und strebt nach Sieg: – sie geb' ihm endlich nach;</l>
               <l>Wir zeigen ihr, wie sich's am besten fügt.</l>
               <l>Sein ungestümes Blut wird nichts verweigern,</l>
-              <pb n="171"/>
+              <pb n="172"/>
               <l>Was sie begehrt. Der Graf trägt einen Ring.</l>
               <l>Seit alter Zeit vererbt in seinem Stamm</l>
               <l>Von Sohn zu Sohn, vier, fünf Geschlechter durch,</l>
@@ -4066,7 +4067,7 @@
           </sp>
         </div>
       </div>
-      <pb n="172"/>
+      <pb n="173"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4112,7 +4113,7 @@
               kommen, und auf die Lügen zu schwören, die er schmiedet.</p>
             <stage>Parolles tritt auf.</stage>
           </sp>
-          <pb n="173"/>
+          <pb n="174"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Zehn Uhr! – Nach drei Stunden wird's zeitig genug sein, nach Haus zu gehn. Was soll
@@ -4184,7 +4185,7 @@
             <speaker>PAROLLES.</speaker>
             <p>– Dreißig Klafter tief –</p>
           </sp>
-          <pb n="174"/>
+          <pb n="175"/>
           <sp who="#edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
@@ -4277,7 +4278,7 @@
               <l>Was euch verwundern soll.</l>
             </lg>
           </sp>
-          <pb n="175"/>
+          <pb n="176"/>
           <sp who="#dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <l>Und ohne Falsch?</l>
@@ -4366,7 +4367,7 @@
             <speaker>DIANA.</speaker>
             <lg>
               <l>Nein;</l>
-              <pb n="176"/>
+              <pb n="177"/>
               <l>Sie tat nach ihrer Pflicht; wie Euer Weib</l>
               <l>Von Euch sie fodert, Graf.</l>
             </lg>
@@ -4446,7 +4447,7 @@
             <lg>
               <l>Es ist ein Ehrenkleinod unsres Hauses,</l>
               <l>Von vielen alten Ahnen mir vererbt,</l>
-              <pb n="177"/>
+              <pb n="178"/>
               <l>Und mir der größte Makel auf der Welt,</l>
               <l>Verlör' ich's.</l>
             </lg>
@@ -4512,7 +4513,7 @@
             <stage>Geht ab.</stage>
           </sp>
         </div>
-        <pb n="178"/>
+        <pb n="179"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Im florentinischen Lager.</stage>
@@ -4571,7 +4572,7 @@
           </sp>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
-            <p>Die ist nicht mehr fern. Ich möchte gern, <pb n="179"/> daß er seinen Freund
+            <p>Die ist nicht mehr fern. Ich möchte gern, <pb n="180"/> daß er seinen Freund
               anatomiert sähe, damit er sein eignes Urteil würdigen lerne, in welches er diesen
               falschen Demant so künstlich eingefaßt hatte.</p>
           </sp>
@@ -4641,7 +4642,7 @@
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Wie wunderbar finden wir oft einen Trost in unserm Verlust!</p>
           </sp>
-          <pb n="180"/>
+          <pb n="181"/>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Und wie wunderbar benetzen wir oft unsern Gewinn mit Tränen! Die große Auszeichnung,
@@ -4694,7 +4695,7 @@
             <p>Ich meine, die Sache ist nicht zu Ende, weil ich fürchte, noch in der Folge davon zu
               hören. – Aber sollen wir nicht die Szene zwischen dem Narr'n und den Soldaten
               aufführen?</p>
-            <pb n="181"/>
+            <pb n="182"/>
             <p>Kommt, bringt uns dies falsche Muster her; er hat mich betrogen, wie ein
               doppelzüngiger Prophet.</p>
           </sp>
@@ -4765,7 +4766,7 @@
             <speaker>DOLMETSCHER.</speaker>
             <p>»Zuerst fragt ihn, wie stark des Herzogs Reiterei ist.« Was sagt Ihr dazu?</p>
           </sp>
-          <pb n="182"/>
+          <pb n="183"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Fünf- bis sechstausend; aber sehr schwach und schlecht exerziert; die Truppen sind
@@ -4836,7 +4837,7 @@
               Corambus, eben so viel; – Jaques, eben so viel, – Guiltian, Cosmo, Lodovico und
               Grazii, jeder zweihundertundfünfzig; – meine eigne Kompagnie, Christopher, Vaumond,
               Benzii, jeder zweihundertundfünfzig: so daß die Musterrolle, Gesunde und Kranke, sich
-              bei meiner Ehre nicht auf fünfzehntausend <pb n="183"/> Köpfe beläuft; und von denen
+              bei meiner Ehre nicht auf fünfzehntausend <pb n="184"/> Köpfe beläuft; und von denen
               wagt die Hälfte nicht den Schnee von ihren Wämsern abzuschütteln, damit sie nicht aus
               einander fallen.</p>
           </sp>
@@ -4907,7 +4908,7 @@
           </sp>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
-            <p>In vollem Ernst, ich weiß doch nicht; entweder ist <pb n="184"/> er da, oder er hängt
+            <p>In vollem Ernst, ich weiß doch nicht; entweder ist <pb n="185"/> er da, oder er hängt
               mit des Herzogs andern Briefen auf dem Faden in meinem Zelte.</p>
           </sp>
           <sp who="#dolmetscher">
@@ -4978,7 +4979,7 @@
             <p>Das ist Euer treu ergebner Freund. Herr, der vielbewanderte Sprachkenner und
               waffenkundige Soldat.</p>
           </sp>
-          <pb n="185"/>
+          <pb n="186"/>
           <sp who="#bertram">
             <speaker>BERTRAM.</speaker>
             <p>Ich habe von jeher alles ertragen können, nur keine Katze, und nun ist er eine Katze
@@ -5032,7 +5033,7 @@
             <p>Meiner Treu, er hat die Trommel vor den englischen Komödianten her geschlagen;
               belügen möchte ich ihn eben nicht, und mehr weiß ich nicht von seiner Soldatenschaft,
               außer daß er in England die Ehre hatte, Dienste an einem Orte zu tun, den sie dort
-              Mile-End nennen; und da hat er <pb n="186"/> die Leute exerziert, zwei Mann hoch zu
+              Mile-End nennen; und da hat er <pb n="187"/> die Leute exerziert, zwei Mann hoch zu
               stehn. Ich möchte dem Menschen gern alle mögliche Ehre antun, aber dieser Sache bin
               ich nicht recht gewiß.</p>
           </sp>
@@ -5098,7 +5099,7 @@
           <sp who="#dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Es ist keine Hülfe, Freund, Ihr müßt sterben. Der General sagt, wer so verräterisch
-              die Geheimnisse seines <pb n="187"/> Heers entdeckt und so giftige Berichte über
+              die Geheimnisse seines <pb n="188"/> Heers entdeckt und so giftige Berichte über
               höchst ehrenwerte Männer aussagt, könne der Welt nicht redlich nützen; darum müßt Ihr
               sterben. Kommt, Scharfrichter; herunter mit seinem Kopf!</p>
           </sp>
@@ -5160,7 +5161,7 @@
               <l>Mein nacktes Selbst. Wer sich erkennt als Prahler,</l>
               <l>Der nehm' ein Beispiel dran; es kann nicht fehlen,</l>
               <l>Kein Großmaul weiß sein Eselsohr zu hehlen.</l>
-              <pb n="188"/>
+              <pb n="189"/>
               <l>Verroste, Schwert, und Scham, fahr' hin! Glück auf;</l>
               <l>Beginn' als Narr den neuen Lebenslauf,</l>
               <l>Denn noch sind Platz und Unterhalt zu Kauf. –</l>
@@ -5216,7 +5217,7 @@
               <l>Die schwarze Nacht beschämt. So spielt die Lust</l>
               <l>Mit dem, was sie verabscheut, unbewußt.</l>
               <l>Doch mehr hievon ein ander Mal. Ihr, Diana,</l>
-              <pb n="189"/>
+              <pb n="190"/>
               <l>Müßt unter meiner armen Leitung manches</l>
               <l>Für mich noch dulden.</l>
             </lg>
@@ -5272,7 +5273,7 @@
             <p>Ja wahrhaftig, sie war das Tausendschönchen im Salat, oder vielmehr der echte
               Ehrenpreis.</p>
           </sp>
-          <pb n="190"/>
+          <pb n="191"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <p>Das sind ja keine Salatkräuter, du Schelm, das sind ja Gartenblumen.</p>
@@ -5352,7 +5353,7 @@
               und die Herrschaft, von der ich sage, hat immer ein gutes Feuer gehalten. Aber da er
               einmal der Fürst dieser Welt ist, mag sein Adel an seinem Hof bleiben; ich bin für das
               Haus mit der engen Pforte, die wohl zu klein für die Magnaten ist; wer sich eben
-              bücken <pb n="191"/> will, kommt wohl durch; aber die meisten werden zu frostig und zu
+              bücken <pb n="192"/> will, kommt wohl durch; aber die meisten werden zu frostig und zu
               verwöhnt sein, und wandeln auf dem blumigen Pfade, der zur breiten Pforte und zum
               großen Feuer führt.</p>
           </sp>
@@ -5410,7 +5411,7 @@
             <p>Eben überlegte ich mir, gnädige Frau, auf welche Weise ich am besten Zutritt erhalten
               könnte.</p>
           </sp>
-          <pb n="192"/>
+          <pb n="193"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <p>Ihr braucht nur das ehrenwerte Vorrecht Eures Namens geltend zu machen.</p>
@@ -5450,7 +5451,7 @@
           </sp>
         </div>
       </div>
-      <pb n="193"/>
+      <pb n="194"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5513,7 +5514,7 @@
             <speaker>EDELMANN.</speaker>
             <l>Der König ist nicht hier.</l>
           </sp>
-          <pb n="194"/>
+          <pb n="195"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <l>Nicht hier, Herr?</l>
@@ -5588,7 +5589,7 @@
               wie du sagst. Ich werde künftig keinen Fisch aus Fortunens Bratpfanne mehr essen.
               Bitt' dich, stelle dich unter den Wind!</p>
           </sp>
-          <pb n="195"/>
+          <pb n="196"/>
           <sp who="#parolles">
             <speaker>PAROLLES.</speaker>
             <p>Nun, Freund, Ihr braucht Euch die Nase drum nicht zuzuhalten, ich rede nur in einer
@@ -5650,7 +5651,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Oh, mein gnädiger Herr, Ihr wart der erste, der mich ausfand.</p>
           </sp>
-          <pb n="196"/>
+          <pb n="197"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <p>War ich's, wirklich? Und ich war auch der erste, der dich verlor.</p>
@@ -5708,7 +5709,7 @@
               <l>Und fertig war zum Schuß.</l>
             </lg>
           </sp>
-          <pb n="197"/>
+          <pb n="198"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <l>Dies muß ich sagen –</l>
@@ -5787,7 +5788,7 @@
               <l>Am Stirnhaar laß den Augenblick uns fassen,</l>
               <l>Denn wir sind alt, und unsre schnellsten Schlüsse</l>
               <l>Beschleicht der unhörbare, leise Fuß</l>
-              <pb n="198"/>
+              <pb n="199"/>
               <l>Der Zeit, eh' sie vollzogen sind. Gedenkt Ihr</l>
               <l>Der Tochter dieses Herrn?</l>
             </lg>
@@ -5848,7 +5849,7 @@
               <l>Des Funkeln meiner Tochter Geist errege</l>
               <l>Zu schneller Eil'. Bei meinem greisen Bart,</l>
               <l>Und jedem Haar drin: unsere Helena</l>
-              <pb n="199"/>
+              <pb n="200"/>
               <l>War hold und reizend; solchen Ring, wie den,</l>
               <l>Als sie das letzte Mal erschien am Hof,</l>
               <l>Trug sie an ihrem Finger.</l>
@@ -5918,7 +5919,7 @@
               <l>Ihn Euch gewann. Sie schwur bei allen Heil'gen,</l>
               <l>Sie woll' ihn nie von ihrem Finger lassen,</l>
               <l>Wenn sie ihn Euch nicht gäb' in ihrem Brautbett</l>
-              <pb n="200"/>
+              <pb n="201"/>
               <l>(Wohin Ihr nie gekommen), oder schickt' ihn</l>
               <l>Mir selbst in harter Not.</l>
             </lg>
@@ -5981,7 +5982,7 @@
             <speaker>KÖNIG</speaker>
             <stage>liest.</stage>
             <p>- »Auf seine vielen Beteurungen, mich zu heiraten, wenn seine Gattin tot wäre – ich
-              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb n="201"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
+              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb n="202"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
               bezahlt. Er verließ Florenz heimlich, ohne Abschied zu nehmen, und ich folge ihm in
               sein Vaterland, um Recht zu finden. Gewährt es mir, o König: es steht völlig bei Euch;
               sonst triumphiert ein Verführer, und ein armes Mädchen ist verloren.</p>
@@ -6060,7 +6061,7 @@
             <lg>
               <l>Wollt Ihr Euch vermählen,</l>
               <l>So gebt Ihr weg die Hand, und sie ist mein:</l>
-              <pb n="202"/>
+              <pb n="203"/>
               <l>So gebt Ihr weg den Schwur, und er ist mein:</l>
               <l>So gebt Ihr weg mich selbst, und ich bin mein.</l>
               <l>So unzertrennlich bin ich Euch vereint,</l>
@@ -6148,7 +6149,7 @@
               <l>Den ich mit Scham Euch nenn': er heißt Parolles.</l>
             </lg>
           </sp>
-          <pb n="203"/>
+          <pb n="204"/>
           <sp who="#lafeu">
             <speaker>LAFEU.</speaker>
             <l>Ich sah den Mann noch heut, wenn der ein Mann ist.</l>
@@ -6237,7 +6238,7 @@
             <l>Wahrhaft sprach ich.</l>
             <stage>Parolles tritt auf.</stage>
           </sp>
-          <pb n="204"/>
+          <pb n="205"/>
           <sp who="#bertram">
             <speaker>BERTRAM.</speaker>
             <l>Den Ring, ich will's gestehn, besaß sie einst.</l>
@@ -6328,7 +6329,7 @@
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
-            <p>Du hast schon alles gesagt, wenn du nicht etwa noch <pb n="205"/> melden kannst, daß
+            <p>Du hast schon alles gesagt, wenn du nicht etwa noch <pb n="206"/> melden kannst, daß
               sie verheiratet sind. Aber du bist zu schlau in deiner Aussage; darum tritt
               beiseit!</p>
             <p>Der Ring, sagt Ihr, war Euer?</p>
@@ -6438,7 +6439,7 @@
             <lg>
               <l>Geht, liebe Mutter, holt den Bürgen mir!</l>
               <stage>Die Witwe geht.</stage>
-              <pb n="206"/>
+              <pb n="207"/>
               <l>Sie ruft den Juwelier, des Ringes Eigner:</l>
               <l>Der leistet Sicherheit. Doch diesen Herrn,</l>
               <l>Der mich entehrt hat, wie er selber weiß</l>
@@ -6513,7 +6514,7 @@
             <lg>
               <l>Ihr sollt mir's noch von Punkt zu Punkt erklären.</l>
               <l>In Wonn' entzückt werd' ich die Wahrheit hören.</l>
-              <pb n="207"/>
+              <pb n="208"/>
               <stage>Zu Diana.</stage>
               <l>Bist du noch Mädchenblume, wähl' dir morgen</l>
               <l>Den Gatten! Für den Brautschatz will ich sorgen.</l>
@@ -6528,7 +6529,7 @@
           </sp>
         </div>
       </div>
-      <pb n="208"/>
+      <pb n="209"/>
       <div type="epilogue">
         <head>Epilog</head>
         <stage>vom König gesprochen</stage>

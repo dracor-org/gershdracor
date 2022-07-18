@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="5"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -123,6 +124,7 @@
         <p>Die Szene ist bald in England, bald in Frankreich</p>
       </set>
     </front>
+    <pb n="7"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -195,7 +197,7 @@
             <l>Bring' meinen ihm, und scheid' in Frieden so!</l>
             <l>Sei du in Frankreichs Augen wie der Blitz:</l>
             <l>Denn eh' du melden kannst, ich komme hin,</l>
-            <pb n="7"/>
+            <pb n="8"/>
             <l>Soll man schon donnern hören mein Geschütz.</l>
             <l>Hinweg denn! Sei du unsers Grimms Trompete</l>
             <l>Und ernste Vorbedeutung eures Falls! –</l>
@@ -261,7 +263,7 @@
             <l>Für Kriegesdienst' im Feld zum Ritter schlug.</l>
           </lg>
         </sp>
-        <pb n="8"/>
+        <pb n="9"/>
         <sp>
           <speaker>KÖNIG JOHANN.</speaker>
           <l>Wer bist du?</l>
@@ -348,7 +350,7 @@
             <l>Was treibt Euch, Eures Bruders Lehn zu fodern?</l>
           </lg>
         </sp>
-        <pb n="9"/>
+        <pb n="10"/>
         <sp>
           <speaker>BASTARD.</speaker>
           <lg>
@@ -409,7 +411,7 @@
             <l>Das könnt' er, traun! War er von meinem Bruder,</l>
             <l>So konnt' ihn der nicht fodern; Euer Vater</l>
             <l>Ihn nicht verleugnen, war er auch nicht sein.</l>
-            <pb n="10"/>
+            <pb n="11"/>
             <l>Kurz, meiner Mutter Sohn zeugt' Eures Vaters Erben,</l>
             <l>Dem Erben kommt das Gut des Vaters zu.</l>
           </lg>
@@ -502,7 +504,7 @@
           <lg>
             <l>Gebt, mütterlicher Bruder, mir die Hand:</l>
             <l>Mein Vater gab mir Adel, Eurer Land.</l>
-            <pb n="11"/>
+            <pb n="12"/>
             <l>Gesegnet schienen Sonne oder Sterne,</l>
             <l>Als ich erzeugt ward in Sir Roberts Ferne.</l>
           </lg>
@@ -562,7 +564,7 @@
             <l>Wie's Euch beliebt, zu Euren Diensten, Herr.« –</l>
             <l>Sagt Frage: »Nein, ich, bester Herr, zu Euren.«</l>
             <l>Und so, eh' Antwort weiß, was Frage will, –</l>
-            <pb n="12"/>
+            <pb n="13"/>
             <l>Bloß mit dem hin und her Komplimentieren</l>
             <l>Und Schwatzen von den Alpen, Apenninen,</l>
             <l>Den Pyrenäen und dem Flusse Po</l>
@@ -626,7 +628,7 @@
             <l>Philipp? Possen! Jakob,</l>
             <l>Hier ist was los, sogleich erfährst du mehr.</l>
             <stage>Gurney ab.</stage>
-            <pb n="13"/>
+            <pb n="14"/>
             <l>Ich bin Sir Roberts Sohn, des alten, nicht:</l>
             <l>Sir Robert konnte seinen Teil an mir</l>
             <l>Karfreitags essen und doch Fasten halten.</l>
@@ -688,7 +690,7 @@
             <l>Mit dessen Grimm und Stärke sondergleichen</l>
             <l>Der unerschrockne Leu nicht kämpfen konnte,</l>
             <l>Noch Richards Hand sein fürstlich Herz entziehn.</l>
-            <pb n="14"/>
+            <pb n="15"/>
             <l>Wer mit Gewalt das Herz dem Löwen raubt,</l>
             <l>Gewinnt von einem Weib es leicht. Ach, Mutter!</l>
             <l>Von Herzen dank' ich dir für meinen Vater.</l>
@@ -702,7 +704,7 @@
           <stage>Ab.</stage>
         </sp>
       </div>
-      <pb n="15"/>
+      <pb n="16"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -751,7 +753,7 @@
               <l>Bis Angers und dein sonstig Recht in Frankreich,</l>
               <l>Samt jenem Felsenufer, dessen Fuß</l>
               <l>Zurück des Weltmeers wilde Fluten stößt</l>
-              <pb n="16"/>
+              <pb n="17"/>
               <l>Und trennt sein Inselvolk von andern Ländern,</l>
               <l>Bis jenes England, von der See umzäunt,</l>
               <l>Dies wellenfeste Bollwerk, sicher stets</l>
@@ -819,7 +821,7 @@
               <l>Hat sich gewaffnet; widerwärt'ge Winde,</l>
               <l>Die mich verzögert, gaben ihm die Zeit,</l>
               <l>Mit mir zugleich zu landen seine Scharen.</l>
-              <pb n="17"/>
+              <pb n="18"/>
               <l>Er naht mit schnellen Märschen dieser Stadt,</l>
               <l>Die Heersmacht stark, die Krieger voller Mut.</l>
               <l>Mit ihm kommt seine Mutter Königin,</l>
@@ -875,7 +877,7 @@
             <lg>
               <l>Mit England Frieden, wenn der Krieg aus Frankreich</l>
               <l>Nach England kehrt, in Frieden dort zu leben.</l>
-              <pb n="18"/>
+              <pb n="19"/>
               <l>Wir lieben England, und um Englands willen</l>
               <l>Bringt unser Rüstung Bürd' uns hier in Schweiß.</l>
               <l>Dies unsrer Werk käm' deiner Sorge zu;</l>
@@ -945,7 +947,7 @@
               <l>Als deines deinem Gatten; dieser Knabe</l>
               <l>Gleicht mehr an Zügen seinem Vater Gottfried</l>
               <l>Als du und dein Johann an Sitten euch:</l>
-              <pb n="19"/>
+              <pb n="20"/>
               <l>Die ihr einander gleichet wie der Regen</l>
               <l>Dem Wasser, wie der Teufel seiner Mutter.</l>
               <l>Mein Sohn ein Bastard! Denk' ich doch beim Himmel,</l>
@@ -1035,7 +1037,7 @@
             <speaker>ELEONORE.</speaker>
             <l>Komm zur Großmutter, Kind!</l>
           </sp>
-          <pb n="20"/>
+          <pb n="21"/>
           <sp who="#constanze">
             <speaker>CONSTANZE.</speaker>
             <lg>
@@ -1115,7 +1117,7 @@
               <l>Schließt deinen Sohn von jedem Anspruch aus.</l>
             </lg>
           </sp>
-          <pb n="21"/>
+          <pb n="22"/>
           <sp who="#constanze">
             <speaker>CONSTANZE.</speaker>
             <lg>
@@ -1182,7 +1184,7 @@
               <l>Um unverletzt die Wangen eurer Stadt</l>
               <l>Zu schützen, – siehe da! erstaunt bequemen</l>
               <l>Zur Unterredung die Franzosen sich;</l>
-              <pb n="22"/>
+              <pb n="23"/>
               <l>Und schießen nun, statt Kugeln, rings in Feuer,</l>
               <l>Um eure Mauern fieberhaft zu schütteln,</l>
               <l>Nur sanfte Worte, eingehüllt in Dampf,</l>
@@ -1225,7 +1227,7 @@
               <l>Wär' all dies Volk von England und ihr Zeug</l>
               <l>In ihren rauhen Umkreis auch gelegt.</l>
               <l>Sagt denn, erkennt uns eure Stadt als Herrn</l>
-              <pb n="23"/>
+              <pb n="24"/>
               <l>Zu Gunsten des, für den wir es geheischt?</l>
               <l>Wie, oder geben wir der Wut Signal</l>
               <l>Und ziehn durch Blut in unser Eigentum?</l>
@@ -1328,7 +1330,7 @@
               <l>Wir alle unsre Truppen reihen wollen!</l>
             </lg>
           </sp>
-          <pb n="24"/>
+          <pb n="25"/>
           <sp who="#bastard">
             <speaker>BASTARD.</speaker>
             <l>So eilt, der Stellung Vorteil zu gewinnen.</l>
@@ -1379,7 +1381,7 @@
               <l>Die erst beim Auszug sie entfaltet, heim.</l>
               <l>Und wie ein muntrer Trupp von Jägern, kommen</l>
               <l>Die Englischen, die Hände ganz bepurpurt,</l>
-              <pb n="25"/>
+              <pb n="26"/>
               <l>Gefärbt vom Morde, der die Feind' entfärbt.</l>
               <l>Tut auf die Tor' und gebt den Siegern Raum!</l>
             </lg>
@@ -1436,7 +1438,7 @@
               <l>Der Krieger Schwerter sind ihm Zähn' und Hauer;</l>
               <l>So schmaust er nun, der Menschen Fleisch verschlingend,</l>
               <l>In unentschiednem Zwist der Könige. –</l>
-              <pb n="26"/>
+              <pb n="27"/>
               <l>Was stehn so starr die königlichen Heere?</l>
               <l>Ruft Sturm! Zum blut'gen Schlachtfeld eilt zurück,</l>
               <l>Ihr gleichen Mächte, wild entflammte Geister!</l>
@@ -1501,7 +1503,7 @@
               <l>Kehrt Stirn an Stirn und Spitze gegen Spitze!</l>
               <l>Dann wird Fortuna sich im Augenblick</l>
               <l>Auf <emph>einer</emph> Seite ihren Liebling wählen:</l>
-              <pb n="27"/>
+              <pb n="28"/>
               <l>Dem wird sie günstig den Gewinn des Tages,</l>
               <l>Glorreichen Sieg mit ihrem Kuß verleihn.</l>
               <l>Behagt der wilde Rat euch, mächt'ge Staaten?</l>
@@ -1583,7 +1585,7 @@
               <l>Des Dauphin Louis und der holden Magd!</l>
               <l>Wenn muntre Liebe nach der Schönheit geht,</l>
               <l>Wo fände sie sie holder als in Blanca?</l>
-              <pb n="28"/>
+              <pb n="29"/>
               <l>Wenn fromme Liebe nach der Tugend strebt,</l>
               <l>Wo fände sie sie reiner als in Blanca?</l>
               <l>Fragt ehrbegier'ge Liebe nach Geburt:</l>
@@ -1627,7 +1629,7 @@
               <l>Er spricht Kanonen, Feuer, Dampf und Knall,</l>
               <l>Er gibt mit seiner Zunge Bastonnaden,</l>
               <l>Das Ohr wird ausgeprügelt; jedes Wort</l>
-              <pb n="29"/>
+              <pb n="30"/>
               <l>Pufft kräftiger als eine fränk'sche Faust.</l>
               <l>Blitz! ich bin nie mit Worten so gewalkt,</l>
               <l>Seit ich des Bruders Vater Tatte nannte.</l>
@@ -1691,7 +1693,7 @@
               <l>Ein Wunder, das mich in Verwund'rung setzt,</l>
               <l>Den Schatten von mir selbst in ihrem Auge,</l>
               <l>Der da, wiewohl nur Schatten Eures Sohns,</l>
-              <pb n="30"/>
+              <pb n="31"/>
               <l>Zur Sonne wird und macht den Sohn zum Schatten.</l>
               <l>Ich schwör' es Euch, ich liebte niemals mich,</l>
               <l>Bis ich mich selber eingefaßt hier sah,</l>
@@ -1759,7 +1761,7 @@
               <l>Laß Sohn und Tochter nun die Hand sich geben!</l>
             </lg>
           </sp>
-          <pb n="31"/>
+          <pb n="32"/>
           <sp who="#koenig_philipp">
             <speaker>KÖNIG PHILIPP.</speaker>
             <l>Es sei! Vereint die Hände, junges Paar!</l>
@@ -1824,7 +1826,7 @@
               <l>Zu hemmen, hat ein Teil davon erteilt;</l>
               <l>Und Frankreich, den Gewissen selbst gepanzert,</l>
               <l>Den Christenlieb' und Eifer trieb ins Feld</l>
-              <pb n="32"/>
+              <pb n="33"/>
               <l>Als Gottes Streiter: da der schlaue Teufel,</l>
               <l>Der Vorsatz-Ändrer, ihm ins Ohr geraunt,</l>
               <l>Der Mäkler, der die Treu' zur Makel macht,</l>
@@ -1863,7 +1865,7 @@
           </sp>
         </div>
       </div>
-      <pb n="33"/>
+      <pb n="34"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -1901,7 +1903,7 @@
               <l>Dies Wort nur: ob sie wahr sei oder nicht?</l>
             </lg>
           </sp>
-          <pb n="34"/>
+          <pb n="35"/>
           <sp who="#salisbury">
             <speaker>SALISBURY.</speaker>
             <lg>
@@ -1965,7 +1967,7 @@
               <l>Der Buhlerin mit ihm, dem Kronenräuber. –</l>
               <l>Sag mir, du Mann, ist Frankreich nicht meineidig?</l>
               <l>Vergift' ihn mir mit Worten, oder geh,</l>
-              <pb n="35"/>
+              <pb n="36"/>
               <l>Und laß allein dies Weh, das ich allein</l>
               <l>Zu tragen bin bestimmt.</l>
             </lg>
@@ -2025,7 +2027,7 @@
               <l>Ja, Treue selbst verkehr' in Falschheit sich!</l>
             </lg>
           </sp>
-          <pb n="36"/>
+          <pb n="37"/>
           <sp who="#koenig_philipp">
             <speaker>KÖNIG PHILIPP.</speaker>
             <lg>
@@ -2087,7 +2089,7 @@
             <speaker>BASTARD.</speaker>
             <l>Und häng' ein Kalbsfell um die schnöden Glieder!</l>
           </sp>
-          <pb n="37"/>
+          <pb n="38"/>
           <sp who="#oesterreich">
             <speaker>ÖSTERREICH.</speaker>
             <l>Ja, untersteh dich das zu sagen, Schurke!</l>
@@ -2153,7 +2155,7 @@
               <l>Und um den Preis von schnödem Gold, Kot, Staub</l>
               <l>Verfälschten Ablaß kauft von einem Mann,</l>
               <l>Der mit dem Handel ihn für sich verscherzt;</l>
-              <pb n="38"/>
+              <pb n="39"/>
               <l>Ob Ihr und alle, gröblich mißgeleitet,</l>
               <l>Die heil'ge Gaunerei mit Pfründen hegt,</l>
               <l>Will ich allein, allein, den Papst nicht kennen</l>
@@ -2234,7 +2236,7 @@
             <speaker>BASTARD.</speaker>
             <l>Eure Hosen weit genug dazu.</l>
           </sp>
-          <pb n="39"/>
+          <pb n="40"/>
           <sp who="#koenig_johann">
             <speaker>KÖNIG JOHANN.</speaker>
             <l>Philipp, was sprichst du zu dem Kardinal?</l>
@@ -2321,7 +2323,7 @@
               <l>War fest geschworne Treue, Fried' und Freundschaft</l>
               <l>Für unser beider Reich und hohes Selbst.</l>
               <l>Und eben vor dem Stillstand, kurz zuvor, –</l>
-              <pb n="40"/>
+              <pb n="41"/>
               <l>So lang', daß wir die Hände waschen konnten,</l>
               <l>Um auf den Friedenshandel einzuschlagen, –</l>
               <l>Der Himmel weiß es, waren sie betüncht</l>
@@ -2373,7 +2375,7 @@
               <l>Er lautet: Streiter unsrer Kirche sein.</l>
               <l>Was du seitdem beschworst, ist wider dich</l>
               <l>Und kann nicht von dir selbst geleistet werden.</l>
-              <pb n="41"/>
+              <pb n="42"/>
               <l>Wenn du verkehrt zu tun geschworen hast,</l>
               <l>So ist es nicht verkehrt, das Rechte tun,</l>
               <l>Und wo das Tun zum Übel zielt, da wird</l>
@@ -2428,7 +2430,7 @@
               <l>Soll schmetternde Trompet' und laute Trommel,</l>
               <l>Der Hölle Lärm, begleiten unsern Zug?</l>
               <l>O Gatte, hör' mich! – ach, wie neu ist Gatte</l>
-              <pb n="42"/>
+              <pb n="43"/>
               <l>In meinem Munde! – um des Namens willen,</l>
               <l>Den meine Zunge niemals sprach bis jetzt,</l>
               <l>Bitt' ich auf meinen Knie'n, ergreif' die Waffen</l>
@@ -2521,7 +2523,7 @@
             <lg>
               <l>Geht, Vetter, zieht zusammen unsre Macht! –</l>
               <stage>Bastard ab.</stage>
-              <pb n="43"/>
+              <pb n="44"/>
               <l>Frankreich, mein Innres zehrt entbrannter Zorn;</l>
               <l>Die Hitze meiner Wut ist so beschaffen,</l>
               <l>Daß nichts sie löschen kann, nein, nichts als Blut,</l>
@@ -2585,7 +2587,7 @@
             <lg>
               <l>So sei es: stark bewacht soll Eure Hoheit</l>
               <l>Zurück hier bleiben. – Sieh nicht traurig, Vetter;</l>
-              <pb n="44"/>
+              <pb n="45"/>
               <l>Großmutter liebt dich, und dein Oheim wird</l>
               <l>So wert dich halten, als dein Vater tat.</l>
             </lg>
@@ -2656,7 +2658,7 @@
               <l>Doch du bekömmst sie; wie die Zeit auch schleicht,</l>
               <l>So kömmt sie doch für mich, dir wohlzutun.</l>
               <l>Ich hatte was zu sagen, – doch es sei:</l>
-              <pb n="45"/>
+              <pb n="46"/>
               <l>Die Sonn' ist droben, und der stolze Tag,</l>
               <l>Umringt von den Ergötzungen der Welt,</l>
               <l>Ist allzu üppig und zu bunt geputzt,</l>
@@ -2724,7 +2726,7 @@
             <speaker>HUBERT.</speaker>
             <l>Er soll nicht leben.</l>
           </sp>
-          <pb n="46"/>
+          <pb n="47"/>
           <sp who="#koenig_johann">
             <speaker>KÖNIG JOHANN.</speaker>
             <lg>
@@ -2795,7 +2797,7 @@
             <lg>
               <l>Seht, wer da kommt? Ein Grab für eine Seele,</l>
               <l>Das wider Willen hält den ew'gen Geist</l>
-              <pb n="47"/>
+              <pb n="48"/>
               <l>Im schnöden Kerker des bedrängten Odems.</l>
               <l>Ich bitte, Fürstin, kommt hinweg mit mir!</l>
             </lg>
@@ -2861,7 +2863,7 @@
               <l>Da ich nicht toll bin, und für Gram empfindlich,</l>
               <l>Gibt mein vernünftig Teil mir Mittel an,</l>
               <l>Wie ich von diesem Leid mich kann befrein,</l>
-              <pb n="48"/>
+              <pb n="49"/>
               <l>Und lehrt mich, mich ermorden oder hängen.</l>
               <l>Ja, wär' ich toll, vergäß' ich meinen Sohn,</l>
               <l>Säh' ihn wohl gar in einer Lumpenpuppe.</l>
@@ -2927,7 +2929,7 @@
             <speaker>KÖNIG PHILIPP.</speaker>
             <l>Ihr liebt den Gram so sehr als Euer Kind.</l>
           </sp>
-          <pb n="49"/>
+          <pb n="50"/>
           <sp who="#constanze">
             <speaker>CONSTANZE.</speaker>
             <lg>
@@ -3001,7 +3003,7 @@
               <l>Eu'r Sinn ist jugendlich wie Euer Blut.</l>
               <l>Nun hört mich reden mit prophet'schem Geist;</l>
               <l>Denn selbst der Hauch des, was ich sprechen will,</l>
-              <pb n="50"/>
+              <pb n="51"/>
               <l>Wird jeden Staub und Halm, den kleinsten Anstoß</l>
               <l>Wegblasen aus dem Pfad, der deinen Fuß</l>
               <l>Zu Englands Thron soll führen: drum gib acht!</l>
@@ -3066,7 +3068,7 @@
               <l>O Herr, wenn er von Eurer Ankunft hört,</l>
               <l>Ist dann der junge Arthur noch nicht hin,</l>
               <l>So stirbt er auf die Nachricht; und alsdann</l>
-              <pb n="51"/>
+              <pb n="52"/>
               <l>Wird all sein Volk die Herzen von ihm wenden,</l>
               <l>Des unbekannten Wechsels Lippen küssen</l>
               <l>Und Antrieb aus den blut'gen Fingerspitzen</l>
@@ -3097,7 +3099,7 @@
           </sp>
         </div>
       </div>
-      <pb n="52"/>
+      <pb n="53"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3156,7 +3158,7 @@
               <l>So lang der Tag ist, wollt' ich lustig sein.</l>
               <l>Und das wollt' ich auch hier, besorgt' ich nicht,</l>
               <l>Daß mir mein Oheim noch mehr Leid will tun.</l>
-              <pb n="53"/>
+              <pb n="54"/>
               <l>Er fürchtet sich vor mir und ich vor ihm:</l>
               <l>Ist, daß ich Gottfrieds Sohn war, meine Schuld?</l>
               <l>Nein, wahrlich nicht: und, Hubert, wollte Gott,</l>
@@ -3233,7 +3235,7 @@
               <l>Doch Euer Krankenwärter war ein Prinz.</l>
               <l>Ihr denkt vielleicht: das war nur schlaue Liebe,</l>
               <l>Und nennt es List? Tut's, wenn Ihr wollt; gefällt es</l>
-              <pb n="54"/>
+              <pb n="55"/>
               <l>Dem Himmel, daß Ihr mich mißhandeln müßt,</l>
               <l>So müßt Ihr. – Wollt Ihr mir die Augen blenden?</l>
               <l>Die Augen, die kein einzig Mal Euch scheel</l>
@@ -3309,7 +3311,7 @@
             <lg>
               <l>O weh: so schalt ich meinen Freund hinweg.</l>
               <l>Sein Blick ist finster, doch sein Herz ist mild. –</l>
-              <pb n="55"/>
+              <pb n="56"/>
               <l>Ruft ihn zurück, damit sein Mitleid Eures</l>
               <l>Beleben mag!</l>
             </lg>
@@ -3387,7 +3389,7 @@
               <l>Zu unbarmherz'gen Zwecken ausersehn.</l>
             </lg>
           </sp>
-          <pb n="56"/>
+          <pb n="57"/>
           <sp who="#hubert">
             <speaker>HUBERT.</speaker>
             <lg>
@@ -3461,7 +3463,7 @@
               <l>Auf die Viole Wohlgerüche streun,</l>
               <l>Eis glätten, eine neue Farbe leihn</l>
               <l>Dem Regenbogen, und mit Kerzenlicht</l>
-              <pb n="57"/>
+              <pb n="58"/>
               <l>Des Himmels schönes Auge schmücken wollen,</l>
               <l>Ist lächerlich und unnütz Übermaß.</l>
             </lg>
@@ -3528,7 +3530,7 @@
               <l>Um aller Herzen Wünsche kund zu tun, –</l>
               <l>Sowohl für mich als sie, (allein vor allem</l>
               <l>Für Eure Sicherheit, wofür sie sämtlich</l>
-              <pb n="58"/>
+              <pb n="59"/>
               <l>Ihr best Bemühn verwenden) bitte herzlich</l>
               <l>Um die Befreiung Arthurs, des Gefängnis</l>
               <l>Des Mißvergnügens murr'nde Lippen reizt,</l>
@@ -3590,7 +3592,7 @@
             <lg>
               <l>Wir halten nicht des Todes starken Arm.</l>
               <l>Lebt schon mein Will' zu geben, edle Herrn,</l>
-              <pb n="59"/>
+              <pb n="60"/>
               <l>So ist doch eu'r Gesuch dahin und tot:</l>
               <l>Er sagt, daß Arthur diese Nacht verschied.</l>
             </lg>
@@ -3667,7 +3669,7 @@
             <lg>
               <l>Oh, wo war unsre Kundschaft denn berauscht?</l>
               <l>Wo schlief sie? Wo ist meiner Mutter Sorge,</l>
-              <pb n="60"/>
+              <pb n="61"/>
               <l>Daß Frankreich so ein Heer vereinen konnte</l>
               <l>Und sie es nicht gehört?</l>
             </lg>
@@ -3737,7 +3739,7 @@
               <l>Aus Pomfrets Straßen brachte, den ich fand,</l>
               <l>Wie Hunderte ihm auf der Ferse folgten,</l>
               <l>Derweil er sang in ungeschlachten Reimen,</l>
-              <pb n="61"/>
+              <pb n="62"/>
               <l>Es werd' auf nächste Himmelfahrt vor Mittags</l>
               <l>Eu'r Hoheit ihre Krone niederlegen.</l>
             </lg>
@@ -3824,7 +3826,7 @@
             <l>Und meine Mutter tot!</l>
             <stage>Hubert tritt auf.</stage>
           </sp>
-          <pb n="62"/>
+          <pb n="63"/>
           <sp who="#hubert">
             <speaker>HUBERT.</speaker>
             <lg>
@@ -3893,7 +3895,7 @@
             <speaker>HUBERT.</speaker>
             <l>Hier Euer Brief und Siegel für die Tat.</l>
           </sp>
-          <pb n="63"/>
+          <pb n="64"/>
           <sp who="#koenig_johann">
             <speaker>KÖNIG JOHANN.</speaker>
             <lg>
@@ -3947,7 +3949,7 @@
               <l>Bewehrt Euch gegen Eure andern Feinde,</l>
               <l>Ich gebe Frieden Eurer Seel' und Euch.</l>
               <l>Prinz Arthur lebt, und diese Hand hier ist</l>
-              <pb n="64"/>
+              <pb n="65"/>
               <l>Noch eine jungfräuliche, reine Hand,</l>
               <l>Gefärbt von keines Blutes Purpurflecken.</l>
               <l>In diesen Busen drängte nie sich noch</l>
@@ -3999,7 +4001,7 @@
             <stage>Er stirbt.</stage>
             <stage>Pembroke, Salisbury und Bigot treten auf.</stage>
           </sp>
-          <pb n="65"/>
+          <pb n="66"/>
           <sp who="#salisbury">
             <speaker>SALISBURY.</speaker>
             <lg>
@@ -4106,7 +4108,7 @@
               <l>Last oder hörtet oder konntet denken,</l>
               <l>Ja, denkt Ihr jetzt beinah', wiewohl Ihr's seht,</l>
               <l>Das, was Ihr seht? Wer könnte dies erdenken,</l>
-              <pb n="66"/>
+              <pb n="67"/>
               <l>Läg' es vor Augen nicht? Es ist der Gipfel,</l>
               <l>Der Helm, die Helmzimier am Wappenschild</l>
               <l>Des Mordes; ist die blutigste Verruchtheit,</l>
@@ -4180,7 +4182,7 @@
             <stage>den Degen ziehend.</stage>
             <l>Muß ich die Beute den Gerichten rauben?</l>
           </sp>
-          <pb n="67"/>
+          <pb n="68"/>
           <sp who="#bastard">
             <speaker>BASTARD.</speaker>
             <l>Eu'r Schwert ist blank, Herr, steckt es wieder ein.</l>
@@ -4281,7 +4283,7 @@
               <l>Denn mich erstickt hier der Geruch der Sünde.</l>
             </lg>
           </sp>
-          <pb n="68"/>
+          <pb n="69"/>
           <sp who="#bigot">
             <speaker>BIGOT.</speaker>
             <l>Hinweg! Nach Bury, zu dem Dauphin dort!</l>
@@ -4354,7 +4356,7 @@
               <l>Floh dieses Reiches Leben, Recht und Treu'</l>
               <l>Zum Himmel auf, und bleibt für England nichts,</l>
               <l>Als Balgen, Zerren, mit den Zähnen packen</l>
-              <pb n="69"/>
+              <pb n="70"/>
               <l>Das herrenlose Vorrecht stolzer Hoheit.</l>
               <l>Nun sträubet um den abgenagten Knochen</l>
               <l>Der Majestät der Krieg den zorn'gen Kamm</l>
@@ -4373,7 +4375,7 @@
           </sp>
         </div>
       </div>
-      <pb n="70"/>
+      <pb n="71"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4423,7 +4425,7 @@
               <l>So soll mein Mund den Sturm des Krieges stillen</l>
               <l>Und dem durchtobten Land schön Wetter geben.</l>
               <l>Auf diesen Himmelfahrtstag, merkt es wohl,</l>
-              <pb n="71"/>
+              <pb n="72"/>
               <l>Nach Eurem Schwur, dem Papst zu dienen, schaff' ich,</l>
               <l>Daß Frankreich seine Waffen niederlege.</l>
             </lg>
@@ -4489,7 +4491,7 @@
               <l>Wenn er gesonnen ist, das Feld zu zieren:</l>
               <l>Zeigt Kühnheit und erhebendes Vertrau'n!</l>
               <l>Soll man den Leu'n in seiner Höhle suchen?</l>
-              <pb n="72"/>
+              <pb n="73"/>
               <l>Und da ihn schrecken? da ihn zittern machen?</l>
               <l>Oh, daß man das nicht sage! – Macht Euch auf,</l>
               <l>Und trefft das Unheil weiter weg vom Haus,</l>
@@ -4556,7 +4558,7 @@
             <lg>
               <l>Wir werden unsrerseits sie nimmer brechen.</l>
               <l>Und, edler Dauphin, schwören wir Euch schon</l>
-              <pb n="73"/>
+              <pb n="74"/>
               <l>Willfähr'gen Eifer, ungezwungne Treu'</l>
               <l>Zu Eurem Fortschritt: dennoch glaubt mir, Prinz,</l>
               <l>Ich bin nicht froh, daß solch Geschwür der Zeit</l>
@@ -4600,7 +4602,7 @@
               <l>Laß trocknen mich den ehrenvollen Tau,</l>
               <l>Der silbern über deine Wangen schleicht:</l>
               <l>Es schmolz mein Herz bei Frauentränen wohl,</l>
-              <pb n="74"/>
+              <pb n="75"/>
               <l>Die doch gemeine Überschwemmung sind;</l>
               <l>Doch dieser Tropfen männliche Ergießung,</l>
               <l>Dies Schauer, von der Seele Sturm erregt,</l>
@@ -4650,7 +4652,7 @@
               <l>Zu lassen schalten, mich zu untergeben</l>
               <l>Als ein bequemer Dienstmann, als ein Werkzeug,</l>
               <l>An irgend eine Herrschaft in der Welt.</l>
-              <pb n="75"/>
+              <pb n="76"/>
               <l>Eu'r Odem schürte erst die toten Kohlen</l>
               <l>Des Krieges zwischen diesem Reich und mir;</l>
               <l>Ihr schafftet Stoff herbei, die Glut zu nähren;</l>
@@ -4698,7 +4700,7 @@
             <l>Welch mutige Trompete mahnet uns?</l>
             <stage>Der Bastard mit Gefolge tritt auf.</stage>
           </sp>
-          <pb n="76"/>
+          <pb n="77"/>
           <sp who="#bastard">
             <speaker>BASTARD.</speaker>
             <lg>
@@ -4750,7 +4752,7 @@
               <l>Der Mutter England, werdet rot vor Scham!</l>
               <l>Denn eure eignen Frau'n und blassen Mädchen,</l>
               <l>Wie Amazonen, trippeln nach der Trommel,</l>
-              <pb n="77"/>
+              <pb n="78"/>
               <l>Aus Fingerhüten Waffenhandschuh' machend,</l>
               <l>Aus Nadeln Lanzen, und das sanfte Herz</l>
               <l>Zu blutiger und wilder Regung kehrend.</l>
@@ -4821,7 +4823,7 @@
             <speaker>HUBERT.</speaker>
             <l>Schlecht, fürcht' ich; was macht Eure Majestät?</l>
           </sp>
-          <pb n="78"/>
+          <pb n="79"/>
           <sp who="#koenig_johann">
             <speaker>KÖNIG JOHANN.</speaker>
             <lg>
@@ -4912,7 +4914,7 @@
               <l>Flieht, edle Englische, ihr seid verkauft;</l>
               <l>Entfädelt der Empörung rauhes Öhr</l>
               <l>Und neu bewillkommt die entlaßne Treu'!</l>
-              <pb n="79"/>
+              <pb n="80"/>
               <l>Sucht euren König auf, fallt ihm zu Füßen:</l>
               <l>Denn wird der Dauphin Herr des schwülen Tags,</l>
               <l>So denkt er euch genommne Müh' zu lohnen,</l>
@@ -4963,7 +4965,7 @@
             <speaker>SALISBURY.</speaker>
             <lg>
               <l>Wir glauben dir, – und strafe mich der Himmel,</l>
-              <pb n="80"/>
+              <pb n="81"/>
               <l>Gefällt mir nicht die Mien' und die Gestalt</l>
               <l>Von dieser freundlichen Gelegenheit,</l>
               <l>Den Weg verdammter Flucht zurückzumessen,</l>
@@ -5021,7 +5023,7 @@
               <l>Verwünschte Zeitung! Sei verwünscht dafür!</l>
               <l>Ich dachte nicht so traurig diesen Abend</l>
               <l>Zu sein, als sie mich macht. – Wer war's, der sagte.</l>
-              <pb n="81"/>
+              <pb n="82"/>
               <l>Der König sei geflohn, nur ein paar Stunden,</l>
               <l>Eh' irre Dunkelheit die Heere schied?</l>
             </lg>
@@ -5119,7 +5121,7 @@
               <l>Schwarz, trostlos, fürchterlich und grausenvoll.</l>
             </lg>
           </sp>
-          <pb n="82"/>
+          <pb n="83"/>
           <sp who="#bastard">
             <speaker>BASTARD.</speaker>
             <lg>
@@ -5192,7 +5194,7 @@
             </lg>
             <stage>Pembroke tritt auf.</stage>
           </sp>
-          <pb n="83"/>
+          <pb n="84"/>
           <sp who="#pembroke">
             <speaker>PEMBROKE.</speaker>
             <lg>
@@ -5263,7 +5265,7 @@
             <lg>
               <l>Gift, – übel, – tot, verlassen, ausgestoßen;</l>
               <l>Und keiner will den Winter kommen heißen,</l>
-              <pb n="84"/>
+              <pb n="85"/>
               <l>Die eis'ge Hand mir in den Leib zu stecken,</l>
               <l>Noch mir die Ströme meines Reiches leiten</l>
               <l>In den verbrannten Busen, noch den Nord</l>
@@ -5330,7 +5332,7 @@
               <l>Mein Fürst! Mein Herr! – Kaum König noch, – nun so!</l>
             </lg>
           </sp>
-          <pb n="85"/>
+          <pb n="86"/>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
@@ -5407,7 +5409,7 @@
               <l>Und glücklich lege Euer holdes Selbst</l>
               <l>Des Lands ererbten Staat und Hoheit an,</l>
               <l>Dem ich in aller Demut, auf den Knie'n,</l>
-              <pb n="86"/>
+              <pb n="87"/>
               <l>Zu eigen gebe meinen treuen Dienst</l>
               <l>Und Unterwürfigkeit für ew'ge Zeiten.</l>
             </lg>

@@ -140,6 +140,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="727"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -155,16 +156,16 @@
         <castItem>Antonio, ein Schiffshauptmann</castItem>
         <castItem>Ein Schiffshauptmann</castItem>
         <castGroup>
-          <castItem>Valentin,</castItem>
-          <castItem>Curio,</castItem>
+          <castItem>Valentin</castItem>
+          <castItem>Curio</castItem>
           <roleDesc>Kavaliere des Herzogs</roleDesc>
         </castGroup>
         <castItem>Junker Tobias von Rülp, Olivias Oheim</castItem>
         <castItem>Junker Christoph von Bleichenwang</castItem>
         <castItem>Malvolio, Olivias Haushofmeister</castItem>
         <castGroup>
-          <castItem>Fabio,</castItem>
-          <castItem>Narr,</castItem>
+          <castItem>Fabio</castItem>
+          <castItem>Narr</castItem>
           <roleDesc>in Olivias Dienst</roleDesc>
         </castGroup>
         <castItem>Olivia, eine reiche Gräfin</castItem>
@@ -177,7 +178,7 @@
         <p>Die Szene ist eine Stadt in Illyrien und die benachbarte Seeküste</p>
       </set>
     </front>
-    <pb n="728"/>
+    <pb n="729"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -231,7 +232,7 @@
             <stage>Valentin kommt.</stage>
             <l>Nun wohl, was sagt sie?</l>
           </sp>
-          <pb n="729"/>
+          <pb n="730"/>
           <sp who="#valentin">
             <speaker>VALENTIN.</speaker>
             <lg>
@@ -297,7 +298,7 @@
             <lg>
               <l>Ja, Fräulein; und Euch mit »vielleicht« zu trösten.</l>
               <l>Versichr' ich Euch: als unser Schiff gescheitert,</l>
-              <pb n="730"/>
+              <pb n="731"/>
               <l>Indessen Ihr und dieser arme Haufen,</l>
               <l>Mit Euch gerettet, auf dem Boote trieb,</l>
               <l>Sah ich, daß Euer Bruder, wohl bedacht</l>
@@ -380,7 +381,7 @@
             <lg>
               <l>O dient' ich doch dem Fräulein,</l>
               <l>Und würde nicht nach meinem Stand der Welt</l>
-              <pb n="731"/>
+              <pb n="732"/>
               <l>Verraten, bis ich die Gelegenheit</l>
               <l>Selbst hätte reifen lassen!</l>
             </lg>
@@ -444,7 +445,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>So mag sie beizeiten Einrede tun, hernachmals aber schweigen.</p>
           </sp>
-          <pb n="732"/>
+          <pb n="733"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Ja, es würde Euch aber besser kleiden, einen ordentlichen Lebenswandel zu führen.</p>
@@ -510,7 +511,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Freilich, auf meiner Nichte Gesundheit. Ich will so lange darauf trinken, als es mir
               durch die Kehle läuft und Getränk in Illyrien ist. Ein Hase und ein Lumpenhund, wer
-              nicht meiner Nichte zu Ehren trinkt, bis sich sein Gehirn <pb n="733"/> auf einem
+              nicht meiner Nichte zu Ehren trinkt, bis sich sein Gehirn <pb n="734"/> auf einem
               Beine herumdreht wie ein Kräusel. Still, Mädel! Castiliano volto! denn hier kommt
               Junker Christoph von Bleichenwang.</p>
             <stage>Junker Christoph tritt auf.</stage>
@@ -604,7 +605,7 @@
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Nun, ein Mädchen wie Ihr kann einen wohl warm machen.</p>
           </sp>
-          <pb n="734"/>
+          <pb n="735"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Nein, Ihr habt ein kaltes Herz, das kann ich an den Fingern abzählen.</p>
@@ -677,7 +678,7 @@
               sehn lassen; und wenn auch, es ist zehn gegen eins, daß sie mich nicht will. [Der Graf
               selbst, hier dicht bei an, freit um sie.]</p>
           </sp>
-          <pb n="735"/>
+          <pb n="736"/>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Sie will den Grafen nicht; sie will keine größere Partie tun, als sie selbst ist,
@@ -738,7 +739,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="736"/>
+        <pb n="737"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Ein Zimmer im Palaste des Herzogs.</stage>
@@ -817,7 +818,7 @@
             <speaker>VIOLA.</speaker>
             <l>Das denk' ich nicht, mein Fürst.</l>
           </sp>
-          <pb n="737"/>
+          <pb n="738"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -886,7 +887,7 @@
             <speaker>MARIA.</speaker>
             <p>Aus dem Kriege, und das kannst du in deiner Narrheit nur kecklich nachsagen.</p>
           </sp>
-          <pb n="738"/>
+          <pb n="739"/>
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Gut, Gott verleihe denen Weisheit, die welche haben; und die, so Narren sind, laßt
@@ -954,7 +955,7 @@
               Menschen, sich zu bessern: wenn er sich bessert, so ist er kein schlechter Mensch
               mehr; kann er nicht, so mag ihn der Schneider flicken. Denn alles, was ausgebessert
               wird, ist doch nur geflickt. Tugend, die sich vergeht, ist nur mit Sünde geflickt;
-              Sünde, die sich bessert, ist nur mit Tugend <pb n="739"/> geflickt. Reicht dieser
+              Sünde, die sich bessert, ist nur mit Tugend <pb n="740"/> geflickt. Reicht dieser
               einfältige Schluß hin: gut! Wo nicht: was ist zu machen? Wie es keinen wahren Hahnrei
               gibt, außer das Unglück, so ist die Schönheit eine Blume. – Das Fräulein wollte das
               Narrengesicht weggeschafft haben, darum sage ich noch einmal: Schafft das Fräulein
@@ -1035,7 +1036,7 @@
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Ich wundre mich, wie Euer Gnaden an solch einem ungesalznen Schuft Gefallen finden
-              können. Ich sah ihn neulich <pb n="740"/> von einem gewöhnlichen Narren, der nicht
+              können. Ich sah ihn neulich <pb n="741"/> von einem gewöhnlichen Narren, der nicht
               mehr Gehirn hat wie ein Haubenstock, aus dem Sattel gehoben. Seht nur, er ist schon
               aus seiner Fassung: wenn Ihr nicht lacht, und ihm die Gelegenheit zutragt, so ist ihm
               der Mund zugenäht. Auf meine Ehre, ich halte die vernünftigen Leute, die über diese
@@ -1091,7 +1092,7 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Du hast für uns geredet, Madonna, als wenn dein ältester Sohn ein Narr werden sollte,
-              dessen Schädel die Götter <pb n="741"/> mit Gehirn vollstopfen mögen; denn hier kommt
+              dessen Schädel die Götter <pb n="742"/> mit Gehirn vollstopfen mögen; denn hier kommt
               einer von deiner Sippschaft, der eine sehr schwache pia mater hat.</p>
             <stage>Junker Tobias tritt auf.</stage>
           </sp>
@@ -1163,7 +1164,7 @@
               voraus gewußt zu haben, und kommt daher, um mit Euch zu sprechen. Was soll man ihm
               sagen, gnädiges Fräulein? Er ist gegen jede Ausflucht gewaffnet.</p>
           </sp>
-          <pb n="742"/>
+          <pb n="743"/>
           <sp who="#olivia">
             <speaker>OLIVIA.</speaker>
             <p>Sagt ihm, daß er mich nicht sprechen soll.</p>
@@ -1240,7 +1241,7 @@
             <speaker>OLIVIA.</speaker>
             <p>Seid Ihr ein Schauspieler?</p>
           </sp>
-          <pb n="743"/>
+          <pb n="744"/>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
             <p>Nein, mein verschwiegnes Herz! Und doch schwöre ich Euch bei allen Schlingen der
@@ -1306,7 +1307,7 @@
             <speaker>OLIVIA.</speaker>
             <p>Doch begannt Ihr ungestüm. Wer seid Ihr? Was wollt Ihr?</p>
           </sp>
-          <pb n="744"/>
+          <pb n="745"/>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
             <p>Den Ungestüm, den ich blicken ließ, lernte ich von meiner Aufnahme. Was ich bin, und
@@ -1384,7 +1385,7 @@
             <speaker>VIOLA.</speaker>
             <lg>
               <l>Ich seh' Euch, wie Ihr seid: Ihr seid zu stolz;</l>
-              <pb n="745"/>
+              <pb n="746"/>
               <l>Doch wärt Ihr auch der Teufel, Ihr seid schön.</l>
               <l>Mein Herr und Meister liebt Euch: solche Liebe</l>
               <l>Kann nur vergolten werden, würdet Ihr</l>
@@ -1466,7 +1467,7 @@
               <l>Habt Dank für Eure Müh'! Denkt mein hiebei!</l>
             </lg>
           </sp>
-          <pb n="746"/>
+          <pb n="747"/>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
             <lg>
@@ -1531,7 +1532,7 @@
           </sp>
         </div>
       </div>
-      <pb n="747"/>
+      <pb n="748"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1572,7 +1573,7 @@
             <speaker>SEBASTIAN.</speaker>
             <p>Sie war ein Mädchen, das, ob man gleich sagte, sie sehe mir sehr ähnlich, von vielen
               für schön gehalten ward; aber konnt' ich auch darin nicht mit so übertriebner
-              Bewund'rung <pb n="748"/> einstimmen, so darf ich doch kühnlich behaupten, ihr Gemüt
+              Bewund'rung <pb n="749"/> einstimmen, so darf ich doch kühnlich behaupten, ihr Gemüt
               war so geartet, daß der Neid es selbst schön nennen mußte. Sie ertrank in der salzigen
               Flut, ob ich gleich ihr Andenken von neuem damit zu ertränken scheine.</p>
           </sp>
@@ -1635,7 +1636,7 @@
             <speaker>VIOLA.</speaker>
             <p>Sie nahm den Ring von mir: ich will ihn nicht.</p>
           </sp>
-          <pb n="749"/>
+          <pb n="750"/>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Hört, Ihr habt ihn ihr ungestüm hingeworfen, und ihr Wille ist, ich soll ihn ebenso
@@ -1684,7 +1685,7 @@
             <p>Kommt, Junker Christoph! Nach Mitternacht nicht zu Bette sein, heißt früh auf sein
               und diluculo surgere, weißt du –</p>
           </sp>
-          <pb n="750"/>
+          <pb n="751"/>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Nein, bei meiner Ehre, ich weiß nicht; aber ich weiß: spät aufbleiben ist spät
@@ -1755,7 +1756,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Ein Liebeslied! ein Liebeslied!</p>
           </sp>
-          <pb n="751"/>
+          <pb n="752"/>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Ja! ja! ich frage nichts nach gutem Lebenswandel.</p>
@@ -1838,7 +1839,7 @@
             <stage>Sie singen einen Kanon.</stage>
             <stage>Maria kommt.</stage>
           </sp>
-          <pb n="752"/>
+          <pb n="753"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Was macht ihr hier für ein Katzenkonzert? Wenn das Fräulein nicht ihren
@@ -1904,7 +1905,7 @@
             <stage>singt.</stage>
             <l>»Leb wohl, mein Schatz, ich muß von hinnen gehn.«</l>
           </sp>
-          <pb n="753"/>
+          <pb n="754"/>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Ich bitt' Euch, Junker Tobias!</p>
@@ -2000,7 +2001,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Laß hören! laß hören! Erzähle uns was von ihm!</p>
           </sp>
-          <pb n="754"/>
+          <pb n="755"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Nun, Herr, er ist manchmal eine Art von Pietisten.</p>
@@ -2067,7 +2068,7 @@
               zu Bett, und laßt euch von der Kurzweil träumen! Adieu! <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="755"/>
+          <pb n="756"/>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Gute Nacht, Amazone!</p>
@@ -2146,7 +2147,7 @@
             <lg>
               <l>Komm näher, Junge! – Wenn du jemals liebst,</l>
               <l>Gedenke meiner in den süßen Qualen:</l>
-              <pb n="756"/>
+              <pb n="757"/>
               <l>Denn so wie ich sind alle Liebenden,</l>
               <l>Unstät und launenhaft in jeder Regung,</l>
               <l>Das stäte Bild des Wesens ausgenommen,</l>
@@ -2234,7 +2235,7 @@
               <l>So wie die alte Zeit.</l>
             </lg>
           </sp>
-          <pb n="757"/>
+          <pb n="758"/>
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Seid Ihr bereit, Herr?</p>
@@ -2304,7 +2305,7 @@
               <l>Einmal noch, Cesario,</l>
               <l>Begib dich zu der schönen Grausamkeit:</l>
               <l>Sag, meine Liebe, höher als die Welt,</l>
-              <pb n="758"/>
+              <pb n="759"/>
               <l>Fragt nicht nach weiten Strecken staub'gen Landes;</l>
               <l>Die Gaben, die das Glück ihr zugeteilt,</l>
               <l>Sag ihr, sie wiegen leicht mir wie das Glück.</l>
@@ -2378,7 +2379,7 @@
               <l>Sich härmend, und in bleicher, welker Schwermut,</l>
               <l>Saß sie wie die Geduld auf einer Gruft,</l>
               <l>Dem Grame lächelnd. Sagt, war <emph>das</emph> nicht Liebe?</l>
-              <pb n="759"/>
+              <pb n="760"/>
               <l>Wir Männer mögen leicht mehr sprechen, schwören,</l>
               <l>Doch der Verheißung steht der Wille nach.</l>
               <l>Wir sind in Schwüren stark, doch in der Liebe schwach.</l>
@@ -2445,7 +2446,7 @@
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Stellt euch alle drei hinter die Hecke: Malvolio kommt diesen Gang herunter. Er ist
-              seit einer halben Stunde dort <pb n="760"/> in der Sonne gewesen und hat seinem eignen
+              seit einer halben Stunde dort <pb n="761"/> in der Sonne gewesen und hat seinem eignen
               Schatten Künste gelehrt. Gebt acht auf ihn, bei allem, was lustig ist! Denn ich weiß,
               dieser Brief wird einen nachdenklichen Pinsel aus ihm machen. Still, so lieb euch ein
               Schwank ist! –</p>
@@ -2519,7 +2520,7 @@
           </sp>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
-            <p>Rufe meine Beamten um mich her, in meinem geblümten <pb n="761"/> Samtrock; komme so
+            <p>Rufe meine Beamten um mich her, in meinem geblümten <pb n="762"/> Samtrock; komme so
               eben von einem Ruhebett, wo ich Olivien schlafend gelassen.</p>
           </sp>
           <sp who="#junker_tobias">
@@ -2604,7 +2605,7 @@
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Ich wußte wohl, daß ich's war, denn sie nennen mich immer einen Narren.</p>
           </sp>
-          <pb n="762"/>
+          <pb n="763"/>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Was gibt's hier zu tun?</p>
@@ -2686,7 +2687,7 @@
             <p>»Ich kann gebieten, wo ich liebe.« Nun ja, sie kann über mich gebieten; ich diene
               ihr, sie ist meine Herrschaft. Nun, das leuchtet jedem notdürftig gesunden
               Menschenverstande ein. – Dies macht gar keine Schwierigkeit; und der Schluß? Was mag
-              wohl diese Anordnung von Buchstaben <pb n="763"/> bedeuten? Wenn ich machen könnte,
+              wohl diese Anordnung von Buchstaben <pb n="764"/> bedeuten? Wenn ich machen könnte,
               daß dies auf die eine oder andre Art an mir zuträfe! – Sacht! M.O.A.I.</p>
           </sp>
           <sp who="#junker_tobias">
@@ -2743,7 +2744,7 @@
               Wo nicht, so bleib' nur immer ein Hausverwalter, der Gefährte von Lakaien und nicht
               wert, Fortunas Hand zu berühren. Leb wohl! Sie, welche die Dienstbarkeit mit dir
               tauschen möchte, die Glücklich-Unglückselige.«</p>
-            <pb n="764"/>
+            <pb n="765"/>
             <p>Das Sonnenlicht ist nicht klarer! Es ist offenbar. Ich will stolz sein; ich will
               politische Bücher lesen; ich will Junker Tobias ablaufen lassen; ich will mich von
               gemeinen Bekanntschaften säubern; ich will aufs Haar der rechte Mann sein. Ich habe
@@ -2807,7 +2808,7 @@
             <p>Du hast ihn in solch einen Traum gewiegt, daß er toll werden muß, wenn ihn die
               Einbildung wieder verläßt.</p>
           </sp>
-          <pb n="765"/>
+          <pb n="766"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Nein, sagt mir im Ernst, wirkt es auf ihn?</p>
@@ -2836,7 +2837,7 @@
           </sp>
         </div>
       </div>
-      <pb n="766"/>
+      <pb n="767"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2896,7 +2897,7 @@
           </sp>
           <sp who="#narr">
             <speaker>NARR.</speaker>
-            <p>Meiner Treu, Herr, ich kann Euch keinen ohne Worte <pb n="767"/> angeben, und Worte
+            <p>Meiner Treu, Herr, ich kann Euch keinen ohne Worte <pb n="768"/> angeben, und Worte
               sind so falsch geworden, daß ich keine Gründe darauf bauen mag.</p>
           </sp>
           <sp who="#viola">
@@ -2967,7 +2968,7 @@
             <speaker>NARR.</speaker>
             <p>Ich denke, es ist keine große Sache, da ich nur um eine Bettlerin bettle. Cressida
               war eine Bettlerin. Mein Fräulein ist zu Haus, Herr. Ich will ihr bedeuten, woher Ihr
-              kommt; wer Ihr seid, und was Ihr wollt, das liegt außer meiner <pb n="768"/> Sphäre;
+              kommt; wer Ihr seid, und was Ihr wollt, das liegt außer meiner <pb n="769"/> Sphäre;
               ich könnte sagen: »Horizont«, aber das Wort ist zu abgenutzt. <stage>Ab.</stage>
             </p>
           </sp>
@@ -3040,7 +3041,7 @@
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Der junge Mensch ist ein großer Hofmann: »Düfte regnen.« Schön!</p>
           </sp>
-          <pb n="769"/>
+          <pb n="770"/>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
             <p>Mein Auftrag ist stumm, Fräulein, außer für Euer bereitwilliges und herablassendes
@@ -3128,7 +3129,7 @@
               <l>Zu Eurem Ziele meine Ehre nicht,</l>
               <l>Und hetztet jeglichen Verdacht auf sie,</l>
               <l>Den ein tyrannisch Herz ersinnen kann?</l>
-              <pb n="770"/>
+              <pb n="771"/>
               <l>Für einen, der behende faßt wie Ihr,</l>
               <l>Zeigt' ich genug; ein Flor, und nicht ein Busen,</l>
               <l>Versteckt mein armes Herz: so sprecht nun auch!</l>
@@ -3216,7 +3217,7 @@
               <l>So lieb' ich dich, trotz meinem stolzen Sinn,</l>
               <l>Daß ich des Herzens nicht mehr mächtig bin.</l>
               <l>Verhärte nicht dich klügelnd durch den Schluß,</l>
-              <pb n="771"/>
+              <pb n="772"/>
               <l>Du könntest schweigen, weil ich werben muß.</l>
               <l>Nein, feßle lieber Gründe so mit Gründen:</l>
               <l>Süß sei es, Lieb' erflehn, doch süßer, Liebe finden.</l>
@@ -3291,7 +3292,7 @@
           </sp>
           <sp who="#fabio">
             <speaker>FABIO.</speaker>
-            <p>Sie tat mit dem jungen Menschen vor Euern Augen <pb n="772"/> schön, bloß um Euch
+            <p>Sie tat mit dem jungen Menschen vor Euern Augen <pb n="773"/> schön, bloß um Euch
               aufzubringen, um Eure Murmeltierstapferkeit zu erwecken, um Euer Herz mit Feuer und
               Schwefel zu füllen. Da hättet Ihr Euch herbeimachen sollen; da hättet Ihr den jungen
               Menschen, mit den vortrefflichsten Späßen, funkelnagelneu von der Münze, stumm
@@ -3343,7 +3344,7 @@
             <speaker>FABIO.</speaker>
             <p>Das ist Euch ein teures Männchen, Junker.</p>
           </sp>
-          <pb n="773"/>
+          <pb n="774"/>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Ich bin ihm auch teuer gewesen, Junge! auf ein paar Tausend, drüber oder drunter.</p>
@@ -3397,7 +3398,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="774"/>
+        <pb n="775"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Eine Straße. Antonio und Sebastian treten auf.</stage>
@@ -3467,7 +3468,7 @@
               <l>Ihm eine große Menge Volks erschlagen?</l>
             </lg>
           </sp>
-          <pb n="775"/>
+          <pb n="776"/>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
             <lg>
@@ -3542,7 +3543,7 @@
               <l>Wo ist Malvolio?</l>
             </lg>
           </sp>
-          <pb n="776"/>
+          <pb n="777"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <lg>
@@ -3629,7 +3630,7 @@
             <speaker>MALVOLIO.</speaker>
             <p>»Sei nicht bange vor der Hoheit.« Das war schön gesagt.</p>
           </sp>
-          <pb n="777"/>
+          <pb n="778"/>
           <sp who="#olivia">
             <speaker>OLIVIA.</speaker>
             <p>Was meinst du damit, Malvolio?</p>
@@ -3712,7 +3713,7 @@
               damit ich mich widerspenstig gegen ihn betragen kann: denn dazu ermahnt sie mich ja in
               dem Briefe. »Wirf deine demütige Hülle ab«, sagt sie, »sei widerwärtig gegen einen
               Verwandten, mürrisch mit den Bedienten; laß Staatsgespräche von deinen Lippen
-              schallen; lege dich auf ein Sonderlingsbetragen«; <pb n="778"/> und hierauf setzt sie
+              schallen; lege dich auf ein Sonderlingsbetragen«; <pb n="779"/> und hierauf setzt sie
               die Art und Weise aus einander, als da ist: ein ernsthaftes Gesicht, eine stattliche
               Haltung, eine langsame Zunge, nach der Manier eines vornehmen Herrn, und so weiter.
               Ich habe sie im Netz, freilich durch der Götter Gnade, und geben die Götter, daß ich
@@ -3775,7 +3776,7 @@
             <speaker>MALVOLIO.</speaker>
             <p>Ei so, Jungfer?</p>
           </sp>
-          <pb n="779"/>
+          <pb n="780"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <p>Ojemine!</p>
@@ -3855,7 +3856,7 @@
               werden. Aber seht! seht!</p>
             <stage>Junker Christoph kommt.</stage>
           </sp>
-          <pb n="780"/>
+          <pb n="781"/>
           <sp who="#fabio">
             <speaker>FABIO.</speaker>
             <p>Hier ist wieder etwas für einen Fastnachtsabend.</p>
@@ -3936,7 +3937,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Geh, Junker, laure ihm an der Gartenecke auf wie ein Häscher; sobald du ihn nur
               erblickst, zieh' und fluche fürchterlich dabei: denn es geschieht oft, daß ein
-              entsetzlicher <pb n="781"/> Fluch, in einem rechten Bramarbastone herausgewettert,
+              entsetzlicher <pb n="782"/> Fluch, in einem rechten Bramarbastone herausgewettert,
               einen mehr in den Ruf der Tapferkeit setzt, als eine wirkliche Probe davon jemals
               getan hätte. Fort!</p>
           </sp>
@@ -3996,7 +3997,7 @@
               <l>Wenn unverletzt es Ehre geben darf?</l>
             </lg>
           </sp>
-          <pb n="782"/>
+          <pb n="783"/>
           <sp who="#viola">
             <speaker>VIOLA.</speaker>
             <l>Nur dieses: Euer Herz für meinen Herrn.</l>
@@ -4067,7 +4068,7 @@
               andern anzetteln, um ihren Mut zu prüfen: vielleicht ist er einer von diesem
               Schlage.</p>
           </sp>
-          <pb n="783"/>
+          <pb n="784"/>
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Nein, Herr; seine Entrüstung rührt von einer sehr wesentlichen Beleidigung her; also
@@ -4123,7 +4124,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Ja, Freund, er ist ein Teufelskerl: ich habe niemals solch einen Haudegen gesehn. Ich
               machte einen Gang mit ihm auf Klinge und Scheide, und er tut seine Ausfälle mit so
-              'ner höllenmäßigen Geschwindigkeit, daß nichts <pb n="784"/> dagegen zu machen ist;
+              'ner höllenmäßigen Geschwindigkeit, daß nichts <pb n="785"/> dagegen zu machen ist;
               und wenn er pariert hat, bringt er Euch den Stoß so gewiß bei, als Euer Fuß den Boden
               trifft, wenn Ihr auftretet. Es heißt, er ist Fechtmeister beim großen Mogul
               gewesen.</p>
@@ -4183,7 +4184,7 @@
           <sp who="#junker_tobias">
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Kommt, Junker Christoph, es ist keine Rettung: der Kavalier will nur ehrenhalber
-              einen Gang mit Euch machen; er kann nach den Gesetzen des Duells nicht <pb n="785"/>
+              einen Gang mit Euch machen; er kann nach den Gesetzen des Duells nicht <pb n="786"/>
               umhin, aber er hat mir auf sein ritterliches Wort versprochen, er will Euch kein Leid
               zufügen. Nun frisch daran!</p>
           </sp>
@@ -4274,7 +4275,7 @@
               <l>Nun dringt die Not mich, meinen Beutel wieder</l>
               <l>Von Euch zu fodern; und es schmerzt mich mehr</l>
               <l>Um das, was ich nun nicht für Euch vermag,</l>
-              <pb n="786"/>
+              <pb n="787"/>
               <l>Als was mich selbst betrifft. Ihr steht erstaunt;</l>
               <l>Doch seid getrost!</l>
             </lg>
@@ -4354,7 +4355,7 @@
               <l>Gleicht einem glänzend übertünchten Sarge.</l>
             </lg>
           </sp>
-          <pb n="787"/>
+          <pb n="788"/>
           <sp who="#erster_gerichtsdiener">
             <speaker>ERSTER GERICHTSDIENER.</speaker>
             <l>Der Mann wird rasend: fort mit ihm! Kommt! kommt!</l>
@@ -4424,7 +4425,7 @@
           </sp>
         </div>
       </div>
-      <pb n="788"/>
+      <pb n="789"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4476,7 +4477,7 @@
               haben.</p>
             <stage>Junker Tobias, Junker Christoph und Fabio kommen.</stage>
           </sp>
-          <pb n="789"/>
+          <pb n="790"/>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Nun, Herr, treff ich Euch endlich wieder? Da habt Ihr was. <stage>Schlägt den
@@ -4556,7 +4557,7 @@
               <l>Auf deine Ruh'. Geh mit mir in mein Haus,</l>
               <l>Und höre da, wie viele lose Streiche</l>
               <l>Der Lärmer angezettelt, daß du diesen</l>
-              <pb n="790"/>
+              <pb n="791"/>
               <l>Alsdann belächeln magst; mitkommen mußt du,</l>
               <l>Verweigr' es nicht! Verwünscht sei er von mir,</l>
               <l>Eins meiner Herzen kränkt' er ja in dir.</l>
@@ -4620,7 +4621,7 @@
             <speaker>JUNKER TOBIAS.</speaker>
             <p>Redet ihn an, Ehrn Matthias!</p>
           </sp>
-          <pb n="791"/>
+          <pb n="792"/>
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>He, niemand hier? – Friede sei in diesem Gefängnis!</p>
@@ -4700,7 +4701,7 @@
             <speaker>NARR.</speaker>
             <p>Was achtest du von seiner Lehre?</p>
           </sp>
-          <pb n="792"/>
+          <pb n="793"/>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Ich denke würdig von der Seele, und billige seine Lehre keineswegs.</p>
@@ -4793,7 +4794,7 @@
             <speaker>NARR.</speaker>
             <p>Ach, Herr, wie seid Ihr doch um Eure fünf Sinne gekommen?</p>
           </sp>
-          <pb n="793"/>
+          <pb n="794"/>
           <sp who="#malvolio">
             <speaker>MALVOLIO.</speaker>
             <p>Niemals hat man einem so abscheulich mitgespielt. Ich bin ebenso gut bei Sinnen wie
@@ -4875,7 +4876,7 @@
               <l>Ich bin fort, Herr,</l>
               <l>Und aufs Wort, Herr,</l>
               <l>Ich bin gleich wieder da.</l>
-              <pb n="794"/>
+              <pb n="795"/>
               <l>Daran hegt keinen Zweifel,</l>
               <l>Denn ich trotze dem Teufel</l>
               <l>Und seiner Frau Großmama.</l>
@@ -4923,7 +4924,7 @@
               <l>Vor ihm und unter dem geweihten Dach,</l>
               <l>Verbürget feierlich mir Eure Treu',</l>
               <l>Daß mein ungläub'ges, allzu banges Herz</l>
-              <pb n="795"/>
+              <pb n="796"/>
               <l>Zur Ruh' gelangen mag. Er soll's verbergen,</l>
               <l>Bis Ihr gesonnen seid, es kund zu machen,</l>
               <l>Und um die Zeit soll meinem Stand gemäß</l>
@@ -4947,7 +4948,7 @@
           </sp>
         </div>
       </div>
-      <pb n="796"/>
+      <pb n="797"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5012,7 +5013,7 @@
               wie Küsse betrachtet, wenn vier Verneinungen zwei Bejahungen ausmachen: Je mehr
               Freunde, desto schlimmer, und je mehr Feinde, desto besser.</p>
           </sp>
-          <pb n="797"/>
+          <pb n="798"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Ei, das ist vortrefflich.</p>
@@ -5081,7 +5082,7 @@
               <l>Nach Größ' und flachem Bau von keinem Wert,</l>
               <l>Womit er sich so furchtbar handgemein</l>
               <l>Mit unsrer Flotte stärksten Segeln machte,</l>
-              <pb n="798"/>
+              <pb n="799"/>
               <l>Daß selbst der Neid und des Verlustes Stimme</l>
               <l>Preis über ihn und Ehre rief. – Was gibt's?</l>
             </lg>
@@ -5145,7 +5146,7 @@
             <speaker>VIOLA.</speaker>
             <l>Wie kann dies sein?</l>
           </sp>
-          <pb n="799"/>
+          <pb n="800"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <l>Wann kam er in die Stadt?</l>
@@ -5235,7 +5236,7 @@
               <l>Doch diesen Euern Günstling, den Ihr liebt,</l>
               <l>Den ich, beim Himmel, lieb und teuer halte,</l>
               <l>Ihn will ich aus dem stolzen Auge reißen,</l>
-              <pb n="800"/>
+              <pb n="801"/>
               <l>Wo hoch er thronet, seinem Herrn zum Trotz. –</l>
               <l>Komm, Junge! Mein Entschluß ist reif zum Unheil:</l>
               <l>Ich will mein zartgeliebtes Lamm entseelen,</l>
@@ -5326,7 +5327,7 @@
               <l>Daß ich und dieser Jüngling jetzt vollbracht.</l>
             </lg>
           </sp>
-          <pb n="801"/>
+          <pb n="802"/>
           <sp who="#priester">
             <speaker>PRIESTER.</speaker>
             <lg>
@@ -5404,7 +5405,7 @@
               <l>Ich gab Euch gute Wort' und tat Euch nichts.</l>
             </lg>
           </sp>
-          <pb n="802"/>
+          <pb n="803"/>
           <sp who="#junker_christoph">
             <speaker>JUNKER CHRISTOPH.</speaker>
             <p>Wenn eine blutige Krone was Leides ist, so habt Ihr mir was zu Leide getan. Ich
@@ -5478,7 +5479,7 @@
               <l>Seitdem ich Euch verlor!</l>
             </lg>
           </sp>
-          <pb n="803"/>
+          <pb n="804"/>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
             <l>Seid Ihr Sebastian?</l>
@@ -5568,7 +5569,7 @@
               <l>Von Lage, Zeit und Ort sich fügt und trifft,</l>
               <l>Daß ich Viola bin; dies zu bestärken,</l>
               <l>Führ' ich Euch hin zu einem Schiffspatron</l>
-              <pb n="804"/>
+              <pb n="805"/>
               <l>Am Ort hier, wo mein Mädchenanzug liegt.</l>
               <l>Durch seine güt'ge Hülf' errettet, kam</l>
               <l>Ich in die Dienste dieses edlen Grafen;</l>
@@ -5642,7 +5643,7 @@
             <speaker>NARR.</speaker>
             <p>Wahrhaftig, gnädiges Fräulein, er hält sich den Belzebub so gut vom Leibe, als ein
               Mensch in seinen Umständen nur irgend kann. Er hat Euch da einen Brief geschrieben,
-              ich hätte ihn schon heute morgen übergeben sollen; aber <pb n="805"/> Briefe von
+              ich hätte ihn schon heute morgen übergeben sollen; aber <pb n="806"/> Briefe von
               Tollen sind kein Evangelium, also kommt nicht viel darauf an, wann sie bestellt
               werden.</p>
           </sp>
@@ -5719,7 +5720,7 @@
             <lg>
               <l>Eu'r Herr entläßt Euch: für die getanen Dienste,</l>
               <l>Ganz streitend mit der Schüchternheit des Weibes,</l>
-              <pb n="806"/>
+              <pb n="807"/>
               <l>Tief unter der gewohnten zarten Pflege,</l>
               <l>Und weil Ihr mich so lange Herr genannt,</l>
               <l>Nehmt meine Hand hier, und von jetzo an</l>
@@ -5786,7 +5787,7 @@
               <l>An dir gerühmt. Ich bitte dich, sei ruhig!</l>
               <l>Es ist dir ein durchtriebner Streich gespielt;</l>
               <l>Doch kennen wir davon die Täter erst,</l>
-              <pb n="807"/>
+              <pb n="808"/>
               <l>So sollst du beides, Kläger sein und Richter</l>
               <l>In eigner Sache.</l>
             </lg>
@@ -5848,7 +5849,7 @@
             </lg>
             <stage>Alle ab.</stage>
           </sp>
-          <pb n="808"/>
+          <pb n="809"/>
           <sp who="#narr">
             <speaker>NARR</speaker>
             <stage>singt.</stage>

@@ -206,6 +206,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="83"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -220,7 +221,7 @@
         <castItem>Graf Paris, Verwandter des Prinzen</castItem>
         <castGroup>
           <castItem>Montague</castItem>
-          <castItem>Capulet,</castItem>
+          <castItem>Capulet</castItem>
           <roleDesc>Häupter zweier Häuser, welche in Zwist mit einander sind</roleDesc>
         </castGroup>
         <castItem>Romeo, Montagues Sohn</castItem>
@@ -233,7 +234,7 @@
         <castItem>Balthasar, Romeos Diener</castItem>
         <castGroup>
           <castItem>Simson</castItem>
-          <castItem>Gregorio,</castItem>
+          <castItem>Gregorio</castItem>
           <roleDesc>Bediente Capulets</roleDesc>
         </castGroup>
         <castItem>Abraham, Bedienter Montagues</castItem>
@@ -254,7 +255,7 @@
           Aufszugs in Mantua</p>
       </set>
     </front>
-    <pb n="84"/>
+    <pb n="85"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -311,7 +312,7 @@
               ausgefochten, so will ich mir die Mädchen unterwerfen. Sie sollen die Spitze meines
               Degens fühlen, bis er stumpf wird.</p>
           </sp>
-          <pb n="85"/>
+          <pb n="86"/>
           <sp who="#gregorio">
             <speaker>GREGORIO.</speaker>
             <p>Zieh' nur gleich von Leder: da kommen zwei aus dem Hause Montagues.</p>
@@ -415,7 +416,7 @@
             </lg>
             <stage>Tybalt tritt auf.</stage>
           </sp>
-          <pb n="86"/>
+          <pb n="87"/>
           <sp who="#tybalt">
             <speaker>TYBALT.</speaker>
             <lg>
@@ -489,7 +490,7 @@
               <l>Aus einem luft'gen Wort von euch erzeugt,</l>
               <l>Du alter Capulet und Montague,</l>
               <l>Den Frieden unsrer Straßen schon gebrochen.</l>
-              <pb n="87"/>
+              <pb n="88"/>
               <l>Veronas graue Bürger mußten sich</l>
               <l>Entladen ihres ehrenfesten Schmucks</l>
               <l>Und alte Speer' in alten Händen schwingen,</l>
@@ -547,7 +548,7 @@
               <l>Sah ich, so früh schon wandelnd, Euren Sohn.</l>
               <l>Ich wollt' ihm nahn, er aber nahm mich wahr</l>
               <l>Und stahl sich tiefer in des Waldes Dickicht.</l>
-              <pb n="88"/>
+              <pb n="89"/>
               <l>Ich maß sein Innres nach dem meinen ab,</l>
               <l>Das in der Einsamkeit am regsten lebt,</l>
               <l>Ging meiner Laune nach, ließ seine gehn,</l>
@@ -622,7 +623,7 @@
             <speaker>ROMEO.</speaker>
             <l>Erst so weit?</l>
           </sp>
-          <pb n="89"/>
+          <pb n="90"/>
           <sp who="#benvolio">
             <speaker>BENVOLIO.</speaker>
             <l>Kaum schlug es neun.</l>
@@ -711,7 +712,7 @@
               <l>Lebt wohl, mein Freund!</l>
             </lg>
           </sp>
-          <pb n="90"/>
+          <pb n="91"/>
           <sp who="#benvolio">
             <speaker>BENVOLIO.</speaker>
             <lg>
@@ -810,7 +811,7 @@
               <l>Mir ihren Reiz in vollem Licht zu zeigen.</l>
               <l>Die Schwärze jener neidenswerten Larven,</l>
               <l>Die schöner Frauen Stirne küssen, bringt</l>
-              <pb n="91"/>
+              <pb n="92"/>
               <l>Uns in den Sinn, daß sie das Schönebergen.</l>
               <l>Der, welchen Blindheit schlug, kann nie das Kleinod</l>
               <l>Des eingebüßten Augenlichts vergessen.</l>
@@ -874,7 +875,7 @@
               <l>Und lud darauf der Gäste viel zu Nacht,</l>
               <l>Was meine Freunde sind: Ihr, der dazu gehöret,</l>
               <l>Sollt hoch willkommen sein, wenn Ihr die Zahl vermehret.</l>
-              <pb n="92"/>
+              <pb n="93"/>
               <l>In meinem armen Haus sollt Ihr des Himmels Glanz</l>
               <l>Heut nacht verdunkelt sehn durch ird'scher Sterne Tanz.</l>
               <l>Wie muntre Jünglinge mit neuem Mut sich freuen,</l>
@@ -929,7 +930,7 @@
             <speaker>BENVOLIO.</speaker>
             <l>Was, Romeo, bist du toll?</l>
           </sp>
-          <pb n="93"/>
+          <pb n="94"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -1021,7 +1022,7 @@
             <speaker>ROMEO.</speaker>
             <lg>
               <l>Höhnt meiner Augen frommer Glaube je</l>
-              <pb n="94"/>
+              <pb n="95"/>
               <l>Die Wahrheit so: dann, Tränen, werdet Flammen!</l>
               <l>Und ihr, umsonst ertränkt in manchem See,</l>
               <l>Mag eure Lüg' als Ketzer euch verdammen!</l>
@@ -1100,7 +1101,7 @@
             <speaker>WÄRTERIN.</speaker>
             <lg>
               <l>Ich wette vierzehn meiner Zähne drauf –</l>
-              <pb n="95"/>
+              <pb n="96"/>
               <l>Zwar hab' ich nur vier Zähn', ich arme Frau –</l>
               <l>Sie ist noch nicht vierzehn. Wie lang ist's bis Johannis?</l>
             </lg>
@@ -1152,7 +1153,7 @@
             <speaker>GRÄFIN CAPULET.</speaker>
             <l>Genug davon, ich bitte, halt' dich ruhig!</l>
           </sp>
-          <pb n="96"/>
+          <pb n="97"/>
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
             <lg>
@@ -1236,7 +1237,7 @@
               <l>Wie jeglicher dem andern Zierde leiht.</l>
               <l>Was dunkel in dem holden Buch geblieben,</l>
               <l>Das lies in seinem Aug' am Rand geschrieben.</l>
-              <pb n="97"/>
+              <pb n="98"/>
               <l>Und dieses Freiers ungebundner Stand,</l>
               <l>Dies Buch der Liebe, braucht nur einen Band.</l>
               <l>Der Fisch lebt in der See, und doppelt teuer</l>
@@ -1304,7 +1305,7 @@
               <l>Geblendet, der den buntbemalten Bogen</l>
               <l>Wie ein Tatar geschnitzt aus Latten trägt,</l>
               <l>Und wie ein Vogelscheu die Frauen schreckt;</l>
-              <pb n="98"/>
+              <pb n="99"/>
               <l>Auch keinen hergebeteten Prolog,</l>
               <l>Wobei viel zugeblasen wird, zum Eintritt.</l>
               <l>Laßt sie uns nur, wofür sie wollen, nehmen,</l>
@@ -1399,7 +1400,7 @@
             <speaker>MERCUTIO.</speaker>
             <lg>
               <l>Jawohl zu matt, dich aus dem Schlamme – nein,</l>
-              <pb n="99"/>
+              <pb n="100"/>
               <l>Der Liebe, wollt' ich sagen – dich zu ziehn,</l>
               <l>Worin du leider steckst bis an die Ohren.</l>
               <l>Macht fort! Wir leuchten ja dem Tage hier.</l>
@@ -1482,7 +1483,7 @@
               <l>Zurecht gemacht, die seit uralten Zeiten</l>
               <l>Der Feen Wagner sind. In diesem Staat</l>
               <l>Trabt sie dann Nacht für Nacht; befährt das Hirn</l>
-              <pb n="100"/>
+              <pb n="101"/>
               <l>Verliebter, und sie träumen dann von Liebe;</l>
               <l>Des Schranzen Knie, der schnell von Reverenzen,</l>
               <l>Des Anwalts Finger, der von Sporteln gleich,</l>
@@ -1541,7 +1542,7 @@
             <speaker>ROMEO.</speaker>
             <lg>
               <l>Zu früh, befürcht' ich; denn mein Herz erbangt,</l>
-              <pb n="101"/>
+              <pb n="102"/>
               <l>Und ahndet ein Verhängnis, welches, noch</l>
               <l>Verborgen in den Sternen, heute nacht</l>
               <l>Bei dieser Lustbarkeit den furchtbar'n Zeitlauf</l>
@@ -1594,7 +1595,7 @@
             <stage>Sie ziehen sich in den Hintergrund zurück.</stage>
             <stage>Capulet u.s.w. mit den Gästen und Masken.</stage>
           </sp>
-          <pb n="102"/>
+          <pb n="103"/>
           <sp who="#capulet">
             <speaker>CAPULET.</speaker>
             <lg>
@@ -1667,7 +1668,7 @@
               <l>Oh, sie nur lehrt den Kerzen, hell zu glühn!</l>
               <l>Wie in dem Ohr des Mohren ein Rubin,</l>
               <l>So hängt der Holden Schönheit an den Wangen</l>
-              <pb n="103"/>
+              <pb n="104"/>
               <l>Der Nacht: zu hoch, zu himmlisch dem Verlangen!</l>
               <l>Sie stellt sich unter den Gespielen dar</l>
               <l>Als weiße Taub' in einer Krähenschar.</l>
@@ -1742,7 +1743,7 @@
               <l>Den Hahn im Korbe spielen? Seht mir doch!</l>
             </lg>
           </sp>
-          <pb n="104"/>
+          <pb n="105"/>
           <sp who="#tybalt">
             <speaker>TYBALT.</speaker>
             <l>Ist's nicht 'ne Schande, Oheim?</l>
@@ -1849,7 +1850,7 @@
             <speaker>WÄRTERIN.</speaker>
             <lg>
               <l>Ei nun, Junker,</l>
-              <pb n="105"/>
+              <pb n="106"/>
               <l>Das ist die gnäd'ge Frau vom Hause hier,</l>
               <l>Gar eine wackre Frau, und klug und ehrsam.</l>
               <l>Die Tochter, die Ihr spracht, hab' ich gesäugt.</l>
@@ -1954,7 +1955,7 @@
           </sp>
         </div>
       </div>
-      <pb n="106"/>
+      <pb n="107"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -2009,7 +2010,7 @@
               <l>Daß du in eigner Bildung uns erscheinest.</l>
             </lg>
           </sp>
-          <pb n="107"/>
+          <pb n="108"/>
           <sp who="#benvolio">
             <speaker>BENVOLIO.</speaker>
             <l>Wenn er dich hört, so wird er zornig werden.</l>
@@ -2073,7 +2074,7 @@
               <l>Oh, da sie neidisch ist, so dien' ihr nicht!</l>
               <l>Nur Toren gehn in ihrer blassen, kranken</l>
               <l>Vestalentracht einher: wirf du sie ab!</l>
-              <pb n="108"/>
+              <pb n="109"/>
               <l>Sie ist es, meine Göttin! meine Liebe!</l>
               <l>O wüßte sie, daß sie es ist! –</l>
               <l>Sie spricht, doch sagt sie nichts: was schadet das?</l>
@@ -2134,7 +2135,7 @@
               <l>Nicht Arm noch Antlitz, noch ein andrer Teil.</l>
               <l>Was ist ein Name? Was uns Rose heißt,</l>
               <l>Wie es auch hieße, würde lieblich duften;</l>
-              <pb n="109"/>
+              <pb n="110"/>
               <l>So Romeo, wenn er auch anders hieße,</l>
               <l>Er würde doch den köstlichen Gehalt</l>
               <l>Bewahren, welcher sein ist ohne Titel.</l>
@@ -2228,7 +2229,7 @@
             <speaker>JULIA.</speaker>
             <l>Wer zeigte dir den Weg zu diesem Ort?</l>
           </sp>
-          <pb n="110"/>
+          <pb n="111"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -2295,7 +2296,7 @@
               <l>So will ich glauben.</l>
             </lg>
           </sp>
-          <pb n="111"/>
+          <pb n="112"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <l>Wenn die Herzensliebe ...</l>
@@ -2372,7 +2373,7 @@
               <l>Vermählung wünscht, so laß mich morgen wissen</l>
               <l>Durch jemand, den ich zu dir senden will,</l>
               <l>Wo du und wann die Trauung willst vollziehn.</l>
-              <pb n="112"/>
+              <pb n="113"/>
               <l>Dann leg' ich dir mein ganzes Glück zu Füßen,</l>
               <l>Und folge durch die Welt dir als Gebieter. –</l>
             </lg>
@@ -2462,7 +2463,7 @@
               <l>Bedenkend, wie mir deine Näh' so lieb.</l>
             </lg>
           </sp>
-          <pb n="113"/>
+          <pb n="114"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -2526,7 +2527,7 @@
               <l>Und Kinder mannigfalt, so all ihr Schoß empfangen,</l>
               <l>Sehn wir, gesäugt von ihr, an ihren Brüsten hangen;</l>
               <l>An vielen Tugenden sind viele drunter reich,</l>
-              <pb n="114"/>
+              <pb n="115"/>
               <l>Ganz ohne Wert nicht eins, doch keins dem andern gleich.</l>
               <l>Oh, große Kräfte sind's, weiß man sie recht zu pflegen,</l>
               <l>Die Pflanzen, Kräuter, Stein' in ihrem Innern hegen.</l>
@@ -2587,7 +2588,7 @@
             <speaker>LORENZO.</speaker>
             <l>Das ist mein wackrer Sohn! Allein wo warst du? sage!</l>
           </sp>
-          <pb n="115"/>
+          <pb n="116"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -2657,7 +2658,7 @@
             <speaker>LORENZO.</speaker>
             <l>Nicht um in deinem Sieg der zweiten zu erliegen.</l>
           </sp>
-          <pb n="116"/>
+          <pb n="117"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -2733,7 +2734,7 @@
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Ach, der arme Romeo! Er ist ja schon tot! durchbohrt von einer weißen Dirne schwarzem
-              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="117"
+              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="118"
               /> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
               Mann darnach, es mit dem Tybalt aufzunehmen?</p>
           </sp>
@@ -2786,7 +2787,7 @@
             <speaker>MERCUTIO.</speaker>
             <p>Einen Diebesstreich. Ihr stahlt Euch unversehens davon.</p>
           </sp>
-          <pb n="118"/>
+          <pb n="119"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <p>Verzeihung, guter Mercutio: Ich hatte etwas Wichtiges vor, und in einem solchen Falle
@@ -2884,7 +2885,7 @@
             <speaker>BENVOLIO.</speaker>
             <p>Was witterst du?</p>
           </sp>
-          <pb n="119"/>
+          <pb n="120"/>
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Neue Jagd! neue Jagd! – Romeo, kommt zu Eures Vaters Hause, wir wollen zu Mittag da
@@ -2941,7 +2942,7 @@
           </sp>
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
-            <p>Du meine Zeit! Gewiß und wahrhaftig, das will ich <pb n="120"/> ihr wieder sagen. O
+            <p>Du meine Zeit! Gewiß und wahrhaftig, das will ich <pb n="121"/> ihr wieder sagen. O
               Jemine! sie wird sich vor Freude nicht zu lassen wissen.</p>
           </sp>
           <sp who="#romeo">
@@ -3022,7 +3023,7 @@
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
             <p>Ach, Spaßvogel, warum nicht gar? Das schnurrt ja wie 'n Spinnrad. Nein, ich weiß
-              wohl, es fängt mit einem <pb n="121"/> andern Buchstaben an, und sie hat die
+              wohl, es fängt mit einem <pb n="122"/> andern Buchstaben an, und sie hat die
               prächtigsten Reime und Sprichwörter darauf, daß Euch das Herz im Leibe lachen tät',
               wenn Ihr's hörtet.</p>
           </sp>
@@ -3082,7 +3083,7 @@
             <speaker>WÄRTERIN.</speaker>
             <l>Wart' vor der Türe, Peter!</l>
           </sp>
-          <pb n="122"/>
+          <pb n="123"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -3161,7 +3162,7 @@
               <l>Was macht mein Liebster?</l>
             </lg>
           </sp>
-          <pb n="123"/>
+          <pb n="124"/>
           <sp who="#waerterin">
             <speaker>WÄRTERIN.</speaker>
             <p>Eu'r Liebster sagt, so wie ein wackrer Herr, – und ein artiger, und ein freundlicher,
@@ -3236,7 +3237,7 @@
               <l>Amen! So sei's! Doch laß den Kummer kommen,</l>
               <l>So sehr er mag: wiegt er die Freuden auf,</l>
               <l>Die mir in ihrem Anblick eine flücht'ge</l>
-              <pb n="124"/>
+              <pb n="125"/>
               <l>Minute gibt? Füg' unsre Hände nur</l>
               <l>Durch deinen Segensspruch in eins, dann tue</l>
               <l>Sein Äußerstes der Liebeswürger Tod:</l>
@@ -3305,7 +3306,7 @@
           </sp>
         </div>
       </div>
-      <pb n="125"/>
+      <pb n="126"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3350,7 +3351,7 @@
               voll Dotter, und doch ist dir der Kopf für dein Zanken schon dotterweich geschlagen.
               Du hast mit einem angebunden, der auf der Straße hustete, weil er deinen Hund
               aufgeweckt, der in der Sonne schlief. Hast du nicht mit einem Schneider Händel gehabt,
-              weil er sein neues Wams vor Ostern trug? Mit <pb n="126"/> einem andern, weil er neue
+              weil er sein neues Wams vor Ostern trug? Mit <pb n="127"/> einem andern, weil er neue
               Schuhe mit einem alten Bande zuschnürte? Und doch willst du mich über Zänkereien
               hofmeistern!</p>
           </sp>
@@ -3432,7 +3433,7 @@
               <l>Gesell ihn nennen.</l>
             </lg>
           </sp>
-          <pb n="127"/>
+          <pb n="128"/>
           <sp who="#tybalt">
             <speaker>TYBALT.</speaker>
             <lg>
@@ -3529,7 +3530,7 @@
             </lg>
             <stage>Der Page geht ab.</stage>
           </sp>
-          <pb n="128"/>
+          <pb n="129"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <p>Sei guten Muts, Freund! Die Wunde kann nicht beträchtlich sein.</p>
@@ -3597,7 +3598,7 @@
               <l>Am Leben! siegreich! und mein Freund erschlagen!</l>
               <l>Nun fliehgen Himmel, schonungsreiche Milde!</l>
               <l>Entflammte Wut, sei meine Führerin!</l>
-              <pb n="129"/>
+              <pb n="130"/>
               <l>Nun, Tybalt, nimm den Schurken wieder, den du</l>
               <l>Mir eben gabst! Der Geist Mercutios</l>
               <l>Schwebt nah noch über unsern Häuptern hin</l>
@@ -3682,7 +3683,7 @@
             <speaker>PRINZ.</speaker>
             <l>Benvolio, sprich! Wer hat den Streit erregt? –</l>
           </sp>
-          <pb n="130"/>
+          <pb n="131"/>
           <sp who="#benvolio">
             <speaker>BENVOLIO.</speaker>
             <lg>
@@ -3740,7 +3741,7 @@
               <l>Das Leben Tybalts.</l>
             </lg>
           </sp>
-          <pb n="131"/>
+          <pb n="132"/>
           <sp who="#prinz">
             <speaker>PRINZ.</speaker>
             <lg>
@@ -3786,7 +3787,7 @@
               <l>Das wilde Blut, das in den Wangen flattert,</l>
               <l>Bis scheue Liebe kühner wird und nichts</l>
               <l>Als Unschuld sieht in inn'ger Liebe Tun.</l>
-              <pb n="132"/>
+              <pb n="133"/>
               <l>Komm, Nacht! – Komm, Romeo, du Tag in Nacht!</l>
               <l>Denn du wirst ruhn auf Fittigen der Nacht</l>
               <l>Wie frischer Schnee auf eines Raben Rücken. –</l>
@@ -3856,7 +3857,7 @@
             <lg>
               <l>Ich sah die Wunde, meine Augen sahn sie –</l>
               <l>Gott helf' ihm! – hier auf seiner tapfern Brust;</l>
-              <pb n="133"/>
+              <pb n="134"/>
               <l>Die blut'ge Leiche, jämmerlich und blutig,</l>
               <l>Bleich, bleich wie Asche, ganz mit Blut besudelt –</l>
               <l>Ganz starres Blut – weg schwiemt' ich, da ich's sah.</l>
@@ -3931,7 +3932,7 @@
               <l>Ist unter Männern mehr. Sie sind meineidig;</l>
               <l>Falsch sind sie, lauter Schelme, lauter Heuchler! –</l>
               <l>Wo ist mein Diener? Gebt mir Aquavit! –</l>
-              <pb n="134"/>
+              <pb n="135"/>
               <l>Die Not, die Angst, der Jammer macht mich alt.</l>
               <l>Zu schanden werde Romeo!</l>
             </lg>
@@ -3983,7 +3984,7 @@
               <l>Allein dies Wort: »verbannt ist Romeo«,</l>
               <l>Aus jenes Todes Hinterhalt gesprochen,</l>
               <l>Bringt Vater, Mutter, Tybalt, Romeo</l>
-              <pb n="135"/>
+              <pb n="136"/>
               <l>Und Julien um! »Verbannt ist Romeo!«</l>
               <l>Nicht Maß noch Ziel kennt dieses Wortes Tod,</l>
               <l>Und keine Zung' erschöpfet meine Not. –</l>
@@ -4060,7 +4061,7 @@
             <speaker>ROMEO.</speaker>
             <l>Und hat sein Spruch mir nicht den Stab gebrochen?</l>
           </sp>
-          <pb n="136"/>
+          <pb n="137"/>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
             <lg>
@@ -4127,7 +4128,7 @@
               <l>Geschärft, kein schmählich Mittel schnellen Todes,</l>
               <l>Als dies »verbannt«, zu töten mich? »Verbannt«!</l>
               <l>O Mönch! Verdammte sprechen in der Hölle</l>
-              <pb n="137"/>
+              <pb n="138"/>
               <l>Dies Wort mit Heulen aus: hast du das Herz,</l>
               <l>Da du ein heil'ger Mann, ein Beicht'ger bist,</l>
               <l>Ein Sündenlöser, mein erklärter Freund,</l>
@@ -4211,7 +4212,7 @@
               <l>Wer klopft so stärk? Wo kommt Ihr her? Was wollt Ihr?</l>
             </lg>
           </sp>
-          <pb n="138"/>
+          <pb n="139"/>
           <sp who="#waerterin">
             <speaker>WÄRTERIN</speaker>
             <stage>draußen.</stage>
@@ -4301,7 +4302,7 @@
             </lg>
             <stage>Er zieht den Degen.</stage>
           </sp>
-          <pb n="139"/>
+          <pb n="140"/>
           <sp who="#lorenzo">
             <speaker>LORENZO.</speaker>
             <lg>
@@ -4343,7 +4344,7 @@
               <l>Von Segen nieder, und es wirbt um dich</l>
               <l>Glückseligkeit in ihrem besten Schmuck;</l>
               <l>Doch wie ein ungezognes, laun'sches Mädchen</l>
-              <pb n="140"/>
+              <pb n="141"/>
               <l>Schmollst du mit deinem Glück und deiner Liebe;</l>
               <l>O hüte dich! denn solche sterben elend.</l>
               <l>Geh hin zur Liebsten, wie's beschlossen war;</l>
@@ -4414,7 +4415,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="141"/>
+        <pb n="142"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Ein Zimmer in Capulets Hause.</stage>
@@ -4486,7 +4487,7 @@
             <lg>
               <l>Gut, geht nur heim! Sei's denn am Donnerstag!</l>
               <l>Geh, Frau, zu Julien, eh' du schlafen gehst,</l>
-              <pb n="142"/>
+              <pb n="143"/>
               <l>Bereite sie auf diesen Hochzeittag!</l>
               <l>Lebt wohl, mein Graf!</l>
               <stage>Paris ab.</stage>
@@ -4545,7 +4546,7 @@
               <l>Nun, Herz? Noch tagt es nicht, noch plaudern wir.</l>
             </lg>
           </sp>
-          <pb n="143"/>
+          <pb n="144"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -4631,7 +4632,7 @@
               <l>Mein Auge trügt mich oder du bist bleich.</l>
             </lg>
           </sp>
-          <pb n="144"/>
+          <pb n="145"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -4741,7 +4742,7 @@
               <l>Wir wollen Rache nehmen, sorge nicht:</l>
               <l>Drum weine du nicht mehr! Ich send' an jemand</l>
               <l>Zu Mantua, wo der Verlaufne lebt;</l>
-              <pb n="145"/>
+              <pb n="146"/>
               <l>Der soll ein kräftig Tränkchen ihm bereiten,</l>
               <l>Das bald ihn zum Gefährten Tybalts macht:</l>
               <l>Dann wirst du hoffentlich zufrieden sein.</l>
@@ -4812,7 +4813,7 @@
               <l>Als Paris sein. – Fürwahr, das ist wohl Zeitung!</l>
             </lg>
           </sp>
-          <pb n="146"/>
+          <pb n="147"/>
           <sp who="#graefin_capulet">
             <speaker>GRÄFIN CAPULET.</speaker>
             <lg>
@@ -4884,7 +4885,7 @@
             <speaker>GRÄFIN CAPULET.</speaker>
             <l>O pfui! seid Ihr von Sinnen?</l>
           </sp>
-          <pb n="147"/>
+          <pb n="148"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -4963,7 +4964,7 @@
               <l>Ich bin zu jung, – ich bitt', entschuldigt mich!« –</l>
               <l>Gut, wollt Ihr nicht, Ihr sollt entschuldigt sein:</l>
               <l>Grast, wo Ihr wollt, Ihr sollt bei mir nicht hausen.</l>
-              <pb n="148"/>
+              <pb n="149"/>
               <l>Seht zu! bedenkt: ich pflege nicht zu spaßen.</l>
               <l>Der Donnerstag ist nah: die Hand aufs Herz!</l>
               <l>Und bist du mein, so soll mein Freund dich haben;</l>
@@ -5024,7 +5025,7 @@
               <l>Ich will verwünscht sein, ist die zweite Heirat</l>
               <l>Nicht wahres Glück für Euch; weit vorzuziehn</l>
               <l>Ist sie der ersten. Oder wär' sie's nicht?</l>
-              <pb n="149"/>
+              <pb n="150"/>
               <l>Der erste Mann ist tot, so gut als tot;</l>
               <l>Denn lebt er schon, habt Ihr doch nichts von ihm.</l>
             </lg>
@@ -5079,7 +5080,7 @@
           </sp>
         </div>
       </div>
-      <pb n="150"/>
+      <pb n="151"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -5147,7 +5148,7 @@
             <speaker>LORENZO.</speaker>
             <l>Das kann nicht fehlen.</l>
           </sp>
-          <pb n="151"/>
+          <pb n="152"/>
           <sp who="#paris">
             <speaker>PARIS.</speaker>
             <l>Kommt Ihr, die Beicht' dem Vater abzulegen?</l>
@@ -5254,7 +5255,7 @@
               <l>Die du dem Romeo versiegelt, dient</l>
               <l>Zur Urkund' eines andern Bundes, oder</l>
               <l>Mein treues Herz von ihm zu einem andern</l>
-              <pb n="152"/>
+              <pb n="153"/>
               <l>Verrät'risch abfällt, soll dies beide töten.</l>
               <l>Drum gib aus der Erfahrung langer Zeiten</l>
               <l>Mir augenblicklich Rat; wo nicht, so sieh,</l>
@@ -5307,7 +5308,7 @@
               <l>Nimm dieses Fläschchen dann mit dir zu Bett,</l>
               <l>Und trink' den Kräutergeist, den es verwahrt.</l>
               <l>Dann rinnt alsbald ein kalter, matter Schauer</l>
-              <pb n="153"/>
+              <pb n="154"/>
               <l>Durch deine Adern und bemeistert sich</l>
               <l>Der Lebensgeister; den gewohnten Gang</l>
               <l>Hemmt jeder Puls und hört zu schlagen auf.</l>
@@ -5358,7 +5359,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="154"/>
+        <pb n="155"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Zimmer in Capulets Hause.</stage>
@@ -5438,7 +5439,7 @@
               <l>So das Gesetz der Zucht nicht übertritt.</l>
             </lg>
           </sp>
-          <pb n="155"/>
+          <pb n="156"/>
           <sp who="#capulet">
             <speaker>CAPULET.</speaker>
             <lg>
@@ -5500,7 +5501,7 @@
               <l>Ich bitt' dich, liebe Amme, laß mich nun</l>
               <l>Für diese Nacht allein; denn viel Gebete</l>
               <l>Tun not mir, um den Himmel zu bewegen,</l>
-              <pb n="156"/>
+              <pb n="157"/>
               <l>Daß er auf meinen Zustand gnädig lächle,</l>
               <l>Der, wie du weißt, verderbt und sündlich ist.</l>
             </lg>
@@ -5556,7 +5557,7 @@
               <l>Erwache vor der Zeit, da Romeo</l>
               <l>Mich zu erlösen kommt? Furchtbarer Fall!</l>
               <l>Werd' ich dann nicht in dem Gewölb' ersticken,</l>
-              <pb n="157"/>
+              <pb n="158"/>
               <l>Des gift'ger Mund nie reine Lüfte einhaucht,</l>
               <l>Und so erwürgt da liegen, wann er kommt?</l>
               <l>Und leb' ich auch, könnt' es nicht leicht geschehn,</l>
@@ -5607,7 +5608,7 @@
             <lg>
               <l>Kommt, rührt euch! Frisch! Schon kräht der zweite Hahn,</l>
               <l>Die Morgenglocke läutet; 's ist drei Uhr.</l>
-              <pb n="158"/>
+              <pb n="159"/>
               <l>Sieh nach dem Backwerk, Frau Angelica,</l>
               <l>Spar' nichts daran!</l>
             </lg>
@@ -5684,7 +5685,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="159"/>
+        <pb n="160"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Juliens Kammer. Julia auf dem Bette.</stage>
@@ -5754,7 +5755,7 @@
             <lg>
               <l>Laßt mich sie sehn! – Gott helf' uns! Sie ist kalt,</l>
               <l>Ihr Blut steht still, die Glieder sind ihr starr;</l>
-              <pb n="160"/>
+              <pb n="161"/>
               <l>Von diesen Lippen schied das Leben längst,</l>
               <l>Der Tod liegt auf ihr, wie ein Maienfrost</l>
               <l>Auf des Gefildes schönster Blume liegt.</l>
@@ -5832,7 +5833,7 @@
               <l>O Lieb'! o I eben! Nein, nur Lieb' im Tode!</l>
             </lg>
           </sp>
-          <pb n="161"/>
+          <pb n="162"/>
           <sp who="#capulet">
             <speaker>CAPULET.</speaker>
             <lg>
@@ -5891,7 +5892,7 @@
             </lg>
             <stage>Capulet; Gräfin Capulet, Paris und Lorenzo ab.</stage>
           </sp>
-          <pb n="162"/>
+          <pb n="163"/>
           <sp who="#erster_musikant">
             <speaker>ERSTER MUSIKANT.</speaker>
             <p>Mein' Seel'! wir können unsre Pfeifen auch nur einstecken und uns packen.</p>
@@ -5981,7 +5982,7 @@
             <speaker>PETER.</speaker>
             <p>Auch recht artig! Was sagt Ihr, Jakob Gellohr?</p>
           </sp>
-          <pb n="163"/>
+          <pb n="164"/>
           <sp who="#dritter_musikant">
             <speaker>DRITTER MUSIKANT.</speaker>
             <p>Mein' Seel', ich weiß nicht, was ich sagen soll.</p>
@@ -6009,7 +6010,7 @@
           </sp>
         </div>
       </div>
-      <pb n="164"/>
+      <pb n="165"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -6052,7 +6053,7 @@
               <l>Weil Ihr dazu den Auftrag selbst mir gabt.</l>
             </lg>
           </sp>
-          <pb n="165"/>
+          <pb n="166"/>
           <sp who="#romeo">
             <speaker>ROMEO.</speaker>
             <lg>
@@ -6111,7 +6112,7 @@
               <l>Oh, der Gedanke zielt' auf mein Bedürfnis,</l>
               <l>Und dieser dürft'ge Mann muß mir's verkaufen</l>
               <l>So viel ich mich entsinn', ist dies das Haus:</l>
-              <pb n="166"/>
+              <pb n="167"/>
               <l>Weil's Festtag ist, schloß seinen Kram der Bettler.</l>
               <l>He! holla! Apotheker!</l>
             </lg>
@@ -6186,7 +6187,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="167"/>
+        <pb n="168"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Lorenzos Zelle. Bruder Marcus kömmt.</stage>
@@ -6261,7 +6262,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="168"/>
+        <pb n="169"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ein Kirchhof; auf demselben das Familienbegräbnis der Capulets.</stage>
@@ -6320,7 +6321,7 @@
               <l>Was du auch hörst und siehst, bleib' in der Ferne,</l>
               <l>Und unterbrich mich nicht in meinem Tun!</l>
               <l>Ich steig' in dieses Todesbett hinab,</l>
-              <pb n="169"/>
+              <pb n="170"/>
               <l>Teils meiner Gattin Angesicht zu sehn,</l>
               <l>Vornehmlich aber einen kostbar'n Ring</l>
               <l>Von ihren toten Fingern abzuziehn,</l>
@@ -6389,7 +6390,7 @@
               <l>Entflieh' und laß mich; denke dieser Toten!</l>
               <l>Laß sie dich schrecken! – Ich beschwör' dich, Jüngling,</l>
               <l>Lad' auf mein Haupt nicht eine neue Sünde,</l>
-              <pb n="170"/>
+              <pb n="171"/>
               <l>Wenn du zur Wut mich reizest; geh, o geh!</l>
               <l>Bei Gott, ich liebe mehr dich als mich selbst,</l>
               <l>Denn gegen mich gewaffnet komm' ich her.</l>
@@ -6452,7 +6453,7 @@
               <l>Hat über deine Schönheit nichts vermocht.</l>
               <l>Noch bist du nicht besiegt: der Schönheit Fahne</l>
               <l>Weht purpurn noch auf Lipp' und Wange dir;</l>
-              <pb n="171"/>
+              <pb n="172"/>
               <l>Hier pflanzte nicht der Tod sein bleiches Banner. –</l>
               <l>Liegst du da, Tybalt, in dem blut'gen Tuch?</l>
               <l>Oh, welchen größern Dienst kann ich dir tun,</l>
@@ -6507,7 +6508,7 @@
             <lg>
               <l>Gott segne dich! Sag mir, mein guter Freund,</l>
               <l>Welch eine Fackel ist's, die dort ihr Licht</l>
-              <pb n="172"/>
+              <pb n="173"/>
               <l>Umsonst den Würmern leiht und blinden Schädeln?</l>
               <l>Mir scheint, sie brennt in Capulets Begräbnis.</l>
             </lg>
@@ -6600,7 +6601,7 @@
               <l>Des Tods, der Seuchen, des erzwungnen Schlafs:</l>
               <l>Denn eine Macht, zu hoch dem Widerspruch,</l>
               <l>Hat unsern Rat vereitelt. Komm, o komm!</l>
-              <pb n="173"/>
+              <pb n="174"/>
               <l>Dein Gatte liegt an deinem Busen tot,</l>
               <l>Und Paris auch; komm, ich versorge dich</l>
               <l>Bei einer Schwesterschaft von heil'gen Nonnen.</l>
@@ -6669,7 +6670,7 @@
               <l>Geht, sagt's dem Fürsten! Weckt die Capulets!</l>
               <l>Lauft zu den Montagues! Ihr andern sucht!</l>
               <stage>Andre Wächter ab.</stage>
-              <pb n="174"/>
+              <pb n="175"/>
               <l>Wir sehn den Grund, der diesen Jammer trägt;</l>
               <l>Allein den wahren Grund des bittern Jammers</l>
               <l>Erfahren wir durch näh're Kundschaft nur.</l>
@@ -6755,7 +6756,7 @@
               <l>Er selbst steckt fehl in unsrer Tochter Busen.</l>
             </lg>
           </sp>
-          <pb n="175"/>
+          <pb n="176"/>
           <sp who="#graefin_capulet">
             <speaker>GRÄFIN CAPULET.</speaker>
             <lg>
@@ -6832,7 +6833,7 @@
               <l>Vermählen mit Gewalt. – Da kömmt sie zu mir</l>
               <l>Mit wildem Blick, heißt mich auf Mittel sinnen,</l>
               <l>Um dieser zweiten Heirat zu entgehn,</l>
-              <pb n="176"/>
+              <pb n="177"/>
               <l>Sonst wollt' in meiner Zelle sie sich töten.</l>
               <l>Da gab ich, so belehrt durch meine Kunst,</l>
               <l>Ihr einen Schlaftrunk; er bewies sich wirksam</l>
@@ -6886,7 +6887,7 @@
             <speaker>PRINZ.</speaker>
             <lg>
               <l>Gib mir den Brief; ich will ihn überlesen. –</l>
-              <pb n="177"/>
+              <pb n="178"/>
               <l>Wo ist der Bub' des Grafen, der die Wache</l>
               <l>Geholt? – Sag, Bursch, was machte hier dein Herr?</l>
             </lg>

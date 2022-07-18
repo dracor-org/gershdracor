@@ -150,6 +150,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="221"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -162,9 +163,9 @@
         <head>Personen</head>
         <castItem>Der König von Navarra</castItem>
         <castGroup>
-          <castItem>Biron,</castItem>
-          <castItem>Longaville,</castItem>
-          <castItem>Dumain,</castItem>
+          <castItem>Biron</castItem>
+          <castItem>Longaville</castItem>
+          <castItem>Dumain</castItem>
           <roleDesc>Herren im Gefolge des Königs</roleDesc>
         </castGroup>
         <castItem>Boyet</castItem>
@@ -178,9 +179,9 @@
         <castItem>Ein Förster</castItem>
         <castItem>Die Prinzessin von Frankreich</castItem>
         <castGroup>
-          <castItem>Rosaline,</castItem>
-          <castItem>Maria,</castItem>
-          <castItem>Katharine,</castItem>
+          <castItem>Rosaline</castItem>
+          <castItem>Maria</castItem>
+          <castItem>Katharine</castItem>
           <roleDesc>Hoffräulein der Prinzessin</roleDesc>
         </castGroup>
         <castItem>Jacquenette, ein Milchmädchen</castItem>
@@ -190,7 +191,7 @@
         <p>Szene: in Navarra</p>
       </set>
     </front>
-    <pb n="222"/>
+    <pb n="223"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -235,7 +236,7 @@
               <l>Die Rippen, um so eh'r bankrott die Geister.</l>
             </lg>
           </sp>
-          <pb n="223"/>
+          <pb n="224"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <lg>
@@ -312,7 +313,7 @@
               <l>Und wo ich kann ein hübsches Mädchen sehn,</l>
               <l>Seit auf der Schönen Anblick wir verzichtet:</l>
               <l>Oder, wie man zu harten Eid umgebe,</l>
-              <pb n="224"/>
+              <pb n="225"/>
               <l>Daß man ihn brech' und doch die Treu' bestehe.</l>
               <l>Wenn <emph>dies</emph> der Studien Ziel und edler Preis,</l>
               <l>Dann lehrt mich Studium, was ich noch nicht weiß;</l>
@@ -392,7 +393,7 @@
               <l>Er knickt die ersten Blumen, die entspringen.</l>
             </lg>
           </sp>
-          <pb n="225"/>
+          <pb n="226"/>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
             <lg>
@@ -470,7 +471,7 @@
               <l>Dafern sie nicht den Weg umsonst getan.</l>
             </lg>
           </sp>
-          <pb n="226"/>
+          <pb n="227"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Wie nur der Umstand uns so ganz entfiel!</l>
@@ -537,7 +538,7 @@
               <l>Und funkelneu von Phras' und seltnem Wort.</l>
             </lg>
           </sp>
-          <pb n="227"/>
+          <pb n="228"/>
           <sp who="#longaville">
             <speaker>LONGAVILLE.</speaker>
             <lg>
@@ -637,7 +638,7 @@
             <speaker>BIRON.</speaker>
             <p>Wie wir delphische Ausrufungen vernehmen würden.</p>
           </sp>
-          <pb n="228"/>
+          <pb n="229"/>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Das glaub' ich, Schellfische hört man immer gern ausrufen.</p>
@@ -713,7 +714,7 @@
             <stage>liest.</stage>
             <p>»Jenen armseligen Hintersassen, –«</p>
           </sp>
-          <pb n="229"/>
+          <pb n="230"/>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Immer noch mich! –</p>
@@ -791,7 +792,7 @@
             <speaker>SCHÄDEL.</speaker>
             <p>Ich ward auch mit keinem ertappt. Herr, ich ward ertappt mit einer Demoiselle.</p>
           </sp>
-          <pb n="230"/>
+          <pb n="231"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <p>Gut, es ward kund gemacht, Demoiselle.</p>
@@ -868,7 +869,7 @@
             <speaker>ARMADO.</speaker>
             <p>Nein, Melancholie ist ja damit eins und dasselbe, teures Pfropfreis!</p>
           </sp>
-          <pb n="231"/>
+          <pb n="232"/>
           <sp who="#motte">
             <speaker>MOTTE.</speaker>
             <p>Nein, nein, o bei Leibe, nein! –</p>
@@ -985,7 +986,7 @@
             <speaker>ARMADO.</speaker>
             <p>Ich gestehe beides: beides ist der Firnis eines vollendeten Mannes.</p>
           </sp>
-          <pb n="232"/>
+          <pb n="233"/>
           <sp who="#motte">
             <speaker>MOTTE.</speaker>
             <p>So wißt Ihr denn auch sicherlich, auf wie viel sich die hohe Summe von Daus und As
@@ -1060,7 +1061,7 @@
             <speaker>MOTTE.</speaker>
             <p>Von allen vieren, oder dreien, oder zweien; oder von einer unter den vieren.</p>
           </sp>
-          <pb n="233"/>
+          <pb n="234"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Sage mir ausdrücklich, von welcher Komplexion? –</p>
@@ -1136,7 +1137,7 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Ich will diesen Gegenstand von neuem bearbeiten lassen, damit ich ein Beispiel habe
-              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb n="234"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
+              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb n="235"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
               kann Ansprüche machen ...</p>
           </sp>
           <sp who="#motte">
@@ -1239,7 +1240,7 @@
             <p>So bin ich Euch mehr verbunden als Eure Leute, denn die werden nur leicht
               belohnt.</p>
           </sp>
-          <pb n="235"/>
+          <pb n="236"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Hinweg mit diesem Bösewicht, sperrt ihn ein! –</p>
@@ -1294,7 +1295,7 @@
           </sp>
         </div>
       </div>
-      <pb n="236"/>
+      <pb n="237"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1335,7 +1336,7 @@
               <l>Eh' mühvoll Studium nicht drei Jahr verzehrt,</l>
               <l>Soll keine Frau dem stillen Hofe nahn.</l>
               <l>Deshalb scheint uns notwend'ge Vorbereitung,</l>
-              <pb n="237"/>
+              <pb n="238"/>
               <l>Eh' wir betreten sein verbotnes Tor,</l>
               <l>Zu hören seinen Willen; und deshalb</l>
               <l>Erlasen wir, wohlkundig Eures Werts,</l>
@@ -1409,7 +1410,7 @@
               <l>Denn er hat Witz, selbst Unform zu verschönen,</l>
               <l>Und Schönheit, die auch ohne Witz bestäche.</l>
               <l>Ich sah ihn einst beim Herzog Alençon,</l>
-              <pb n="238"/>
+              <pb n="239"/>
               <l>Und zu gering, dem, was ich sah, verglichen,</l>
               <l>Ist diese Schild'rung seines hohen Werts.</l>
             </lg>
@@ -1474,7 +1475,7 @@
               Hofs ist zu hoch, um das Eure zu sein, und ein Willkommen auf offnem Felde zu niedrig,
               um mir zu geziemen.</p>
           </sp>
-          <pb n="239"/>
+          <pb n="240"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <p>Ihr sollt willkommen sein an meinem Hof!</p>
@@ -1596,7 +1597,7 @@
             <lg>
               <l>Prinzessin, Euer Vater nennt uns hier</l>
               <l>Die Zahlung von einhunderttausend Kronen,</l>
-              <pb n="240"/>
+              <pb n="241"/>
               <l>Was nur die Hälfte jener ganzen Summe,</l>
               <l>So ihm mein Vater vorschoß für den Krieg.</l>
               <l>Doch setzt, er oder ich – was nie geschah –</l>
@@ -1660,7 +1661,7 @@
               <l>Auf morgen wird Euch alles vorgelegt.</l>
             </lg>
           </sp>
-          <pb n="241"/>
+          <pb n="242"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -1762,7 +1763,7 @@
             <speaker>BOYET.</speaker>
             <l>Manchmal ein Frauenzimmer, wenn man bei Licht sie sah.</l>
           </sp>
-          <pb n="242"/>
+          <pb n="243"/>
           <sp who="#longaville">
             <speaker>LONGAVILLE.</speaker>
             <l>Vielleicht bei Lichte leicht; nur ihren Namen will ich.</l>
@@ -1884,7 +1885,7 @@
             <speaker>PRINZESSIN.</speaker>
             <lg>
               <l>Die Witz'gen lieben Zank; doch sei der Streit geendet,</l>
-              <pb n="243"/>
+              <pb n="244"/>
               <l>Der Bürgerkrieg des Witzes ist besser angewendet</l>
               <l>Auf Navarras Bücherhelden; hier wär' er nur verschwendet.</l>
             </lg>
@@ -1958,7 +1959,7 @@
             <speaker>BOYET.</speaker>
             <l>Hört ihr, ihr tollen Dirnen?</l>
           </sp>
-          <pb n="244"/>
+          <pb n="245"/>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <l>Nein.</l>
@@ -2017,7 +2018,7 @@
               fangen ließen: das macht, daß man von den Gemütern, die solches in ihrer Gewalt haben,
               – notiert's Euch! – Notiz nimmt.</p>
           </sp>
-          <pb n="245"/>
+          <pb n="246"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Womit hast du diese Erfahrung eingekauft?</p>
@@ -2130,7 +2131,7 @@
             <speaker>ARMADO.</speaker>
             <lg>
               <l>Ein würdig Rednerblümchen!</l>
-              <pb n="246"/>
+              <pb n="247"/>
               <l>Ich also bin das Rohr, die Kugel paßt auf ihn.</l>
               <l>Jetzt schieß' ich dich auf den Bauer.</l>
             </lg>
@@ -2203,7 +2204,7 @@
             <lg>
               <l>Bis dann die Gans kam aus der Tür,</l>
               <l>Da wurden sie gleich, denn drei ward vier.</l>
-              <pb n="247"/>
+              <pb n="248"/>
               <l>Nun will ich mit Eurer Moral anfangen; folgt Ihr mir nach mit meinem l'envoy!</l>
               <l>Der Fuchs, der Affe, die Biene klein,</l>
               <l>Weils drei sind, mußten sie ungleich sein.</l>
@@ -2288,7 +2289,7 @@
             <p>Bei meiner zarten Seele, ich meine, dich in Freiheit setzen, deine Person frankieren;
               du warst vermauert, gebunden, eingekorkt, verstopft.</p>
           </sp>
-          <pb n="248"/>
+          <pb n="249"/>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Richtig, richtig; und nun wollt Ihr meine Purganz sein und mich loslassen.</p>
@@ -2368,7 +2369,7 @@
             <speaker>SCHÄDEL.</speaker>
             <p>Ich werd's schon wissen, Herr, wenn ich's getan habe.</p>
           </sp>
-          <pb n="249"/>
+          <pb n="250"/>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
             <l>Ei Schlingel, du mußt es vorher wissen.</l>
@@ -2425,7 +2426,7 @@
               <l>Und was das Schlimmste, noch meineidig werden! –</l>
               <l>Und just die Schlimmste lieben von den dreien! –</l>
               <l>Ein bläßlich Ding mit einer samtnen Braue,</l>
-              <pb n="250"/>
+              <pb n="251"/>
               <l>Mit zwei Pechkugeln im Gesicht statt Augen;</l>
               <l>Und eine wahrlich, die die Tat wird tun,</l>
               <l>Und wär' ein Argus ihr gesetzt zum Wächter!</l>
@@ -2441,7 +2442,7 @@
           </sp>
         </div>
       </div>
-      <pb n="251"/>
+      <pb n="252"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2519,7 +2520,7 @@
               <l>O Schönheitsketzerei, der Zeiten wert;</l>
               <l>Wenn sie nur <emph>schenkt</emph>, wird jede Hand verehrt.</l>
               <l>Doch jetzt zur Jagd; wenn Sanftmut töten muß,</l>
-              <pb n="252"/>
+              <pb n="253"/>
               <l>Schilt sie auf jeden gut gezielten Schuß;</l>
               <l>So bleibt mein Ruf als Schützin unversehrt,</l>
               <l>Denn, treff' ich nicht, hat Mitleid mir's gewehrt;</l>
@@ -2594,7 +2595,7 @@
               <l>Legt mir dies Hühnchen vor!</l>
             </lg>
           </sp>
-          <pb n="253"/>
+          <pb n="254"/>
           <sp who="#boyet">
             <speaker>BOYET.</speaker>
             <lg>
@@ -2638,7 +2639,7 @@
               <l>Nach dir, du Lamm, das seiner Mordlust Ziel;</l>
               <l>Vor seinem stolzen Fuß sink' auf den Grund,</l>
               <l>Und von dem Raubzeug neigt er sich zum Spiel.</l>
-              <pb n="254"/>
+              <pb n="255"/>
               <l>Doch sträubst du dich, was wird aus dir, o Seele?</l>
               <l>Fraß seiner Wut, Proviant für seine Höhle.</l>
             </lg>
@@ -2754,7 +2755,7 @@
             <speaker>BOYET.</speaker>
             <l>Sie selber traf man tiefer schon: nicht wahr, da zielt' ich gut?</l>
           </sp>
-          <pb n="255"/>
+          <pb n="256"/>
           <sp who="#rosaline">
             <speaker>ROSALINE.</speaker>
             <p>Soll ich gegen dich anrücken mit einem alten Reim, der schon ein Mann war, als König
@@ -2830,7 +2831,7 @@
             <lg>
               <l>Mein' Seel', ein blöder Schäfer! Ein rechter simpler Tropf! –</l>
               <l>O je, wie hieben die Damen und ich ihn über den Kopf!</l>
-              <pb n="256"/>
+              <pb n="257"/>
               <l>Blitz, welche niedliche Späße! Der Witz wie korrupt und zierlich!</l>
               <l>Wenn's so glatt von der Zunge haspelt, so recht obszön und manierlich!</l>
               <l>Narmado auf einer Seite, – welch nobler, preislicher Held!</l>
@@ -2876,7 +2877,7 @@
             <speaker>HOLOFERNES.</speaker>
             <p>O barbarische Intimation! und wiederum eine Art Insinuation, gleichsam in via, auf
               dem Wege, einer Explikation: facere gleichsam eine Replikation, oder vielmehr
-              gleichsam ostenta re, darlegen seine Inklination: – nach seiner <pb n="257"/>
+              gleichsam ostenta re, darlegen seine Inklination: – nach seiner <pb n="258"/>
               ohngesitteten, ohngeglätteten, ohnausgefeileten, ohngestutzeten, ohngeschmücketen oder
               vielmehr ohnkultiviereten, oder vielmehrest ohnkonfirmiereten Weise, – wiederumb
               einzuschalten mein haud credo statt eines Wildes.</p>
@@ -2937,7 +2938,7 @@
             <speaker>DUMM.</speaker>
             <p>Das ist auch wahr, mein' Seel', die Kollusion verliert nichts beim Umtausch.</p>
           </sp>
-          <pb n="258"/>
+          <pb n="259"/>
           <sp who="#holofernes">
             <speaker>HOLOFERNES.</speaker>
             <p>Gott stärke deine Kapazität! Ich sage, die <emph>Allusion</emph> verleuret nichts bei
@@ -2991,7 +2992,7 @@
               geboren bei zeitigender Gelegenheit. Indessen die Gabe ist gut in solchen, bei denen
               sie zur rechten Scharfsinnigkeit gelanget, und ich bin dankbar für dieselbe.</p>
           </sp>
-          <pb n="259"/>
+          <pb n="260"/>
           <sp who="#nathanael">
             <speaker>NATHANAEL.</speaker>
             <p>Sir, ich preise den Herrn für Euch, und das mögen auch meine Pfarrkinder. Denn ihre
@@ -3054,7 +3055,7 @@
             <stage>liest.</stage>
             <lg>
               <l>»Macht Liebe mich verschwor'n, darf ich noch Liebe schwören?</l>
-              <pb n="260"/>
+              <pb n="261"/>
               <l>Treu' hält nur stand, gab sie der Schönheit sich zu eigen;</l>
               <l>Meineidig an mir selbst, will ich dir treu gehören;</l>
               <l>Was eichenfest mir schien, kannst du wie Binsen beugen!</l>
@@ -3100,7 +3101,7 @@
             <p>Biron.«</p>
             <p>Sir Nathanael, dieser Biron ist einer von denen Eidgenossen des Königes, und hat
               allhier einen Brief gefertiget an eine Geleitsdame der fremden Monarchin, welcher
-              akzidenteller Weise oder auf dem Wege der Progression in die Verirrung <pb n="261"/>
+              akzidenteller Weise oder auf dem Wege der Progression in die Verirrung <pb n="262"/>
               geraten ist. Entschlüpfe, mein Kind; überantworte dieses Blatt in die Hand der
               Majestät; es mag von besonderem Moment sein. Verweile dich hier nicht mit
               Verbeugungen; ich überhebe dich deiner Pflicht; lebe wohl!</p>
@@ -3152,7 +3153,7 @@
           </sp>
         </div>
       </div>
-      <pb n="262"/>
+      <pb n="263"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3188,7 +3189,7 @@
             <p>Angeschossen, beim Himmel! Nur zu, liebster Cupido; du hast ihm mit deinem
               Vogelbolzen eins unter die linke Brust abgegeben. Wahrhaftig, Geschriebenes? –</p>
           </sp>
-          <pb n="263"/>
+          <pb n="264"/>
           <sp who="#koenig">
             <speaker>KÖNIG</speaker>
             <stage>liest.</stage>
@@ -3271,7 +3272,7 @@
               <l>Die Reime da zerreiß' ich, schreib' in Prose.</l>
             </lg>
           </sp>
-          <pb n="264"/>
+          <pb n="265"/>
           <sp who="#biron">
             <speaker>BIRON</speaker>
             <stage>beiseit.</stage>
@@ -3350,7 +3351,7 @@
             <stage>beiseit.</stage>
             <l>Bei der Erde, sie ist keins, o Menschenkind, dies lügst du.</l>
           </sp>
-          <pb n="265"/>
+          <pb n="266"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <l>Ihr Ambrahaar beschämt den Ambra selber.</l>
@@ -3448,7 +3449,7 @@
               <l>Juno gleiche schwarzen Mohren;</l>
               <l>Sterblich stieg' er selbst zur Erden,</l>
               <l>Um in Liebe dein zu werden.«</l>
-              <pb n="266"/>
+              <pb n="267"/>
               <l>Dies send' ich, will noch klarer ihr in Bildern</l>
               <l>Der treuen Liebe Sehnsuchtsqualen schildern.</l>
               <l>O daß der Fürst, Biron und Longaville</l>
@@ -3503,7 +3504,7 @@
               <l>Sag, gutes Herz, wer liebt mehr als du selber?</l>
               <l>Dein Aug' ist nie ein Wagen? Wenn es weint,</l>
               <l>Gibt's keine Fürstin, die drin widerscheint?</l>
-              <pb n="267"/>
+              <pb n="268"/>
               <l>Du brichst um keinen Preis den Eid, ich wette,</l>
               <l>Und nur ein Bänkelsänger schreibt Sonette.</l>
               <l>Schämt ihr euch nicht? Ihr schämt euch ohne Frage,</l>
@@ -3564,7 +3565,7 @@
             <speaker>JACQUENETTE.</speaker>
             <l>Gott grüß' den König!</l>
           </sp>
-          <pb n="268"/>
+          <pb n="269"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Bringst du was für mich? –</l>
@@ -3667,7 +3668,7 @@
             <l>Wir beiden Gerechten gehn, die Verräter bleiben am Ort.</l>
             <stage>Schädel und Jacquenette ab.</stage>
           </sp>
-          <pb n="269"/>
+          <pb n="270"/>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
             <lg>
@@ -3735,7 +3736,7 @@
               <l>Ein Weib, daraus gezimmert, wär' mein Stolz.</l>
               <l>Wo ist ein Buch? Fest soll mein Schwur bestehn,</l>
               <l>Daß Schönheit selbst die Schönheit nicht erreicht,</l>
-              <pb n="270"/>
+              <pb n="271"/>
               <l>Lernt sie von ihrem Auge nicht das Sehn:</l>
               <l>Und keine schön, die ihr an Schwärze weicht.</l>
             </lg>
@@ -3848,7 +3849,7 @@
               <l>Logik und List, zu prellen klug den Teufel!</l>
             </lg>
           </sp>
-          <pb n="271"/>
+          <pb n="272"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <l>Tinktur für Meineid!</l>
@@ -3893,7 +3894,7 @@
               <l>Von Schönheitspflegerinnen euch gespendet? –</l>
               <l>Das andre träge Wissen bleibt im Hirn,</l>
               <l>Und deshalb finden seine dürren Knechte</l>
-              <pb n="272"/>
+              <pb n="273"/>
               <l>Mühsel'ge Ernte kaum nach schwerem Dienst.</l>
               <l>Doch Lieb', in Frauenaugen erst gelernt,</l>
               <l>Lebt nicht allein vermauert im Gehirn,</l>
@@ -3932,7 +3933,7 @@
               <l>Laßt uns den Eid vernichten, uns zu retten,</l>
               <l>Sonst retten wir den Eid, vernichten uns.</l>
               <l>'s ist Religion, meineidig so zu werden,</l>
-              <pb n="273"/>
+              <pb n="274"/>
               <l>Denn Gnade selber schrieb uns das Gebot;</l>
               <l>Und wer mag Liebe trennen von der Gnade?</l>
             </lg>
@@ -4009,7 +4010,7 @@
               Tage mit einem Gesellschafter des Königs, welcher tituliert, benamset oder genannt
               wird Don Adriano de Armado.</p>
           </sp>
-          <pb n="274"/>
+          <pb n="275"/>
           <sp who="#holofernes">
             <speaker>HOLOFERNES.</speaker>
             <p>Novi hominem tanquam te: sein Humor ist hochfliegend, seine Redeweise gebieterisch,
@@ -4077,7 +4078,7 @@
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Oh, sie zehren schon lange aus dem Almosenkorb der Worte. Mich wundert, daß dein Herr
-              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb n="275"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
+              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb n="276"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
               leichter hinunter als ein Mandelschiffchen.</p>
           </sp>
           <sp who="#motte">
@@ -4160,7 +4161,7 @@
             <speaker>HOLOFERNES.</speaker>
             <p>Oho, ich wittere falsches Latein; – für ad unguem.</p>
           </sp>
-          <pb n="276"/>
+          <pb n="277"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Kunstmann, praeambula; wir wollen uns abscheiden von den Barbaren. Diszipliniert Ihr
@@ -4206,7 +4207,7 @@
               eigentliche Kern des allen ist – aber, süßes Herz, ich flehe um Verschwiegenheit –,
               daß der König verlangt, ich solle die Prinzessin, sein holdes Lamm, regalieren mit
               einer vorzüglichen Ostentation, Prunkschau, einem Aufzug, Mummenschanz oder Feuerwerk.
-              Nun, wohlwissend, wie der Pfarrer und Euer süßes Selbst tüchtig seid <pb n="277"/> für
+              Nun, wohlwissend, wie der Pfarrer und Euer süßes Selbst tüchtig seid <pb n="278"/> für
               dergleichen Ausbruch und plötzlichen Erguß der Hilarität, habe ich Euch hievon
               verständiget, in Absicht, Euren Beistand in Ansprache zu nehmen.</p>
           </sp>
@@ -4271,7 +4272,7 @@
             <p>Wann dies nicht erkleckt, agieren wir einen Mummenschanz. Ich ersuch' euch,
               kommt!</p>
           </sp>
-          <pb n="278"/>
+          <pb n="279"/>
           <sp who="#holofernes">
             <speaker>HOLOFERNES.</speaker>
             <p>Animo, Gevatter Dumb! du hast die ganze Zeit kein Wort gesagt.</p>
@@ -4296,7 +4297,7 @@
           </sp>
         </div>
       </div>
-      <pb n="279"/>
+      <pb n="280"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4381,7 +4382,7 @@
             <speaker>ROSALINE.</speaker>
             <l>Ich wiege nicht, was Ihr, drum bin ich leicht.</l>
           </sp>
-          <pb n="280"/>
+          <pb n="281"/>
           <sp who="#katharine">
             <speaker>KATHARINE.</speaker>
             <l>Was wiegt Ihr denn? Ich weiß von keiner Wiege!</l>
@@ -4487,7 +4488,7 @@
               <l>Wie dumm, daß sie erkaufen schwer dies Lachen!</l>
               <l>Dem Biron will ich schlimme Händel machen.</l>
               <l>Oh, hätt' ich auf acht Tag' ihn nur gefangen,</l>
-              <pb n="281"/>
+              <pb n="282"/>
               <l>Er sollte kriechen, wedeln, betteln, bangen,</l>
               <l>Nach Stund' und Zeit und Wink sich drehn und wenden,</l>
               <l>In leeren Reimen seinen Witz verschwenden,</l>
@@ -4564,7 +4565,7 @@
               <l>Gewandelt kam grad' auf den Schatten zu</l>
               <l>Der König und sein Anhang. Ich sogleich</l>
               <l>Verbarg mich in ein nachbarlich Gesträuch;</l>
-              <pb n="282"/>
+              <pb n="283"/>
               <l>Und jetzt vernehmt, was ich daselbst vernommen:</l>
               <l>Sie werden gleich verkleidet zu euch kommen.</l>
               <l>Ihr Herold ist ein hübscher Schelm von Knaben,</l>
@@ -4616,7 +4617,7 @@
               <l>Wart', Rosaline, nimm mein Kleinod hier,</l>
               <l>Dann schwört der Fürst als seiner Liebsten dir.</l>
               <l>Dich, Freundin, schmücke meins, und mich das deine,</l>
-              <pb n="283"/>
+              <pb n="284"/>
               <l>Daß ich Biron als Rosalin' erscheine.</l>
               <l>Und ihr auch tauscht die Zeichen; falsch belehrt</l>
               <l>Irrt jeder Paladin und wirbt verkehrt.</l>
@@ -4698,7 +4699,7 @@
             <speaker>BIRON.</speaker>
             <l>Die Blicke, Bursch, die Blicke!</l>
           </sp>
-          <pb n="284"/>
+          <pb n="285"/>
           <sp who="#motte">
             <speaker>MOTTE.</speaker>
             <lg>
@@ -4824,7 +4825,7 @@
             <lg>
               <l>Wir zählen nichts, das wir für Euch verwenden.</l>
               <l>So reich ist unsre Pflicht, so unbegrenzt,</l>
-              <pb n="285"/>
+              <pb n="286"/>
               <l>Daß wir Beschwer niemals in Rechnung stellen.</l>
               <l>Begnadigt uns mit Eurem Sonnenantlitz,</l>
               <l>Daß wir, gleich Wilden, ihm Anbetung zollen.</l>
@@ -4948,7 +4949,7 @@
             <speaker>BIRON.</speaker>
             <l>Weißhändig Kind, ein süßes Wort mit dir! –</l>
           </sp>
-          <pb n="286"/>
+          <pb n="287"/>
           <sp who="#prinzessin">
             <speaker>PRINZESSIN.</speaker>
             <l>Milch, Honig, Zucker, Feigen, das sind vier.</l>
@@ -5077,7 +5078,7 @@
             <l>Blökt nicht zu laut, der Metzger hört Euch schrein.</l>
             <stage>Sie gehn vorüber.</stage>
           </sp>
-          <pb n="287"/>
+          <pb n="288"/>
           <sp who="#boyet">
             <speaker>BOYET.</speaker>
             <lg>
@@ -5192,7 +5193,7 @@
               <l>Sie werden nicht so herben Spott verdaun.</l>
             </lg>
           </sp>
-          <pb n="288"/>
+          <pb n="289"/>
           <sp who="#prinzessin">
             <speaker>PRINZESSIN.</speaker>
             <l>Sie wiederkommen?</l>
@@ -5278,7 +5279,7 @@
               <l>Auf Kirmes, Jahrmarkt, Erntebier und Schmaus;</l>
               <l>Und uns Großhändlern will es nicht gelingen,</l>
               <l>Die Ware so geschickt in Kurs zu bringen.</l>
-              <pb n="289"/>
+              <pb n="290"/>
               <l>Die Mädel kann er an den Ärmel schnüren,</l>
               <l>Als Adam würd' er Eva selbst verführen;</l>
               <l>Er schneidet vor, er lispelt, tut galant;</l>
@@ -5356,7 +5357,7 @@
               <l>Wie fleckenlose Lilienblüten, schwör' ich,</l>
               <l>Und sollt' ich dulden alle Qual und Pein:</l>
               <l>Nie Eures Hauses Gast zu sein gewähr' ich,</l>
-              <pb n="290"/>
+              <pb n="291"/>
               <l>So sehr empört mich's, brecht Ihr jenen Eid,</l>
               <l>Den Ihr dem Himmel lautern Sinns geweiht.</l>
             </lg>
@@ -5458,7 +5459,7 @@
             <speaker>KÖNIG.</speaker>
             <l>Wir sind durchschaut, sie spotten uns zu Tode.</l>
           </sp>
-          <pb n="291"/>
+          <pb n="292"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <l>Gestehn wir's nur und wenden's noch zum Scherz! –</l>
@@ -5526,7 +5527,7 @@
             <speaker>BIRON.</speaker>
             <l>Wir sind verurteilt, konfisziert, zerstört.</l>
           </sp>
-          <pb n="292"/>
+          <pb n="293"/>
           <sp who="#rosaline">
             <speaker>ROSALINE.</speaker>
             <lg>
@@ -5654,7 +5655,7 @@
               <l>Wollt Ihr mich selbst? Wollt Ihr die Perlenbinde?</l>
             </lg>
           </sp>
-          <pb n="293"/>
+          <pb n="294"/>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
             <lg>
@@ -5724,7 +5725,7 @@
           </sp>
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
-            <p>Nicht so, Herr, ich hoffe, es ist nicht so. Ihr könnt <pb n="294"/> uns nicht
+            <p>Nicht so, Herr, ich hoffe, es ist nicht so. Ihr könnt <pb n="295"/> uns nicht
               übertölpeln, das versichere ich Euch, Herr; wir wissen auch, was wir wissen. Ich hoffe
               doch, Herr, drei mal drei. ...</p>
           </sp>
@@ -5805,7 +5806,7 @@
             <l>Ein treulich Bild von unserm Spiel, o Herr! –</l>
             <stage>Armado tritt auf.</stage>
           </sp>
-          <pb n="295"/>
+          <pb n="296"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Gesalbter, ich flehe um so viel Aufwand deines königlichen geliebten Atems, als
@@ -5885,7 +5886,7 @@
             <speaker>SCHÄDEL.</speaker>
             <l>Pompejus ich, Pompejus ich, benamt der dicke Held –</l>
           </sp>
-          <pb n="296"/>
+          <pb n="297"/>
           <sp who="#dumm">
             <speaker>DUMM.</speaker>
             <l>Der Große.</l>
@@ -5962,7 +5963,7 @@
               sitzt, wird man dem Cacamillus geben, und der wird dann der neunte Held sein. Ein
               Eroberer, der sich fürchtet zu sprechen! – Pfui, [lauft,] Alexander!</p>
             <stage>Nathanael ab.</stage>
-            <pb n="297"/>
+            <pb n="298"/>
             <p>'s ist, mit Euer Gnaden Wohlmeinen, ein närrischer, weichherziger Mann, – ein
               ehrlicher Mann, seht Ihr, und gleich aus der Verfassung. Es ist so ein gutes Gemüt von
               Nachbarn und ein so wackrer Kegelschieber; aber was den Alexander betrifft, lieber
@@ -6051,7 +6052,7 @@
             <speaker>BOYET.</speaker>
             <p>Ein Lautenkopf!</p>
           </sp>
-          <pb n="298"/>
+          <pb n="299"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <p>Ein Nadelkopf.</p>
@@ -6164,7 +6165,7 @@
             <speaker>DUMAIN.</speaker>
             <p>Er ist ein Gott oder ein Maler, denn er macht Gesichter.</p>
           </sp>
-          <pb n="299"/>
+          <pb n="300"/>
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <lg>
@@ -6265,7 +6266,7 @@
             <p>Dann wird Hektor gestäupt werden wegen der Jacquenetta, der er zum Kinde half; und
               gehängt wegen des Pompejus, dem er vom Leben half.</p>
           </sp>
-          <pb n="300"/>
+          <pb n="301"/>
           <sp who="#dumain">
             <speaker>DUMAIN.</speaker>
             <p>Seltner Pompejus! –</p>
@@ -6360,7 +6361,7 @@
               <l>Nur daß du unsre Lustbarkeit hier störst.</l>
             </lg>
           </sp>
-          <pb n="301"/>
+          <pb n="302"/>
           <sp who="#mercade">
             <speaker>MERCADE.</speaker>
             <lg>
@@ -6435,7 +6436,7 @@
             <speaker>PRINZESSIN.</speaker>
             <l>Ich kann Euch nicht verstehn: mein Gram ist doppelt.</l>
           </sp>
-          <pb n="302"/>
+          <pb n="303"/>
           <sp who="#biron">
             <speaker>BIRON.</speaker>
             <lg>
@@ -6497,7 +6498,7 @@
               <l>Uns eure Liebe!</l>
             </lg>
           </sp>
-          <pb n="303"/>
+          <pb n="304"/>
           <sp who="#prinzessin">
             <speaker>PRINZESSIN.</speaker>
             <lg>
@@ -6565,7 +6566,7 @@
             <speaker>DUMAIN.</speaker>
             <l>Bis dahin sei dir treuer Dienst geweiht!</l>
           </sp>
-          <pb n="304"/>
+          <pb n="305"/>
           <sp who="#katharine">
             <speaker>KATHARINE.</speaker>
             <l>Schwört nicht! Ihr bräch't vielleicht auch diesen Eid.</l>
@@ -6637,7 +6638,7 @@
               <l>Betäubt vom Schall der eignen schweren Seufzer,</l>
               <l>Anhört den leichten Spaß, dann fahret fort;</l>
               <l>Ich will Euch nehmen und den Fehl dazu;</l>
-              <pb n="305"/>
+              <pb n="306"/>
               <l>Doch, wenn's Euch abweist, zügelt jene Laune:</l>
               <l>Und Euers Fehlers frei find' ich Euch wieder,</l>
               <l>Durch solche Sinnesänd'rung hocherfreut.</l>
@@ -6719,7 +6720,7 @@
               <l>Wenn Primelngelb und Veilchen blau,</l>
               <l>Und Maßlieb silberweiß im Grün,</l>
               <l>Und Kuckucksblumen rings die Au'</l>
-              <pb n="306"/>
+              <pb n="307"/>
               <l>Mit bunter Frühlingspracht umblühn,</l>
               <l>Des Kuckucks Ruf im Baum erklingt</l>
               <l>Und neckt den Eh'mann, wenn er singt:</l>

@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="5"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -95,27 +96,30 @@
         <head>Personen</head>
         <castItem>Priamus, König von Troja</castItem>
         <castGroup>
-          <castItem>Hektor,</castItem>
-          <castItem>Troilus,</castItem>
-          <castItem>Paris,</castItem>
-          <castItem>Deiphobus,</castItem>
-          <castItem>Helenus,</castItem>
+          <castItem>Hektor</castItem>
+          <castItem>Troilus</castItem>
+          <castItem>Paris</castItem>
+          <castItem>Deiphobus</castItem>
+          <castItem>Helenus</castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
-        <castItem>Äneas,</castItem>
-        <castItem>Antenor, trojanische Heerführer</castItem>
+        <castGroup>
+          <castItem>Äneas</castItem>
+          <castItem>Antenor</castItem>
+          <roleDesc>trojanische Heerführer</roleDesc>
+        </castGroup>
         <castItem>Kalchas, ein Priester</castItem>
         <castItem>Pandarus, Oheim der Cressida</castItem>
         <castItem>Margarelon</castItem>
         <castItem>Agamemnon, Oberanführer der Griechen</castItem>
         <castItem>Menelaus, sein Bruder</castItem>
         <castGroup>
-          <castItem>Achilles,</castItem>
-          <castItem>Ajax,</castItem>
-          <castItem>Ulysses,</castItem>
-          <castItem>Nestor,</castItem>
-          <castItem>Diomedes,</castItem>
-          <castItem>Patroklus,</castItem>
+          <castItem>Achilles</castItem>
+          <castItem>Ajax</castItem>
+          <castItem>Ulysses</castItem>
+          <castItem>Nestor</castItem>
+          <castItem>Diomedes</castItem>
+          <castItem>Patroklus</castItem>
           <roleDesc>griechische Heerführer</roleDesc>
         </castGroup>
         <castItem>Thersites</castItem>
@@ -131,7 +135,7 @@
         <p>Die Szene ist in Troja und im griechischen Lager vor dieser Stadt</p>
       </set>
     </front>
-    <pb n="6"/>
+    <pb n="7"/>
     <body>
       <div type="prologue">
         <head>Prologus</head>
@@ -169,7 +173,7 @@
           <l>Bald gut, bald schlimm, es ist nur Kriegesglück.</l>
         </lg>
       </div>
-      <pb n="7"/>
+      <pb n="8"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -230,7 +234,7 @@
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Ja, aufs Säuern; aber nun kommt noch in dem Wort <emph>hernach</emph> das Kneten, das
-              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb n="8"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
+              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb n="9"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
               verbrennen.</p>
           </sp>
           <sp who="#troilus">
@@ -287,7 +291,7 @@
               <l>Hart wie des Pflügers Faust; – dies sagst du mir,</l>
               <l>Und wahrhaft ganz, wenn ich dir schwör', ich liebe:</l>
               <l>Doch mit dem Wort legst du in jede Wunde,</l>
-              <pb n="9"/>
+              <pb n="10"/>
               <l>Mit der mich Liebe traf, statt Öls und Balsams</l>
               <l>Den Dolch, der sie geschlagen.</l>
             </lg>
@@ -367,7 +371,7 @@
             <lg>
               <l>Und Pandarus, – wie quält ihr mich, ihr Götter!</l>
               <l>Zugänglich nur wird Cressida durch ihn;</l>
-              <pb n="10"/>
+              <pb n="11"/>
               <l>Den Kind'schen werb' ich nie zum Werben an,</l>
               <l>Und sie bleibt spröd' verschlossen jeder Bitte.</l>
               <l>Sag mir, Apoll,' um deiner Daphne Liebe,</l>
@@ -456,7 +460,7 @@
             <lg>
               <l>Zum Turm nach Osten,</l>
               <l>Des Höh' die ganze Gegend überschaut,</l>
-              <pb n="11"/>
+              <pb n="12"/>
               <l>Die Schlacht zu sehen. Hektor, des Geduld</l>
               <l>Sonst unerschütterlich, ward heut bewegt:</l>
               <l>Er schalt Andromache und schlug den Wappner;</l>
@@ -518,7 +522,7 @@
               nicht essen noch schlafen lassen.</p>
             <stage>Pandarus kommt.</stage>
           </sp>
-          <pb n="12"/>
+          <pb n="13"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>Wer kommt? –</p>
@@ -616,7 +620,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Nein, und Hektor ist auch nicht Troilus in gewissem Betracht.</p>
           </sp>
-          <pb n="13"/>
+          <pb n="14"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>So tun wir keinem Unrecht: er ist er selbst.</p>
@@ -715,7 +719,7 @@
             <speaker>CRESSIDA.</speaker>
             <p>So hätte Troilus denn zu viel Farbe; wenn sie sein Kolorit <emph>über</emph> das des
               andern stellt, ist er höher an Farbe; wenn nun Paris rot genug ist und Troilus
-              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb n="14"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
+              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb n="15"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
@@ -793,7 +797,7 @@
               kitzelte. Das ist doch gewiß, sie hat eine wundervoll weiße Hand; das muß man
               bekennen.</p>
           </sp>
-          <pb n="15"/>
+          <pb n="16"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>Ohne Folter.</p>
@@ -880,7 +884,7 @@
             <p>Ich schwöre dir, es ist wahr, er weint dir, wie einer, der im April geboren ist.</p>
             <stage>Man hört zum Rückzug blasen.</stage>
           </sp>
-          <pb n="16"/>
+          <pb n="17"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>Und ich will in diesen Tränen so lustig aufwachsen, wie eine Nessel im Mai.</p>
@@ -944,7 +948,7 @@
               spaßen; der versteht's; mit dem soll's einmal einer aufnehmen! Das nenn' ich Hiebe!
               –</p>
           </sp>
-          <pb n="17"/>
+          <pb n="18"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>Sind die von Schwertern?</p>
@@ -1000,7 +1004,7 @@
               als der des Hektor. Und wie er um sich blickt, wie er einhergeht! – O wunderschöner
               Jüngling; und noch nicht dreiundzwanzig! Geh mit Gott, Troilus, geh mit Gott; hätte
               ich eine Grazie zur Schwester, oder eine Göttin zur Tochter, er sollte die Wahl haben.
-              O wunderschöner Held! – Paris? – Paris <pb n="18"/> ist ein Quark gegen ihn, und ich
+              O wunderschöner Held! – Paris? – Paris <pb n="19"/> ist ein Quark gegen ihn, und ich
               wette, Helena tauschte gern, und gäbe noch Geld in den Kauf.</p>
             <stage>Mehrere Soldaten ziehn vorüber.</stage>
           </sp>
@@ -1058,7 +1062,7 @@
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <p>Das ist eben meine Hauptwache, die gegen Euch gerichtet ist. Denn wenn ich erst nicht
-              mehr behüten kann, was niemand finden sollte, so kann ich Euch wenigstens <pb n="19"/>
+              mehr behüten kann, was niemand finden sollte, so kann ich Euch wenigstens <pb n="20"/>
               bewachen, daß Ihr nicht erfahrt, wie ich zu Schaden kam; es müßte denn so zunehmen,
               daß sich's nicht mehr verstecken ließe; und dann wär's ohnehin mit dem Wachen
               vorbei.</p>
@@ -1127,7 +1131,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="20"/>
+        <pb n="21"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Das griechische Lager.</stage>
@@ -1173,7 +1177,7 @@
             <speaker>NESTOR.</speaker>
             <lg>
               <l>In schuld'ger Ehrfurcht deinem heil'gen Thron,</l>
-              <pb n="21"/>
+              <pb n="22"/>
               <l>O Agamemnon, wird dein letztes Wort</l>
               <l>Nestor erläutern. In dem Kampf mit Wechsel</l>
               <l>Bewährt sich echte Kraft. Auf stiller See,</l>
@@ -1217,7 +1221,7 @@
               <l>Aus Luft gewebt, stark wie die Ax', um die</l>
               <l>Der Himmel kreist, sollt' aller Griechen Ohr</l>
               <l>An deine weise Zunge fesseln) – doch,</l>
-              <pb n="22"/>
+              <pb n="23"/>
               <l>Du Staatsmann und du Fürst, vergönnt Ulysses,</l>
               <l>Nach euch zu reden.</l>
             </lg>
@@ -1268,7 +1272,7 @@
               <l>So krankt die Ausführung. Wie könnten Gilden,</l>
               <l>Würden der Schule, Brüderschaft in Städten,</l>
               <l>Friedsamer Handelsbund getrennter Ufer,</l>
-              <pb n="23"/>
+              <pb n="24"/>
               <l>Der Vorrang und das Recht der Erstgeburt,</l>
               <l>Ehrfurcht vor Alter, Szepter, Kron' und Lorbeer</l>
               <l>Ihr ewig Recht ohn' Abstufung behaupten?</l>
@@ -1326,7 +1330,7 @@
             <lg>
               <l>Der Held Achilles, den die Meinung krönt</l>
               <l>Als Nerv und rechte Hand des ganzen Heers, –</l>
-              <pb n="24"/>
+              <pb n="25"/>
               <l>Das Ohr gefüllt mit seinem luft'gen Ruhm,</l>
               <l>Wird frech und launenhaft, und ruht im Zelt,</l>
               <l>Verspottend unser Tun. Mit ihm Patroklus,</l>
@@ -1371,7 +1375,7 @@
               <l>All unsre Fähigkeit, Natur, Gestalt,</l>
               <l>Besondre Gab' und allgemeine Art,</l>
               <l>Vollbrachte Tat, Entwurf, Befehl und Plan,</l>
-              <pb n="25"/>
+              <pb n="26"/>
               <l>Auffoderung zum Kampf, Antrag um Stillstand,</l>
               <l>Erfolg und Mißgeschick, was ist und nicht ist,</l>
               <l>Zum Stoff für Albernheit und Übertreibung.</l>
@@ -1439,7 +1443,7 @@
             <speaker>AGAMEMNON.</speaker>
             <l>Was führt Euch hieher?</l>
           </sp>
-          <pb n="26"/>
+          <pb n="27"/>
           <sp who="#aeneas">
             <speaker>ÄNEAS.</speaker>
             <lg>
@@ -1536,7 +1540,7 @@
             <lg>
               <l>Auch kam ich nicht von Troja, ihm zu flüstern;</l>
               <l>Trompeten lass' ich schmettern an sein Ohr</l>
-              <pb n="27"/>
+              <pb n="28"/>
               <l>Und weck' es, aufmerksam sich mir zu neigen;</l>
               <l>Dann will ich reden.</l>
             </lg>
@@ -1597,7 +1601,7 @@
             <lg>
               <l>So, Prinz, verkünd' ich's unsern Liebenden.</l>
               <l>Hat keiner ein Gemüt also entzündet,</l>
-              <pb n="28"/>
+              <pb n="29"/>
               <l>Kam keiner mit uns her. Doch wir sind Ritter:</l>
               <l>Und sei mit Schmach vom Rittertum vertrieben,</l>
               <l>Wer nicht schon liebt, geliebt hat, noch wird lieben!</l>
@@ -1676,7 +1680,7 @@
               <l>Uns alle zu ersticken.</l>
             </lg>
           </sp>
-          <pb n="29"/>
+          <pb n="30"/>
           <sp who="#nestor">
             <speaker>NESTOR.</speaker>
             <l>Wohl! Und wie?</l>
@@ -1738,7 +1742,7 @@
               <l>Vom Arm geführt.</l>
             </lg>
           </sp>
-          <pb n="30"/>
+          <pb n="31"/>
           <sp who="#ulysses">
             <speaker>ULYSSES.</speaker>
             <lg>
@@ -1796,7 +1800,7 @@
           </sp>
         </div>
       </div>
-      <pb n="31"/>
+      <pb n="32"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1865,7 +1869,7 @@
             <speaker>THERSITES.</speaker>
             <p>Man hat dich als Narren ausgerufen, denk' ich.</p>
           </sp>
-          <pb n="32"/>
+          <pb n="33"/>
           <sp who="#ajax">
             <speaker>AJAX.</speaker>
             <p>Nimm dich in acht, Stachelschwein, nimm dich in acht! Meine Finger jucken!</p>
@@ -1957,7 +1961,7 @@
             <speaker>ACHILLES.</speaker>
             <l>Nun ja, was gibt's?</l>
           </sp>
-          <pb n="33"/>
+          <pb n="34"/>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <l>Nein, seht ihn an!</l>
@@ -2059,7 +2063,7 @@
             <p>Ich hieß dem garstigen Schuhu, sich nach dem Inhalt des Aufrufs erkundigen, und da
               schimpft er auf mich los.</p>
           </sp>
-          <pb n="34"/>
+          <pb n="35"/>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <p>Ich bin dein Diener nicht.</p>
@@ -2148,7 +2152,7 @@
             <speaker>AJAX.</speaker>
             <l>Lebt wohl! Wer wird sich stellen?</l>
           </sp>
-          <pb n="35"/>
+          <pb n="36"/>
           <sp who="#achilles">
             <speaker>ACHILLES.</speaker>
             <lg>
@@ -2210,7 +2214,7 @@
             <lg>
               <l>Pfui, o pfui, mein Bruder!</l>
               <l>Wägst du die Her' und Würde eines Königs,</l>
-              <pb n="36"/>
+              <pb n="37"/>
               <l>Wie unser hoher Vater, nach dem Maß</l>
               <l>Gemeiner Unzen? Willst mit Pfenn'gen zählen</l>
               <l>Seiner Unendlichkeit maßlosen Wert?</l>
@@ -2279,7 +2283,7 @@
             <lg>
               <l>Ich nehme heut ein Weib, und meine Wahl</l>
               <l>Hängt von der Leitung meines Willens ab:</l>
-              <pb n="37"/>
+              <pb n="38"/>
               <l>Mein Wille ward entflammt durch Aug' und Ohr,</l>
               <l>Zwei wackern Lotsen durch die schroffen Klippen</l>
               <l>Von Will' und Urteil. Wie verstieß' ich nun</l>
@@ -2340,7 +2344,7 @@
             <stage>draußen.</stage>
             <l>Weint, Troer!</l>
           </sp>
-          <pb n="38"/>
+          <pb n="39"/>
           <sp who="#hektor">
             <speaker>HEKTOR.</speaker>
             <l>'s ist Kassandra!</l>
@@ -2407,7 +2411,7 @@
               <l>Mein Unternehmen so wie euern Rat.</l>
               <l>Doch, bei den Göttern! Eu'r vollkommner Beifall</l>
               <l>Gab Flügel meinem Wunsch und schnitt hinweg</l>
-              <pb n="39"/>
+              <pb n="40"/>
               <l>Jeglich Bedenken solcher kühnen Wagnis.</l>
               <l>Denn was vermag allein mein schwacher Arm?</l>
               <l>Was beut die Kühnheit eines Manns für Kampf,</l>
@@ -2461,7 +2465,7 @@
               <l>Die Gründe, die ihr vortragt, leiten mehr</l>
               <l>Zu heißer Leidenschaft des wilden Bluts,</l>
               <l>Als die Entscheidung frei und klar zu schlichten,</l>
-              <pb n="40"/>
+              <pb n="41"/>
               <l>Was Recht und Unrecht. Denn die Rach' und Wollust</l>
               <l>Sind tauber als der Ottern Ohr dem Ruf</l>
               <l>Wahrhaften Urteils! Die Natur verlangt</l>
@@ -2514,7 +2518,7 @@
             <lg>
               <l>Wohl hast du recht,</l>
               <l>Du tapfrer Sproß des großen Priamus.</l>
-              <pb n="41"/>
+              <pb n="42"/>
               <l>Ich sandte schon aufreizend Fehdewort</l>
               <l>Den trägen und entzweiten Griechenfürsten,</l>
               <l>Das ihre Schlummergeister wecken wird.</l>
@@ -2549,7 +2553,7 @@
               der Teufel Bosheit spreche das Amen. Heda! Holla! Fürst Achilles! –</p>
             <stage>Patroklus tritt auf.</stage>
           </sp>
-          <pb n="42"/>
+          <pb n="43"/>
           <sp who="#patroklus">
             <speaker>PATROKLUS.</speaker>
             <p>Wer da, Thersites? Lieber Thersites, komm herein und schimpfe!</p>
@@ -2628,7 +2632,7 @@
             <p>Agamemnon ist ein Narr, Achilles ist ein Narr, Thersites ist ein Narr, und, wie schon
               gesagt, Patroklus ist ein Narr.</p>
           </sp>
-          <pb n="43"/>
+          <pb n="44"/>
           <sp who="#achilles">
             <speaker>ACHILLES.</speaker>
             <p>Beweise das. Nun?</p>
@@ -2715,7 +2719,7 @@
             <speaker>NESTOR.</speaker>
             <p>Wen? Thersites?</p>
           </sp>
-          <pb n="44"/>
+          <pb n="45"/>
           <sp who="#ulysses">
             <speaker>ULYSSES.</speaker>
             <p>Eben den.</p>
@@ -2778,7 +2782,7 @@
               <l>In eignem Hochmut als nach echter Schätzung.</l>
               <l>Manch Bess'rer krümmt sich hier der spröden Wildheit</l>
               <l>In die er sich verlarvt,</l>
-              <pb n="45"/>
+              <pb n="46"/>
               <l>Entäußert sich der heil'gen Herrschermacht</l>
               <l>Und räumt ihm ein, nachsichtig und aus Schonung,</l>
               <l>Den Vorrang seiner Laune: ja, bewacht</l>
@@ -2856,7 +2860,7 @@
             <p>Und liebst dich selber doch: ist das nicht seltsam?</p>
             <stage>Ulysses kommt zurück.</stage>
           </sp>
-          <pb n="46"/>
+          <pb n="47"/>
           <sp who="#ulysses">
             <speaker>ULYSSES.</speaker>
             <l>Achill will morgen nicht im Feld erscheinen.</l>
@@ -2926,7 +2930,7 @@
               <l>Das hieße spicken Stolz, der schon zu feist,</l>
               <l>Und Feu'r zutragen dem Cancer, wenn er flammt</l>
               <l>In des Hyperion strahlendem Geleit. –</l>
-              <pb n="47"/>
+              <pb n="48"/>
               <l>Der Fürst vor ihm erscheinen? Zeus verhüt' es</l>
               <l>Und spreche donnernd: Geh' Achill zu diesem! –</l>
             </lg>
@@ -3062,7 +3066,7 @@
               <l>Wär' er ein Troer! –</l>
             </lg>
           </sp>
-          <pb n="48"/>
+          <pb n="49"/>
           <sp who="#nestor">
             <speaker>NESTOR.</speaker>
             <l>Welch ein Fleck am Ajax –</l>
@@ -3141,7 +3145,7 @@
           </sp>
         </div>
       </div>
-      <pb n="49"/>
+      <pb n="50"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3234,7 +3238,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Auf wes Geheiß trag' ich, Freund?</p>
           </sp>
-          <pb n="50"/>
+          <pb n="51"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <p>Ich denke, Ihr fragt auf niemands Geheiß.</p>
@@ -3311,7 +3315,7 @@
             <p>Ich habe ein Geschäft mit dem Prinzen, teure Königin. Gnädiger Herr, wollt Ihr mir
               ein Wort vergönnen?</p>
           </sp>
-          <pb n="51"/>
+          <pb n="52"/>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
             <p>Nein, damit sollt Ihr uns das Tor nicht sperren; wir müssen Euch singen hören, ganz
@@ -3403,7 +3407,7 @@
             <speaker>HELENA.</speaker>
             <p>So, das ist recht artig von Euch.</p>
           </sp>
-          <pb n="52"/>
+          <pb n="53"/>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Meine Nichte ist erschrecklich verliebt in ein Ding, das Ihr habt, süße Königin.</p>
@@ -3477,7 +3481,7 @@
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
-            <p>Ist dies die Stammtafel der Liebe? Heißes Blut, <pb n="53"/> heiße Gedanken und heiße
+            <p>Ist dies die Stammtafel der Liebe? Heißes Blut, <pb n="54"/> heiße Gedanken und heiße
               Werke: das heiße ich eine heiße Abstammung. – Wer ist heut im Felde, liebster
               Prinz?</p>
           </sp>
@@ -3548,7 +3552,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Heda! Wo ist dein Herr? Ist er bei meiner Nichte Cressida? –</p>
           </sp>
-          <pb n="54"/>
+          <pb n="55"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <p>Nein, Herr, er wartet auf Euch, daß Ihr ihn zu ihr führt.</p>
@@ -3611,7 +3615,7 @@
                 <stage>Geht ab.</stage>
             </p>
           </sp>
-          <pb n="55"/>
+          <pb n="56"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <lg>
@@ -3670,7 +3674,7 @@
             <speaker>CRESSIDA.</speaker>
             <p>Mehr Trübung als Wasser, wenn meine Furcht Augen hat.</p>
           </sp>
-          <pb n="56"/>
+          <pb n="57"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <p>Die Furcht macht Teufel aus Engeln; sie sieht nie richtig.</p>
@@ -3722,7 +3726,7 @@
             <p>Wollt Ihr hineingehn, mein Prinz?</p>
             <stage>Pandarus kommt zurück.</stage>
           </sp>
-          <pb n="57"/>
+          <pb n="58"/>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Wie? Noch immer errötend? Seid Ihr noch nicht mit Schwätzen fertig?</p>
@@ -3789,7 +3793,7 @@
             <speaker>PANDARUS.</speaker>
             <l>Recht artig! Meiner Treu!</l>
           </sp>
-          <pb n="58"/>
+          <pb n="59"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <lg>
@@ -3872,7 +3876,7 @@
             <speaker>CRESSIDA.</speaker>
             <l>Den Wettkampf nehm' ich an.</l>
           </sp>
-          <pb n="59"/>
+          <pb n="60"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <lg>
@@ -3929,7 +3933,7 @@
             <speaker>CRESSIDA.</speaker>
             <p>Amen!</p>
           </sp>
-          <pb n="60"/>
+          <pb n="61"/>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Amen! Und somit will ich euch eine Kammer und ein Bett nachweisen: und damit das Bett
@@ -3982,7 +3986,7 @@
               <l>Ist, weiß ich, solche Triebkraft ihres Tuns,</l>
               <l>Daß ihre Volksberatung, fehlt sein Wirken,</l>
               <l>Erschlaffen muß; und diesen einzutauschen</l>
-              <pb n="61"/>
+              <pb n="62"/>
               <l>Gäben sie wohl 'nen Prinzen von Geblüt,</l>
               <l>Ja, einen Sohn des Priam. Den entlaßt</l>
               <l>Als Preis für meine Tochter; deren Freiheit</l>
@@ -4052,7 +4056,7 @@
             <speaker>NESTOR.</speaker>
             <p>Wollt Ihr, mein Fürst, etwas vom Feldherrn?</p>
           </sp>
-          <pb n="62"/>
+          <pb n="63"/>
           <sp who="#achilles">
             <speaker>ACHILLES.</speaker>
             <p>Nein!</p>
@@ -4136,7 +4140,7 @@
               <l>Bis auf die Blicke jener, die, so scheint mir's,</l>
               <l>An mir gefunden, was so reichen Ansehns</l>
               <l>Wie sonst nicht würdig ist. Da kommt Ulyß –</l>
-              <pb n="63"/>
+              <pb n="64"/>
               <l>Ich will sein Lesen unterbrechen –:</l>
               <l>Wie nun, Ulyß?</l>
             </lg>
@@ -4198,7 +4202,7 @@
               <l>Ajax, so unbeachtet.</l>
               <l>O Himmel, welch ein Mann! Ein wahres Pferd,</l>
               <l>Das hat, es weiß nicht was. Natur, wie manches</l>
-              <pb n="64"/>
+              <pb n="65"/>
               <l>Wird schlecht geschätzt und ist, genutzt, so teuer!</l>
               <l>Wie steht ein andres in erhabnem Ansehn,</l>
               <l>Das arm an Wert ist! Morgen sehn wir nun</l>
@@ -4251,7 +4255,7 @@
               <l>Und liegst als Damm für den verworfnen Troß,</l>
               <l>Zerstampft und überrannt. Was diese jetzt tun,</l>
               <l>Wird Größres, das du tatest, überragen:</l>
-              <pb n="65"/>
+              <pb n="66"/>
               <l>Denn Zeit ist wie ein Wirt nach heut'ger Mode,</l>
               <l>Der laudem Gast die Hand drückt, wenn er scheidet,</l>
               <l>Doch ausgestreckten Arms, als wollt' er fliegen,</l>
@@ -4310,7 +4314,7 @@
               <l>Kennt jedes Korn beinah' von Plutos' Gold,</l>
               <l>Ergründet unerforschte Tiefen; sitzt</l>
               <l>Zu Rat mit dem Gedanken; ja, wie Götter fast</l>
-              <pb n="66"/>
+              <pb n="67"/>
               <l>Schaut sie in seiner stummen Wieg' ihn schleierlos.</l>
               <l>Ein tief Geheimnis wohnt (dem die Geschichte</l>
               <l>Stets fremd geblieben) in des Staates Seele,</l>
@@ -4370,7 +4374,7 @@
               <l>Denn selbstgeschlagne Wunden heilen schwer!</l>
               <l>In Ohnmacht unterlassen das Notwend'ge,</l>
               <l>Heißt eine Vollmacht zeichnen der Gefahr:</l>
-              <pb n="67"/>
+              <pb n="68"/>
               <l>Und heimlich, faßt Gefahr uns wie ein Fieber,</l>
               <l>Selbst wenn wir müßig in der Sonne sitzen.</l>
             </lg>
@@ -4429,7 +4433,7 @@
               öffentliche Meinung! – Es kann sie einer auf beiden Seiten tragen, wie ein ledernes
               Wams.</p>
           </sp>
-          <pb n="68"/>
+          <pb n="69"/>
           <sp who="#achilles">
             <speaker>ACHILLES.</speaker>
             <p>Du sollst mein Gesandter an ihn sein, Thersites.</p>
@@ -4521,7 +4525,7 @@
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <p>Nein, in eben solcher Verstimmung. Wie viel Musik in ihm nachbleibt, wenn Hektor ihm
-              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb n="69"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
+              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb n="70"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
               machen.</p>
           </sp>
           <sp who="#achilles">
@@ -4550,7 +4554,7 @@
           </sp>
         </div>
       </div>
-      <pb n="70"/>
+      <pb n="71"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4614,7 +4618,7 @@
               <l>Mit rückgewandtem Haupt. Jetzt sei gegrüßt</l>
               <l>In Freundlichkeit: ja, bei Anchises' Leben,</l>
               <l>Herzlich willkommen! Bei Venus' Hand beteur' ich,</l>
-              <pb n="71"/>
+              <pb n="72"/>
               <l>Kein Mann auf Erden kann in solcher Weise</l>
               <l>Den Feind mehr lieben, den er wünscht zu töten! –</l>
             </lg>
@@ -4709,7 +4713,7 @@
             <lg>
               <l>Wert ist er, sie zu haben, der sie sucht,</l>
               <l>Für gar nichts achtend ihrer Ehre Fleck,</l>
-              <pb n="72"/>
+              <pb n="73"/>
               <l>Mit solcher Welt von Qual und Höllenpein; –</l>
               <l>Du wert, sie zu behalten, der sie schützt</l>
               <l>(Mit stumpfem Gaum nicht ihre Schande schmeckend),</l>
@@ -4780,7 +4784,7 @@
             <speaker>CRESSIDA.</speaker>
             <l>Guten Morgen denn!</l>
           </sp>
-          <pb n="73"/>
+          <pb n="74"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <l>Ich bitt' dich, nun zu Bett! –</l>
@@ -4875,7 +4879,7 @@
             </lg>
             <l>Ihr lächelt spöttisch, als meint' ich was Arges.</l>
           </sp>
-          <pb n="74"/>
+          <pb n="75"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <l>Ha, ha!</l>
@@ -4959,7 +4963,7 @@
             <speaker>TROILUS.</speaker>
             <l>Ist das beschlossen?</l>
           </sp>
-          <pb n="75"/>
+          <pb n="76"/>
           <sp who="#aeneas">
             <speaker>ÄNEAS.</speaker>
             <lg>
@@ -5047,7 +5051,7 @@
               <l>Nicht Freundschaft, Lieb' und Blut sind mir so nah</l>
               <l>Als du, herzliebster Troilus. O Götter,</l>
               <l>Laßt Cressida der Falschheit Gipfel heißen,</l>
-              <pb n="76"/>
+              <pb n="77"/>
               <l>Wenn sie dich je verläßt! Zeit, Not und Tod,</l>
               <l>Tut diesem Leben euer Äußerstes;</l>
               <l>Doch meiner Liebe starker Bau und Grund</l>
@@ -5109,7 +5113,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="77"/>
+        <pb n="78"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Garten.</stage>
@@ -5189,7 +5193,7 @@
             <speaker>CRESSIDA.</speaker>
             <l>Auch von Troilus?</l>
           </sp>
-          <pb n="78"/>
+          <pb n="79"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <l>Von Troja wie von Troilus!</l>
@@ -5270,7 +5274,7 @@
               <l>Denn selbst dem Tod werf' ich den Handschuh hin,</l>
               <l>Daß ohne Fleck und Makel sei dein Herz;</l>
               <l>Dies »Sei mir treu« war nur, um einzuleiten</l>
-              <pb n="79"/>
+              <pb n="80"/>
               <l>Die folgende Beteu'rung: Sei mir treu,</l>
               <l>Und bald seh' ich dich wieder.</l>
             </lg>
@@ -5361,7 +5365,7 @@
             <stage>draußen.</stage>
             <l>Auf, Bruder Troilus!</l>
           </sp>
-          <pb n="80"/>
+          <pb n="81"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <lg>
@@ -5427,7 +5431,7 @@
               <l>Laßt mir das Vorrecht meiner Sendung, daß</l>
               <l>Ich frei hier sprechen darf. Bin ich erst fort,</l>
               <l>Dann folg' ich meiner Willkür; und vernimm,</l>
-              <pb n="81"/>
+              <pb n="82"/>
               <l>Ich tu' nichts auf Geheiß: nach ihrem Wert</l>
               <l>Wird sie geschätzt; doch sprichst du: So soll's sein,</l>
               <l>Werd' ich nach Mut und Her' erwidern: Nein!</l>
@@ -5497,7 +5501,7 @@
               <l>Nun spreng' die Lung' und brich dein erznes Rohr:</l>
               <l>Blas', Kerl, bis deine aufgeschwellte Wange</l>
               <l>Noch straffer sei als Pausback Aquilo;</l>
-              <pb n="82"/>
+              <pb n="83"/>
               <l>Dehn' aus die Brust, dem Aug' entspritze Blut,</l>
               <l>Du schmetterst Hektorn mir heran!</l>
             </lg>
@@ -5612,7 +5616,7 @@
               <l>Drum keinen Kuß.</l>
             </lg>
           </sp>
-          <pb n="83"/>
+          <pb n="84"/>
           <sp who="#menelaus">
             <speaker>MENELAUS.</speaker>
             <l>;</l>
@@ -5714,7 +5718,7 @@
               <l>Heil, Griechenfürsten! Was wird dem zu Teil,</l>
               <l>Der obsiegt? Oder habt ihr nicht den Vorsatz,</l>
               <l>Daß <emph>einer</emph> Sieger sei? Sollen die Ritter</l>
-              <pb n="84"/>
+              <pb n="85"/>
               <l>Aus aller Kraft sich bis aufs äußerste</l>
               <l>Bekämpfen? Oder wird der Streit geschieden</l>
               <l>Durch irgend ein Gebot und Kampfgericht?</l>
@@ -5795,7 +5799,7 @@
               <l>Beredt in Tat und tatlos in der Rede;</l>
               <l>Nicht bald gereizt, doch dann nicht bald besänftig</l>
               <l>Sein Herz wie Hand gleich offen, beide frei:</l>
-              <pb n="85"/>
+              <pb n="86"/>
               <l>So gibt er, was er hat, spricht, was er denkt;</l>
               <l>Doch gibt er nur, lenkt Urteil seine Güte.</l>
               <l>Nie adelt er durch Wort unwürd'ges Denken;</l>
@@ -5862,7 +5866,7 @@
               <l>Dem nicht mein Schwert hätt' eingeprägt ein Mal</l>
               <l>Des bösen Streits. Doch hindern das die Götter,</l>
               <l>Daß nur ein Tropfen deines Mutterbluts,</l>
-              <pb n="86"/>
+              <pb n="87"/>
               <l>Geheiligt mir, von meinem Todesstahl</l>
               <l>Vergossen sei. Laß dich umarmen, Ajax!</l>
               <l>Bei dem, der donnert, du hast tücht'ge Arme!</l>
@@ -5951,7 +5955,7 @@
               <l>Formloser Schutt und Trümmer des Vergessens:</l>
               <l>Doch in der gegenwärt'gen Stund' entbeut</l>
               <l>Dir Treu' und Glaub' in frommster Lauterkeit,</l>
-              <pb n="87"/>
+              <pb n="88"/>
               <l>Abwendig aller schiefen Nebendeutung,</l>
               <l>O großer Mann, herzinnige Begrüßung.</l>
             </lg>
@@ -6038,7 +6042,7 @@
               <l>Wie er nun kämpft mit dir in Freundlichkeit!</l>
             </lg>
           </sp>
-          <pb n="88"/>
+          <pb n="89"/>
           <sp who="#hektor">
             <speaker>HEKTOR.</speaker>
             <l>Ich wünscht' es gleichfalls.</l>
@@ -6137,7 +6141,7 @@
             <speaker>HEKTOR.</speaker>
             <lg>
               <l>So wie ein Scherzbuch blätterst du mich durch?</l>
-              <pb n="89"/>
+              <pb n="90"/>
               <l>Doch mehr wohl liegt in mir, als du verstehst!</l>
               <l>Was will mich so dein Auge niederdrücken? –</l>
             </lg>
@@ -6217,7 +6221,7 @@
               <l>Vorerst, ihr griech'schen Herrn, kommt in mein Zelt,</l>
               <l>Dort woll'n wir Tafel halten; und hernach,</l>
               <l>Wie Hektors Muß' und eure Gastlichkeit</l>
-              <pb n="90"/>
+              <pb n="91"/>
               <l>Zusammentrifft, bewirtet ihn dann einzeln.</l>
               <l>Nun laßt die Pauken, laßt Trompeten schallen:</l>
               <l>Willkommen sei der Troerfürst uns allen!</l>
@@ -6270,7 +6274,7 @@
           </sp>
         </div>
       </div>
-      <pb n="91"/>
+      <pb n="92"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -6336,7 +6340,7 @@
             <p>Ei nun, seine männliche Hure. Mögen doch alle faulen Seuchen des Südwinds,
               Bauchgrimmen, Brüche, Flüsse, Stein- und Rückenschmerzen, Schlafsucht, Lähmung,
               (triefende Augen, verschleimte Lebern, pfeifende Lungen,) Eiterbeulen, Hüftweh,
-              verkalkte Finger, unheilbarer <pb n="92"/> Knochenfraß und das Ehrengeschenk der
+              verkalkte Finger, unheilbarer <pb n="93"/> Knochenfraß und das Ehrengeschenk der
               schäbigtsten Krätze fallen und nochmals fallen auf so widernatürliche Entdeckungen!
               –</p>
           </sp>
@@ -6391,7 +6395,7 @@
               Gehirn hat er nicht so viel als Ohrenschmalz. Und nun vollends diese unvergleichliche
               noble Metamorphose des Jupiter, sein Bruder, der Stier, – dieses uranfängliche
               Prototyp und Musterbild der Hahnreie, – dieses gedeihliche Schuhhorn an der Kette, das
-              an seines Bruders Schenkel hängt, – in welche andere Gestalt <pb n="93"/> als seine
+              an seines Bruders Schenkel hängt, – in welche andere Gestalt <pb n="94"/> als seine
               eigne könnte Bosheit mit Witz gespickt und Witz mit Bosheit gefüllt den umschaffen? In
               einen Esel? Das wäre nichts; er ist beides, Ochs und Esel. In einen Ochsen? Das wäre
               nichts; er ist beides, Esel und Ochs. Müßt' ich ein Hund sein, ein Maultier, ein
@@ -6473,7 +6477,7 @@
               <l>Verweilt mit Hektorn hier auf ein paar Stunden!</l>
             </lg>
           </sp>
-          <pb n="94"/>
+          <pb n="95"/>
           <sp who="#diomedes">
             <speaker>DIOMEDES.</speaker>
             <lg>
@@ -6553,7 +6557,7 @@
             <speaker>TROILUS.</speaker>
             <l>Was, Cressida, die zu ihm kommt?</l>
           </sp>
-          <pb n="95"/>
+          <pb n="96"/>
           <sp who="#diomedes">
             <speaker>DIOMEDES.</speaker>
             <l>Wie geht's, mein Mündel?</l>
@@ -6682,7 +6686,7 @@
               <l>Die Zeit todbringend; ich beschwör' Euch, kommt!</l>
             </lg>
           </sp>
-          <pb n="96"/>
+          <pb n="97"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <l>Seht nur, o seht!</l>
@@ -6803,7 +6807,7 @@
             </lg>
             <stage>Cressida kommt zurück.</stage>
           </sp>
-          <pb n="97"/>
+          <pb n="98"/>
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <l>Nun kommt das Pfand; jetzt, jetzt, jetzt! –</l>
@@ -6929,7 +6933,7 @@
               <l>Gefodert soll es werden.</l>
             </lg>
           </sp>
-          <pb n="98"/>
+          <pb n="99"/>
           <sp who="#cressida">
             <speaker>CRESSIDA.</speaker>
             <lg>
@@ -7039,7 +7043,7 @@
             <speaker>ULYSSES.</speaker>
             <l>Ja, gewiß, sie war's.</l>
           </sp>
-          <pb n="99"/>
+          <pb n="100"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <l>Nun, mein Verleugnen schmeckt doch nicht nach Tollheit?</l>
@@ -7112,7 +7116,7 @@
               <l>Das fühlen, was der Wahnsinn aus ihm spricht? –</l>
             </lg>
           </sp>
-          <pb n="100"/>
+          <pb n="101"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <lg>
@@ -7185,7 +7189,7 @@
             </p>
           </sp>
         </div>
-        <pb n="101"/>
+        <pb n="102"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Troja, im Palast. Hektor und Andromache treten auf.</stage>
@@ -7279,7 +7283,7 @@
             <stage>Troilus kommt.</stage>
             <l>Nun, junger Mann, denkst du zu fechten heut?</l>
           </sp>
-          <pb n="102"/>
+          <pb n="103"/>
           <sp who="#andromache">
             <speaker>ANDROMACHE.</speaker>
             <l>Kassandra, ruf den Vater, ihm zu raten!</l>
@@ -7372,7 +7376,7 @@
             <lg>
               <l>Leg' Hand an ihn, o Priam, halt' ihn fest:</l>
               <l>Es ist dein Stab; verlierst du deine Stütze, –</l>
-              <pb n="103"/>
+              <pb n="104"/>
               <l>Auf ihn gelehnt, und Trojas Volk auf dich,</l>
               <l>Sinkt alles hin mit eins.</l>
             </lg>
@@ -7463,7 +7467,7 @@
             <speaker>HEKTOR.</speaker>
             <lg>
               <l>Du staunst, o Herr, ob ihrem Weheruf!</l>
-              <pb n="104"/>
+              <pb n="105"/>
               <l>Geh, sprich dem Volk Mut ein, wir woll'n zur Schlacht</l>
               <l>Und tapfre Tat dir künden noch vor Nacht.</l>
             </lg>
@@ -7527,7 +7531,7 @@
             <p>Nun hämmern sie auf einander los, und ich will mir's ansehn. – Der heuchlerische,
               boshafte Bube Diomed hat jenes lumpigen, verliebten, dummen, trojanischen, jungen
               Gelbschnabels Ärmelkrause an seinen Helm gesteckt: ich wollte, sie gerieten an
-              einander, und daß unser junger <pb n="105"/> Esel aus Troja, der die Metze dort liebt,
+              einander, und daß unser junger <pb n="106"/> Esel aus Troja, der die Metze dort liebt,
               den schurkischen, griechischen Dirnenjäger mit seiner Krause zu der heuchlerischen,
               lüderlichen Hure zurückschickte und ihn einmal recht kraus auszackte. Und nun auf der
               andern Seite, die Staatsweisheit dieser ränkevollen, hochbeteuernden Schurken, – des
@@ -7588,7 +7592,7 @@
             <stage>Er geht ab.</stage>
           </sp>
         </div>
-        <pb n="106"/>
+        <pb n="107"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Ebendaselbst. Diomed und ein Diener treten auf.</stage>
@@ -7647,7 +7651,7 @@
             </lg>
             <stage>Ulysses tritt auf.</stage>
           </sp>
-          <pb n="107"/>
+          <pb n="108"/>
           <sp who="#ulysses">
             <speaker>ULYSSES.</speaker>
             <lg>
@@ -7722,7 +7726,7 @@
             </lg>
             <stage>Troilus kommt.</stage>
           </sp>
-          <pb n="108"/>
+          <pb n="109"/>
           <sp who="#troilus">
             <speaker>TROILUS.</speaker>
             <lg>
@@ -7808,7 +7812,7 @@
             <stage>Geht ab.</stage>
           </sp>
         </div>
-        <pb n="109"/>
+        <pb n="110"/>
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Ebendaselbst.</stage>
@@ -7866,7 +7870,7 @@
             </p>
           </sp>
         </div>
-        <pb n="110"/>
+        <pb n="111"/>
         <div type="scene">
           <head>Neunte Szene</head>
           <stage>Ebendaselbst.</stage>
@@ -7928,7 +7932,7 @@
             <stage>Sie gehn ab. Es wird zum Rückzug geblasen.</stage>
           </sp>
         </div>
-        <pb n="111"/>
+        <pb n="112"/>
         <div type="scene">
           <head>Zehnte Szene</head>
           <stage>Ebendaselbst.</stage>
@@ -8009,7 +8013,7 @@
               <l>Ihr faßt nicht meinen Sinn, wenn Ihr so sprecht.</l>
               <l>Ich rede nicht von Furcht, von Flucht, noch Tod;</l>
               <l>Trotz biet' ich allem Grau'n, womit die Götter</l>
-              <pb n="112"/>
+              <pb n="113"/>
               <l>Und Menschen noch bedrohn. – Hektor dahin! –</l>
               <l>Wer sagt es Priam? Wer der Hekuba?</l>
               <l>Wer hat den Mut, als nächt'ge Eule krächzend,</l>
@@ -8059,7 +8063,7 @@
             </lg>
             <p>Ihr, die ihr euch des schwachen Fleisches annehmt, setzt dies in eure gemalten
               Tapeten:</p>
-            <pb n="113"/>
+            <pb n="114"/>
             <lg>
               <l>So viel hier von der Zunft des Pandar sind,</l>
               <l>Halb blind schon, weint bei seinem Fall euch blind;</l>

@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="381"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -97,7 +98,7 @@
         <castItem>Bellarius, ein verbannter Lord, unter dem Namen Morgan</castItem>
         <castGroup>
           <castItem>Guiderius</castItem>
-          <castItem>Arviragus,</castItem>
+          <castItem>Arviragus</castItem>
           <roleDesc>Cymbelines Söhne, unter den Namen Polydor und Cadwall; für Bellarius' Söhne
             gehalten</roleDesc>
         </castGroup>
@@ -120,7 +121,7 @@
         <p>Szene: abwechselnd in Britannien und Rom</p>
       </set>
     </front>
-    <pb n="382"/>
+    <pb n="383"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -181,7 +182,7 @@
               <l>Daß, wenn man auch den Erdkreis rings durchsuchte</l>
               <l>Nach einem, so wie er, stets blieb' ein Mangel</l>
               <l>Dem, der sich ihm vergleicht: denn ich vermeine,</l>
-              <pb n="383"/>
+              <pb n="384"/>
               <l>Mit so viel innerm Wert und äußrer Schönheit</l>
               <l>Sei niemand sonst begabt.</l>
             </lg>
@@ -243,7 +244,7 @@
               <l>Ist sie des Königs einz'ges Kind?</l>
             </lg>
           </sp>
-          <pb n="384"/>
+          <pb n="385"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
@@ -323,7 +324,7 @@
             <lg>
               <l>Wohl kennt ihr die Gefahr –</l>
               <l>Nur durch den Garten geh' ich, denn mich jammert</l>
-              <pb n="385"/>
+              <pb n="386"/>
               <l>Die Qual gehemmter Lieb'; obwohl der König</l>
               <l>Befahl, ihr sollt nicht mit einander sprechen.</l>
             </lg>
@@ -394,7 +395,7 @@
               <l>Ist Imogen gestorben.</l>
             </lg>
           </sp>
-          <pb n="386"/>
+          <pb n="387"/>
           <sp who="#posthumus">
             <speaker>POSTHUMUS.</speaker>
             <lg>
@@ -488,7 +489,7 @@
               <l>Und jagt' den Raben fort.</l>
             </lg>
           </sp>
-          <pb n="387"/>
+          <pb n="388"/>
           <sp who="#cymbeline">
             <speaker>CYMBELINE.</speaker>
             <lg>
@@ -582,7 +583,7 @@
               <l>Sie ein'ge Herren in der Näh'.</l>
             </lg>
           </sp>
-          <pb n="388"/>
+          <pb n="389"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Das freut mich.</l>
@@ -655,7 +656,7 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ihn verwundet? Sein Körper ist ein durchdringliches Beingerippe, wenn er nicht
-              verwundet <pb n="389"/> ist – er ist eine Durchfahrt für Stahl, wenn er nicht
+              verwundet <pb n="390"/> ist – er ist eine Durchfahrt für Stahl, wenn er nicht
               verwundet ist.</p>
           </sp>
           <sp who="#zweiter_edelmanm">
@@ -740,7 +741,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="390"/>
+        <pb n="391"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Zimmer im Palast. Imogen und Pisanio tretenauf.</stage>
@@ -821,7 +822,7 @@
               <l>Gedenken dies und das; und schwören sollt' er,</l>
               <l>Italiens Liebchen möchten nicht verlocken</l>
               <l>Mein Recht und seine Her'; ich wollt' ihn nöt'gen,</l>
-              <pb n="391"/>
+              <pb n="392"/>
               <l>Um sechs Uhr morgens, Mitternacht und Mittag</l>
               <l>Mir betend zu begegnen, weil ich dann</l>
               <l>Für ihn im Himmel bin; ich wollt' ihm geben</l>
@@ -878,7 +879,7 @@
               als nach seinem eigenen Werte gewogen werden muß), ist gewiß ein Hauptgrund, daß man
               ihn weit über die Wahrheit hinaus preist.</p>
           </sp>
-          <pb n="392"/>
+          <pb n="393"/>
           <sp who="#franzose">
             <speaker>FRANZOSE.</speaker>
             <p>Und dann seine Verbannung: –</p>
@@ -930,7 +931,7 @@
           <sp who="#franzose">
             <speaker>FRANZOSE.</speaker>
             <p>Wahrhaftig doch zu unbedeutend, um der Entscheidung der Waffen unterworfen zu werden;
-              und von zwei <pb n="393"/> solchen Männern, wo, höchst wahrscheinlich, einer vom
+              und von zwei <pb n="394"/> solchen Männern, wo, höchst wahrscheinlich, einer vom
               andern vernichtet oder beide gefallen wären.</p>
           </sp>
           <sp who="#jachimo">
@@ -993,7 +994,7 @@
           </sp>
           <sp who="#posthumus">
             <speaker>POSTHUMUS.</speaker>
-            <p>Ihr seid im Irrtum; das eine mag verkauft oder <pb n="394"/> verschenkt werden, wenn
+            <p>Ihr seid im Irrtum; das eine mag verkauft oder <pb n="395"/> verschenkt werden, wenn
               Reichtum genug für die Zahlung, oder Verdienst genug für die Gabe da wäre; das andere
               ist nicht feil, und nur einzig Gabe der Götter.</p>
           </sp>
@@ -1055,7 +1056,7 @@
             <speaker>JACHIMO.</speaker>
             <p>Und das wäre?</p>
           </sp>
-          <pb n="395"/>
+          <pb n="396"/>
           <sp who="#posthumus">
             <speaker>POSTHUMUS.</speaker>
             <p>Eine Abweisung; obwohl Euer Versuch, wie Ihr es nennt, mehr verdient: Züchtigung
@@ -1118,7 +1119,7 @@
             <p>Bei den Göttern, sie ist es; – wenn ich Euch nicht hinlängliche Beweise bringe, daß
               ich das teuerste Kleinod Eurer Geliebten genoß, so sind meine zehntausend Dukaten
               Euer, und Euer Diamant dazu. Wenn ich abgewiesen werde, und sie die Ehre bewahrt, auf
-              welche Ihr so fest vertraut, <pb n="396"/> so ist sie, Euer Juwel, dies Euer Juwel und
+              welche Ihr so fest vertraut, <pb n="397"/> so ist sie, Euer Juwel, dies Euer Juwel und
               mein Gold Euer, – doch, wie bedungen, ich habe Eure Empfehlung, um ungehinderten
               Zutritt zu bekommen.</p>
           </sp>
@@ -1178,7 +1179,7 @@
             <stage>ihr ein Fläschchen reichend.</stage>
             <lg>
               <l>Wie Eure Hoheit mir befahl, hier sind sie.</l>
-              <pb n="397"/>
+              <pb n="398"/>
               <l>Doch ich ersuch' Eu'r Gnaden (zürnt mir nicht,</l>
               <l>Denn mein Gewissen dringt auf diese Frage):</l>
               <l>Weshalb verlangtet Ihr die gift'gen Mittel,</l>
@@ -1251,7 +1252,7 @@
               <l>Ein zehrend Gift: doch kenn' ich ihren Sinn,</l>
               <l>Und würde keinem, der ihr gleicht an Tücke,</l>
               <l>So höll'schen Trank vertraun; das, was sie hat,</l>
-              <pb n="398"/>
+              <pb n="399"/>
               <l>Betäubt und stumpft den Sinn auf kurze Zeit.</l>
               <l>Vielleicht versucht sie's erst an Hunden, Katzen,</l>
               <l>Dann immer höher auf; doch in dem Schein</l>
@@ -1305,7 +1306,7 @@
               <l>Wie ihre Sache steht, tu's wie von selbst.</l>
               <l>Bedenk', wie sich dein Glücksstand ändert; denk' nur,</l>
               <l>Die Fürstin bleibt dir, meinen Sohn gewinnst du,</l>
-              <pb n="399"/>
+              <pb n="400"/>
               <l>Der dich auszeichnen wird; den König stimm' ich</l>
               <l>Zu jeder Art Beförd'rung, wie du nur</l>
               <l>Sie wünschen magst; zumeist bin ich verpflichtet,</l>
@@ -1355,7 +1356,7 @@
               <l>Um seinetwillen! – Wär' ich auch geraubt,</l>
               <l>Wie meine Brüder, wohl mir! Doch höchst elend</l>
               <l>Ist Sehnsucht auf dem Thron: gesegnet, wem,</l>
-              <pb n="400"/>
+              <pb n="401"/>
               <l>Wie niedrig auch, ehrbarer Wunsch erfüllt wird,</l>
               <l>Durch Freud' erheitert! – Wer denn quält mich wieder?</l>
             </lg>
@@ -1434,7 +1435,7 @@
             <speaker>JACHIMO.</speaker>
             <lg>
               <l>Im Auge kann's nicht sein; denn Aff und Pavian</l>
-              <pb n="401"/>
+              <pb n="402"/>
               <l>Wird, bei zwei solchen Weibchen, dahin plappern,</l>
               <l>Und der Gesichter ziehn; auch nicht im Urteil:</l>
               <l>Der Blödsinn wird als weiser Richter Schönheit</l>
@@ -1521,7 +1522,7 @@
               <l>Nach sichrer Knechtschaft.«</l>
             </lg>
           </sp>
-          <pb n="402"/>
+          <pb n="403"/>
           <sp who="#imogen">
             <speaker>IMOGEN.</speaker>
             <l>So spricht mein Gemahl?</l>
@@ -1610,7 +1611,7 @@
               <l>Die, nur berührt, des Fühlers Seele zwingt</l>
               <l>Zum Eid der Treu'; dies Angesicht, das fesselt</l>
               <l>Das wilde Schweifen meines Auges, einzig</l>
-              <pb n="403"/>
+              <pb n="404"/>
               <l>Es hier entzündend: würd' ich geifern dann</l>
               <l>Mit Lippen (Schmach!) gemein, so wie die Stufen</l>
               <l>Zum Kapitol; und Hände drücken, hart</l>
@@ -1677,7 +1678,7 @@
               <l>Indes er frevelt in den frechsten Lüsten,</l>
               <l>Zur Kränkung Euch, von Eurem Golde? Rächt es!</l>
               <l>Ich weihe selbst mich Euren süßen Freuden,</l>
-              <pb n="404"/>
+              <pb n="405"/>
               <l>Weit edler als der Flüchtling Eures Lagers;</l>
               <l>Und werde fest an Eurer Liebe halten,</l>
               <l>So sicher wie geheim.</l>
@@ -1740,7 +1741,7 @@
               <l>Die Huld'gung, die ihm wird, hebt ihn empor</l>
               <l>Vor allen Sterblichen. Seid nicht erzürnt,</l>
               <l>Erhabne Fürstin, daß ich es gewagt,</l>
-              <pb n="405"/>
+              <pb n="406"/>
               <l>Durch Lüge Euch zu prüfen: Eure Weisheit</l>
               <l>Hat durch den festen Sinn sich neu bewährt,</l>
               <l>Wie in der Wahl des einzig edeln Mannes,</l>
@@ -1822,7 +1823,7 @@
               <l>Doch morgen reist Ihr nicht.</l>
             </lg>
           </sp>
-          <pb n="406"/>
+          <pb n="407"/>
           <sp who="#jachimo">
             <speaker>JACHIMO.</speaker>
             <lg>
@@ -1844,7 +1845,7 @@
           </sp>
         </div>
       </div>
-      <pb n="407"/>
+      <pb n="408"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1898,7 +1899,7 @@
             <stage>für sich.</stage>
             <p>Und doch ist Euch die Dummheit angetraut.</p>
           </sp>
-          <pb n="408"/>
+          <pb n="409"/>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
             <p>Was sagst du?</p>
@@ -1982,7 +1983,7 @@
               <l>Kann, für sein Leben, nicht von zwanzig zwei</l>
               <l>Abziehn, daß achtzehn bleiben. Arme Fürstin,</l>
               <l>O edle Imogen, was mußt du dulden!</l>
-              <pb n="409"/>
+              <pb n="410"/>
               <l>Der Vater hier, den die Stiefmutter lenkt;</l>
               <l>Die Mutter dort, die stündlich Ränke spinnt;</l>
               <l>Ein Freier, hassenswürd'ger als der Bann</l>
@@ -2043,7 +2044,7 @@
               <l>Und weißer als das Linnen! Dürft' ich rühren!</l>
               <l>Nur küssen; <emph>einen</emph> Kuß! – Rubinen, himmlisch,</l>
               <l>Wie zart sie schließen! – Ihre Atemzüge</l>
-              <pb n="410"/>
+              <pb n="411"/>
               <l>Durchwürzen so den Raum. Das Licht der Kerze</l>
               <l>Beugt sich ihr zu und möchte lauschen unter</l>
               <l>Das Augenlid, zu sehn verhüllte Sterne,</l>
@@ -2087,7 +2088,7 @@
             <stage>Er geht wieder in die Kiste.</stage>
           </sp>
         </div>
-        <pb n="411"/>
+        <pb n="412"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Vor Imogens Gemach.</stage>
@@ -2138,7 +2139,7 @@
             <l>Drum, holdes Kind, steh auf;</l>
             <l>Steh auf, steh auf!</l>
           </sp>
-          <pb n="412"/>
+          <pb n="413"/>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
             <p>So, nun fort; wenn dies durchdringt, werde ich eure Musik um so besser beachten: wo
@@ -2207,7 +2208,7 @@
               <l>Ein wackrer Mann,</l>
               <l>Kommt er auch jetzt auf bösen Anlaß; doch</l>
               <l>Nicht schuld ist er. Wir müssen ihn empfangen,</l>
-              <pb n="413"/>
+              <pb n="414"/>
               <l>Gemäß der Ehre dessen, der ihn sendet;</l>
               <l>Und daß er einst uns Freundesdienste tat,</l>
               <l>Sei frisch in der Erinn'rung! – Teurer Sohn,</l>
@@ -2284,7 +2285,7 @@
             </lg>
             <stage>Imogen tritt auf.</stage>
           </sp>
-          <pb n="414"/>
+          <pb n="415"/>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
             <l>Guten Morgen, schönste Schwester – Eure Hand!</l>
@@ -2366,7 +2367,7 @@
               <l>Und wenn man niedern Ständen auch vergönnt</l>
               <l>(Doch wer ist niedriger?), ihr Herz zu binden</l>
               <l>(Bei ihnen wird nichts mehr erzielt als Bälge</l>
-              <pb n="415"/>
+              <pb n="416"/>
               <l>Und Bettelpack) in selbstgeschürzten Knoten,</l>
               <l>Hält Euch vor solchem Unfug doch gezügelt</l>
               <l>Das Anrecht auf den Thron; des Kostbarkeit</l>
@@ -2439,7 +2440,7 @@
             <l>Das hoff' ich: geh und such'!</l>
             <stage>Pisanio geht ab.</stage>
           </sp>
-          <pb n="416"/>
+          <pb n="417"/>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
             <l>Ihr habt mich schwer gekränkt – sein schlechtstes Kleid?</l>
@@ -2522,7 +2523,7 @@
               <l>(Bin ich kein Staatsmann gleich und werd' es nie),</l>
               <l>Dies bringt uns Krieg; und Ihr vernehmt wohl eher,</l>
               <l>Daß Eure gallischen Legionen landen</l>
-              <pb n="417"/>
+              <pb n="418"/>
               <l>In unserm unerschrocknen Vaterland,</l>
               <l>Als daß man einen Deut zahlt. Kriegsgeübter</l>
               <l>Ist unser Volk, als einst, da Julius Cäsar,</l>
@@ -2620,7 +2621,7 @@
             <speaker>POSTHUMUS.</speaker>
             <l>Zu schwer ist es, dem Steine beizukommen.</l>
           </sp>
-          <pb n="418"/>
+          <pb n="419"/>
           <sp who="#jachimo">
             <speaker>JACHIMO.</speaker>
             <l>Nicht, da sich Eure Frau so leicht erfand.</l>
@@ -2700,7 +2701,7 @@
               <l>Muß den Beweis verstärken.</l>
             </lg>
           </sp>
-          <pb n="419"/>
+          <pb n="420"/>
           <sp who="#posthumus">
             <speaker>POSTHUMUS.</speaker>
             <lg>
@@ -2786,7 +2787,7 @@
             <speaker>JACHIMO.</speaker>
             <l>Schreibt sie so? Seht nach!</l>
           </sp>
-          <pb n="420"/>
+          <pb n="421"/>
           <sp who="#posthumus">
             <speaker>POSTHUMUS.</speaker>
             <l>Oh, nein, nein, nein; 's ist wahr. Hier, nehmt das auch;</l>
@@ -2860,7 +2861,7 @@
               <l>Noch stärkre Proben: unter ihrer Brust</l>
               <l>(So wert des Druckes) ist ein Mal, recht stolz</l>
               <l>Auf diesen süßen Platz. Bei meinem Leben,</l>
-              <pb n="421"/>
+              <pb n="422"/>
               <l>Ich küßt' es, und es gab mir neuen Hunger</l>
               <l>Zu frischem Mahl, nach dem Genuß. Erinnert</l>
               <l>Ihr Euch des Mals?</l>
@@ -2940,7 +2941,7 @@
               <l>Als falsches Goldstück mich. Doch meine Mutter</l>
               <l>Galt für die Diana ihrer Zeit: so steht</l>
               <l>Mein Weib in dieser gleichlos. – Rache, Rache!</l>
-              <pb n="422"/>
+              <pb n="423"/>
               <l>Rechtmäß'ges Glück verweigerte sie mir,</l>
               <l>Und bat mich oft um Mäß'gung; tat es mit</l>
               <l>So ros'ger Sittsamkeit: dies süße Bild</l>
@@ -2973,7 +2974,7 @@
           </sp>
         </div>
       </div>
-      <pb n="423"/>
+      <pb n="424"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3026,7 +3027,7 @@
               <l>Sie steht, ein Park Neptuns, umpfählt, verzäunt</l>
               <l>Mit unersteigbar'n Felsen, brüll'nden Fluten,</l>
               <l>Sandbänken, die kein feindlich Fahrzeug tragen,</l>
-              <pb n="424"/>
+              <pb n="425"/>
               <l>Nein, es verschlucken bis zum Wimpel.</l>
               <l>Wohl ward hier Cäsarn eine Art Erob'rung;</l>
               <l>Doch ward ihm hier sein Prahlen nicht erfüllt,</l>
@@ -3075,7 +3076,7 @@
               <l>Mulmutius, unser Ahnherr, war's, der unser</l>
               <l>Gesetz uns schuf (des Kraft der Degen Cäsars</l>
               <l>Zu sehr verstümmelt hat; es herzustellen</l>
-              <pb n="425"/>
+              <pb n="426"/>
               <l>Und zu befrein durch uns verliehne Macht,</l>
               <l>Sei unsre Tugend, wenn auch Rom drum zürnt!);</l>
               <l>Mulmutius schuf unser Gesetz, der erste</l>
@@ -3132,7 +3133,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="426"/>
+        <pb n="427"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein anderes Zimmer im Palast.</stage>
@@ -3188,7 +3189,7 @@
               <l>Ihm wär' die Zukunft klar. – Ihr güt'gen Götter,</l>
               <l>Laßt, was dies Blatt enthält, von Liebe sprechen,</l>
               <l>Vom Wohlsein, der Zufriedenheit des Gatten, –</l>
-              <pb n="427"/>
+              <pb n="428"/>
               <l>Doch nicht mit unsrer Trennung, nein, die schmerz' ihn;</l>
               <l>Denn mancher Schmerz ist heilsam: so ist dieser,</l>
               <l>Er stärkt die Liebe; – drum Zufriedenheit,</l>
@@ -3229,7 +3230,7 @@
               <l>Warum vor dem Erzeugen schon gebären</l>
               <l>Entschuldigung? Das sprechen wir nachher.</l>
               <l>O bitte, sprich,</l>
-              <pb n="428"/>
+              <pb n="429"/>
               <l>Wie vielmal zwanzig Meilen reiten wir</l>
               <l>In einer Stunde?</l>
             </lg>
@@ -3301,7 +3302,7 @@
             <speaker>BELLARIUS.</speaker>
             <lg>
               <l>Nun an die Bergjagd: ihr zum Hügel auf,</l>
-              <pb n="429"/>
+              <pb n="430"/>
               <l>Jung ist eu'r Fuß; ich bleib' im Tal. Betrachtet,</l>
               <l>Wenn ihr von dort mich klein als Krähe seht,</l>
               <l>Daß nur der Platz verkleinert und vergrößert:</l>
@@ -3352,7 +3353,7 @@
               <l>Mit Freimut unsre Knechtschaft zu besingen.</l>
             </lg>
           </sp>
-          <pb n="430"/>
+          <pb n="431"/>
           <sp who="#bellarius">
             <speaker>BELLARIUS.</speaker>
             <lg>
@@ -3401,7 +3402,7 @@
               <l>Ein Wild erlegt, der sei der Herr des Festes;</l>
               <l>Die beiden andern sollen ihn bedienen,</l>
               <l>Und wir besorgen nichts von Gift, das lauert</l>
-              <pb n="431"/>
+              <pb n="432"/>
               <l>In glanzvoll prächt'gen Räumen. Hier im Tal</l>
               <l>Treff' ich euch wieder.</l>
             </lg>
@@ -3441,7 +3442,7 @@
             <stage>Er geht ab.</stage>
           </sp>
         </div>
-        <pb n="432"/>
+        <pb n="433"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>In der Nähe von Milford Hafen. Imogen und Pisanio treten auf.</stage>
@@ -3492,7 +3493,7 @@
             <speaker>PISANIO.</speaker>
             <lg>
               <l>Was brauch' ich noch mein Schwert zu ziehn? Der Brief</l>
-              <pb n="433"/>
+              <pb n="434"/>
               <l>Durchstach ihr schon das Herz. – Nein, 's ist Verleumdung,</l>
               <l>Sie schneidet schärfer als das Schwert; ihr Mund</l>
               <l>Vergiftet mehr als alles Nilgewürm:</l>
@@ -3552,7 +3553,7 @@
               <l>Edel und ritterlich scheint falsch, meineidig,</l>
               <l>Seit deinem großen Fall. – Komm, sei du redlich,</l>
               <l>Tu' deines Herrn Geheiß: wenn du ihn siehst,</l>
-              <pb n="434"/>
+              <pb n="435"/>
               <l>Meinen Gehorsam rühm' ein wenig! Sieh!</l>
               <l>Ich ziehe selbst das Schwert: nimm es, und triff</l>
               <l>Der Liebe schuldlos Wohnhaus, dieses Herz!</l>
@@ -3611,7 +3612,7 @@
             <speaker>IMOGEN.</speaker>
             <l>So tu's, und dann zu Bett!</l>
           </sp>
-          <pb n="435"/>
+          <pb n="436"/>
           <sp who="#pisanio">
             <speaker>PISANIO.</speaker>
             <lg>
@@ -3693,7 +3694,7 @@
             <lg>
               <l>Doch was, du Treuer,</l>
               <l>Tu' ich indes? Wo berg' ich mich? Wie leb' ich?</l>
-              <pb n="436"/>
+              <pb n="437"/>
               <l>Und was für Trost im Leben, bin ich tot</l>
               <l>Für meinen Mann?</l>
             </lg>
@@ -3765,7 +3766,7 @@
               <l>Gewandt im Spotten, trotzig, schnell von Zunge,</l>
               <l>Und zänkisch wie das Wiesel: ja, Ihr müßt</l>
               <l>Vergessen diese Kleinod' Eurer Wangen,</l>
-              <pb n="437"/>
+              <pb n="438"/>
               <l>Und sie (o hartes Herz! Doch muß es sein)</l>
               <l>Der gierigen Berührung Titans bieten,</l>
               <l>Der alles küßt; vergessen Eure schmucken,</l>
@@ -3830,7 +3831,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="438"/>
+        <pb n="439"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>In Cymbelines Palast.</stage>
@@ -3924,7 +3925,7 @@
               <l>Nach unserm Land.</l>
             </lg>
           </sp>
-          <pb n="439"/>
+          <pb n="440"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
@@ -4006,7 +4007,7 @@
               <l>Sah ich zwei Tage nicht.</l>
             </lg>
           </sp>
-          <pb n="440"/>
+          <pb n="441"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Geh, forsche nach! –</l>
@@ -4062,7 +4063,7 @@
               <l>Wer ist das? Was!</l>
               <l>Kabalen machst du, Kerl? Hieher gekommen!</l>
               <l>Kostbarer Kuppler du! Spitzbube, wo</l>
-              <pb n="441"/>
+              <pb n="442"/>
               <l>Ist deine Fürstin? Schnell, sonst schick' ich dich</l>
               <l>Zu allen Teufeln hin.</l>
             </lg>
@@ -4161,7 +4162,7 @@
               und mir treu dienen, die Geschäfte besorgen, zu denen ich Gelegenheit hätte, dich zu
               brauchen, mit einem wahren Eifer – das heißt, jede Schurkerei, die ich dir zu tun
               befehle, ausführen, geradezu und gewissenhaft, – so würde ich dich für einen ehrlichen
-                <pb n="442"/> Mann halten: da solltest du auf meine ganze Hülfe zu deinem Besten
+                <pb n="443"/> Mann halten: da solltest du auf meine ganze Hülfe zu deinem Besten
               rechnen können, und auf meine Stimme zu deiner Beförderung.</p>
           </sp>
           <sp who="#pisanio">
@@ -4215,7 +4216,7 @@
             <stage>Pisanio kommt mit den Kleidern.</stage>
             <l>Sind das die Kleider?</l>
           </sp>
-          <pb n="443"/>
+          <pb n="444"/>
           <sp who="#pisanio">
             <speaker>PISANIO.</speaker>
             <p>Ja, mein edler Herr.</p>
@@ -4273,7 +4274,7 @@
               <l>Als Lüg' aus Not; und Falschheit zeigt sich böser</l>
               <l>Im Kön'ge als im Bettler. – Teurer Gatte!</l>
               <l>Du bist der Falschen einer: dein gedenkend,</l>
-              <pb n="444"/>
+              <pb n="445"/>
               <l>Vergeht der Hunger; eben wollt' ich noch</l>
               <l>Verschmachtend niedersinken. – Was ist das?</l>
               <l>Es führt ein Pfad hinein: welch Haus der Wildnis?</l>
@@ -4342,7 +4343,7 @@
             </lg>
             <stage>Imogen kommt aus der Höhle.</stage>
           </sp>
-          <pb n="445"/>
+          <pb n="446"/>
           <sp who="#imogen">
             <speaker>IMOGEN.</speaker>
             <lg>
@@ -4432,7 +4433,7 @@
               <l>Ja, zu Freunden!</l>
               <stage>Für sich.</stage>
               <l>Warum nicht Brüder? – Wär's doch so, dann hießen</l>
-              <pb n="446"/>
+              <pb n="447"/>
               <l>Sie meines Vaters Söhn', ich sänk' im Preis,</l>
               <l>Und wöge gleich mit dir, mein Posthumus!</l>
             </lg>
@@ -4512,7 +4513,7 @@
               <l>Dies ist der Inhalt von des Kaisers Schreiben:</l>
               <l>Weil die Gemeinen jetzt im Felde stehn,</l>
               <l>Pannonien und Dalmatien zu bekämpfen,</l>
-              <pb n="447"/>
+              <pb n="448"/>
               <l>Und die Legionen, die in Gallien liegen,</l>
               <l>Zu schwach sind, um den Krieg zu führen gegen</l>
               <l>Die abgefallnen Briten, wird der Adel</l>
@@ -4551,7 +4552,7 @@
           </sp>
         </div>
       </div>
-      <pb n="448"/>
+      <pb n="449"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4581,7 +4582,7 @@
             </p>
           </sp>
         </div>
-        <pb n="449"/>
+        <pb n="450"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Vor der Höhle.</stage>
@@ -4662,7 +4663,7 @@
               <l>Es ist des Morgens neunte Stunde.</l>
             </lg>
           </sp>
-          <pb n="450"/>
+          <pb n="451"/>
           <sp who="#arviragus">
             <speaker>ARVIRAGUS.</speaker>
             <lg>
@@ -4761,7 +4762,7 @@
               <l>Mit Sturm zu mischen, den der Seemann schilt.</l>
             </lg>
           </sp>
-          <pb n="451"/>
+          <pb n="452"/>
           <sp who="#guiderius">
             <speaker>GUIDERIUS.</speaker>
             <lg>
@@ -4856,7 +4857,7 @@
               <l>Dich macht.</l>
             </lg>
           </sp>
-          <pb n="452"/>
+          <pb n="453"/>
           <sp who="#cloten">
             <speaker>CLOTEN.</speaker>
             <lg>
@@ -4958,7 +4959,7 @@
               <l>Gewiß, es ist Cloten.</l>
             </lg>
           </sp>
-          <pb n="453"/>
+          <pb n="454"/>
           <sp who="#arviragus">
             <speaker>ARVIRAGUS.</speaker>
             <lg>
@@ -5032,7 +5033,7 @@
               <l>Vom Schlechten nur zum Schlimmern, konnte doch</l>
               <l>Verrücktheit, Aberwitz so rasen nicht,</l>
               <l>Allein hieher zu kommen. Möglich wohl,</l>
-              <pb n="454"/>
+              <pb n="455"/>
               <l>Wie man am Hof gehört, daß unsers Gleichen,</l>
               <l>Felswohner jagen hier, als vogelfrei,</l>
               <l>Und mit der Zeit zur Bande werden könnten:</l>
@@ -5107,7 +5108,7 @@
             <lg>
               <l>Du armer, kranker Knabe!</l>
               <l>Gern geh' ich hin. Die Wangen ihm zu röten,</l>
-              <pb n="455"/>
+              <pb n="456"/>
               <l>Ließ' ich ein ganzes Dorf voll Clotens bluten,</l>
               <l>Und rühmte mich der Menschlichkeit.</l>
             </lg>
@@ -5172,7 +5173,7 @@
             </lg>
             <stage>Arviragus tritt auf und trägt Imogen wie tot in seinen Armen.</stage>
           </sp>
-          <pb n="456"/>
+          <pb n="457"/>
           <sp who="#bellarius">
             <speaker>BELLARIUS.</speaker>
             <lg>
@@ -5251,7 +5252,7 @@
               <l>Die Hyazinthe, blau wie deine Adern;</l>
               <l>Noch Rosenblätter, die, um sie zu preisen,</l>
               <l>Süß wie dein Atem sind. Rotkehlchen werden</l>
-              <pb n="457"/>
+              <pb n="458"/>
               <l>Mit frommen Schnabel alles dies dir bringen</l>
               <l>(O Schande jenem reich gewordnen Erben,</l>
               <l>Der ohne Denkmal läßt des Vaters Grab!);</l>
@@ -5330,7 +5331,7 @@
             </lg>
             <stage>Bellarius geht ab.</stage>
           </sp>
-          <pb n="458"/>
+          <pb n="459"/>
           <sp who="#guiderius">
             <speaker>GUIDERIUS.</speaker>
             <lg>
@@ -5432,7 +5433,7 @@
               <l>Sind bester Schmuck für Gräber. – Auf ihr Antlitz –</l>
               <l>Ihr wart wie Blumen, jetzt verwelkt, wie diese,</l>
               <l>Welkt dieses Kraut auch, jetzt entpflückt der Wiese. –</l>
-              <pb n="459"/>
+              <pb n="460"/>
               <l>Kommt nun, und fern dort werft euch auf die Knie!</l>
               <l>Die Erde, die sie gab, nahm sie zurück:</l>
               <l>Hier ist ihr Leid geendet wie ihr Glück.</l>
@@ -5476,7 +5477,7 @@
               <l>Erschlugst hier meinen Mann! – Sei Schreiben, Lesen</l>
               <l>Verrat hinfort! – Du höllischer Pisanio!</l>
               <l>Mit falschen Briefen – höllischer Pisanio!</l>
-              <pb n="460"/>
+              <pb n="461"/>
               <l>Schlugst du vom schönsten Fahrzeug in der Welt</l>
               <l>Den Hauptmast ab! – O Posthumus! Weh mir!</l>
               <l>Wo ist dein Haupt? Wo ist es? Ach! Wo ist es?</l>
@@ -5542,7 +5543,7 @@
               <l>Roms Aar, der Vogel Jupiters, entschwebte</l>
               <l>Vom feuchten Süd zu diesem Teil des West,</l>
               <l>Wo er im Sonnenlicht verschwand: dies deutet,</l>
-              <pb n="461"/>
+              <pb n="462"/>
               <l>Ist nicht durch Sündlichkeit mein Schaun getrübt,</l>
               <l>Den röm 'schen Waffen Glück.</l>
             </lg>
@@ -5622,7 +5623,7 @@
               <l>Als solchen hast du wahrlich dich bewährt,</l>
               <l>So treu gesinnt bist du des Namens wert.</l>
               <l>Willst du's mit mir versuchen? Find'st du gleich</l>
-              <pb n="462"/>
+              <pb n="463"/>
               <l>So guten Herrn nicht mehr, doch sicher einen,</l>
               <l>Der dich nicht minder liebt. Ein Brief des Kaisers,</l>
               <l>Mir vom Senat gesandt, empföhle dich</l>
@@ -5675,7 +5676,7 @@
               <l>So unentbehrlich jetzt: es trifft mich schwer</l>
               <l>Und hoffnungslos. – Doch du, Gesell, der sicher</l>
               <l>Um ihre Flucht gewußt, und jetzt dich stellst</l>
-              <pb n="463"/>
+              <pb n="464"/>
               <l>Wie einer, der nichts weiß, dir wird's erpreßt</l>
               <l>Durch Folterqual.</l>
             </lg>
@@ -5753,7 +5754,7 @@
               <l>Auch hör' ich nichts von ihr, die doch mir Nachricht</l>
               <l>Versprach zu geben; kann auch nicht erfahren,</l>
               <l>Was aus Cloten geworden: alles dies</l>
-              <pb n="464"/>
+              <pb n="465"/>
               <l>Macht mich verwirrt. Die Götter mögen helfen!</l>
               <l>Durch Falschheit bin ich ehrlich, treu durch Untreu'.</l>
               <l>Im Krieg zeig' ich, wie ich Britannien liebe,</l>
@@ -5828,7 +5829,7 @@
             <speaker>BELLARIUS.</speaker>
             <lg>
               <l>Ich bin gekannt</l>
-              <pb n="465"/>
+              <pb n="466"/>
               <l>Im Heer von manchem dort; so manches Jahr,</l>
               <l>War Cloten jung auch damals, löscht' ihn nicht</l>
               <l>Aus dem Gedächtnis mir. Auch ist der König</l>
@@ -5897,7 +5898,7 @@
           </sp>
         </div>
       </div>
-      <pb n="466"/>
+      <pb n="467"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5933,7 +5934,7 @@
               <l>In brit'sche Bauerntracht: so fecht' ich gegen</l>
               <l>Das Volk, mit dem ich kam; so will ich sterben.</l>
               <l>Für dich, o Imogen, ist doch mein Leben,</l>
-              <pb n="467"/>
+              <pb n="468"/>
               <l>Ja, jeder Atemzug ein Tod; so unbekannt,</l>
               <l>Gehaßt nicht, noch beklagt, weih' ich mich selbst</l>
               <l>Dem Untergang. Erkenne kühnern Geist</l>
@@ -5984,7 +5985,7 @@
             <stage>Posthumus kommt und hilft den Briten; sie befreien Cymbeline und gehen ab; dann
               kommen Lucius, Jachimo und Imogen.</stage>
           </sp>
-          <pb n="468"/>
+          <pb n="469"/>
           <sp who="#lucius">
             <speaker>LUCIUS.</speaker>
             <lg>
@@ -6059,7 +6060,7 @@
               <l>Durch diese Tat fürs Vaterland – im Paß,</l>
               <l>Er mit zwei Knaben (Kindern, mehr geeignet</l>
               <l>Zu munterm Tanze als zu solchem Morden;</l>
-              <pb n="469"/>
+              <pb n="470"/>
               <l>Mit Angesichtern wie für Larven, schöner</l>
               <l>Als die verhüllt Scham oder Reiz bewahren),</l>
               <l>Schützt' nun den Weg und rief den Flücht'gen zu:</l>
@@ -6107,7 +6108,7 @@
             <lg>
               <l>Nicht wundert Euch! Ihr staunt wohl lieber, hört Ihr</l>
               <l>Von Taten, als Ihr selber welche tut.</l>
-              <pb n="470"/>
+              <pb n="471"/>
               <l>Wollt Ihr's im Reim, als Spottgedicht? So klingt's:</l>
               <l>Zwei Knaben und ein Greis, zweimal so alt als beide,</l>
               <l>Ein Paß, ward uns zum Hort, dem Feind zum Leide.</l>
@@ -6177,7 +6178,7 @@
               <l>Der auch den Feind zurücktrieb.</l>
             </lg>
           </sp>
-          <pb n="471"/>
+          <pb n="472"/>
           <sp who="#erster_hauptmann">
             <speaker>ERSTER HAUPTMANN.</speaker>
             <lg>
@@ -6239,7 +6240,7 @@
               <l>Gnäd'ger sind Götter. Soll ich denn bereun?</l>
               <l>Nicht besser kann's geschehen als in Ketten,</l>
               <l>Erwünscht, nicht aufgezwängt: – genug zu tun,</l>
-              <pb n="472"/>
+              <pb n="473"/>
               <l>Ist das der Freiheit Hauptbeding? So schreibt</l>
               <l>Nicht härtre Pfändung vor, nehmt nur mein alles!</l>
               <l>Ihr habt mehr Mild' als gier'ge Menschen, weiß ich,</l>
@@ -6287,7 +6288,7 @@
             <lg>
               <l>Lucina half mir nicht, ich starb</l>
               <l>Schmerzvoll, noch im Gebären:</l>
-              <pb n="473"/>
+              <pb n="474"/>
               <l>Mir Posthumus entschnitten ward;</l>
               <l>Zu Feinden kam mit Zähren</l>
               <l>Das arme Kind.</l>
@@ -6361,7 +6362,7 @@
             <lg>
               <l>Tu' dein kristallnes Fenster auf;</l>
               <l>Schau her; hör' unser Flehn:</l>
-              <pb n="474"/>
+              <pb n="475"/>
               <l>Laß nicht so alten, edeln Stamm</l>
               <l>Durch deinen Grimm vergehn!</l>
             </lg>
@@ -6423,7 +6424,7 @@
             <lg>
               <l>Er kam im Donner; und sein Götterhauch</l>
               <l>War Schwefeldampf; der heilige Adler stieg</l>
-              <pb n="475"/>
+              <pb n="476"/>
               <l>Mit Dräun hernieder; doch sein Aufschwung ist</l>
               <l>Süß wie Elysiums Flur: der Königsvogel</l>
               <l>Spreizt seine ew'gen Schwingen, wetzt den Schnabel,</l>
@@ -6471,7 +6472,7 @@
             <l>Verstandlos plaudern: beides, oder nichts:</l>
             <l>Entweder sinnlos Reden, oder solch Gerede,</l>
             <l>Das Sinn nicht kann enträtseln. Sei's, was immer,</l>
-            <pb n="476"/>
+            <pb n="477"/>
             <l>Dem Irrsal meines Lebens ist es gleich,</l>
             <l>Der Sympathie halb will ich es bewahren.</l>
             <stage>Die Kerkermeister kommen zurück.</stage>
@@ -6525,7 +6526,7 @@
           <sp who="#kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Nun, dann hat Euer Tod Augen im Kopf; so Habe ich ihn noch nicht gemalt gesehen: Ihr
-              müßt Euch entweder <pb n="477"/> von denen führen lassen, die behaupten, den Weg zu
+              müßt Euch entweder <pb n="478"/> von denen führen lassen, die behaupten, den Weg zu
               kennen, oder Ihr müßt Euer eigner Führer sein, da ich doch weiß, Ihr kennt den Weg
               nicht: oder Euch auf eigne Gefahr über alle diese Untersuchungen hinwegsetzen: und wie
               es Euch am Schluß gerät, – nun, ich denke, Ihr kehrt niemals zurück, um irgendeinem
@@ -6573,7 +6574,7 @@
             </p>
           </sp>
         </div>
-        <pb n="478"/>
+        <pb n="479"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>In Cymbelines Palast.</stage>
@@ -6652,7 +6653,7 @@
               <l>Der Kön'gin melden.</l>
             </lg>
           </sp>
-          <pb n="479"/>
+          <pb n="480"/>
           <sp who="#cymbeline">
             <speaker>CYMBELINE.</speaker>
             <lg>
@@ -6729,7 +6730,7 @@
               <l>Und starb in Wut.</l>
             </lg>
           </sp>
-          <pb n="480"/>
+          <pb n="481"/>
           <sp who="#cymbeline">
             <speaker>CYMBELINE.</speaker>
             <l>Ihr Frau'n vernahmt dies auch?</l>
@@ -6788,7 +6789,7 @@
             <speaker>CYMBELINE.</speaker>
             <lg>
               <l>Sicher hab' ich ihn gesehn;</l>
-              <pb n="481"/>
+              <pb n="482"/>
               <l>Sein Antlitz ist mir wohlbekannt. – Mein Knabe,</l>
               <l>Es hat dein Blick sich mir ins Herz gesenkt,</l>
               <l>Und du bist mein. – Mich treibt's, ich weiß nicht wie,</l>
@@ -6883,7 +6884,7 @@
             <speaker>ARVIRAGUS.</speaker>
             <lg>
               <l>Ein Sandkorn sieht dem andern nicht so gleich:</l>
-              <pb n="482"/>
+              <pb n="483"/>
               <l>Das ros'ge Kind, Fidelio, welches starb –</l>
               <l>Was meint Ihr?</l>
             </lg>
@@ -6989,7 +6990,7 @@
               <l>Als daß du schweigend stirbst: frisch auf, und rede!</l>
             </lg>
           </sp>
-          <pb n="483"/>
+          <pb n="484"/>
           <sp who="#jachimo">
             <speaker>JACHIMO.</speaker>
             <lg>
@@ -7047,7 +7048,7 @@
               <l>Der ihrer Ehre minder nicht vertraute,</l>
               <l>Als ich sie wahrhaft fand, setzt' diesen Ring,</l>
               <l>Und hätt's getan, war's ein Karfunkel auch</l>
-              <pb n="484"/>
+              <pb n="485"/>
               <l>An Phöbus' Rad; und konnt' es sicher, galt's</l>
               <l>Den Wert ganz des Gespanns. Fort, nach Britannien</l>
               <l>Eil' ich deshalb – Ihr mögt Euch wohl erinnern</l>
@@ -7092,7 +7093,7 @@
               <l>Geschimpft sei jeder Bube Posthumus,</l>
               <l>Und jede andre Büberei sei Ruhm! –</l>
               <l>O Imogen!</l>
-              <pb n="485"/>
+              <pb n="486"/>
               <l>Mein Weib, mein Leben, meine Königin!</l>
               <l>O Imogen! Imogen!</l>
             </lg>
@@ -7194,7 +7195,7 @@
               <l>Die Königin, mein Fürst, drang oft in mich,</l>
               <l>Ihr Gift zu mischen; Trieb nach Wissenschaft</l>
               <l>Gab sie stets vor und sprach, sie wolle töten</l>
-              <pb n="486"/>
+              <pb n="487"/>
               <l>Nur niedrige Geschöpf', als Katzen, Hunde,</l>
               <l>Die man nicht schont; ich, fürchtend, daß ihr Anschlag</l>
               <l>Auf Größres ziele, mischt' ihr einen Trank,</l>
@@ -7287,7 +7288,7 @@
               <l>Hatt' ich 'nen falschen Brief von meinem Herrn</l>
               <l>In meiner Tasche: dieser gab ihm an,</l>
               <l>Bei Milford in den Bergen sie zu suchen;</l>
-              <pb n="487"/>
+              <pb n="488"/>
               <l>Dahin, voll Wut, in meines Herren Kleidern,</l>
               <l>Die er von mir erzwang, ging er in Eil',</l>
               <l>Mit bösem Vorsatz; meiner Herrin Ehre</l>
@@ -7380,7 +7381,7 @@
             <speaker>CYMBELINE.</speaker>
             <l>Er stirbt dafür!</l>
           </sp>
-          <pb n="488"/>
+          <pb n="489"/>
           <sp who="#bellarius">
             <speaker>BELLARIUS.</speaker>
             <lg>
@@ -7471,7 +7472,7 @@
               <l>War mein Verbrechen. Diese edeln Prinzen –</l>
               <l>Sie sind es wahrlich! – hab' ich auferzogen</l>
               <l>Seit zwanzig Jahren: und ihr Wissen ist,</l>
-              <pb n="489"/>
+              <pb n="490"/>
               <l>Wie ich es lehren konnte; meine Bildung</l>
               <l>Kennt Ihr. Euriphile, die Wärterin,</l>
               <l>Die für den Raub ich freite, stahl die Kinder</l>
@@ -7534,7 +7535,7 @@
               <l>Von dreien Kindern? Nie war eine Mutter</l>
               <l>So froh nach der Geburt. – O seid gesegnet,</l>
               <l>Daß, wie ihr seltsam eurem Kreis entwicht,</l>
-              <pb n="490"/>
+              <pb n="491"/>
               <l>Ihr jetzt drin herrschen mögt! – O Imogen!</l>
               <l>Dadurch hast du ein Königreich verloren.</l>
             </lg>
@@ -7614,7 +7615,7 @@
               <l>Will ich doch helfen noch.</l>
             </lg>
           </sp>
-          <pb n="491"/>
+          <pb n="492"/>
           <sp who="#lucius">
             <speaker>LUCIUS.</speaker>
             <l>Seid denn beglückt?</l>
@@ -7700,7 +7701,7 @@
             <speaker>LUCIUS.</speaker>
             <l>Lies und erkläre!</l>
           </sp>
-          <pb n="492"/>
+          <pb n="493"/>
           <sp who="#wahrsager">
             <speaker>WAHRSAGER</speaker>
             <stage>liest.</stage>
@@ -7756,7 +7757,7 @@
               <l>Das ich dem Lucius offenbart', eh' noch</l>
               <l>Die kaum erkühlte Schlacht begann, erfüllt</l>
               <l>Sich diesen Augenblick. Der röm'sche Adler,</l>
-              <pb n="493"/>
+              <pb n="494"/>
               <l>Der, hohen Flugs, von Süd nach Westen schwebte,</l>
               <l>Ward kleiner stets, bis er im Sonnenstrahl</l>
               <l>Verschwand: dies zeigt, daß unser Fürstenadler,</l>

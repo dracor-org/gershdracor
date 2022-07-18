@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="385"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,13 +90,14 @@
           <titlePart type="main">König Heinrich V.</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="386"/>
       <pb n="387"/>
       <castList>
         <head>Personen</head>
         <castItem>König Heinrich V.</castItem>
         <castGroup>
-          <castItem>Herzog von Gloster,</castItem>
-          <castItem>Herzog von Bedford,</castItem>
+          <castItem>Herzog von Gloster</castItem>
+          <castItem>Herzog von Bedford</castItem>
           <roleDesc>Brüder des Königs</roleDesc>
         </castGroup>
         <castItem>Herzog von Exeter, Oheim des Königs</castItem>
@@ -106,17 +108,17 @@
         <castItem>Erzbischof von Canterbury</castItem>
         <castItem>Bischof von Ely</castItem>
         <castGroup>
-          <castItem>Graf von Cambridge,</castItem>
-          <castItem>Lord Scroop,</castItem>
-          <castItem>Sir Thomas Grey,</castItem>
+          <castItem>Graf von Cambridge</castItem>
+          <castItem>Lord Scroop</castItem>
+          <castItem>Sir Thomas Grey</castItem>
           <roleDesc>Verschworne gegen den König</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Sir Thomas Erpingham,</castItem>
-          <castItem>Gower,</castItem>
-          <castItem>Fluellen,</castItem>
-          <castItem>Macmorris,</castItem>
-          <castItem>Jamy,</castItem>
+          <castItem>Sir Thomas Erpingham</castItem>
+          <castItem>Gower</castItem>
+          <castItem>Fluellen</castItem>
+          <castItem>Macmorris</castItem>
+          <castItem>Jamy</castItem>
           <roleDesc>Offiziere in Heinrichs Armee</roleDesc>
         </castGroup>
         <castItem>Bates, Court, Williams, Soldaten in derselben</castItem>
@@ -130,7 +132,7 @@
         <castItem>Herzog von Bourbon</castItem>
         <castItem>Der Connetable von Frankreich</castItem>
         <castItem>Rambures und Grandprê, französische Edelleute</castItem>
-        <pb n="387"/>
+        <pb n="388"/>
         <castItem>Befehlshaber von Harfleur</castItem>
         <castItem>Montjoye, ein französischer Herold</castItem>
         <castItem>Gesandte an den König von England</castItem>
@@ -145,7 +147,7 @@
         <p>Die Szene ist anfangs in England, nachher ununterbrochen in Frankreich</p>
       </set>
     </front>
-    <pb n="388"/>
+    <pb n="389"/>
     <body>
       <div type="prologue">
         <sp>
@@ -189,7 +191,7 @@
           </lg>
         </sp>
       </div>
-      <pb n="389"/>
+      <pb n="390"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -245,7 +247,7 @@
             <speaker>CANTERBURY.</speaker>
             <l>Der König ist voll Huld und milder Rücksicht.</l>
           </sp>
-          <pb n="390"/>
+          <pb n="391"/>
           <sp who="#ely">
             <speaker>ELY.</speaker>
             <l>Und ein wahrhafter Freund der heil'gen Kirche.</l>
@@ -300,7 +302,7 @@
               <l>Von freiem Zulauf und von Volksgewühl.</l>
             </lg>
           </sp>
-          <pb n="391"/>
+          <pb n="392"/>
           <sp who="#ely">
             <speaker>ELY.</speaker>
             <lg>
@@ -377,7 +379,7 @@
             <speaker>ELY.</speaker>
             <l>Ja.</l>
           </sp>
-          <pb n="392"/>
+          <pb n="393"/>
           <sp who="#canterbury">
             <speaker>CANTERBURY.</speaker>
             <lg>
@@ -447,7 +449,7 @@
               <l>Denn Gott weiß, wie so mancher, jetzt gesund,</l>
               <l>Sein Blut zu des Bewährung noch vergießt,</l>
               <l>Wozu uns Eu'r Hochwürden treiben wird.</l>
-              <pb n="393"/>
+              <pb n="394"/>
               <l>Darum gebt acht, wie Ihr Euch selbst verpfändet,</l>
               <l>Wie Ihr des Krieges schlummernd Schwert erweckt,</l>
               <l>In Gottes Namen mahn' ich Euch: gebt acht!</l>
@@ -490,7 +492,7 @@
               <l>Ward nicht ersonnen für der Franken Reich;</l>
               <l>Noch auch besaßen sie das Sal'sche Land,</l>
               <l>Als bis vierhunderteinundzwanzig Jahre</l>
-              <pb n="394"/>
+              <pb n="395"/>
               <l>Nach dem Hinscheiden König Pharamunds,</l>
               <l>Den man den Stifter des Gesetzes wähnt.</l>
               <l>Er starb im Jahr nach unsers Heiland Kunft</l>
@@ -529,7 +531,7 @@
               <l>Behaupten möchten, Euer Hoheit Anspruch</l>
               <l>Von Frauen Seite damit auszuschließen,</l>
               <l>Und lieber sich verstricken in ein Netz,</l>
-              <pb n="395"/>
+              <pb n="396"/>
               <l>Als die verdrehten Rechte bloß zu legen,</l>
               <l>Von Euch und Euren Vordern angemaßt.</l>
             </lg>
@@ -589,7 +591,7 @@
               <l>Die hat Eu'r Hoheit auch: kein König Englands</l>
               <l>Hat einen reichern Adel je gehabt</l>
               <l>Noch treu're Untertanen, deren Herzen</l>
-              <pb n="396"/>
+              <pb n="397"/>
               <l>Die Leiber hier in England heim gelassen</l>
               <l>Und sich in Frankreichs Feldern schon gelagert.</l>
             </lg>
@@ -651,7 +653,7 @@
               <l>Sie fing der Schotten König, sperrt' ihn ein,</l>
               <l>Sandt' ihn nach Frankreich dann, um Eduards Ruhm</l>
               <l>Zu füllen mit gefangner Kön'ge Zahl</l>
-              <pb n="397"/>
+              <pb n="398"/>
               <l>Und Eure Chronik reich an Preis zu machen,</l>
               <l>Wie Meeres Schlamm und Boden ist an Trümmern</l>
               <l>Gesunkner Schiff' und Schätzen ohne Maß.</l>
@@ -704,7 +706,7 @@
               <l>Bewehrt, die samtnen Sommerknospen plündern</l>
               <l>Und dann den Raub mit lust'gem Marsch nach Haus</l>
               <l>Zum Hauptgezelte ihres Kaisers bringen;</l>
-              <pb n="398"/>
+              <pb n="399"/>
               <l>Der, emsig in der Majestät, beachtet,</l>
               <l>Wie Maurer singend goldne Dächer baun;</l>
               <l>Die stillen Bürger ihren Honigkneten;</l>
@@ -747,7 +749,7 @@
               <l>Und die fast königlichen Herzogtümer;</l>
               <l>Sonst ruhe dies Gebein in schlechter Urne,</l>
               <l>Grablos und ohne Denkmal über ihm.</l>
-              <pb n="399"/>
+              <pb n="400"/>
               <l>Wenn die Geschichte nicht mit vollem Mund</l>
               <l>Kühn meine Taten spricht, so sei mein Grab</l>
               <l>Gleich einem türk'schen Stummen ohne Zunge,</l>
@@ -812,7 +814,7 @@
               <l>Wir freun uns, daß der Dauphin mit uns scherzt,</l>
               <l>Habt Dank für Eure Müh' und sein Geschenk</l>
               <l>Wenn wir zu diesen Bällen die Raketten</l>
-              <pb n="400"/>
+              <pb n="401"/>
               <l>Erst ausgesucht, so wollen wir in Frankreich</l>
               <l>Mit Gottes Gnad' in einer Spielpartie</l>
               <l>Des Vaters Kron' ihm in die Schanze schlagen;</l>
@@ -851,7 +853,7 @@
               <l>In heil'ger Sache den gerechten Arm.</l>
               <l>So zieht in Frieden hin und sagt dem Dauphin,</l>
               <l>Sein Spaß wird nur wie schaler Witz erscheinen,</l>
-              <pb n="401"/>
+              <pb n="402"/>
               <l>Wenn tausend mehr, als lachten, drüber weinen. –</l>
               <l>Gebt ihnen sicheres Geleit! – Lebt wohl!</l>
             </lg>
@@ -882,7 +884,7 @@
           </sp>
         </div>
       </div>
-      <pb n="402"/>
+      <pb n="403"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <sp who="#chorus">
@@ -917,7 +919,7 @@
           <l>Eidlich verschworen mit dem bangen Frankreich.</l>
           <l>Und dieser Ausbund aller Kön'ge muß</l>
           <l>Von ihren Händen sterben (wenn ihr Wort</l>
-          <pb n="403"/>
+          <pb n="404"/>
           <l>Verrat und Hölle halten), eh' er sich</l>
           <l>Nach Frankreich eingeschifft, und in Southampton.</l>
           <l>Verlängt noch die Geduld, so ordnen wir</l>
@@ -967,7 +969,7 @@
           <sp who="#nym">
             <speaker>NYM.</speaker>
             <p>Mein' Treu, ich will so lange leben, als es geht, das ist ausgemacht, und wenn ich
-              nicht länger leben kann, so will <pb n="404"/> ich sehen, wie ich's mache. Das ist
+              nicht länger leben kann, so will <pb n="405"/> ich sehen, wie ich's mache. Das ist
               mein Schluß, das ist das laus deo dabei.</p>
           </sp>
           <sp who="#bardolph">
@@ -1026,7 +1028,7 @@
               <l>Solus, du ungemeiner Hund? O Viper!</l>
               <l>Das solus in dein seltsamlich Gesicht,</l>
               <l>Das solus in die Zähn' und Kehle dir,</l>
-              <pb n="405"/>
+              <pb n="406"/>
               <l>In deine schnöde Lunge, ja in deinen Magen,</l>
               <l>Und was noch schlimmer, in den garst'gen Mund!</l>
               <l>Dein solus schleudr' ich dir ins Eingeweide:</l>
@@ -1088,7 +1090,7 @@
           <sp who="#bursch">
             <speaker>BURSCH.</speaker>
             <p>Herr Wirt Pistol, Ihr müßt zu meinem Herrn kommen, – Ihr auch, Wirtin; – er ist sehr
-              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb n="406"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
+              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb n="407"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
               schlimm.</p>
           </sp>
           <sp who="#bardolph">
@@ -1169,7 +1171,7 @@
             <p>Gut denn, das ist der Humor davon.</p>
             <stage>Frau Hurtig kommt zurück.</stage>
           </sp>
-          <pb n="407"/>
+          <pb n="408"/>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>So wahr ihr von Weibern hergekommen seid, kommt hurtig zu Sir John herein. Ach, die
@@ -1242,7 +1244,7 @@
               <l>Mylord von Cambridge, und bester Lord von Masham,</l>
               <l>Und Ihr, mein werter Ritter, gebt uns Rat:</l>
               <l>Denkt Ihr nicht, daß die Truppen, so wir führen,</l>
-              <pb n="408"/>
+              <pb n="409"/>
               <l>Durch Frankreichs Macht den Weg sich bahnen werden,</l>
               <l>Der Tat und der Vollführung G'nüge leistend,</l>
               <l>Wozu wir sie in Heereskraft vereint?</l>
@@ -1334,7 +1336,7 @@
             <lg>
               <l>Ach, Eure große Lieb' und Sorg' um mich</l>
               <l>Sind schwere Bitten wider diesen Armen.</l>
-              <pb n="409"/>
+              <pb n="410"/>
               <l>Darf man ein klein Versehn aus Trunkenheit</l>
               <l>Nicht übersehn, wie muß der Blick es rügen,</l>
               <l>Erscheint vor uns, gekäut, verschluckt, verdaut,</l>
@@ -1401,7 +1403,7 @@
               <l>Mit allem Zubehör ihn zu versehn,</l>
               <l>Das seiner Ehre zukam; und der Mann</l>
               <l>Hat, leichtgesinnt, um wenig leichte Kronen</l>
-              <pb n="410"/>
+              <pb n="411"/>
               <l>Mit Frankreichs Ränken sich verschworen, uns</l>
               <l>In Hampton hier zu morden! Was mit ihm</l>
               <l>Der Ritter dort, nicht wen'ger meiner Güte</l>
@@ -1440,7 +1442,7 @@
               <l>Zu sagen: »Keine Seele werd' ich je</l>
               <l>So leicht als dieses Englischen gewinnen.«</l>
               <l>Oh, wie hast du vergällt mit Eifersucht</l>
-              <pb n="411"/>
+              <pb n="412"/>
               <l>Die Süßigkeit des Zutrauns! Zeigt sich jemand treu?</l>
               <l>Nun wohl, du auch. Scheint er gelehrt und ernst?</l>
               <l>Nun wohl, du auch. Stammt er aus edlem Blut?</l>
@@ -1497,7 +1499,7 @@
             <lg>
               <l>Nie freut ein treuer Untertan sich mehr,</l>
               <l>Weil man gefährlichen Verrat entdeckt,</l>
-              <pb n="412"/>
+              <pb n="413"/>
               <l>Als ich in dieser Stunde über mich,</l>
               <l>Gehindert am verruchten Unternehmen.</l>
               <l>Verzeiht, Herr, meiner Schuld, nicht meinem Leib.</l>
@@ -1542,7 +1544,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="413"/>
+        <pb n="414"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>London. Vor dem Hause der Frau Hurtig in Eastcheap.</stage>
@@ -1600,7 +1602,7 @@
             <speaker>BURSCH.</speaker>
             <p>Ja, das tat er wohl, und sagte, sie wären eingefleischte Teufel.</p>
           </sp>
-          <pb n="414"/>
+          <pb n="415"/>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Ja, was ins Fleisch fiel, das konnte er nicht leiden; die Fleischfarbe war ihm immer
@@ -1672,7 +1674,7 @@
             </p>
           </sp>
         </div>
-        <pb n="415"/>
+        <pb n="416"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Frankreich. Ein Saal im Palast des Königs.</stage>
@@ -1723,7 +1725,7 @@
             <speaker>CONNETABLE.</speaker>
             <lg>
               <l>O still, Prinz Dauphin!</l>
-              <pb n="416"/>
+              <pb n="417"/>
               <l>Ihr irrt Euch allzusehr in diesem König.</l>
               <l>Frag' Eure Hoheit die Gesandten nur,</l>
               <l>Mit welcher Würd' er ihre Botschaft hörte,</l>
@@ -1770,7 +1772,7 @@
               <l>Und Bildnisse verlöschen, welche Gott</l>
               <l>Und fränk'sche Väter zwanzig Jahr hindurch</l>
               <l>Geschaffen hatten. Dieser ist ein Zweig</l>
-              <pb n="417"/>
+              <pb n="418"/>
               <l>Von jenem Siegerstamm: und laßt uns fürchten</l>
               <l>Die angeborne Kraft und sein Geschick!</l>
             </lg>
@@ -1829,7 +1831,7 @@
               <l>Und heißt Euch diesen Stammbaum überschaun.</l>
               <l>Und wenn Ihr grade abgestammt ihn findet</l>
               <l>Vom rühmlichsten der hochberühmten Ahnen,</l>
-              <pb n="418"/>
+              <pb n="419"/>
               <l>Eduard dem Dritten, heißt er Euch Verzicht</l>
               <l>Auf Kron' und Reich tun, die Ihr unrechtmäßig</l>
               <l>Ihm als gebornen Eigner vorenthaltet.</l>
@@ -1896,7 +1898,7 @@
               <l>Sagt, wenn mein Vater freundlich Antwort gibt,</l>
               <l>Sei's wider meinen Willen; denn mir liegt</l>
               <l>An nichts als Zwist mit England: zu dem Ende,</l>
-              <pb n="419"/>
+              <pb n="420"/>
               <l>Als seiner eitlen Jugend angemessen,</l>
               <l>Sandt' ich ihm die Pariser Bälle zu.</l>
             </lg>
@@ -1939,7 +1941,7 @@
           </sp>
         </div>
       </div>
-      <pb n="420"/>
+      <pb n="421"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <sp who="#chorus">
@@ -1974,7 +1976,7 @@
           <l>Auf Harfleur mit den Mündern tödlich gähnend.</l>
           <l>Denkt, der Gesandt' aus Frankreich sei zurück</l>
           <l>Und meld' an Heinrich, daß der König ihm</l>
-          <pb n="421"/>
+          <pb n="422"/>
           <l>Antrage seine Tochter Katharina,</l>
           <l>Mit ihr zum Brautschatz ein paar Herzogtümer,</l>
           <l>So klein und unersprießlich. Das Erbieten</l>
@@ -2014,7 +2016,7 @@
               <l>Von früh bis Nacht in diesen Landen fochten,</l>
               <l>Und, nur weil Stoff gebrach, die Schwerter bargen!</l>
               <l>Entehrt nicht eure Mütter; nun bewährt,</l>
-              <pb n="422"/>
+              <pb n="423"/>
               <l>Daß, die ihr Väter nanntet, euch erzeugt.</l>
               <l>Seid nun ein Vorbild Menschen gröbern Bluts</l>
               <l>Und lehrt sie kriegen! – Ihr auch, wackres Landvolk,</l>
@@ -2075,7 +2077,7 @@
             <p>So klar, doch nicht so wahr, wie Vöglein auf dem Zweige singt.</p>
             <stage>Fluellen kommt.</stage>
           </sp>
-          <pb n="423"/>
+          <pb n="424"/>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <lg>
@@ -2123,7 +2125,7 @@
             </p>
             <stage>Fluellen kommt zurück, und Gower nach ihm.</stage>
           </sp>
-          <pb n="424"/>
+          <pb n="425"/>
           <sp who="#gower">
             <speaker>GOWER.</speaker>
             <p>Kapitän Fluellen, Ihr müßt unverzüglich zu den Minen kommen; der Herzog von Gloster
@@ -2187,7 +2189,7 @@
             <p>Bei Chrischtus, 's ischt übel getan: die Arbeit ischt aufgegeben, die Trompeten
               blasen zum Rückzuge. Bei meiner Hand schwöre ich, und bei meines Vaters Seele, die
               Arbeit ischt übel getan, sie ischt aufgegeben: ich hätte die Stadt in die Luft
-              gesprengt, so mir Chrischtus helfe, binnen <pb n="425"/> einer Stunde. Oh, 's ischt
+              gesprengt, so mir Chrischtus helfe, binnen <pb n="426"/> einer Stunde. Oh, 's ischt
               übel getan, 's ischt übel getan, bei meiner Hand, 's ischt übel getan.</p>
           </sp>
           <sp who="#fluellen">
@@ -2236,7 +2238,7 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Seht Ihr, wenn Ihr die Sache anders nehmt, als sie gemeint war, Kapitän Macmorris, so
-              werde ich unmaßgeblich <pb n="426"/> denken, daß Ihr mir nicht mit der Leutseligkeit
+              werde ich unmaßgeblich <pb n="427"/> denken, daß Ihr mir nicht mit der Leutseligkeit
               begegnet, als Ihr mir vernünftigerweise begegnen solltet, seht Ihr, da ich ein ebenso
               guter Mann als Ihr bin, sowohl was die Kriegesdisziplin, als die Abkunft meiner Geburt
               und andre Absonderlichkeiten betrifft.</p>
@@ -2285,7 +2287,7 @@
               <l>Soll schwärmen, sein Gewissen höllenweit,</l>
               <l>In Freiheit blut'ger Hand und mähn wie Gras</l>
               <l>Die holden Jungfrau 'n und die blüh'nden Kinder.</l>
-              <pb n="427"/>
+              <pb n="428"/>
               <l>Was ist es mir denn, wenn ruchloser Krieg,</l>
               <l>Im Flammenschmucke, wie der Bösen Fürst,</l>
               <l>Beschmiert im Antlitz, alle grausen Taten</l>
@@ -2330,7 +2332,7 @@
               <l>Denn wir sind nun nicht länger haltbar mehr.</l>
             </lg>
           </sp>
-          <pb n="428"/>
+          <pb n="429"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -2417,7 +2419,7 @@
               <emph>De elbow.</emph>
             </p>
           </sp>
-          <pb n="429"/>
+          <pb n="430"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <p>
@@ -2525,7 +2527,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="430"/>
+        <pb n="431"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Ein andres Zimmer im Palast.</stage>
@@ -2588,7 +2590,7 @@
               <l>Bei Treu' und Glauben! Unsre Damen haben</l>
               <l>Zum besten uns und sagen grad' heraus,</l>
               <l>Dahin sei unser Feuer, und sie wollen</l>
-              <pb n="431"/>
+              <pb n="432"/>
               <l>Der Jugend Englands ihre Leiber bieten,</l>
               <l>Mit Bastard-Kriegern Frankreich zu bevölkern.</l>
             </lg>
@@ -2644,7 +2646,7 @@
             <lg>
               <l>Drum eilet den Montjoye, Herr Connetable,</l>
               <l>Laßt ihn an England sagen, daß wir senden,</l>
-              <pb n="432"/>
+              <pb n="433"/>
               <l>Zu sehn, was er für will'ge Lösung gibt. –</l>
               <l>Prinz Dauphin, Ihr bleibt bei uns in Rouen.</l>
             </lg>
@@ -2714,7 +2716,7 @@
               <l>Der Herzog Exeter ist dir geneigt.</l>
             </lg>
           </sp>
-          <pb n="433"/>
+          <pb n="434"/>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Ja, Gott sei gelobt, und ich habe auch einige Liebe seinerseits verdient.</p>
@@ -2770,7 +2772,7 @@
               ihm zu verfahren und die Exekution an ihm auszuüben, denn Disziplin muß gehandhabt
               werden.</p>
           </sp>
-          <pb n="434"/>
+          <pb n="435"/>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
             <lg>
@@ -2833,7 +2835,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Nun, Fluellen, kommst du von der Brücke?</p>
           </sp>
-          <pb n="435"/>
+          <pb n="436"/>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Ja, zu Euer Majestät Befehl. Der Herzog von Exeter hat die Prücke sehr tapfer
@@ -2886,7 +2888,7 @@
             <p>So sagt mein König: »Sage du an Heinrich von England, ob wir schon tot schienen,
               schliefen wir doch nur; Vorteil ist ein besserer Soldat als Übereilung. Sagt ihm, wir
               hätten ihn bei Harfleur zurückweisen können, aber wir fanden nicht für gut, eine
-              Beleidigung aufzustoßen, bis sie <pb n="436"/> völlig reif wäre; jetzt reden wir auf
+              Beleidigung aufzustoßen, bis sie <pb n="437"/> völlig reif wäre; jetzt reden wir auf
               unser Stichwort, und unsre Stimme ist gebietend: England soll seine Torheit bereun,
               seine Schwäche sehn und unsre Geduld bewundern. Heiß' ihn also sein Lösegeld bedenken,
               welches nach dem Verlust, den wir ertragen haben, nach den Untertanen, die wir
@@ -2929,7 +2931,7 @@
               <l>Mein Heer nur eine matte, kranke Wacht,</l>
               <l>Doch, Gott voran, sag ihm, wir wollen kommen,</l>
               <l>Ob Frankreich selbst und noch ein solcher Nachbar</l>
-              <pb n="437"/>
+              <pb n="438"/>
               <l>Im Weg uns stände. Hier für deine Müh':</l>
               <l>Geh, heiße deinen Herrn sich wohl bedenken.</l>
               <l>Kann ich vorbeiziehn, gut; werd' ich gehindert,</l>
@@ -2994,7 +2996,7 @@
           <sp who="#dauphin">
             <speaker>DAUPHIN.</speaker>
             <p>Was das für eine lange Nacht ist! – Ich tausche mein Pferd gegen keines, das nur auf
-              vier Pfoten geht. Ah ça! Er <pb n="438"/> springt von der Erde, als ob er mit Haaren
+              vier Pfoten geht. Ah ça! Er <pb n="439"/> springt von der Erde, als ob er mit Haaren
               ausgestopft wäre, le cheval volant, der Pegasus, qui a les narines de feu. Wenn ich
               ihn reite, so schwebe ich in Lüften, ich bin ein Falke, er trabt auf der Luft, die
               Erde singt, wenn er sie berührt; das schlechteste Horn seines Hufes ist musikalischer
@@ -3052,7 +3054,7 @@
             <p>Mich wohl, was das ausgemachte Lob und die Vollkommenheit einer guten und
               ausschließlich eignen Geliebten ist.</p>
           </sp>
-          <pb n="439"/>
+          <pb n="440"/>
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Ma foi! Mich dünkt, neulich schüttelte Eure Geliebte Euch tüchtig den Rücken
@@ -3137,7 +3139,7 @@
           </sp>
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
-            <p>Das will ich nicht sagen, aus Furcht, der Weg <pb n="440"/> möchte mir Gesichter
+            <p>Das will ich nicht sagen, aus Furcht, der Weg <pb n="441"/> möchte mir Gesichter
               schneiden. Aber ich wollte, es wäre Morgen, denn ich möchte die Engländer gern bei den
               Ohren haben.</p>
           </sp>
@@ -3221,7 +3223,7 @@
             <speaker>ORLEANS.</speaker>
             <p>Übler Wille führt keine gute Nachrede.</p>
           </sp>
-          <pb n="441"/>
+          <pb n="442"/>
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Auf dies Sprichwort setze ich ein andres Freundschaft ist eine Schmeichlerin.</p>
@@ -3295,7 +3297,7 @@
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Ganz recht, und die Menschen sympathisieren mit den Bullenbeißern im kräftigen und
-              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="442"/> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
+              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="443"/> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
               fressen wie Wölfe und fechten wie Teufel.</p>
           </sp>
           <sp who="#orleans">
@@ -3317,7 +3319,7 @@
           </sp>
         </div>
       </div>
-      <pb n="443"/>
+      <pb n="444"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <sp who="#chorus">
@@ -3352,7 +3354,7 @@
           <l>Auf hohlen Wangen und, vom Krieg vernutzt,</l>
           <l>Die Röcke stellen sie dem schau 'nden Mond</l>
           <l>Wie grause Geister dar. Oh, wer nun sehen mag</l>
-          <pb n="444"/>
+          <pb n="445"/>
           <l>Den hohen Feldherrn der verlornen Schar</l>
           <l>Von Wacht zu Wacht, von Zelt zu Zelte wandeln,</l>
           <l>Der rufe: »Preis und Ruhm sei seinem Haupt!«</l>
@@ -3393,7 +3395,7 @@
               <l>Zög' ihn der Mensch nur achtsam da heraus.</l>
               <l>Früh aufstehn lehren uns die schlimmen Nachbarn,</l>
               <l>Was teils gesund und gute Wirtschaft ist;</l>
-              <pb n="445"/>
+              <pb n="446"/>
               <l>Dann sind sie unser äußerlich Gewissen</l>
               <l>Und Prediger uns allen, die uns warnen,</l>
               <l>Daß wir zu unserm End' uns wohl bereiten.</l>
@@ -3465,7 +3467,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Gut Freund.</l>
           </sp>
-          <pb n="446"/>
+          <pb n="447"/>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
             <lg>
@@ -3571,7 +3573,7 @@
             <p>Nun, im Namen Jessu Christi, sprecht doch leiser! Es ist das Allerverwunderlichste in
               der sämtlichen Welt, wenn die wahren und uralten Prifilegien und Gesetze des Krieges
               nicht beobachtet sein. Wenn Ihr Euch nur die Mühe nehmen wolltet, die Kriege von
-              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb n="447"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
+              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb n="448"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
               stehe Euch dafür, Ihr werdet finden daß die Cärimonien des Krieges, und die Sorgfalt
               in selbigem, und die Sitten in selbigem, und die Nüchternheit in selbigem, und die
               Bescheidenheit in selbigem ganz anders sein.</p>
@@ -3646,7 +3648,7 @@
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Nein, und er muß es auch nicht tun. Denn, ob ich es Euch schon sage, ich denke, der
-              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb n="448"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
+              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb n="449"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
               menschlichen Bedingungen; seine Zeremonien bei Seite gesetzt, erscheint er in seiner
               Nacktheit nur als ein Mensch, und wiewohl seine Neigungen einen höheren Schwung nehmen
               als unsre, so senken sie sich doch mit demselben Fittig, wenn sie sich senken. Daher
@@ -3694,7 +3696,7 @@
             <p>Aber wenn seine Sache nicht gut ist, so hat der König selbst eine schwere
               Rechenschaft abzulegen; wenn alle die Beine und Arme und Köpfe, die in einer Schlacht
               abgehauen sind, sich am Jüngsten Tage zusammenfügen, und schreien alle: »Wir starben
-              da und da«; einige fluchend, <pb n="449"/> einige um einen Feldscher schreiend, einige
+              da und da«; einige fluchend, <pb n="450"/> einige um einen Feldscher schreiend, einige
               über ihre Frauen, die sie arm zurückgelassen, einige über ihre unbezahlten Schulden,
               einige über ihre unerzognen Kin der. Ich fürchte, es sterben nur wenige gut, die in
               einer Schlacht umkommen: denn wie können sie irgend was christlich anordnen, wenn sie
@@ -3723,7 +3725,7 @@
               keine Flügel, um Gott zu entfliehen. Krieg ist seine Geißel, Krieg ist sein Werkzeug
               der Rache, so daß hier die Menschen für den vorherigen Bruch der Gesetze des Königs im
               gegenwärtigen Streit des Königs gestraft werden; wo sie den Tod fürchten, haben sie
-              das Leben davon gebracht, und wo sie sich zu sichern <pb n="450"/> dachten, kommen sie
+              das Leben davon gebracht, und wo sie sich zu sichern <pb n="451"/> dachten, kommen sie
               um. Wenn sie daher unvorbereitet sterben, so ist der König nicht mehr an ihrer
               Verdammnis schuldig, als er es vorher an den Ruchlosigkeiten war, derentwegen sie nun
               heimgesucht werden. Jedes Untertanen Pflicht gehört dem König, jedes Untertanen Seele
@@ -3772,7 +3774,7 @@
             <p>Ihr verweist es mir ein wenig zu rund heraus: ich würde böse auf Euch sein, wenn sich
               die Zeit dazu schickte.</p>
           </sp>
-          <pb n="451"/>
+          <pb n="452"/>
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Laßt uns den Streit miteinander ausmachen, wenn Ihr am Leben bleibt.</p>
@@ -3841,7 +3843,7 @@
               <l>Des Sinn nichts weiter fühlt als eigne Pein!</l>
               <l>Wie viel Behagen muß ein König missen</l>
               <l>Des sich der Einzle freut?</l>
-              <pb n="452"/>
+              <pb n="453"/>
               <l>Was hat ein König, das dem Einzlen fehlt,</l>
               <l>Als allgemeine Zeremonie nur?</l>
               <l>Und was bist du, du Götze Zeremonie?</l>
@@ -3880,7 +3882,7 @@
               <l>Vor Phöbus' Augen schwitzt, die ganze Nacht</l>
               <l>Dann in Elysium schläft; am nächsten Tag</l>
               <l>Von neuem aufsteht mit der Dämmerung</l>
-              <pb n="453"/>
+              <pb n="454"/>
               <l>Und hilft Hyperion zu seinen Pferden.</l>
               <l>So folgt er dem beständ'gen Lauf des Jahrs</l>
               <l>Mit vorteilhafter Müh' bis in sein Grab:</l>
@@ -3939,7 +3941,7 @@
             </lg>
             <stage>Gloster tritt auf.</stage>
           </sp>
-          <pb n="454"/>
+          <pb n="455"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <l>Mein Fürst?</l>
@@ -4023,7 +4025,7 @@
               <l>Um jeden nackten Säbel zu beflecken,</l>
               <l>Die unsre fränk'schen Braven heute ziehn</l>
               <l>Und, weil's an Beute fehlt, einstecken werden.</l>
-              <pb n="455"/>
+              <pb n="456"/>
               <l>Laßt uns nur auf sie hauchen, und es stürzt</l>
               <l>Der Dunst von unsrer Tapferkeit sie um.</l>
               <l>'s ist ausgemacht ohn' alle Frage, Herrn,</l>
@@ -4073,7 +4075,7 @@
               <l>Und sind zum Tod bereit.</l>
             </lg>
           </sp>
-          <pb n="456"/>
+          <pb n="457"/>
           <sp who="#dauphin">
             <speaker>DAUPHIN.</speaker>
             <lg>
@@ -4153,7 +4155,7 @@
               <l>Das heut ohn' Arbeit ist!</l>
             </lg>
           </sp>
-          <pb n="457"/>
+          <pb n="458"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -4195,7 +4197,7 @@
               <l>Geläufig seinem Mund wie Alltagsworte,</l>
               <l>Heinrich der König, Bedford, Exeter,</l>
               <l>Warwick und Talbot, Salisbury und Gloster,</l>
-              <pb n="458"/>
+              <pb n="459"/>
               <l>Bei ihren vollen Schalen frisch bedacht!</l>
               <l>Der wackre Mann lehrt seinem Sohn die Märe,</l>
               <l>Und nie von heute bis zum Schluß der Welt</l>
@@ -4263,7 +4265,7 @@
               <l>Verwesen müssen.</l>
             </lg>
           </sp>
-          <pb n="459"/>
+          <pb n="460"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Wer sendet dich?</l>
@@ -4310,7 +4312,7 @@
               <l>Kopfüber ziehn die neuen bunten Röcke</l>
               <l>Und aus dem Dienst sie jagen. Tun sie das</l>
               <l>(Ich hoff's zu Gott), so ist auch meine Lösung</l>
-              <pb n="460"/>
+              <pb n="461"/>
               <l>Bald aufgebracht. Herold, spar' deine Müh';</l>
               <l>Komm du nicht mehr um Lösung, lieber Herold;</l>
               <l>Ich gebe, schwör' ich, keine andre nicht</l>
@@ -4383,7 +4385,7 @@
             <speaker>FRANZÖSISCHER SOLDAT.</speaker>
             <p>Miséricorde! Prenez pitié de moi! Ne me tuez point!</p>
           </sp>
-          <pb n="461"/>
+          <pb n="462"/>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
             <lg>
@@ -4487,7 +4489,7 @@
             <speaker>FRANZÖSISCHER SOLDAT.</speaker>
             <p>Petit monsieur, que dit-il?</p>
           </sp>
-          <pb n="462"/>
+          <pb n="463"/>
           <sp who="#bursch">
             <speaker>BURSCH.</speaker>
             <p>Quoique ce soit contre son serment de donner quartier à aucun prisonnier, néanmoins,
@@ -4545,7 +4547,7 @@
             <speaker>ORLEANS.</speaker>
             <l>O seigneur! La journée est perdue, tout est perdu!</l>
           </sp>
-          <pb n="463"/>
+          <pb n="464"/>
           <sp who="#dauphin">
             <speaker>DAUPHIN.</speaker>
             <lg>
@@ -4631,7 +4633,7 @@
               <l>Vom Helm zum Sporne war er nichts als Blut.</l>
             </lg>
           </sp>
-          <pb n="464"/>
+          <pb n="465"/>
           <sp who="#exeter">
             <speaker>EXETER.</speaker>
             <lg>
@@ -4678,7 +4680,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="465"/>
+        <pb n="466"/>
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Ein andrer Teil des Schlachtfeldes.</stage>
@@ -4727,7 +4729,7 @@
               aber es will mir nicht in den Kopf fallen, wie der Name des andern Flusses ist; aber
               es kommt auf eins heraus, es ist sich so gleich wie diese meine Finger meinen Fingern,
               und es geben Lachse in beiden. Wenn Ihr Alexanders Leben wohl beachtet, so tat das
-              Leben Heinrichs <pb n="466"/> von Monmouth ziemlich gut hinter drein kommen: denn in
+              Leben Heinrichs <pb n="467"/> von Monmouth ziemlich gut hinter drein kommen: denn in
               allen Dingen sein Figuren. Alexander hat (wie Gott weiß und Ihr wißt) in seinem Zorn,
               und seiner Wut, und seinem Grimm, und seiner Galle, und seinen Launen, und seinen
               Unwilligkeiten und Entrüstungen, und auch weil er ein wenig im Kopfe benebelt war, in
@@ -4776,7 +4778,7 @@
               <l>Und stäuben sie da weg, so rasch wie Steine,</l>
               <l>Geschnellt aus den assyr'schen alten Schleudern.</l>
               <l>Auch wollen wir erwürgen, die wir haben,</l>
-              <pb n="467"/>
+              <pb n="468"/>
               <l>Und nicht <emph>ein</emph> Mann, der in die Händ' uns fällt,</l>
               <l>Soll Gnad' erfahren. – Geht, sagt ihnen das.</l>
             </lg>
@@ -4855,7 +4857,7 @@
               Eduard, der Schwarze Prinz von Wales, wie ich in den Chroniken gelesen habe, fochten
               hier in Frankreich eine sehr prafe Schlacht.</p>
           </sp>
-          <pb n="468"/>
+          <pb n="469"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Das taten sie, Fluellen.</p>
@@ -4922,7 +4924,7 @@
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Mit Euer Majestät Erlaubnis, ein Schelm, der mir letzte Nacht was vorschwadronierte;
-              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb n="469"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
+              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb n="470"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
               Handschuh an seiner Mütze zu sehen kriege (und er schwur, so wahr er ein Soldat wäre,
               er wollte ihn tragen, wenn er am Leben bliebe), so will ich ihn ihm tüchtig herunter
               schlagen.</p>
@@ -4990,7 +4992,7 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Eure Gnaden tun mir so große Ehre an, als in dem Herzen seiner Untertanen begehrt
-              werden kann. Ich möchte <pb n="470"/> gern den Menschen sehn, der nur zwei Beine hat,
+              werden kann. Ich möchte <pb n="471"/> gern den Menschen sehn, der nur zwei Beine hat,
               der sich durch diesen Handschuh beleidigt finden wird, das ist alles; aber ich möchte
               es gern einmal sehen, und es gefalle Gott in seiner Gnade, daß ich es doch sehen
               möchte.</p>
@@ -5048,7 +5050,7 @@
               Könige: es steht Euch vielleicht mehr Gutes bevor, als in Eurer Wissenschaft ist, Euch
               träumen zu lassen.</p>
           </sp>
-          <pb n="471"/>
+          <pb n="472"/>
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Herr, kennt Ihr diesen Handschuh?</p>
@@ -5122,7 +5124,7 @@
             <speaker>FLUELLEN.</speaker>
             <p>Euer Majestät hören nun, mit allem Respekt vor Dero Mannhaftigkeit, was für ein
               erzschuftiger, lumpiger, lausiger Spitzbube es ist. Ich hoffe, Eure Majestät werden
-                <pb n="472"/> mir bezeugen, als auch verbürgen und beurkunden, daß dies der
+                <pb n="473"/> mir bezeugen, als auch verbürgen und beurkunden, daß dies der
               Handschuh vom Alençon ist, den Eure Majestät mir geben tat, nach Eurem besten
               Gewissen.</p>
           </sp>
@@ -5182,7 +5184,7 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Es geschieht mit gutem Willen; ich sage Euch, Ihr könnt Eure Schuh' damit flicken
-              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb n="473"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
+              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb n="474"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
               wechseln.</p>
             <stage>Ein englischer Herold tritt auf.</stage>
           </sp>
@@ -5236,7 +5238,7 @@
               <l>Wo ist von unsern Toten das Verzeichnis?</l>
               <stage>Der Herold überreicht einen andern Zettel.</stage>
               <l>Eduard Herzog von York, der Graf von Suffolk,</l>
-              <pb n="474"/>
+              <pb n="475"/>
               <l>Sir Richard Ketly, David Gam Esquire;</l>
               <l>Von Namen keine sonst, und von den andern</l>
               <l>Nur fünfundzwanzig. O Gott, dein Arm war hier,</l>
@@ -5290,7 +5292,7 @@
           </sp>
         </div>
       </div>
-      <pb n="475"/>
+      <pb n="476"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <sp who="#chorus">
@@ -5325,7 +5327,7 @@
           <l>An ihren Fersen der Plebejer Schwarm,</l>
           <l>Gehn, ihren Sieger Cäsar einzuholen:</l>
           <l>Wie (sei's ein kleinres, doch ein liebend Gleichnis),</l>
-          <pb n="476"/>
+          <pb n="477"/>
           <l>Wenn jetzt der Feldherr unsrer gnäd'gen Kaiserin,</l>
           <l>Wie er es leichtlich mag, aus Irland käme</l>
           <l>Und brächt' Empörung auf dem Schwert gespießt:</l>
@@ -5365,7 +5367,7 @@
               anfangen konnte; aber ich werde so dreist sein, es an meiner Mütze zu tragen, bis ich
               ihn einmal wieder sehe, und dann will ich ihm ein kleines Stück von meinen Wünschen
               sagen.</p>
-            <pb n="477"/>
+            <pb n="478"/>
             <stage>Pistol tritt auf.</stage>
           </sp>
           <sp who="#gower">
@@ -5440,7 +5442,7 @@
           </sp>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
-            <p>Eßt, ich bitte Euch. Wollt Ihr noch mehr Prühe <pb n="478"/> zu Eurem Lauch haben? Es
+            <p>Eßt, ich bitte Euch. Wollt Ihr noch mehr Prühe <pb n="479"/> zu Eurem Lauch haben? Es
               ist nicht Lauch genug, um dabei zu schwören.</p>
           </sp>
           <sp who="#pistol">
@@ -5507,7 +5509,7 @@
               <l>Am fränk'schen Übel starb;</l>
               <l>Und da ist ganz mein Wiedersehn zerstört.</l>
               <l>Alt werd' ich, und den müden Gliedern prügelt man</l>
-              <pb n="479"/>
+              <pb n="480"/>
               <l>Die Ehre aus. Gut, Kuppler, will ich werden,</l>
               <l>Zum Beutelschneider hurt'ger Hand mich neigend.</l>
               <l>Nach England stehl' ich mich und stehle dort</l>
@@ -5566,7 +5568,7 @@
             <speaker>ISABELLE.</speaker>
             <l>Ihr Prinzen Englands alle, seid gegrüßt!</l>
           </sp>
-          <pb n="480"/>
+          <pb n="481"/>
           <sp who="#burgund">
             <speaker>BURGUND.</speaker>
             <lg>
@@ -5607,7 +5609,7 @@
               <l>So haben wir samt unserm Haus und Kindern</l>
               <l>Verlernt und lernen nicht, weil Muße fehlt,</l>
               <l>Die Wissenschaften, unser Land zu zieren.</l>
-              <pb n="481"/>
+              <pb n="482"/>
               <l>Wir wachsen auf gleich Wilden; wie Soldaten,</l>
               <l>Die einzig nur auf Blut gerichtet sind,</l>
               <l>Zum Fluchen, finstern Blicken, loser Tracht</l>
@@ -5677,7 +5679,7 @@
               <l>Wenn man auf Punkten zu genau besteht.</l>
             </lg>
           </sp>
-          <pb n="482"/>
+          <pb n="483"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -5750,7 +5752,7 @@
               meine Bewerbung ist für dein Verstehen schon gemacht. Ich bin froh, daß du nicht
               besser Englisch sprechen kannst; denn wenn du es könntest, so würdest du mich einen so
               schlichten König finden, daß du gewiß dächtest, ich hätte meinen Meierhof verkauft, um
-              meine Krone zu kaufen. Ich verstehe mich <pb n="483"/> nicht auf verblümte Winke bei
+              meine Krone zu kaufen. Ich verstehe mich <pb n="484"/> nicht auf verblümte Winke bei
               der Liebe, sondern sage gerade heraus: »Ich liebe Euch«; wenn Ihr mich dann weiter
               drängt, als daß Ihr fragt: »Tut Ihr das im Ernste?«, so ist mein Werben am Ende. Gebt
               mir Eure Antwort; im Ernste, tut's: und somit eingeschlagen und ein gemachter Handel.
@@ -5783,7 +5785,7 @@
               hineinreimen können, wissen sich auch immer herauszuvernünfteln. Ei was! Ein Redner
               ist nur ein Schwätzer, ein Reim ist nur eine Singweise. Ein gutes Bein fällt ein, ein
               gerader Rücken wird krumm, ein schwarzer Bart wird weiß, ein krauser Kopf wird kahl,
-              ein schönes Gesicht <pb n="484"/> runzelt sich, ein volles Auge wird hohl: aber ein
+              ein schönes Gesicht <pb n="485"/> runzelt sich, ein volles Auge wird hohl: aber ein
               gutes Herz, Käthchen, ist die Sonne und der Mond, oder vielmehr die Sonne und nicht
               der Mond, denn es scheint hell und wechselt nie, sondern bleibt treulich in seiner
               Bahn. Willst du so eins, so nimm mich; nimm mich, nimm einen Soldaten; nimm einen
@@ -5834,7 +5836,7 @@
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Weiß es wer von Euren Nachbarn zu sagen, Käthchen? Ich will sie fragen. Geh nur, ich
-              weiß, du liebst <pb n="485"/> mich; und zu Nacht, wenn Ihr in Euer Schlafzimmer kommt,
+              weiß, du liebst <pb n="486"/> mich; und zu Nacht, wenn Ihr in Euer Schlafzimmer kommt,
               werdet Ihr dies Fräulein über mich befragen, und ich weiß, Käthchen, Ihr werdet gegen
               sie die Gaben an mir herabsetzen, die Ihr von Herzen liebt. Aber, gutes Käthchen,
               spotte barmherzig über mich, um so mehr, holde Prinzessin, da ich dich grausam liebe.
@@ -5872,7 +5874,7 @@
               die Frauen erschrecke, wenn ich komme, um sie zu werben. Aber auf Glauben, Käthchen,
               je älter ich werde, je besser werde ich mich ausnehmen; mein Trost ist, daß das Alter
               dieser schlechte Verwahrer der Schönheit, meinem Gesichte keinen Schaden mehr tun
-              kann: wenn du mich nimmst, so <pb n="486"/> nimmst du mich in meinem schlechtesten
+              kann: wenn du mich nimmst, so <pb n="487"/> nimmst du mich in meinem schlechtesten
               Zustande, und wenn du mich trägst, werde ich durchs Tragen immer besser und besser
               werden. Und also sagt mir, schönste Katharina, wollt Ihr mich? Legt Euer
               jungfräuliches Erröten ab und offenbart die Gesinnungen Eures Herzens mit den Blicken
@@ -5942,7 +5944,7 @@
             <speaker>ALICE.</speaker>
             <p>Oui, vraiment.</p>
           </sp>
-          <pb n="487"/>
+          <pb n="488"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>O Käthchen, strenge Gewohnheiten schmiegen sich vor großen Königen. Liebes Käthchen,
@@ -5988,7 +5990,7 @@
               in ihrem nackten sehenden Selbst nicht leiden will? Es ist für ein Mädchen in der Tat
               eine harte Bedingung einzugehn.</p>
           </sp>
-          <pb n="488"/>
+          <pb n="489"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Doch drücken sie ein Auge zu und geben nach, so wie die Liebe blind ist und in sie
@@ -6063,7 +6065,7 @@
           <sp who="#exeter">
             <speaker>EXETER.</speaker>
             <p>Nur dieses hat er noch nicht unterzeichnet:</p>
-            <p>Wo Eure Majestät begehrt, daß der König von Frankreich, <pb n="489"/> wenn er
+            <p>Wo Eure Majestät begehrt, daß der König von Frankreich, <pb n="490"/> wenn er
               Veranlassung hat, schriftlich um etwas anzusuchen, Eure Hoheit folgendermaßen und mit
               diesem Zusatz auf Französisch benennen soll: Notre très cher fils Henry, roi
               d'Angleterre, héritier de France; und so auf Lateinisch: Praeclarissimus filius noster
@@ -6129,7 +6131,7 @@
             <speaker>ALLE.</speaker>
             <l>Amen!</l>
           </sp>
-          <pb n="490"/>
+          <pb n="491"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>

@@ -136,6 +136,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="149"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -148,7 +149,7 @@
         <head>Personen</head>
         <castItem>Der Herzog von Mailand</castItem>
         <castGroup>
-          <castItem>Valentin,</castItem>
+          <castItem>Valentin</castItem>
           <castItem>Proteus</castItem>
           <roleDesc>zwei junge Veroneser</roleDesc>
         </castGroup>
@@ -169,7 +170,7 @@
         <p>Szene: Verona; Mailand; das Grenzgebiet Mantuas</p>
       </set>
     </front>
-    <pb n="150"/>
+    <pb n="151"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -234,7 +235,7 @@
               <l>Und hast doch nie den Hellespont durchschwommen.</l>
             </lg>
           </sp>
-          <pb n="151"/>
+          <pb n="152"/>
           <sp who="#proteus">
             <speaker>PROTEUS.</speaker>
             <l>Nein, nur mit Ohren, Freund, verschone mich.</l>
@@ -318,7 +319,7 @@
             <l>Nicht minder dir daheim! Und so leb wohl!</l>
             <stage>Valentin geht ab.</stage>
           </sp>
-          <pb n="152"/>
+          <pb n="153"/>
           <sp who="#proteus">
             <speaker>PROTEUS.</speaker>
             <lg>
@@ -410,7 +411,7 @@
             <p>Ja, Herr! Ich, ein verdutztes Lamm, gab ihr, dem geputzten Lamm, Euren Brief; und
               sie, das geputzte Lamm, gab mir, dem verdutzten Lamm, nichts für meine Mühe.</p>
           </sp>
-          <pb n="153"/>
+          <pb n="154"/>
           <sp who="#proteus">
             <speaker>PROTEUS.</speaker>
             <p>Welch eine Menge Lämmer! Sage mir, was die alle von mir wollen.</p>
@@ -509,7 +510,7 @@
             <speaker>PROTEUS.</speaker>
             <p>Warum? Konntest du so viel aus ihr herausbringen?</p>
           </sp>
-          <pb n="154"/>
+          <pb n="155"/>
           <sp who="#flink">
             <speaker>FLINK.</speaker>
             <p>Herr, ich konnte durchaus nichts aus ihr herausbringen, nicht einmal einen Dukaten
@@ -590,7 +591,7 @@
             <speaker>LUCETTA.</speaker>
             <l>Von seinem Reichtum gut, von ihm so so.</l>
           </sp>
-          <pb n="155"/>
+          <pb n="156"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <l>Nun sprich, wie du vom jungen Proteus denkst?</l>
@@ -715,7 +716,7 @@
             <l>Nun könnt Ihr Euch besinnen.</l>
             <stage>Lucetta geht ab.</stage>
           </sp>
-          <pb n="156"/>
+          <pb n="157"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -811,7 +812,7 @@
               <l>Drum sing es in dem Ton <emph>leichtsinn'ge Liebe</emph>.</l>
             </lg>
           </sp>
-          <pb n="157"/>
+          <pb n="158"/>
           <sp who="#lucetta">
             <speaker>LUCETTA.</speaker>
             <l>Es ist zu schwer für solchen leichten Ton.</l>
@@ -908,7 +909,7 @@
               <l>Und trete höhnend so auf deinen Stolz. –</l>
               <l>Oh! sieh, hier steht – <emph>der liebeswunde Proteus</emph> –</l>
               <l>Oh! Armer du! Mein Busen, wie ein Bett,</l>
-              <pb n="158"/>
+              <pb n="159"/>
               <l>Herberge dich, bis ganz die Wunde heilte;</l>
               <l>Und so erprüf' ich sie mit heil'gem Kuß. –</l>
               <l>Doch zwei-, dreimal steht Proteus hier geschrieben.</l>
@@ -986,7 +987,7 @@
             <speaker>ANTONIO.</speaker>
             <l>Doch was von ihm?</l>
           </sp>
-          <pb n="159"/>
+          <pb n="160"/>
           <sp who="#panthino">
             <speaker>PANTHINO.</speaker>
             <lg>
@@ -1055,7 +1056,7 @@
             <lg>
               <l>So hört, daß morgen Don Alphonso reist</l>
               <l>Mit andern jungen Herren hohen Ranges,</l>
-              <pb n="160"/>
+              <pb n="161"/>
               <l>Dem Kaiser ihre Huldigung zu bringen</l>
               <l>Und ihren Dienst dem Herrscher anzubieten.</l>
             </lg>
@@ -1141,7 +1142,7 @@
             <lg>
               <l>Ei, was du brauchst, das schicken wir dir nach;</l>
               <l>Kein längres Zögern, morgen mußt du fort. –</l>
-              <pb n="161"/>
+              <pb n="162"/>
               <l>Panthino, komm, du sollst mir Hülfe leisten,</l>
               <l>Um eiligst seine Reise zu befördern.</l>
             </lg>
@@ -1180,7 +1181,7 @@
           </sp>
         </div>
       </div>
-      <pb n="162"/>
+      <pb n="163"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1248,7 +1249,7 @@
               zu ächzen wie ein Schulknabe, der sein ABC verloren hat; zu weinen wie eine junge
               Dirne, die ihre Großmutter begrub; zu fasten wie einer, der in der Hungerkur liegt; zu
               wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb
-                n="163"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
+                n="164"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
               krähen; wenn Ihr einher ginget, wie ein Löwe zu wandeln; wenn Ihr fastetet, war es
               gleich nach dem Essen; wenn Ihr finster blicktet, war es, weil Euch Geld fehlte; und
               jetzt seid Ihr von Eurer Dame verwandelt, daß, wenn ich Euch ansehe, ich Euch kaum für
@@ -1339,7 +1340,7 @@
             <speaker>FLINK.</speaker>
             <p>Ihr saht sie niemals, seit sie häßlich ist.</p>
           </sp>
-          <pb n="164"/>
+          <pb n="165"/>
           <sp who="#valentin">
             <speaker>VALENTIN.</speaker>
             <p>Seit wann ist sie häßlich?</p>
@@ -1436,7 +1437,7 @@
             <speaker>SILVIA.</speaker>
             <p>Ritter Valentin und Diener, ich gebe Euch zweitausend.</p>
           </sp>
-          <pb n="165"/>
+          <pb n="166"/>
           <sp who="#flink">
             <speaker>FLINK</speaker>
             <stage>beiseit.</stage>
@@ -1542,7 +1543,7 @@
               <l>O unsichtbares Späßchen! das zu ergründen nicht geht!</l>
               <l>Wie der Wetterhahn auf dem Turm, wie die Nas' im Gesicht steht!</l>
               <l>Es dient mein Herr und fleht ihr; doch sie wünscht ihn sich dreister</l>
-              <pb n="166"/>
+              <pb n="167"/>
               <l>Und macht aus ihrem Schüler sich selber den Schulmeister.</l>
               <l>O auserlesnes Kunststück! Gab's je von dem Gelichter?</l>
               <l>Mein Herr, als Sekretär, schreibt an sich selbst als Dichter.</l>
@@ -1641,7 +1642,7 @@
             <stage>Beide gehn ab.</stage>
           </sp>
         </div>
-        <pb n="167"/>
+        <pb n="168"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Juliens Zimmer.</stage>
@@ -1707,7 +1708,7 @@
             <stage>Beide gehn ab.</stage>
           </sp>
         </div>
-        <pb n="168"/>
+        <pb n="169"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Straße. Lanz tritt auf und führt einen Hund am Strick.</stage>
@@ -1737,7 +1738,7 @@
               Schwester; gebt acht, wie sie ächzt; nun vergießt der Hund keine Träne, und spricht
               während der ganzen Zeit kein Wort; und ihr seht doch, wie ich den Staub mit meinen
               Tränen lösche.</p>
-            <pb n="169"/>
+            <pb n="170"/>
             <stage>Panthino tritt auf.</stage>
           </sp>
           <sp who="#panthino">
@@ -1815,7 +1816,7 @@
             <speaker>FLINK.</speaker>
             <p>Nicht zu Euch.</p>
           </sp>
-          <pb n="170"/>
+          <pb n="171"/>
           <sp who="#valentin">
             <speaker>VALENTIN.</speaker>
             <p>Zu meiner Dame also.</p>
@@ -1931,7 +1932,7 @@
             <p>Herr, wenn Ihr Wort auf Wort mit mir verschwendet, so werde ich Euren Witz bankerott
               machen.</p>
           </sp>
-          <pb n="171"/>
+          <pb n="172"/>
           <sp who="#valentin">
             <speaker>VALENTIN.</speaker>
             <p>Das weiß ich wohl, Herr; Ihr habt einen Schatz von Worten, und keine andere Münze
@@ -2011,7 +2012,7 @@
               <l>So ist er würdig einer Kais'rin Liebe</l>
               <l>Und gleich geschickt für eines Kaisers Rat.</l>
               <l>Wohl! dieser Edelmann ist angelangt</l>
-              <pb n="172"/>
+              <pb n="173"/>
               <l>Und bringt Empfehlung mir von mächt'gen Herren;</l>
               <l>Hier denkt er ein'ge Zeit sich aufzuhalten:</l>
               <l>Die Nachricht, mein' ich, muß Euch sehr erfreuen.</l>
@@ -2120,7 +2121,7 @@
             <speaker>PROTEUS.</speaker>
             <l>Ergebenheit, nichts andres kann ich rühmen.</l>
           </sp>
-          <pb n="173"/>
+          <pb n="174"/>
           <sp who="#silvia">
             <speaker>SILVIA.</speaker>
             <lg>
@@ -2204,7 +2205,7 @@
               <l>Es gibt kein Weh, das seiner Strafe glich',</l>
               <l>Doch gibt's nicht größre Lust, als ihm zu dienen.</l>
               <l>Jetzt kein Gespräch, als nur von Lieb' allein;</l>
-              <pb n="174"/>
+              <pb n="175"/>
               <l>Jetzt ist mir Frühstück, Mittag-, Abendmahl,</l>
               <l>Schlummer und Schlaf das bloße Wort schon: Liebe.</l>
             </lg>
@@ -2303,7 +2304,7 @@
               <l>Nektar die Flut, gediegnes Gold die Felsen.</l>
               <l>Verzeih'! auch kein Gedanke mehr an dich,</l>
               <l>Denn jeder ist Begeist'rung für die Liebste.</l>
-              <pb n="175"/>
+              <pb n="176"/>
               <l>Mein Nebenbuhl, der Tor, den um sein großes</l>
               <l>Vermögen nur der Vater schätzen kann,</l>
               <l>Ging fort mit ihr; und eilig muß ich nach,</l>
@@ -2362,7 +2363,7 @@
               <l>Dies ist der Grund, ihn weniger zu lieben.</l>
               <l>Wie wird ein tiefrer Sinn sie einst vergöttern,</l>
               <l>Wo ich jetzt leicht gesinnt sie schon verehre!</l>
-              <pb n="176"/>
+              <pb n="177"/>
               <l>Nur ihr Gemälde hab' ich erst gesehn,</l>
               <l>Und das hat meines Denkens Licht geblendet;</l>
               <l>Wird sie mir erst im vollen Glanz erscheinen,</l>
@@ -2442,7 +2443,7 @@
             <speaker>FLINK.</speaker>
             <p>In deiner Meinung?</p>
           </sp>
-          <pb n="177"/>
+          <pb n="178"/>
           <sp who="#lanz">
             <speaker>LANZ.</speaker>
             <p>Nein, selbst in meinen Handlungen; denn sieh, ich lehne mich so rücklings auf ihn,
@@ -2524,7 +2525,7 @@
             <stage>Beide gehen ab.</stage>
           </sp>
         </div>
-        <pb n="178"/>
+        <pb n="179"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>Zimmer. Proteus tritt auf.</stage>
@@ -2565,7 +2566,7 @@
               <l>Begeh' ich nicht Verrat an Valentin. –</l>
               <l>Die Nacht denkt er auf seilgeknüpfter Leiter</l>
               <l>Der Göttin Silvia Fenster zu ersteigen;</l>
-              <pb n="179"/>
+              <pb n="180"/>
               <l>Ich, der Vertraute, bin sein Nebenbuhler.</l>
               <l>Gleich will ich nun dem Vater Kunde geben</l>
               <l>Von dem Betrug und der beschloßnen Flucht;</l>
@@ -2632,7 +2633,7 @@
               <l>Daß es der Klugheit Schranke nicht zerstöre.</l>
             </lg>
           </sp>
-          <pb n="180"/>
+          <pb n="181"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -2712,7 +2713,7 @@
               <l>Lucetta, liebst du mich, so schaffe mir,</l>
               <l>Was gut dir dünkt und sich am besten ziemt;</l>
               <l>Doch, Mädchen, sprich: wie wird die Welt mich richten,</l>
-              <pb n="181"/>
+              <pb n="182"/>
               <l>Wenn sie die unbedachte Reis' erfährt?</l>
               <l>Ich fürchte sehr, es schadet meinem Ruf.</l>
             </lg>
@@ -2781,7 +2782,7 @@
           </sp>
         </div>
       </div>
-      <pb n="182"/>
+      <pb n="183"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2826,7 +2827,7 @@
               <l>Dank, Proteus, für dein redliches Gemüt;</l>
               <l>Vergelten will ich ganz nach deinem Wunsch.</l>
               <l>Nicht unbemerkt von mir blieb diese Liebe,</l>
-              <pb n="183"/>
+              <pb n="184"/>
               <l>Wenn sie mich wohl fest eingeschlafen wähnten:</l>
               <l>Und oft schon dacht' ich, Valentin den Hof</l>
               <l>Und ihren Umgang streng zu untersagen.</l>
@@ -2898,7 +2899,7 @@
               <l>So ist's nicht wichtig; weile noch bei mir,</l>
               <l>Denn ein Geschäft muß ich mit dir besprechen,</l>
               <l>Ganz in geheim, das nahe mich betrifft.</l>
-              <pb n="184"/>
+              <pb n="185"/>
               <l>Dir ist nicht unbekannt, daß ich die Tochter</l>
               <l>Mit Thurio, meinem Freund, vermählen wollte.</l>
             </lg>
@@ -2968,7 +2969,7 @@
               <l>Wenn sie Euch zürnt, ist's nicht, um Haß zu zeigen,</l>
               <l>Sie will, Ihr sollt ihr größre Liebe zeigen;</l>
               <l>Schilt sie Euch weg, so heißt das nicht: geht fort!</l>
-              <pb n="185"/>
+              <pb n="186"/>
               <l>Die Närrchen toben, nimmt man sie beim Wort.</l>
               <l>Abweisen laßt Euch nie, was sie auch spricht;</l>
               <l>Denn sagt sie: »Geht«, so meint sie: »Gehet nicht«;</l>
@@ -3078,7 +3079,7 @@
             <speaker>HERZOG.</speaker>
             <lg>
               <l>Wie stell' ich mich nur an mit solchem Mantel? –</l>
-              <pb n="186"/>
+              <pb n="187"/>
               <l>Ich bitte, laß mich deinen überhängen!</l>
               <l>Was ist das für ein Brief? was gibt's? – An Silvia?</l>
               <l>Und hier ein Instrument, so wie ich's brauche?</l>
@@ -3124,7 +3125,7 @@
               <l>Zu sterben, ist von mir verbannt zu sein,</l>
               <l>Und Silvia ist ich selbst; verbannt von ihr,</l>
               <l>Ist selbst von selbst: o tödliche Verbannung!</l>
-              <pb n="187"/>
+              <pb n="188"/>
               <l>Ist Licht noch Licht, wenn ich nicht Silvia sehe?</l>
               <l>Ist Lust noch Lust, wo Silvia nicht zugegen?</l>
               <l>Und war sie's nicht, dacht' ich sie mir zugegen,</l>
@@ -3225,7 +3226,7 @@
             <speaker>VALENTIN.</speaker>
             <l>Ist Silvia tot?</l>
           </sp>
-          <pb n="188"/>
+          <pb n="189"/>
           <sp who="#proteus">
             <speaker>PROTEUS.</speaker>
             <l>Nicht, Valentin.</l>
@@ -3306,7 +3307,7 @@
               <l>Auch drohet dein Verweilen deinem Leben.</l>
               <l>Hoffnung ist Liebesstab; zieh' hin mit ihm,</l>
               <l>Er sei dir gegen die Verzweiflung Stütze.</l>
-              <pb n="189"/>
+              <pb n="190"/>
               <l>Schick' deine Briefe her, bist du auch fern;</l>
               <l>Die sende mir, und ich befördre sie</l>
               <l>In den milchweißen Busen deiner Silvia.</l>
@@ -3365,7 +3366,7 @@
             <p>Ei, immer dein alter Spaß, die Worte zu verdrehen. Was gibt es denn für Neuigkeiten
               in deinem Papier?</p>
           </sp>
-          <pb n="190"/>
+          <pb n="191"/>
           <sp who="#lanz">
             <speaker>LANZ.</speaker>
             <p>Die schwärzeste Neuigkeit, von der du jemals gehört hast.</p>
@@ -3481,7 +3482,7 @@
             <speaker>FLINK.</speaker>
             <p>Item, sie ist wegen ihres Atems nüchtern nicht gut zu küssen.</p>
           </sp>
-          <pb n="191"/>
+          <pb n="192"/>
           <sp who="#lanz">
             <speaker>LANZ.</speaker>
             <p>Nun, der Fehler kann durch ein Frühstück gehoben werden; lies weiter!</p>
@@ -3576,7 +3577,7 @@
               ist mehr als der Witz; denn das Größere verbirgt das Kleinere. Was ist das
               Nächste?</p>
           </sp>
-          <pb n="192"/>
+          <pb n="193"/>
           <sp who="#flink">
             <speaker>FLINK.</speaker>
             <p>Und mehr Fehler als Haare –</p>
@@ -3660,7 +3661,7 @@
               <l>Löst es zu Wasser auf und tilgt die Form.</l>
               <l>Ein wenig Zeit schmelzt ihren frost'gen Sinn</l>
               <l>Und macht den niedern Valentin vergessen. –</l>
-              <pb n="193"/>
+              <pb n="194"/>
               <l>Wie nun, Herr Proteus? Sagt, ist Euer Landsmann,</l>
               <l>Gemäß des strengen Ausrufs, abgereist?</l>
             </lg>
@@ -3768,7 +3769,7 @@
             <speaker>PROTEUS.</speaker>
             <lg>
               <l>Ihr sollt mich überstimmen, gnäd'ger Herr;</l>
-              <pb n="194"/>
+              <pb n="195"/>
               <l>Kann mein Entstellen etwas auf sie wirken,</l>
               <l>Soll ihre Neigung bald verschwunden sein.</l>
               <l>Doch, reißt dies Valentin aus ihrem Herzen,</l>
@@ -3830,7 +3831,7 @@
               <l>So bringt in stillen Nächten vor ihr Fenster</l>
               <l>Harmon'schen Gruß, weint zu den Instrumenten</l>
               <l>Ein weiches Lied; das Schweigen toter Nacht</l>
-              <pb n="195"/>
+              <pb n="196"/>
               <l>Wird gut zum Laut der süßen Wehmut stimmen:</l>
               <l>So, oder niemals, ist sie zu erringen.</l>
             </lg>
@@ -3868,7 +3869,7 @@
           </sp>
         </div>
       </div>
-      <pb n="196"/>
+      <pb n="197"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3954,7 +3955,7 @@
               <l>Wenn nicht das häm'sche Glück mir widerstrebte.</l>
             </lg>
           </sp>
-          <pb n="197"/>
+          <pb n="198"/>
           <sp who="#erster_raeuber">
             <speaker>ERSTER RÄUBER.</speaker>
             <p>Seid Ihr von dort verbannt?</p>
@@ -4054,7 +4055,7 @@
               <l>Damit sie unsern Räuberstand entschuld'gen):</l>
               <l>Wir sehn, Ihr seid ein gut gebauter Mann,</l>
               <l>Von angenehmer Bildung, und Ihr rühmt Euch</l>
-              <pb n="198"/>
+              <pb n="199"/>
               <l>Der Sprachen; solches Manns, der so vollendet,</l>
               <l>Bedürfen wir in unsrer Profession.</l>
             </lg>
@@ -4121,7 +4122,7 @@
               <l>Beteur' ich treuergebnen Sinn für sie,</l>
               <l>Wirft sie mir vor die Falschheit an dem Freund;</l>
               <l>Und weih' ich ihrer Schönheit meinen Schwur,</l>
-              <pb n="199"/>
+              <pb n="200"/>
               <l>Heißt sie mich meines Meineids gleich gedenken,</l>
               <l>Weil Julien ich mein Liebeswort gebrochen.</l>
               <l>Doch, wie sie mich auch immer quält und martert,</l>
@@ -4211,7 +4212,7 @@
             <speaker>Gesang</speaker>
             <l>Wer ist Silvia? Was ist sie,</l>
             <l>Die aller Welt Verehrung?</l>
-            <pb n="200"/>
+            <pb n="201"/>
             <l>Heilig, schön und weis' ist sie,</l>
             <l>In himmlischer Verklärung.</l>
             <l>Lob und Preis ihr, dort und hie.</l>
@@ -4296,7 +4297,7 @@
             <speaker>JULIA.</speaker>
             <p>Wo ist Lanz?</p>
           </sp>
-          <pb n="201"/>
+          <pb n="202"/>
           <sp who="#wirt">
             <speaker>WIRT.</speaker>
             <p>Er ist fort, seinen Hund zu suchen, den er morgen, auf seines Herrn Befehl, der Dame
@@ -4393,7 +4394,7 @@
               <l>Denn ich bin sicher, sie ist nicht begraben.</l>
             </lg>
           </sp>
-          <pb n="202"/>
+          <pb n="203"/>
           <sp who="#silvia">
             <speaker>SILVIA.</speaker>
             <lg>
@@ -4493,7 +4494,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="203"/>
+        <pb n="204"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Platz.</stage>
@@ -4556,7 +4557,7 @@
               <l>Bedenk', mit welchem Recht ich fliehen muß,</l>
               <l>Mich vor gottlosem Ehebund zu schützen,</l>
               <l>Den Welt und Himmel heim mit Strafen suchen.</l>
-              <pb n="204"/>
+              <pb n="205"/>
               <l>Ich bitte flehend dich, mit einem Herzen</l>
               <l>So voll von Trübsal, wie die See voll Sand,</l>
               <l>Gefährte mir zu sein und mit zu gehn;</l>
@@ -4618,7 +4619,7 @@
               so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel. Oh, es ist ein
               böses Ding, wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß! Ich
               wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb
-                n="205"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
+                n="206"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
               nicht mehr Verstand gehabt hätte, als er, und den Fehler auf mich genommen, den er
               beging, so glaube ich wahrhaftig, er wäre dafür gehängt. So wahr ich lebe, sie hätten
               ihn dafür hingerichtet! Urteilt selbst: da schiebt er sich ein in die Gesellschaft von
@@ -4661,7 +4662,7 @@
               <l>Wo hast du seit zwei Tagen nur gesteckt?</l>
             </lg>
           </sp>
-          <pb n="206"/>
+          <pb n="207"/>
           <sp who="#lanz">
             <speaker>LANZ.</speaker>
             <p>Ei, Herr, ich brachte Fräulein Silvia den Hund, wie Ihr mich hießet.</p>
@@ -4743,7 +4744,7 @@
             <speaker>PROTEUS.</speaker>
             <l>Weshalb beklagst du sie?</l>
           </sp>
-          <pb n="207"/>
+          <pb n="208"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -4813,7 +4814,7 @@
             <speaker>JULIA.</speaker>
             <p>Von Signor Proteus, meinem Herrn.</p>
           </sp>
-          <pb n="208"/>
+          <pb n="209"/>
           <sp who="#silvia">
             <speaker>SILVIA.</speaker>
             <p>Ach! – Wegen eines Bildes schickt er Euch?</p>
@@ -4917,7 +4918,7 @@
             <lg>
               <l>Sie war einst schöner, Fräulein, als sie ist;</l>
               <l>Da sie noch glaubte, daß mein Herr sie liebe.</l>
-              <pb n="209"/>
+              <pb n="210"/>
               <l>War sie, wie mich bedünkt, so schön als Ihr;</l>
               <l>Doch, seit sie ihren Spiegel hat vergessen,</l>
               <l>Die Maske wegwarf, die vor Sonne schützte,</l>
@@ -4975,7 +4976,7 @@
               <l>Es wäre ganz so lieblich wie das ihre;</l>
               <l>Doch hat der Maler etwas ihr geschmeichelt,</l>
               <l>Wenn ich nicht allzu viel mir selber schmeichle.</l>
-              <pb n="210"/>
+              <pb n="211"/>
               <l>Ihr Haar ist bräunlich, meins vollkommen blond;</l>
               <l>Wenn das den Ausschlag gibt in seiner Liebe,</l>
               <l>So trag' ich falsches Haar von dieser Farbe.</l>
@@ -4998,7 +4999,7 @@
           </sp>
         </div>
       </div>
-      <pb n="211"/>
+      <pb n="212"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5058,7 +5059,7 @@
             <speaker>PROTEUS.</speaker>
             <l>Nein; zu dünn.</l>
           </sp>
-          <pb n="212"/>
+          <pb n="213"/>
           <sp who="#thurio">
             <speaker>THURIO.</speaker>
             <l>So trag' ich Stiefeln, daß es runder wird.</l>
@@ -5194,7 +5195,7 @@
               <l>Gewiß; denn Bruder Lorenz traf sie beide,</l>
               <l>Als im Gebet er durch die Waldung ging;</l>
               <l>Ihn kannt' er wohl und glaubt' auch, sie zu kennen;</l>
-              <pb n="213"/>
+              <pb n="214"/>
               <l>Doch macht' ihn ihre Maske ungewiß;</l>
               <l>Auch gab sie vor, sie woll' am Abend beichten</l>
               <l>In des Patricius Zell', und war nicht dort;</l>
@@ -5284,7 +5285,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="214"/>
+        <pb n="215"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Wald.</stage>
@@ -5353,7 +5354,7 @@
             <stage>beiseit.</stage>
             <l>Und ich, wenn er Euch wirklich näher kommt.</l>
           </sp>
-          <pb n="215"/>
+          <pb n="216"/>
           <sp who="#silvia">
             <speaker>SILVIA.</speaker>
             <lg>
@@ -5437,7 +5438,7 @@
               <l>Du trogst mein Hoffen; meinem Aug' allein</l>
               <l>Konnt' ich dies glauben; nun darf ich nicht sagen,</l>
               <l>Mir lebt ein Freund; du würd'st mich Lügen strafen.</l>
-              <pb n="216"/>
+              <pb n="217"/>
               <l>Wem ist zu traun, wenn unsre rechte Hand</l>
               <l>Sich gegen unsre Brust empört? O Proteus,</l>
               <l>Ich fürchte, nie kann ich dir wieder traun</l>
@@ -5534,7 +5535,7 @@
             <speaker>PROTEUS.</speaker>
             <l>Wie? Julia!</l>
           </sp>
-          <pb n="217"/>
+          <pb n="218"/>
           <sp who="#julia">
             <speaker>JULIA.</speaker>
             <lg>
@@ -5621,7 +5622,7 @@
             <speaker>HERZOG.</speaker>
             <lg>
               <l>Um so nichtswürd'ger bist und schlechter du,</l>
-              <pb n="218"/>
+              <pb n="219"/>
               <l>So sehr nach ihr zu streben, wie du tatest,</l>
               <l>Und auf so feige Art sie zu verlassen!</l>
               <l>Nun, bei der Ehr' und Würde meiner Ahnen,</l>

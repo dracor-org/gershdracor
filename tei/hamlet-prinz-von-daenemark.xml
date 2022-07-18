@@ -194,6 +194,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="263"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -213,7 +214,7 @@
           <castItem>Voltimand</castItem>
           <castItem>Cornelius</castItem>
           <castItem>Rosenkranz</castItem>
-          <castItem>Güldenstern,</castItem>
+          <castItem>Güldenstern</castItem>
           <roleDesc>Hofleute</roleDesc>
         </castGroup>
         <castItem>Osrick, ein Hofmann</castItem>
@@ -221,7 +222,7 @@
         <castItem>Ein Priester</castItem>
         <castGroup>
           <castItem>Marcellus</castItem>
-          <castItem>Bernardo,</castItem>
+          <castItem>Bernardo</castItem>
           <roleDesc>Offiziere</roleDesc>
         </castGroup>
         <castItem>Francisco, ein Soldat</castItem>
@@ -240,7 +241,7 @@
         <p>Die Szene ist in Helsingör</p>
       </set>
     </front>
-    <pb n="264"/>
+    <pb n="265"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -339,7 +340,7 @@
             <speaker>BERNARDO.</speaker>
             <l>He, ist Horatio da?</l>
           </sp>
-          <pb n="265"/>
+          <pb n="266"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <l>Ein Stück von ihm.</l>
@@ -437,7 +438,7 @@
               <l>Beim Himmel, sprich!</l>
             </lg>
           </sp>
-          <pb n="266"/>
+          <pb n="267"/>
           <sp who="#marcellus">
             <speaker>MARCELLUS.</speaker>
             <l>Es ist beleidigt.</l>
@@ -523,7 +524,7 @@
               <l>Zum mind'sten heißt es so. Der letzte König</l>
               <l>Ward, wie ihr wißt, durch Fortinbras von Norweg,</l>
               <l>Den eifersücht'ger Stolz dazu gespornt,</l>
-              <pb n="267"/>
+              <pb n="268"/>
               <l>Zum Kampf gefodert; unser tapfrer Hamlet</l>
               <l>(Denn diese Seite der bekannten Welt</l>
               <l>Hielt ihn dafür) schlug diesen Fortinbras,</l>
@@ -572,7 +573,7 @@
               <l>Die Sonne fleckig; und der feuchte Stern,</l>
               <l>Des Einfluß waltet in Neptunus' Reich,</l>
               <l>Krankt' an Verfinst'rung wie zum Jüngsten Tag.</l>
-              <pb n="268"/>
+              <pb n="269"/>
               <l>Und eben solche Zeichen grauser Dinge</l>
               <l>(Als Boten, die dem Schicksal stets vorangehn,</l>
               <l>Und Vorspiel der Entscheidung, die sich naht)</l>
@@ -636,7 +637,7 @@
               <l>Und da fuhr's auf, gleich einem sünd'gen Wesen</l>
               <l>Auf einen Schreckensruf. Ich hab' gehört,</l>
               <l>Der Hahn, der als Trompete dient dem Morgen,</l>
-              <pb n="269"/>
+              <pb n="270"/>
               <l>Erweckt mit schmetternder und heller Kehle</l>
               <l>Den Gott des Tages, und auf seine Mahnung,</l>
               <l>Sei's in der See, im Feu'r, Erd' oder Luft,</l>
@@ -695,7 +696,7 @@
               <l>In <emph>eine</emph> Stirn des Grames sich zu falten;</l>
               <l>So weit hat Urteil die Natur bekämpft,</l>
               <l>Daß wir mit weisem Kummer sein gedenken,</l>
-              <pb n="270"/>
+              <pb n="271"/>
               <l>Zugleich mit der Erinn'rung an uns selbst.</l>
               <l>Wir haben also unsre weiland Schwester,</l>
               <l>Jetzt unsre Königin, die hohe Witwe</l>
@@ -741,7 +742,7 @@
             <lg>
               <l>Wir zweifeln nicht daran. Lebt herzlich wohl!</l>
               <stage>Voltimand und Cornelius ab.</stage>
-              <pb n="271"/>
+              <pb n="272"/>
               <l>Und nun, Laertes, sagt, was bringt Ihr uns?</l>
               <l>Ihr nanntet ein Gesuch: was ist's, Laertes?</l>
               <l>Ihr könnt nicht von Vernunft dem Dänen reden,</l>
@@ -822,7 +823,7 @@
               <l>Weswegen scheint es so besonders dir?</l>
             </lg>
           </sp>
-          <pb n="272"/>
+          <pb n="273"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <lg>
@@ -868,7 +869,7 @@
               <l>Daß Ihr an unserm Thron der Nächste seid,</l>
               <l>Und mit nicht minder Überschwang der Liebe,</l>
               <l>Als seinem Sohn der liebste Vater widmet,</l>
-              <pb n="273"/>
+              <pb n="274"/>
               <l>Bin ich Euch zugetan. Was Eure Rückkehr</l>
               <l>Zur hohen Schul' in Wittenberg betrifft,</l>
               <l>So widerspricht sie höchlich unserm Wunsch,</l>
@@ -924,7 +925,7 @@
               <l>Was ihre Kost war. Und doch, in einem Mond –</l>
               <l>Laßt mich's nicht denken! – Schwachheit, dein Nam' ist Weib! –</l>
               <l>Ein kurzer Mond; bevor die Schuh'verbraucht,</l>
-              <pb n="274"/>
+              <pb n="275"/>
               <l>Womit sie meines Vaters Leiche folgte,</l>
               <l>Wie Niobe, ganz Tränen – sie, ja sie;</l>
               <l>O Himmel! würd' ein Tier, das nicht Vernunft hat,</l>
@@ -1010,7 +1011,7 @@
               <l>Wirtschaft, Horatio! Wirtschaft! Das Gebackne</l>
               <l>Vom Leichenschmaus gab kalte Hochzeitschüsseln.</l>
               <l>Hätt' ich den ärgsten Feind im Himmel lieber</l>
-              <pb n="275"/>
+              <pb n="276"/>
               <l>Getroffen, als den Tag erlebt, Horatio!</l>
               <l>Mein Vater – mich dünkt, ich sehe meinen Vater.</l>
             </lg>
@@ -1102,7 +1103,7 @@
             <lg>
               <l>Ich tat's, mein Prinz,</l>
               <l>Doch Antwort gab es nicht; nur einmal schien's,</l>
-              <pb n="276"/>
+              <pb n="277"/>
               <l>Es höb' sein Haupt empor und schickte sich</l>
               <l>Zu der Bewegung an, als wollt' es sprechen.</l>
               <l>Doch eben krähte laut der Morgenhahn,</l>
@@ -1232,7 +1233,7 @@
               <l>Vielleicht wird's wieder kommen.</l>
             </lg>
           </sp>
-          <pb n="277"/>
+          <pb n="278"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <l>Zuverlässig.</l>
@@ -1301,7 +1302,7 @@
               <l>Nichts weiter.</l>
             </lg>
           </sp>
-          <pb n="278"/>
+          <pb n="279"/>
           <sp who="#ophelia">
             <speaker>OPHELIA.</speaker>
             <l>Weiter nichts?</l>
@@ -1351,7 +1352,7 @@
             <lg>
               <l>Ich will den Sinn so guter Lehr' bewahren,</l>
               <l>Als Wächter meiner Brust; doch, lieber Bruder,</l>
-              <pb n="279"/>
+              <pb n="280"/>
               <l>Zeigt nicht, wie heilvergeßne Pred'ger tun,</l>
               <l>Den steilen Dornenweg zum Himmel andern,</l>
               <l>Derweil als frecher, lockrer Wollüstling</l>
@@ -1402,7 +1403,7 @@
               <l>Und Borgen stumpft der Wirtschaft Spitze ab.</l>
               <l>Dies über alles: sei dir selber treu,</l>
               <l>Und daraus folgt, so wie die Nacht dem Tage,</l>
-              <pb n="280"/>
+              <pb n="281"/>
               <l>Du kannst nicht falsch sein gegen irgend wen.</l>
               <l>Leb wohl! mein Segen fördre dies an dir!</l>
             </lg>
@@ -1508,7 +1509,7 @@
             <lg>
               <l>Ja, Sprenkel für die Drosseln! Weiß ich doch,</l>
               <l>Wenn das Blut kocht, wie das Gemüt der Zunge</l>
-              <pb n="281"/>
+              <pb n="282"/>
               <l>Freigebig Schwüre leiht. Dies Lodern, Tochter,</l>
               <l>Mehr leuchtend als erwärmend, und erloschen</l>
               <l>Selbst im Versprechen, während es geschieht,</l>
@@ -1574,7 +1575,7 @@
             <speaker>HAMLET.</speaker>
             <lg>
               <l>Der König wacht die Nacht durch, zecht vollauf,</l>
-              <pb n="282"/>
+              <pb n="283"/>
               <l>Hält Schmaus und taumelt den geräusch'gen Walzer;</l>
               <l>Und wie er Züge Rheinweins niedergießt,</l>
               <l>Verkünden schmetternd Pauken und Trompeten</l>
@@ -1628,7 +1629,7 @@
               <l>Engel und Boten Gottes steht uns bei!</l>
               <l>Sei du ein Geist des Segens, sei ein Kobold,</l>
               <l>Bring' Himmelslüfte oder Dampf der Hölle,</l>
-              <pb n="283"/>
+              <pb n="284"/>
               <l>Sei dein Beginnen boshaft oder liebreich,</l>
               <l>Du kommst in so fragwürdiger Gestalt,</l>
               <l>Ich rede doch mit dir; ich nenn' dich Hamlet,</l>
@@ -1696,7 +1697,7 @@
               <l>Und Euch zum Wahnsinn treiben? Oh, bedenkt!</l>
               <l>Der Ort an sich bringt Grillen der Verzweiflung</l>
               <l>Auch ohne weitern Grund in jedes Hirn,</l>
-              <pb n="284"/>
+              <pb n="285"/>
               <l>Der so viel Klafter niederschaut zur See</l>
               <l>Und hört sie unten brüllen.</l>
             </lg>
@@ -1796,7 +1797,7 @@
               <l>Dem, was ich kund will tun.</l>
             </lg>
           </sp>
-          <pb n="285"/>
+          <pb n="286"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <l>Sprich! mir ist's Pflicht zu hören.</l>
@@ -1876,7 +1877,7 @@
             <speaker>HAMLET.</speaker>
             <l>O mein prophetisches Gemüt! Mein Oheim?</l>
           </sp>
-          <pb n="286"/>
+          <pb n="287"/>
           <sp who="#geist">
             <speaker>GEIST.</speaker>
             <lg>
@@ -1918,7 +1919,7 @@
               <l>Ohne Nachtmahl, ungebeichtet, ohne Ölung;</l>
               <l>Die Rechnung nicht geschlossen, ins Gericht</l>
               <l>Mit aller Schuld auf meinem Haupt gesandt.</l>
-              <pb n="287"/>
+              <pb n="288"/>
               <l>O schaudervoll! o schaudervoll! höchst schaudervoll!</l>
               <l>Hast du Natur in dir, so leid' es nicht;</l>
               <l>Laß Dänmarks königliches Bett kein Lager</l>
@@ -1972,7 +1973,7 @@
             <stage>hinter der Szene.</stage>
             <l>Prinz Hamlet!</l>
           </sp>
-          <pb n="288"/>
+          <pb n="289"/>
           <sp who="#horatio">
             <speaker>HORATIO</speaker>
             <stage>hinter der Szene.</stage>
@@ -2084,7 +2085,7 @@
               <l>Gewährt ein Kleines mir!</l>
             </lg>
           </sp>
-          <pb n="289"/>
+          <pb n="290"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <l>Was ist's? Wir sind bereit.</l>
@@ -2189,7 +2190,7 @@
             <l>Ihr wollet nie, wenn ihr alsdann mich seht,</l>
             <l>Die Arme so verschlingend, noch die Köpfe</l>
             <l>So schüttelnd, noch durch zweifelhafte Reden,</l>
-            <p>Als: »Nun, nun, wir wissen« – oder: »Wir könnten, wenn <pb n="290"/> wir wollten« –
+            <p>Als: »Nun, nun, wir wissen« – oder: »Wir könnten, wenn <pb n="291"/> wir wollten« –
               oder: »Ja, wenn wir reden möchten«; oder: »Es gibt ihrer, wenn sie nur dürften« –</p>
             <l>Und solch verstohlnes Deuten mehr, verraten,</l>
             <l>Daß ihr von mir was wisset: dieses schwört,</l>
@@ -2217,7 +2218,7 @@
           </sp>
         </div>
       </div>
-      <pb n="291"/>
+      <pb n="292"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -2280,7 +2281,7 @@
             <speaker>REINHOLD.</speaker>
             <l>Als spielen.</l>
           </sp>
-          <pb n="292"/>
+          <pb n="293"/>
           <sp who="#polonius">
             <speaker>POLONIUS.</speaker>
             <lg>
@@ -2359,7 +2360,7 @@
               <l>Oder wann es war, mit dem und dem; und wie Ihr sagt,</l>
               <l>Da spielt' er hoch; da traf man ihn im Rausch;</l>
               <l>Da rauft' er sich beim Ballspiel«; oder auch:</l>
-              <pb n="293"/>
+              <pb n="294"/>
               <l>»Ich sah ihn gehn in solch ein saubres Haus«</l>
               <l>(Will sagen: ein Bordell), und mehr dergleichen. – Seht nur,</l>
               <l>Eu'r Lügenköder fängt den Wahrheitskarpfen;</l>
@@ -2449,7 +2450,7 @@
               <l>Und mit der andern Hand so überm Auge,</l>
               <l>Betrachtet' er so prüfend mein Gesicht,</l>
               <l>Als wollt' er's zeichnen. Lange stand er so;</l>
-              <pb n="294"/>
+              <pb n="295"/>
               <l>Zuletzt ein wenig schüttelnd meine Hand,</l>
               <l>Und dreimal hin und her den Kopf so wägend,</l>
               <l>Holt' er solch einen bangen tiefen Seufzer,</l>
@@ -2509,7 +2510,7 @@
             <lg>
               <l>Willkommen, Rosenkranz und Güldenstern!</l>
               <l>Wir wünschten nicht nur sehnlich, euch zu sehn.</l>
-              <pb n="295"/>
+              <pb n="296"/>
               <l>Auch das Bedürfnis eurer Dienste trieb</l>
               <l>Uns zu der eil'gen Sendung an. Ihr hörtet</l>
               <l>Von der Verwandlung Hamlets schon: so nenn' ich's,</l>
@@ -2572,7 +2573,7 @@
               <l>Und bring' die Herren hin, wo Hamlet ist!</l>
             </lg>
           </sp>
-          <pb n="296"/>
+          <pb n="297"/>
           <sp who="#gueldenstern">
             <speaker>GÜLDENSTERN.</speaker>
             <lg>
@@ -2655,7 +2656,7 @@
               <l>Doch näher untersucht, fand er, sie gingen</l>
               <l>Auf Eure Hoheit wirklich. Drob gekränkt,</l>
               <l>Daß seine Krankheit, seines Alters Schwäche</l>
-              <pb n="297"/>
+              <pb n="298"/>
               <l>So hintergangen sei, legt' er Verhaft</l>
               <l>Auf Fortinbras, – worauf sich dieser stellt,</l>
               <l>Verweis' empfängt von Norweg, und zuletzt</l>
@@ -2711,7 +2712,7 @@
               <l>Toll ist er, das ist wahr; wahr ist's, 's ist schade;</l>
               <l>Und schade, daß es wahr ist. Doch dies ist</l>
               <l>'ne törichte Figur: sie fahre wohl,</l>
-              <pb n="298"/>
+              <pb n="299"/>
               <l>Denn ich will ohne Kunst zu Werke gehn.</l>
               <l>Toll nehmen wir ihn also; nun ist übrig,</l>
               <l>Daß wir den Grund erspähn von dem Effekt,</l>
@@ -2773,7 +2774,7 @@
             <lg>
               <l>Gern möcht' ich's zeigen. Doch was dächtet Ihr,</l>
               <l>Hätt' ich gesehn, wie diese heiße Liebe</l>
-              <pb n="299"/>
+              <pb n="300"/>
               <l>Sich anspann (und ich merkt' es, müßt Ihr wissen,</l>
               <l>Eh' meine Tochter mir's gesagt), – was dächtet</l>
               <l>Ihr, oder meine teure Majestät,</l>
@@ -2847,7 +2848,7 @@
               <l>Da will ich meine Tochter zu ihm lassen.</l>
               <l>Steht Ihr mit mir dann hinter einem Teppich,</l>
               <l>Bemerkt den Hergang: wenn er sie nicht liebt,</l>
-              <pb n="300"/>
+              <pb n="301"/>
               <l>Und dadurch nicht um die Vernunft gekommen,</l>
               <l>So laßt mich nicht mehr Staatsbeamten sein:</l>
               <l>Laßt mich den Acker baun und Pferde halten!</l>
@@ -2938,7 +2939,7 @@
             <speaker>HAMLET.</speaker>
             <p>Wer handelt?</p>
           </sp>
-          <pb n="301"/>
+          <pb n="302"/>
           <sp who="#polonius">
             <speaker>POLONIUS.</speaker>
             <p>Ich meine, was in dem Buche steht, mein Prinz.</p>
@@ -3013,7 +3014,7 @@
             <speaker>ROSENKRANZ.</speaker>
             <p>Wie mittelmäß'gen Söhnen dieser Erde.</p>
           </sp>
-          <pb n="302"/>
+          <pb n="303"/>
           <sp who="#gueldenstern">
             <speaker>GÜLDENSTERN.</speaker>
             <lg>
@@ -3103,7 +3104,7 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>So sind also unsre Bettler Körper, und unsre Monarchen und gespreizten Helden der
-              Bettler Schatten. Sollen <pb n="303"/> wir an den Hof? Denn, mein' Seel', ich weiß
+              Bettler Schatten. Sollen <pb n="304"/> wir an den Hof? Denn, mein' Seel', ich weiß
               nicht zu räsonieren.</p>
           </sp>
           <sp who="#rosenkranz #gueldenstern">
@@ -3168,7 +3169,7 @@
               eure Verschwiegenheit gegen den König und die Königin braucht keinen Zollbreit zu
               wanken. Ich habe seit kurzem – ich weiß nicht wodurch – alle meine Munterkeit
               eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb
-                n="304"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
+                n="305"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
               Vorgebirge scheint; seht ihr, dieser herrliche Baldachin, die Luft, dies wackre
               umwölbende Firmament, dies majestätische Dach mit goldnem Feuer ausgelegt: kommt es
               mir doch nicht anders vor, als ein fauler verpesteter Haufe von Dünsten. Welch ein
@@ -3222,7 +3223,7 @@
             <p>Genießen sie noch dieselbe Achtung wie damals, da ich in der Stadt war? Besucht man
               sie eben so sehr?</p>
           </sp>
-          <pb n="305"/>
+          <pb n="306"/>
           <sp who="#rosenkranz">
             <speaker>ROSENKRANZ.</speaker>
             <p>Nein, freilich nicht.</p>
@@ -3285,7 +3286,7 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Liebe Herren, ihr seid willkommen zu Helsingör. Gebt mir eure Hände. Wohlan! Manieren
-              und Komplimente sind <pb n="306"/> das Zubehör der Bewillkommnung. Laßt mich euch auf
+              und Komplimente sind <pb n="307"/> das Zubehör der Bewillkommnung. Laßt mich euch auf
               diese Weise begrüßen, damit nicht mein Benehmen gegen die Schauspieler (das, sag' ich
               euch, sich äußerlich gut aus nehmen muß) einem Empfang ähnlicher sähe, als der eurige.
               Ihr seid willkommen, aber mein Oheim- Vater und meine Tante-Mutter irren sich.</p>
@@ -3352,7 +3353,7 @@
               Seneca kann für sie nicht zu traurig, noch Plautus zu lustig sein. Für das
               Aufgeschriebne und für den Stegreif haben sie ihresgleichen nicht.</p>
           </sp>
-          <pb n="307"/>
+          <pb n="308"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <lg>
@@ -3423,7 +3424,7 @@
             <speaker>ERSTER SCHAUSPIELER.</speaker>
             <p>Welche Rede, mein wertester Prinz?</p>
           </sp>
-          <pb n="308"/>
+          <pb n="309"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Ich hörte dich einmal eine Rede vortragen – aber sie ist niemals aufgeführt, oder
@@ -3470,7 +3471,7 @@
               <l>»Er find't alsbald ihn,</l>
               <l>Wie er den Feind verfehlt: sein altes Schwert</l>
               <l>Gehorcht nicht seinem Arm; liegt, wo es fällt,</l>
-              <pb n="309"/>
+              <pb n="310"/>
               <l>Unachtsam des Befehls. Ungleich gepaart</l>
               <l>Stürzt Pyrrhus auf den Priam, holt weit aus:</l>
               <l>Doch bloß vom Sausen seines grimmen Schwertes</l>
@@ -3530,7 +3531,7 @@
             <lg>
               <l>»Wie barfuß sie umherlief und den Flammen</l>
               <l>Mit Tränengüssen drohte; einen Lappen</l>
-              <pb n="310"/>
+              <pb n="311"/>
               <l>Auf diesem Haupte, wo das Diadem</l>
               <l>Vor kurzem stand; und an Gewandes Statt</l>
               <l>Um die von Weh'n erschöpften magern Weichen</l>
@@ -3591,7 +3592,7 @@
             <speaker>ERSTER SCHAUSPIELER.</speaker>
             <p>Ja, gnädiger Herr.</p>
           </sp>
-          <pb n="311"/>
+          <pb n="312"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Sehr wohl. – Folgt dem Herrn, und daß ihr euch nicht über ihn lustig macht!</p>
@@ -3636,7 +3637,7 @@
               <l>Wer nennt mich Schelm? Bricht mir den Kopf entzwei?</l>
               <l>Rauft mir den Bart und wirft ihn mir ins Antlitz?</l>
               <l>Zwickt an der Nase mich? und straft mich Lügen</l>
-              <pb n="312"/>
+              <pb n="313"/>
               <l>Tief in den Hals hinein? Wer tut mir dies?</l>
               <l>Ha! nähm' ich's eben doch. – Es ist nicht anders:</l>
               <l>Ich hege Taubenmut, mir fehlt's an Galle,</l>
@@ -3676,7 +3677,7 @@
           </sp>
         </div>
       </div>
-      <pb n="313"/>
+      <pb n="314"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3750,7 +3751,7 @@
             <speaker>POLONIUS.</speaker>
             <lg>
               <l>Ja, so ist's,</l>
-              <pb n="314"/>
+              <pb n="315"/>
               <l>Und mich ersucht' er, Eure Majestäten</l>
               <l>Zum Hören und zum Sehn des Dings zu laden.</l>
             </lg>
@@ -3823,7 +3824,7 @@
               <l>Dies Wort mit scharfer Geißel mein Gewissen!</l>
               <l>Der Metze Wange, schön durch falsche Kunst,</l>
               <l>Ist häßlicher bei dem nicht, was ihr hilft,</l>
-              <pb n="315"/>
+              <pb n="316"/>
               <l>Als meine Tat bei meinem glattsten Wort.</l>
               <l>O schwere Last!</l>
             </lg>
@@ -3869,7 +3870,7 @@
               <l>Wird des Gedankens Blässe angekränkelt;</l>
               <l>Und Unternehmungen voll Mark und Nachdruck,</l>
               <l>Durch diese Rücksicht aus der Bahn gelenkt,</l>
-              <pb n="316"/>
+              <pb n="317"/>
               <l>Verlieren so der Handlung Namen. – Still!</l>
               <l>Die reizende Ophelia. – Nymphe, schließ'</l>
               <l>In dein Gebet all meine Sünden ein!</l>
@@ -3958,7 +3959,7 @@
             <speaker>HAMLET.</speaker>
             <p>Geh in ein Kloster! Warum wolltest du Sünder zur Welt bringen? Ich bin selbst
               leidlich tugendhaft; dennoch könnt' ich mich solcher Dinge anklagen, daß es besser
-              wäre, meine <pb n="317"/> Mutter hätte mich nicht geboren. Ich bin sehr stolz,
+              wäre, meine <pb n="318"/> Mutter hätte mich nicht geboren. Ich bin sehr stolz,
               rachsüchtig, ehrgeizig; mir stehn mehr Vergehungen zu Dienst, als ich Gedanken habe
               sie zu hegen, Einbildungskraft ihnen Gestalt zu geben, oder Zeit sie auszuführen. Wozu
               sollen solche Gesellen wie ich zwischen Himmel und Erde herumkriechen? Wir sind
@@ -4012,7 +4013,7 @@
               <l>Und ich, der Frau'n elendeste und ärmste,</l>
               <l>Die seiner Schwüre Honig sog, ich sehe</l>
               <l>Die edle, hochgebietende Vernunft</l>
-              <pb n="318"/>
+              <pb n="319"/>
               <l>Mißtönend wie verstimmte Glocken jetzt;</l>
               <l>Dies hohe Bild, die Züge blüh'nder Jugend,</l>
               <l>Durch Schwärmerei zerrüttet: weh mir, wehe!</l>
@@ -4067,7 +4068,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="319"/>
+        <pb n="320"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Saal im Schlosse.</stage>
@@ -4103,7 +4104,7 @@
               Einsichtsvollen muß es verdrießen; und der Tadel von einem solchen muß in Eurer
               Schätzung ein ganzes Schauspielhaus voll von andern überwiegen. Oh, es gibt
               Schauspieler, die ich habe spielen sehn und von andern preisen hören, und das
-              höchlich, die, <pb n="320"/> gelinde zu sprechen, weder den Ton noch den Gang von
+              höchlich, die, <pb n="321"/> gelinde zu sprechen, weder den Ton noch den Gang von
               Christen, Heiden oder Menschen hatten, und so stolzierten und blökten, daß ich
               glaubte, irgendein Handlanger der Natur hätte Menschen gemacht, und sie wären ihm
               nicht geraten; so abscheulich ahmten sie die Menschheit nach.</p>
@@ -4169,7 +4170,7 @@
               <l>Es beuge sich des Knies gelenke Angel,</l>
               <l>Wo Kriecherei Gewinn bringt. Hör' mich an:</l>
               <l>Seit meine teure Seele Herrin war</l>
-              <pb n="321"/>
+              <pb n="322"/>
               <l>Von ihrer Wahl, und Menschen unterschied,</l>
               <l>Hat sie dich auserkoren. Denn du warst,</l>
               <l>Als littst du nichts, indem du alles littest;</l>
@@ -4224,7 +4225,7 @@
             <p>Vortrefflich, mein' Treu': von dem Chamäleons-Gericht. Ich esse Luft, ich werde mit
               Versprechungen gestopft: man kann Kapaunen nicht besser mästen.</p>
           </sp>
-          <pb n="322"/>
+          <pb n="323"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <p>Ich habe nichts mit dieser Antwort zu schaffen, Hamlet; dies sind meine Worte
@@ -4333,7 +4334,7 @@
             <speaker>HAMLET.</speaker>
             <p>So lange schon? Ei, so mag der Teufel schwarz gehn: ich will einen Zobelpelz tragen.
               O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb
-                n="323"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
+                n="324"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
               überleben kann. Aber, bei unsrer lieben Frauen! Kirchen muß er stiften, sonst denkt
               man nicht an ihn: es geht ihm wie dem Steckenpferde, dessen Grabschrift ist:</p>
             <lg>
@@ -4391,7 +4392,7 @@
               <l>Ersuchen wir Genehmigung.</l>
             </lg>
           </sp>
-          <pb n="324"/>
+          <pb n="325"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Ist dies ein Prolog, oder ein Denkspruch auf einem Ringe?</p>
@@ -4466,7 +4467,7 @@
             <lg>
               <l>Das, was die Bande zweiter Ehe flicht,</l>
               <l>Ist schnöde Sucht nach Vorteil, Liebe nicht.</l>
-              <pb n="325"/>
+              <pb n="326"/>
               <l>Es tötet noch einmal den toten Gatten,</l>
               <l>Dem zweiten die Umarmung zu gestatten.</l>
             </lg>
@@ -4515,7 +4516,7 @@
               <l>Gönnt, Tag und Nacht, mir Lust und Ruhe nicht!</l>
               <l>Verzweiflung werd' aus meinem Trost und Hoffen,</l>
               <l>Nur Klausnerbuß' im Kerker steh' mir offen!</l>
-              <pb n="326"/>
+              <pb n="327"/>
               <l>Mag alles, was der Freude Antlitz trübt,</l>
               <l>Zerstören, was mein Wunsch am meisten liebt,</l>
               <l>Und hier und dort verfolge mich Beschwerde,</l>
@@ -4604,7 +4605,7 @@
             <speaker>HAMLET.</speaker>
             <lg>
               <l>So wählt Ihr Eure Männer! – Fang' an, Mörder!</l>
-              <pb n="327"/>
+              <pb n="328"/>
               <l>Laß deine vermaledeiten Gesichter, und fang' an! Wohlauf:</l>
               <l>»Es brüllt um Rache das Gekrächz' des Raben –«</l>
             </lg>
@@ -4686,7 +4687,7 @@
             <speaker>HAMLET.</speaker>
             <p>O lieber Horatio, ich wette Tausende auf das Wort des Geistes. Merktest du?</p>
           </sp>
-          <pb n="328"/>
+          <pb n="329"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <p>Sehr gut, mein Prinz.</p>
@@ -4778,7 +4779,7 @@
             <speaker>HAMLET.</speaker>
             <p>Euch eine gesunde Antwort geben. Mein Verstand ist krank. Aber, Herr, solche Antwort,
               als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb
-                n="329"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
+                n="330"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
               Ihr –</p>
           </sp>
           <sp who="#rosenkranz">
@@ -4862,7 +4863,7 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Es ist so leicht wie lügen. Regiert diese Windlöcher mit Euren Fingern und der
-              Klappe, gebt der Flöte mit <pb n="330"/> Eurem Munde Odem, und sie wird die beredteste
+              Klappe, gebt der Flöte mit <pb n="331"/> Eurem Munde Odem, und sie wird die beredteste
               Musik sprechen. Seht Ihr, dies sind die Griffe.</p>
           </sp>
           <sp who="#gueldenstern">
@@ -4927,7 +4928,7 @@
             <lg>
               <l>Nun ist die wahre Spükezeit der Nacht,</l>
               <l>Wo Grüfte gähnen, und die Hölle selbst</l>
-              <pb n="331"/>
+              <pb n="332"/>
               <l>Pest haucht in diese Welt. Nun tränk' ich wohl heiß Blut,</l>
               <l>Und täte Dinge, die der bittre Tag</l>
               <l>Mit Schaudern säh'. Still! jetzt zu meiner Mutter!</l>
@@ -4981,7 +4982,7 @@
               <l>An dessen Riesenspeichen tausend Dinge</l>
               <l>Gekittet und gefugt sind: wenn es fällt,</l>
               <l>So teilt die kleinste Zutat und Umgebung</l>
-              <pb n="332"/>
+              <pb n="333"/>
               <l>Den ungeheuren Sturz. Kein König seufzte je</l>
               <l>Allein und ohn' ein allgemeines Weh.</l>
             </lg>
@@ -5038,7 +5039,7 @@
               <l>Emporschaun: mein Verbrechen ist geschehn.</l>
               <l>Doch oh, welch eine Wendung des Gebets</l>
               <l>Ziemt meinem Fall? »Vergib mir meinen schnöden Mord?«</l>
-              <pb n="333"/>
+              <pb n="334"/>
               <l>Dies kann nicht sein; mir bleibt ja stets noch alles,</l>
               <l>Was mich zum Mord getrieben: meine Krone,</l>
               <l>Mein eigner Ehrgeiz, meine Königin.</l>
@@ -5082,7 +5083,7 @@
               <l>Bereitet und geschickt zum Übergang?</l>
               <l>Nein.</l>
               <l>Hinein, du Schwert! sei schrecklicher gezückt!</l>
-              <pb n="334"/>
+              <pb n="335"/>
               <l>Wann er berauscht ist, schlafend, in der Wut,</l>
               <l>In seines Betts blutschänderischen Freuden,</l>
               <l>Beim Doppeln, Fluchen oder anderm Tun,</l>
@@ -5159,7 +5160,7 @@
             <speaker>KÖNIGIN.</speaker>
             <l>Was soll das, Hamlet?</l>
           </sp>
-          <pb n="335"/>
+          <pb n="336"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <l>Nun, was gibt es hier?</l>
@@ -5265,7 +5266,7 @@
             <lg>
               <l>Solch eine Tat,</l>
               <l>Die alle Huld der Sittsamkeit entstellt,</l>
-              <pb n="336"/>
+              <pb n="337"/>
               <l>Die Tugend Heuchler schilt, die Rose wegnimmt</l>
               <l>Von unschuldvoller Liebe schöner Stirn,</l>
               <l>Und Beulen hinsetzt; Eh'gelübde falsch</l>
@@ -5314,7 +5315,7 @@
               <l>Hat so den Sinn Verrücktheit unterjocht,</l>
               <l>Daß nicht ein wenig Wahl ihm blieb, genug</l>
               <l>Für solchen Unterschied. Was für ein Teufel</l>
-              <pb n="337"/>
+              <pb n="338"/>
               <l>Hat bei der Blindekuh Euch so betört?</l>
               <l>Sehn ohne Fühlen, Fühlen ohne Sehn,</l>
               <l>Ohr ohne Hand und Aug', Geruch ohn' alles,</l>
@@ -5389,7 +5390,7 @@
             <lg>
               <l>Kommt Ihr nicht. Euren trägen Sohn zu schelten,</l>
               <l>Der Zeit und Leidenschaft versäumt zur großen</l>
-              <pb n="338"/>
+              <pb n="339"/>
               <l>Vollführung Eures furchtbaren Gebots?</l>
               <l>O sagt!</l>
             </lg>
@@ -5475,7 +5476,7 @@
             <speaker>HAMLET.</speaker>
             <lg>
               <l>Verzückung?</l>
-              <pb n="339"/>
+              <pb n="340"/>
               <l>Mein Puls hält ordentlich wie Eurer Takt,</l>
               <l>Spielt eben so gesunde Melodien;</l>
               <l>Es ist kein Wahnwitz, was ich vorgebracht.</l>
@@ -5522,7 +5523,7 @@
               <l>Tut es mir leid: der Himmel hat gewollt,</l>
               <l>Um mich durch dies, und dies durch mich zu strafen,</l>
               <l>Daß ich ihm Diener muß und Geißel sein.</l>
-              <pb n="340"/>
+              <pb n="341"/>
               <l>Ich will ihn schon besorgen, und den Tod,</l>
               <l>Den ich ihm gab, vertreten. Schlaft denn wohl!</l>
               <l>Zur Grausamkeit zwingt bloße Liebe mich;</l>
@@ -5585,7 +5586,7 @@
               <l>Die Rechnung, wenn ich nicht ein Klafter tiefer</l>
               <l>Als ihre Minen grab', und sprenge sie</l>
               <l>Bis an den Mond. Oh, es ist gar zu schön,</l>
-              <pb n="341"/>
+              <pb n="342"/>
               <l>Wenn so zwei Listen sich entgegen gehn!</l>
               <l>Der Mann packt mir 'ne Last auf.</l>
               <l>Ich will den Wanst ins nächste Zimmer schleppen.</l>
@@ -5600,7 +5601,7 @@
           </sp>
         </div>
       </div>
-      <pb n="342"/>
+      <pb n="343"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -5654,7 +5655,7 @@
               <l>Recht an des Lebens Mark. Wo ist er hin?</l>
             </lg>
           </sp>
-          <pb n="343"/>
+          <pb n="344"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
@@ -5711,7 +5712,7 @@
             <stage>hinter der Szene.</stage>
             <l>Hamlet! Prinz Hamlet!</l>
           </sp>
-          <pb n="344"/>
+          <pb n="345"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <lg>
@@ -5789,7 +5790,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="345"/>
+        <pb n="346"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ein andres Zimmer im Schlosse.</stage>
@@ -5858,7 +5859,7 @@
               politischen Würmern hat sich eben an ihn gemacht. So 'n Wurm ist Euch der einzige
               Kaiser, was die Tafel betrifft. Wir mästen alle andere Kreaturen, um uns zu mästen;
               und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb
-                n="346"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
+                n="347"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
               Ende vom Liede.</p>
           </sp>
           <sp who="#koenig">
@@ -5947,7 +5948,7 @@
             <lg>
               <l>Folgt auf dem Fuß ihm, lockt ihn schnell an Bord;</l>
               <l>Verzögert nicht: er muß zu Nacht von hinnen.</l>
-              <pb n="347"/>
+              <pb n="348"/>
               <l>Fort! Alles ist versiegelt und geschehn,</l>
               <l>Was sonst die Sache heischt. Ich bitt' euch, eilt!</l>
             </lg>
@@ -6014,7 +6015,7 @@
             <speaker>HAMLET.</speaker>
             <l>Wer führt sie an?</l>
           </sp>
-          <pb n="348"/>
+          <pb n="349"/>
           <sp who="#hauptmann">
             <speaker>HAUPTMANN.</speaker>
             <l>Des alten Norwegs Neffe, Fortinbras.</l>
@@ -6086,7 +6087,7 @@
               <l>»Dies muß geschehn«, da ich doch Grund und Willen</l>
               <l>Und Kraft und Mittel hab', um es zu tun.</l>
               <l>Beispiele, die zu greifen, mahnen mich:</l>
-              <pb n="349"/>
+              <pb n="350"/>
               <l>So dieses Heer von solcher Zahl und Stärke,</l>
               <l>Von einem zarten Prinzen angeführt,</l>
               <l>Des Mut, von hoher Ehrbegier geschwellt,</l>
@@ -6141,7 +6142,7 @@
               <l>Die Hörenden auf Schlüsse; man errät,</l>
               <l>Man stückt zusammen ihrer Worte Sinn,</l>
               <l>Die sie mit Nicken gibt, mit Winken, Mienen,</l>
-              <pb n="350"/>
+              <pb n="351"/>
               <l>So daß man wahrlich denken muß, man könnte</l>
               <l>Zwar nichts gewiß, jedoch viel Arges denken.</l>
             </lg>
@@ -6227,7 +6228,7 @@
           <sp who="#ophelia">
             <speaker>OPHELIA.</speaker>
             <p>Gottes Lohn! recht gut! Sie sagen, die Eule war eines Bäckers Tochter. Ach, Herr! wir
-              wissen wohl, was wir <pb n="351"/> sind, aber nicht, was wir werden können. Gott segne
+              wissen wohl, was wir <pb n="352"/> sind, aber nicht, was wir werden können. Gott segne
               Euch die Mahlzeit!</p>
           </sp>
           <sp who="#koenig">
@@ -6290,7 +6291,7 @@
               <l>Oh, dies ist Gift des tiefen Grams: es quillt</l>
               <l>Aus ihres Vaters Tod. Und seht nun an,</l>
               <l>O Gertrud! Gertrud! wenn die Leiden kommen,</l>
-              <pb n="352"/>
+              <pb n="353"/>
               <l>So kommen sie wie einzle Späher nicht,</l>
               <l>Nein, in Geschwadern. Ihr Vater umgebracht;</l>
               <l>Fort Euer Sohn, er selbst der wüste Stifter</l>
@@ -6341,7 +6342,7 @@
               <l>Die Stützen und Bekräft'ger jedes Worts,</l>
               <l>Schrein sie: »Erwählen wir! Laertes werde König!«</l>
               <l>Und Mützen, Hände, Zungen tragen's jubelnd</l>
-              <pb n="353"/>
+              <pb n="354"/>
               <l>Bis an die Wolken: »König sei Laertes!</l>
               <l>Laertes König!«</l>
             </lg>
@@ -6433,7 +6434,7 @@
               <l>Gewissen, Frömmigkeit, zum tiefsten Schlund!</l>
               <l>Ich trotze der Verdammnis; so weit kam's:</l>
               <l>Ich schlage beide Welten in die Schanze,</l>
-              <pb n="354"/>
+              <pb n="355"/>
               <l>Mag kommen, was da kommt! Nur Rache will ich</l>
               <l>Vollauf für meinen Vater.</l>
             </lg>
@@ -6511,7 +6512,7 @@
               <l>Dem, was sie liebet, nach.</l>
             </lg>
           </sp>
-          <pb n="355"/>
+          <pb n="356"/>
           <sp who="#ophelia">
             <speaker>OPHELIA</speaker>
             <stage>singt.</stage>
@@ -6590,7 +6591,7 @@
             <speaker>KÖNIG.</speaker>
             <lg>
               <l>Laertes, ich muß Euren Gram besprechen;</l>
-              <pb n="356"/>
+              <pb n="357"/>
               <l>Versagt mir nicht mein Recht! Entfernt Euch nur,</l>
               <l>Wählt die Verständigsten von Euren Freunden,</l>
               <l>Und laßt sie richten zwischen Euch und mir:</l>
@@ -6659,7 +6660,7 @@
           </sp>
           <sp who="#erster_matrose">
             <speaker>ERSTER MATROSE.</speaker>
-            <p>Das wird er, Herr, so es ihm gefällt. Hier ist <pb n="357"/> ein Brief für Euch,
+            <p>Das wird er, Herr, so es ihm gefällt. Hier ist <pb n="358"/> ein Brief für Euch,
               Herr; er kommt von dem Gesandten, der nach England reisen sollte, wenn Euer Name
               anders Horatio ist; wie man mich versichert.</p>
           </sp>
@@ -6702,7 +6703,7 @@
               <l>Mir nach dem Leben stand.</l>
             </lg>
           </sp>
-          <pb n="358"/>
+          <pb n="359"/>
           <sp who="#laertes">
             <speaker>LAERTES.</speaker>
             <lg>
@@ -6760,7 +6761,7 @@
             <stage>Ein Bote kommt.</stage>
             <l>Nun? was gibt es Neues?</l>
           </sp>
-          <pb n="359"/>
+          <pb n="360"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <lg>
@@ -6847,7 +6848,7 @@
               <l>Und nenne Zufall sie.</l>
             </lg>
           </sp>
-          <pb n="360"/>
+          <pb n="361"/>
           <sp who="#laertes">
             <speaker>LAERTES.</speaker>
             <lg>
@@ -6924,7 +6925,7 @@
               <l>Insonderheit die Führung des Rapiers:</l>
               <l>Es gäb' ein rechtes Schauspiel, rief er aus,</l>
               <l>Wenn wer darin sich mit Euch messen könnte.</l>
-              <pb n="361"/>
+              <pb n="362"/>
               <l>Er schwur, die Fechter seines Landes hätten</l>
               <l>Noch sichre Hut, noch Auge, noch Geschick,</l>
               <l>Wenn Ihr sie angrifft: dieser sein Bericht</l>
@@ -6987,7 +6988,7 @@
               <l>Und doppelt überfirnissen den Ruhm,</l>
               <l>Den Euch der Franke gab; kurz, bringen euch zusammen,</l>
               <l>Und stellen Wetten an auf eure Köpfe.</l>
-              <pb n="362"/>
+              <pb n="363"/>
               <l>Er, achtlos, edel, frei von allem Arg,</l>
               <l>Wird die Rapiere nicht genau besehn;</l>
               <l>So könnt Ihr leicht mit ein paar kleinen Griffen</l>
@@ -7040,7 +7041,7 @@
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ein Leiden tritt dem andern auf die Fersen,</l>
-              <pb n="363"/>
+              <pb n="364"/>
               <l>So schleunig folgen sie:</l>
               <l>Laertes, Eure Schwester ist ertrunken.</l>
             </lg>
@@ -7106,7 +7107,7 @@
           </sp>
         </div>
       </div>
-      <pb n="364"/>
+      <pb n="365"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -7158,7 +7159,7 @@
             <speaker>ERSTER TOTENGRÄBER.</speaker>
             <p>Ei freilich, nach dem Totenbeschauerrecht.</p>
           </sp>
-          <pb n="365"/>
+          <pb n="366"/>
           <sp who="#zweiter_totengraeber">
             <speaker>ZWEITER TOTENGRÄBER.</speaker>
             <p>Wollt Ihr die Wahrheit wissen? Wenn's kein Fräulein gewesen wäre, so wäre sie auch
@@ -7231,7 +7232,7 @@
           <sp who="#erster_totengraeber">
             <speaker>ERSTER TOTENGRÄBER.</speaker>
             <p>Zerbrich dir den Kopf nicht weiter darum, der dumme Esel geht doch nicht schneller,
-              wie du ihn <pb n="366"/> auch prügeln magst; und wenn dir jemand das nächste Mal die
+              wie du ihn <pb n="367"/> auch prügeln magst; und wenn dir jemand das nächste Mal die
               Frage tut, antworte: der Totengräber. Die Häuser, die er baut, währen bis zum Jüngsten
               Tage. Geh, mach' dich ins Wirtshaus, und hole mir einen Schoppen Brantewein!</p>
             <stage>Zweiter Totengräber ab.</stage>
@@ -7292,7 +7293,7 @@
           </sp>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
-            <p>Ja ja, und nun Junker Wurms; eingefallen und mit <pb n="367"/> einem
+            <p>Ja ja, und nun Junker Wurms; eingefallen und mit <pb n="368"/> einem
               Totengräberspaten um die Kinnbacken geschlagen. Das ist mir eine schöne Verwandlung,
               wenn wir nur die Kunst besäßen, sie zu sehen. Haben diese Knochen nicht mehr zu
               unterhalten gekostet, als daß man Kegel mit ihnen spielt? Meine tun mir weh, wenn ich
@@ -7352,7 +7353,7 @@
             <speaker>HAMLET.</speaker>
             <p>Ich glaube wahrhaftig, daß es deines ist, denn du liegst darin.</p>
           </sp>
-          <pb n="368"/>
+          <pb n="369"/>
           <sp who="#erster_totengraeber">
             <speaker>ERSTER TOTENGRÄBER.</speaker>
             <p>Ihr liegt draußen, Herr, und also ist's nicht Eures; ich liege nicht darin, und doch
@@ -7441,7 +7442,7 @@
             <speaker>HAMLET.</speaker>
             <p>Wie, »seltsam«?</p>
           </sp>
-          <pb n="369"/>
+          <pb n="370"/>
           <sp who="#erster_totengraeber">
             <speaker>ERSTER TOTENGRÄBER.</speaker>
             <p>Mein' Seel', just dadurch, daß er den Verstand verlor.</p>
@@ -7509,7 +7510,7 @@
               diese Lippen, die ich geküßt habe, ich weiß nicht wie oft. Wo sind nun deine Schwänke?
               deine Sprünge? deine Lieder, deine Blitze von Lustigkeit, wobei die ganze Tafel in
               Lachen ausbrach? Ist jetzt keiner da, der sich über dein eignes Grinsen aufhielte?
-              Alles weggeschrumpft? Nun begib dich in die Kammer der <pb n="370"/> gnädigen Frau,
+              Alles weggeschrumpft? Nun begib dich in die Kammer der <pb n="371"/> gnädigen Frau,
               und sage ihr, wenn sie auch einen Finger dick auflegt: so 'n Gesicht muß sie endlich
               bekommen; mach' sie damit zu lachen! – Sei so gut, Horatio, sage mir dies eine!</p>
           </sp>
@@ -7570,7 +7571,7 @@
             </lg>
             <stage>Zieht sich mit Horatio zurück.</stage>
           </sp>
-          <pb n="371"/>
+          <pb n="372"/>
           <sp who="#laertes">
             <speaker>LAERTES.</speaker>
             <l>Was für Gebräuche sonst?</l>
@@ -7651,7 +7652,7 @@
             <lg>
               <l>Nun häuft den Staub auf Lebende und Tote,</l>
               <l>Bis ihr die Fläche habt zum Berg gemacht,</l>
-              <pb n="372"/>
+              <pb n="373"/>
               <l>Hoch über Pelion und das blaue Haupt</l>
               <l>Des wolkigen Olympus.</l>
             </lg>
@@ -7744,7 +7745,7 @@
               <l>Ich kann's so gut wie du.</l>
             </lg>
           </sp>
-          <pb n="373"/>
+          <pb n="374"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
@@ -7813,7 +7814,7 @@
             <speaker>HORATIO.</speaker>
             <l>Sehr gewiß.</l>
           </sp>
-          <pb n="374"/>
+          <pb n="375"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <lg>
@@ -7881,7 +7882,7 @@
               <l>Selbst ohne Frist zum Beichten.</l>
             </lg>
           </sp>
-          <pb n="375"/>
+          <pb n="376"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <l>Wie wurde dies versiegelt?</l>
@@ -7953,7 +7954,7 @@
               <l>Empörte mich zu wilder Leidenschaft.</l>
             </lg>
           </sp>
-          <pb n="376"/>
+          <pb n="377"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <l>Still doch! wer kommt?</l>
@@ -8021,7 +8022,7 @@
               Laertes hier an den Hof gekommen: auf meine Ehre, ein vollkommner Kavalier, von den
               vortrefflichsten Auszeichnungen, von einer sehr gefälligen Unterhaltung und glänzendem
               Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb
-                n="377"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
+                n="378"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
               finden, die ein Kavalier nur wünschen kann zu sehn.</p>
           </sp>
           <sp who="#hamlet">
@@ -8098,7 +8099,7 @@
             <speaker>HAMLET.</speaker>
             <p>Das wäre denn zweierlei Waffen; doch weiter!</p>
           </sp>
-          <pb n="378"/>
+          <pb n="379"/>
           <sp who="#osrick">
             <speaker>OSRICK.</speaker>
             <p>Der König, Herr, hat mit ihm sechs Barberhengste gewettet; wogegen er, wie ich höre,
@@ -8168,7 +8169,7 @@
             <p>Der Eurige. Er tut wohl daran, sie selbst zu empfehlen: es möchte ihm sonst kein Mund
               zu Gebote stehn.</p>
           </sp>
-          <pb n="379"/>
+          <pb n="380"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <p>Dieser Kiebitz ist mit der halben Eierschale auf dem Kopfe aus dem Nest gelaufen.</p>
@@ -8233,7 +8234,7 @@
             <p>Es ist nur Torheit; aber es ist eine Art von schlimmer Ahndung, die vielleicht ein
               Weib ängstigen würde.</p>
           </sp>
-          <pb n="380"/>
+          <pb n="381"/>
           <sp who="#horatio">
             <speaker>HORATIO.</speaker>
             <p>Wenn Eurem Gemüt irgend etwas widersteht, so gehorcht ihm: ich will ihrer Hieherkunft
@@ -8284,7 +8285,7 @@
             <lg>
               <l>Mir ist genug geschehn für die Natur,</l>
               <l>Die mich in diesem Fall am stärksten sollte</l>
-              <pb n="381"/>
+              <pb n="382"/>
               <l>Zur Rache treiben. Doch nach Ehrenrechten</l>
               <l>Halt' ich mich fern und weiß nichts von Versöhnung,</l>
               <l>Bis ältre Meister von geprüfter Ehre</l>
@@ -8367,7 +8368,7 @@
             <l>Wohlan, mein Prinz!</l>
             <stage>Sie fechten.</stage>
           </sp>
-          <pb n="382"/>
+          <pb n="383"/>
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <l>Eins!</l>
@@ -8485,7 +8486,7 @@
             <stage>Laertes verwundet den Hamlet; drauf wechseln sie in der Hitze des Gefechts die
               Rapiere, und Hamlet verwundet den Laertes.</stage>
           </sp>
-          <pb n="383"/>
+          <pb n="384"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Trennt sie, sie sind erhitzt!</l>
@@ -8591,7 +8592,7 @@
             <speaker>HAMLET.</speaker>
             <lg>
               <l>Der Himmel mache</l>
-              <pb n="384"/>
+              <pb n="385"/>
               <l>Dich frei davon! Ich folge dir. – Horatio,</l>
               <l>Ich sterbe. – Arme Königin, fahr' wohl!</l>
               <l>Ihr, die erblaßt und bebt bei diesem Fall,</l>
@@ -8657,7 +8658,7 @@
             <stage>Marsch hinter der Szene. Fortinbras, die englischen Gesandten und andre
               kommen.</stage>
           </sp>
-          <pb n="385"/>
+          <pb n="386"/>
           <sp who="#fortinbras">
             <speaker>FORTINBRAS.</speaker>
             <l>Wo ist dies Schauspiel?</l>
@@ -8727,7 +8728,7 @@
               <l>Und zwar aus dessen Mund, des Stimme mehre</l>
               <l>Wird nach sich ziehen; aber laßt uns dies</l>
               <l>Sogleich verrichten, weil noch die Gemüter</l>
-              <pb n="386"/>
+              <pb n="387"/>
               <l>Der Menschen wild sind, daß kein Unheil mehr</l>
               <l>Aus Ränken und Verwirrung mög' entstehn.</l>
             </lg>

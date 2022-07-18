@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="605"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -93,22 +94,22 @@
         <head>Personen</head>
         <castItem>Duncan, König von Schottland</castItem>
         <castGroup>
-          <castItem>Malcolm,</castItem>
-          <castItem>Donalbain,</castItem>
+          <castItem>Malcolm</castItem>
+          <castItem>Donalbain</castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Macbeth,</castItem>
-          <castItem>Banquo,</castItem>
+          <castItem>Macbeth</castItem>
+          <castItem>Banquo</castItem>
           <roleDesc>Anführer des königlichen Heeres</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Macduff,</castItem>
-          <castItem>Lenox,</castItem>
-          <castItem>Rosse,</castItem>
-          <castItem>Menteth,</castItem>
-          <castItem>Angus,</castItem>
-          <castItem>Cathness,</castItem>
+          <castItem>Macduff</castItem>
+          <castItem>Lenox</castItem>
+          <castItem>Rosse</castItem>
+          <castItem>Menteth</castItem>
+          <castItem>Angus</castItem>
+          <castItem>Cathness</castItem>
           <roleDesc>schottische Edle</roleDesc>
         </castGroup>
         <castItem>Fleance, Banquos Sohn</castItem>
@@ -129,7 +130,7 @@
         <p>Szene: Schottland. Zu Ende des vierten Aufzugs: England</p>
       </set>
     </front>
-    <pb n="606"/>
+    <pb n="607"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -199,7 +200,7 @@
             <speaker>MALCOLM.</speaker>
             <lg>
               <l>Dies ist der Kämpfer,</l>
-              <pb n="607"/>
+              <pb n="608"/>
               <l>Der mich, als kecker, mutiger Soldat,</l>
               <l>Aus meinen Feinden hieb: – Heil, tapfrer Freund!</l>
               <l>Dem König gib Bericht vom Handgemenge,</l>
@@ -261,7 +262,7 @@
               <l>Sie waren wie Kanonen, überladen</l>
               <l>Mit doppeltem Gekrach; so stürzten sie,</l>
               <l>Die Doppelstreiche doppelnd, auf den Feind:</l>
-              <pb n="608"/>
+              <pb n="609"/>
               <l>Ob sie in heißem Blute baden wollten,</l>
               <l>Ob auferbaun ein zweites Golgatha,</l>
               <l>Ich weiß es nicht –</l>
@@ -344,7 +345,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="609"/>
+        <pb n="610"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Die Heide. Gewitter. Die drei Hexen treten auf.</stage>
@@ -421,7 +422,7 @@
               <l>Macbeth ist da.</l>
             </lg>
           </sp>
-          <pb n="610"/>
+          <pb n="611"/>
           <sp who="#alle_drei">
             <speaker>ALLE DREI.</speaker>
             <lg>
@@ -500,7 +501,7 @@
             <speaker>ERSTE HEXE.</speaker>
             <p>Kleiner als Macbeth, und größer.</p>
           </sp>
-          <pb n="611"/>
+          <pb n="612"/>
           <sp who="#zweite_hexe">
             <speaker>ZWEITE HEXE.</speaker>
             <p>Nicht so beglückt, und doch weit glücklicher.</p>
@@ -583,7 +584,7 @@
               <l>Was dir, was ihm gehört. Doch überschauend,</l>
               <l>Was noch am selb'gen Tag geschehn, verstummt er;</l>
               <l>In Norwegs kühnen Schlachtreih'n sieht er dich,</l>
-              <pb n="612"/>
+              <pb n="613"/>
               <l>Vor dem nicht bebend, was du selber schufest,</l>
               <l>Abbilder grausen Tods. Wie Wort auf Wort</l>
               <l>In schneller Rede, so kam Bot' auf Bote,</l>
@@ -660,7 +661,7 @@
             <lg>
               <l>Zweimal gesprochene Wahrheit,</l>
               <l>Als Glücksprologen zum erhabnen Schauspiel</l>
-              <pb n="613"/>
+              <pb n="614"/>
               <l>Von kaiserlichem Inhalt. – Freund', ich dank' euch! –</l>
               <l>Die Anmahnung von jenseits der Natur</l>
               <l>Kann schlimm nicht sein, – kann gut nicht sein: – wenn schlimm –</l>
@@ -733,7 +734,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="614"/>
+        <pb n="615"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Feld.</stage>
@@ -790,7 +791,7 @@
               <l>Was Lieb' und Ehrfurcht heischt.</l>
             </lg>
           </sp>
-          <pb n="615"/>
+          <pb n="616"/>
           <sp who="#duncan">
             <speaker>DUNCAN.</speaker>
             <lg>
@@ -863,7 +864,7 @@
             <stage>Trompeten. Alle gehn ab.</stage>
           </sp>
         </div>
-        <pb n="616"/>
+        <pb n="617"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Inverneß. Zimmer in Macbeths Schloß.</stage>
@@ -903,7 +904,7 @@
               <l>Was gibt es Neues?</l>
             </lg>
           </sp>
-          <pb n="617"/>
+          <pb n="618"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <lg>
@@ -971,7 +972,7 @@
               <l>Duncan kommt heut noch.</l>
             </lg>
           </sp>
-          <pb n="618"/>
+          <pb n="619"/>
           <sp who="#lady_macbeth">
             <speaker>LADY MACBETH.</speaker>
             <l>Und wann geht er wieder?</l>
@@ -1037,7 +1038,7 @@
             </lg>
             <stage>Lady Macbeth tritt auf.</stage>
           </sp>
-          <pb n="619"/>
+          <pb n="620"/>
           <sp who="#duncan">
             <speaker>DUNCAN.</speaker>
             <lg>
@@ -1103,7 +1104,7 @@
               <l>Wär's abgetan, so wie's getan ist, dann wär's gut,</l>
               <l>Man tät' es eilig: – Wenn der Meuchelmord</l>
               <l>Aussperren könnt' aus seinem Netz die Folgen</l>
-              <pb n="620"/>
+              <pb n="621"/>
               <l>Und nur Gelingen aus der Tiefe zöge:</l>
               <l>Daß mit dem Stoß, einmal für immer, alles</l>
               <l>Sich abgeschlossen hätte – hier, nur hier –</l>
@@ -1153,7 +1154,7 @@
               <l>Nach mir gefragt?</l>
             </lg>
           </sp>
-          <pb n="621"/>
+          <pb n="622"/>
           <sp who="#lady_macbeth">
             <speaker>LADY MACBETH.</speaker>
             <l>Weißt du nicht, daß er's tat?</l>
@@ -1221,7 +1222,7 @@
               <l>Uns mißlingen! –</l>
               <l>Schraub' deinen Mut nur bis zum Punkt des Halts,</l>
               <l>Und es mißlingt uns nicht. Wenn Duncan schläft,</l>
-              <pb n="622"/>
+              <pb n="623"/>
               <l>Wozu so mehr des Tages starke Reise</l>
               <l>Ihn einlädt, – seine beiden Kämmerlinge</l>
               <l>Will ich mit würz'gem Weine so betäuben,</l>
@@ -1266,7 +1267,7 @@
           </sp>
         </div>
       </div>
-      <pb n="623"/>
+      <pb n="624"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1333,7 +1334,7 @@
               <l>Euch haben sie was Wahres doch gesagt.</l>
             </lg>
           </sp>
-          <pb n="624"/>
+          <pb n="625"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <lg>
@@ -1400,7 +1401,7 @@
               <l>Scheint tot Natur, und den verhangnen Schlaf</l>
               <l>Quälen Versucherträume; Hexenkunst</l>
               <l>Begeht den Dienst der bleichen Hekate;</l>
-              <pb n="625"/>
+              <pb n="626"/>
               <l>Und dürrer Mord,</l>
               <l>Durch seine Schildwacht aufgeschreckt, den Wolf,</l>
               <l>Der ihm das Wachtwort heult, – so dieb'schen Schrittes,</l>
@@ -1455,7 +1456,7 @@
             <stage>Macbeth tritt auf.</stage>
             <l>Nun, mein Gemahl!</l>
           </sp>
-          <pb n="626"/>
+          <pb n="627"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <l>Ich hab' die Tat getan – hört'st du nicht was?</l>
@@ -1560,7 +1561,7 @@
             <speaker>LADY MACBETH.</speaker>
             <l>Was meinst du?</l>
           </sp>
-          <pb n="627"/>
+          <pb n="628"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <lg>
@@ -1624,7 +1625,7 @@
               <l>Sind blutig, wie die deinen; doch ich schäme</l>
               <l>Mich, daß mein Herz so weiß ist.</l>
               <stage>Es wird geklopft.</stage>
-              <pb n="628"/>
+              <pb n="629"/>
               <l>Klopfen hör' ich</l>
               <l>Am Südtor: – Eilen wir in unsre Kammer;</l>
               <l>Ein wenig Wasser reint uns von der Tat,</l>
@@ -1664,7 +1665,7 @@
               weil er etwas aus einer französischen Hose gestohlen: herein, Schneider; hier kannst
               du deine Bügelgans braten. Poch, poch – Keine Ruhe! Wer seid Ihr? Aber hier ist es zu
               kalt für die Hölle; ich mag nicht länger Teufelspförtner sein. Ich dachte, ich wollte
-              von jedem Gewerbe einige herein lassen, <pb n="629"/> die den breiten Rosenpfad zum
+              von jedem Gewerbe einige herein lassen, <pb n="630"/> die den breiten Rosenpfad zum
               ewigen Freudenfeuer wandeln. – Gleich, gleich! Ich bitt' Euch, bedenkt doch, daß der
               Pförtner auch ein Mensch ist!</p>
             <stage>Er öffnet das Tor; Macduff und Lenox kommen herein.</stage>
@@ -1743,7 +1744,7 @@
               <l>Doch es ist eine Müh'.</l>
             </lg>
           </sp>
-          <pb n="630"/>
+          <pb n="631"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <lg>
@@ -1838,7 +1839,7 @@
               <l>Die Sturmglock' angeschlagen! Mord! Verrat!</l>
               <l>Banquo und Donalbain! Malcolm! Erwacht!</l>
               <l>Werft ab den flaum'gen Schlaf, des Todes Abbild,</l>
-              <pb n="631"/>
+              <pb n="632"/>
               <l>Und seht ihn selbst, den Tod! – Auf, auf, und schaut</l>
               <l>Des Weltgerichtes Vorspiel! – Malcolm! Banquo!</l>
               <l>Steigt wie aus eurem Grab! wie Geister schreitet,</l>
@@ -1916,7 +1917,7 @@
             <speaker>MACDUFF.</speaker>
             <l>Eu'r königlicher Vater ist ermordet.</l>
           </sp>
-          <pb n="632"/>
+          <pb n="633"/>
           <sp who="#malcolm">
             <speaker>MALCOLM.</speaker>
             <l>Ha! von wem?</l>
@@ -1999,7 +2000,7 @@
             <lg>
               <l>Und haben wir verhüllt der Schwäche Blößen,</l>
               <l>Die Fassung jetzt entbehrt, treffen wir uns</l>
-              <pb n="633"/>
+              <pb n="634"/>
               <l>Und forschen dieser blut'gen Untat nach,</l>
               <l>Den Grund zu sehn. Uns schütteln Furcht und Zweifel;</l>
               <l>Ich steh' in Gottes großer Hand, und so</l>
@@ -2075,7 +2076,7 @@
             <lg>
               <l>Oh, guter Vater,</l>
               <l>Der Himmel, sieh, als zürn' er Menschentaten,</l>
-              <pb n="634"/>
+              <pb n="635"/>
               <l>Dräut dieser blut'gen Bühn'. Die Uhr zeigt Tag,</l>
               <l>Doch dunkle Nacht erstickt die Wanderlampe:</l>
               <l>Ist's Sieg der Nacht, ist es die Scham des Tages,</l>
@@ -2168,7 +2169,7 @@
             <speaker>MACDUFF.</speaker>
             <lg>
               <l>Nach Colmes Kill führt man ihn zur heil'gen Gruft,</l>
-              <pb n="635"/>
+              <pb n="636"/>
               <l>Wo die Gebeine seiner Ahnen alle</l>
               <l>Versammelt ruhn.</l>
             </lg>
@@ -2211,7 +2212,7 @@
           </sp>
         </div>
       </div>
-      <pb n="636"/>
+      <pb n="637"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2275,7 +2276,7 @@
             <lg>
               <l>Sonst hätten wir wohl Euren Rat gewünscht,</l>
               <l>Der stets voll Einsicht und ersprießlich war,</l>
-              <pb n="637"/>
+              <pb n="638"/>
               <l>Im Staatsrat heut; doch gönnt ihn morgen uns!</l>
               <l>Geht Eure Reise weit?</l>
             </lg>
@@ -2345,7 +2346,7 @@
               <l>Herrscht was, das will gefürchtet sein. Viel wagt er;</l>
               <l>Und außer diesem unerschrocknen Geist</l>
               <l>Hat Weisheit er, die Führerin des Muts</l>
-              <pb n="638"/>
+              <pb n="639"/>
               <l>Zum sichern Wirken. Außer ihm ist keiner,</l>
               <l>Vor dem ich zittern muß; und unter ihm</l>
               <l>Beugt sich mein Genius scheu, wie, nach der Sage,</l>
@@ -2399,7 +2400,7 @@
             <lg>
               <l>Ich tat es und ging weiter; deshalb nun</l>
               <l>Hab' ich euch wieder her beschieden. Fühlt ihr</l>
-              <pb n="639"/>
+              <pb n="640"/>
               <l>Geduld vorherrschend so in eurem Wesen,</l>
               <l>Daß ihr dies hingehn laßt? Seid ihr so fromm,</l>
               <l>Zu beten für den guten Mann und sein</l>
@@ -2467,7 +2468,7 @@
               <l>Von ihm nach meinem Herzensleben zielt.</l>
               <l>Und obgleich meine Macht mit offnem Antlitz</l>
               <l>Ihn löschen könnt' aus meinem Blick und frei</l>
-              <pb n="640"/>
+              <pb n="641"/>
               <l>Mein Wort die Tat gestehn: doch darf ich's nicht,</l>
               <l>Um manchen, der mir Freund ist so wie ihm,</l>
               <l>Des Lieb' ich nicht kann missen; seinen Fall</l>
@@ -2539,7 +2540,7 @@
               <l>Um wen'ge Augenblicke.</l>
             </lg>
           </sp>
-          <pb n="641"/>
+          <pb n="642"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <l>Ich gehorche.</l>
@@ -2603,7 +2604,7 @@
               <l>Verbergend, was es ist.</l>
             </lg>
           </sp>
-          <pb n="642"/>
+          <pb n="643"/>
           <sp who="#lady_macbeth">
             <speaker>LADY MACBETH.</speaker>
             <l>Du mußt das lassen.</l>
@@ -2680,7 +2681,7 @@
             <lg>
               <l>So bleib' bei uns!</l>
               <l>Der West glimmt noch von schwachen Tagesstreifen:</l>
-              <pb n="643"/>
+              <pb n="644"/>
               <l>Der Reiter spornt nun eil'ger durch die Dämm'rung,</l>
               <l>Zur Schenke noch zu kommen; und schon naht</l>
               <l>Der, den wir hier erwarten.</l>
@@ -2781,7 +2782,7 @@
               <l>Seid ein für allemal!</l>
             </lg>
           </sp>
-          <pb n="644"/>
+          <pb n="645"/>
           <sp who="#lords">
             <speaker>LORDS.</speaker>
             <l>Dank Euer Hoheit!</l>
@@ -2874,7 +2875,7 @@
             </lg>
             <stage>Mörder geht ab.</stage>
           </sp>
-          <pb n="645"/>
+          <pb n="646"/>
           <sp who="#lady_macbeth">
             <speaker>LADY MACBETH.</speaker>
             <lg>
@@ -2974,7 +2975,7 @@
             <speaker>LADY MACBETH.</speaker>
             <lg>
               <l>Schönes Zeug!</l>
-              <pb n="646"/>
+              <pb n="647"/>
               <l>Das sind die wahren Bilder deiner Furcht;</l>
               <l>Das ist der luft'ge Dolch, der, wie du sagtest,</l>
               <l>Zu Duncan dich geführt! – Ha! dieses Zucken,</l>
@@ -3037,7 +3038,7 @@
               <l>Wohlan! Lieb' und Gesundheit trink' ich allen,</l>
               <l>Dann setz' ich mich. Ha! Wein her! voll den Becher!</l>
               <stage>Der Geist kommt.</stage>
-              <pb n="647"/>
+              <pb n="648"/>
               <l>So trink' ich auf das Wohl der ganzen Tafel</l>
               <l>Und Banquos, unsers Freunds, den wir vermissen.</l>
               <l>Wär' er doch hier! Sein Wohlergehn, wie aller</l>
@@ -3110,7 +3111,7 @@
             <speaker>ROSSE.</speaker>
             <l>Was für Gesichte?</l>
           </sp>
-          <pb n="648"/>
+          <pb n="649"/>
           <sp who="#lady_macbeth">
             <speaker>LADY MACBETH.</speaker>
             <lg>
@@ -3188,7 +3189,7 @@
             <stage>Sie gehen ab.</stage>
           </sp>
         </div>
-        <pb n="649"/>
+        <pb n="650"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Die Heide. Donner. Hekate kommt, die drei Hexen ihr entgegen.</stage>
@@ -3232,7 +3233,7 @@
               <l>Denn, wie ihr wißt, war Sicherheit</l>
               <l>Des Menschen Erbfeind jederzeit.</l>
               <stage>Musik hinter der Szene.</stage>
-              <pb n="650"/>
+              <pb n="651"/>
               <l>Hinweg! Dort sitzt mein kleiner Geist, o schaut!</l>
               <l>In einer dunkeln Wölk' und ruft mich laut.</l>
             </lg>
@@ -3289,7 +3290,7 @@
               <l>Sie würden fühlen, was es sagen will,</l>
               <l>Den Vater zu ermorden; so auch Fleance.</l>
               <l>Doch still! für dreiste Wort', und weil er ausblieb</l>
-              <pb n="651"/>
+              <pb n="652"/>
               <l>Beim Feste des Tyrannen, fiel Macduff</l>
               <l>In Ungunst.</l>
             </lg>
@@ -3353,7 +3354,7 @@
           </sp>
         </div>
       </div>
-      <pb n="652"/>
+      <pb n="653"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3418,7 +3419,7 @@
               <l>Aus des Haifisch scharfem Schlund;</l>
               <l>Schierlingswurz aus finsterm Grund;</l>
               <l>Auch des Lästerjuden Lunge,</l>
-              <pb n="653"/>
+              <pb n="654"/>
               <l>Türkennas' und Tartarzunge;</l>
               <l>Eibenreis, vom Stamm gerissen</l>
               <l>In des Mondes Finsternissen;</l>
@@ -3494,7 +3495,7 @@
               <l>Daß reifes Korn sich legt und Wälder brechen,</l>
               <l>Daß Burgen auf den Schloßwart niederprasseln,</l>
               <l>Daß Pyramiden und Paläste beugen</l>
-              <pb n="654"/>
+              <pb n="655"/>
               <l>Bis zu dem Grund die Häupter: Müßte selbst</l>
               <l>Der Doppellichter Pracht und Ordnung wild</l>
               <l>Zusammen taumeln, ja, bis zur Vernichtung</l>
@@ -3598,7 +3599,7 @@
               <l>Dann leb' Macduff; was brauch' ich dich zu fürchten?</l>
               <l>Doch mach' ich doppelt sicher Sicherheit,</l>
               <l>Und nehm' ein Pfand vom Schicksal: – du sollst sterben;</l>
-              <pb n="655"/>
+              <pb n="656"/>
               <l>Dann sag' ich zu der bleichen Furcht: du lügst!</l>
               <l>Und schlafe trotz dem Donner. –</l>
             </lg>
@@ -3675,7 +3676,7 @@
             <stage>Acht Könige erscheinen und gehn über die Bühne, der letzte trägt einen Spiegel;
               Banquo folgt.</stage>
           </sp>
-          <pb n="656"/>
+          <pb n="657"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <lg>
@@ -3753,7 +3754,7 @@
               <l>Daß Macduff floh nach England.</l>
             </lg>
           </sp>
-          <pb n="657"/>
+          <pb n="658"/>
           <sp who="#macbeth">
             <speaker>MACBETH.</speaker>
             <l>Floh nach England?</l>
@@ -3823,7 +3824,7 @@
               <l>So gegen die Vernunft rennt.</l>
             </lg>
           </sp>
-          <pb n="658"/>
+          <pb n="659"/>
           <sp who="#rosse">
             <speaker>ROSSE.</speaker>
             <lg>
@@ -3932,7 +3933,7 @@
             <speaker>SOHN.</speaker>
             <p>Und sind alle Verräter, die das tun?</p>
           </sp>
-          <pb n="659"/>
+          <pb n="660"/>
           <sp who="#lady_macduff">
             <speaker>LADY MACDUFF.</speaker>
             <p>Jeder, der das tut, ist ein Verräter und muß aufgehängt werden.</p>
@@ -4002,7 +4003,7 @@
             <stage>Die Mörder kommen.</stage>
             <l>Was für Gesichter?</l>
           </sp>
-          <pb n="660"/>
+          <pb n="661"/>
           <sp who="#moerder">
             <speaker>MÖRDER.</speaker>
             <l>Wo ist Euer Mann?</l>
@@ -4079,7 +4080,7 @@
               <l>Galt einst für ehrlich: Ihr habt ihn geliebt,</l>
               <l>Noch kränkt' er Euch nicht. Ich bin jung, doch näher</l>
               <l>Könnt Ihr durch mich ihn prüfen; Weisheit ist's,</l>
-              <pb n="661"/>
+              <pb n="662"/>
               <l>Ein arm, unschuldig, schwaches Lamm zu opfern,</l>
               <l>Um einen zorn'gen Gott zu sühnen.</l>
             </lg>
@@ -4146,7 +4147,7 @@
               <l>Manch wackres Tausend. Doch, bei alle dem,</l>
               <l>Wenn ich nun tret' auf des Tyrannen Haupt,</l>
               <l>Es trag' auf meinem Schwert, wird größre Laster</l>
-              <pb n="662"/>
+              <pb n="663"/>
               <l>Mein armes Land noch tragen als zuvor,</l>
               <l>Mehr dulden und auf schlimmre Art als je,</l>
               <l>Durch den, der folgen wird.</l>
@@ -4213,7 +4214,7 @@
               <l>In meinem tief verderbten Sinn der Geiz,</l>
               <l>So unersättlich, daß, wär' ich der König,</l>
               <l>Räumt' ich die Edeln weg um ihre Güter;</l>
-              <pb n="663"/>
+              <pb n="664"/>
               <l>Dem raubt' ich die Juwelen, dem das Haus;</l>
               <l>Mehr haben wäre mir die Würzung nur,</l>
               <l>Den Hunger mehr zu reizen; Netze strickt' ich,</l>
@@ -4277,7 +4278,7 @@
               <l>Dein Hoffen endet hier!</l>
             </lg>
           </sp>
-          <pb n="664"/>
+          <pb n="665"/>
           <sp who="#malcolm">
             <speaker>MALCOLM.</speaker>
             <lg>
@@ -4335,7 +4336,7 @@
             <l>Dank Euch, Doktor.</l>
             <stage>Der Arzt geht ab.</stage>
           </sp>
-          <pb n="665"/>
+          <pb n="666"/>
           <sp who="#macduff">
             <speaker>MACDUFF.</speaker>
             <l>Was für 'ne Krankheit ist's?</l>
@@ -4413,7 +4414,7 @@
             <speaker>ROSSE.</speaker>
             <lg>
               <l>Wer die erzählt, die eine Stunde alt,</l>
-              <pb n="666"/>
+              <pb n="667"/>
               <l>Wird ausgezischt; jedweder Augenblick</l>
               <l>Zeugt eine neue.</l>
             </lg>
@@ -4509,7 +4510,7 @@
               <l>Den jemals du gehört.</l>
             </lg>
           </sp>
-          <pb n="667"/>
+          <pb n="668"/>
           <sp who="#macduff">
             <speaker>MACDUFF.</speaker>
             <l>Ha! ich errat' es.</l>
@@ -4603,7 +4604,7 @@
               <l>Und prahlen mit der Zunge! – Doch, güt'ger Himmel,</l>
               <l>Vernichte alle Trennung; Stirn an Stirn</l>
               <l>Führ' diesen Teufel Schottlands mir entgegen!</l>
-              <pb n="668"/>
+              <pb n="669"/>
               <l>Stell ihn in meines Schwerts Bereich; entrinnt er,</l>
               <l>Himmel, vergib ihm auch!</l>
             </lg>
@@ -4623,7 +4624,7 @@
           </sp>
         </div>
       </div>
-      <pb n="669"/>
+      <pb n="670"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4672,7 +4673,7 @@
             <speaker>KAMMERFRAU.</speaker>
             <p>Das brennt neben ihrem Bett. Sie hat immer Licht: es ist ihr Befehl.</p>
           </sp>
-          <pb n="670"/>
+          <pb n="671"/>
           <sp who="#arzt">
             <speaker>ARZT.</speaker>
             <p>Seht, ihre Augen sind offen.</p>
@@ -4756,7 +4757,7 @@
             <speaker>LADY MACBETH.</speaker>
             <p>Wasch' deine Hände, leg' dein Nachtkleid an; sieh doch nicht so blaß aus! – Ich sage
               es dir noch einmal.</p>
-            <pb n="671"/>
+            <pb n="672"/>
             <p>Banquo ist begraben, er kann aus seiner Gruft nicht heraus kommen.</p>
           </sp>
           <sp who="#arzt">
@@ -4830,7 +4831,7 @@
             <lg>
               <l>Gewiß nicht, Herr; denn eine Liste hab' ich</l>
               <l>Vom ganzen Adel. Dort ist Siwards Sohn,</l>
-              <pb n="672"/>
+              <pb n="673"/>
               <l>Und mancher glatte Jüngling, der zuerst</l>
               <l>Die Mannheit prüft.</l>
             </lg>
@@ -4901,7 +4902,7 @@
               <l>Bis Birnams Wald anrückt auf Dunsinan,</l>
               <l>Ist Furcht mir nichts. Was ist der Knabe Malcolm?</l>
               <l>Gebar ihn nicht ein Weib! Die Geister, welche</l>
-              <pb n="673"/>
+              <pb n="674"/>
               <l>All irdisch Walten kennen, prophezeiten so:</l>
               <l>»Sei kühn, Macbeth, kein Mann, vom Weib geboren,</l>
               <l>Soll je dir was anhaben.« – Flieht denn immer,</l>
@@ -4981,7 +4982,7 @@
               <l>Gebt meine Rüstung mir!</l>
             </lg>
           </sp>
-          <pb n="674"/>
+          <pb n="675"/>
           <sp who="#seyton">
             <speaker>SEYTON.</speaker>
             <l>Noch tut's nicht not.</l>
@@ -5059,7 +5060,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="675"/>
+        <pb n="676"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Feld in der Nähe von Dunsinan, ein Wald in der Ferne.</stage>
@@ -5137,7 +5138,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="676"/>
+        <pb n="677"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Dunsinan, im Schloß.</stage>
@@ -5196,7 +5197,7 @@
             <stage>Ein Bote kommt.</stage>
             <l>Du hast was auf der Zunge: schnell heraus!</l>
           </sp>
-          <pb n="677"/>
+          <pb n="678"/>
           <sp who="#bote">
             <speaker>BOTE.</speaker>
             <lg>
@@ -5264,7 +5265,7 @@
               <l>Jetzt nah genug! Werft ab die laub'gen Schirme,</l>
               <l>Und zeigt euch, wie ihr seid! Ihr, würd'ger Oheim,</l>
               <l>Führt mit dem Vetter, Eurem edlen Sohn,</l>
-              <pb n="678"/>
+              <pb n="679"/>
               <l>Die erste Schar; ich und der würd'ge Macduff</l>
               <l>Besorgen, was noch übrig ist zu tun,</l>
               <l>Wie wir es angeordnet.</l>
@@ -5350,7 +5351,7 @@
             <stage>Er geht ab.</stage>
             <stage>Getümmel. Macduff kommt.</stage>
           </sp>
-          <pb n="679"/>
+          <pb n="680"/>
           <sp who="#macduff">
             <speaker>MACDUFF.</speaker>
             <lg>
@@ -5426,7 +5427,7 @@
             <lg>
               <l>Verlorne Müh'!</l>
               <l>So leicht magst du die unteilbare Luft</l>
-              <pb n="680"/>
+              <pb n="681"/>
               <l>Mit scharfem Schwert durchhaun, als mich verletzen:</l>
               <l>Auf Schädel, die verwundbar, schwing' den Stahl;</l>
               <l>Mein Leben ist gefeit, kann nicht erliegen</l>
@@ -5500,7 +5501,7 @@
               <l>Eu'r Sohn, Mylord, hat Kriegerschuld gezahlt:</l>
               <l>Er lebte nur, bis er ein Mann geworden;</l>
               <l>In seiner Kühnheit war dies kaum bewährt</l>
-              <pb n="681"/>
+              <pb n="682"/>
               <l>Durch unverzagten Kampf in blut'ger Schlacht,</l>
               <l>Als er starb wie ein Mann.</l>
             </lg>
@@ -5579,7 +5580,7 @@
               <l>Die des Tyrannen list'ger Schling' entflohn;</l>
               <l>Einziehn der blut'gen Schergen dieses toten</l>
               <l>Bluthunds und seiner höll'schen Königin,</l>
-              <pb n="682"/>
+              <pb n="683"/>
               <l>Die, wie man glaubt, gewaltsam selbst ihr Leben</l>
               <l>Geendet, – alles, was uns sonst noch obliegt,</l>
               <l>Das, mit der ew'gen Gnade Gnadenhort,</l>

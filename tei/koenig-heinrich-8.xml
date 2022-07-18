@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="907"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -88,6 +89,7 @@
           <titlePart type="main">König Heinrich VIII.</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="908"/>
       <pb n="909"/>
       <castList>
         <head>Personen</head>
@@ -122,7 +124,7 @@
         <castItem>Türhüter vor dem Saal des Staatsrats</castItem>
         <castItem>Pförtner</castItem>
         <castItem>Dessen Knecht</castItem>
-        <pb n="909"/>
+        <pb n="910"/>
         <castItem>Katharina, Königin von England</castItem>
         <castItem>Anna Bullen</castItem>
         <castItem>Eine alte Hofdame</castItem>
@@ -135,7 +137,7 @@
         <p>Die Szene ist abwechselnd in London und Westminster; einmal in Kimbolton</p>
       </set>
     </front>
-    <pb n="910"/>
+    <pb n="911"/>
     <body>
       <div type="prologue">
         <head>Prolog</head>
@@ -174,7 +176,7 @@
           <l>Es könn' ein Mann am Hochzeittage weinen.</l>
         </lg>
       </div>
-      <pb n="911"/>
+      <pb n="912"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -234,7 +236,7 @@
               <l>Meister des Gestern, bis der letzte Tag</l>
               <l>Die vor'gen Wunder einschlang. Überstrahlten</l>
               <l>Ganz flimmernd, ganz in Gold, gleich Heldengöttern,</l>
-              <pb n="912"/>
+              <pb n="913"/>
               <l>Die Franken heut uns: morgen schufen wir</l>
               <l>Aus England India: jeder, wie er stand,</l>
               <l>Glich einer Mine. Die Pagenzwerge schienen</l>
@@ -304,7 +306,7 @@
               <l>Hol' ihn der Teufel! Er muß an jedem Brei</l>
               <l>Ehrgeizig kochen helfen. – Was ging ihn</l>
               <l>Dies weltliche Stolzieren an? Mich wundert,</l>
-              <pb n="913"/>
+              <pb n="914"/>
               <l>Wie solch ein Klump mit seiner rohen Last</l>
               <l>Der segensreichen Sonne Licht darf hemmen,</l>
               <l>Der Erd' es vorenthaltend.</l>
@@ -369,7 +371,7 @@
               <l>Armsel'gen Ausgang?</l>
             </lg>
           </sp>
-          <pb n="914"/>
+          <pb n="915"/>
           <sp who="#norfolk">
             <speaker>NORFOLK.</speaker>
             <lg>
@@ -442,7 +444,7 @@
               zwei Schreiber mit Papieren treten auf. Der Kardinal heftet im Vorbeigehn seinen Blick
               auf Buckingham, und dieser auf ihn; beide sehn einander voller Verachtung an.</stage>
           </sp>
-          <pb n="915"/>
+          <pb n="916"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <lg>
@@ -527,7 +529,7 @@
               <l>Daß er Euch selbst versengt. Wir überrennen,</l>
               <l>Durch jähe Eil', das Ziel, nach dem wir rennen,</l>
               <l>Und gehn's verlustig. Denkt nur, wie die Flamme,</l>
-              <pb n="916"/>
+              <pb n="917"/>
               <l>Wenn sie den Trank geschwellt zum Überschäumen,</l>
               <l>Ihn, scheinbar mehrend, nur zerstäubt. Oh, hört!</l>
               <l>Ich wiederhol', es gibt kein Haupt in England</l>
@@ -586,7 +588,7 @@
               <l>(Was mich bedünkt, 'ne Art von Brut der alten</l>
               <l>Hündin Verrat): – der Kaiser Karl, vorgeblich,</l>
               <l>Die Kön'gin, seine Tante, zu besuchen</l>
-              <pb n="917"/>
+              <pb n="918"/>
               <l>(Den Anstrich gab er wirklich; doch er kam,</l>
               <l>Dem Wolsey zuzuflüstern), hält hier Einzug:</l>
               <l>Er war in Furcht, ihm werd' aus dem Kongreß</l>
@@ -654,7 +656,7 @@
             <lg>
               <l>Mich schmerzt,</l>
               <l>Der Freiheit Euch beraubt und diesen Hergang</l>
-              <pb n="918"/>
+              <pb n="919"/>
               <l>Mit anzusehn; es ist des Königs Wille,</l>
               <l>Ihr sollt zum Turm.</l>
             </lg>
@@ -736,7 +738,7 @@
               <l>Mein ganzes Leben dankt, mein Herzblut Euch</l>
               <l>Für solche Sorgfalt. Stand ich doch im Schuß</l>
               <l>Der schwergelad'nen Meuterei! Habt Dank,</l>
-              <pb n="919"/>
+              <pb n="920"/>
               <l>Der sie vertilgt. Laßt jetzt vor uns erscheinen</l>
               <l>Des Buckingham Hofmeister: in Person</l>
               <l>Will ich rechtfert'gen hören sein Bekenntnis,</l>
@@ -800,7 +802,7 @@
               <l><emph>Wirklich</emph> erscheint: denn dieser Schatzung willen</l>
               <l>Hat schon das ganze Tuchgewerk, unfähig,</l>
               <l>Die Arbeit zu erhalten, seine Spinner,</l>
-              <pb n="920"/>
+              <pb n="921"/>
               <l>Die Krempler, Walker, Weber abgedankt,</l>
               <l>Die nun, verfolgt vom Hunger, andern Handwerks</l>
               <l>Unkundig, sonder Mittel, in Verzweiflung,</l>
@@ -864,7 +866,7 @@
               <l>Wo sonst Gebete; ja es kam so weit,</l>
               <l>Daß nun lenksame Folgsamkeit erscheint</l>
               <l>Als jeglicher erhitzten Laune Sklav'. Oh, möcht'</l>
-              <pb n="921"/>
+              <pb n="922"/>
               <l>Eu'r Hoheit bald erwägen dies Geschäft!</l>
               <l>Keins ist so dringend. –</l>
             </lg>
@@ -918,7 +920,7 @@
               <l>Verzehrt die Luft den Saft. In jede Grafschaft,</l>
               <l>Wo dies verhandelt, schickt Sendschreiben mit</l>
               <l>Vollkommner Nachsicht allen, so sich sträubten</l>
-              <pb n="922"/>
+              <pb n="923"/>
               <l>Dem Druck sotaner Schatzung. Bitt' Euch, eilt,</l>
               <l>Ich leg's in Eure Hand.</l>
             </lg>
@@ -985,7 +987,7 @@
             <lg>
               <l>Erst war's ihm zur Gewohnheit, jeden Tag</l>
               <l>Sein Reden zu verpesten durch die Äuß'rung,</l>
-              <pb n="923"/>
+              <pb n="924"/>
               <l>Daß, stürb' ohn' Erben unser Herr, er sicher</l>
               <l>Das Szepter an sich brächte: solche Worte</l>
               <l>Hört' ich ihn sagen seinem Schwiegersohn</l>
@@ -1057,7 +1059,7 @@
               <l>Hochwicht'ge Ding' er offenbaren wolle;</l>
               <l>Und als er drauf, unterm Sigill der Beichte,</l>
               <l>Förmlichen Eid verlangt, was er entdeckte,</l>
-              <pb n="924"/>
+              <pb n="925"/>
               <l>Das solle mein Kaplan nie einem Menschen</l>
               <l>Als mir enthüll'n – da sprach er ernst, bedächtig,</l>
               <l>Dies Wort: Der König weder, noch sein Stamm</l>
@@ -1134,7 +1136,7 @@
               <l>Etwan im Turm, so mein' ich, spielt' ich wohl</l>
               <l>Die Rolle, die mein Vater wollt' erfüllen</l>
               <l>Am Usurpator Richard, als in Sal'sbury</l>
-              <pb n="925"/>
+              <pb n="926"/>
               <l>Er sich Gehör erbat, und wär's gewährt,</l>
               <l>Ihm unterm Schein der Huldigung sein Messer</l>
               <l>Ins Herz gestoßen hätte.«</l>
@@ -1209,7 +1211,7 @@
               <l>Sich Gut's geholt auf dieser Fahrt, sind's höchstens</l>
               <l>Ein paar Gesichter, die sie ziehn, und garst'ge,</l>
               <l>Denn macht sie <emph>einer</emph>, nun, so schwört man drauf,</l>
-              <pb n="926"/>
+              <pb n="927"/>
               <l>Selbst seine Nase sei schon Rat gewesen</l>
               <l>Bei Chlotar und Pipin, so ehrbar schaut sie.</l>
             </lg>
@@ -1291,7 +1293,7 @@
               <l>Die süßen Eitelkeiten all entbehren! –</l>
             </lg>
           </sp>
-          <pb n="927"/>
+          <pb n="928"/>
           <sp who="#lovell">
             <speaker>LOVELL.</speaker>
             <lg>
@@ -1388,7 +1390,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="928"/>
+        <pb n="929"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Im Palast des Kardinals von York.</stage>
@@ -1461,7 +1463,7 @@
               <l>Setzt Euch zu diesen Damen.</l>
             </lg>
           </sp>
-          <pb n="929"/>
+          <pb n="930"/>
           <sp who="#sands">
             <speaker>SANDS.</speaker>
             <lg>
@@ -1552,7 +1554,7 @@
             <lg>
               <l>O ja,</l>
               <l>Wenn ich den Tanz darf wählen. – Hier, mein Fräulein,</l>
-              <pb n="930"/>
+              <pb n="931"/>
               <l>Ist Wein für Euch, und wollt Bescheid mir tun;</l>
               <l>Es gilt ein Spiel ...</l>
             </lg>
@@ -1624,7 +1626,7 @@
               <l>Da sie kein Englisch reden, meld' ich dies</l>
               <l>Auf ihr Gesuch: daß, als der Ruf erschollen</l>
               <l>Von dieses Abends schöner und erlauchter</l>
-              <pb n="931"/>
+              <pb n="932"/>
               <l>Versammlung, sie nicht länger widerstanden</l>
               <l>Nach ihrer tiefen Ehrfurcht für die Schönheit,</l>
               <l>Die Herden zu verlassen, um in Eurem</l>
@@ -1709,7 +1711,7 @@
               <l>Wenn Eure Hoheit scherzt.</l>
             </lg>
           </sp>
-          <pb n="932"/>
+          <pb n="933"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -1776,7 +1778,7 @@
           </sp>
         </div>
       </div>
-      <pb n="933"/>
+      <pb n="934"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1852,7 +1854,7 @@
               <l>Persönlich ihm vor Augen bat zu führen:</l>
               <l>Worauf sein Hausvogt wider ihn erschien,</l>
               <l>Sir Gilbert Peck, sein Kanzler, und John Court,</l>
-              <pb n="934"/>
+              <pb n="935"/>
               <l>Sein Beicht'ger; ferner jener Teufelsmönch,</l>
               <l>Hopkins, der schuld an allem.</l>
             </lg>
@@ -1942,7 +1944,7 @@
             <lg>
               <l>All die Gemeinen</l>
               <l>Sind ihm von Herzen gram und säh'n ihn gern</l>
-              <pb n="935"/>
+              <pb n="936"/>
               <l>Zehn Klafter tief: so wie sie Lieb' und Treu'</l>
               <l>Dem Herzog schenkten, der ihr güt'ger Buckingham</l>
               <l>Bei ihnen heißt und aller Sitte Spiegel.</l>
@@ -1997,7 +1999,7 @@
               <l>In Eurer Brust, vergebt mir ohne Rückhalt!</l>
             </lg>
           </sp>
-          <pb n="936"/>
+          <pb n="937"/>
           <sp who="#buckingham">
             <speaker>BUCKINGHAM.</speaker>
             <lg>
@@ -2054,7 +2056,7 @@
               <l>Ob meines Vaters Mord, der edle König,</l>
               <l>Gab Ehre mir und Gut zurück und schuf mir</l>
               <l>Aus Trümmern doppelt hellen Glanz. Jetzt rafft</l>
-              <pb n="937"/>
+              <pb n="938"/>
               <l>Sein Sohn, Heinrich der Achte, Leben, Ehre</l>
               <l>Und Nam' und was mich glücklich je gemacht,</l>
               <l>Mit <emph>einem</emph> Streich auf ewig aus der Welt.</l>
@@ -2122,7 +2124,7 @@
             <speaker>ZWEITER.</speaker>
             <lg>
               <l>Wohl, ich will Euch traun.</l>
-              <pb n="938"/>
+              <pb n="939"/>
               <l>Hört an: Vernahmt Ihr nicht vor wenig Tagen</l>
               <l>Ein heimlich Munkeln über nahe Scheidung</l>
               <l>Des Königs von Kathrinen?</l>
@@ -2187,7 +2189,7 @@
             <stage>der einen Brief liest.</stage>
             <p>»Mylord! Die Pferde, nach denen Eure Herrlichkeit schickte, waren mit aller Sorgfalt
               von mir ausgewählt, zugeritten und mit Sattel und Zeug versehen worden. Sie waren jung
-              und schön, und von unsrer besten Zucht im <pb n="939"/> Norden. Als ich sie so weit
+              und schön, und von unsrer besten Zucht im <pb n="940"/> Norden. Als ich sie so weit
               gebracht, nach London abgehn zu können, hat einer von des Lord Kardinals Dienern nach
               vorgezeigter Vollmacht und Befehl, sie in Beschlag genommen, mit der Äußerung, sein
               Herr wolle eher bedient sein als ein Untertan, wo nicht eher als der König; dies,
@@ -2264,7 +2266,7 @@
               <l>Wie ein Juwel, doch nie den Glanz getrübt;</l>
               <l>Sie, die mit jener Zärtlichkeit ihn liebt,</l>
               <l>Mit der die Engel gute Menschen lieben;</l>
-              <pb n="940"/>
+              <pb n="941"/>
               <l>Ja, sie, die bei des Glückes härt'sten Streichen.</l>
               <l>Den König segnen wird! Ist das nicht fromm?</l>
             </lg>
@@ -2344,7 +2346,7 @@
             <speaker>KÖNIG.</speaker>
             <l>Wer ist hier? He?</l>
           </sp>
-          <pb n="941"/>
+          <pb n="942"/>
           <sp who="#norfolk">
             <speaker>NORFOLK.</speaker>
             <l>Gott wende seinen Zorn!</l>
@@ -2431,7 +2433,7 @@
               <l>Der Kirch' anheim gestellt habt Eure Skrupel.</l>
               <l>Wer darf nun zürnen? Welcher Haß Euch treffen?</l>
               <l>Spanien, durch Blut und Freundschaft ihr verbündet,</l>
-              <pb n="942"/>
+              <pb n="943"/>
               <l>Muß jetzt, wofern es irgend gut gesinnt,</l>
               <l>Die Untersuchung recht und edel finden.</l>
               <l>In allen Christenreichen hat der Klerus,</l>
@@ -2515,7 +2517,7 @@
               <l>In dieses Mannes Stelle?</l>
             </lg>
           </sp>
-          <pb n="943"/>
+          <pb n="944"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <l>Ja, das war er.</l>
@@ -2587,7 +2589,7 @@
               <l>Der Herr, der so lang' mit ihr lebte; sie</l>
               <l>So gut, daß keine Zunge jemals konnte</l>
               <l>Was Schlechtes von ihr sagen, – o nein, wahrlich,</l>
-              <pb n="944"/>
+              <pb n="945"/>
               <l>Sie wußte nicht, was Kränken heißt; und nun</l>
               <l>So manchen Sonnenumlauf Königin,</l>
               <l>In Pomp und Majestät anwachsend, die</l>
@@ -2669,7 +2671,7 @@
             <speaker>HOFDAME.</speaker>
             <l>Treu' hin. Treu' her! – Ihr wär't nicht gerne Fürstin?</l>
           </sp>
-          <pb n="945"/>
+          <pb n="946"/>
           <sp who="#anna">
             <speaker>ANNA.</speaker>
             <l>Nein, nicht um alle Güter unterm Mond.</l>
@@ -2751,7 +2753,7 @@
               <l>Hochachtungsvoll grüßt Euch des Königs Gnade</l>
               <l>Und will Euch mit nicht mindrer Ehre schmücken</l>
               <l>Als einer Markgräfin von Pembroke; ferner</l>
-              <pb n="946"/>
+              <pb n="947"/>
               <l>Fügt er zu solchem Titel tausend Pfund</l>
               <l>Als Jahrgehalt hinzu.</l>
             </lg>
@@ -2827,7 +2829,7 @@
             <lg>
               <l>Ich, in Eurer Stelle,</l>
               <l>Flög' über Lerchenweg. Markgräfin Pembroke!</l>
-              <pb n="947"/>
+              <pb n="948"/>
               <l>Eintausend Pfund des Jahrs! Aus bloßer Achtung!</l>
               <l>Und von Verpflichtung nichts! Bei meinem Leben,</l>
               <l>Mehr Tausende verspricht das. Der Ehre Schlepp'</l>
@@ -2879,7 +2881,7 @@
               <l>Laßt Stille rings gebieten!</l>
             </lg>
           </sp>
-          <pb n="948"/>
+          <pb n="949"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -2938,7 +2940,7 @@
               <l>Nicht Eure Freunde, kannt' ich schon sie oft</l>
               <l>Als meine Feinde? Welchem meiner Freunde,</l>
               <l>Der Euern Zorn gereizt, erhielt ich länger</l>
-              <pb n="949"/>
+              <pb n="950"/>
               <l>Mein Zutrau'n? Gab ich nicht alsbald Euch Kunde,</l>
               <l>Daß er mir fremd geworden? Denkt, o Herr,</l>
               <l>Wie ich in solcher Folgsamkeit Eu'r Weib</l>
@@ -2989,7 +2991,7 @@
               <l>Verteidigt werden.</l>
             </lg>
           </sp>
-          <pb n="950"/>
+          <pb n="951"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
@@ -3052,7 +3054,7 @@
               <l>Eu'r Vorwurf nicht, doch sieht er mich verletzt.</l>
               <l>Deshalb ist jetzt an ihm, mich herzustellen,</l>
               <l>Und dies geschieht, indem er solcherlei</l>
-              <pb n="951"/>
+              <pb n="952"/>
               <l>Gedanken Euch entfernt. Bevor deshalb</l>
               <l>Noch Seine Hoheit spricht, ersuch' ich Euch,</l>
               <l>Sehr gnäd'ge Frau, nicht denkt mehr, was Ihr spracht,</l>
@@ -3115,7 +3117,7 @@
             </lg>
             <stage>Die Königin mit Griffith und ihrem Gefolge ab.</stage>
           </sp>
-          <pb n="952"/>
+          <pb n="953"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -3167,7 +3169,7 @@
               <l>Geschlossen oft den Weg. Auf meine Ehre,</l>
               <l>Genauso sprach der Kardinal, und völlig</l>
               <l>Sprech' ich ihn frei. Nun aber, was mich reizte</l>
-              <pb n="953"/>
+              <pb n="954"/>
               <l>(– Jetzt fordr' ich Zeit und aufmerksam Gehör),</l>
               <l>Merkt nun den Anfang. Also kam's: gebt acht! –</l>
               <l>Meinem Gewissen ward die erste Regung,</l>
@@ -3206,7 +3208,7 @@
               <l>Mir herzustellen mein Gewissen, – welches</l>
               <l>Ich ganz krank fühlt', und jetzt noch nicht gesund, –</l>
               <l>Durch all' ehrwürd'gen Väter hier im Land</l>
-              <pb n="954"/>
+              <pb n="955"/>
               <l>Und würdige Doktoren. Erst, geheim,</l>
               <l>Fing ich mit Euch, Lord Lincoln, an; Ihr wißt,</l>
               <l>Wie schwer ich ächzte unter meiner Last,</l>
@@ -3268,7 +3270,7 @@
             </lg>
             <stage>Alle stehen auf, um auseinanderzugehen.</stage>
           </sp>
-          <pb n="955"/>
+          <pb n="956"/>
           <sp who="#koenig">
             <speaker>KÖNIG</speaker>
             <stage>vor sich.</stage>
@@ -3285,7 +3287,7 @@
           </sp>
         </div>
       </div>
-      <pb n="956"/>
+      <pb n="957"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3348,7 +3350,7 @@
               <l>Bittet sie,</l>
               <l>Hereinzutreten.</l>
               <stage>Edelmann ab.</stage>
-              <pb n="957"/>
+              <pb n="958"/>
               <l>Was nur führt die zwei</l>
               <l>Zu mir, der armen, gunstverstoßnen Frau? –</l>
               <l>Ich lieb' ihr Kommen nicht, bedenk' ich's recht!</l>
@@ -3413,7 +3415,7 @@
               <l>Gewiß in Englisch absolvieren.</l>
             </lg>
           </sp>
-          <pb n="958"/>
+          <pb n="959"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <lg>
@@ -3477,7 +3479,7 @@
             <lg>
               <l>Hier in England kaum</l>
               <l>Von Nutzen; glaubt ihr selbst, Mylords, es wage</l>
-              <pb n="959"/>
+              <pb n="960"/>
               <l>Ein einz'ger Englischer mir Rat zu geben?</l>
               <l>Mir offen Freund zu sein, dem Herrn entgegen?</l>
               <l>Wollt' <emph>einer</emph> so verzweifelnd ehrlich sein</l>
@@ -3554,7 +3556,7 @@
               <l>Ihr aber wandelt mich in nichts. Weh euch!</l>
               <l>Weh allen Gleisnern! Wie! Ihr ratet mir</l>
               <l>(Wenn euch noch irgend Gut' und Mitleid blieb,</l>
-              <pb n="960"/>
+              <pb n="961"/>
               <l>Wenn ihr mehr seid als Kleider nur des Priesters),</l>
               <l>Mein krankes Recht dem Todfeind zu vertraun?</l>
               <l>Ach! Schon verbannt er mich aus seinem Bett,</l>
@@ -3617,7 +3619,7 @@
             <lg>
               <l>Ihr Armen, ach! Wo bleibt auch euer Glück?</l>
               <l>Wir scheiterten auf diesem Strand, wo Mitleid –</l>
-              <pb n="961"/>
+              <pb n="962"/>
               <l>Noch Freund – noch Hoffnung – wo kein Blutsfreund weint,</l>
               <l>Man kaum ein Grab uns gönnt! – Der Lilie gleich,</l>
               <l>Die einst der Fluren Herrin war und blühte,</l>
@@ -3673,7 +3675,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="962"/>
+        <pb n="963"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Vorzimmer des Königs. Der Herzog von Norfolk, Herzog von Suffolk, Graf von Surrey
@@ -3746,7 +3748,7 @@
               <l>Wie ich's nur meinen Feinden wünsche.</l>
             </lg>
           </sp>
-          <pb n="963"/>
+          <pb n="964"/>
           <sp who="#surrey">
             <speaker>SURREY.</speaker>
             <lg>
@@ -3846,7 +3848,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Amen, sag' ich.</l>
           </sp>
-          <pb n="964"/>
+          <pb n="965"/>
           <sp who="#suffolk">
             <speaker>SUFFOLK.</speaker>
             <lg>
@@ -3937,7 +3939,7 @@
               <l>Heut' früh ihn hier erwarten.</l>
             </lg>
           </sp>
-          <pb n="965"/>
+          <pb n="966"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <lg>
@@ -4023,7 +4025,7 @@
             <lg>
               <l>Wir standen, Herr,</l>
               <l>Hier, gaben acht auf ihn: Seltsamer Aufruhr</l>
-              <pb n="966"/>
+              <pb n="967"/>
               <l>Ist ihm im Hirn; er beißt die Lippe, starrt;</l>
               <l>Hält plötzlich an den Schritt, blickt auf die Erde,</l>
               <l>Legt dann die Finger an die Schläfe; stracks,</l>
@@ -4088,7 +4090,7 @@
               <l>Und freut mich's, meinesgleichen Euch zu finden.</l>
             </lg>
           </sp>
-          <pb n="967"/>
+          <pb n="968"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <lg>
@@ -4161,7 +4163,7 @@
               <l>Des Staates Vorteil. Jenen hohen Gnaden,</l>
               <l>Auf mich gehäuft, den Armen, Unverdienten,</l>
               <l>Kann nur mein unterwürf'ger Dank erwidern</l>
-              <pb n="968"/>
+              <pb n="969"/>
               <l>Und mein inbrünstiges Gebet: die Treue,</l>
               <l>Die immer wuchs und stets noch wachsen soll,</l>
               <l>Bis Tod sie, jener Winter, hinrafft.</l>
@@ -4222,7 +4224,7 @@
               <l>Welch hast'ge Laun', und wie erweckt' ich sie?</l>
               <l>Er ging in Zorn von mir, als sprühte Tod</l>
               <l>Aus seinem Blick: so schaut der grimme Löwe,</l>
-              <pb n="969"/>
+              <pb n="970"/>
               <l>Wenn ihn der kühne Jägersmann verletzt,</l>
               <l>Vertilgt ihn dann. Lesen muß ich das Blatt:</l>
               <l>Die Ursach', fürcht' ich, seines Zorns. – So ist's.</l>
@@ -4280,7 +4282,7 @@
               <l>Bis ich mehr seh' als Absicht nur und Worte</l>
               <l>Und eure Falschheit: wißt, geschäft'ge Lords,</l>
               <l>Daß ich's verweigern werd' und kann. Jetzt fühl' ich,</l>
-              <pb n="970"/>
+              <pb n="971"/>
               <l>Aus welchem schnöden Erz ihr seid gegossen</l>
               <l>Aus Neid. Wie emsig meinem Fall ihr folget,</l>
               <l>Als nährt' er euch! Und wie so weich und glatt</l>
@@ -4343,7 +4345,7 @@
               <l>Wie Ihr so wenig Ehr' als Gradheit habt:</l>
               <l>Und daß ich auf des treuen Rechttuns Pfad</l>
               <l>Dem König, meinem stets erhabnen Herrn,</l>
-              <pb n="971"/>
+              <pb n="972"/>
               <l>Mich besser nennen darf, als Surrey ist</l>
               <l>Und alle Freunde seiner Torheit.</l>
             </lg>
@@ -4419,7 +4421,7 @@
             <speaker>WOLSEY.</speaker>
             <lg>
               <l>Sprecht nur;</l>
-              <pb n="972"/>
+              <pb n="973"/>
               <l>Trotz jeder Klag': erröt' ich, so geschieht's,</l>
               <l>Den Edlen hier zu sehn, dem Sitte fehlt.</l>
             </lg>
@@ -4500,7 +4502,7 @@
               <l>Weil alles, was vorletzt durch Euch begonnen,</l>
               <l>Ein Praemunire wird umschließen müssen,</l>
               <l>Daß gegen Euch ein Achtsbefehl ergeh',</l>
-              <pb n="973"/>
+              <pb n="974"/>
               <l>Der Eurer Güter, Landerei'n und Habe</l>
               <l>Und Eurer Schlösser Euch verlustig spricht,</l>
               <l>Gesetzlos Euch erklärt. Dies ist mein Auftrag.</l>
@@ -4553,7 +4555,7 @@
             <speaker>CROMWELL.</speaker>
             <l>Mir stockt die Sprache, Herr!</l>
           </sp>
-          <pb n="974"/>
+          <pb n="975"/>
           <sp who="#wolsey">
             <speaker>WOLSEY.</speaker>
             <lg>
@@ -4642,7 +4644,7 @@
             <lg>
               <l>Dann endlich, daß man heut</l>
               <l>Die Lady Anna, schon vorlängst dem König</l>
-              <pb n="975"/>
+              <pb n="976"/>
               <l>Heimlich vermählt, als Kön'gin offenbar</l>
               <l>Zur Kirch' ihm folgen sah, und jetzt allein</l>
               <l>Von ihrer Krönung das Gerücht ergeht.</l>
@@ -4696,7 +4698,7 @@
               <l>Den wahren, sichern, den er selbst verlor.</l>
               <l>Denk' nur an meinen Fall und was mich stürzte!</l>
               <l>Cromwell, bei deinem Heil, wirf Ehrsucht von dir!</l>
-              <pb n="976"/>
+              <pb n="977"/>
               <l>Die Sünde hat die Engel selbst betört:</l>
               <l>Wie frommte sie dem Menschen, Gottes Bilde?</l>
               <l>Fleuch Eigenliebe, segne selbst die Feinde;</l>
@@ -4731,7 +4733,7 @@
           </sp>
         </div>
       </div>
-      <pb n="977"/>
+      <pb n="978"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4811,7 +4813,7 @@
               <l>Der Fürstin Witwe? Wie steht deren Sache?</l>
             </lg>
           </sp>
-          <pb n="978"/>
+          <pb n="979"/>
           <sp who="#erster">
             <speaker>ERSTER.</speaker>
             <lg>
@@ -4859,7 +4861,7 @@
           <stage>10. Verschiedne Edelfrauen und Gräfinnen, mit schlichten goldnen Reifen um den
             Kopf, ohne Blumen.</stage>
           <stage>Sie ziehn in feierlicher Ordnung über die Bühne.</stage>
-          <pb n="979"/>
+          <pb n="980"/>
           <sp who="#zweiter">
             <speaker>ZWEITER.</speaker>
             <lg>
@@ -4971,7 +4973,7 @@
             <speaker>ZWEITER.</speaker>
             <l>Oh, erzählt uns!</l>
           </sp>
-          <pb n="980"/>
+          <pb n="981"/>
           <sp who="#dritter">
             <speaker>DRITTER.</speaker>
             <lg>
@@ -5028,7 +5030,7 @@
               <l>Dem König fiel er heim und heißt Whitehall.</l>
             </lg>
           </sp>
-          <pb n="981"/>
+          <pb n="982"/>
           <sp who="#dritter">
             <speaker>DRITTER.</speaker>
             <lg>
@@ -5118,7 +5120,7 @@
             <lg>
               <l>Tödlich krank, o Griffith!</l>
               <l>Es sinken mir, beschwerten Ästen gleich,</l>
-              <pb n="982"/>
+              <pb n="983"/>
               <l>Die Knie' zur Erd' und wichen gern der Last. –</l>
               <l>Reich' einen Sessel, – so! – Jetzt wird mir's leichter.</l>
               <l>Sagt'st du mir nicht, als du mich führtest, Griffith,</l>
@@ -5185,7 +5187,7 @@
               <l>Sich gleich gezählt; ein Mann, des heimlich Trachten</l>
               <l>Das Reich gefesselt; geistlich Recht war feil,</l>
               <l>Gesetz sein Wille, Wahrheit widerrief er</l>
-              <pb n="983"/>
+              <pb n="984"/>
               <l>Am Hof, zweizüngig überall erscheinend</l>
               <l>In Red' und Sinn: nie zeigt' er Mitleid je,</l>
               <l>Als wenn er Untergang beschloß im Herzen.</l>
@@ -5244,7 +5246,7 @@
               <l>Der meines Lebens Taten aufbewahre</l>
               <l>Und meinen Leumund rette vor Verwesung,</l>
               <l>So redlichen Chronisten als mein Griffith.</l>
-              <pb n="984"/>
+              <pb n="985"/>
               <l>Den ich zumeist gehaßt, den muß ich nun</l>
               <l>Durch deine fromme Wahrheitslieb' und Demut</l>
               <l>Im Grab noch ehren. Friede sei mit ihm! –</l>
@@ -5313,7 +5315,7 @@
               <l>Erquicken.</l>
             </lg>
           </sp>
-          <pb n="985"/>
+          <pb n="986"/>
           <sp who="#katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
@@ -5401,7 +5403,7 @@
               <l>Vor allem eignes Pflichtgefühl; demnächst</l>
               <l>Des Königs Auftrag, Euch hier zu besuchen.</l>
               <l>Es grämt ihn Eure Krankheit sehr, er meldet</l>
-              <pb n="986"/>
+              <pb n="987"/>
               <l>Sein fürstliches Empfehlen Euch durch mich</l>
               <l>Und wünscht von Herzen Euch den besten Trost.</l>
             </lg>
@@ -5469,7 +5471,7 @@
               <l>Man woll' auch ferner ihren Lohn nicht weigern,</l>
               <l>Noch etwas drüber, mir zum Angedenken;</l>
               <l>Dafern mir Gott gegönnt ein längres Leben</l>
-              <pb n="987"/>
+              <pb n="988"/>
               <l>Und reichern Schatz, wir schieden wohl nicht also.</l>
               <l>Das ist der ganze Inhalt, teurer Herr;</l>
               <l>Bei allem, was Euch wert ist in der Welt,</l>
@@ -5508,7 +5510,7 @@
           </sp>
         </div>
       </div>
-      <pb n="988"/>
+      <pb n="989"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5578,7 +5580,7 @@
             <speaker>GARDINER.</speaker>
             <lg>
               <l>Für ihre Frucht</l>
-              <pb n="989"/>
+              <pb n="990"/>
               <l>Will ich von Herzen beten, wünsch' ihr auch</l>
               <l>Gedeihn im Leben; doch den Stamm, Sir Thomas,</l>
               <l>Laßt immer jetzt vertilgen.</l>
@@ -5639,7 +5641,7 @@
               <l>Halt' ich Euch auf; ich wünsch' Euch gute Nacht.</l>
             </lg>
           </sp>
-          <pb n="990"/>
+          <pb n="991"/>
           <sp who="#lovell">
             <speaker>LOVELL.</speaker>
             <l>Gut' Nacht gleichfalls, Mylord; ich bleib' Eu'r Diener.</l>
@@ -5733,7 +5735,7 @@
               <l>Wie Ihr befahlt.</l>
             </lg>
           </sp>
-          <pb n="991"/>
+          <pb n="992"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Ah, den von Canterbury?</l>
@@ -5816,7 +5818,7 @@
               <l>Daß bis zur fernern Untersuchung nicht</l>
               <l>Der Punkte, so Ihr widerlegen sollt,</l>
               <l>Ihr Euch gedulden müßtet und bereiten,</l>
-              <pb n="992"/>
+              <pb n="993"/>
               <l>Eu'r Haus in unserm Turm zu suchen. Also</l>
               <l>Ziemt sich's für Euch, als Pair, weil sonst kein Zeuge</l>
               <l>Aufträte gegen Euch.</l>
@@ -5875,7 +5877,7 @@
               <l>Im Punkt meineid'ger Zeugen denn Eu'r Heiland,</l>
               <l>Dem Ihr als Diener folgt, solang' er wallte</l>
               <l>Auf dieser schnöden Erde? – Wie? Ei! Ei!</l>
-              <pb n="993"/>
+              <pb n="994"/>
               <l>Euch dünkt ein Abgrund kein gewagter Sprung,</l>
               <l>Ihr werbt Euch selbst den eignen Untergang!</l>
             </lg>
@@ -5945,7 +5947,7 @@
               <l>Er gleicht Euch wie ein Ei dem andern –</l>
             </lg>
           </sp>
-          <pb n="994"/>
+          <pb n="995"/>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Lovell –</l>
@@ -6026,7 +6028,7 @@
               <l>(Gott beßre sie, nie reizt' ich ihre Tücke! –)</l>
               <l>Zu meinem Schimpf; sonst schämten sie sich wohl,</l>
               <l>Mich vor der Tür zu lassen, ihresgleichen</l>
-              <pb n="995"/>
+              <pb n="996"/>
               <l>Im Staatsrat, unter Troß und Knechten. Mag</l>
               <l>Ihr Wille doch geschehn, ich warte ruhig</l>
             </lg>
@@ -6112,7 +6114,7 @@
             <speaker>GARDINER.</speaker>
             <l>Ja.</l>
           </sp>
-          <pb n="996"/>
+          <pb n="997"/>
           <sp who="#tuersteher">
             <speaker>TÜRSTEHER.</speaker>
             <lg>
@@ -6174,7 +6176,7 @@
               <l>Die gleiche Bahn bewahrten, und das Gute</l>
               <l>Blieb stets mein Ziel; auch lebt auf Erden wohl –</l>
               <l>Das sag' ich treuen Herzens, edle Lords –</l>
-              <pb n="997"/>
+              <pb n="998"/>
               <l>Nicht <emph>einer</emph>, der die Störer heim'schen Friedens</l>
               <l>Mehr haßt als ich, noch ihnen mehr entgegnet.</l>
               <l>Gott geb', es diente keiner je dem König</l>
@@ -6237,7 +6239,7 @@
               <l>Mylord von Winchester, verzeiht in Gnaden,</l>
               <l>Ihr dünkt mich fast zu hart. So edle Männer,</l>
               <l>Wenn gleich im Irrtum, sollten Nachsicht finden</l>
-              <pb n="998"/>
+              <pb n="999"/>
               <l>Für das, was sie gewesen. Grausam ist's,</l>
               <l>Den Fallenden zu drängen.</l>
             </lg>
@@ -6350,7 +6352,7 @@
             <speaker>CRANMER.</speaker>
             <lg>
               <l>Halt, gute Lords!</l>
-              <pb n="999"/>
+              <pb n="1000"/>
               <l>Gönnt mir zwei Worte noch! – Seht, werte Herrn,</l>
               <l>Kraft dieses Ringes nehm' ich meine Sache</l>
               <l>Aus böser Menschen Klau'n und gebe sie</l>
@@ -6424,7 +6426,7 @@
               <l>Zu dünn und schal, die Bosheit zu verhüllen.</l>
               <l>Ihr reicht nicht hoch genug – dem Schoßhund ähnlich,</l>
               <l>Meint Ihr mit Zungenspiel mich zu gewinnen;</l>
-              <pb n="1000"/>
+              <pb n="1001"/>
               <l>Doch wie du auch mich nimmst, ich bin gewiß,</l>
               <l>Du hegst grausame, blut'ge Sinnesart. –</l>
               <l>Setz' dich, mein guter Cranmer. Nun, laßt sehn!</l>
@@ -6483,7 +6485,7 @@
               <l>Ihr müßt Gevatter sein und sie vertreten.</l>
             </lg>
           </sp>
-          <pb n="1001"/>
+          <pb n="1002"/>
           <sp who="#cranmer">
             <speaker>CRANMER.</speaker>
             <lg>
@@ -6550,7 +6552,7 @@
           <sp who="#pfoertner">
             <speaker>PFÖRTNER.</speaker>
             <p>Gehört zum Galgen und laßt Euch hängen, Ihr Maulaff! Ist dies der Ort, solch ein
-              Gebrüll zu verführen? <pb n="1002"/> Holt mir ein Dutzend Schwarzdornknittel, von den
+              Gebrüll zu verführen? <pb n="1003"/> Holt mir ein Dutzend Schwarzdornknittel, von den
               stämmigsten! Diese hier sind alle nur wie Reitgerten. Ich werde euch die Köpfe krauen;
               müßt ihr auf Kindtaufen sein? Steht euch der Sinn auf Bier und Kuchen hier, ihr wüsten
               Esel?</p>
@@ -6616,7 +6618,7 @@
             <speaker>KNECHT.</speaker>
             <p>Desto dichter fallen die Löffel, Herr. Dort steht ein Kerl so ziemlich nah an der
               Türe, der muß ein Kupferschmied sein nach seinem Gesicht; denn, mein' Seel', zwanzig
-              Hundstage <pb n="1003"/> regieren ihm in der Nase: alle, die um ihn her stehn sind
+              Hundstage <pb n="1004"/> regieren ihm in der Nase: alle, die um ihn her stehn sind
               unter der Linie, sie brauchen keine Strafe weiter: diesen Feuerdrachen traf ich
               dreimal auf den Kopf, und dreimal gab seine Nase Feuer auf mich; er steht wie ein
               Mörser da, um auf uns loszubrennen. Neben ihm sah ich ein abgeschmacktes Trödelweib,
@@ -6657,7 +6659,7 @@
             <lg>
               <l>Sicht Eu'r Gnaden,</l>
               <l>Wir sind nur Menschen: was da möglich war</l>
-              <pb n="1004"/>
+              <pb n="1005"/>
               <l>Untotgeschlagenerweise, das geschah;</l>
               <l>Ein ganzes Heer bezwingt sie nicht.</l>
             </lg>
@@ -6713,7 +6715,7 @@
             <lg>
               <l>Und meiner edlen Mitgevattern Flehn</l>
               <l>Und meins für Eure Königliche Hoheit</l>
-              <pb n="1005"/>
+              <pb n="1006"/>
               <l>Und unsre teure Königin ist dies:</l>
               <l>Mög' alle Freud' und Tröstung, so der Himmel</l>
               <l>Je aufgespart, zwei Eltern zu beglücken,</l>
@@ -6777,7 +6779,7 @@
               <l>Gebeugt das Haupt in Gram. Heil wächst mit ihr,</l>
               <l>In ihren Tagen ißt in Frieden jeder</l>
               <l>Unter dem eignen Weinstock, was er pflanzte.</l>
-              <pb n="1006"/>
+              <pb n="1007"/>
               <l>Des Friedens heitre Klänge tönen rings,</l>
               <l>Gott wird erkannt in Wahrheit; ihre Treuen,</l>
               <l>Durch sie geführt zum wahren Pfad der Ehre,</l>
@@ -6828,7 +6830,7 @@
               <l>Das Tun des Kinds zu sehn und Gott zu preisen.</l>
               <l>Ich dank' euch allen. Euch, werter Lord Mayor,</l>
               <l>Und Euren Brüdern bin ich höchst verbunden,</l>
-              <pb n="1007"/>
+              <pb n="1008"/>
               <l>Ich ward geehrt durch Eure Gegenwart</l>
               <l>Und will mich dankbar zeigen. Kommt, ihr Herrn,</l>
               <l>Ihr müßt die Königin noch alle sehn:</l>
@@ -6841,7 +6843,7 @@
           </sp>
         </div>
       </div>
-      <pb n="1008"/>
+      <pb n="1009"/>
       <div type="epilogue">
         <head>Epilog</head>
         <lg>

@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="595"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -100,7 +101,7 @@
         <castItem>Gonzalo, ein ehrlicher alter Rat des Königs</castItem>
         <castGroup>
           <castItem>Adrian</castItem>
-          <castItem>Francisco,</castItem>
+          <castItem>Francisco</castItem>
           <roleDesc>Herren vom Hofe</roleDesc>
         </castGroup>
         <castItem>Caliban, ein wilder und mißgestalter Sklav'</castItem>
@@ -114,7 +115,7 @@
           <castItem>Ceres</castItem>
           <castItem>Juno</castItem>
           <castItem>Nymphen</castItem>
-          <castItem>Schnitter,</castItem>
+          <castItem>Schnitter</castItem>
           <roleDesc>Geister</roleDesc>
         </castGroup>
         <castItem>Andre dem Prospero dienende Geister</castItem>
@@ -123,7 +124,7 @@
         <p>Die Szene ist anfänglich die See mit einem Schiffe, nachher eine unbewohnte Insel</p>
       </set>
     </front>
-    <pb n="596"/>
+    <pb n="597"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -187,7 +188,7 @@
             <speaker>BOOTSMANN.</speaker>
             <p>Niemand, den ich lieber habe als mich selbst. Ihr seid Rat; könnt Ihr diesen
               Elementen Stillschweigen gebieten und auf der Stelle Frieden stiften, so wollen wir
-              kein <pb n="597"/> Tau mehr anrühren: gebraucht nur Euer Ansehen! Wo nicht, so dankt
+              kein <pb n="598"/> Tau mehr anrühren: gebraucht nur Euer Ansehen! Wo nicht, so dankt
               Gott, daß Ihr so lange gelebt habt, und bereitet Euch in der Kajüte auf Euer
               Stündlein, wenn es schlagen sollte. – Lustig, liebe Kinder! – Aus dem Wege, sag' ich!
                 <stage>Ab.</stage>
@@ -245,7 +246,7 @@
             <speaker>BOOTSMANN.</speaker>
             <l>Was? Müssen wir ins kalte Bad?</l>
           </sp>
-          <pb n="598"/>
+          <pb n="599"/>
           <sp who="#gonzalo">
             <speaker>GONZALO.</speaker>
             <lg>
@@ -320,7 +321,7 @@
             <speaker>PROSPERO.</speaker>
             <lg>
               <l>Fasse dich!</l>
-              <pb n="599"/>
+              <pb n="600"/>
               <l>Nichts mehr von Schreck! Sag deinem weichen Herzen:</l>
               <l>Kein Leid geschah.</l>
             </lg>
@@ -397,7 +398,7 @@
             <speaker>PROSPERO.</speaker>
             <lg>
               <l>Woran? An andern Häusern, andern Menschen?</l>
-              <pb n="600"/>
+              <pb n="601"/>
               <l>Sag mir das Bild von irgendeinem Ding,</l>
               <l>Das dir im Sinn geblieben.</l>
             </lg>
@@ -481,7 +482,7 @@
               <l>Die Krone aller Herzogtümer war,</l>
               <l>Wie Prospero der Fürsten; dafür galt er</l>
               <l>Der Würde nach und in den freien Künsten</l>
-              <pb n="601"/>
+              <pb n="602"/>
               <l>Ganz ohnegleichen. Dieser nur beflissen,</l>
               <l>Warf ich das Regiment auf meinen Bruder</l>
               <l>Und wurde meinem Lande fremd, verzückt</l>
@@ -546,7 +547,7 @@
             <speaker>PROSPERO.</speaker>
             <lg>
               <l>Um keine Scheid'wand zwischen dieser Rolle</l>
-              <pb n="602"/>
+              <pb n="603"/>
               <l>Und dem zu sehn, für welchen er sie spielte,</l>
               <l>Nimmt er sich vor, der unumschränkte Mailand</l>
               <l>Durchaus zu sein. Mich armen Mann – mein Büchersaal</l>
@@ -615,7 +616,7 @@
               <l>Sehr unnütz wär'.</l>
             </lg>
           </sp>
-          <pb n="603"/>
+          <pb n="604"/>
           <sp who="#miranda">
             <speaker>MIRANDA.</speaker>
             <lg>
@@ -690,7 +691,7 @@
             <speaker>PROSPERO.</speaker>
             <lg>
               <l>Jetzt erheb' ich mich.</l>
-              <pb n="604"/>
+              <pb n="605"/>
               <l>Bleib' still und hör' das Ende unsrer Seenot:</l>
               <l>Zu diesem Eiland kamen wir, und hier</l>
               <l>Hab' ich, dein Meister, weiter dich gebracht,</l>
@@ -755,7 +756,7 @@
               <l>Und brannt' an vielen Stellen; auf dem Mast,</l>
               <l>An Stang' und Bugspriet flammt' ich abgesondert,</l>
               <l>Floß dann in eins. Zeus' Blitze, die Verkünder</l>
-              <pb n="605"/>
+              <pb n="606"/>
               <l>Des schreckbar'n Donnerschlags, sind schneller nicht</l>
               <l>Und Blick-entrinnender; das Feu'r, die Stöße</l>
               <l>Von schweflichtem Gekrach, sie stürmten, schien's,</l>
@@ -830,7 +831,7 @@
               <l>Du einst um Mitternacht mich aufriefst, Tau</l>
               <l>Zu holen von den stürmischen Bermudas;</l>
               <l>Das Seevolk sämtlich in den Raum gepackt,</l>
-              <pb n="606"/>
+              <pb n="607"/>
               <l>Wo ich durch Zauber nebst bestand'ner Müh'</l>
               <l>Sie schlafend ließ; der Rest der Flotte endlich,</l>
               <l>Den ich zerstreut, hat wieder sich vereint</l>
@@ -929,7 +930,7 @@
             <speaker>ARIEL.</speaker>
             <l>Nein, Herr.</l>
           </sp>
-          <pb n="607"/>
+          <pb n="608"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <l>Ja, sag' ich. Sprich, wo war sie her?</l>
@@ -998,7 +999,7 @@
             <speaker>ARIEL.</speaker>
             <l>Ich dank' dir, Meister.</l>
           </sp>
-          <pb n="608"/>
+          <pb n="609"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <lg>
@@ -1098,7 +1099,7 @@
             <l>Mein Fürst, es soll geschehen.</l>
             <stage>Ab.</stage>
           </sp>
-          <pb n="609"/>
+          <pb n="610"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <lg>
@@ -1166,7 +1167,7 @@
               <l>Mit Calibans bevölkert.</l>
             </lg>
           </sp>
-          <pb n="610"/>
+          <pb n="611"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <lg>
@@ -1231,7 +1232,7 @@
               <l>Wann ihr euch geküßt, verneigt</l>
               <l>(Die See nun schweigt):</l>
               <l>Hier und dort behende springt,</l>
-              <pb n="611"/>
+              <pb n="612"/>
               <l>Und den Chor, ihr Geister, singt!</l>
               <l>Horch! Horch!</l>
             </lg>
@@ -1314,7 +1315,7 @@
               <l>Wie wir ganz so. Der Knabe, den du siehst,</l>
               <l>War bei dem Schiffbruch, und entstellt' ihn Gram,</l>
               <l>Der Schönheit Wurm, nicht, nenntest du mit Recht</l>
-              <pb n="612"/>
+              <pb n="613"/>
               <l>Ihn wohlgebildet. Er verlor die Freunde</l>
               <l>Und schweift umher nach ihnen.</l>
             </lg>
@@ -1407,7 +1408,7 @@
               <l>Ihr habt Euch selbst zu nah getan: ein Wort!</l>
             </lg>
           </sp>
-          <pb n="613"/>
+          <pb n="614"/>
           <sp who="#miranda">
             <speaker>MIRANDA.</speaker>
             <lg>
@@ -1491,7 +1492,7 @@
               <l>Daß dir das Schwert entsinkt.</l>
             </lg>
           </sp>
-          <pb n="614"/>
+          <pb n="615"/>
           <sp who="#miranda">
             <speaker>MIRANDA.</speaker>
             <l>Ich bitt' Euch, Vater!</l>
@@ -1574,7 +1575,7 @@
               <l>Ist ungewohnt von ihm.</l>
             </lg>
           </sp>
-          <pb n="615"/>
+          <pb n="616"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <lg>
@@ -1594,7 +1595,7 @@
           </sp>
         </div>
       </div>
-      <pb n="616"/>
+      <pb n="617"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1665,7 +1666,7 @@
             <speaker>GONZALO.</speaker>
             <p>Also, gnädiger Herr –</p>
           </sp>
-          <pb n="617"/>
+          <pb n="618"/>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
             <p>Pfui doch! Welch ein Verschwender ist er mit seiner Zunge!</p>
@@ -1794,7 +1795,7 @@
             <speaker>GONZALO.</speaker>
             <p>Aber die Seltenheit dabei ist – was in der Tat beinah' allen Glauben übersteigt –</p>
           </sp>
-          <pb n="618"/>
+          <pb n="619"/>
           <sp who="#sebastian">
             <speaker>SEBASTIAN.</speaker>
             <p>Wie manche beteuerte Seltenheiten!</p>
@@ -1887,7 +1888,7 @@
             <speaker>ANTONIO.</speaker>
             <p>Nun, weiter nichts.</p>
           </sp>
-          <pb n="619"/>
+          <pb n="620"/>
           <sp who="#gonzalo">
             <speaker>GONZALO.</speaker>
             <p>Herr, wir sprachen davon, daß unsre Kleider jetzt noch so frisch aussehn, als da wir
@@ -1970,7 +1971,7 @@
             <speaker>SEBASTIAN.</speaker>
             <lg>
               <l>Wir alle knieten und bestürmten Euch</l>
-              <pb n="620"/>
+              <pb n="621"/>
               <l>Vielfältig, und die holde Seele selbst</l>
               <l>Wog, zwischen Abscheu und Gehorsam, wo</l>
               <l>Die Schale sinken sollte. Euern Sohn</l>
@@ -2064,7 +2065,7 @@
             <speaker>GONZALO.</speaker>
             <lg>
               <l>In der gemeinsamen Natur sollt' alles</l>
-              <pb n="621"/>
+              <pb n="622"/>
               <l>Frucht bringen ohne Müh' und Schweiß; Verrat, Betrug,</l>
               <l>Schwert, Speer, Geschütz, Notwendigkeit der Waffen</l>
               <l>Gäb's nicht bei mir; es schaffte die Natur</l>
@@ -2150,7 +2151,7 @@
             <p>Geht schlafen und hört uns zu!</p>
             <stage>Alle schlafen ein, außer Alonso, Sebastian und Antonio.</stage>
           </sp>
-          <pb n="622"/>
+          <pb n="623"/>
           <sp who="#alonso">
             <speaker>ALONSO.</speaker>
             <lg>
@@ -2240,7 +2241,7 @@
               <l>Indessen du doch wachst.</l>
             </lg>
           </sp>
-          <pb n="623"/>
+          <pb n="624"/>
           <sp who="#sebastian">
             <speaker>SEBASTIAN.</speaker>
             <lg>
@@ -2333,7 +2334,7 @@
               <l>Der nächste Erbe Napels?</l>
             </lg>
           </sp>
-          <pb n="624"/>
+          <pb n="625"/>
           <sp who="#sebastian">
             <speaker>SEBASTIAN.</speaker>
             <l>Claribella.</l>
@@ -2406,7 +2407,7 @@
               <l>Wahr!</l>
               <l>Und seht, wie wohl mir meine Kleider sitzen,</l>
               <l>Weit saubrer wie zuvor. Des Bruders Diener,</l>
-              <pb n="625"/>
+              <pb n="626"/>
               <l>Die damals meine Kameraden waren,</l>
               <l>Sind meine Leute jetzt.</l>
             </lg>
@@ -2474,7 +2475,7 @@
               <l>Weil Ihr schnarchet, nimmt zur Tat</l>
               <l>Offnen Auges der Verrat</l>
               <l>Die Zeit in acht.</l>
-              <pb n="626"/>
+              <pb n="627"/>
               <l>Ist Euch Leben lieb und Blut:</l>
               <l>Rüttelt Euch, seid auf der Hut!</l>
               <l>Erwacht! Erwacht!</l>
@@ -2565,7 +2566,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="627"/>
+        <pb n="628"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Eine andre Gegend der Insel.</stage>
@@ -2606,7 +2607,7 @@
               ranziger und fischichter Geruch; so 'ne Art Laberdan, nicht von dem frischesten. Ein
               seltsamer Fisch! Wenn ich nun in England wäre, wie ich einmal gewesen bin, und hätte
               den Fisch nur gemalt, jeder Pfingstnarr gäbe mir dort ein Stück Silber. Da wäre ich
-              mit dem Ungeheuer ein gemachter Mann; jedes <pb n="628"/> fremde Tier macht dort
+              mit dem Ungeheuer ein gemachter Mann; jedes <pb n="629"/> fremde Tier macht dort
               seinen Mann; wenn sie keinen Deut geben wollen, einem lahmen Bettler zu helfen, so
               wenden sie zehn dran, einen toten Indianer zu sehn. – Beine wie ein Mensch! Seine
               Floßfedern wie Arme! Warm, mein' Seel'! Ich lasse jetzt meine Meinung fahren und
@@ -2652,7 +2653,7 @@
               jemals auf vier Beinen gegangen ist, kann ihn nicht zum Weichen bringen; und es soll
               auch ferner so heißen, solange Stephano einen lebendigen Odem in seiner Nase hat.</p>
           </sp>
-          <pb n="629"/>
+          <pb n="630"/>
           <sp who="#caliban">
             <speaker>CALIBAN.</speaker>
             <p>Der Geist plagt mich – Oh! –</p>
@@ -2709,7 +2710,7 @@
             <p>Ruft mich dein andrer Mund bei Namen? Behüte! Behüte! Dies ist der Teufel und kein
               Ungeheuer. Ich will keine Suppe mit ihm essen, ich habe keinen langen Löffel.</p>
           </sp>
-          <pb n="630"/>
+          <pb n="631"/>
           <sp who="#trinculo">
             <speaker>TRINCULO.</speaker>
             <p>Stephano! – Wenn du Stephano bist, rühr' mich an und sprich mit mir, denn ich bin
@@ -2780,7 +2781,7 @@
             <speaker>CALIBAN.</speaker>
             <p>Bist du nicht vom Himmel gefallen?</p>
           </sp>
-          <pb n="631"/>
+          <pb n="632"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Ja, aus dem Monde, glaub's mir: ich war zu seiner Zeit der Mann im Monde.</p>
@@ -2862,7 +2863,7 @@
               <l>Vom Felsen junge Möwen. Willst du mitgehn?</l>
             </lg>
           </sp>
-          <pb n="632"/>
+          <pb n="633"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Ich bitte dich, geh voran, ohne weiter zu schwatzen. – Trinculo, da der König und
@@ -2898,7 +2899,7 @@
           </sp>
         </div>
       </div>
-      <pb n="633"/>
+      <pb n="634"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2943,7 +2944,7 @@
             <speaker>FERDINAND.</speaker>
             <lg>
               <l>O teuerste Gebieterin! die Sonne</l>
-              <pb n="634"/>
+              <pb n="635"/>
               <l>Wird untergehn, eh' ich vollbringen kann,</l>
               <l>Was ich doch muß.</l>
             </lg>
@@ -3025,7 +3026,7 @@
               <l>Vom eigenen Geschlechte kenn' ich niemand,</l>
               <l>Erinn're mir kein weibliches Gesicht,</l>
               <l>Als meines nur im Spiegel; und ich sah</l>
-              <pb n="635"/>
+              <pb n="636"/>
               <l>Nicht mehre, die ich Männer nennen könnte,</l>
               <l>Als Euch, mein Guter, und den teuern Vater.</l>
               <l>Was für Gesichter anderswo es gibt,</l>
@@ -3097,7 +3098,7 @@
               <l>Wonach ich tot mich sehnen werde, nehmen.</l>
               <l>Doch das heißt Tändeln, und je mehr es sucht</l>
               <l>Sich zu verbergen, um so mehr erscheint's</l>
-              <pb n="636"/>
+              <pb n="637"/>
               <l>In seiner ganzen Macht. Fort, blöde Schlauheit!</l>
               <l>Führ' du das Wort mir, schlichte, heil'ge Unschuld!</l>
               <l>Ich bin Eu'r Weib, wenn Ihr mich haben wollt,</l>
@@ -3167,7 +3168,7 @@
               dieser Insel: wir sind drei davon; wenn die andern beiden so gehirnt sind wie wir, so
               wackelt der Staat.</p>
           </sp>
-          <pb n="637"/>
+          <pb n="638"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Trink, Diener-Ungeheuer, wenn ich dir's heiße. Die Augen stecken dir fast ganz im
@@ -3242,7 +3243,7 @@
               auch.</p>
             <stage>Ariel kommt, unsichtbar.</stage>
           </sp>
-          <pb n="638"/>
+          <pb n="639"/>
           <sp who="#caliban">
             <speaker>CALIBAN.</speaker>
             <p>Wie ich dir vorher sagte, ich bin einem Tyrannen untertan, (einem Zauberer,) der mich
@@ -3338,7 +3339,7 @@
             <p>Lüg' ich? Da hast du was. <stage>Schlägt ihn.</stage> Wenn du das gern hast, straf
               mich ein andermal Lügen.</p>
           </sp>
-          <pb n="639"/>
+          <pb n="640"/>
           <sp who="#trinculo">
             <speaker>TRINCULO.</speaker>
             <p>Ich strafte Euch nicht Lügen. – Seid Ihr um Euern Verstand gekommen, und ums Gehör
@@ -3409,7 +3410,7 @@
             <speaker>TRINCULO.</speaker>
             <p>Vortrefflich!</p>
           </sp>
-          <pb n="640"/>
+          <pb n="641"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Gib mir deine Hand! Es tut mir leid, daß ich dich schlug: aber hüte dich dein
@@ -3498,7 +3499,7 @@
               <l>Aufs neu' zu träumen heulte.</l>
             </lg>
           </sp>
-          <pb n="641"/>
+          <pb n="642"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Dies wird mir ein tüchtiges Königreich werden, wo ich meine Musik umsonst habe.</p>
@@ -3570,7 +3571,7 @@
               <l>Laßt ja uns recht ersehn!</l>
             </lg>
           </sp>
-          <pb n="642"/>
+          <pb n="643"/>
           <sp who="#antonio">
             <speaker>ANTONIO.</speaker>
             <lg>
@@ -3654,7 +3655,7 @@
             <stage>beiseit.</stage>
             <l>Lobt beim Ausgang!</l>
           </sp>
-          <pb n="643"/>
+          <pb n="644"/>
           <sp who="#francisco">
             <speaker>FRANCISCO.</speaker>
             <l>Sie schwanden seltsam.</l>
@@ -3717,7 +3718,7 @@
               <l>Ein Fläumchen kränken. Meine Mitgesandten sind</l>
               <l>Gleich unverwundbar: könntet ihr auch schaden,</l>
               <l>Zu schwer sind jetzt für eure Kraft die Degen</l>
-              <pb n="644"/>
+              <pb n="645"/>
               <l>Und lassen sich nicht heben. Doch bedenkt</l>
               <l>(Denn das ist meine Botschaft), daß ihr drei</l>
               <l>Den guten Prospero verstießt von Mailand,</l>
@@ -3773,7 +3774,7 @@
               <l>Mir schien, die Wellen riefen mir es zu,</l>
               <l>Die Winde sangen mir es, und der Donner,</l>
               <l>Die tiefe grause Orgelpfeife, sprach</l>
-              <pb n="645"/>
+              <pb n="646"/>
               <l>Den Namen Prospero, sie rollte meinen Frevel.</l>
               <l>Drum liegt mein Sohn im Schlamm gebettet, und</l>
               <l>Ich will ihn suchen, wo kein Senkblei forschte.</l>
@@ -3811,7 +3812,7 @@
           </sp>
         </div>
       </div>
-      <pb n="646"/>
+      <pb n="647"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3860,7 +3861,7 @@
             <lg>
               <l>So wahr</l>
               <l>Ich stille Tag', ein blühendes Geschlecht</l>
-              <pb n="647"/>
+              <pb n="648"/>
               <l>Und langes Leben hoff' in solcher Liebe</l>
               <l>Als jetzo: nicht die dämmerigste Höhle,</l>
               <l>Nicht der bequemste Platz, die stärkste Lockung</l>
@@ -3941,7 +3942,7 @@
             <speaker>FERDINAND.</speaker>
             <lg>
               <l>Herr, seid versichert,</l>
-              <pb n="648"/>
+              <pb n="649"/>
               <l>Der weiße, kalte, jungfräuliche Schnee</l>
               <l>An meiner Brust kühlt meines Blutes Hitze.</l>
             </lg>
@@ -4001,7 +4002,7 @@
               <l>Zum Heil des Paares.</l>
             </lg>
           </sp>
-          <pb n="649"/>
+          <pb n="650"/>
           <sp who="#ceres">
             <speaker>CERES.</speaker>
             <lg>
@@ -4066,7 +4067,7 @@
               <l>Pflanzen, von der Bürde wankend;</l>
               <l>Frühling werd' euch schon erneuert,</l>
               <l>Wann der Herbst kaum eingescheuert!</l>
-              <pb n="650"/>
+              <pb n="651"/>
               <l>Dürftigkeit und Mangel meid' euch!</l>
               <l>Ceres' Segen so geleit' euch!</l>
             </lg>
@@ -4134,7 +4135,7 @@
             <lg>
               <l>Vergessen hatt' ich ganz den schnöden Anschlag</l>
               <l>Des Viehes Caliban und seiner Mitverschwornen,</l>
-              <pb n="651"/>
+              <pb n="652"/>
               <l>Mich umzubringen; und der Ausführung</l>
               <l>Minute naht. –</l>
             </lg>
@@ -4211,7 +4212,7 @@
             <speaker>PROSPERO.</speaker>
             <l>Sag noch einmal, wo ließest du die Buben?</l>
           </sp>
-          <pb n="652"/>
+          <pb n="653"/>
           <sp who="#ariel">
             <speaker>ARIEL.</speaker>
             <lg>
@@ -4274,7 +4275,7 @@
             <p>Ungeheuer, dein Elfe, von dem du sagst, er sei ein harmloser Elfe, hat eben nichts
               Bessers getan, als uns zum Narren gehabt.</p>
           </sp>
-          <pb n="653"/>
+          <pb n="654"/>
           <sp who="#trinculo">
             <speaker>TRINCULO.</speaker>
             <p>Ungeheuer, ich rieche lauter Pferdeharn, worüber meine Nase höchlich entrüstet
@@ -4367,7 +4368,7 @@
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Halt' dich ruhig, Ungeheuer! Madame Linie, ist nicht dies mein Wams? Nun ist das Wams
-              unter der Linie; <pb n="654"/> nun, Wams, wird dir wohl das Haar ausgehn, und du wirst
+              unter der Linie; <pb n="655"/> nun, Wams, wird dir wohl das Haar ausgehn, und du wirst
               ein kahles Wams werden.</p>
           </sp>
           <sp who="#trinculo">
@@ -4444,7 +4445,7 @@
           </sp>
         </div>
       </div>
-      <pb n="655"/>
+      <pb n="656"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4503,7 +4504,7 @@
             <speaker>ARIEL.</speaker>
             <l>Meins würd' es, wär' ich Mensch.</l>
           </sp>
-          <pb n="656"/>
+          <pb n="657"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <lg>
@@ -4554,7 +4555,7 @@
               <l>Zu wandeln ihre Sinne, wie die luft'ge</l>
               <l>Magie vermag: so brech' ich meinen Stab,</l>
               <l>Begrab' ihn manche Klafter in die Erde,</l>
-              <pb n="657"/>
+              <pb n="658"/>
               <l>Und tiefer, als ein Senkblei je geforscht,</l>
               <l>Will ich mein Buch ertränken.</l>
             </lg>
@@ -4599,7 +4600,7 @@
               <l>Hol' mir den Hut und Degen aus der Zelle,</l>
             </lg>
             <stage>Ariel ab.</stage>
-            <pb n="658"/>
+            <pb n="659"/>
             <lg>
               <l>Auf daß ich mich entlarv' und stelle dar</l>
               <l>Als Mailand, so wie vormals. – Hurtig, Geist,</l>
@@ -4668,7 +4669,7 @@
               <l>Genas die Seelenangst, womit ein Wahnsinn</l>
               <l>Mich drückte, wie ich fürchte. Dies erfodert,</l>
               <l>Wenn's wirklich ist, die seltsamste Geschichte.</l>
-              <pb n="659"/>
+              <pb n="660"/>
               <l>Dein Herzogtum geb' ich zurück, und bitte,</l>
               <l>Vergib mein Unrecht mir! – Doch wie kann Prospero</l>
               <l>Am Leben sein und hier?</l>
@@ -4750,7 +4751,7 @@
               <l>Ich denke eher,</l>
               <l>Ihr suchtet ihre Hülfe nicht, durch deren</l>
               <l>Sanftmüt'ge Huld bei ähnlichem Verlust</l>
-              <pb n="660"/>
+              <pb n="661"/>
               <l>Ich ihres hohen Beistands teilhaft ward</l>
               <l>Und mich zufrieden gab.</l>
             </lg>
@@ -4810,7 +4811,7 @@
             <speaker>MIRANDA.</speaker>
             <l>Mein Prinz, Ihr spielt mir falsch.</l>
           </sp>
-          <pb n="661"/>
+          <pb n="662"/>
           <sp who="#ferdinand">
             <speaker>FERDINAND.</speaker>
             <lg>
@@ -4909,7 +4910,7 @@
             <speaker>GONZALO.</speaker>
             <lg>
               <l>Ich habe innerlich geweint, sonst hätt' ich</l>
-              <pb n="662"/>
+              <pb n="663"/>
               <l>Schon längst gesprochen. Schaut herab, ihr Götter,</l>
               <l>Senkt eine Segenskron' auf dieses Paar!</l>
               <l>Denn <emph>ihr</emph> seid's, die den Weg uns vorgezeichnet,</l>
@@ -4987,7 +4988,7 @@
               <l>Zu Wundern steigt es. – Sagt, wie kamt Ihr her?</l>
             </lg>
           </sp>
-          <pb n="663"/>
+          <pb n="664"/>
           <sp who="#bootsmann">
             <speaker>BOOTSMANN.</speaker>
             <lg>
@@ -5053,7 +5054,7 @@
             <stage>Ariel kommt zurück und treibt Caliban, Stephano und Trinculo in ihren gestohlnen
               Kleidern vor sich her.</stage>
           </sp>
-          <pb n="664"/>
+          <pb n="665"/>
           <sp who="#stephano">
             <speaker>STEPHANO.</speaker>
             <p>Jeder mache sich nur für alle übrigen zu schaffen, und keiner sorge für sich selbst,
@@ -5140,7 +5141,7 @@
             <speaker>STEPHANO.</speaker>
             <p>O rührt mich nicht an! Ich bin nicht Stephano, sondern ein Krampf.</p>
           </sp>
-          <pb n="665"/>
+          <pb n="666"/>
           <sp who="#prospero">
             <speaker>PROSPERO.</speaker>
             <p>Ihr wolltet hier auf der Insel König sein, Schurke?</p>
@@ -5228,7 +5229,7 @@
           </sp>
         </div>
       </div>
-      <pb n="666"/>
+      <pb n="667"/>
       <div type="epilogue">
         <head>Epilog</head>
         <stage>von Prospero gesprochen</stage>

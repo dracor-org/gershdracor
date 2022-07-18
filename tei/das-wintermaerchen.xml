@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="495"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -95,14 +96,14 @@
         <castItem>Hermione, seine Gemahlin</castItem>
         <castGroup>
           <castItem>Mamillius</castItem>
-          <castItem>Perdita,</castItem>
+          <castItem>Perdita</castItem>
           <roleDesc>seine Kinder</roleDesc>
         </castGroup>
         <castGroup>
           <castItem>Camillo</castItem>
           <castItem>Antigonus</castItem>
           <castItem>Cleomenes</castItem>
-          <castItem>Dion,</castItem>
+          <castItem>Dion</castItem>
           <roleDesc>vornehme Sizilianer</roleDesc>
         </castGroup>
         <castItem>Herren vom Hofe und sizilianische Edelleute</castItem>
@@ -123,7 +124,7 @@
         <castItem>Die Zeit als Chorus</castItem>
       </castList>
     </front>
-    <pb n="496"/>
+    <pb n="497"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -174,7 +175,7 @@
             <p>Sizilien kann Böhmen nie zu viel Huld erweisen. Sie wurden in der Kindheit mit
               einander auferzogen, und da wurzelte eine solche Liebe zwischen ihnen, daß sie jetzt
               wohl Zweige treiben muß. Seit ihre reifere Würde und ihre königlichen Pflichten ihr
-              Beisammensein trennten, waren ihre <pb n="497"/> Begegnungen, obwohl nicht persönlich,
+              Beisammensein trennten, waren ihre <pb n="498"/> Begegnungen, obwohl nicht persönlich,
               doch königlich bevollmachtet, und tauschten Gaben, Briefe, liebevolle Botschaften, so
               daß sie, obwohl getrennt, doch vereint schienen, wie über einen Abgrund einander die
               Hände reichten, und sich gleichsam von den Enden entgegengesetzter Winde umarmten. Der
@@ -235,7 +236,7 @@
               <l>Mich mahnt die Furcht, was wohl geschehn sein mag,</l>
               <l>Was unser Fernsein zeugte; bläst nur nicht</l>
               <l>Ein scharfer Wind daheim und macht uns sagen,</l>
-              <pb n="498"/>
+              <pb n="499"/>
               <l>»Zu sehr nur traf es ein!« Auch weilt' ich schon</l>
               <l>Euch zur Beschwer.</l>
             </lg>
@@ -319,7 +320,7 @@
             <speaker>POLYXENES.</speaker>
             <l>Nein, Fürstin.</l>
           </sp>
-          <pb n="499"/>
+          <pb n="500"/>
           <sp who="#hermione">
             <speaker>HERMIONE.</speaker>
             <l>O ja. Ihr tut's.</l>
@@ -400,7 +401,7 @@
             <speaker>POLYXENES.</speaker>
             <lg>
               <l>O heil'ge Fürstin,</l>
-              <pb n="500"/>
+              <pb n="501"/>
               <l>Versuchung ward seitdem uns; denn in jenen</l>
               <l>Unflüggen Tagen war mein Weib ein Kind;</l>
               <l>Und Eure Schönheit war noch nicht dem Blick</l>
@@ -476,7 +477,7 @@
             <lg>
               <l>Ja, das war Gnade.</l>
               <l>Ei seht, so sprach ich zweimal denn zum Zweck:</l>
-              <pb n="501"/>
+              <pb n="502"/>
               <l>Eins warb auf immer mir den edlen Gatten,</l>
               <l>Das andre mir den Freund auf wen'ge Tage.</l>
             </lg>
@@ -538,7 +539,7 @@
               <l>Mein Herz! mein Schatz! – Kann deine Mutter? – kann sie? –</l>
               <l>Affekt! dein Ahnen bohrt zum Mittelpunkt;</l>
               <l>Das machst du möglich, was unmöglich schien,</l>
-              <pb n="502"/>
+              <pb n="503"/>
               <l>Verkehrst mit Träumen? – (Wie kann dies geschehn?) –</l>
               <l>Mit Schatten, du einbildungsfäh'ge Kunst,</l>
               <l>Und bist dem Nichts verbrüdert; nun, wie glaublich,</l>
@@ -617,7 +618,7 @@
             <speaker>LEONTES.</speaker>
             <lg>
               <l>Ganz das Amt</l>
-              <pb n="503"/>
+              <pb n="504"/>
               <l>Hat dieser Herr bei mir; ich geh' mit ihm,</l>
               <l>Ihr geht wohl ernstern Weg. – Hermione,</l>
               <l>Wie du mich liebst, zeig' unsers Gasts Bewirtung;</l>
@@ -674,7 +675,7 @@
               <l>Für eine Frau ist keine Grenzensperre;</l>
               <l>O glaubt's! Sie läßt den Feind herein, hinaus,</l>
               <l>Mit Sack und Pack. Viel tausend unter uns,</l>
-              <pb n="504"/>
+              <pb n="505"/>
               <l>Die diese Krankheit haben, fühlen's nicht. –</l>
               <l>Nun, Knabe?</l>
             </lg>
@@ -776,7 +777,7 @@
             <lg>
               <l>Zu befried'gen?</l>
               <l>Die Bitten Eurer Fürstin zu befried'gen? –</l>
-              <pb n="505"/>
+              <pb n="506"/>
               <l>Das ist genug. Camillo, dir vertraut' ich,</l>
               <l>Was mir zunächst am Herzen lag, wie auch</l>
               <l>Mein Staatsgeheimnis; priesterlich entludest</l>
@@ -833,7 +834,7 @@
               <l>Camillo, sahst du nicht</l>
               <l>(Doch ja, du mußtest, ist dein Augenfenster</l>
               <l>Nicht dicker als ein Hahnreihorn); hört'st du</l>
-              <pb n="506"/>
+              <pb n="507"/>
               <l>(Denn wo der Augenschein so klar, da kann</l>
               <l>Gerücht nicht schweigen), dacht'st du (denn Gedanke</l>
               <l>Lebt in dem Menschen nicht, der das nicht denkt),</l>
@@ -898,7 +899,7 @@
               <l>Ich sag', du lügst, und hasse dich, Camillo;</l>
               <l>Nenn' dich 'nen Tropf und sinnberaubten Sklaven,</l>
               <l>Wo nicht, zweizüng'gen Achselträger, der</l>
-              <pb n="507"/>
+              <pb n="508"/>
               <l>Zugleich dasselb' als gut und böse sieht</l>
               <l>Und beides lobt. Wär' meines Weibes Leber</l>
               <l>Vergiftet, wie ihr Leben, stürbe sie</l>
@@ -960,7 +961,7 @@
               <l>Ich tu's, und schaff Euch Böhmen auf die Seite,</l>
               <l>Vorausgesetzt, Eure Hoheit schenkt der Kön'gin,</l>
               <l>Ist jener fort, die vor'ge Liebe wieder;</l>
-              <pb n="508"/>
+              <pb n="509"/>
               <l>Schon Euers Sohnes halb, wie auch, zu fesseln</l>
               <l>Die Lästerzungen all der Reich' und Höfe,</l>
               <l>Die Euch befreundet und verwandt.</l>
@@ -1034,7 +1035,7 @@
             <speaker>CAMILLO.</speaker>
             <l>Heil, teurer König!</l>
           </sp>
-          <pb n="509"/>
+          <pb n="510"/>
           <sp who="#polyxenes">
             <speaker>POLYXENES.</speaker>
             <l>Was gibt's am Hofe Neues?</l>
@@ -1112,7 +1113,7 @@
             <lg>
               <l>Krankheit, die ich gebracht, und ich gesund!</l>
               <l>Du mußt es sagen. – Hörst du wohl, Camillo,</l>
-              <pb n="510"/>
+              <pb n="511"/>
               <l>Bei jeder Pflicht des Manns beschwör' ich dich,</l>
               <l>Die heilig ist der Ehr' – und diese Bitte</l>
               <l>Ist wahrlich nicht verächtlich –, gib mir Aufschluß,</l>
@@ -1188,7 +1189,7 @@
               <l>Solang' sein Leib besteht.</l>
             </lg>
           </sp>
-          <pb n="511"/>
+          <pb n="512"/>
           <sp who="#polyxenes">
             <speaker>POLYXENES.</speaker>
             <l>Woher entsprang dies?</l>
@@ -1246,7 +1247,7 @@
           </sp>
         </div>
       </div>
-      <pb n="512"/>
+      <pb n="513"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1331,7 +1332,7 @@
               <l>Wenn wir Euch möchten.</l>
             </lg>
           </sp>
-          <pb n="513"/>
+          <pb n="514"/>
           <sp who="#erste_dame">
             <speaker>ERSTE DAME.</speaker>
             <lg>
@@ -1422,7 +1423,7 @@
               <l>Camillo half dazu und war sein Kuppler; –</l>
               <l>Ein Anschlag ist's auf meinen Thron, mein Leben;</l>
               <l>Zur Wahrheit wird Verdacht: – der falsche Bube,</l>
-              <pb n="514"/>
+              <pb n="515"/>
               <l>Den ich bestellt, war vorbestellt von ihm;</l>
               <l>Er hat ihm meinen Plan entdeckt, und ich</l>
               <l>Bin ein geäffter Tor für sie, ein Spielball</l>
@@ -1494,7 +1495,7 @@
             <lg>
               <l>Sagte das ein Bube,</l>
               <l>Der ausgemachtste Bube auf der Welt,</l>
-              <pb n="515"/>
+              <pb n="516"/>
               <l>Er wär' ein um so ärgrer Bub': Ihr, mein Gemahl,</l>
               <l>Seid nur im Irrtum.</l>
             </lg>
@@ -1553,7 +1554,7 @@
               <l>Macht wohl eu'r Mitleid welken; doch hier wohnt</l>
               <l>Der ehrenvolle Schmerz, der heft'ger brennt,</l>
               <l>Als daß ihn Tränen löschten: ich ersuch' euch,</l>
-              <pb n="516"/>
+              <pb n="517"/>
               <l>Mit einem Sinn, so mild, als eure Liebe</l>
               <l>Euch stimmen mag, meßt mich, – und so geschehe</l>
               <l>Des Königs Wille!</l>
@@ -1632,7 +1633,7 @@
               <l>Ihr seid getäuscht von einem Ohrenbläser,</l>
               <l>Der dafür sei verdammt; kennt' ich den Schurken,</l>
               <l>Den Garaus macht' ich ihm. – Sie ehrvergessen! –</l>
-              <pb n="517"/>
+              <pb n="518"/>
               <l>Drei Töchter hab' ich, elf die älteste,</l>
               <l>Die zweit' und dritte neun und etwa fünf;</l>
               <l>Zeigt dies sich wahr, so sollen sie's bezahlen,</l>
@@ -1704,7 +1705,7 @@
               <l>Wie wär' es möglich?</l>
               <l>Du bist, vor Alter, stumpfen Sinns, wo nicht</l>
               <l>Ein Tor schon von Geburt; Camillos Flucht,</l>
-              <pb n="518"/>
+              <pb n="519"/>
               <l>Dazu dann ihr vertrauter Umgang, der</l>
               <l>So augenscheinlich Argwohn überbot,</l>
               <l>Dem nur noch Anblick fehlte, nichts, als Zeugnis</l>
@@ -1762,7 +1763,7 @@
             <stage>Ein Diener geht ab.</stage>
             <lg>
               <l>Du edle Frau!</l>
-              <pb n="519"/>
+              <pb n="520"/>
               <l>Kein Hof Europas ist zu gut für dich:</l>
               <l>Was machst du denn im Kerker?</l>
               <stage>Ein Diener kommt mit dem Kerkermeister.</stage>
@@ -1848,7 +1849,7 @@
             <speaker>PAULINA.</speaker>
             <l>Ein Knab'?</l>
           </sp>
-          <pb n="520"/>
+          <pb n="521"/>
           <sp who="#emilia">
             <speaker>EMILIA.</speaker>
             <lg>
@@ -1916,7 +1917,7 @@
               <l>Denn keine Vollmacht hab' ich.</l>
             </lg>
           </sp>
-          <pb n="521"/>
+          <pb n="522"/>
           <sp who="#paulina">
             <speaker>PAULINA.</speaker>
             <lg>
@@ -1986,7 +1987,7 @@
               <l>Er welkt dem Tod entgegen. – Laßt mich: – geht,</l>
               <l>Seht, was er macht! – Pfui, kein Gedank' an ihn; –</l>
               <l>Schon der Gedank' der Rache dieses Weges</l>
-              <pb n="522"/>
+              <pb n="523"/>
               <l>Kehrt alsbald um; zu mächtig durch sich selbst,</l>
               <l>Durch Freund' und Bundsgenossen, – mag er bleiben,</l>
               <l>Bis einst die Zeit mir dient; doch schnelle Rache</l>
@@ -2071,7 +2072,7 @@
             <lg>
               <l>Vor allem Bösen, ja: in dieser Sache –</l>
               <l>(Wenn er's nicht macht wie Ihr und mich verhaftet,</l>
-              <pb n="523"/>
+              <pb n="524"/>
               <l>Nur weil ich ehrenhaft) – bei meiner Seele,</l>
               <l>Soll er mich nimmer zügeln.</l>
             </lg>
@@ -2155,7 +2156,7 @@
             <lg>
               <l>Ewig</l>
               <l>Sei deine Hand beschimpft, wenn auf so schmachvoll</l>
-              <pb n="524"/>
+              <pb n="525"/>
               <l>Erlogne Namen, wie er ihr gegeben,</l>
               <l>Du die Prinzeß berührst.</l>
             </lg>
@@ -2230,7 +2231,7 @@
               <l>Der ihr den Mund nicht stopft.</l>
             </lg>
           </sp>
-          <pb n="525"/>
+          <pb n="526"/>
           <sp who="#antigonus">
             <speaker>ANTIGONUS.</speaker>
             <lg>
@@ -2309,7 +2310,7 @@
             <speaker>ANTIGONUS.</speaker>
             <lg>
               <l>Das tat ich nicht;</l>
-              <pb n="526"/>
+              <pb n="527"/>
               <l>Die Herrn hier, meine edlen Freunde, sprechen</l>
               <l>Mich davon frei.</l>
             </lg>
@@ -2384,7 +2385,7 @@
               <l>Und trag' ihn gleich von dann', an einen Ort,</l>
               <l>Der wüst und menschenleer und weit entfernt</l>
               <l>Von unsern Grenzen ist, und lass' ihn dort</l>
-              <pb n="527"/>
+              <pb n="528"/>
               <l>Ohn' alle Gnad' in seinem eignen Schutz,</l>
               <l>Der freien Luft vertraut. Von einem Fremdling</l>
               <l>Kam er zu uns: mit Recht befehl' ich drum,</l>
@@ -2446,7 +2447,7 @@
           </sp>
         </div>
       </div>
-      <pb n="528"/>
+      <pb n="529"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2511,7 +2512,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="529"/>
+        <pb n="530"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Gerichtshof.</stage>
@@ -2565,7 +2566,7 @@
               <l>Sehn unser menschlich Tun (sie schaun herab),</l>
               <l>Dann zweifl' ich nicht, die Unschuld macht erröten</l>
               <l>Die falsche Klag', und Tyrannei erbebt</l>
-              <pb n="530"/>
+              <pb n="531"/>
               <l>Vor der Geduld. – Mein Fürst, Ihr wißt am besten,</l>
               <l>Scheint Ihr auch jetzt am wenigsten zu wissen:</l>
               <l>So rein und treu war mein vergangnes Leben,</l>
@@ -2622,7 +2623,7 @@
               <l>Mit einer solchen Liebe, wie's geziemlich</l>
               <l>Für eine Frau gleich mir, mit einer Liebe,</l>
               <l>So und nicht anders, als Ihr selbst befahlt;</l>
-              <pb n="531"/>
+              <pb n="532"/>
               <l>Und tat ich's nicht, so hätt' ich mich zugleich</l>
               <l>Als undankbar gezeigt und ungehorsam,</l>
               <l>Euch und dem Freund, des Liebe deutlich sprach,</l>
@@ -2681,7 +2682,7 @@
               <l>In ganz unschuld'gem Mund unschuld'ge Milch,</l>
               <l>Zum Mord geschleppt. Ich selbst an jeder Ecke</l>
               <l>Als Metze ausgeschrien; mit rohem Haß</l>
-              <pb n="532"/>
+              <pb n="533"/>
               <l>Des Kindbettrechts beraubt, das man doch Weibern</l>
               <l>Von jeder Art vergönnt: – zuletzt gerissen</l>
               <l>In freie Luft hieher, bevor ich noch</l>
@@ -2745,7 +2746,7 @@
             <speaker>BEAMTER</speaker>
             <stage>liest.</stage>
             <p>»Hermione ist keusch, Polyxenes tadellos, Camillo ein treuer Untertan, Leontes ein
-              eifersüchtiger Tyrann, <pb n="533"/> sein unschuldiges Kind rechtmäßig erzeugt, und
+              eifersüchtiger Tyrann, <pb n="534"/> sein unschuldiges Kind rechtmäßig erzeugt, und
               der König wird ohne Erben leben, wenn das, was verloren ist, nicht wieder gefunden
               wird.«</p>
           </sp>
@@ -2829,7 +2830,7 @@
               <l>Durch Eifersucht zu Rach' und Blutgedanken</l>
               <l>Gerissen, rief ich mir Camillo auf,</l>
               <l>Polyxenes, den Teuren, zu vergiften.</l>
-              <pb n="534"/>
+              <pb n="535"/>
               <l>Auch wär's vollbracht,</l>
               <l>Wenn nicht Camillos edler Sinn verzögert</l>
               <l>Den schleunigen Befehl, obgleich durch Tod,</l>
@@ -2880,7 +2881,7 @@
               <l>Als wenig, nichts, obgleich ein Teufel eher</l>
               <l>Aus Flammengluten Wasserströme weinte;</l>
               <l>Noch fällt allein auf dich des Prinzen Tod,</l>
-              <pb n="535"/>
+              <pb n="536"/>
               <l>Dem hoher Sinn (zu hoch so zarter Jugend)</l>
               <l>Sein Herz zerbrach vor Schmerz, daß töricht roh</l>
               <l>Der Vater ehrlos macht die holde Mutter;</l>
@@ -2944,7 +2945,7 @@
               <l>Mich strafen, weil ich Euch an das erinnert,</l>
               <l>Was Ihr vergessen solltet. Guter König,</l>
               <l>Herr, hoher Herr, vergebt der Weibestorheit</l>
-              <pb n="536"/>
+              <pb n="537"/>
               <l>Die Liebe zu der Kön'gin, – wieder töricht! –</l>
               <l>Nie sprech' ich mehr von ihr, noch Euren Kindern;</l>
               <l>Ich will Euch nie an meinen Gatten mahnen,</l>
@@ -3009,7 +3010,7 @@
               <l>Der wilden Tiere wegen.</l>
             </lg>
           </sp>
-          <pb n="537"/>
+          <pb n="538"/>
           <sp who="#antigonus">
             <speaker>ANTIGONUS.</speaker>
             <lg>
@@ -3062,7 +3063,7 @@
               <l>Zum Leben oder Tod, auf diesen Boden</l>
               <l>Des wahren Vaters. – Kindchen, geh' dir's gut!</l>
               <stage>Er legt das Kind hin.</stage>
-              <pb n="538"/>
+              <pb n="539"/>
               <l>Hier lieg', und hier dein Name; hier auch dies,</l>
               <stage>Er legt ein Paket hin.</stage>
               <l>Das, will's das Glück, dich wohl mag auferziehn</l>
@@ -3098,7 +3099,7 @@
               mein Sohn kommt, er schrie noch eben dort. Holla hohl</p>
             <stage>Der junge Schäfer kommt.</stage>
           </sp>
-          <pb n="539"/>
+          <pb n="540"/>
           <sp who="#der_junge_schaefer">
             <speaker>DER JUNGE SCHÄFER.</speaker>
             <p>Holla hoh!</p>
@@ -3154,7 +3155,7 @@
             <speaker>DER ALTE SCHÄFER.</speaker>
             <p>Schlimme Geschichten! schlimme Geschichten! Aber sieh hier, Junge! Nun sperr' die
               Augen auf, du kommst, wo's zum Tode geht, ich, wo was Neugebornes ist. Hier ist ein
-              anderes Gesicht für dich; sieh doch, ein <pb n="540"/> Taufkleid, wie für eines
+              anderes Gesicht für dich; sieh doch, ein <pb n="541"/> Taufkleid, wie für eines
               Edelmanns Kind! Schau her, nimm auf, nimm auf, Junge; bind' es auf! So, laß sehn: es
               wurde mir prophezeit, ich sollte reich werden durch die Feen; das ist ein Wechselkind:
               – bind' es auf: was ist darin, Junge?</p>
@@ -3204,7 +3205,7 @@
               <l>Von dieser weiten Kluft, da meine Stärke</l>
               <l>Gesetze stürzt, in einer Stund' auch Werke</l>
               <l>Und Sitten pflanzt und tilgt. So seht mich an,</l>
-              <pb n="541"/>
+              <pb n="542"/>
               <l>Wie stets ich war, eh' Ordnung noch begann,</l>
               <l>So alt' als neue: denn ich sah die Stunde,</l>
               <l>Die sie hervorgebracht; so geb' ich Kunde</l>
@@ -3232,7 +3233,7 @@
           </sp>
         </div>
       </div>
-      <pb n="542"/>
+      <pb n="543"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3265,7 +3266,7 @@
               Lande Sizilien, bitte, sprich nicht mehr: dieser Name schon martert mich, indem er
               mich an jenen reuigen König, wie du ihn nennst, meinen versöhnten Bruder, erinnert;
               der Verlust seiner unschätzbaren Königin und seiner Kinder muß noch jetzt, wie neu
-              geschehen, beklagt werden. – Sage mir, wann sahest du den Prinzen <pb n="543"/>
+              geschehen, beklagt werden. – Sage mir, wann sahest du den Prinzen <pb n="544"/>
               Florizel, meinen Sohn? Die Könige sind nicht minder unglücklich, deren Kinder nicht
               begabt sind, als jene, die solche verlieren, deren Vorzüge sich schon zeigten.</p>
           </sp>
@@ -3317,7 +3318,7 @@
             <speaker>AUTOLYCUS.</speaker>
             <l>Wenn die Narzisse blickt herfür, –</l>
             <l>Mit Heisa! das Mägdlein über dem Tal, –</l>
-            <pb n="544"/>
+            <pb n="545"/>
             <lg>
               <l>Ja, dann kommt des Jahres lieblichste Zier;</l>
               <l>Statt Winter bleich herrscht rotes Blut zumal.</l>
@@ -3363,7 +3364,7 @@
               – und etliche Schilling: fünfzehnhundert geschoren – wie hoch kommt die Wolle
               dann?</p>
           </sp>
-          <pb n="545"/>
+          <pb n="546"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS</speaker>
             <stage>beiseit.</stage>
@@ -3429,7 +3430,7 @@
                 auf.</stage>
             </p>
           </sp>
-          <pb n="546"/>
+          <pb n="547"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
             <p>Oh! guter Herr, sachte, au weh, sachte!</p>
@@ -3492,7 +3493,7 @@
             <p>Der Henker hol' ihn! Ein Gauner, mein' Seel', ein Gauner; er treibt sich auf
               Kirchmessen, Jahrmärkten und Bärenhetzen herum.</p>
           </sp>
-          <pb n="547"/>
+          <pb n="548"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
             <p>Sehr wahr, Herr, der ist es, Herr; das ist der Schurke, der mich in dies Zeug
@@ -3560,7 +3561,7 @@
               <l>Und du bist ihre Kön'gin.</l>
             </lg>
           </sp>
-          <pb n="548"/>
+          <pb n="549"/>
           <sp who="#perdita">
             <speaker>PERDITA.</speaker>
             <lg>
@@ -3622,7 +3623,7 @@
               <l>Brecht Ihr dies Wort einst, wenn, und so geschieht's,</l>
               <l>Des Königs Macht sich ihm entgegen stellt:</l>
               <l>Eins von den beiden wird Notwendigkeit,</l>
-              <pb n="549"/>
+              <pb n="550"/>
               <l>Die dann gebeut, daß Eure Liebe ende,</l>
               <l>Wo nicht mein Leben.</l>
             </lg>
@@ -3682,7 +3683,7 @@
               <l>Daß dir gedeih' die Herde!</l>
             </lg>
           </sp>
-          <pb n="550"/>
+          <pb n="551"/>
           <sp who="#perdita">
             <speaker>PERDITA</speaker>
             <stage>zu Polyxenes.</stage>
@@ -3763,7 +3764,7 @@
             <speaker>PERDITA.</speaker>
             <lg>
               <l>Den Spaten steck' ich</l>
-              <pb n="551"/>
+              <pb n="552"/>
               <l>Nicht in die Erd', ein einz'ges Reis zu pflanzen:</l>
               <l>So wenig als, wär' ich geschminkt, ich wünschte,</l>
               <l>Daß dieser Jüngling mich drum lobt', und deshalb</l>
@@ -3822,7 +3823,7 @@
               <l>Verwandelt meinen Sinn,</l>
             </lg>
           </sp>
-          <pb n="552"/>
+          <pb n="553"/>
           <sp who="#florizel">
             <speaker>FLORIZEL.</speaker>
             <lg>
@@ -3905,7 +3906,7 @@
             </lg>
             <stage>Musik; Tanz der Schäfer und Schäferinnen.</stage>
           </sp>
-          <pb n="553"/>
+          <pb n="554"/>
           <sp who="#polyxenes">
             <speaker>POLYXENES.</speaker>
             <lg>
@@ -3963,7 +3964,7 @@
               Anstößigkeiten, und das ist was Seltenes, und so feine Schlußreime mit »Dideldum« und
               »Trallalla«, und »pufft sie« und »knufft sie« und wo so ein breitmäuliger Flegel
               gleichsam was Böses sagen möchte und mit der Tür ins Haus fallen, da läßt er das
-              Mädchen antworten: »Heisa, tu' mir <pb n="554"/> nichts, mein Schatz«; sie fertigt ihn
+              Mädchen antworten: »Heisa, tu' mir <pb n="555"/> nichts, mein Schatz«; sie fertigt ihn
               ab und läßt ihn laufen mit: »Heisa, tu' mir nichts, mein Schatz!«</p>
           </sp>
           <sp who="#polyxenes">
@@ -4022,7 +4023,7 @@
             <p>Wenn ich nicht in Mopsa verliebt wäre, so solltest du mir kein Geld abnehmen; aber da
               sie mich einmal weg hat, sollst du auch einige Bänder und Handschuhe los werden.</p>
           </sp>
-          <pb n="555"/>
+          <pb n="556"/>
           <sp who="#mopsa">
             <speaker>MOPSA.</speaker>
             <p>Sie wurden mir schon zu dem Fest versprochen, aber sie kommen nun auch noch früh
@@ -4095,7 +4096,7 @@
             <speaker>DORCAS.</speaker>
             <p>Gott bewahre mich davor, einen Wucherer zu heiraten!</p>
           </sp>
-          <pb n="556"/>
+          <pb n="557"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
             <p>Hier ist der Name der Hebamme, einer gewissen Frau Schwatzmann, und von noch fünf
@@ -4171,7 +4172,7 @@
             <speaker>DORCAS.</speaker>
             <l>Nicht doch!</l>
           </sp>
-          <pb n="557"/>
+          <pb n="558"/>
           <sp who="#mopsa">
             <speaker>MOPSA.</speaker>
             <l>Oh, nicht doch!</l>
@@ -4254,7 +4255,7 @@
               Schweineknechte, die haben sich ganz zu Menschen voller Haare gemacht; sie nennen sich
               selber Saaltiere, und sie haben einen Tanz, von dem die Dirnen sagen, es ist ein
               Gemengsel von Luftsprüngen, weil sie nicht mit dabei sind. Aber sie selbst sind der
-              Meinung <pb n="558"/> (wenn es nicht zu wild ist für einige, die von nichts wissen,
+              Meinung <pb n="559"/> (wenn es nicht zu wild ist für einige, die von nichts wissen,
               als von Ländern und Walzen), es würde ausnehmend gefallen.</p>
           </sp>
           <sp who="#der_alte_schaefer">
@@ -4313,7 +4314,7 @@
               <l>Ich weiß, sie achtet nicht auf solchen Tand;</l>
               <l>Geschenke, die von mir sie hofft, sind im</l>
               <l>Verschluß von meinem Herzen; das ist schon</l>
-              <pb n="559"/>
+              <pb n="560"/>
               <l>Ihr Eigentum, wenn auch nicht überliefert. –</l>
               <l>Vernimm mein Innerstes vor diesem Greis,</l>
               <l>Der, wie es scheint, auch einst in Liebe war;</l>
@@ -4394,7 +4395,7 @@
               <l>Das könnt Ihr nur</l>
               <l>In Eurer Tochter Wert. Wenn jemand stirbt,</l>
               <l>Hab' ich einst mehr, als Ihr Euch träumen laßt;</l>
-              <pb n="560"/>
+              <pb n="561"/>
               <l>Genug für Euer Staunen. Jetzt verbindet</l>
               <l>Vor diesen Zeugen uns!</l>
             </lg>
@@ -4491,7 +4492,7 @@
               <l>Erfährt er deine Wahl.</l>
             </lg>
           </sp>
-          <pb n="561"/>
+          <pb n="562"/>
           <sp who="#florizel">
             <speaker>FLORIZEL.</speaker>
             <lg>
@@ -4552,7 +4553,7 @@
               <l>Und schau' auf beide gleich. – Wollt Ihr nun gehn, mein Prinz?</l>
               <l>Ich sagt' Euch, was draus werden würde; bitte,</l>
               <l>Denkt Eures Standes nun: von meinem Traum</l>
-              <pb n="562"/>
+              <pb n="563"/>
               <l>Erwacht, bin ich kein Zoll mehr Kön'gin, nein,</l>
               <l>Die Schafe melkend wein' ich.</l>
             </lg>
@@ -4630,7 +4631,7 @@
               <l>Nichts kann sie dir nehmen,</l>
               <l>Als meiner Treue Bruch; und leichter möchte</l>
               <l>Natur der Erde Wölbung wohl zerdrücken</l>
-              <pb n="563"/>
+              <pb n="564"/>
               <l>Und allen innern Lebenskeim vernichten! –</l>
               <l>Erheb' den Blick; – streich', Vater, mich als Erbe</l>
               <l>Des Reiches aus, bleibt mir doch meine Liebe!</l>
@@ -4700,7 +4701,7 @@
               <l>Könnt' ich sein Weggehn mir zum Vorteil kehren,</l>
               <l>Vor Leid ihn schützen, Lieb' und Dienst ihm weihn,</l>
               <l>Siziliens teuren Anblick so erkaufen</l>
-              <pb n="564"/>
+              <pb n="565"/>
               <l>Und meines Herrn, des unglücksel'gen Königs,</l>
               <l>Wonach ich lange schmachte.</l>
             </lg>
@@ -4779,7 +4780,7 @@
             <speaker>CAMILLO.</speaker>
             <lg>
               <l>So hört mich:</l>
-              <pb n="565"/>
+              <pb n="566"/>
               <l>Ich rat' Euch, – wollt Ihr Euren Plan nicht ändern</l>
               <l>Und Euch der Flucht vertraun -: geht nach Sizilien,</l>
               <l>Und stellt Euch dort, mit Eurer schönen Fürstin</l>
@@ -4843,7 +4844,7 @@
             <speaker>PERDITA.</speaker>
             <lg>
               <l>Eines nur ist wahr:</l>
-              <pb n="566"/>
+              <pb n="567"/>
               <l>Trübsal, denk' ich, besiegt die Wange wohl,</l>
               <l>Doch dringt sie nicht ins Herz.</l>
             </lg>
@@ -4908,7 +4909,7 @@
               wären und dem Käufer einen Segen brächten: durch dies Mittel sah ich nun, wessen Börse
               das beste Ansehn hatte; und was ich sah, das merkte ich mir zu beliebigem Gebrauch.
               Mein junger Narr, dem nur etwas fehlt, um ein vernünftiger Mensch zu sein, war so in
-              die Dirnenlieder verliebt, daß er nicht wanken und weichen <pb n="567"/> wollte, bis
+              die Dirnenlieder verliebt, daß er nicht wanken und weichen <pb n="568"/> wollte, bis
               er Text und Weise hatte; und dies zog die ganze andre Herde so zu mir, daß alle ihre
               übrigen Sinne in den Ohren steckten; ich hätte einen Schlüssel abfeilen können, den
               sie an einer Kette trugen: kein Gehör, kein Gefühl, als für die Lieder meines
@@ -4989,7 +4990,7 @@
             <speaker>FLORIZEL.</speaker>
             <p>Mach' fort, ich bitte dich.</p>
           </sp>
-          <pb n="568"/>
+          <pb n="569"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
             <p>Freilich hab' ich schon Geld darauf bekommen; aber ich kann es doch mit gutem
@@ -5078,7 +5079,7 @@
           <sp who="#autolycus">
             <speaker>AUTOLYCUS.</speaker>
             <p>Ich verstehe den Handel, ich höre jedes Wort: ein offnes Ohr, ein scharfes Auge und
-              eine schnelle Hand sind <pb n="569"/> einem Beutelschneider unentbehrlich; eine gute
+              eine schnelle Hand sind <pb n="570"/> einem Beutelschneider unentbehrlich; eine gute
               Nase gehört auch dazu, Arbeit für die andern Sinne auszuwittern. Ich sehe, dies ist
               eine Zeit, in der der Ungerechte gedeiht. Welch ein Tausch wäre dies gewesen, auch
               ohne Überschuß? und welch ein Überschuß ist noch bei diesem Tausch? Wahrhaftig, in
@@ -5128,7 +5129,7 @@
             <p>Jawohl, Schwager war das Wenigste, was Ihr von ihm werden konntet; und dann wäre Euer
               Blut kostbarer geworden, ich weiß nicht, um wie viel jede Unze.</p>
           </sp>
-          <pb n="570"/>
+          <pb n="571"/>
           <sp who="#autolycus">
             <speaker>AUTOLYCUS</speaker>
             <stage>beiseit.</stage>
@@ -5200,7 +5201,7 @@
             <speaker>AUTOLYCUS.</speaker>
             <p>Was für einen Advokaten hast du dazu?</p>
           </sp>
-          <pb n="571"/>
+          <pb n="572"/>
           <sp who="#der_alte_schaefer">
             <speaker>DER ALTE SCHÄFER.</speaker>
             <p>Ich weiß nicht, mit Verlaub.</p>
@@ -5278,7 +5279,7 @@
             <p>Nicht er allein soll alles ertragen, was der Scharfsinn Schweres, die Rache Bitteres
               ersinnen kann; sondern auch alle, die mit ihm verwandt sind, wenn auch nur im
               fünfzigsten Grade, fallen dem Henker anheim: obwohl dies sehr betrübt ist, so ist es
-              doch notwendig. Ein alter schafziehender <pb n="572"/> Spitzbube, ein Hammelpfleger,
+              doch notwendig. Ein alter schafziehender <pb n="573"/> Spitzbube, ein Hammelpfleger,
               der setzt sich's in den Kopf, daß seine Tochter majestätisch werden soll! Einige
               sagen, er soll gesteinigt werden; aber der Tod wäre zu gelinde für ihn, sage ich:
               unsern Thron in eine Schafshütte zu ziehn! Alle Todesarten zusammen sind zu wenig, die
@@ -5322,7 +5323,7 @@
             <speaker>AUTOLYCUS.</speaker>
             <p>Wenn ich getan habe, was ich versprach?</p>
           </sp>
-          <pb n="573"/>
+          <pb n="574"/>
           <sp who="#der_alte_schaefer">
             <speaker>DER ALTE SCHÄFER.</speaker>
             <p>Ja, Herr.</p>
@@ -5379,7 +5380,7 @@
           </sp>
         </div>
       </div>
-      <pb n="574"/>
+      <pb n="575"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5438,7 +5439,7 @@
               <l>Uns zeigen möchten.</l>
             </lg>
           </sp>
-          <pb n="575"/>
+          <pb n="576"/>
           <sp who="#paulina">
             <speaker>PAULINA.</speaker>
             <lg>
@@ -5505,7 +5506,7 @@
             <speaker>LEONTES.</speaker>
             <lg>
               <l>Oh! du sprichst wahr.</l>
-              <pb n="576"/>
+              <pb n="577"/>
               <l>So gibt's kein Weib mehr; drum kein Weib; ein schlechtres</l>
               <l>Und mehr geliebt, trieb' ihren sel'gen Geist</l>
               <l>In ihren Leichnam und auf diese Bühne,</l>
@@ -5597,7 +5598,7 @@
               <l>Nur, wenn du's willst, vermählen wir uns.</l>
             </lg>
           </sp>
-          <pb n="577"/>
+          <pb n="578"/>
           <sp who="#paulina">
             <speaker>PAULINA.</speaker>
             <lg>
@@ -5682,7 +5683,7 @@
               <l>Weil sie der Frauen schönste.</l>
             </lg>
           </sp>
-          <pb n="578"/>
+          <pb n="579"/>
           <sp who="#leontes">
             <speaker>LEONTES.</speaker>
             <lg>
@@ -5742,7 +5743,7 @@
               <l>Dem Bruder senden mag; und wenn nicht Schwäche,</l>
               <l>Begleiterin des Alters, ihm vermindert</l>
               <l>Die rasche Kraft, so hätt' er selbst durchmessen</l>
-              <pb n="579"/>
+              <pb n="580"/>
               <l>Die Meer' und Länder zwischen euren Reichen,</l>
               <l>Euch anzuschauen, den er inn'ger liebt</l>
               <l>Als alle Fürsten – so hieß er mich sagen –,</l>
@@ -5804,7 +5805,7 @@
             </lg>
             <stage>Ein Hofherr tritt auf.</stage>
           </sp>
-          <pb n="580"/>
+          <pb n="581"/>
           <sp who="#hofherr">
             <speaker>HOFHERR.</speaker>
             <lg>
@@ -5892,7 +5893,7 @@
             <speaker>FLORIZEL.</speaker>
             <l>Sie ist es, ist sie einst mit mir vermählt.</l>
           </sp>
-          <pb n="581"/>
+          <pb n="582"/>
           <sp who="#leontes">
             <speaker>LEONTES.</speaker>
             <lg>
@@ -5958,7 +5959,7 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich war bei dem Öffnen des Bündels, und hörte den Bericht des alten Schäfers, wie er
-              ihn fand. Darauf, <pb n="582"/> nach einem kurzen Staunen, hieß man uns alle das
+              ihn fand. Darauf, <pb n="583"/> nach einem kurzen Staunen, hieß man uns alle das
               Zimmer verlassen; nur das, dünkt mich, hörte ich den Schäfer noch sagen, er habe das
               Kind gefunden.</p>
           </sp>
@@ -5996,7 +5997,7 @@
               das zu sehen, was Ihr hört, – solch eine Übereinstimmung ist in den Beweisen. Der
               Mantel der Königin Hermione – ihr Juwel, das sie um den Hals zu tragen pflegte – des
               Antigonus Briefe, dabei gefunden, in denen sie seine Handschrift erkennen – die
-              Majestät des Mädchens, in der Ähnlichkeit mit der Mutter <pb n="583"/> – der Ausdruck
+              Majestät des Mädchens, in der Ähnlichkeit mit der Mutter <pb n="584"/> – der Ausdruck
               von Adel, welcher zeigt, wie Natur höher steht als Erziehung – und viele andre
               Zeugnisse bekunden sie, mit der allergrößeten Sicherheit, als des Königs Tochter.
               Sahet Ihr die Zusammenkunft der beiden Könige?</p>
@@ -6040,7 +6041,7 @@
             <speaker>DRITTER EDELMANN.</speaker>
             <p>Gescheitert, in demselben Augenblick, da ihr Herr ums Leben kam, und im Angesichte
               des Schäfers: so daß alle Werkzeuge, welche zur Aussetzung des Kindes beitrugen,
-              gerade da unter gingen, als das Kind gerettet <pb n="584"/> ward. Aber, ach, der edle
+              gerade da unter gingen, als das Kind gerettet <pb n="585"/> ward. Aber, ach, der edle
               Kampf, den Schmerz und Freude in Paulina kämpften! Ein Auge senkte sich um den Verlust
               des Gatten, indem das andre sich erhob, weil das Orakel nun erfüllt war; sie hob die
               Prinzessin von der Erde auf, und schloß sie so fest in ihre Umarmung, als wollte sie
@@ -6080,7 +6081,7 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich dachte es wohl, daß sie dort etwas Wichtiges vor habe, denn seit Hermiones Tode
-              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="585"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
+              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
           </sp>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
@@ -6124,7 +6125,7 @@
             <speaker>DER JUNGE SCHÄFER.</speaker>
             <p>Ja, und das bin ich immer gewesen, seit vier Stunden.</p>
           </sp>
-          <pb n="586"/>
+          <pb n="587"/>
           <sp who="#der_alte_schaefer">
             <speaker>DER ALTE SCHÄFER.</speaker>
             <p>Ich auch, Junge.</p>
@@ -6196,7 +6197,7 @@
           </sp>
           <sp who="#der_junge_schaefer">
             <speaker>DER JUNGE SCHÄFER.</speaker>
-            <p>Ja, werde nur auf jeden Fall ein wackrer <pb n="587"/> Kerl; wenn ich mich nicht
+            <p>Ja, werde nur auf jeden Fall ein wackrer <pb n="588"/> Kerl; wenn ich mich nicht
               verwundre, wie du das Herz hast, dich zu betrinken, da du kein herzhafter Kerl bist,
               so traue mir nie wieder! – Horch! Der König und die Prinzen, unsre Verwandtschaft,
               gehn zu dem Bilde der Königin. Komm, folge uns: wir wollen deine guten Herren
@@ -6251,7 +6252,7 @@
               <l>Zu sehn, wie dies lebendig höhnt das Leben,</l>
               <l>Mehr als der Schlaf den Tod: hier; sagt, 's ist gut.</l>
               <stage>Sie zieht einen Vorhang weg, man sieht eine Statue,</stage>
-              <pb n="588"/>
+              <pb n="589"/>
               <l>Recht, daß Ihr schweigt, es drückt am besten aus,</l>
               <l>Wie Ihr erstaunt: doch sprecht – zuerst, mein König,</l>
               <l>Ist's ihr nicht ziemlich gleich?</l>
@@ -6325,7 +6326,7 @@
               <l>Er bringt sich früher selber um.</l>
             </lg>
           </sp>
-          <pb n="589"/>
+          <pb n="590"/>
           <sp who="#polyxenes">
             <speaker>POLYXENES.</speaker>
             <lg>
@@ -6419,7 +6420,7 @@
             <lg>
               <l>Nicht doch, teurer Fürst:</l>
               <l>Die Röt' auf ihren Lippen ist noch naß;</l>
-              <pb n="590"/>
+              <pb n="591"/>
               <l>Eu'r Kuß verdirbt es, und gibt Euch von Öl</l>
               <l>Und Farbe Flecken. Schließ' ich jetzt den Vorhang?</l>
             </lg>
@@ -6493,7 +6494,7 @@
               <l>Muß sie das Frein beginnen.</l>
             </lg>
           </sp>
-          <pb n="591"/>
+          <pb n="592"/>
           <sp who="#leontes">
             <speaker>LEONTES</speaker>
             <stage>indem er sie umarmt.</stage>
@@ -6568,7 +6569,7 @@
               <l>Wie ich von dir ein Weib: so war's beschlossen,</l>
               <l>Beschworen unter uns. Du fandst die Meine,</l>
               <l>Wie, muß ich noch erfahren: denn ich sah sie,</l>
-              <pb n="592"/>
+              <pb n="593"/>
               <l>So glaubt' ich, tot; und manch Gebet, im Wahn,</l>
               <l>Sprach ich auf ihrem Grab. Nicht such' ich weit</l>
               <l>(Da mir sein Sinn zum Teil bekannt) für dich</l>

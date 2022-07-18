@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="277"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,6 +90,7 @@
           <titlePart type="main">König Heinrich IV. Zweiter Teil</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="278"/>
       <pb n="279"/>
       <castList>
         <head>Personen</head>
@@ -97,24 +99,24 @@
           <castItem>Prinz Heinrich von Wales</castItem>
           <castItem>Thomas, Herzog von Clarence</castItem>
           <castItem>Prinz Johann von Lancaster</castItem>
-          <castItem>Prinz Humphrey von Gloster,</castItem>
+          <castItem>Prinz Humphrey von Gloster</castItem>
           <roleDesc>Söhne des Königs</roleDesc>
         </castGroup>
         <castGroup>
           <castItem>Graf von Warwick</castItem>
           <castItem>Graf von Westmoreland</castItem>
           <castItem>Gower</castItem>
-          <castItem>Harcourt,</castItem>
+          <castItem>Harcourt</castItem>
           <roleDesc>von des Königs Partei</roleDesc>
         </castGroup>
         <castItem>Der Oberrichter von der königlichen Bank</castItem>
         <castItem>Ein Unterbeamter im Gefolge des Oberrichters</castItem>
         <castGroup>
-          <castItem>Graf von Northumberland,</castItem>
+          <castItem>Graf von Northumberland</castItem>
           <castItem>Scroop, Erzbischof von York</castItem>
           <castItem>Lord Mowbray</castItem>
           <castItem>Lord Hastings</castItem>
-          <castItem>Lord Bardolph,</castItem>
+          <castItem>Lord Bardolph</castItem>
           <roleDesc>Feinde des Königs</roleDesc>
         </castGroup>
         <castItem>Sir John Colevile</castItem>
@@ -129,7 +131,7 @@
         <castItem>Schimmelig, Schatte, Warze, Schwächlich und Bullenkalb, Rekruten</castItem>
         <castItem>Klaue und Schlinge, Gerichtsdiener</castItem>
         <castItem>Ein Pförtner</castItem>
-        <pb n="279"/>
+        <pb n="280"/>
         <castItem>Lady Northumberland</castItem>
         <castItem>Lady Percy</castItem>
         <castItem>Frau Hurtig, Wirtin</castItem>
@@ -138,7 +140,7 @@
           usw.</castItem>
       </castList>
     </front>
-    <pb n="280"/>
+    <pb n="281"/>
     <body>
       <div type="prologue">
         <head>Prolog</head>
@@ -174,7 +176,7 @@
             <l>Den jungen Heißsporn und sein Heer geschlagen,</l>
             <l>Löschend die Flamme kühner Rebellion</l>
             <l>In der Rebellen Blut. – Was fällt mir ein,</l>
-            <pb n="281"/>
+            <pb n="282"/>
             <l>Sogleich so wahr zu reden? Auszusprengen</l>
             <l>Ist mein Geschäft, daß Heinrich Monmouth fiel</l>
             <l>Unter des edlen Heißsporn grimm'gem Schwert,</l>
@@ -193,7 +195,7 @@
           <stage>Ab.</stage>
         </sp>
       </div>
-      <pb n="282"/>
+      <pb n="283"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -260,7 +262,7 @@
               <l>Und Westmoreland und Stafford sind geflüchtet,</l>
               <l>Und Heinrich Monmouths feistes Schwein, Sir John,</l>
               <l>Gefangner Eures Sohns; o solch ein Tag,</l>
-              <pb n="283"/>
+              <pb n="284"/>
               <l>So schön erfochten, durchgesetzt, gewonnen,</l>
               <l>Erschien nicht zur Verherrlichung der Zeiten</l>
               <l>Seit Cäsars Glück!</l>
@@ -335,7 +337,7 @@
             <lg>
               <l>Mylord, hört mich nur an:</l>
               <l>Wenn Euer Sohn nicht Herr des Tages ist,</l>
-              <pb n="284"/>
+              <pb n="285"/>
               <l>So geb' ich meine Baronie, auf Ehre,</l>
               <l>Für eine seidne Schnur; sprecht nicht davon!</l>
             </lg>
@@ -408,7 +410,7 @@
             <lg>
               <l>Ja, der ist tot!</l>
               <l>Seht, welche fert'ge Zunge Argwohn hat!</l>
-              <pb n="285"/>
+              <pb n="286"/>
               <l>Der, welcher fürchtet, was er wissen will,</l>
               <l>Hat durch Instinkt aus andrer Augen Kenntnis,</l>
               <l>Geschehn sei, was er fürchtet. Sprich nur, Morton:</l>
@@ -465,7 +467,7 @@
               <l>In sich zurück wie stumpfes, schweres Blei,</l>
               <l>Und wie ein Ding, das schwer ist an sich selbst,</l>
               <l>Auf Nötigung mit schnellster Eile fliegt:</l>
-              <pb n="286"/>
+              <pb n="287"/>
               <l>So liehen unsre Leute, schwer gedrückt</l>
               <l>Von dem Verluste Heißsporns, dem Gewicht</l>
               <l>Durch ihre Furcht solch eine Leichtigkeit,</l>
@@ -509,7 +511,7 @@
               <l>Küss' Erde sich und Himmel, ihren Schranken</l>
               <l>Entweiche wild die Flut! Die Ordnung sterbe!</l>
               <l>Und diese Welt sei länger keine Bühne,</l>
-              <pb n="287"/>
+              <pb n="288"/>
               <l>Die Hader nährt in zögernder Verwicklung;</l>
               <l>Es herrsch' ein Geist des erstgebornen Kain</l>
               <l>In allen Busen, daß, wenn jedes Herz</l>
@@ -569,7 +571,7 @@
               <l>Mit wohlverseh'ner Macht; er ist ein Mann,</l>
               <l>Der seine Leute bind't mit doppelter Gewähr.</l>
               <l>Es hatt' Eu'r edler Sohn die Körper bloß,</l>
-              <pb n="288"/>
+              <pb n="289"/>
               <l>Schein und Gestalt von Männern nur, zum Kampf:</l>
               <l>Denn dieses Wort, Rebellion, schied ganz</l>
               <l>Die Handlung ihrer Leiber von den Seelen.</l>
@@ -619,7 +621,7 @@
             <p>Menschen von aller Art bilden sich was darauf ein, mich zu necken. Das Gehirn dieses
               närrisch zusammengekneten Tones, der Mensch heißt, ist nicht im Stande, mehr zu
               erfinden, das zum Lachen dient, als was ich erfinde, oder was über mich erfunden wird.
-              Ich bin nicht bloß selbst <pb n="289"/> witzig, sondern auch Ursache, daß andre Witz
+              Ich bin nicht bloß selbst <pb n="290"/> witzig, sondern auch Ursache, daß andre Witz
               haben. Ich gehe hier vor dir her wie eine Sau, die ihren ganzen Wurf aufgefressen hat,
               bis auf eins. Wenn der Prinz dich aus irgend einer andern Ursache bei mir in Dienst
               gegeben hat, als um gegen mich abzustechen, so habe ich keinen Menschenverstand. Du
@@ -652,7 +654,7 @@
               wenn sich nun einer auf redliches Borgen mit ihnen einläßt, da bestehen sie noch gar
               auf Sicherheit. Ich ließe mir eben so gern Rattenpulver ins Maul stecken, als daß sie
               mir's wollen stopfen mit Sicherheit. Ich dachte, er sollte mir zweiundzwanzig Ellen
-              Atlas schicken, so wahr ich <pb n="290"/> ein Ritter bin, und er schickt mir
+              Atlas schicken, so wahr ich <pb n="291"/> ein Ritter bin, und er schickt mir
               Sicherheit. Gut, er mag in Sicherheit schlafen, er hat das Horn des Überflusses, und
               seiner Frauen Leichtfertigkeit leuchtet hindurch; und doch kann er nicht sehen, ob er
               schon seine eigne Laterne hat, ihm zu leuchten. – Wo ist Bardolph?</p>
@@ -731,7 +733,7 @@
             <speaker>UNTERBEAMTER.</speaker>
             <p>Ihr irrt Euch in mir, Herr.</p>
           </sp>
-          <pb n="291"/>
+          <pb n="292"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Ei, Herr, sagte ich, Ihr wärt ein ehrlicher Mann? Mein Rittertum und meine
@@ -795,7 +797,7 @@
             <p>Diese Apoplexie ist meines Bedünkens eine Art von Lethargie, wenn Euer Gnaden
               erlauben; eine Art von Schlafen im Blut, ein verwettertes Kitzeln.</p>
           </sp>
-          <pb n="292"/>
+          <pb n="293"/>
           <sp who="#oberrichter">
             <speaker>OBERRICHTER.</speaker>
             <p>Wie gehört das hieher? Es sei, was es wolle, –</p>
@@ -866,7 +868,7 @@
           <sp who="#oberrichter">
             <speaker>OBERRICHTER.</speaker>
             <p>Nun, ich will nicht gern eine neu geheilte Wunde aufreißen; Eure Dienste am Tage bei
-              Shrewsbury haben <pb n="293"/> Eure Heldentaten bei Nacht zu Gadshill ein wenig
+              Shrewsbury haben <pb n="294"/> Eure Heldentaten bei Nacht zu Gadshill ein wenig
               übergüldet: Ihr habt den unruhigen Zeiten zu danken, daß Ihr über diese Klage so ruhig
               hinüber gekommen seid.</p>
           </sp>
@@ -922,7 +924,7 @@
             <p>Setzt Ihr Euern Namen auf die Liste der Jugend, da Ihr mit allen Merkzeichen des
               Alters eingeschrieben seid? Habt Ihr nicht ein feuchtes Auge, eine trockne Hand, eine
               gelbe Wange, einen weißen Bart, ein abnehmendes Bein, einen zunehmenden Bauch? Ist
-              nicht Eure Stimme schwach? Euer Atem kurz? Euer Kinn doppelt? <pb n="294"/> Euer Witz
+              nicht Eure Stimme schwach? Euer Atem kurz? Euer Kinn doppelt? <pb n="295"/> Euer Witz
               einfach? Und alles um und an Euch vom Alter verderbt? Und doch wollt Ihr Euch noch
               jung nennen? Pfui, pfui, pfui, Sir John!</p>
           </sp>
@@ -963,7 +965,7 @@
               immer vorhalten, aber es ist beständig der Tick unsrer englischen Nation gewesen, wenn
               sie was Gutes haben, es zu gemein zu machen. Wenn Ihr denn durchaus behauptet, ich sei
               ein alter Mann, so solltet Ihr mir Ruhe gönnen. Wollte Gott, mein Name wäre dem Feind
-              nicht so schrecklich, als er ist. Es wäre besser, <pb n="295"/> daß mich der Rost
+              nicht so schrecklich, als er ist. Es wäre besser, <pb n="296"/> daß mich der Rost
               verzehrte, als daß ich durch beständige Bewegung zu Tode gescheuert werde.</p>
           </sp>
           <sp who="#oberrichter">
@@ -1015,7 +1017,7 @@
             </p>
           </sp>
         </div>
-        <pb n="296"/>
+        <pb n="297"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>York. Ein Zimmer im Palast des Erzbischofs.</stage>
@@ -1088,7 +1090,7 @@
               <l>Verschlang die Luft auf zugesagten Beistand,</l>
               <l>Sich schmeichelnd mit der Aussicht einer Macht,</l>
               <l>Die kleiner ausfiel als sein kleinster Traum.</l>
-              <pb n="297"/>
+              <pb n="298"/>
               <l>So führt' er, voll von großen Einbildungen,</l>
               <l>Dem Wahnwitz eigen, seine Macht zum Tod</l>
               <l>Und stürzte blindlings sich in das Verderben.</l>
@@ -1144,7 +1146,7 @@
               <l>Es, wie wir sind, dem König gleich zu tun.</l>
             </lg>
           </sp>
-          <pb n="298"/>
+          <pb n="299"/>
           <sp who="#lord_bardolph">
             <speaker>LORD BARDOLPH.</speaker>
             <l>Wie? Hat er denn nur fünfundzwanzigtausend?</l>
@@ -1209,7 +1211,7 @@
               <l>So, du gemeiner Hund, entludest du</l>
               <l>Die Schlemmer-Brust vom königlichen Richard;</l>
               <l>Nun möchtest du dein Weggebrochnes fressen</l>
-              <pb n="299"/>
+              <pb n="300"/>
               <l>Und heulst darnach. Worauf ist jetzt Verlaß?</l>
               <l>Die Richards Tod begehrten, als er lebte,</l>
               <l>Sind nun verliebt geworden in sein Grab:</l>
@@ -1232,7 +1234,7 @@
           </sp>
         </div>
       </div>
-      <pb n="300"/>
+      <pb n="301"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1298,7 +1300,7 @@
             <speaker>WIRTIN.</speaker>
             <p>Ich bin ruiniert, wenn er weggeht; ich versichre Euch, er steht innorm hoch in meinem
               Buch. Lieber Meister Klaue, packt ihn fest! Lieber Meister Schlinge, laßt ihn nicht
-              entwischen! Er kommt kontinuierlich an die Pasteten-Ecke, <pb n="301"/> mit Euer
+              entwischen! Er kommt kontinuierlich an die Pasteten-Ecke, <pb n="302"/> mit Euer
               Mannhaften Verlaub, um einen Sattel zu kaufen; und er ist im Leoparden-Kopf in der
               Lombard- Straße bei Meister Glatt, dem Seidenhändler, (zum Essen) irritiert. Ich bitte
               Euch, da mein Prozeß eingeleitet und meine Geschichte so offenbar vor aller Welt
@@ -1352,7 +1354,7 @@
               fegen!</p>
             <stage>Der Oberrichter kommt mit Gefolge.</stage>
           </sp>
-          <pb n="302"/>
+          <pb n="303"/>
           <sp who="#oberrichter">
             <speaker>OBERRICHTER.</speaker>
             <p>Was gibt's? Haltet Frieden hier! He!</p>
@@ -1411,7 +1413,7 @@
               heiraten und mich zu deiner Frau Gemahlin machen. Kannst du es leugnen? Kam nicht eben
               Mutter Unschlitt, des Schlächters Frau, herein und nannte mich Gevatterin Hurtig? Und
               kam sie nicht, um einen Napf Essig zu borgen, und sagte uns, sie hätte eine gute
-              Schüssel Krabben? <pb n="303"/> Worauf du Appetit kriegtest, welche zu essen, worauf
+              Schüssel Krabben? <pb n="304"/> Worauf du Appetit kriegtest, welche zu essen, worauf
               ich dir sagte, sie wären nicht gut bei einer frischen Wunde? Und befahlst du mir nicht
               an, wie sie die Treppe hinunter war, ich sollte mit so geringen Leuten nicht mehr so
               familiär tun? Und sagtest, in kurzem sollten sie mich Madam nennen? Und küßtest du
@@ -1457,7 +1459,7 @@
             <p>Ihr redet wie einer, der Macht hat, Übles zu tun: aber entsprecht Eurem Rufe durch
               die Tat und befriedigt die arme Frau!</p>
           </sp>
-          <pb n="304"/>
+          <pb n="305"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Komm her, Wirtin! <stage>Er zieht sie beiseit.</stage>
@@ -1532,7 +1534,7 @@
             <p>Keine Worte weiter! Laß sie kommen!</p>
             <stage>Wirtin, Bardolph und Gerichtsdiener ab.</stage>
           </sp>
-          <pb n="305"/>
+          <pb n="306"/>
           <sp who="#oberrichter">
             <speaker>OBERRICHTER.</speaker>
             <p>Ich habe beßre Neuigkeit gehört.</p>
@@ -1626,7 +1628,7 @@
             <p>Ist es dahin gekommen? Ich hätte nicht gedacht, daß Müdigkeit sich an einen von so
               hohem Blut machen dürfte.</p>
           </sp>
-          <pb n="306"/>
+          <pb n="307"/>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Mein' Treu', sie macht sich an mich, ob meine Hoheit gleich erröten muß, es
@@ -1680,7 +1682,7 @@
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Gut, ich sage dir also, es schickt sich nicht für mich, traurig zu sein, da mein
               Vater krank ist; wiewohl ich dir sagen kann: – als einem, den es mir in Ermangelung
-                <pb n="307"/> eines Besseren beliebt Freund zu nennen, – ich könnte traurig sein,
+                <pb n="308"/> eines Besseren beliebt Freund zu nennen, – ich könnte traurig sein,
               und recht im Ernst traurig.</p>
           </sp>
           <sp who="#poins">
@@ -1747,7 +1749,7 @@
             <speaker>BARDOLPH</speaker>
             <stage>zum Pagen.</stage>
             <p>Komm, du tugendhafter Esel, du verschämter Narr! Mußt du rot werden? Warum wirst du
-              rot? <pb n="308"/> Welch ein jungfräulicher Soldat bist du geworden! Ist es so eine
+              rot? <pb n="309"/> Welch ein jungfräulicher Soldat bist du geworden! Ist es so eine
               große Sache, die Jungferschaft eines Vier-Nößel-Krugs zu erobern?</p>
           </sp>
           <sp who="#page">
@@ -1827,7 +1829,7 @@
             <p>»John Falstaff, Ritter« – jedermann muß das wissen, so oft er Gelegenheit hat, sich
               zu nennen. Grade wie die Leute, die mit dem König verwandt sind, denn die stechen sich
               niemals in den Finger, ohne zu sagen: »Da wird etwas von des Königs Blut vergossen.« –
-              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb n="309"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
+              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb n="310"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
               des Königs armer Vetter, mein Herr.«</p>
           </sp>
           <sp who="#prinz_heinrich">
@@ -1898,7 +1900,7 @@
             <speaker>PAGE.</speaker>
             <p>Keine, gnädiger Herr, als die alte Frau Hurtig und Jungfer Dortchen Lakenreißer.</p>
           </sp>
-          <pb n="310"/>
+          <pb n="311"/>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was mag das für eine Heidin sein?</p>
@@ -1967,7 +1969,7 @@
             <lg>
               <l>Ich bitt' euch, liebend Weib und werte Tochter,</l>
               <l>Gebt meinen rauhen Händeln ebnen Weg:</l>
-              <pb n="311"/>
+              <pb n="312"/>
               <l>Legt ihr nicht auch der Zeiten Miene an</l>
               <l>Und seid wie sie dem Percy zur Beschwer!</l>
             </lg>
@@ -2019,7 +2021,7 @@
               <l>Im Nachteil schauen und ein Feld behaupten,</l>
               <l>Wo nichts als nur der Klang von Heißsporns Namen</l>
               <l>Noch wehrbar schien: so ganz verließt Ihr ihn,</l>
-              <pb n="312"/>
+              <pb n="313"/>
               <l>Drum nie, o nie! tut seinem Geist die Schmach,</l>
               <l>Daß Ihr auf Eure Ehre strenger haltet</l>
               <l>Mit andern als mit ihm; laßt sie für sich!</l>
@@ -2077,7 +2079,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="313"/>
+        <pb n="314"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>London. Eine Stube in der Schenke zum wilden Schweinskopf in Eastcheap.</stage>
@@ -2129,7 +2131,7 @@
             <speaker>DORTCHEN.</speaker>
             <p>Besser als vorhin, Hem.</p>
           </sp>
-          <pb n="314"/>
+          <pb n="315"/>
           <sp who="#wirtin">
             <speaker>WIRTIN.</speaker>
             <lg>
@@ -2198,7 +2200,7 @@
               meine Zeit! Einer muß tragen, und das müßt Ihr sein. <stage>Zu Dortchen.</stage> Ihr
               seid das schwächere Gefäß, wie man zu sagen pflegt, das ledige Gefäß.</p>
           </sp>
-          <pb n="315"/>
+          <pb n="316"/>
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Kann ein schwaches, lediges Gefäß solch ein ungeheures, volles Oxhoft tragen? Er hat
@@ -2247,7 +2249,7 @@
               seid in üblem Rufe« – und ich weiß auch, warum er das sagte, »denn«, sagte er, »Ihr
               seid eine ehrliche Frau, und man denkt gut von Euch: darum seht Euch vor, was für
               Gäste Ihr aufnehmt; nehmt keine renommierenden Gesellen auf«, sagte er. – Ich lasse
-              keine herein: Ihr würdet Euch kreuzigen und segnen, wenn <pb n="316"/> Ihr gehört
+              keine herein: Ihr würdet Euch kreuzigen und segnen, wenn <pb n="317"/> Ihr gehört
               hättet, was er sagte. Nein, ich will keine Renommisten!</p>
           </sp>
           <sp who="#falstaff">
@@ -2312,7 +2314,7 @@
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Packt Euch, Ihr Schurke von Beutelschneider! Ihr garstiger Taschendieb, fort! Bei dem
-              Wein hier, ich <pb n="317"/> fahre Euch mit meinem Messer zwischen die schimmlichten
+              Wein hier, ich <pb n="318"/> fahre Euch mit meinem Messer zwischen die schimmlichten
               Kinnbacken, wenn Ihr Euch bei mir mausig machen wollt. Packt Euch, Ihr Bierschlingel!
               Ihr lahmer Fechtboden-Springer Ihr! – Seit wann, Herr, ich bitte Euch? Ei, zwei
               Schnüre auf der Schulter! der Tausend!</p>
@@ -2376,7 +2378,7 @@
               <l>Die dreißig Meilen nur des Tages laufen,</l>
               <l>Mit Cäsarn sich und Kannibalen messen</l>
               <l>Und griech'schen Troern? Eh' verdammt sie mit</l>
-              <pb n="318"/>
+              <pb n="319"/>
               <l>Fürst Cerberus und brüll' das Firmament!</l>
               <l>Entzwei'n wir uns um Tand?</l>
             </lg>
@@ -2460,7 +2462,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Gib mir meinen Degen, Bursch!</p>
           </sp>
-          <pb n="319"/>
+          <pb n="320"/>
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Ich bitte dich, Hans, ich bitte dich, zieh' nicht!</p>
@@ -2529,7 +2531,7 @@
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Wahrhaftig, und du warst wie ein Kirchturm hinter ihm drein. Du verwettertes,
-              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb n="320"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
+              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb n="321"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
               den Himmel zurecht zu flicken?</p>
             <stage>Im Hintergrunde erscheinen Prinz Heinrich und Poins, in Küfer verkleidet.</stage>
           </sp>
@@ -2592,7 +2594,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Küß mich, Dortchen!</p>
           </sp>
-          <pb n="321"/>
+          <pb n="322"/>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Saturn und Venus heuer in Konjunktion! Was sagt der Kalender dazu?</p>
@@ -2670,7 +2672,7 @@
             <speaker>DORTCHEN.</speaker>
             <p>Was, Ihr gemästeter Narr? Ich frage nichts nach Euch.</p>
           </sp>
-          <pb n="322"/>
+          <pb n="323"/>
           <sp who="#poins">
             <speaker>POINS.</speaker>
             <p>Gnädiger Herr, er wird Euch aus Eurer Rache heraustreiben und alles in einen Spaß
@@ -2735,7 +2737,7 @@
             <p>Nun sieh einmal, bringt dich nicht bloße Furcht und ausgemachte Feigheit dahin,
               diesem tugendhaften Frauenzimmer zu nahe zu tun, um dich mit uns auszusöhnen? Ist sie
               von den Gottlosen? Ist unsre Frau Wirtin da von den Gottlosen? Oder ist der Bursch von
-              den Gottlosen? <pb n="323"/> Oder der ehrliche Bardolph, dessen Andacht in seiner Nase
+              den Gottlosen? <pb n="324"/> Oder der ehrliche Bardolph, dessen Andacht in seiner Nase
               brennt, von den Gottlosen?</p>
           </sp>
           <sp who="#poins">
@@ -2811,7 +2813,7 @@
               <l>Beim Himmel, Poins, ich fühl' mich tadelnswert,</l>
               <l>So müßig zu entweihn die edle Zeit,</l>
               <l>Wenn Wetter der Empörung wie der Süd,</l>
-              <pb n="324"/>
+              <pb n="325"/>
               <l>Von schwarzem Dunst getragen, schmelzen will</l>
               <l>Und träuft auf unser unbewehrtes Haupt.</l>
               <l>Gib Degen mir und Mantel – Falstaff, gute Nacht!</l>
@@ -2880,7 +2882,7 @@
           </sp>
         </div>
       </div>
-      <pb n="325"/>
+      <pb n="326"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2916,7 +2918,7 @@
               <l>Und in der Winde Andrang, die beim Gipfel</l>
               <l>Die tollen Wogen packen, krausen ihnen</l>
               <l>Das ungeheure Haupt und hängen sie</l>
-              <pb n="326"/>
+              <pb n="327"/>
               <l>Mit tobendem Geschrei ins glatte Tauwerk,</l>
               <l>Daß vom Getümmel selbst der Tod erwacht?</l>
               <l>Gibst du, o Schlaf, parteiisch deine Ruh'</l>
@@ -2986,7 +2988,7 @@
               <l>Es sind noch nicht zehn Jahr,</l>
               <l>Seit Richard und Northumberland als Freunde</l>
               <l>Zusammen schmausten, und zwei Jahr nachher</l>
-              <pb n="327"/>
+              <pb n="328"/>
               <l>Gab's zwischen ihnen Krieg; acht Jahr nur, seit</l>
               <l>Der Percy meinem Herzen war der nächste,</l>
               <l>Der wie ein Bruder sich erschöpft für mich</l>
@@ -3040,7 +3042,7 @@
               <l>Sind funfzigtausend stark</l>
             </lg>
           </sp>
-          <pb n="328"/>
+          <pb n="329"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -3113,7 +3115,7 @@
             <speaker>STILLE.</speaker>
             <p>Ihr hießt damals der muntre Schaal, Vetter.</p>
           </sp>
-          <pb n="329"/>
+          <pb n="330"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Beim Element, ich hieß, wie man wollte, und ich hätte auch getan, was man wollte, ja,
@@ -3171,7 +3173,7 @@
             <p>Es ist, nachdem sie sind: eine Mandel guter Schafe kann wohl zehn Pfund wert
               sein.</p>
           </sp>
-          <pb n="330"/>
+          <pb n="331"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Und ist der alte Doppel tot?</p>
@@ -3233,7 +3235,7 @@
             <p>Ich bin erfreut, Euch wohl zu sehen, guter Herr Robert Schaal; – Herr Gutspiel, wo
               mir recht ist?</p>
           </sp>
-          <pb n="331"/>
+          <pb n="332"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Nein, Sir John; es ist mein Vetter Stille, und mein Kollege im Amte.</p>
@@ -3318,7 +3320,7 @@
             <p>Ruhig, Kerl, ruhig! Tretet beiseit! Wißt Ihr auch, wo Ihr seid? – Nun zu den andern,
               Sir John! Laßt sehn: Simon Schatte.</p>
           </sp>
-          <pb n="332"/>
+          <pb n="333"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Ei ja, den gebt mir, um darunter zu sitzen: er wird vermutlich ein kühler Soldat
@@ -3423,7 +3425,7 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Wohlgesprochen, guter Frauenschneider! Wohlgesprochen, beherzter Schwächlich! Du
-              wirst so tapfer sein <pb n="333"/> wie die ergrimmte Taube oder allergroßmütigste
+              wirst so tapfer sein <pb n="334"/> wie die ergrimmte Taube oder allergroßmütigste
               Maus. – Gebt dem Frauenschneider einen guten Strich, Herr Schaal; tüchtig, Herr
               Schaal!</p>
           </sp>
@@ -3508,7 +3510,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Nichts weiter davon, lieber Herr Schaal, nichts weiter davon!</p>
           </sp>
-          <pb n="334"/>
+          <pb n="335"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Ha, das war eine lustige Nacht. Und lebt Hanne Nachtrüstig noch?</p>
@@ -3577,7 +3579,7 @@
           <sp who="#schimmelig">
             <speaker>SCHIMMELIG.</speaker>
             <p>Und lieber Herr Korporal Kapitän, meiner alten Hausfrauen wegen, legt ein gut Wort
-              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb n="335"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
+              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb n="336"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
               Schillinge haben, Herr.</p>
           </sp>
           <sp who="#bardolph">
@@ -3647,7 +3649,7 @@
               den Geist kommt es an, Herr Schaal. Da habt Ihr Warze, – Ihr seht, was es für eine
               ruppige Figur ist: der ladet und schießt Euch so flink, wie ein Zinngießer hämmert:
               läuft auf und ab, geschwinder wie einer, der des Brauers Eimer am Schwengel trägt. Und
-              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb n="336"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
+              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb n="337"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
               Schneide eines Federmessers zielen; und geht's zum Rückzuge: – wie geschwind wird
               dieser Schwächlich, der Frauenschneider, davon laufen! O gebt mir die unansehnlichen
               Leute, so will ich die großen gar nicht ansehn. – Gib dem Warze eine Muskete in die
@@ -3699,7 +3701,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Lebt wohl, ihr herrlichen Herrn! Weiter, Bardolph, führe die Leute weg!</p>
             <stage>Bardolph mit den Rekruten ab.</stage>
-            <pb n="337"/>
+            <pb n="338"/>
             <p>Wenn ich zurück komme, will ich diese Friedensrichter herumholen; den Friedensrichter
               Schaal habe ich schon ausgekostet. Lieber Gott, was wir alten Leute dem Laster des
               Lügens ergeben sind! Dieser schmächtige Friedensrichter hat mir in einem fort von der
@@ -3728,7 +3730,7 @@
           </sp>
         </div>
       </div>
-      <pb n="338"/>
+      <pb n="339"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3792,7 +3794,7 @@
               <l>Ihn dreißigtausend oder nah daran.</l>
             </lg>
           </sp>
-          <pb n="339"/>
+          <pb n="340"/>
           <sp who="#mowbray">
             <speaker>MOWBRAY.</speaker>
             <lg>
@@ -3859,7 +3861,7 @@
               <l>Zu diesem Ende: – wir sind alle krank,</l>
               <l>Und unser schwelgendes und wüstes Leben</l>
               <l>Hat in ein hitzig Fieber uns gebracht,</l>
-              <pb n="340"/>
+              <pb n="341"/>
               <l>Wofür wir bluten müssen; an dem Übel</l>
               <l>Starb unser König Richard, angesteckt.</l>
               <l>Allein, mein edler Lord von Westmoreland,</l>
@@ -3902,7 +3904,7 @@
               <l>Wann ward Euch jemals schon Gehör versagt?</l>
               <l>Worin seid Ihr vom König wohl gekränkt?</l>
               <l>Was für ein Pair ward wider Euch verhetzt.</l>
-              <pb n="341"/>
+              <pb n="342"/>
               <l>Daß Ihr auf dies gesetzlos blut'ge Buch</l>
               <l>Der Rebellion ein göttlich Siegel drückt</l>
               <l>Und heiliget des Aufruhrs scharfe Schneide?</l>
@@ -3965,7 +3967,7 @@
               <l>Oh, als der König seinen Stab herabwarf,</l>
               <l>Da hing sein eignes Leben an dem Stab;</l>
               <l>Da warf er sich herab und aller Leben,</l>
-              <pb n="342"/>
+              <pb n="343"/>
               <l>Die durch Verklagung und Gewalt des Schwerts</l>
               <l>Seitdem verunglückt unter Bolingbroke.</l>
             </lg>
@@ -4025,7 +4027,7 @@
               <l>Ein fauler Schade leidet kein Betasten.</l>
             </lg>
           </sp>
-          <pb n="343"/>
+          <pb n="344"/>
           <sp who="#hastings">
             <speaker>HASTINGS.</speaker>
             <lg>
@@ -4096,7 +4098,7 @@
               <l>Ja, jeder eitle und spitzfind'ge Grund</l>
               <l>Dem König schmecken wird nach dieser Tat;</l>
               <l>Daß, würd' auch unsre Treu' zur Märterin,</l>
-              <pb n="344"/>
+              <pb n="345"/>
               <l>Man wird uns worfeln mit so rauhem Wind,</l>
               <l>Daß unser Korn so leicht wie Spreu erscheint</l>
               <l>Und Gut und Böses keine Scheidung findet.</l>
@@ -4161,7 +4163,7 @@
               <l>Den gnäd'gen Herrn zu treffen?</l>
             </lg>
           </sp>
-          <pb n="345"/>
+          <pb n="346"/>
           <sp who="#mowbray">
             <speaker>MOWBRAY.</speaker>
             <lg>
@@ -4209,7 +4211,7 @@
               <l>Des Himmels Schutz und Gnade so verwendet,</l>
               <l>Wie falsche Günstlinge der Fürsten Namen,</l>
               <l>Zu ehrenlosen Taten? Ihr verhetzt,</l>
-              <pb n="346"/>
+              <pb n="347"/>
               <l>Durch einen vorgegebnen Eifer Gottes,</l>
               <l>Das Volk dem König, seinem Stellvertreter,</l>
               <l>Treibt, seinem und des Himmels Frieden trotzend,</l>
@@ -4277,7 +4279,7 @@
               <l>Mylord, die Klagen werden abgestellt,</l>
               <l>Sie werden's, auf mein Wort. Genügt Euch das,</l>
               <l>Entlaßt Eu'r Volk, zu seiner Grafschaft jedes,</l>
-              <pb n="347"/>
+              <pb n="348"/>
               <l>Wie unsres wir; hier zwischen beiden Heeren</l>
               <l>Laßt einen Trunk uns tun und uns umarmen,</l>
               <l>Daß aller Augen heim die Zeichen tragen</l>
@@ -4375,7 +4377,7 @@
               <l>Und keiner etwas einbüßt.</l>
             </lg>
           </sp>
-          <pb n="348"/>
+          <pb n="349"/>
           <sp who="#prinz_johann">
             <speaker>PRINZ JOHANN.</speaker>
             <lg>
@@ -4456,7 +4458,7 @@
               <l>Doch ihr, Rebellen, hofft den Sold zu kosten,</l>
               <l>Den Rebellion und solches Tun verdient.</l>
               <l>Einfältig wart ihr, als ihr Krieg begannt,</l>
-              <pb n="349"/>
+              <pb n="350"/>
               <l>Dumm hergelockt und töricht fortgesandt.</l>
               <l>Rührt unsre Trommeln, folgt der Flücht'gen Tritten!</l>
               <l>Nicht wir, der Himmel hat für uns gestritten.</l>
@@ -4509,7 +4511,7 @@
               mein Wanst, mein Wanst ruiniert mich! – Da kommt unser General.</p>
             <stage>Prinz Johann von Lancaster, Westmoreland und andre treten auf.</stage>
           </sp>
-          <pb n="350"/>
+          <pb n="351"/>
           <sp who="#prinz_johann">
             <speaker>PRINZ JOHANN.</speaker>
             <lg>
@@ -4557,7 +4559,7 @@
             <speaker>PRINZ JOHANN.</speaker>
             <p>Deins ist zu schwer zum Steigen.</p>
           </sp>
-          <pb n="351"/>
+          <pb n="352"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>So laßt es leuchten!</p>
@@ -4641,7 +4643,7 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Ich wollte, Ihr hättet nur den Witz dazu, das wäre besser als Euer Herzogtum. –
-              Meiner Treu, dieser junge <pb n="352"/> Knabe von nüchternem Geblüt liebt mich nicht,
+              Meiner Treu, dieser junge <pb n="353"/> Knabe von nüchternem Geblüt liebt mich nicht,
               auch kann ihn kein Mensch zum Lachen bringen, aber das ist kein Wunder, er trinkt
               keinen Wein. Es wird niemals aus diesen bedächtigen Burschen etwas Rechtes, denn das
               dünne Getränk und die vielen Fisch-Mahlzeiten kühlen ihr Blut so übermäßig, daß sie in
@@ -4667,7 +4669,7 @@
               mußte, hat er wie magres, unfruchtbares und dürres Land gedüngt, gepflügt und
               beackert, mit ungemeiner Bemühung wackren Trinkens und gutem Vorrat von fruchtbarem
               Sekt, so daß er sehr hitzig und tapfer geworden ist. Wenn ich tausend Söhne hätte, der
-              erste menschliche Grundsatz, <pb n="353"/> den ich ihnen lehren wollte, sollte sein,
+              erste menschliche Grundsatz, <pb n="354"/> den ich ihnen lehren wollte, sollte sein,
               dünnes Getränk abzuschwören und sich dem Sekt zu ergeben.</p>
             <stage>Bardolph kommt.</stage>
             <l>Wie steht's, Bardolph?</l>
@@ -4733,7 +4735,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Ist nicht sein Bruder, Thomas von Clarence, bei ihm?</l>
           </sp>
-          <pb n="354"/>
+          <pb n="355"/>
           <sp who="#prinz_humphrey">
             <speaker>PRINZ HUMPHREY.</speaker>
             <l>Nein, gnäd'ger Herr, der ist hier gegenwärtig.</l>
@@ -4786,7 +4788,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Warum bist du nicht mit in Windsor, Thomas?</l>
           </sp>
-          <pb n="355"/>
+          <pb n="356"/>
           <sp who="#clarence">
             <speaker>CLARENCE.</speaker>
             <l>Er ist nicht dorten heut, er speist in London.</l>
@@ -4850,7 +4852,7 @@
               <l>Der Prinz Johann küßt Euer Hoheit Hand:</l>
               <l>Mowbray, der Bischof Scroop, Hastings und alle</l>
               <l>Sind unter des Gesetzes Zucht gebracht;</l>
-              <pb n="356"/>
+              <pb n="357"/>
               <l>Und kein Rebellen-Schwert ist mehr entblößt,</l>
               <l>Es sproßt des Friedens Ölzweig überall.</l>
               <l>Die Art, wie dies Geschäft vollführt ist worden,</l>
@@ -4921,7 +4923,7 @@
             <lg>
               <l>Nein, nein, er hält nicht lang' die Qualen aus;</l>
               <l>Die ew'ge Sorg' und Arbeit des Gemüts</l>
-              <pb n="357"/>
+              <pb n="358"/>
               <l>Hat so die Mau'r, die es umschließt, vernutzt,</l>
               <l>Das Leben blickt schon durch und will heraus.</l>
             </lg>
@@ -5014,7 +5016,7 @@
             <speaker>PRINZ HUMPHREY.</speaker>
             <l>Wie er sie hörte, hat er sich verwandelt.</l>
           </sp>
-          <pb n="358"/>
+          <pb n="359"/>
           <sp who="#prinz_heinrich">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
@@ -5070,7 +5072,7 @@
             <lg>
               <l>Der Himmel schütze sie: – nun legt die Stärke</l>
               <l>Der ganzen Welt in einen Riesenarm,</l>
-              <pb n="359"/>
+              <pb n="360"/>
               <l>Er soll mir diese angestammte Ehre</l>
               <l>Nicht mit Gewalt entreißen: dies von dir</l>
               <l>Lass' ich den Meinen, wie du's ließest mir.</l>
@@ -5146,7 +5148,7 @@
               <l>Dafür bedachten sie, die Söhn' in Künsten</l>
               <l>Und kriegerischer Übung einzuweihn:</l>
               <l>Denn, wie die Biene, jede Blume schatzend</l>
-              <pb n="360"/>
+              <pb n="361"/>
               <l>Um ihre süße Kraft,</l>
               <l>Die Schenkel voller Wachs, den Mund voll Honig,</l>
               <l>So bringen wir's zum Korb; und wie die Bienen</l>
@@ -5202,7 +5204,7 @@
               <l>Dein Leben zeigte, daß du mich nicht liebtest,</l>
               <l>Und du willst, daß ich des versichert sterbe.</l>
               <l>In deinem Sinne birgst du tausend Dolche,</l>
-              <pb n="361"/>
+              <pb n="362"/>
               <l>Die du am Felsenherzen dir gewetzt,</l>
               <l>Ein Stündchen meines Lebens zu ermorden.</l>
               <l>Wie? Kannst du nicht ein Stündchen auf mich warten?</l>
@@ -5246,7 +5248,7 @@
               <l>So hätt' ich vorgebaut der harten Rüge,</l>
               <l>Eh' Ihr mit Gram gered't und ich so weit</l>
               <l>Den Lauf davon gehört. Hier ist die Krone,</l>
-              <pb n="362"/>
+              <pb n="363"/>
               <l>Und er, der seine Kron' unsterblich trägt,</l>
               <l>Erhalte lang' sie Euch! Wünsch' ich sie mehr</l>
               <l>Als Eure Ehre und als Euren Ruhm,</l>
@@ -5290,7 +5292,7 @@
               <l>Der Himmel gab dir ein, sie wegzunehmen,</l>
               <l>Daß du des Vaters Liebe mehr gewönnest,</l>
               <l>Da du so weise deine Sache führst.</l>
-              <pb n="363"/>
+              <pb n="364"/>
               <l>Komm her denn, Heinrich, setz' dich an mein Bett</l>
               <l>Und hör' den letzten Ratschlag, wie ich glaube,</l>
               <l>Den ich je atmen mag: Gott weiß, mein Sohn,</l>
@@ -5329,7 +5331,7 @@
               <l>Mit fremdem Zwist, daß Wirken in der Fern'</l>
               <l>Das Angedenken vor'ger Tage banne.</l>
               <l>Mehr wollt' ich, doch die Lung' ist so erschöpft,</l>
-              <pb n="364"/>
+              <pb n="365"/>
               <l>Daß kräft'ge Rede gänzlich mir versagt ist.</l>
               <l>Wie ich zur Krone kam, o Gott! vergebe,</l>
               <l>Daß sie bei dir in wahrem Frieden lebe!</l>
@@ -5393,7 +5395,7 @@
           </sp>
         </div>
       </div>
-      <pb n="365"/>
+      <pb n="366"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5447,7 +5449,7 @@
           <sp who="#david">
             <speaker>DAVID.</speaker>
             <p>Ferner, Herr, wir müssen durchaus eine neue Kette an dem Eimer haben; – und, Herr,
-              denkt Ihr dem Wilhelm <pb n="366"/> was von seinem Lohne zurückzuhalten wegen des
+              denkt Ihr dem Wilhelm <pb n="367"/> was von seinem Lohne zurückzuhalten wegen des
               Sacks, den er letzthin auf dem Markte zu Hinkley verloren hat?</p>
           </sp>
           <sp who="#schaal">
@@ -5507,7 +5509,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>Ich freue mich, Euer Edlen zu sehn.</p>
           </sp>
-          <pb n="367"/>
+          <pb n="368"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Ich danke dir von ganzem Herzen, mein lieber Meister Bardolph; – <stage>Zu dem
@@ -5550,7 +5552,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="368"/>
+        <pb n="369"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Westminster. Ein Zimmer im Palast.</stage>
@@ -5645,7 +5647,7 @@
             <speaker>PRINZ HUMPHREY.</speaker>
             <lg>
               <l>O bester Lord, Euch starb ein Freund, fürwahr;</l>
-              <pb n="369"/>
+              <pb n="370"/>
               <l>Ich schwöre drauf, Ihr borgt nicht diese Miene</l>
               <l>Scheinbaren Leids: sie ist gewiß Eu'r eigen.</l>
             </lg>
@@ -5709,7 +5711,7 @@
               <l>In so viel Stunden Glücks verwandeln wird.</l>
             </lg>
           </sp>
-          <pb n="370"/>
+          <pb n="371"/>
           <sp who="#prinz_johann #die_uebrigen">
             <speaker>PRINZ JOHANN UND DIE ÜBRIGEN.</speaker>
             <l>So hoffen wir's von Eurer Majestät.</l>
@@ -5767,7 +5769,7 @@
               <l>Die furchtbarsten Gesetze keck verachtet,</l>
               <l>Seht so Euch selbst von einem Sohn entwürdigt;</l>
               <l>Dann stellt Euch vor, ich führe Eure Sache</l>
-              <pb n="371"/>
+              <pb n="372"/>
               <l>Und bring' aus Eurer Vollmacht Euren Sohn</l>
               <l>Gelind zum Schweigen: meinen Spruch erteilt</l>
               <l>Mir nun nach dieser kühlen Überlegung!</l>
@@ -5811,7 +5813,7 @@
               <l>Nun kehrt er um und ebbt zurück zur See,</l>
               <l>Wo er sich mit der Fluten Haupt soll mischen,</l>
               <l>In ernster Majestät forthin zu fließen.</l>
-              <pb n="372"/>
+              <pb n="373"/>
               <l>Berufen wir nun unsern hohen Hof</l>
               <l>Des Parlaments und wählen solche Glieder</l>
               <l>Des edlen Rates, daß der große Körper</l>
@@ -5867,7 +5869,7 @@
               <l>Ei der Tausend, das mein' ich; wir wollen</l>
               <stage>er singt</stage>
               <l>»Nichts tun als essen, und keiner was spar',</l>
-              <pb n="373"/>
+              <pb n="374"/>
               <l>Und preisen den Himmel fürs lustige Jahr,</l>
               <l>Wo wohlfeil das Fleisch und die Mädel rar</l>
               <l>Und munteres Völklein hier schwärmet und dar,</l>
@@ -5949,7 +5951,7 @@
             <speaker>STILLE.</speaker>
             <p>Und wir wollen fröhlich sein, das Beste von der Nacht geht nun erst an.</p>
           </sp>
-          <pb n="374"/>
+          <pb n="375"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Eure Gesundheit und langes Leben, Herr Stille!</p>
@@ -6030,7 +6032,7 @@
             <speaker>DAVID.</speaker>
             <p>Wenn's Euer Edlen beliebt, da ist ein Pistol mit Neuigkeiten vom Hofe.</p>
           </sp>
-          <pb n="375"/>
+          <pb n="376"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Vom Hofe? Laßt ihn hereinkommen!</p>
@@ -6133,7 +6135,7 @@
             <speaker>PISTOL.</speaker>
             <lg>
               <l>Ein Pfifferling dann für dein ganzes Amt!</l>
-              <pb n="376"/>
+              <pb n="377"/>
               <l>Sir John, dein zartes Lamm ist König nun;</l>
               <l>Heinrich der Fünfte heißt's! Ich rede wahr:</l>
               <l>Tut dies mir, lügt Pistol: gebt mir die Feigen,</l>
@@ -6192,7 +6194,7 @@
             <p>Nein, du Erzschelm! Ich wollte, ich stürbe, damit du gehängt würdest. Du hast mir die
               Schulter ganz aus dem Gelenke gerissen.</p>
           </sp>
-          <pb n="377"/>
+          <pb n="378"/>
           <sp who="#erster_buettel">
             <speaker>ERSTER BÜTTEL.</speaker>
             <p>Die Gerichtsdiener haben sie mir überliefert, und sie soll genug mit Peitschen
@@ -6261,7 +6263,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="378"/>
+        <pb n="379"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Ein öffentlicher Platz bei der Westminsterabtei.</stage>
@@ -6339,7 +6341,7 @@
               <l>'s ist alles überall.</l>
             </lg>
           </sp>
-          <pb n="379"/>
+          <pb n="380"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <l>Es ist so, in der Tat.</l>
@@ -6411,7 +6413,7 @@
               <l>Dann komm, und du sollst sein, was du mir warst,</l>
               <l>Der Lehrer und der Pfleger meiner Lüste.</l>
               <l>Bis dahin bann' ich dich bei Todesstrafe,</l>
-              <pb n="380"/>
+              <pb n="381"/>
               <l>Und all die andern auch, die mich mißleitet,</l>
               <l>Zehn Meilen weit von unserer Person.</l>
               <l>Was Unterhalt betrifft, den sollt ihr haben,</l>
@@ -6484,7 +6486,7 @@
             <l>Si fortuna me tormenta, spero me contenta.</l>
             <stage>Falstaff, Schaal, Pistol, Bardolph, Page und Offiziere ab.</stage>
           </sp>
-          <pb n="381"/>
+          <pb n="382"/>
           <sp who="#prinz_johann">
             <speaker>PRINZ JOHANN.</speaker>
             <lg>
@@ -6520,7 +6522,7 @@
           </sp>
         </div>
       </div>
-      <pb n="382"/>
+      <pb n="383"/>
       <div type="epilogue">
         <head>[Epilog</head>
         <p>Zuerst meine Furcht, dann meine Verbeugung, zuletzt meine Rede. Meine Furcht ist euer
@@ -6543,7 +6545,7 @@
           noch nie gesehen wurde.</p>
         <p>Noch ein Wort, mit Erlaubnis! Seid ihr nicht zu sehr mit fetter Speise übersättigt, so
           wird unser demütiger Verfasser die Geschichte fortsetzen, mit Sir John drinnen, und euch
-          durch die schöne Katharine von Frankreich belustigen, wo <pb n="383"/> dann, soviel ich
+          durch die schöne Katharine von Frankreich belustigen, wo <pb n="384"/> dann, soviel ich
           weiß, Falstaff an einer Schwitzkur sterben wird, wenn er nicht schon durch euren Unwillen
           getötet ist; denn Oldcastle starb als ein Märtyrer, und dieser hier ist nicht jener Mann.
           Meine Zunge ist müde; wenn meine Beine es auch sind, werde ich euch gute Nacht sagen und

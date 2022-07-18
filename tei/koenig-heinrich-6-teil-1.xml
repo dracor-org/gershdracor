@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="493"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,6 +90,7 @@
           <titlePart type="main">König Heinrich VI. Erster Teil</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="494"/>
       <pb n="495"/>
       <castList>
         <head>Personen</head>
@@ -123,7 +125,7 @@
         <castItem>Herzog von Alençon</castItem>
         <castItem>Der Statthalter von Paris</castItem>
         <castItem>Bastard von Orleans</castItem>
-        <pb n="495"/>
+        <pb n="496"/>
         <castItem>Der Büchsenmeister von Orleans und sein Sohn</castItem>
         <castItem>Der General der französischen Truppen in Bordeaux</castItem>
         <castItem>Ein französischer Sergeant</castItem>
@@ -140,8 +142,8 @@
         <p>Die Szene ist teils in England, teils in Frankreich</p>
       </set>
     </front>
+    <pb n="497"/>
     <body>
-      <pb n="496"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -187,7 +189,7 @@
               <l>Gefangnen gleich am Wagen des Triumphs.</l>
               <l>Wie? Sollen wir Unglücks-Planeten fluchen,</l>
               <l>Die so gestiftet unsers Ruhmes Sturz?</l>
-              <pb n="497"/>
+              <pb n="498"/>
               <l>Oder die schlauen Franken für Beschwörer</l>
               <l>Und Zaubrer achten, welche, bang vor ihm,</l>
               <l>Durch mag'sche Verse seinen Tod erzielt?</l>
@@ -254,7 +256,7 @@
               <l>Euch allen Heil, ihr ehrenwerten Lords!</l>
               <l>Aus Frankreich bring' ich böse Zeitung euch</l>
               <l>Von Niederlage, Blutbad und Verlust.</l>
-              <pb n="498"/>
+              <pb n="499"/>
               <l>Guienne, Champagne, Reims, Orleans,</l>
               <l>Paris, Guisors, Poitiers sind ganz dahin.</l>
             </lg>
@@ -327,7 +329,7 @@
               <l>Der Herzog Alençon flieht zu ihm über.</l>
             </lg>
           </sp>
-          <pb n="499"/>
+          <pb n="500"/>
           <sp who="#exeter">
             <speaker>EXETER.</speaker>
             <lg>
@@ -391,7 +393,7 @@
               <l>Und stürzten recht sich in das Herz der Schlacht.</l>
               <l>Nun hätte völlig sie der Sieg besiegelt,</l>
               <l>Wo Sir John Fastolfe nicht die Memme spielte:</l>
-              <pb n="500"/>
+              <pb n="501"/>
               <l>Der, in dem Vortrab hinterwärts gestellt,</l>
               <l>Um ihnen beizustehn und nachzufolgen,</l>
               <l>Floh memmenhaft und tat nicht einen Streich.</l>
@@ -469,7 +471,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <pb n="501"/>
+          <pb n="502"/>
           <sp who="#exeter">
             <speaker>EXETER.</speaker>
             <lg>
@@ -539,7 +541,7 @@
             <stage>Alle ab. – Getümmel, Angriffe, hierauf ein Rückzug.</stage>
             <stage>Karl, Alençon, Reignier und andre kommen zurück.</stage>
           </sp>
-          <pb n="502"/>
+          <pb n="503"/>
           <sp who="#karl">
             <speaker>KARL.</speaker>
             <lg>
@@ -613,7 +615,7 @@
               <l>Ersehn hat, die Belag'rung aufzuheben</l>
               <l>Und aus dem Land die Englischen zu jagen.</l>
               <l>Sie hat der tiefen Prophezeiung Geist,</l>
-              <pb n="503"/>
+              <pb n="504"/>
               <l>Roms alten neun Sibyllen überlegen;</l>
               <l>Was war, was kommen wird, kann sie erspähn.</l>
               <l>Sagt, ruf' ich sie herbei? Glaubt meinen Worten,</l>
@@ -674,7 +676,7 @@
               <l>Frag' mich, um was du nur ersinnen kannst,</l>
               <l>Unvorbereitet will ich Antwort geben;</l>
               <l>Prüf meinen Mut im Kampfe, wenn du darfst,</l>
-              <pb n="504"/>
+              <pb n="505"/>
               <l>Und über mein Geschlecht wirst du mich finden.</l>
               <l>Entschließe dich: soll alles Glück dir sprossen,</l>
               <l>So nimm mich an zu deinem Kriegsgenossen.</l>
@@ -772,7 +774,7 @@
               <l>Wird Orleans verlassen oder nicht?</l>
             </lg>
           </sp>
-          <pb n="505"/>
+          <pb n="506"/>
           <sp who="#pocelle">
             <speaker>POCELLE.</speaker>
             <lg>
@@ -845,7 +847,7 @@
             </lg>
             <stage>Bediente klopfen an.</stage>
           </sp>
-          <pb n="506"/>
+          <pb n="507"/>
           <sp who="#erster_waechter">
             <speaker>ERSTER WÄCHTER</speaker>
             <stage>drinnen.</stage>
@@ -937,7 +939,7 @@
               <l>Protektor nicht des Königs oder Reichs!</l>
             </lg>
           </sp>
-          <pb n="507"/>
+          <pb n="508"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -1020,7 +1022,7 @@
               <l>Der immer dringt auf Krieg und nie auf Frieden,</l>
               <l>Mit Steuern eure freien Beutel lastend;</l>
               <l>Der die Religion zu stürzen sucht,</l>
-              <pb n="508"/>
+              <pb n="509"/>
               <l>Weil er Protektor dieses Reiches ist:</l>
               <l>Und Waffen haben will hier aus dem Turm,</l>
               <l>Den Prinzen zu erdrücken, sich zu krönen.</l>
@@ -1103,7 +1105,7 @@
               <l>Unglücklich nur verfehlt' ich stets mein Ziel.</l>
             </lg>
           </sp>
-          <pb n="509"/>
+          <pb n="510"/>
           <sp who="#buechsenmeister">
             <speaker>BÜCHSENMEISTER.</speaker>
             <lg>
@@ -1164,7 +1166,7 @@
             <speaker>SALISBURY.</speaker>
             <l>Noch sagst du nicht, wie du gehalten wurdest.</l>
           </sp>
-          <pb n="510"/>
+          <pb n="511"/>
           <sp who="#talbot">
             <speaker>TALBOT.</speaker>
             <lg>
@@ -1231,7 +1233,7 @@
             <lg>
               <l>Was kreuzt uns für ein Zufall plötzlich hier?</l>
               <l>Sprich, Salisbury, wofern du reden kannst:</l>
-              <pb n="511"/>
+              <pb n="512"/>
               <l>Wie geht's dir, Spiegel aller wackern Krieger?</l>
               <l>Ein Aug' und halb die Wange weggeschmettert!</l>
               <l>Verfluchter Turm! Verfluchte Unglücks-Hand,</l>
@@ -1280,7 +1282,7 @@
               <l>Es nagt sein Herz, daß Rach' ihm ist versagt. –</l>
               <l>Ich werd' ein Salisbury für euch, Franzosen! –</l>
               <l>Pucelle oder Buhle, Delphin oder Meerhund,</l>
-              <pb n="512"/>
+              <pb n="513"/>
               <l>Die Herzen stampf' ich mit des Pferdes Hufen</l>
               <l>Euch aus und eu'r vermischtes Hirn zu Kot. –</l>
               <l>Schafft mir den Salisbury in sein Gezelt,</l>
@@ -1340,7 +1342,7 @@
             <lg>
               <l>Mein Kopf geht um, wie eines Töpfers Rad,</l>
               <l>Ich weiß nicht, wo ich bin, noch was ich tue.</l>
-              <pb n="513"/>
+              <pb n="514"/>
               <l>Durch Furcht, nicht durch Gewalt, wie Hannibal,</l>
               <l>Treibt eine Hexe unser Heer zurück</l>
               <l>Und siegt, wie's ihr beliebt. So treibt man wohl</l>
@@ -1390,7 +1392,7 @@
               <l>Du göttlichstes Geschöpf! Asträas Tochter!</l>
               <l>Wie soll ich ehren dich für den Erfolg?</l>
               <l>Adonis' Gärten gleichet dein Verheißen,</l>
-              <pb n="514"/>
+              <pb n="515"/>
               <l>Die heute blühn und morgen Früchte tragen.</l>
               <l>Sieg prang' in deiner herrlichen Prophetin,</l>
               <l>O Frankreich! Orleans ist wieder dein:</l>
@@ -1436,7 +1438,7 @@
           </sp>
         </div>
       </div>
-      <pb n="515"/>
+      <pb n="516"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1493,7 +1495,7 @@
               <l>Wer ist sie?</l>
             </lg>
           </sp>
-          <pb n="516"/>
+          <pb n="517"/>
           <sp who="#talbot">
             <speaker>TALBOT.</speaker>
             <l>Ein Mädchen, sagt man.</l>
@@ -1591,7 +1593,7 @@
             <speaker>REIGNIER.</speaker>
             <l>Wo nicht die Höll', ist ihm der Himmel günstig.</l>
           </sp>
-          <pb n="517"/>
+          <pb n="518"/>
           <sp who="#alençon">
             <speaker>ALENÇON.</speaker>
             <l>Da kommt der Prinz, mich wundert, wie's ihm ging.</l>
@@ -1679,7 +1681,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="518"/>
+        <pb n="519"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Orleans. Innerhalb der Stadt.</stage>
@@ -1734,7 +1736,7 @@
               <l>Als Arm in Arm sie hurtig laufend kamen,</l>
               <l>So wie ein Paar verliebter Turteltauben,</l>
               <l>Die sich nicht trennen konnten Tag und Nacht.</l>
-              <pb n="519"/>
+              <pb n="520"/>
               <l>Wenn erst die Dinge hier in Ordnung sind,</l>
               <l>So woll'n wir sie mit aller Macht verfolgen.</l>
             </lg>
@@ -1808,7 +1810,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="520"/>
+        <pb n="521"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Auvergne. Schloßhof. Die Gräfin und ihr Torwärter treten auf.</stage>
@@ -1894,7 +1896,7 @@
             </lg>
             <stage>Der Torwärter kommt zurück mit Schlüsseln.</stage>
           </sp>
-          <pb n="521"/>
+          <pb n="522"/>
           <sp who="#graefin">
             <speaker>GRÄFIN.</speaker>
             <l>Wenn du es bist, so bist du ein Gefangner.</l>
@@ -1975,7 +1977,7 @@
               <l>Daß Talbot nur sein eigner Schatten ist?</l>
               <l>Die sind sein Wesen, Sehnen, Arm' und Stärke,</l>
               <l>Womit er Euch empörte Nacken beugt,</l>
-              <pb n="522"/>
+              <pb n="523"/>
               <l>Die Städte schleift und Eure Festen stürzt</l>
               <l>Und wüst in einem Augenblick sie macht.</l>
             </lg>
@@ -2051,7 +2053,7 @@
             <speaker>SOMERSET.</speaker>
             <l>So richtet Ihr, Lord Warwick, zwischen uns.</l>
           </sp>
-          <pb n="523"/>
+          <pb n="524"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -2135,7 +2137,7 @@
             <speaker>PLANTAGENET.</speaker>
             <l>Ich auch.</l>
           </sp>
-          <pb n="524"/>
+          <pb n="525"/>
           <sp who="#vernon">
             <speaker>VERNON.</speaker>
             <lg>
@@ -2250,7 +2252,7 @@
               <l>Dem Bauern zu viel Ehr', mit ihm zu reden.</l>
             </lg>
           </sp>
-          <pb n="525"/>
+          <pb n="526"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -2334,7 +2336,7 @@
             <speaker>WARWICK.</speaker>
             <lg>
               <l>Der Fleck, den sie an Eurem Hause rügen,</l>
-              <pb n="526"/>
+              <pb n="527"/>
               <l>Wird ausgelöscht im nächsten Parlament,</l>
               <l>Das Winchester und Gloster soll vergleichen;</l>
               <l>Und wenn man dann dich nicht zum York ernennt,</l>
@@ -2392,7 +2394,7 @@
               <l>Die Schultern schwach, erdrückt von Grames Last,</l>
               <l>Die Arme marklos, wie verdorrte Reben,</l>
               <l>Saftlose Ranken auf den Boden senkend. –</l>
-              <pb n="527"/>
+              <pb n="528"/>
               <l>Doch diese Füße von kraftlosem Stand,</l>
               <l>Unfähig, diesen Erdenkloß zu stützen,</l>
               <l>Sind leicht beschwingt vom Wunsch nach einem Grabe,</l>
@@ -2459,7 +2461,7 @@
               <l>Und, so erleichtert, höre die Beschwer.</l>
               <l>Heut, bei dem Streiten über einen Fall,</l>
               <l>Kams' zwischen mir und Somerset zu Worten,</l>
-              <pb n="528"/>
+              <pb n="529"/>
               <l>Wobei er ohne Maß die Zunge brauchte</l>
               <l>Und rückte meines Vaters Tod mir vor.</l>
               <l>Der Vorwurf stieß mir Riegel vor die Zunge,</l>
@@ -2512,7 +2514,7 @@
               <l>Den rechten Erben einzusetzen rangen,</l>
               <l>Verlor die Freiheit ich, und sie das Leben.</l>
               <l>Viel später, als Heinrich der Fünfte herrschte</l>
-              <pb n="529"/>
+              <pb n="530"/>
               <l>Nach seinem Vater Bolingbroke, geschah's,</l>
               <l>Daß, mitleidsvoll mit meiner harten Trübsal,</l>
               <l>Dein Vater, Graf von Cambridge, abgestammt</l>
@@ -2584,7 +2586,7 @@
               <l>Als Klausner überlebend deine Tage. –</l>
               <l>Wohl, seinen Rat verschließ' ich in der Brust,</l>
               <l>Und was ich sinne, sei nur mir bewußt. –</l>
-              <pb n="530"/>
+              <pb n="531"/>
               <l>Wärter, tragt ihn hinweg! Ich sorge selbst,</l>
               <l>Ihn besser zu bestatten, als er lebte.</l>
               <stage>Die Gefangenwärter tragen Mortimer hinaus.</stage>
@@ -2601,7 +2603,7 @@
           </sp>
         </div>
       </div>
-      <pb n="531"/>
+      <pb n="532"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2641,7 +2643,7 @@
               <l>Und was liegt mehr am Tag als dein Verrat,</l>
               <l>Da auf mein Leben Schlingen du gelegt</l>
               <l>Sowohl beim Turm als bei der London-Brücke?</l>
-              <pb n="532"/>
+              <pb n="533"/>
               <l>Ja, würden die Gedanken dir gesichtet,</l>
               <l>Dein Herr, der König, fürcht' ich, ist nicht frei</l>
               <l>Von neid'scher Tücke deines schwell'nden Herzens.</l>
@@ -2741,7 +2743,7 @@
             <speaker>SOMERSET.</speaker>
             <l>Ja, wenn sein heil'ger Stand wird angetastet.</l>
           </sp>
-          <pb n="533"/>
+          <pb n="534"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -2809,7 +2811,7 @@
               <l>Ich bitt' Euch, Oheim Gloster, stillt den Streit.</l>
             </lg>
           </sp>
-          <pb n="534"/>
+          <pb n="535"/>
           <sp who="#erster_bedienter">
             <speaker>ERSTER BEDIENTER.</speaker>
             <lg>
@@ -2892,7 +2894,7 @@
               <l>Dies Vorrecht über mich erlangen sollte.</l>
             </lg>
           </sp>
-          <pb n="535"/>
+          <pb n="536"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -2981,7 +2983,7 @@
               <l>Wohl angebracht, Lord Warwick! Denn, mein Prinz,</l>
               <l>Wenn Eure Hoheit jeden Umstand merkt,</l>
               <l>Habt Ihr viel Grund, sein Recht ihm zu erweisen;</l>
-              <pb n="536"/>
+              <pb n="537"/>
               <l>Besonders auf den Anlaß, welchen ich</l>
               <l>Zu Eltham Euer Majestät gesagt.</l>
             </lg>
@@ -3075,7 +3077,7 @@
             <lg>
               <l>Ja, ziehn wir nur in England oder Frankreich,</l>
               <l>Nicht sehend, was hieraus erfolgen muß:</l>
-              <pb n="537"/>
+              <pb n="538"/>
               <l>Die jüngst erwachsne Zwietracht dieser Pairs</l>
               <l>Brennt unter Aschen der verstellten Liebe</l>
               <l>Und wird zuletzt in Flammen brechen aus.</l>
@@ -3138,7 +3140,7 @@
             <l>Geht nur hinein, die Markt-Glock' hat geläutet.</l>
             <stage>Er öffnet das Tor.</stage>
           </sp>
-          <pb n="538"/>
+          <pb n="539"/>
           <sp who="#pucelle">
             <speaker>PUCELLE.</speaker>
             <l>Wohlauf, Rouen, nun stürz' ich deine Feste.</l>
@@ -3216,7 +3218,7 @@
               hereingetragen wird, mit Talbot, Burgund und, den englischen Truppen. Dann erscheinen
               auf den Mauern die Pucelle, Karl, der Bastard, Alençon und andre.</stage>
           </sp>
-          <pb n="539"/>
+          <pb n="540"/>
           <sp who="#pucelle">
             <speaker>PUCELLE.</speaker>
             <lg>
@@ -3311,7 +3313,7 @@
             </lg>
             <stage>Die Pucelle mit den übrigen von den Mauern ab.</stage>
           </sp>
-          <pb n="540"/>
+          <pb n="541"/>
           <sp who="#talbot">
             <speaker>TALBOT.</speaker>
             <lg>
@@ -3390,7 +3392,7 @@
             <speaker>HAUPTMANN.</speaker>
             <l>Was? Flieht Ihr und verlaßt Lord Talbot?</l>
           </sp>
-          <pb n="541"/>
+          <pb n="542"/>
           <sp who="#fastolfe">
             <speaker>FASTOLFE.</speaker>
             <lg>
@@ -3466,7 +3468,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="542"/>
+        <pb n="543"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Die benachbarten Ebnen bei Rouen.</stage>
@@ -3544,7 +3546,7 @@
               <l>Daß ihre Truppen sich Paris-wärts ziehn.</l>
               <stage>Ein englischer Marsch. In der Entfernung zieht Talhot mit seinen Truppen
                 vorüber.</stage>
-              <pb n="543"/>
+              <pb n="544"/>
               <l>Da geht der Talbot, fliegend seine Fahnen,</l>
               <l>Und alle Scharen Englischer nach ihm.</l>
               <stage>Ein französischer Marsch. Der Herzog von Burgund mit seinen Truppen.</stage>
@@ -3618,7 +3620,7 @@
               <l>Geburt und echte Herkunft dir bezweifelnd.</l>
               <l>An wen gerietst du als ein herrisch Volk,</l>
               <l>Daß dir nicht traun mag, als Gewinnes halb?</l>
-              <pb n="544"/>
+              <pb n="545"/>
               <l>Wenn Talbot einmal Fuß gefaßt in Frankreich</l>
               <l>Und zu des Übels Werkzeug dich gemodelt,</l>
               <l>Wer außer Englands Heinrich wird dann Herr,</l>
@@ -3685,7 +3687,7 @@
             <lg>
               <l>Mein gnäd'ger Fürst und ehrenwerte Pairs,</l>
               <l>Von eurer Ankunft hier im Reiche hörend,</l>
-              <pb n="545"/>
+              <pb n="546"/>
               <l>Ließ ich ein Weilchen meine Waffen ruhn,</l>
               <l>Um meinem Oberherrn die Pflicht zu leisten.</l>
               <l>Zum Zeichen des senkt dieser Arm (der Euch</l>
@@ -3757,7 +3759,7 @@
             <l>Hört Ihr, nicht so! Zum Zeichen nehmt Ihr das!</l>
             <stage>Schlägt ihn.</stage>
           </sp>
-          <pb n="546"/>
+          <pb n="547"/>
           <sp who="#basset">
             <speaker>BASSET.</speaker>
             <lg>
@@ -3779,7 +3781,7 @@
           </sp>
         </div>
       </div>
-      <pb n="547"/>
+      <pb n="548"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3832,7 +3834,7 @@
               <l>Bekleidet wurdest mit dem hohen Rang. –</l>
               <l>Verzeiht mir, hoher Heinrich, und die andern!</l>
               <l>Der Feigling da, beim Treffen von Patai,</l>
-              <pb n="548"/>
+              <pb n="549"/>
               <l>Da ich sechstausend stark in allem war</l>
               <l>Und zehn beinah' die Franken gegen einen:</l>
               <l>Eh' man sich traf, eh' noch ein Streich geschah,</l>
@@ -3891,7 +3893,7 @@
               <l>Was meint er, so die Schreibart zu verändern?</l>
               <l>Nur »an den König« schlicht und grade zu?</l>
               <l>Hat er vergessen, wer sein Lehnsherr ist?</l>
-              <pb n="549"/>
+              <pb n="550"/>
               <l>Wie? Oder tut die grobe Überschrift</l>
               <l>Veränderung des guten Willens kund?</l>
               <l>Was gibt es hier?</l>
@@ -3977,7 +3979,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
               <l>Seid ruhig, Lords, laßt sie zu Worte kommen;</l>
-              <pb n="550"/>
+              <pb n="551"/>
               <l>Sagt, Leute: was bewegt euch, so zu rufen?</l>
               <l>Und warum wollt ihr Zweikampf? Und mit wem?</l>
             </lg>
@@ -4065,7 +4067,7 @@
             <speaker>YORK.</speaker>
             <l>Da ist mein Pfand; nimm, Somerset, es an.</l>
           </sp>
-          <pb n="551"/>
+          <pb n="552"/>
           <sp who="#vernon">
             <speaker>VERNON.</speaker>
             <l>Nein, laßt es da beruhn, wo es begann.</l>
@@ -4121,7 +4123,7 @@
               <l>Weswegen irgendwer argwöhnen sollte,</l>
               <l>Ich sei geneigter Somerset als York.</l>
               <l>Sie sind verwandt mir, und ich liebe beide;</l>
-              <pb n="552"/>
+              <pb n="553"/>
               <l>Man kann so gut an mir die Krone rügen,</l>
               <l>Weil ja der Schotten König eine trägt.</l>
               <l>Doch eure Weisheit kann euch mehr bereden,</l>
@@ -4183,7 +4185,7 @@
               <l>Als noch sich denken und vermuten läßt.</l>
               <l>Doch, wie es sei, der schlichteste Verstand,</l>
               <l>Der die Mißhelligkeit des Adels sieht,</l>
-              <pb n="553"/>
+              <pb n="554"/>
               <l>Wie einer stets den andern drängt am Hof,</l>
               <l>Und ihrer Diener heftige Parteiung,</l>
               <l>Muß einen übeln Ausgang prophezein.</l>
@@ -4233,7 +4235,7 @@
               <l>Und stark genug, zu Kämpfen auszufallen;</l>
               <l>Ziehst du zurück, so steht bereit der Dauphin,</l>
               <l>Dich mit des Krieges Schlingen zu verstricken.</l>
-              <pb n="554"/>
+              <pb n="555"/>
               <l>Gelagert sind Geschwader rechts und links,</l>
               <l>Dir zu der Flucht die Freiheit zu vermauern;</l>
               <l>Du kannst dich nirgends hin um Hülfe wenden,</l>
@@ -4282,7 +4284,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="555"/>
+        <pb n="556"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ebne in Gascogne.</stage>
@@ -4350,7 +4352,7 @@
             <speaker>YORK.</speaker>
             <lg>
               <l>Er stirbt, wir fall'n; ich brach mein krieg'risch Wort:</l>
-              <pb n="556"/>
+              <pb n="557"/>
               <l>Wir trauern, Frankreich lacht; wir fall'n, sie steigen</l>
               <l>Durch Somersets verrät'risches Bezeigen.</l>
             </lg>
@@ -4412,7 +4414,7 @@
               <l>Weil er nach Talbots Tod den Ruhm will erben.</l>
             </lg>
           </sp>
-          <pb n="557"/>
+          <pb n="558"/>
           <sp who="#offizier">
             <speaker>OFFIZIER.</speaker>
             <lg>
@@ -4488,7 +4490,7 @@
             <speaker>LUCY.</speaker>
             <lg>
               <l>Zu spät! Er ward gefangen oder fiel,</l>
-              <pb n="558"/>
+              <pb n="559"/>
               <l>Denn fliehen konnt' er nicht, auch wenn er wollte,</l>
               <l>Und, konnt' er's gleich, nie wollte Talbot fliehn.</l>
             </lg>
@@ -4556,7 +4558,7 @@
               <l>Nach Eurem wird uns keine Hoffnung strahlen.</l>
               <l>Euch raubt erworbene Ehre nicht die Flucht,</l>
               <l>Die meine wohl, der ich noch nichts versucht.</l>
-              <pb n="559"/>
+              <pb n="560"/>
               <l>In Eurem Fliehn wird jeder Klugheit sehn;</l>
               <l>Weich' ich, so heißt's, es sei aus Furcht geschehn.</l>
               <l>Wer hofft wohl, daß ich jemals halte stand,</l>
@@ -4646,7 +4648,7 @@
             <lg>
               <l>Sankt George und Sieg! Kämpft, ihr Soldaten, kämpft!</l>
               <l>Es brach dem Talbot der Regent sein Wort,</l>
-              <pb n="560"/>
+              <pb n="561"/>
               <l>Uns liefernd an des Frankenschwertes Mord.</l>
               <l>Wo ist John Talbot? Ruh' und schöpfe Odem!</l>
               <l>Ich gab dir Leben, riß dich von den Toten.</l>
@@ -4694,7 +4696,7 @@
               <l>Das kürzt nur einen Tag mein Leben mir.</l>
               <l>In dir stirbt deine Mutter, unser Same,</l>
               <l>Die Rache, deine Jugend, Englands Name.</l>
-              <pb n="561"/>
+              <pb n="562"/>
               <l>All dies und mehr gefährdet dein Verweilen;</l>
               <l>Dies rettest du, willst du von hinnen eilen.</l>
             </lg>
@@ -4747,7 +4749,7 @@
               <l>Riß hoher Grimm und augenroll'nde Wut</l>
               <l>Von meiner Seit' ihn plötzlich in die Flut</l>
               <l>Gedrängter Franken, wo er sich versenkte,</l>
-              <pb n="562"/>
+              <pb n="563"/>
               <l>Wo in dem See von Blut mein Sohn ertränkte</l>
               <l>Den allzukühn geflognen Geist und starb,</l>
               <l>Mein Ikarus, so blühend rosenfarb.</l>
@@ -4813,7 +4815,7 @@
             <speaker>BURGUND.</speaker>
             <lg>
               <l>Er hätt' als Ritter sich gewiß bewährt:</l>
-              <pb n="563"/>
+              <pb n="564"/>
               <l>Seht, wie er daliegt, eingesargt im Arm</l>
               <l>Des blut'gen Pflegers von all seinem Harm!</l>
             </lg>
@@ -4895,7 +4897,7 @@
               <l>Ist Talbot tot, der Franken einz'ge Geißel,</l>
               <l>Schreck eures Lands und schwarze Nemesis?</l>
               <l>O würden meine Augen Büchsenkugeln,</l>
-              <pb n="564"/>
+              <pb n="565"/>
               <l>Daß ich sie wütend euch ins Antlitz schösse!</l>
               <l>O könnt' ich nur erwecken diese Toten,</l>
               <l>Es wär' genug, der Franken Reich zu schrecken;</l>
@@ -4938,7 +4940,7 @@
           </sp>
         </div>
       </div>
-      <pb n="565"/>
+      <pb n="566"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5000,7 +5002,7 @@
               <l>Und angemeßner sind mir Fleiß und Bücher,</l>
               <l>Als üppig tändelnd Spiel mit einer Trauten.</l>
               <l>Jedoch, ruft die Gesandten und erteilt</l>
-              <pb n="566"/>
+              <pb n="567"/>
               <l>Die Antwort jedem, wie es Euch beliebt.</l>
               <l>Ich bin die Wahl zufrieden, zielt sie nur</l>
               <l>Auf Gottes Ehr' und meines Landes Wohl.</l>
@@ -5071,7 +5073,7 @@
             <lg>
               <l>Nun wird sich Winchester nicht beugen, traun!</l>
               <l>Noch nachstehn selbst dem stolzesten der Pairs.</l>
-              <pb n="567"/>
+              <pb n="568"/>
               <l>Humphrey von Gloster, merken sollst du wohl,</l>
               <l>Daß weder an Geburt noch Ansehn dich</l>
               <l>Der Bischof will erkennen über sich.</l>
@@ -5155,7 +5157,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="568"/>
+        <pb n="569"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Vor Angers.</stage>
@@ -5202,7 +5204,7 @@
               <l>Nehmt meine Seele; Leib und Seel' und alles,</l>
               <l>Eh' England Frankreich unter sich soll bringen!</l>
               <stage>Sie verschwinden.</stage>
-              <pb n="569"/>
+              <pb n="570"/>
               <l>Seht, sie verlassen mich! Nun kommt die Zeit,</l>
               <l>Daß Frankreich muß den stolzen Helmbusch senken</l>
               <l>Und niederlegt sein Haupt in Englands Schoß.</l>
@@ -5272,7 +5274,7 @@
             <stage>Küßt ihre Hand.</stage>
             <l>Wer bist du? Sag's, daß ich dich ehren möge.</l>
           </sp>
-          <pb n="570"/>
+          <pb n="571"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <lg>
@@ -5355,7 +5357,7 @@
             <speaker>SUFFOLK.</speaker>
             <l>Das ist die Karte, die mein Spiel verdirbt.</l>
           </sp>
-          <pb n="571"/>
+          <pb n="572"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <l>Er spricht ins Wilde, sicher ist er toll.</l>
@@ -5475,7 +5477,7 @@
               <l>Wenn du herab dich läßt zu meiner –</l>
             </lg>
           </sp>
-          <pb n="572"/>
+          <pb n="573"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <l>Was?</l>
@@ -5574,7 +5576,7 @@
               <l>Befehlt in Anjou, was Euch nur beliebt.</l>
             </lg>
           </sp>
-          <pb n="573"/>
+          <pb n="574"/>
           <sp who="#suffolk">
             <speaker>SUFFOLK.</speaker>
             <lg>
@@ -5675,7 +5677,7 @@
             <l>Und dies zugleich.</l>
             <stage>Küßt sie.</stage>
           </sp>
-          <pb n="574"/>
+          <pb n="575"/>
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <lg>
@@ -5747,7 +5749,7 @@
               <l>Verderbt und bös, und so beschließt sie's auch.</l>
             </lg>
           </sp>
-          <pb n="575"/>
+          <pb n="576"/>
           <sp who="#schaefer">
             <speaker>SCHÄFER.</speaker>
             <lg>
@@ -5815,7 +5817,7 @@
             <speaker>YORK.</speaker>
             <l>Ja, ja, nur fort mit ihr zur Hinrichtung!</l>
           </sp>
-          <pb n="576"/>
+          <pb n="577"/>
           <sp who="#warwick">
             <speaker>WARWICK.</speaker>
             <lg>
@@ -5918,7 +5920,7 @@
             </lg>
             <stage>Sie wird von der Wache abgeführt.</stage>
           </sp>
-          <pb n="577"/>
+          <pb n="578"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -5988,7 +5990,7 @@
             <lg>
               <l>Karl und ihr andern, so ist's vorgeschrieben:</l>
               <l>Daß ihr, inmaßen König Heinrich drein</l>
-              <pb n="578"/>
+              <pb n="579"/>
               <l>Aus bloßem Mitleid und aus Milde willigt,</l>
               <l>Eu'r Land vom harten Kriege zu befrein</l>
               <l>Und süßen Frieden atmen euch zu lassen,</l>
@@ -6053,7 +6055,7 @@
               <l>Eu'r Volk von solchem Blutbad zu erretten</l>
               <l>Und grimmigem Gemetzel, als man täglich</l>
               <l>Bei fortgesetzten Feindlichkeiten sieht:</l>
-              <pb n="579"/>
+              <pb n="580"/>
               <l>Geht also den Vertrag des Friedens ein,</l>
               <l>Brecht Ihr ihn schon, sobald es Euch beliebt.</l>
             </lg>
@@ -6115,7 +6117,7 @@
               <l>Hätt' ich Geschick genug, sie auszusprechen,</l>
               <l>Ein Buch wär's, voll verführerischer Zeilen,</l>
               <l>Das auch den dumpfsten Sinn entzücken könnte.</l>
-              <pb n="580"/>
+              <pb n="581"/>
               <l>Und, was noch mehr, sie ist so göttlich nicht,</l>
               <l>Noch so erfüllt mit aller Freuden Wahl,</l>
               <l>Daß sie, mit gleicher Demut des Gemüts,</l>
@@ -6192,7 +6194,7 @@
               <l>Daß er so arm und niedrig sollte sein,</l>
               <l>Nach Geld zu gehn, nicht nach vollkommner Liebe.</l>
               <l>Heinrich kann seine Königin bereichern</l>
-              <pb n="581"/>
+              <pb n="582"/>
               <l>Und sucht nicht eine, die ihn reich soll machen.</l>
               <l>So feilschen niedre Bauern ihre Weiber,</l>
               <l>Wie auf dem Markt die Ochsen, Schafe, Pferde.</l>
@@ -6236,7 +6238,7 @@
               <l>Drum geht zu Schiff, Mylord; nach Frankreich eilt;</l>
               <l>Stimmt ein in jeglichen Vertrag und sorgt,</l>
               <l>Daß Fräulein Margareta bald geruhe,</l>
-              <pb n="582"/>
+              <pb n="583"/>
               <l>Die Überfahrt nach England vorzunehmen,</l>
               <l>Und hier sich krönen lass' als König Heinrichs</l>
               <l>Getreue und gesalbte Königin;</l>

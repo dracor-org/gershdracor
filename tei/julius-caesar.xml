@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="179"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,6 +90,7 @@
           <titlePart type="main">Julius Cäsar</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="180"/>
       <pb n="181"/>
       <castList>
         <head>Personen</head>
@@ -96,13 +98,13 @@
         <castGroup>
           <castItem>Octavius Cäsar</castItem>
           <castItem>Marcus Antonius</castItem>
-          <castItem>M. Ämilius Lepidus,</castItem>
+          <castItem>M. Ämilius Lepidus</castItem>
           <roleDesc>Triumvirn nach dem Tode des Julius Cäsar</roleDesc>
         </castGroup>
         <castGroup>
           <castItem>Cicero</castItem>
           <castItem>Publius</castItem>
-          <castItem>Popilius Lena,</castItem>
+          <castItem>Popilius Lena</castItem>
           <roleDesc>Senatoren</roleDesc>
         </castGroup>
         <castGroup>
@@ -113,12 +115,12 @@
           <castItem>Ligarius</castItem>
           <castItem>Decius Brutus</castItem>
           <castItem>Metellus Cimber</castItem>
-          <castItem>Cinna,</castItem>
+          <castItem>Cinna</castItem>
           <roleDesc>Verschworne gegen Julius Cäsar</roleDesc>
         </castGroup>
         <castGroup>
           <castItem>Flavius</castItem>
-          <castItem>Marullus,</castItem>
+          <castItem>Marullus</castItem>
           <roleDesc>Tribunen</roleDesc>
         </castGroup>
         <castItem>Artemidorus, ein Sophist von Knidos</castItem>
@@ -130,7 +132,7 @@
           <castItem>Titinius</castItem>
           <castItem>Messala</castItem>
           <castItem>Der junge Cato</castItem>
-          <castItem>Volumnius,</castItem>
+          <castItem>Volumnius</castItem>
           <roleDesc>Freunde des Brutus und Cassius</roleDesc>
         </castGroup>
         <castGroup>
@@ -139,10 +141,10 @@
           <castItem>Claudius</castItem>
           <castItem>Strato</castItem>
           <castItem>Lucius</castItem>
-          <castItem>Dardanius,</castItem>
+          <castItem>Dardanius</castItem>
           <roleDesc>Diener des Brutus</roleDesc>
         </castGroup>
-        <pb n="181"/>
+        <pb n="182"/>
         <castItem>Pindarus, Diener des Cassius</castItem>
         <castItem>Calpurnia, Gemahlin des Cäsar</castItem>
         <castItem>Portia, Gemahlin des Brutus</castItem>
@@ -153,7 +155,7 @@
           Philippi</p>
       </set>
     </front>
-    <pb n="182"/>
+    <pb n="183"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -221,7 +223,7 @@
           <sp who="#zweiter_buerger">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Im Ernst, Herr, ich bin ein Wundarzt für alte Schuhe: wenn's gefährlich mit ihnen
-              steht, so mache <pb n="183"/> ich sie wieder heil. So hübsche Leute, als jemals auf
+              steht, so mache <pb n="184"/> ich sie wieder heil. So hübsche Leute, als jemals auf
               Rindsleder getreten, sind auf meiner Hände Werk einhergegangen.</p>
           </sp>
           <sp who="#flavius">
@@ -275,7 +277,7 @@
               <l>Ins Flußbett, bis ihr Strom, wo er am flachsten,</l>
               <l>Die höchsten ihrer Uferhöhen küßt.</l>
               <stage>Die Bürger ab.</stage>
-              <pb n="184"/>
+              <pb n="185"/>
               <l>Sieh, wie die Schlacken ihres Innern schmelzen!</l>
               <l>Sie schwinden weg, verstummt in ihrer Schuld.</l>
               <l>Geht Ihr den Weg, hinab zum Kapitol;</l>
@@ -349,7 +351,7 @@
               <l>Entladen sich des Fluchs.</l>
             </lg>
           </sp>
-          <pb n="185"/>
+          <pb n="186"/>
           <sp who="#antonius">
             <speaker>ANTONIUS.</speaker>
             <lg>
@@ -453,7 +455,7 @@
               <l>Mein Cassius,</l>
               <l>Betrügt Euch nicht: Hab' ich den Blick verschleiert,</l>
               <l>So kehrt die Unruh' meiner Mienen sich</l>
-              <pb n="186"/>
+              <pb n="187"/>
               <l>Nur gegen mich allein. Seit kurzem quälen</l>
               <l>Mich Regungen von streitender Natur,</l>
               <l>Gedanken, einzig für mich selbst geschickt,</l>
@@ -517,7 +519,7 @@
               <l>Beteurer auszubieten; wenn Ihr wißt,</l>
               <l>Daß ich die Menschen streichle, fest sie herze,</l>
               <l>Und dann sie lästre; oder wenn Ihr wißt,</l>
-              <pb n="187"/>
+              <pb n="188"/>
               <l>Daß ich beim Schmaus mich mit der ganzen Schar</l>
               <l>Verbrüdern mag, – dann hütet Euch vor mir!</l>
             </lg>
@@ -575,7 +577,7 @@
               <l>Und hemmten ihn mit einer Brust des Trotzes.</l>
               <l>Doch eh' wir das gewählte Ziel erreicht,</l>
               <l>Rief Cäsar: »Hilf mir, Cassius! Ich sinke!«</l>
-              <pb n="188"/>
+              <pb n="189"/>
               <l>Ich, wie Äneas, unser großer Ahn,</l>
               <l>Aus Trojas Flammen einst auf seinen Schultern</l>
               <l>Den alten Vater trug, so aus den Wellen</l>
@@ -624,7 +626,7 @@
               <l>Wägt sie: er ist so schwer; beschwört mit ihnen:</l>
               <l>Brutus ruft Geister auf so schnell wie Cäsar.</l>
               <stage>Jubelgeschrei.</stage>
-              <pb n="189"/>
+              <pb n="190"/>
               <l>(Nun denn, im Namen der gesamten Götter,</l>
               <l>Mit was für Speise nährt der Cäsar sich,</l>
               <l>Daß er so groß ward? Zeit, du bist entehrt!</l>
@@ -685,7 +687,7 @@
             <lg>
               <l>Ich will es tun. Doch seht nur, Cassius,</l>
               <l>Auf Cäsars Stirne glüht der zorn'ge Fleck,</l>
-              <pb n="190"/>
+              <pb n="191"/>
               <l>Die andern sehn gescholtnen Dienern gleich.</l>
               <l>Calpurnias Wang' ist blaß, und Cicero</l>
               <l>Blickt mit so feurigen und roten Augen,</l>
@@ -763,7 +765,7 @@
             <speaker>BRUTUS.</speaker>
             <l>Dann fragt' ich Casca nicht, was sich begeben.</l>
           </sp>
-          <pb n="191"/>
+          <pb n="192"/>
           <sp who="#casca">
             <speaker>CASCA.</speaker>
             <p>Nun, man bot ihm eine Krone an, und als man sie ihm anbot, schob er sie mit dem
@@ -842,7 +844,7 @@
               <l>Und unsrer wackrer Casca: wir haben sie.</l>
             </lg>
           </sp>
-          <pb n="192"/>
+          <pb n="193"/>
           <sp who="#casca">
             <speaker>CASCA.</speaker>
             <p>Ich weiß nicht, was Ihr damit meint; aber ich bin gewiß, Cäsar fiel nieder. Wenn das
@@ -921,7 +923,7 @@
             <p>Tut das: lebt beide wohl! <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="193"/>
+          <pb n="194"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -984,7 +986,7 @@
               <l>Warum so atemlos und so verstört?</l>
             </lg>
           </sp>
-          <pb n="194"/>
+          <pb n="195"/>
           <sp who="#casca">
             <speaker>CASCA.</speaker>
             <lg>
@@ -1051,7 +1053,7 @@
               <l>Nicht draußen weilen.</l>
             </lg>
           </sp>
-          <pb n="195"/>
+          <pb n="196"/>
           <sp who="#casca">
             <speaker>CASCA.</speaker>
             <l>Cicero, lebt wohl!</l>
@@ -1124,7 +1126,7 @@
               <l>Für irgendeinen mißbeschaffnen Staat.</l>
               <l>Nun könnt' ich, Casca, einen Mann dir nennen,</l>
               <l>Ganz ähnlich dieser schreckenvollen Nacht,</l>
-              <pb n="196"/>
+              <pb n="197"/>
               <l>Der donnert, blitzt, die Gräber öffnet, brüllt,</l>
               <l>So wie der Löwe dort im Kapitol;</l>
               <l>Ein Mann, nicht mächtiger als ich und du</l>
@@ -1191,7 +1193,7 @@
               <l>Nimmt schwaches Stroh zuerst: was für Gestrüpp</l>
               <l>Ist Rom, und was für Plunder, wenn es dient</l>
               <l>Zum schlechten Stoff, der einem schnöden Dinge</l>
-              <pb n="197"/>
+              <pb n="198"/>
               <l>Wie Cäsar Licht verleiht? Doch oh, mein Gram!</l>
               <l>Wo führtest du mich hin? Ich spreche dies</l>
               <l>Vielleicht vor einem will'gen Knecht: dann weiß ich,</l>
@@ -1273,7 +1275,7 @@
               <l>Seid ruhig! Guter Cinna, diesen Zettel,</l>
               <l>Seht, wie Ihr in des Prätors Stuhl ihn legt,</l>
               <l>Daß Brutus nur ihn finde; diesen werft</l>
-              <pb n="198"/>
+              <pb n="199"/>
               <l>Ihm in das Fenster; diesen klebt mit Wachs</l>
               <l>Ans Bild des alten Brutus! Dies getan,</l>
               <l>Kommt zu Pompejus' Hall' und trefft uns dort!</l>
@@ -1320,7 +1322,7 @@
           </sp>
         </div>
       </div>
-      <pb n="199"/>
+      <pb n="200"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1371,7 +1373,7 @@
               <l>Daß ihn die Leidenschaften mehr beherrscht</l>
               <l>Als die Vernunft. Doch oft bestätigt sich's,</l>
               <l>Die Demut ist der jungen Ehrsucht Leiter;</l>
-              <pb n="200"/>
+              <pb n="201"/>
               <l>Wer sie hinanklimmt, kehrt den Blick ihr zu;</l>
               <l>Doch hat er erst die höchste Spross' erreicht,</l>
               <l>Dann kehret er der Leiter seinen Rücken,</l>
@@ -1435,7 +1437,7 @@
               <l>Tarquin hinweg, als er ein König hieß.</l>
               <l>»Sprich, schlage, stelle her!« Werd' ich zu sprechen,</l>
               <l>Zu schlagen angemahnt? O Rom, ich schwöre,</l>
-              <pb n="201"/>
+              <pb n="202"/>
               <l>Wenn nur die Herstellung erfolgt, empfängst du</l>
               <l>Dein ganz Begehren von der Hand des Brutus!</l>
             </lg>
@@ -1502,7 +1504,7 @@
               <l>O denn, bei Tag, wo willst du eine Höhle</l>
               <l>Entdecken, dunkel g'nug, es zu verlarven,</l>
               <l>Dein schnödes Antlitz? – Verschwörung, suche keine!</l>
-              <pb n="202"/>
+              <pb n="203"/>
               <l>In Lächeln hüll' es und in Freundlichkeit!</l>
               <l>Denn trät'st du auf in angeborner Bildung,</l>
               <l>So wär' der Erebus nicht finster g'nug,</l>
@@ -1597,7 +1599,7 @@
             <speaker>BRUTUS.</speaker>
             <l>Gebt eure Hand mir, einer nach dem andern!</l>
           </sp>
-          <pb n="203"/>
+          <pb n="204"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <l>Und lasset uns beschwören den Entschluß!</l>
@@ -1657,7 +1659,7 @@
               <l>Wird eine gute Meinung uns erkaufen</l>
               <l>Und Stimmen werben, unser Werk zu preisen.</l>
               <l>Sein Urteil habe unsre Hand gelenkt,</l>
-              <pb n="204"/>
+              <pb n="205"/>
               <l>So wird es heißen; unsre Hastigkeit</l>
               <l>Und Jugend wird im mind'sten nicht erscheinen,</l>
               <l>Von seinem würd'gen Ansehn ganz bedeckt.</l>
@@ -1722,7 +1724,7 @@
               <l>Wenn Cäsars Haupt erst fiel.</l>
             </lg>
           </sp>
-          <pb n="205"/>
+          <pb n="206"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <lg>
@@ -1809,7 +1811,7 @@
               <l>Es wundert mich, daß niemand sein gedacht.</l>
             </lg>
           </sp>
-          <pb n="206"/>
+          <pb n="207"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -1876,7 +1878,7 @@
               <l>Damit ich Euch verließ. Ich tat es auch,</l>
               <l>Besorgt, die Ungeduld noch zu verstärken,</l>
               <l>Die schon zu sehr entflammt schien, und zugleich</l>
-              <pb n="207"/>
+              <pb n="208"/>
               <l>Mir schmeichelnd, nur von Laune rühr' es her,</l>
               <l>Die ihre Stunden hat bei jedem Mann.</l>
               <l>Nicht essen, reden, schlafen läßt es Euch,</l>
@@ -1939,7 +1941,7 @@
               <l>Nur gleichsam, mit gewissen Einschränkungen:</l>
               <l>Beim Mahl um Euch zu sein, Eu'r Bett zu teilen,</l>
               <l>Auch wohl mit Euch zu sprechen? Wohn' ich denn</l>
-              <pb n="208"/>
+              <pb n="209"/>
               <l>Nur in der Vorstadt Eurer Zuneigung?</l>
               <l>Ist es nur das, so ist ja Portia</l>
               <l>Des Brutus Buhle nur und nicht sein Weib.</l>
@@ -2018,7 +2020,7 @@
               <l>Des Namens Ehre würdig, Brutus vor.</l>
             </lg>
           </sp>
-          <pb n="209"/>
+          <pb n="210"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -2110,7 +2112,7 @@
             <speaker>CÄSAR.</speaker>
             <lg>
               <l>Cäsar geht aus. Mir haben stets Gefahren</l>
-              <pb n="210"/>
+              <pb n="211"/>
               <l>Im Rücken nur gedroht; wenn sie die Stirn</l>
               <l>Des Cäsar werden sehn, sind sie verschwunden.</l>
             </lg>
@@ -2178,7 +2180,7 @@
               <l>Ein Tier ja wäre Cäsar ohne Herz,</l>
               <l>Wenn er aus Furcht sich heut zu Hause hielte.</l>
               <l>Das wird er nicht: gar wohl weiß die Gefahr,</l>
-              <pb n="211"/>
+              <pb n="212"/>
               <l>Cäsar sei noch gefährlicher als sie.</l>
               <l>Wir sind zwei Leu'n, an einem Tag geworfen,</l>
               <l>Und ich der ältre und der schrecklichste;</l>
@@ -2254,7 +2256,7 @@
               <l>Sie träumte diese Nacht, sie säh' mein Bildnis,</l>
               <l>Das wie ein Springbrunn klares Blut vergoß</l>
               <l>Aus hundert Röhren; rüst'ge Römer kamen,</l>
-              <pb n="212"/>
+              <pb n="213"/>
               <l>Und tauchten lächelnd ihre Hände drein.</l>
               <l>Dies legt sie aus als Warnungen und Zeichen</l>
               <l>Und Unglück, das uns droht, und hat mich knieend</l>
@@ -2318,7 +2320,7 @@
               <l>Wie, Brutus? Seid Ihr auch so früh schon auf? –</l>
               <l>Guten Morgen, Casca! – Cajus Ligarius,</l>
               <l>So sehr war Cäsar niemals Euer Feind</l>
-              <pb n="213"/>
+              <pb n="214"/>
               <l>Als dieses Fieber, das Euch abgezehrt. –</l>
               <l>Was ist die Uhr?</l>
             </lg>
@@ -2392,7 +2394,7 @@
               schau' um dich! Sorglosigkeit gibt der Verschwörung Raum. Mögen dich die großen Götter
               schützen!</p>
             <p>Der Deinige <emph>Artemidorus</emph>.«</p>
-            <pb n="214"/>
+            <pb n="215"/>
             <lg>
               <l>Hier will ich stehn, bis er vorübergeht,</l>
               <l>Und will ihm dies als Bittschrift überreichen.</l>
@@ -2470,7 +2472,7 @@
             <speaker>PORTIA.</speaker>
             <l>Komm näher, Mann! Wo führt dein Weg dich her?</l>
           </sp>
-          <pb n="215"/>
+          <pb n="216"/>
           <sp who="#wahrsager">
             <speaker>WAHRSAGER.</speaker>
             <l>Von meinem Hause, liebe gnäd'ge Frau.</l>
@@ -2539,7 +2541,7 @@
           </sp>
         </div>
       </div>
-      <pb n="216"/>
+      <pb n="217"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2616,7 +2618,7 @@
             <l>Geh's euch wohl!</l>
             <stage>Er nähert sich dem Cäsar.</stage>
           </sp>
-          <pb n="217"/>
+          <pb n="218"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>Was sprach Popilius Lena da?</l>
@@ -2703,7 +2705,7 @@
               <l>Durch das, was Narr'n erweicht: durch süße Worte,</l>
               <l>Gekrümmtes Bücken, hündisches Geschmeichel.</l>
               <l>Dein Bruder ist verbannt durch einen Spruch;</l>
-              <pb n="218"/>
+              <pb n="219"/>
               <l>Wenn du für ihn dich bückst und flehst und schmeichelst,</l>
               <l>So stoß' ich dich wie einen Hund hinweg.</l>
               <l>Wiss'! Cäsar tut kein Unrecht; ohne Gründe</l>
@@ -2782,7 +2784,7 @@
               wird alsdann von verschiednen andern Verschwornen und zuletzt vom Marcus Brutus mit
               Dolchen durchstochen.</stage>
           </sp>
-          <pb n="219"/>
+          <pb n="220"/>
           <sp who="#caesar">
             <speaker>CÄSAR.</speaker>
             <l>Brutus, auch du? – So falle, Cäsar!</l>
@@ -2890,7 +2892,7 @@
               <l>Die Todesfurcht verkürzten. Bückt euch, Römer!</l>
               <l>Laßt unsre Händ' in Cäsars Blut uns baden</l>
               <l>Bis an die Ellenbogen! Färbt die Schwerter!</l>
-              <pb n="220"/>
+              <pb n="221"/>
               <l>So treten wir hinaus bis auf den Markt,</l>
               <l>Und, überm Haupt die roten Waffen schwingend,</l>
               <l>Ruft alle dann: »Erlösung! Friede! Freiheit!«</l>
@@ -2964,7 +2966,7 @@
               <l>Und dein Gebieter ist ein wackrer Römer,</l>
               <l>So achtet' ich ihn stets.</l>
               <l>Sag, wenn es ihm geliebt, hieher zu kommen,</l>
-              <pb n="221"/>
+              <pb n="222"/>
               <l>So steh' ich Red' ihm und, bei meiner Ehre,</l>
               <l>Entlass' ihn ungekränkt.</l>
             </lg>
@@ -3027,7 +3029,7 @@
               <l>Verübt' an Cäsarn dies. Was Euch betrifft,</l>
               <l>Für Euch sind unsre Schwerter stumpf, Anton.</l>
               <l>Seht, unsre Arme, trotz verübter Tücke,</l>
-              <pb n="222"/>
+              <pb n="223"/>
               <l>Und unsre Herzen, brüderlich gesinnt,</l>
               <l>Empfangen Euch mit aller Innigkeit,</l>
               <l>Mit redlichen Gedanken und mit Achtung.</l>
@@ -3081,7 +3083,7 @@
               <l>Des Mordes und von deinem Blut bepurpurt.</l>
               <l>O Welt! du warst der Wald für diesen Hirsch,</l>
               <l>Und er, o Welt! war seines Waldes Stolz. –</l>
-              <pb n="223"/>
+              <pb n="224"/>
               <l>Wie ähnlich einem Wild, von vielen Fürsten</l>
               <l>Geschossen, liegst du hier!</l>
             </lg>
@@ -3164,7 +3166,7 @@
               <l>Dies wird uns mehr Gewinn als Schaden bringen.</l>
             </lg>
           </sp>
-          <pb n="224"/>
+          <pb n="225"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <p>Wer weiß, was vorfällt? Ich bin nicht dafür.</p>
@@ -3223,7 +3225,7 @@
             <stage>Ein Diener kommt.</stage>
             <l>Ihr dienet dem Octavius Cäsar? nicht?</l>
           </sp>
-          <pb n="225"/>
+          <pb n="226"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <l>Ja, Mark Anton.</l>
@@ -3296,7 +3298,7 @@
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Ich will den Brutus hören.</l>
           </sp>
-          <pb n="226"/>
+          <pb n="227"/>
           <sp who="#zweiter_buerger">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
@@ -3342,7 +3344,7 @@
             <stage>Antonius und andre treten auf mit Cäsars Leiche.</stage>
             <p>Hier kommt seine Leiche, vom Mark Anton betrauert, der, ob er schon keinen Teil an
               seinem Tode hatte, die Wohltat seines Sterbens, einen Platz im gemeinen Wesen,
-              genießen <pb n="227"/> wird. Wer von euch wird es nicht? Hiermit trete ich ab: wie ich
+              genießen <pb n="228"/> wird. Wer von euch wird es nicht? Hiermit trete ich ab: wie ich
               meinen besten Freund für das Wohl Roms erschlug, habe ich denselben Dolch für mich
               selbst, wenn es dem Vaterlande gefällt, meinen Tod zu bedürfen.</p>
           </sp>
@@ -3457,7 +3459,7 @@
               <l>Mitbürger! Freunde! Römer! hört mich an:</l>
               <l>Begraben will ich Cäsarn, nicht ihn preisen.</l>
               <l>Was Menschen Übles tun, das überlebt sie,</l>
-              <pb n="228"/>
+              <pb n="229"/>
               <l>Das Gute wird mit ihnen oft begraben.</l>
               <l>So sei es auch mit Cäsarn! Der edle Brutus</l>
               <l>Hat euch gesagt, daß er voll Herrschsucht war;</l>
@@ -3510,7 +3512,7 @@
               <l>Ich fürcht', ein Schlimmrer kommt an seine Stelle.</l>
             </lg>
           </sp>
-          <pb n="229"/>
+          <pb n="230"/>
           <sp who="#vierter_buerger">
             <speaker>VIERTER BÜRGER.</speaker>
             <lg>
@@ -3587,7 +3589,7 @@
               <l>Ihr seid nicht Holz, nicht Stein, ihr seid ja Menschen;</l>
               <l>Drum, wenn ihr Cäsars Testament erführt,</l>
               <l>Es setzt' in Flammen euch, es macht' euch rasend.</l>
-              <pb n="230"/>
+              <pb n="231"/>
               <l>Ihr dürft nicht wissen, daß ihr ihn beerbt,</l>
               <l>Denn wüßtet ihr's, was würde draus entstehn?</l>
             </lg>
@@ -3679,7 +3681,7 @@
               <l>Seht, welchen Riß der tück'sche Casca machte!</l>
               <l>Hier stieß der vielgeliebte Brutus durch;</l>
               <l>Und als er den verfluchten Stahl hinwegriß,</l>
-              <pb n="231"/>
+              <pb n="232"/>
               <l>Schaut her, wie ihm das Blut des Cäsar folgte,</l>
               <l>Als stürzt' es vor die Tür, um zu erfahren,</l>
               <l>Ob wirklich Brutus so unfreundlich klopfte:</l>
@@ -3751,7 +3753,7 @@
               <l>Warum sie's taten, ach! das weiß ich nicht.</l>
               <l>Doch sind sie weis' und ehrenwert, und werden</l>
               <l>Euch sicherlich mit Gründen Rede stehn.</l>
-              <pb n="232"/>
+              <pb n="233"/>
               <l>Nicht euer Herz zu stehlen komm' ich, Freunde:</l>
               <l>Ich bin kein Redner, wie es Brutus ist,</l>
               <l>Nur, wie ihr alle wißt, ein schlichter Mann,</l>
@@ -3833,7 +3835,7 @@
               <l>Auch läßt er alle seine Lustgehege,</l>
               <l>Verschloßne Lauben, neugepflanzte Gärten,</l>
               <l>Diesseits der Tiber, euch und euren Erben</l>
-              <pb n="233"/>
+              <pb n="234"/>
               <l>Auf ew'ge Zeit, damit ihr euch ergehn</l>
               <l>Und euch gemeinsam dort ergötzen könnt.</l>
               <l>Das war ein Cäsar: wann kommt seinesgleichen?</l>
@@ -3921,7 +3923,7 @@
             </lg>
             <stage>Bürger kommen.</stage>
           </sp>
-          <pb n="234"/>
+          <pb n="235"/>
           <sp who="#erster_buerger">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Wie ist Euer Name?</p>
@@ -4030,7 +4032,7 @@
           </sp>
         </div>
       </div>
-      <pb n="235"/>
+      <pb n="236"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4106,7 +4108,7 @@
             <lg>
               <l>Octavius, ich sah mehr Tag' als Ihr.</l>
               <l>Ob wir auf diesen Mann schon Ehren häufen,</l>
-              <pb n="236"/>
+              <pb n="237"/>
               <l>Um manche Last des Leumunds abzuwälzen,</l>
               <l>Er trägt sie doch nur wie der Esel Gold,</l>
               <l>Der unter dem Geschäfte stöhnt und schwitzt,</l>
@@ -4161,7 +4163,7 @@
             <stage>Beide ab.</stage>
           </sp>
         </div>
-        <pb n="237"/>
+        <pb n="238"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Vor Brutus' Zelte, im Lager nahe bei Sardes. Die Trommel gerührt.</stage>
@@ -4244,7 +4246,7 @@
             </lg>
             <stage>Ein Marsch hinter der Szene.</stage>
           </sp>
-          <pb n="238"/>
+          <pb n="239"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -4325,7 +4327,7 @@
               <l>Weil ich ihn kenne, ward für nichts geachtet.</l>
             </lg>
           </sp>
-          <pb n="239"/>
+          <pb n="240"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>Ihr tatet Euch zu nah, in solchem Fall zu schreiben.</l>
@@ -4422,7 +4424,7 @@
             <speaker>CASSIUS.</speaker>
             <l>Ist's möglich?</l>
           </sp>
-          <pb n="240"/>
+          <pb n="241"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <lg>
@@ -4516,7 +4518,7 @@
               <l>Der nichts mir gilt. Ich sandte hin zu Euch</l>
               <l>Um eine Summe Golds, die Ihr mir abschlugt.</l>
               <l>Ich kann kein Geld durch schnöde Mittel heben,</l>
-              <pb n="241"/>
+              <pb n="242"/>
               <l>Beim Himmel! lieber prägt' ich ja mein Herz,</l>
               <l>Und tröpfelte mein Blut für Drachmen aus,</l>
               <l>Als daß ich aus der Bauern harten Händen</l>
@@ -4588,7 +4590,7 @@
               <l>Mehr wert als Gold: wo du ein Römer bist,</l>
               <l>So nimm's heraus! Ich, der dir Gold versagt,</l>
               <l>Ich biete dir mein Herz. Stoß' zu, wie einst</l>
-              <pb n="242"/>
+              <pb n="243"/>
               <l>Auf Cäsar! Denn ich weiß, als du am ärgsten</l>
               <l>Ihn haßtest, liebtest du ihn mehr, als je</l>
               <l>Du Cassius geliebt.</l>
@@ -4687,7 +4689,7 @@
             <speaker>CASSIUS.</speaker>
             <l>Ha ha! wie toll der Zyniker nicht reimt!</l>
           </sp>
-          <pb n="243"/>
+          <pb n="244"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>Ihr Schlingel, packt Euch! Fort, verwegner Bursch!</l>
@@ -4795,7 +4797,7 @@
             </lg>
             <stage>Trinkt.</stage>
           </sp>
-          <pb n="244"/>
+          <pb n="245"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <lg>
@@ -4904,7 +4906,7 @@
             <lg>
               <l>Leb wohl denn, Portia! – Wir müssen sterben,</l>
               <l>Messala; dadurch, daß ich oft bedacht,</l>
-              <pb n="245"/>
+              <pb n="246"/>
               <l>Sie müss' einst sterben, hab' ich die Geduld,</l>
               <l>Es jetzt zu tragen.</l>
             </lg>
@@ -4982,7 +4984,7 @@
               <l>Wo nicht, verlieren wir des Zufalls Gunst.</l>
             </lg>
           </sp>
-          <pb n="246"/>
+          <pb n="247"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <lg>
@@ -5085,7 +5087,7 @@
             <speaker>VARRO.</speaker>
             <l>Wenn's Euch geliebt, wir wollen stehn und warten.</l>
           </sp>
-          <pb n="247"/>
+          <pb n="248"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>Das nicht! Nein, legt euch nieder, meine Freunde! –</l>
@@ -5163,7 +5165,7 @@
               <l>Wie dunkel brennt die Kerze! – Ha, wer kommt?</l>
               <l>Ich glaub', es ist die Schwäche meiner Augen,</l>
               <l>Die diese schreckliche Erscheinung schafft.</l>
-              <pb n="248"/>
+              <pb n="249"/>
               <l>Sie kommt mir näher. – Bist du irgend was?</l>
               <l>Bist du ein Gott, ein Engel oder Teufel,</l>
               <l>Der starren macht mein Blut, das Haar mir sträubt?</l>
@@ -5285,7 +5287,7 @@
           </sp>
         </div>
       </div>
-      <pb n="249"/>
+      <pb n="250"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5346,7 +5348,7 @@
             <stage>Die Trommel gerührt. Brutus und Cassius kommen mit ihrem Heere; Lucilius,
               Titinius, Messala und andre.</stage>
           </sp>
-          <pb n="250"/>
+          <pb n="251"/>
           <sp who="#brutus">
             <speaker>BRUTUS.</speaker>
             <l>Sie halten still und wollen ein Gespräch.</l>
@@ -5441,7 +5443,7 @@
               <l>Seht! auf Verschworne zück' ich dieses Schwert:</l>
               <l>Wann, denkt ihr, geht es wieder in die Scheide?</l>
               <l>Nie, bis des Cäsar dreiundzwanzig Wunden</l>
-              <pb n="251"/>
+              <pb n="252"/>
               <l>Gerächt sind, oder bis ein andrer Cäsar</l>
               <l>Mit Mord gesättigt der Verräter Schwert!</l>
             </lg>
@@ -5529,7 +5531,7 @@
               <l>Aus unsrer Krieger Hand; sie gaben uns</l>
               <l>Hieher bis nach Philippidas Geleit;</l>
               <l>Heut morgen sind sie auf und fortgeflohn.</l>
-              <pb n="252"/>
+              <pb n="253"/>
               <l>Statt ihrer fliegen Raben, Geier, Kräh'n</l>
               <l>Uns überm Haupt und schaun herab auf uns</l>
               <l>Als einen siechen Raub; ihr Schatten scheint</l>
@@ -5601,7 +5603,7 @@
               <l>Wo nicht, so war dies Scheiden wohlgetan.</l>
             </lg>
           </sp>
-          <pb n="253"/>
+          <pb n="254"/>
           <sp who="#cassius">
             <speaker>CASSIUS.</speaker>
             <lg>
@@ -5664,7 +5666,7 @@
             </lg>
             <stage>Pindarus kommt.</stage>
           </sp>
-          <pb n="254"/>
+          <pb n="255"/>
           <sp who="#pindarus">
             <speaker>PINDARUS.</speaker>
             <lg>
@@ -5747,7 +5749,7 @@
             <lg>
               <l>Komm, Bursch, hieher!</l>
               <l>Ich macht' in Parthia dich zum Gefangnen,</l>
-              <pb n="255"/>
+              <pb n="256"/>
               <l>Und ließ dich schwören, deines Lebens Retter,</l>
               <l>Was ich nur immer tun dich hieß', du wollest</l>
               <l>Es unternehmen. Komm nun, halt' den Schwur!</l>
@@ -5825,7 +5827,7 @@
               <l>Mißtraun in guten Ausgang bracht' ihn um!</l>
               <l>O hassenswerter Wahn! der Schwermut Kind!</l>
               <l>Was zeigst du doch dem regen Witz der Menschen</l>
-              <pb n="256"/>
+              <pb n="257"/>
               <l>Das, was nicht ist? O Wahn, so bald empfangen!</l>
               <l>Zu glücklicher Geburt gelangst du nie,</l>
               <l>Und bringst die Mutter um, die dich erzeugt!</l>
@@ -5895,7 +5897,7 @@
             </lg>
             <stage>Lautes Getümmel.</stage>
           </sp>
-          <pb n="257"/>
+          <pb n="258"/>
           <sp who="#cato">
             <speaker>CATO.</speaker>
             <lg>
@@ -5960,7 +5962,7 @@
               <l>Man darf dich ehren als des Cato Sohn.</l>
             </lg>
           </sp>
-          <pb n="258"/>
+          <pb n="259"/>
           <sp who="#erster_soldat">
             <speaker>ERSTER SOLDAT.</speaker>
             <l>Ergib dich, oder stirb!</l>
@@ -6038,7 +6040,7 @@
             <speaker>CLITUS.</speaker>
             <lg>
               <l>Herr, Statilius zeigte</l>
-              <pb n="259"/>
+              <pb n="260"/>
               <l>Das Fackellicht, doch kommt er nicht zurück:</l>
               <l>Er ist gefangen oder gar erschlagen.</l>
             </lg>
@@ -6147,7 +6149,7 @@
             <speaker>BRUTUS.</speaker>
             <lg>
               <l>Lebt wohl denn, Ihr – und Ihr – und Ihr, Volumnius!</l>
-              <pb n="260"/>
+              <pb n="261"/>
               <l>Du, Strato, lagst die ganze Zeit im Schlaf:</l>
               <l>Leb wohl auch du! – Mitbürger, meinem Herzen</l>
               <l>Ist's Wonne, daß ich noch im ganzen Leben</l>
@@ -6219,7 +6221,7 @@
               <l>Daß du Lucilius' Rede wahr gemacht!</l>
             </lg>
           </sp>
-          <pb n="261"/>
+          <pb n="262"/>
           <sp who="#octavius">
             <speaker>OCTAVIUS.</speaker>
             <lg>

@@ -81,6 +81,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="915"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -93,27 +94,27 @@
         <head>Personen</head>
         <castItem>Timon, ein edler Athenienser</castItem>
         <castGroup>
-          <castItem>Lucius,</castItem>
-          <castItem>Lucullus,</castItem>
-          <castItem>Sempronius,</castItem>
-          <castItem>Ventidius,</castItem>
+          <castItem>Lucius</castItem>
+          <castItem>Lucullus</castItem>
+          <castItem>Sempronius</castItem>
+          <castItem>Ventidius</castItem>
           <roleDesc>seine Freunde</roleDesc>
         </castGroup>
         <castItem>Apemantus, Philosoph</castItem>
         <castItem>Alcibiades, Feldherr</castItem>
         <castItem>Flavius, Timons Haushofmeister</castItem>
         <castGroup>
-          <castItem>Flaminius,</castItem>
-          <castItem>Lucilius,</castItem>
+          <castItem>Flaminius</castItem>
+          <castItem>Lucilius</castItem>
           <roleDesc>Timons Diener</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Servilius,</castItem>
-          <castItem>Caphis,</castItem>
-          <castItem>Philotus,</castItem>
-          <castItem>Titus,</castItem>
-          <castItem>Lucius,</castItem>
-          <castItem>Hortensius,</castItem>
+          <castItem>Servilius</castItem>
+          <castItem>Caphis</castItem>
+          <castItem>Philotus</castItem>
+          <castItem>Titus</castItem>
+          <castItem>Lucius</castItem>
+          <castItem>Hortensius</castItem>
           <roleDesc>Diener von Timons Gläubigern</roleDesc>
         </castGroup>
         <castItem>Zwei Diener des Varrus</castItem>
@@ -122,17 +123,19 @@
         <castItem>Ein Dichter, ein Maler, ein Kaufmann und</castItem>
         <castItem>ein Juwelier</castItem>
         <castItem>Ein alter Athenienser, ein Page, ein Narr</castItem>
-        <castItem>Phrynia,</castItem>
-        <castItem>Timandra, Kurtisanen</castItem>
-        <castItem>Senatoren, Hauptleute, Krieger,</castItem>
-        <castItem>Diebe, Gefolge</castItem>
+        <castGroup>
+          <castItem>Phrynia</castItem>
+          <castItem>Timandra</castItem>
+          <roleDesc>Kurtisanen</roleDesc>
+        </castGroup>
+        <castItem>Senatoren, Hauptleute, Krieger, Diebe, Gefolge</castItem>
       </castList>
       <set>
         <p>Die Szene ist in Athen und dem nahen Walde</p>
       </set>
     </front>
     <body>
-      <pb n="916"/>
+      <pb n="917"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -215,7 +218,7 @@
             <stage>den Stein betrachtend.</stage>
             <l>Ha! schön geschnitten!</l>
           </sp>
-          <pb n="917"/>
+          <pb n="918"/>
           <sp who="#juwelier">
             <speaker>JUWELIER.</speaker>
             <l>Und reich; das ist ein Wasser, seht nur selbst!</l>
@@ -309,7 +312,7 @@
               <l>Gehemmt durch einzelnes, nein, segelt fort</l>
               <l>In weiter, klarer See: kein boshaft Zielen</l>
               <l>Vergiftet eine Silbe meiner Fahrt;</l>
-              <pb n="918"/>
+              <pb n="919"/>
               <l>Sie fliegt den Adlerflug, kühn, stets gradaus,</l>
               <l>Kein Wölkchen hinter sich.</l>
             </lg>
@@ -374,7 +377,7 @@
               <l>Folgend nur seinem Pfad; Vorplatz und Hof</l>
               <l>Mit Dienst belagernd;</l>
               <l>Vergötternd Flüstern gießend in sein Ohr,</l>
-              <pb n="919"/>
+              <pb n="920"/>
               <l>Selbst seinen Bügel heil'gend, trinken sie</l>
               <l>Die freie Luft durch ihn.</l>
             </lg>
@@ -456,7 +459,7 @@
             <speaker>TIMON.</speaker>
             <l>Sprich, guter Alter</l>
           </sp>
-          <pb n="920"/>
+          <pb n="921"/>
           <sp who="#athenienser">
             <speaker>ATHENIENSER.</speaker>
             <l>Du hast 'nen Diener, der Lucilius heißt?</l>
@@ -561,7 +564,7 @@
             <speaker>TIMON.</speaker>
             <lg>
               <l>Der gut erzogne Jüngling dient mir lange;</l>
-              <pb n="921"/>
+              <pb n="922"/>
               <l>Sein Glück zu baun tu' ich ein übriges,</l>
               <l>Denn das ist Menschenpflicht. Schenk' ihm dein Kind:</l>
               <l>Was du ihr gibst, soll er von mir erhalten,</l>
@@ -656,7 +659,7 @@
             <speaker>TIMON.</speaker>
             <l>Ein guter Spott!</l>
           </sp>
-          <pb n="922"/>
+          <pb n="923"/>
           <sp who="#kaufmann">
             <speaker>KAUFMANN.</speaker>
             <lg>
@@ -777,7 +780,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Oh, die essen große Herren, und dadurch nehmen sie zu.</p>
           </sp>
-          <pb n="923"/>
+          <pb n="924"/>
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <p>Das ist eine unanständige Andeutung.</p>
@@ -890,7 +893,7 @@
             <speaker>TIMON.</speaker>
             <l>Was für Trompeten?</l>
           </sp>
-          <pb n="924"/>
+          <pb n="925"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <lg>
@@ -985,7 +988,7 @@
             <speaker>ERSTER LORD.</speaker>
             <p>Geh, häng' dich auf!</p>
           </sp>
-          <pb n="925"/>
+          <pb n="926"/>
           <sp who="#apemantus">
             <speaker>APEMANTUS.</speaker>
             <p>Nein, ich tue nichts auf deinen Befehl: bring' deine Gesuche bei deinem Freunde
@@ -1060,7 +1063,7 @@
               <l>O nimmermehr, Ventidius!</l>
               <l>Rechtschaffner Mann, da kränkt Ihr meine Liebe;</l>
               <l>Ich gab sie weg auf immer. Wer zurücknimmt,</l>
-              <pb n="926"/>
+              <pb n="927"/>
               <l>Kann nicht mit Recht behaupten, daß er gibt:</l>
               <l>Wenn so der Große tut, nicht ziemt uns, nachzuspielen,</l>
               <l>Weil an den Reichen stets die Fehler selbst gefielen.</l>
@@ -1136,7 +1139,7 @@
               <l>Verzehrt den Timon, und er sieht sie nicht!</l>
               <l>Mich quält es, daß so viel' ihr Brot eintauchen</l>
               <l>In eines Mannes Blut; und größre Tollheit,</l>
-              <pb n="927"/>
+              <pb n="928"/>
               <l>Er muntert sie noch auf.</l>
               <l>Mich wundert, wie doch Mensch dem Menschen traut:</l>
               <l>Sie sollten nur sich laden ohne Messer;</l>
@@ -1191,7 +1194,7 @@
             <speaker>TIMON.</speaker>
             <p>General Alcibiades, Euer Herz ist in diesem Augenblick im Felde.</p>
           </sp>
-          <pb n="928"/>
+          <pb n="929"/>
           <sp who="#alcibiades">
             <speaker>ALCIBIADES.</speaker>
             <p>Mein Herz ist immer zu Euren Diensten, Mylord</p>
@@ -1246,7 +1249,7 @@
               <l>Und sprang sogleich als weinend Kind hervor,</l>
             </lg>
           </sp>
-          <pb n="929"/>
+          <pb n="930"/>
           <sp who="#apemantus">
             <speaker>APEMANTUS.</speaker>
             <l>Ich lache, daß es wohl ein Bastard war.</l>
@@ -1320,7 +1323,7 @@
               <l>Mit Haß und Hohn vergiftet. Wer lebt, der nicht</l>
               <l>Gekränkt ist oder kränkt? Wer stirbt, und nimmt</l>
               <l>Nicht eine Wund' ins Grab von Freundeshand?</l>
-              <pb n="930"/>
+              <pb n="931"/>
               <l>Die vor mir tanzen jetzt, ich würde fürchten,</l>
               <l>Sie stampfen einst auf mich: es kam schon vor;</l>
               <l>Man schließt beim Sonnenuntergang das Tor.</l>
@@ -1405,7 +1408,7 @@
               <l>Ihr Freunde, noch ein Wort</l>
               <l>Erlaubt mir: – Seht, mein guter Lord, ich muß</l>
               <l>Euch bitten, daß Ihr mir die Ehr' erweist,</l>
-              <pb n="931"/>
+              <pb n="932"/>
               <l>Hier dies Juwel zu adeln:</l>
               <l>Empfangt und tragt es, güt'ger Herr!</l>
             </lg>
@@ -1491,7 +1494,7 @@
               <l>Da seine Macht nicht seinem Wunsch genügt;</l>
               <l>Ihn überfliegt so sehr, was er verspricht,</l>
               <l>Daß, was er redet, Schuld ist: ja verpflichtet</l>
-              <pb n="932"/>
+              <pb n="933"/>
               <l>Für jedes Wort, ist er so mild, daß Zins</l>
               <l>Er dafür zahlt. All seine Güter stehn</l>
               <l>In ihren Büchern. –</l>
@@ -1587,7 +1590,7 @@
               <l>Reichtum und Ehre bleib' Euch, edler Timon!</l>
             </lg>
           </sp>
-          <pb n="933"/>
+          <pb n="934"/>
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <l>Zum Dienst der Freunde.</l>
@@ -1643,7 +1646,7 @@
           </sp>
         </div>
       </div>
-      <pb n="934"/>
+      <pb n="935"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1686,7 +1689,7 @@
               <l>Aus meinen Mitteln. Seine Frist ist um,</l>
               <l>Und mein Kredit, da er nicht Stundung hielt,</l>
               <l>Ist schon beschmitzt: ich lieb' ihn und verehr' ihn;</l>
-              <pb n="935"/>
+              <pb n="936"/>
               <l>Doch wag' ich nicht den Hals für seinen Finger;</l>
               <l>Ich brauch' es augenblicks, und was mich rettet,</l>
               <l>Muß nicht unsichre, schwanke Rede sein,</l>
@@ -1761,7 +1764,7 @@
             <speaker>CAPHIS.</speaker>
             <l>Wär'n wir nur alle schon bezahlt!</l>
           </sp>
-          <pb n="936"/>
+          <pb n="937"/>
           <sp who="#varros_diener">
             <speaker>VARROS DIENER.</speaker>
             <l>Hm, schwerlich.</l>
@@ -1867,7 +1870,7 @@
             <speaker>FLAVIUS.</speaker>
             <lg>
               <l>Hört, ihr Herrn,</l>
-              <pb n="937"/>
+              <pb n="938"/>
               <l>Die Zeit ist für Geschäfte nicht geeignet:</l>
               <l>Stillt euren Ungestüm bis nach der Mahlzeit,</l>
               <l>Auf daß ich Seiner Gnaden sagen möge,</l>
@@ -1974,7 +1977,7 @@
             <speaker>NARR.</speaker>
             <p>Seht, hier kommt der Page meiner Gebieterin.</p>
           </sp>
-          <pb n="938"/>
+          <pb n="939"/>
           <sp who="#page">
             <speaker>PAGE</speaker>
             <stage>zum Narr'n.</stage>
@@ -2062,7 +2065,7 @@
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Ein Narr in guten Kleidern, und dir etwas ähnlich. Ein Geist ist es, denn zuweilen
-              erscheint er als ein vornehmer <pb n="939"/> Herr, zuweilen als ein Rechtsgelehrter,
+              erscheint er als ein vornehmer <pb n="940"/> Herr, zuweilen als ein Rechtsgelehrter,
               zuweilen als ein Philosoph, zuweilen gleicht er auch einem Ritter: und, kurz und gut,
               in allen Gestalten, worin die Menschen von achtzig bis zu dreizehn Jahren umher
               wandeln, geht dieser Geist um.</p>
@@ -2137,7 +2140,7 @@
               <l>Zu geben, schüttelt' ich den Kopf und weinte;</l>
               <l>Ja, bat Euch, gegen das Gebot der Sitte,</l>
               <l>Mehr Eure Hand zu schließen; ich ertrug</l>
-              <pb n="940"/>
+              <pb n="941"/>
               <l>Nicht seltnen und nicht milden Vorwurf, wagt' ich,</l>
               <l>An Eures Reichtums Ebbe Euch zu mahnen</l>
               <l>Und Eurer Schulden Flut. Geliebter Herr,</l>
@@ -2209,7 +2212,7 @@
               <l>Ein Wintertag, und tot sind diese Fliegen.</l>
             </lg>
           </sp>
-          <pb n="941"/>
+          <pb n="942"/>
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <lg>
@@ -2288,7 +2291,7 @@
             <speaker>TIMON.</speaker>
             <l>Ha! wirklich? kann es sein?</l>
           </sp>
-          <pb n="942"/>
+          <pb n="943"/>
           <sp who="#flavius">
             <speaker>FLAVIUS.</speaker>
             <lg>
@@ -2351,7 +2354,7 @@
           </sp>
         </div>
       </div>
-      <pb n="943"/>
+      <pb n="944"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2398,7 +2401,7 @@
               Talente zu brauchen, und schickt zu Euer Gnaden, ihm damit auszuhelfen; indem er
               durchaus nicht an Eurer schnellen Bereitwilligkeit zweifelt.</p>
           </sp>
-          <pb n="944"/>
+          <pb n="945"/>
           <sp who="#lucullus">
             <speaker>LUCULLUS.</speaker>
             <p>La, la, er zweifelt nicht, sagst du? Ach, der gute? Lord! er ist ein edler Mann,
@@ -2456,7 +2459,7 @@
               <l>Geschmolznes Gold sei dein Verdammungsspruch,</l>
               <l>Du Krankheit eines Freunds, doch nicht ein Freund!</l>
               <l>Hat Freundschaft solch ein schwaches Herz von Milch,</l>
-              <pb n="945"/>
+              <pb n="946"/>
               <l>Das in zwei Nächten umschlägt? Oh, ihr Götter!</l>
               <l>Ich fühle meines Herren Zorn! Der Sklav'</l>
               <l>Hat noch in sich zur Stunde Timons Mahl:</l>
@@ -2510,7 +2513,7 @@
               Den würdigen Mann abzuweisen! darin zeigte er wenig Gefühl für Ehre. Was mich
               betrifft, ich muß bekennen, ich habe einige kleine Liebeszeichen von ihm erhalten,
               Geld, Silbergeschirr, Edelsteine und dergleichen Kleinigkeiten, nichts in Vergleich
-              mit je <pb n="946"/> nem; doch, hätte er ihn übergangen und zu mir gesendet, ich hätte
+              mit je <pb n="947"/> nem; doch, hätte er ihn übergangen und zu mir gesendet, ich hätte
               seinem Bedürfnis diese Talente nicht geweigert.</p>
             <stage>Servilius tritt auf.</stage>
           </sp>
@@ -2573,7 +2576,7 @@
               jetzt möchte ich um alle Schätze von Athen nicht, daß ich es getan hätte. Empfiehl
               mich angelegentlich deinem liebevollen Gebieter; ich hoffe, sein Edelmut wird das
               Beste von mir denken, da es nicht in meiner Macht steht, mich ihm freundlich zu
-              bezeigen. – Und <pb n="947"/> sage ihm von mir, ich halte es für einen der größten
+              bezeigen. – Und <pb n="948"/> sage ihm von mir, ich halte es für einen der größten
               Unglücksfälle, die mich treffen konnten, daß ich solchem edlen Mann nicht dienen kann.
               Guter Servilius, willst du mir so viele Liebe erzeigen, meine eigenen Worte gegen ihn
               zu gebrauchen?</p>
@@ -2634,7 +2637,7 @@
               <l>Wenn er in seiner Not mich angegangen,</l>
               <l>Mein ganz Besitztum hätt' ich hingeopfert,</l>
               <l>Daß ihm die größte Hälfte wiederkehrte,</l>
-              <pb n="948"/>
+              <pb n="949"/>
               <l>So lieb' ich sein Gemüt. Doch merk' ich wohl,</l>
               <l>Man muß mit zartem Sinn zu geben wissen;</l>
               <l>Denn Klugheit thront noch höher als Gewissen.</l>
@@ -2689,7 +2692,7 @@
             </lg>
             <stage>Geht ab.</stage>
           </sp>
-          <pb n="949"/>
+          <pb n="950"/>
           <sp who="#diener">
             <speaker>DIENER.</speaker>
             <p>Ganz unvergleichlich! Euer Gnaden ist ein recht frommer Schurke. Der Teufel wußte
@@ -2756,7 +2759,7 @@
             <speaker>PHILOTUS.</speaker>
             <l>Guten Morgen!</l>
           </sp>
-          <pb n="950"/>
+          <pb n="951"/>
           <sp who="#lucius_diener">
             <speaker>LUCIUS' DIENER.</speaker>
             <lg>
@@ -2867,7 +2870,7 @@
             <speaker>FLAMINIUS.</speaker>
             <p>Nein, gewiß nicht.</p>
           </sp>
-          <pb n="951"/>
+          <pb n="952"/>
           <sp who="#titus">
             <speaker>TITUS.</speaker>
             <p>Wir erwarten Seine Gnaden; und ich bitte dich, tu' ihm das zu wissen!</p>
@@ -2948,7 +2951,7 @@
             <lg>
               <l>Wenn ich euch bitten darf, ihr guten Herren,</l>
               <l>So kommt zu einer andern Stunde; sehr</l>
-              <pb n="952"/>
+              <pb n="953"/>
               <l>Will ich's euch danken: denn, glaubt meinem Wort,</l>
               <l>Mein Herr ist außerordentlich verstimmt.</l>
               <l>Sein heitrer Sinn hat gänzlich ihn verlassen;</l>
@@ -3059,7 +3062,7 @@
           <sp who="#hortensius">
             <speaker>HORTENSIUS.</speaker>
             <p>Nun, ich sehe wohl, unsre Herren mögen ihre Mützen nach ihrem Gelde schmeißen: diese
-              Schulden kann <pb n="953"/> man wohl verzweifelte nennen, da ein Rasender sie bezahlen
+              Schulden kann <pb n="954"/> man wohl verzweifelte nennen, da ein Rasender sie bezahlen
               soll.</p>
             <stage>Sie gehn alle ab.</stage>
             <stage>Timon kommt zurück mit Flavius.</stage>
@@ -3148,7 +3151,7 @@
             <lg>
               <l>Vor eure Tugend tret' ich als ein Fleh'nder;</l>
               <l>Denn Mitleid ist die Tugend des Gesetzes,</l>
-              <pb n="954"/>
+              <pb n="955"/>
               <l>Nur Tyrannei braucht es zur Grausamkeit.</l>
               <l>Die Laune war's von Zeit und Schicksal, schwer</l>
               <l>Zu drücken einen Freund, der, heißen Bluts,</l>
@@ -3204,7 +3207,7 @@
               <l>Was wagen in der Schlacht sich dumme Menschen</l>
               <l>Und dulden nicht das Dräu'n? und schlafen still,</l>
               <l>In Zuversicht dem Feind die Kehle bietend,</l>
-              <pb n="955"/>
+              <pb n="956"/>
               <l>Ganz ohne Widerstand? Ist im Ertragen</l>
               <l>So großer Mut, was machen wir im Feld?</l>
               <l>Nun also, tapferer sind dann die Frauen</l>
@@ -3272,7 +3275,7 @@
               <l>Und niemand schuldig bleiben), euch zu rühren,</l>
               <l>Nehmt meine Taten auch, vereint sie beide:</l>
               <l>Und, da ich weiß, es lieb' euer würd'ges Alter</l>
-              <pb n="956"/>
+              <pb n="957"/>
               <l>Die Sicherheit, verpfänd' ich meine Siege,</l>
               <l>All meinen Ruhm, damit er zahl' und zinse.</l>
               <l>Verlangt Gesetz für diesen Fehl sein Leben,</l>
@@ -3354,7 +3357,7 @@
               <l>In seines Feldherrn Wunden gießt? Verbannung!</l>
               <l>Das ist nicht schlimm; willkommen ist Verbannung:</l>
               <l>So hat mein Zorn und Grimm den guten Grund,</l>
-              <pb n="957"/>
+              <pb n="958"/>
               <l>Athen zu schlagen. Munter werb' ich jetzt</l>
               <l>Mein mißvergnügtes Heer, nach Herzen wuchernd:</l>
               <l>'s ist ehrenvoll, der Güter sich entschlagen;</l>
@@ -3418,7 +3421,7 @@
             <speaker>ERSTER LORD.</speaker>
             <p>Wie viel von Euch?</p>
           </sp>
-          <pb n="958"/>
+          <pb n="959"/>
           <sp who="#zweiter_lord">
             <speaker>ZWEITER LORD.</speaker>
             <p>Er schickte zu mir – doch hier kommt er.</p>
@@ -3506,7 +3509,7 @@
             <speaker>DRITTER LORD.</speaker>
             <p>So ist es, zweifelt nicht!</p>
           </sp>
-          <pb n="959"/>
+          <pb n="960"/>
           <sp who="#erster_lord">
             <speaker>ERSTER LORD.</speaker>
             <p>Wie denn? wie denn?</p>
@@ -3573,7 +3576,7 @@
             <speaker>TIMON.</speaker>
             <lg>
               <l>Mögt ihr ein beßres Gastmahl nimmer sehn,</l>
-              <pb n="960"/>
+              <pb n="961"/>
               <l>Ihr Maulfreundrotte! Dampf und lauwarm Wasser</l>
               <l>Ist eure Tugend. Dies ist Timons Letztes;</l>
               <l>Der euch bis jetzt mit Schmeicheleien schminkte,</l>
@@ -3649,7 +3652,7 @@
           </sp>
         </div>
       </div>
-      <pb n="961"/>
+      <pb n="962"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3685,7 +3688,7 @@
               <l>Die Senatoren krümm', daß ihre Glieder</l>
               <l>Lahm gleich den Sitten werden! Lust und Frechheit,</l>
               <l>Schleich' in das Mark und das Gemüt der Jugend,</l>
-              <pb n="962"/>
+              <pb n="963"/>
               <l>Daß sie, dem Tugendstrom entgegen schwimmend,</l>
               <l>In Wüstheit sich ertränkt! Mit Schwür' und Beulen</l>
               <l>Sei ganz Athen besät' und ew'ger Aussatz</l>
@@ -3747,7 +3750,7 @@
             </lg>
             <stage>Es kommen noch andere Diener.</stage>
           </sp>
-          <pb n="963"/>
+          <pb n="964"/>
           <sp who="#flavius">
             <speaker>FLAVIUS.</speaker>
             <l>Zerbrochenes Geschirr der Hauszerstörung!</l>
@@ -3799,7 +3802,7 @@
               <l>Der vieh'schen Freunde. Nichts hat er bei sich</l>
               <l>Zur Fristung und Erleicht'rung seines Lebens.</l>
               <l>Ich will ihm nach und, wo er ist, erforschen;</l>
-              <pb n="964"/>
+              <pb n="965"/>
               <l>So gut ich kann, will ich für ihn noch schalten,</l>
               <l>Was mir an Geld verblieb, für ihn verwalten.</l>
             </lg>
@@ -3846,7 +3849,7 @@
               <l>Nicht eitel fleht' ich. Wurzeln, reiner Himmel!</l>
               <l>So viel hievon macht schwarz weiß, häßlich schön,</l>
               <l>Schlecht gut, alt jung, feig tapfer, niedrig edel.</l>
-              <pb n="965"/>
+              <pb n="966"/>
               <l>Ihr Götter! warum dies? warum dies, Götter?</l>
               <l>Ha! dies lockt euch den Priester vom Altar,</l>
               <l>Reißt Halbgenes'nen weg das Schlummerkissen.</l>
@@ -3913,7 +3916,7 @@
               <l>Dich kenn' ich auch; mehr wünsch' ich nicht zu wissen,</l>
               <l>Als daß du mir bekannt. Folg' deiner Trommel,</l>
               <l>Bemal' mit Menschenblut den Grund, rot, rot;</l>
-              <pb n="966"/>
+              <pb n="967"/>
               <l>Göttlich Gebot, menschlich Gesetz ist grausam:</l>
               <l>Was soll der Krieg denn sein? Hier deine Dirne</l>
               <l>Trägt mehr Zerstörung in sich als dein Schwert,</l>
@@ -4022,7 +4025,7 @@
               <l>Ertrank und ging in seinem Elend unter. –</l>
               <l>Nur wenig Goldbesitz' ich, wackrer Timon,</l>
               <l>Und dieser Mangel bringt zum Aufstand täglich</l>
-              <pb n="967"/>
+              <pb n="968"/>
               <l>Mein darbend Heer. Mit Leid vernahm ich, wie</l>
               <l>Athen verrucht hat deines Werts vergessen</l>
               <l>Und deines tapfern Streits, als Nachbarstaaten,</l>
@@ -4102,7 +4105,7 @@
               <l>Zerstück' ihn mitleidslos: schwör' Tod dem Leben;</l>
               <l>Leg' erzne Rüstung dir auf Ohr und Auge,</l>
               <l>So hart, daß Schrei von Mutter, Säugling, Jungfrau,</l>
-              <pb n="968"/>
+              <pb n="969"/>
               <l>Des Priesters selbst, in heil'gen Kleidern blutend,</l>
               <l>Dir nichts sei. Hier ist Gold für deine Krieger:</l>
               <l>Sä,' aus Vernichtung; ist dein Grimm erschöpft,</l>
@@ -4167,7 +4170,7 @@
               <l>Für alle spürt: krausköpf'ge Raufer, macht sie kahl;</l>
               <l>Dem unbenarbten Kriegesprahler gebt</l>
               <l>Gehör'ge Qual von euch: verpestet alles,</l>
-              <pb n="969"/>
+              <pb n="970"/>
               <l>Und eure Tätigkeit erstick' und dörre</l>
               <l>Die Quelle aller Zeugung! – Nehmt mehr Gold! –</l>
               <l>Verderbt die andern, und verderb' euch dies,</l>
@@ -4243,7 +4246,7 @@
               <l>Oh, eine Wurzel, – inn'gen Dank dafür!</l>
               <l>Vertrockne, Mark des Weinbergs, Fett der Äcker,</l>
               <l>Woraus der undankbare Mensch mit süßem Trank</l>
-              <pb n="970"/>
+              <pb n="971"/>
               <l>Und Leckerbiß den reinen Sinn verschlemmt,</l>
               <l>Daß ab ihm gleitet jegliche Betrachtung.</l>
             </lg>
@@ -4304,7 +4307,7 @@
               <l>Die nackt und bloß den kalten Sturm ausdauern</l>
               <l>Der rauhen Luft; die unbehauste Schöpfung,</l>
               <l>Dem Kampf der Elemente hingegeben,</l>
-              <pb n="971"/>
+              <pb n="972"/>
               <l>Treu der Natur, – befiehl, daß sie dir schmeicheln,</l>
               <l>So find'st du –</l>
             </lg>
@@ -4388,7 +4391,7 @@
               <l>Der ich als Lustgelag die Welt besaß:</l>
               <l>Mund, Zungen, Augen, Herzen aller Menschen</l>
               <l>Im Dienst, mehr als ich Arbeit für sie wußte,</l>
-              <pb n="972"/>
+              <pb n="973"/>
               <l>Die zahllos an mir hingen, so wie Blätter</l>
               <l>Am Eichbaum, sind durch einen Winterfrost</l>
               <l>Vom Zweig gelöset; – offen steh' ich, bar</l>
@@ -4476,7 +4479,7 @@
             <speaker>APEMANTUS.</speaker>
             <l>Wo liegst die Nacht du, Timon?</l>
           </sp>
-          <pb n="973"/>
+          <pb n="974"/>
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <lg>
@@ -4563,7 +4566,7 @@
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <p>Ein viehischer Wunsch, den ich die Götter bitte zu gewähren! Wärest du der Löwe, so
-              würde der Fuchs dich betrügen; <pb n="974"/> wärest du das Lamm, so würde der Fuchs
+              würde der Fuchs dich betrügen; <pb n="975"/> wärest du das Lamm, so würde der Fuchs
               dich fressen; wärest du der Fuchs, so würdest du dem Löwen verdächtig werden, wenn
               dich der Esel vielleicht verklagte; wärest du der Esel, so würde deine Dummheit dich
               plagen, und du lebtest doch nur als ein Frühstück für den Wolf; wärest du der Wolf, so
@@ -4628,7 +4631,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Oh, könnte doch mein Mund sie faulen machen!</p>
           </sp>
-          <pb n="975"/>
+          <pb n="976"/>
           <sp who="#timon">
             <speaker>TIMON.</speaker>
             <lg>
@@ -4709,7 +4712,7 @@
             <speaker>TIMON.</speaker>
             <l>Den Rücken zeig'!</l>
           </sp>
-          <pb n="976"/>
+          <pb n="977"/>
           <sp who="#apemantus">
             <speaker>APEMANTUS.</speaker>
             <l>Dein Elend lieb' und lebe!</l>
@@ -4799,7 +4802,7 @@
               <l>Noch von den Tieren, Fischen, Vögeln selbst;</l>
               <l>Auch Menschen müßt ihr zehren. Danken muß ich,</l>
               <l>Daß ihr seid offne Dieb' und waltet nicht</l>
-              <pb n="977"/>
+              <pb n="978"/>
               <l>In heil'germ Schein; unendlich ist der Raub,</l>
               <l>Den jeder Stand mit Ehren treibt. Hier, Schufte,</l>
               <l>Nehmt Gold: geht, saugt das zarte Blut der Traube,</l>
@@ -4847,7 +4850,7 @@
             <stage>Die Banditen gehn ab.</stage>
             <stage>Flavius tritt auf.</stage>
           </sp>
-          <pb n="978"/>
+          <pb n="979"/>
           <sp who="#flavius">
             <speaker>FLAVIUS.</speaker>
             <lg>
@@ -4927,7 +4930,7 @@
             <speaker>TIMON.</speaker>
             <lg>
               <l>Hatt' ich 'nen Diener, so gerecht, so treu,</l>
-              <pb n="979"/>
+              <pb n="980"/>
               <l>Und nun so trostreich? Ha! das bringt zum Rasen</l>
               <l>Mein wild Gemüt. Laß mich dein Antlitz sehn! –</l>
               <l>Gewiß, vom Weib ist dieser Mann geboren. –</l>
@@ -4976,7 +4979,7 @@
               <l>Fluch' allen, keinen laß Erbarmen finden,</l>
               <l>Das Fleisch vor Hunger am Gebein verschwinden,</l>
               <l>Eh' du dem Bettler hilfst! Gib Hunden, was</l>
-              <pb n="980"/>
+              <pb n="981"/>
               <l>Du Menschen weigerst; Kerker schling' sie ein,</l>
               <l>Laß Schulden sie zu nichts verschrumpfen,</l>
               <l>Verdorren sie, wie Frost die Wälder trifft,</l>
@@ -5002,7 +5005,7 @@
           </sp>
         </div>
       </div>
-      <pb n="981"/>
+      <pb n="982"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5054,7 +5057,7 @@
             <speaker>MALER.</speaker>
             <p>Vortrefflich! Versprechen ist die Sitte der Zeit, es öffnet die Augen der Erwartung:
               Vollziehen erscheint um so dummer, wenn es eintritt; und, die einfältigen, geringen
-                <pb n="982"/> Leute ausgenommen, ist die Betätigung des Wortes völlig aus der Mode.
+                <pb n="983"/> Leute ausgenommen, ist die Betätigung des Wortes völlig aus der Mode.
               Versprechen ist sehr hofmännisch und guter Ton. Vollziehen ist eine Art von Testament,
               das von gefährlicher Krankheit des Verstandes bei dem zeugt, der es macht.</p>
           </sp>
@@ -5126,7 +5129,7 @@
             <lg>
               <l>Wir hörten, die wir oft dein Wohltun fühlten,</l>
               <l>Du seist vereinsamt, abgewandt die Freunde,</l>
-              <pb n="983"/>
+              <pb n="984"/>
               <l>Die, undankbaren Sinns – oh, Scheusal' ihr!</l>
               <l>Nicht scharf genug sind alle Himmelsgeißeln –</l>
               <l>Wie! dich! des sternengleiche Großmut Leben</l>
@@ -5230,7 +5233,7 @@
             <speaker>TIMON.</speaker>
             <l>Wollt ihr das wirklich?</l>
           </sp>
-          <pb n="984"/>
+          <pb n="985"/>
           <sp who="#beide">
             <speaker>BEIDE.</speaker>
             <l>Nicht zweifelt, edler Lord!</l>
@@ -5307,7 +5310,7 @@
               <l>Freund mit ihm ist.</l>
             </lg>
           </sp>
-          <pb n="985"/>
+          <pb n="986"/>
           <sp who="#erster_senator">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
@@ -5387,7 +5390,7 @@
               <l>Nur widerruft – gefühlt, wie sehr die Hülfe</l>
               <l>Ihm Timons fehlt, zu deutlich nur empfindend,</l>
               <l>Daß selbst er stürzt, dem Timon Hülfe weigernd;</l>
-              <pb n="986"/>
+              <pb n="987"/>
               <l>Er sendet uns, als Ausdruck seines Kummers,</l>
               <l>Zugleich mit der Belohnung, die ergieb'ger</l>
               <l>Als die Verletzung, noch so scharf gewogen;</l>
@@ -5449,7 +5452,7 @@
               <l>Daß ich den schlechtsten Kneif im rohen Lager</l>
               <l>Im Herzen höher stell', als aus Athen</l>
               <l>Die hochschätzbarste Gurgel. So verbleibt</l>
-              <pb n="987"/>
+              <pb n="988"/>
               <l>Dem Schutz der segensreichen Götter, wie</l>
               <l>Der Dieb dem Schließer!</l>
             </lg>
@@ -5538,7 +5541,7 @@
             <lg>
               <l>Kommt nicht mehr zu mir, sondern sagt Athen,</l>
               <l>Timon hat hier sein ew'ges Haus gebaut</l>
-              <pb n="988"/>
+              <pb n="989"/>
               <l>Auf dem bespülten Strand der salz'gen Flut,</l>
               <l>Das einmal Tags mit ihrem schwell'nden Schaum</l>
               <l>Die Wogen überfluten; dahin kommt,</l>
@@ -5612,7 +5615,7 @@
             <speaker>ERSTER SENATOR.</speaker>
             <l>Seht, unsre Brüder kommen.</l>
           </sp>
-          <pb n="989"/>
+          <pb n="990"/>
           <sp who="#dritter_senator">
             <speaker>DRITTER SENATOR.</speaker>
             <lg>
@@ -5664,7 +5667,7 @@
               <l>Im Schatten eurer Macht, und wanderten,</l>
               <l>Kreuzweis die Arm', und seufzten unser Leid</l>
               <l>Vergeblich nur. Nun ist die Zeit erwachsen,</l>
-              <pb n="990"/>
+              <pb n="991"/>
               <l>Das Lasttier darf im Dienst sich kräftig fühlen</l>
               <l>Und schreit von selbst: »Nicht mehr!« In Polsterstühlen</l>
               <l>Wird jetzt bequem geschmähte Kränkung ruhn,</l>
@@ -5728,7 +5731,7 @@
               <l>Führ' ein dein Heer, doch laß die Wut da draußen:</l>
               <l>Schon' deiner Wieg', Athens, verwandten Bluts,</l>
               <l>Das deines Zornes Sturm vergießen würde</l>
-              <pb n="991"/>
+              <pb n="992"/>
               <l>Mit dem der Schuldigen: gleich einem Schäfer</l>
               <l>Nah' deiner Hürd', und sondre das Erkrankte,</l>
               <l>Doch nicht erwürge alles!</l>
@@ -5801,7 +5804,7 @@
             <speaker>ALCIBIADES</speaker>
             <stage>liest.</stage>
             <l>»Hier liegt der traurige Leib, dem der traur'ge Geist entschwebt;</l>
-            <pb n="992"/>
+            <pb n="993"/>
             <lg>
               <l>Forscht meinen Namen nicht: Fluch allem, was da lebt!</l>
               <l>Hier lieg' ich, Timon: da ich lebt', haßt' ich, was Leben hegt:</l>

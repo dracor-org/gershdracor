@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="585"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -89,6 +90,7 @@
           <titlePart type="main">König Heinrich VI. Zweiter Teil</titlePart>
         </docTitle>
       </titlePage>
+      <pb n="586"/>
       <pb n="587"/>
       <castList>
         <head>Personen</head>
@@ -98,15 +100,18 @@
         <castItem>Richard Plantagenet, Herzog von York</castItem>
         <castItem>Eduard und Richard, seine Söhne</castItem>
         <castGroup>
-          <castItem>Herzog von Somerset,</castItem>
-          <castItem>Herzog von Suffolk,</castItem>
-          <castItem>Herzog von Buckingham,</castItem>
+          <castItem>Herzog von Somerset</castItem>
+          <castItem>Herzog von Suffolk</castItem>
+          <castItem>Herzog von Buckingham</castItem>
           <castItem>Lord Clifford</castItem>
-          <castItem>Der junge Clifford, sein Sohn,</castItem>
+          <castItem>Der junge Clifford, sein Sohn</castItem>
           <roleDesc>von der königlichen Partei</roleDesc>
         </castGroup>
-        <castItem>Graf von Salisbury,</castItem>
-        <castItem>Graf von Warwick, von der Yorkschen Partei</castItem>
+        <castGroup>
+          <castItem>Graf von Salisbury</castItem>
+          <castItem>Graf von Warwick</castItem>
+          <roleDesc>von der Yorkschen Partei</roleDesc>
+        </castGroup>
         <castItem>Lord Scales, Befehlshaber des Turmes</castItem>
         <castItem>Lord Say</castItem>
         <castItem>Sir Humphrey Stafford und sein Bruder</castItem>
@@ -128,7 +133,7 @@
         <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel
           u.a., seine Anhänger</castItem>
         <castItem>Alexander Iden, ein kentischer Edelmann</castItem>
-        <pb n="587"/>
+        <pb n="588"/>
         <castItem>Margareta, König Heinrichs Gemahlin</castItem>
         <castItem>Leonora, Herzogin von Gloster</castItem>
         <castItem>Grete Jordan, eine Hexe</castItem>
@@ -141,7 +146,7 @@
         <p>Die Szene ist abwechselnd in verschiednen Gegenden Englands</p>
       </set>
     </front>
-    <pb n="588"/>
+    <pb n="589"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -182,7 +187,7 @@
               <l>Als diesen inn'gen Kuß. Herr meines Lebens,</l>
               <l>Leih' mir ein Herz, von Dankbarkeit erfüllt!</l>
               <l>Denn in dem schönen Antlitz gabst du mir</l>
-              <pb n="589"/>
+              <pb n="590"/>
               <l>Eine Welt von ird'schem Heil für meine Seele,</l>
               <l>Wenn Liebes-Eintracht unsern Sinn verknüpft.</l>
             </lg>
@@ -251,7 +256,7 @@
               <l>Und trübt die Augen mir zum Weiterlesen.</l>
             </lg>
           </sp>
-          <pb n="590"/>
+          <pb n="591"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Ich bitt' Euch, Ohm von Winchester, lest weiter!</l>
@@ -300,7 +305,7 @@
               <l>Oder hat mein Oheim Beaufort und ich selbst,</l>
               <l>Samt dem gelehrten Rate dieses Reichs,</l>
               <l>So lang' studiert, im Rathaus aufgesessen</l>
-              <pb n="591"/>
+              <pb n="592"/>
               <l>Von früh bis nachts, erwägend hin und her,</l>
               <l>Wie man in Ehrfurcht die Franzosen hielte?</l>
               <l>Und wurde Seine Hoheit zu Paris</l>
@@ -364,7 +369,7 @@
               <l>Frankreich hätt' eh' mein Herz mir ausgerissen,</l>
               <l>Als ich zu diesem Bündnis mich bequemt.</l>
               <l>Nie las ich anders, als daß Englands Kön'ge</l>
-              <pb n="592"/>
+              <pb n="593"/>
               <l>Mit ihren Weibern Summen Golds erhielten:</l>
               <l>Und unser Heinrich gibt sein eignes weg,</l>
               <l>Um die zu frein, die keinen Vorteil bringt.</l>
@@ -429,7 +434,7 @@
             <lg>
               <l>Und warum muß er's sein bei unserm Herrn.</l>
               <l>Der selbst das Alter zum Regieren hat?</l>
-              <pb n="593"/>
+              <pb n="594"/>
               <l>Vetter von Somerset, eint Euch mit mir,</l>
               <l>Ihr all' zusammen mit dem Herzog Suffolk:</l>
               <l>Wir heben bald den Herzog aus dem Sitz.</l>
@@ -488,7 +493,7 @@
               <l>Mit aller Macht zu zügeln und zu hemmen</l>
               <l>Den Hochmut Suffolks und des Kardinals,</l>
               <l>Samt Buckinghams und Somersets Ehrbegier;</l>
-              <pb n="594"/>
+              <pb n="595"/>
               <l>Und unterstützen bestens Glosters Taten,</l>
               <l>Solang' sie zielen auf des Lands Gewinn.</l>
             </lg>
@@ -546,7 +551,7 @@
               <l>Sind so verwebt mit meinem Fleisch und Blut,</l>
               <l>Als der verhängnisvolle Brand Altheens</l>
               <l>Mit jenes Prinzen Herz von Kalydon.</l>
-              <pb n="595"/>
+              <pb n="596"/>
               <l>Anjou und Maine an Frankreich abgegeben!</l>
               <l>Ein Schlag für mich, der ich auf Frankreich Hoffnung</l>
               <l>So wie auf Englands fruchtbar'n Boden hatte.</l>
@@ -590,7 +595,7 @@
               <l>Und starrt das an, was dein Gesicht bewölkt?</l>
               <l>Was siehst du? König Heinrichs Diadem,</l>
               <l>Verbrämt mit allen Ehren dieser Welt?</l>
-              <pb n="596"/>
+              <pb n="597"/>
               <l>Ist das, so starr' und kriech' auf deinem Antlitz,</l>
               <l>Bis dir das Haupt davon umzirkelt ist.</l>
               <l>Streck' aus den Arm nach dem glorreichen Gold!</l>
@@ -652,7 +657,7 @@
               <l>Hochmüt'ge Frau, verzogne Leonore!</l>
               <l>Bist du die zweite Frau im Reiche nicht</l>
               <l>Und des Protektors Weib, geliebt von ihm?</l>
-              <pb n="597"/>
+              <pb n="598"/>
               <l>Steht weltliches Vergnügen dir nicht frei,</l>
               <l>Mehr als dein Sinn erreichet und ermißt?</l>
               <l>Und mußt du immer schmieden am Verrat,</l>
@@ -720,7 +725,7 @@
               <l>Vervielfacht Euer Gnaden Titel sich</l>
             </lg>
           </sp>
-          <pb n="598"/>
+          <pb n="599"/>
           <sp who="#herzogin">
             <speaker>HERZOGIN.</speaker>
             <lg>
@@ -780,7 +785,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="599"/>
+        <pb n="600"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ein Zimmer im Palast.</stage>
@@ -850,7 +855,7 @@
             <p>Mein Meister wäre es? Nein, wahrhaftig; mein Meister sagte, er wäre es, und der König
               wäre ein Usurpator.</p>
           </sp>
-          <pb n="600"/>
+          <pb n="601"/>
           <sp who="#suffolk">
             <speaker>SUFFOLK.</speaker>
             <p>Ist jemand da?</p>
@@ -906,7 +911,7 @@
             <speaker>SUFFOLK.</speaker>
             <lg>
               <l>Seid ruhig, gnäd'ge Frau: wie ich gemacht,</l>
-              <pb n="601"/>
+              <pb n="602"/>
               <l>Daß Eure Hoheit kam nach England, will ich</l>
               <l>In England völlig Euch zufriedenstellen.</l>
             </lg>
@@ -966,7 +971,7 @@
             <stage>König Heinrich, York und Somerset im Gespräch mit ihm; Herzog und Herzogin von
               Glaster, Kardinal Beaufort, Buckingham, Salisbury und Warwick treten auf.</stage>
           </sp>
-          <pb n="602"/>
+          <pb n="603"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
@@ -1080,7 +1085,7 @@
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Dein Ämter-Handel, und mit Städten Frankreichs,</l>
-              <pb n="603"/>
+              <pb n="604"/>
               <l>Wär' er bekannt, wie er verdächtig ist,</l>
               <l>Du sprängest bald wohl ohne Kopf herum.</l>
               <stage>Gloster ab. Die Königin läßt ihren Fächer fallen.</stage>
@@ -1153,7 +1158,7 @@
               <l>Dann, wenn ich zu der Stelle werd' ernannt,</l>
               <l>Wird hier Mylord von Somerset mich halten</l>
               <l>Ohn' Abschluß, ohne Geld und Ausrüstung,</l>
-              <pb n="604"/>
+              <pb n="605"/>
               <l>Bis Frankreich in des Dauphins Hand gefallen.</l>
               <l>Mußt' ich doch letzthin ihm zu Willen tanzen,</l>
               <l>Bis man Paris berannt und ausgehungert.</l>
@@ -1236,7 +1241,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Oheim, was sagen wir hiezu nach Rechten?</l>
           </sp>
-          <pb n="605"/>
+          <pb n="606"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -1308,7 +1313,7 @@
               dienlich sein. Meister Hume, daß Ihr droben bei ihr seid, derweil wir unten
               beschäftigt sind, und so bitte ich Euch, geht in Gottes Namen und verlaßt uns.</p>
             <stage>Hume ab.</stage>
-            <pb n="606"/>
+            <pb n="607"/>
             <p>Mutter Jordan, streckt Euch nieder und kriecht an der Erde; – Johann Southwell, lest
               Ihr; und laßt uns an unsre Arbeit gehn.</p>
             <stage>Die Herzogin erscheint auf einem Balkon.</stage>
@@ -1384,7 +1389,7 @@
               <l>Mach' nun ein Ende: mehr ertrag' ich kaum.</l>
             </lg>
           </sp>
-          <pb n="607"/>
+          <pb n="608"/>
           <sp who="#bolingbroke">
             <speaker>BOLINGBROKE.</speaker>
             <lg>
@@ -1447,7 +1452,7 @@
               <l>Durch Seefahrt kommt er um und nimmt sein Ende.</l>
               <l>Was wird dem Herzog Somerset begegnen?</l>
               <l>Er meide Burgen.</l>
-              <pb n="608"/>
+              <pb n="609"/>
               <l>Viel sichrer wird er sein auf sand'ger Ebne,</l>
               <l>Als wo Burgen stehn getürmt.«</l>
               <l>Kommt, kommt, ihr Herrn!</l>
@@ -1478,7 +1483,7 @@
           </sp>
         </div>
       </div>
-      <pb n="609"/>
+      <pb n="610"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1544,7 +1549,7 @@
               <l>Der Land und König gleisnerisch berückt!</l>
             </lg>
           </sp>
-          <pb n="610"/>
+          <pb n="611"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -1662,7 +1667,7 @@
               <l>Sonst gilt mein Fechten nichts.</l>
             </lg>
           </sp>
-          <pb n="611"/>
+          <pb n="612"/>
           <sp who="#kardinal">
             <speaker>KARDINAL</speaker>
             <stage>beiseit.</stage>
@@ -1768,7 +1773,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Was ist denn dein Geburtsort?</l>
           </sp>
-          <pb n="612"/>
+          <pb n="613"/>
           <sp who="#simpcox">
             <speaker>SIMPCOX.</speaker>
             <l>Berwick im Norden Herr, mit Eurer Gunst.</l>
@@ -1899,7 +1904,7 @@
             <speaker>FRAU.</speaker>
             <l>Niemals vor heute, all sein Lebenlang.</l>
           </sp>
-          <pb n="613"/>
+          <pb n="614"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <l>Sag mir, Kerl, wie ist mein Name?</l>
@@ -1991,7 +1996,7 @@
             <speaker>BÜTTEL.</speaker>
             <p>Das will ich, gnädiger Herr. – Komm, Kerl, geschwind mit deinem Wams herunter!</p>
           </sp>
-          <pb n="614"/>
+          <pb n="615"/>
           <sp who="#simpcox">
             <speaker>SIMPCOX.</speaker>
             <p>Ach, Herr, was soll ich tun? Ich bin nicht imstande zu stehen. <stage>Nachdem ihn der
@@ -2073,7 +2078,7 @@
             <lg>
               <l>Ehrgeiz'ger Pfaff'! Laß ab, mein Herz zu kränken:</l>
               <l>All meine Kraft hat Gram und Leid bewältigt;</l>
-              <pb n="615"/>
+              <pb n="616"/>
               <l>Und wie ich bin bewältigt, weich' ich dir</l>
               <l>Und dem geringsten Knecht.</l>
             </lg>
@@ -2145,7 +2150,7 @@
               <l>So kannst du schalten mit der Nevils Dienst.</l>
             </lg>
           </sp>
-          <pb n="616"/>
+          <pb n="617"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -2212,7 +2217,7 @@
               <l>Doch weiter!</l>
             </lg>
           </sp>
-          <pb n="617"/>
+          <pb n="618"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -2277,7 +2282,7 @@
               <l>Macht Herzog York zum König eines Tags.</l>
             </lg>
           </sp>
-          <pb n="618"/>
+          <pb n="619"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -2335,7 +2340,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <lg>
               <l>Halt, Humphrey, Herzog Gloster! Eh' du gehst,</l>
-              <pb n="619"/>
+              <pb n="620"/>
               <l>Gib deinen Stab mir: Heinrich will sich selbst</l>
               <l>Protektor sein; und Gott sei meine Hoffnung,</l>
               <l>Mein Schutz, mein Hort und meiner Füße Leuchte!</l>
@@ -2415,7 +2420,7 @@
               <l>Den Burschen dieses Waffenschmieds, Mylords.</l>
             </lg>
             <stage>Von der einen Seite kommt Horner mit seinen Nachbarn, die ihm so viel zutrinken,
-              daß er betrunken ist; er trägt eine Stange mit einem daran <pb n="620"/> befestigten
+              daß er betrunken ist; er trägt eine Stange mit einem daran <pb n="621"/> befestigten
               Sandbeutel, und eine Trommel geht vor ihm her; von der andern Seite Peter mit einer
               Trommel und eben solcher Stange, begleitet von Lehrburschen, die ihm
               zutrinken.</stage>
@@ -2483,7 +2488,7 @@
             <p>Leute, ich bin so zu sagen auf Verlangen meines Gesellen hergekommen, um zu beweisen,
               daß er ein Hundsfott ist und ich ein ehrlicher Mann; und was den Herzog von York
               anbetrifft, so will ich darauf sterben, daß ich niemals was wider ihn im Sinne gehabt
-              habe, und gegen den König und <pb n="621"/> die Königin auch nicht. Und also sieh dich
+              habe, und gegen den König und <pb n="622"/> die Königin auch nicht. Und also sieh dich
               vor, Peter, ich will tüchtig ausholen.</p>
           </sp>
           <sp who="#york">
@@ -2550,7 +2555,7 @@
               <l>Fast schwer mag sie die stein'gen Straßen dulden,</l>
               <l>Mit zartgefühl'gem Fuß sie zu betreten.</l>
               <l>Herz-Lene! Schlecht erträgt dein edler Mut</l>
-              <pb n="622"/>
+              <pb n="623"/>
               <l>Verworfnes Volk, das ins Gesicht dir gafft,</l>
               <l>Mit häm'schen Blicken lachend deiner Schmach,</l>
               <l>Das sonst den stolzen Wagenrädern folgte,</l>
@@ -2612,7 +2617,7 @@
               <l>Und Denken meines Pomps sei meine Hölle.</l>
               <l>Dann sag ich: Ich bin Herzog Humphreys Weib,</l>
               <l>Und er ein Prinz und ein Regent des Lands;</l>
-              <pb n="623"/>
+              <pb n="624"/>
               <l>Doch so regiert' er und war solch ein Prinz,</l>
               <l>Daß er dabei stand, während ich Hülflose</l>
               <l>Zum Wunder ward gemacht und zum Gespött</l>
@@ -2668,7 +2673,7 @@
             <speaker>SHERIFF.</speaker>
             <lg>
               <l>Mein Auftrag ist hier aus, beliebt's Eu'r Gnaden;</l>
-              <pb n="624"/>
+              <pb n="625"/>
               <l>Und Sir John Stanley ist nunmehr bestallt,</l>
               <l>Sie mitzunehmen nach der Insel Man.</l>
             </lg>
@@ -2769,7 +2774,7 @@
           </sp>
         </div>
       </div>
-      <pb n="625"/>
+      <pb n="626"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2809,7 +2814,7 @@
               <l>Und, wenn Ihr fallt, der nächste wär' zum Steigen.</l>
               <l>Drum, deucht mir, ist es keine Politik,</l>
               <l>Erwogen, welchen Groll er trägt im Herzen,</l>
-              <pb n="626"/>
+              <pb n="627"/>
               <l>Und daß sein Vorteil Eurem Hintritt folgt,</l>
               <l>Daß er zu Eurer fürstlichen Person</l>
               <l>Und Euer Hoheit Rat den Zutritt habe.</l>
@@ -2863,7 +2868,7 @@
             <lg>
               <l>Und hob er nicht in der Protektorschaft</l>
               <l>Im Reiche große Summen Gelds für Sold</l>
-              <pb n="627"/>
+              <pb n="628"/>
               <l>Des Heers in Frankreich, den er niemals sandte,</l>
               <l>Weshalb die Städte täglich sich empörten?</l>
             </lg>
@@ -2938,7 +2943,7 @@
             </lg>
             <stage>Gloster tritt auf.</stage>
           </sp>
-          <pb n="628"/>
+          <pb n="629"/>
           <sp who="#gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
@@ -3016,7 +3021,7 @@
               <l>War's nicht ein blut'ger Mörder oder Dieb,</l>
               <l>Der tückisch arme Reisende geplündert,</l>
               <l>So gab ich niemals die verwirkte Strafe.</l>
-              <pb n="629"/>
+              <pb n="630"/>
               <l>Mord zwar, die blut'ge Sünde, martert' ich</l>
               <l>Noch über Diebstahl oder was auch sonst.</l>
             </lg>
@@ -3070,7 +3075,7 @@
               <l>Ich wußte selbst von euren Konventikeln, –</l>
               <l>Und bloß, mein schuldlos Leben wegzuschaffen.</l>
               <l>Mich zu verdammen gibt's wohl falsche Zeugen,</l>
-              <pb n="630"/>
+              <pb n="631"/>
               <l>Und Haufen von Verrat, die Schuld zu mehren;</l>
               <l>Das alte Sprichwort wird bewährt sich zeigen:</l>
               <l>Einen Hund zu schlagen, find't sich bald ein Stock.</l>
@@ -3152,7 +3157,7 @@
               <l>Ach, Oheim Humphrey! Dein Gesicht enthält</l>
               <l>Den Abriß aller Ehr' und Biederkeit,</l>
               <l>Und noch, du Guter, soll die Stunde kommen,</l>
-              <pb n="631"/>
+              <pb n="632"/>
               <l>Wo ich dich falsch erprobt und dir mißtraut.</l>
               <l>Welch finstrer Stern beneidet jetzt dein Glück,</l>
               <l>Daß diese großen Lords und mein Gemahl</l>
@@ -3209,7 +3214,7 @@
               <l>Mehr als Verdacht, des Tods ihn wert zu zeigen.</l>
             </lg>
           </sp>
-          <pb n="632"/>
+          <pb n="633"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <l>Demnach begehrt Ihr seinen Tod nicht sehr.</l>
@@ -3281,7 +3286,7 @@
             <speaker>SUFFOLK.</speaker>
             <l>Hier meine Hand, die Tat ist tuenswert.</l>
           </sp>
-          <pb n="633"/>
+          <pb n="634"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Das sag' auch ich.</l>
@@ -3364,7 +3369,7 @@
               <l>Die rohen Kerns von Irland sind in Waffen</l>
               <l>Und feuchten Leim mit Blut der Englischen.</l>
               <l>Wollt Ihr nach Irland führen eine Schar</l>
-              <pb n="634"/>
+              <pb n="635"/>
               <l>Erlesne Leut', aus jeder Grafschaft ein'ge,</l>
               <l>Und Euer Glück im ir'schen Krieg versuchen?</l>
             </lg>
@@ -3437,7 +3442,7 @@
               <l>Ich brauchte Menschen, und ihr gebt sie mir.</l>
               <l>Das nehm' ich gut: doch seid gewiß, ihr gebt</l>
               <l>In eines Tollen Hände scharfe Waffen.</l>
-              <pb n="635"/>
+              <pb n="636"/>
               <l>Weil ich ein mächtig Heer in Irland nähre,</l>
               <l>Will ich in England starken Sturm erregen,</l>
               <l>Der an zehntausend Seelen schleudern soll</l>
@@ -3478,7 +3483,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="636"/>
+        <pb n="637"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Bury. Ein Zimmer im Palast.</stage>
@@ -3561,7 +3566,7 @@
               <l>Gott gebe, daß er von Verdacht sich löst!</l>
             </lg>
           </sp>
-          <pb n="637"/>
+          <pb n="638"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Margreta, habe Dank! Dies Wort erfreut mich sehr –</l>
@@ -3634,7 +3639,7 @@
               <l>Sieh mich nicht an! Dein Auge blickt verwundend. –</l>
               <l>Und dennoch, geh nicht weg! Komm, Basilisk,</l>
               <l>Und töte den unschuldigen Betrachter!</l>
-              <pb n="638"/>
+              <pb n="639"/>
               <l>Denn in des Todes Schatten find' ich Lust,</l>
               <l>Im Leben zwiefach Tod, da Gloster hin.</l>
             </lg>
@@ -3685,7 +3690,7 @@
               <l>Was tat ich, als den milden Stürmen fluchen</l>
               <l>Und dem, der sie aus eh'rner Höhle ließ</l>
               <l>Und hieß sie wehn nach Englands Segensstrand,</l>
-              <pb n="639"/>
+              <pb n="640"/>
               <l>Wo nicht, auf starren Fels das Steuer treiben?</l>
               <l>Doch wollte Aeolus Kein Mörder sein,</l>
               <l>Dir überließ er das verhaßte Amt.</l>
@@ -3728,7 +3733,7 @@
               <l>Es will verlauten, mächt'ger Oberherr,</l>
               <l>Der gute Herzog Humphrey sei von Suffolk</l>
               <l>Und Kardinal Beaufort meuchlerisch ermordet.</l>
-              <pb n="640"/>
+              <pb n="641"/>
               <l>Das Volk, wie ein erzürnter Bienenschwarm,</l>
               <l>Der seinen Führer mißt, schweift hin und her</l>
               <l>Und fragt nicht, wen es sticht in seiner Wut.</l>
@@ -3790,7 +3795,7 @@
             <lg>
               <l>So sicher meine Seele hofft zu leben,</l>
               <l>Bei jenem furchtbar'n König, der auf sich</l>
-              <pb n="641"/>
+              <pb n="642"/>
               <l>Den Stand der Menschen nahm, uns zu befrein</l>
               <l>Von dem ergrimmten Fluche seines Vaters,</l>
               <l>Glaub' ich, es ward gewaltsam Hand gelegt</l>
@@ -3858,7 +3863,7 @@
               <l>Wer findet tot das Rind und frisch noch blutend,</l>
               <l>Sieht dicht dabei den Metzger mit dem Beil</l>
               <l>Und argwöhnt nicht, daß der es abgeschlachtet?</l>
-              <pb n="642"/>
+              <pb n="643"/>
               <l>Wer find't das Rebhuhn in des Habichts Nest,</l>
               <l>Der sich nicht vorstellt, wie der Vogel starb,</l>
               <l>Fliegt schon der Geier mit unblut'gem Schnabel?</l>
@@ -3928,7 +3933,7 @@
               <l>Verzeihung bitten und dich sagen lassen,</l>
               <l>Du habest deine Mutter nur gemeint</l>
               <l>Und seist nach Bastardweise selbst erzeugt;</l>
-              <pb n="643"/>
+              <pb n="644"/>
               <l>Und, nach der ganzen Huldigung aus Furcht,</l>
               <l>Gäb' ich den Sold dir, schickte dich zur Hölle,</l>
               <l>Blutsauger, der die Schlafenden vertilgt!</l>
@@ -3996,7 +4001,7 @@
               <l>Sie fürchten Euer Hoheit Tod von ihm,</l>
               <l>Und bloßer Trieb der Lieb' und treuen Eifers,</l>
               <l>Von frecher, widerspenst'ger Absicht frei,</l>
-              <pb n="644"/>
+              <pb n="645"/>
               <l>Als wollten Eurem Wunsch sie widersprechen,</l>
               <l>Geb' ihnen ein die Fod'rung seines Banns.</l>
               <l>Sie sagen, für Eu'r hohes Wohl besorgt:</l>
@@ -4055,7 +4060,7 @@
             </lg>
             <stage>Salisbury ab.</stage>
           </sp>
-          <pb n="645"/>
+          <pb n="646"/>
           <sp who="#koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>O laß mich für den holden Suffolk reden!</l>
@@ -4119,7 +4124,7 @@
               <l>Gall', und was bittrer noch, ihr Leckerbissen!</l>
               <l>Ihr bester Schatten ein Zypressenwald!</l>
               <l>Ihr schönster Anblick grimme Basilisken!</l>
-              <pb n="646"/>
+              <pb n="647"/>
               <l>Eidechsenstich' ihr sanftestes Berühren!</l>
               <l>Sei ihr Konzert wie Schlangenzischen gräßlich,</l>
               <l>Und fall' ein Chor von Unglückseulen ein!</l>
@@ -4181,7 +4186,7 @@
               <l>Volkreich genug ist eine Wüstenei,</l>
               <l>Hat Suffolk deine himmlische Gesellschaft.</l>
               <l>Denn wo du bist, da ist die Welt ja selbst.</l>
-              <pb n="647"/>
+              <pb n="648"/>
               <l>Mit all und jeden Freunde in der Welt,</l>
               <l>Und wo du nicht bist, hoffnungslose Öde.</l>
               <l>Ich kann nicht weiter: leb' du froh des Lebens,</l>
@@ -4236,7 +4241,7 @@
               <l>Da, fern von dir, ich rasend toben würde</l>
               <l>Und nach dir schrein, mein Auge zuzudrücken,</l>
               <l>Mit deinen Lippen meinen Mund zu schließen:</l>
-              <pb n="648"/>
+              <pb n="649"/>
               <l>So hieltest du die flieh'nde Seel' entweder,</l>
               <l>Wo nicht, so haucht' ich sie in deinen Leib,</l>
               <l>Da lebte dann sie in Elysium.</l>
@@ -4314,7 +4319,7 @@
               <l>Kann ich zum Leben einen Menschen zwingen? –</l>
               <l>Oh, foltert mich nicht mehr! Ich will bekennen. –</l>
               <l>Nochmal lebendig? Zeigt mir, wo er ist,</l>
-              <pb n="649"/>
+              <pb n="650"/>
               <l>Ich gebe tausend Pfund, um ihn zu sehn. –</l>
               <l>Er hat keine Augen, sie sind blind vom Staub. –</l>
               <l>Kämmt nieder doch sein Haar: seht! seht! es starrt,</l>
@@ -4365,7 +4370,7 @@
           </sp>
         </div>
       </div>
-      <pb n="650"/>
+      <pb n="651"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4416,7 +4421,7 @@
               <l>Wiegt solche kleine Summe längst nicht auf.</l>
             </lg>
           </sp>
-          <pb n="651"/>
+          <pb n="652"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ich zahl' sie, Herr, und also schont mein Leben.</l>
@@ -4502,7 +4507,7 @@
               <l>Gemeiner Bauer! König Heinrichs Blut,</l>
               <l>Das ehrenwerte Blut von Lancaster,</l>
               <l>Darf nicht vergießen solch ein Knecht vom Stall.</l>
-              <pb n="652"/>
+              <pb n="653"/>
               <l>Gabst du nicht Kußhand, hieltest meinen Bügel,</l>
               <l>Liefst neben meinem Saumtier unbedeckt</l>
               <l>Und hieltest dich beglückt, wenn ich dir nickte?</l>
@@ -4568,7 +4573,7 @@
               <l>Du wurdest groß durch Teufels-Politik</l>
               <l>Und, wie der kühne Sylla, überfüllt</l>
               <l>Mit Zügen Bluts aus deiner Mutter Herzen.</l>
-              <pb n="653"/>
+              <pb n="654"/>
               <l>Anjou und Maine ward durch dich verkauft;</l>
               <l>Durch dich verschmähn abtrünnige Normannen</l>
               <l>Uns Herrn zu nennen; und die Pikardie</l>
@@ -4626,7 +4631,7 @@
               <l>Wie, bist du nun verzagt? Willst nun dich beugen?</l>
             </lg>
           </sp>
-          <pb n="654"/>
+          <pb n="655"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Mein gnäd'ger Lord, gebt ihm doch gute Worte!</l>
@@ -4693,7 +4698,7 @@
             <stage>Ab mit der Leiche.</stage>
           </sp>
         </div>
-        <pb n="655"/>
+        <pb n="656"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Blackheath. Georg Bevis und Johann Holland treten auf.</stage>
@@ -4770,7 +4775,7 @@
             <stage>Trommeln. Cade, Märten der Metzger, Smith der Leinweber und andre in großer
               Anzahl kommen.</stage>
           </sp>
-          <pb n="656"/>
+          <pb n="657"/>
           <sp who="#cade">
             <speaker>CADE.</speaker>
             <p>Wir, Johann Cade, von unserm vermeintlichen Vater so benannt, denn unsre Feinde
@@ -4863,7 +4868,7 @@
             <p>Seid also brav, denn euer Anführer ist brav und gelobt euch Abstellung der
               Mißbräuche. Sieben Sechser-Brote sollen künftig in England für einen Groschen verkauft
               werden; die dreireifige Kanne soll zehn Reifen halten, und ich will es für ein
-              Hauptverbrechen erklären, Dünnbier zu trinken. <pb n="657"/> Das ganze Reich sollen
+              Hauptverbrechen erklären, Dünnbier zu trinken. <pb n="658"/> Das ganze Reich sollen
               alle in gemein haben; in Cheapside geht euch mein Klepper auf die Weide. Und wenn ich
               König bin, – wie ich es denn bald sein werde, –</p>
           </sp>
@@ -4934,7 +4939,7 @@
             <p>Das pflegen sie an die Spitze der offenen Sendschreiben zu setzen. – Es wird Euch
               schlimm ergehn.</p>
           </sp>
-          <pb n="658"/>
+          <pb n="659"/>
           <sp who="#cade">
             <speaker>CADE.</speaker>
             <p>Laßt mich allein machen. Pflegst du deinen Namen auszuschreiben, oder hast du ein
@@ -5008,7 +5013,7 @@
               <l>Da ich des Throns rechtmäß'ger Erbe bin.</l>
             </lg>
           </sp>
-          <pb n="659"/>
+          <pb n="660"/>
           <sp who="#stafford">
             <speaker>STAFFORD.</speaker>
             <lg>
@@ -5098,7 +5103,7 @@
               Say hat das gemeine Wesen verschnitten und zum Eunuchen gemacht; und was mehr ist, so
               kann er französisch sprechen, und also ist er ein Verräter!</p>
           </sp>
-          <pb n="660"/>
+          <pb n="661"/>
           <sp who="#stafford">
             <speaker>STAFFORD.</speaker>
             <p>O grobe, klägliche Unwissenheit!</p>
@@ -5171,7 +5176,7 @@
             <speaker>CADE.</speaker>
             <p>Sie fielen vor dir wie Schafe und Ochsen, und du tatest, als wenn du in deinem
               eigenen Schlachthause wärest; deshalb will ich dich folgendermaßen belohnen: die
-              Fasten sollen <pb n="661"/> noch einmal so lang sein, und du sollst eine Konzession
+              Fasten sollen <pb n="662"/> noch einmal so lang sein, und du sollst eine Konzession
               haben, für hundert weniger einen zu schlachten.</p>
           </sp>
           <sp who="#maerten">
@@ -5231,7 +5236,7 @@
             <lg>
               <l>Ah, die Barbaren! Hat dies holde Antlitz</l>
               <l>Mich wie ein wandelnder Planet beherrscht?</l>
-              <pb n="662"/>
+              <pb n="663"/>
               <l>Und konnt' es nicht die nöt'gen, einzuhalten,</l>
               <l>Die nicht verdienten, nur es anzuschaun?</l>
             </lg>
@@ -5319,7 +5324,7 @@
             </lg>
             <stage>Ein andrer Bote tritt auf.</stage>
           </sp>
-          <pb n="663"/>
+          <pb n="664"/>
           <sp who="#zweiter_bote">
             <speaker>ZWEITER BOTE.</speaker>
             <lg>
@@ -5389,7 +5394,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="664"/>
+        <pb n="665"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>Die Kanonenstraße.</stage>
@@ -5444,7 +5449,7 @@
             <speaker>MÄRTEN.</speaker>
             <p>Ich habe ein Gesuch an Eure Herrlichkeit.</p>
           </sp>
-          <pb n="665"/>
+          <pb n="666"/>
           <sp who="#cade">
             <speaker>CADE.</speaker>
             <p>Und wär' es eine Herrlichkeit, für das Wort soll's dir gewährt sein.</p>
@@ -5500,7 +5505,7 @@
               indem du eine lateinische Schule errichtet; und da zuvor unsere Voreltern keine andern
               Bücher hatten als die Kreide und das Kerbholz, so hast du das Drucken aufgebracht, und
               hast zum Nachteil des Königs, seiner Krone und Würde, eine Papiermühle gebaut. Es wird
-              dir ins Gesicht bewiesen werden, daß du Leute um dich hast, die <pb n="666"/> zu reden
+              dir ins Gesicht bewiesen werden, daß du Leute um dich hast, die <pb n="667"/> zu reden
               pflegen von Nomen und Verbum und dergleichen scheußliche Worte mehr, die kein
               Christenohr geduldig anhören kann. Du hast Friedensrichter angestellt, daß sie arme
               Leute vor sich rufen über Dinge, worauf sie nicht im stande sind zu antworten. Du hast
@@ -5564,7 +5569,7 @@
               <l>Für euch gesprochen, –</l>
             </lg>
           </sp>
-          <pb n="667"/>
+          <pb n="668"/>
           <sp who="#cade">
             <speaker>CADE.</speaker>
             <p>Pah! Wann hast du irgendeinen Streich im Felde geführt?</p>
@@ -5646,7 +5651,7 @@
             <lg>
               <l>Ach, Landesleute! Wenn bei euren Bitten</l>
               <l>Gott so verhärtet wäre wie ihr selbst,</l>
-              <pb n="668"/>
+              <pb n="669"/>
               <l>Wie ging' es euren abgeschiednen Seelen?</l>
               <l>Darum erweicht euch noch und schont mein Leben!</l>
             </lg>
@@ -5696,7 +5701,7 @@
             <p>Die Fischerstraße herauf! Die Sankt-Magnus-Ecke hinunter! Totgeschlagen! In die
               Themse geworfen!</p>
             <stage>Es wird zur Unterhandlung geblasen, hierauf zum Rückzug.</stage>
-            <pb n="669"/>
+            <pb n="670"/>
             <p>Was für einen Lärm hör' ich? Wer darf so verwegen sein, zum Rückzug oder zur
               Unterhandlung zu blasen, wenn ich sie alles totschlagen heiße?</p>
             <stage>Buckingham und der alte Clifford treten auf mit Truppen.</stage>
@@ -5751,7 +5756,7 @@
               <l>Daß ihr so ausruft, ihr wollt mit ihm gehn?</l>
               <l>Führt er euch wohl in Frankreichs Herz und macht</l>
               <l>Den kleinsten unter euch zum Graf und Herzog?</l>
-              <pb n="670"/>
+              <pb n="671"/>
               <l>Ach, er hat keine Heimat, keine Zuflucht,</l>
               <l>Und kann nicht anders leben als durch Plünd'rung,</l>
               <l>Indem er eure Freund' und uns beraubt.</l>
@@ -5800,7 +5805,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="671"/>
+        <pb n="672"/>
         <div type="scene">
           <head>Neunte Szene</head>
           <stage>Die Burg zu Kenelworth.</stage>
@@ -5863,7 +5868,7 @@
             <lg>
               <l>Vergönnen mir Eu'r Gnaden, zu berichten,</l>
               <l>Daß Herzog York von Irland jüngst gekommen</l>
-              <pb n="672"/>
+              <pb n="673"/>
               <l>Und mit gewalt'ger, starker Heeresmacht</l>
               <l>Von Galloglassen und von derben Kerns</l>
               <l>Hieher ist auf dem Marsch mit stolzem Zug;</l>
@@ -5927,7 +5932,7 @@
             <p>Pfui über den Ehrgeiz! Pfui über mich selbst, der ich ein Schwert habe und doch auf
               dem Punkte bin, Hungers zu sterben! Diese fünf Tage habe ich mich in diesen Wäldern
               versteckt und wagte nicht, mich blicken zu lassen, weil mir das ganze Land auflauert:
-              aber jetzt bin ich so hungrig, daß <pb n="673"/> ich nicht länger warten könnte, und
+              aber jetzt bin ich so hungrig, daß <pb n="674"/> ich nicht länger warten könnte, und
               wenn ich mein Leben auf tausend Jahre dafür in Pacht bekäme. Ich bin also über die
               Mauer in diesen Garten geklettert, um zu sehen, ob ich Gras essen oder mir wieder
               einen Salat pflücken kann, was einem bei der Hitze den Magen recht gut kühlt.</p>
@@ -5977,7 +5982,7 @@
             <lg>
               <l>Nein, solang' England lebt, soll man nicht sagen,</l>
               <l>Daß Alexander Iden, ein Esquire von Kent,</l>
-              <pb n="674"/>
+              <pb n="675"/>
               <l>Mit einem Hungerleider ungleich kämpfte.</l>
               <l>Dein starrend Auge setze gegen meins,</l>
               <l>Sieh, ob du mich mit Blicken übermeisterst.</l>
@@ -6028,7 +6033,7 @@
             <lg>
               <l>Wie du zu nah mir tust, sei Gott mein Zeuge!</l>
               <l>Stirb, deren Fluch, die dich gebar, Verruchter!</l>
-              <pb n="675"/>
+              <pb n="676"/>
               <l>Und wie mein Schwert dir deinen Leib durchstieß,</l>
               <l>So stieß' ich gern zur Hölle deine Seele.</l>
               <l>Ich schleife häuptlings fort dich an den Fersen</l>
@@ -6041,7 +6046,7 @@
           </sp>
         </div>
       </div>
-      <pb n="676"/>
+      <pb n="677"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -6092,7 +6097,7 @@
               <l>Und es so nah dem Hof zu führen wagst?</l>
             </lg>
           </sp>
-          <pb n="677"/>
+          <pb n="678"/>
           <sp who="#york">
             <speaker>YORK</speaker>
             <stage>beiseit.</stage>
@@ -6161,7 +6166,7 @@
               <l>Daß du mit ihm einhergehst Arm in Arm?</l>
             </lg>
           </sp>
-          <pb n="678"/>
+          <pb n="679"/>
           <sp who="#york">
             <speaker>YORK.</speaker>
             <lg>
@@ -6260,7 +6265,7 @@
               <l>Was soll dies sein? Ist Somerset in Freiheit?</l>
               <l>Dann, York, entfeßle die Gedanken endlich</l>
               <l>Und laß die Zung' es gleich tun deinem Herzen!</l>
-              <pb n="679"/>
+              <pb n="680"/>
               <l>Soll ich den Anblick Somersets ertragen?</l>
               <l>Was brachst du, falscher König, mir dein Wort,</l>
               <l>Da du doch weißt, wie schwer ich Kränkung dulde?</l>
@@ -6319,7 +6324,7 @@
               <l>Die meiner Buben Bürgschaft weigern wollen!</l>
               <stage>Von der einen Seite kommen Eduard und Richard Plantagenet mit Truppen; von der
                 andern, gleichfalls mit Truppen, der alte Clifford und sein Sohn.</stage>
-              <pb n="680"/>
+              <pb n="681"/>
               <l>Da sind sie: seht! Ich steh' euch ein, sie tun's.</l>
             </lg>
           </sp>
@@ -6414,7 +6419,7 @@
               <l>Weil man ihn hielt, zurück sich drehn und beißen,</l>
               <l>Der, ließ man nun ihn an des Bären Tatze,</l>
               <l>Den Schwanz nahm zwischen seine Bein' und schrie:</l>
-              <pb n="681"/>
+              <pb n="682"/>
               <l>Dergleichen Dienste werdet Ihr verrichten,</l>
               <l>Wenn Ihr Euch mit Lord Warwick messen wollt.</l>
             </lg>
@@ -6492,7 +6497,7 @@
             <speaker>KÖNIGIN.</speaker>
             <l>Verräterlist bedarf Sophisten nicht.</l>
           </sp>
-          <pb n="682"/>
+          <pb n="683"/>
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Ruft Buckingham und heißt ihn sich bewaffnen.</l>
@@ -6579,7 +6584,7 @@
               <l>Jetzt, da die zornige Trompete schmettert</l>
               <l>Und Sterbender Geschrei die Luft erfüllt,</l>
               <l>So sag' ich: Clifford, komm und ficht mit mir!</l>
-              <pb n="683"/>
+              <pb n="684"/>
               <l>Du stolzer nord'scher Lord von Cumberland,</l>
               <l>Warwick hat heiser sich an dir gerufen!</l>
             </lg>
@@ -6673,7 +6678,7 @@
               <l>Gebraucht zum Werkzeug von des Himmels Zorn!</l>
               <l>Wirf in die frost'gen Busen unsers Volks</l>
               <l>Der Rache heiße Kohlen! – Keiner fliehe:</l>
-              <pb n="684"/>
+              <pb n="685"/>
               <l>Wer wahrhaft sich dem Krieg gewidmet, hat</l>
               <l>Selbstliebe nicht, und wer sich selbst noch liebt,</l>
               <l>Führt nicht dem Wesen nach, zufällig nur,</l>
@@ -6722,7 +6727,7 @@
               <l>Denn unter einer Schenke dürft'gem Schild,</l>
               <l>Der Burg Sankt Albans, machte Somerset</l>
               <l>Die Zauberin durch seinen Tod berühmt.</l>
-              <pb n="685"/>
+              <pb n="686"/>
               <l>Schwert, bleib' gestählt! Dein Grimm ist, Herz, vonnöten!</l>
               <l>Für Feinde beten Priester, Prinzen töten.</l>
             </lg>
@@ -6781,7 +6786,7 @@
             <lg>
               <l>Vom Salisbury, wer meldet mir von ihm,</l>
               <l>Dem Winterlöwen, der vor Wut vergißt</l>
-              <pb n="686"/>
+              <pb n="687"/>
               <l>Verjährte Lähmung und den Rost der Zeit.</l>
               <l>Und, wie ein Braver in der Jugend Glanz,</l>
               <l>Vom Anlaß Kraft leiht? Dieser frohe Tag</l>

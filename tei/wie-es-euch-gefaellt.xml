@@ -82,6 +82,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="639"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -95,25 +96,25 @@
         <castItem>Der Herzog, in der Verbannung</castItem>
         <castItem>Friedrich, Bruder des Herzogs und Usurpator seines Gebiets</castItem>
         <castGroup>
-          <castItem>Amiens,</castItem>
-          <castItem>Jaques,</castItem>
+          <castItem>Amiens</castItem>
+          <castItem>Jaques</castItem>
           <roleDesc>Edelleute, die den Herzog in der Verbannung begleiten</roleDesc>
         </castGroup>
         <castItem>Le Beau, ein Hofmann in Friedrichs Diensten</castItem>
         <castItem>Charles, Friedrichs Ringer</castItem>
         <castGroup>
-          <castItem>Oliver,</castItem>
-          <castItem>Jakob,</castItem>
-          <castItem>Orlando,</castItem>
+          <castItem>Oliver</castItem>
+          <castItem>Jakob</castItem>
+          <castItem>Orlando</castItem>
           <roleDesc>Söhne des Freiherrn Roland de Boys</roleDesc>
         </castGroup>
-        <castItem>Adam,</castItem>
+        <castItem>Adam</castItem>
         <castItem>Dennis, Bediente Olivers</castItem>
         <castItem>Probstein, der Narr</castItem>
         <castItem>Ehrn Olivarius Textdreher, ein Pfarrer</castItem>
         <castGroup>
-          <castItem>Corinnus,</castItem>
-          <castItem>Silvius,</castItem>
+          <castItem>Corinnus</castItem>
+          <castItem>Silvius</castItem>
           <roleDesc>Schäfer</roleDesc>
         </castGroup>
         <castItem>Wilhelm, ein Bauernbursche, in Käthchen verliebt</castItem>
@@ -122,8 +123,7 @@
         <castItem>Celia, Friedrichs Tochter</castItem>
         <castItem>Phoebe, eine Schäferin</castItem>
         <castItem>Käthchen, ein Bauernmädchen</castItem>
-        <castItem>Edelleute der beiden Herzoge, Pagen,</castItem>
-        <castItem>Jäger und andres Gefolge</castItem>
+        <castItem>Edelleute der beiden Herzoge, Pagen, Jäger und andres Gefolge</castItem>
       </castList>
       <set>
         <p>Die Szene ist anfänglich bei Olivers Hause; nachher teils am Hofe des Usurpators, teils
@@ -131,7 +131,7 @@
       </set>
     </front>
     <body>
-      <pb n="640"/>
+      <pb n="641"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -161,7 +161,7 @@
           <sp who="#adam">
             <speaker>ADAM.</speaker>
             <p>Dort kommt mein Herr, Euer Bruder.</p>
-            <pb n="641"/>
+            <pb n="642"/>
             <stage>Oliver tritt auf.</stage>
           </sp>
           <sp who="#orlando">
@@ -235,7 +235,7 @@
               los, bis diese andre dir die Zunge für dies Wort ausgerissen hätte. Du hast dich
               selbst gelästert.</p>
           </sp>
-          <pb n="642"/>
+          <pb n="643"/>
           <sp who="#adam">
             <speaker>ADAM.</speaker>
             <p>Liebe Herren, seid ruhig! Um des Andenkens eures Vaters willen, seid einträchtig!</p>
@@ -300,7 +300,7 @@
             <l>Das wird eine gute Auskunft sein, und morgen ist der Wettkampf schon.</l>
             <stage>Charles kommt.</stage>
           </sp>
-          <pb n="643"/>
+          <pb n="644"/>
           <sp who="#charles">
             <speaker>CHARLES.</speaker>
             <p>Euer Gnaden guten Morgen!</p>
@@ -355,7 +355,7 @@
               zurückhaltet, oder nicht übel nehmt, was über ihn ergeht, weil er sich's doch selber
               zugezogen hat, und es ganz gegen meinen Willen geschieht.</p>
           </sp>
-          <pb n="644"/>
+          <pb n="645"/>
           <sp who="#oliver">
             <speaker>OLIVER.</speaker>
             <p>Charles, ich danke dir für deine Liebe zu mir, die ich freundlichst vergelten will,
@@ -393,7 +393,7 @@
             </p>
           </sp>
         </div>
-        <pb n="645"/>
+        <pb n="646"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Eine Esplanade vor des Herzogs Palast. Rosalinde und Celia treten auf.</stage>
@@ -448,7 +448,7 @@
             <p>Laß uns sitzen und die ehrliche Hausmutter Fortuna von ihrem Rade weglästern, damit
               ihre Gaben künftig gleicher ausgeteilt werden mögen.</p>
           </sp>
-          <pb n="646"/>
+          <pb n="647"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Ich wollte, wir könnten das: denn ihre Wohltaten sind oft gewaltig übel angebracht,
@@ -512,7 +512,7 @@
             <speaker>CELIA.</speaker>
             <p>Wie beweiset Ihr das in der Hülle und Fülle Eurer Gelahrtheit?</p>
           </sp>
-          <pb n="647"/>
+          <pb n="648"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Ei ja, nun nehmt Eurer Weisheit den Maulkorb ab!</p>
@@ -599,7 +599,7 @@
             <speaker>CELIA.</speaker>
             <p>Gut gesagt! Das war wie mit der Kelle angeworfen.</p>
           </sp>
-          <pb n="648"/>
+          <pb n="649"/>
           <sp who="#probstein">
             <speaker>PROBSTEIN.</speaker>
             <p>Ja, wenn ich meinen Geschmack nicht behaupte –</p>
@@ -683,7 +683,7 @@
             <p>Ihr müßt, wenn ihr hier bleibt; denn sie haben diesen Platz zum Kampfe gewählt: er
               wird gleich vor sich gehn.</p>
           </sp>
-          <pb n="649"/>
+          <pb n="650"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <p>Wirklich, dort kommen sie. Laß uns nun bleiben und zusehn!</p>
@@ -758,7 +758,7 @@
           </sp>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
-            <p>Tut das, junger Mann; Euer Ruf soll deswegen <pb n="650"/> nicht herabgesetzt werden.
+            <p>Tut das, junger Mann; Euer Ruf soll deswegen <pb n="651"/> nicht herabgesetzt werden.
               Es soll unser Gesuch beim Herzoge sein, daß das Ringen nicht vor sich gehe.</p>
           </sp>
           <sp who="#orlando">
@@ -826,7 +826,7 @@
             <p>Hätte ich einen Donnerkeil in meinen Augen, so weiß ich, wer zu Boden sollte.</p>
             <stage>Charles wird zu Boden geworfen. Jubelgeschrei.</stage>
           </sp>
-          <pb n="651"/>
+          <pb n="652"/>
           <sp who="#herzog_friedrich">
             <speaker>HERZOG FRIEDRICH.</speaker>
             <p>Nicht weiter! Nicht weiter!</p>
@@ -908,7 +908,7 @@
               <l>Nun, gehn wir, Muhme?</l>
             </lg>
           </sp>
-          <pb n="652"/>
+          <pb n="653"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <l>Ja. – Lebt wohl denn, edler Junker!</l>
@@ -984,7 +984,7 @@
               <l>Unwillen gegen seine holde Nichte,</l>
               <l>Der auf die Ursach' bloß gegründet ist,</l>
               <l>Daß sie die Welt um ihre Gaben preist,</l>
-              <pb n="653"/>
+              <pb n="654"/>
               <l>Und sie beklagt um ihres Vaters willen;</l>
               <l>Und auf mein Wort, sein Ingrimm auf das Fräulein</l>
               <l>Bricht einmal plötzlich los. – Lebt wohl, mein Herr:</l>
@@ -1052,7 +1052,7 @@
             <speaker>ROSALINDE.</speaker>
             <p>Das wollte ich wohl tun, wenn ich ihn herbei husten könnte.</p>
           </sp>
-          <pb n="654"/>
+          <pb n="655"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <p>Ei was, ringe mit deinen Neigungen!</p>
@@ -1133,7 +1133,7 @@
             <speaker>HERZOG FRIEDRICH.</speaker>
             <lg>
               <l>So sprechen stets Verräter:</l>
-              <pb n="655"/>
+              <pb n="656"/>
               <l>Beständ' in Worten ihre Reinigung,</l>
               <l>So sind sie schuldlos wie die Heiligkeit.</l>
               <l>Laß dir's genügen, daß ich dir nicht traue.</l>
@@ -1215,7 +1215,7 @@
             </lg>
             <stage>Herzog und Gefolge ab.</stage>
           </sp>
-          <pb n="656"/>
+          <pb n="657"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <lg>
@@ -1302,7 +1302,7 @@
             <speaker>ROSALINDE.</speaker>
             <lg>
               <l>Nicht schlechter als der Page Jupiters;</l>
-              <pb n="657"/>
+              <pb n="658"/>
               <l>Denk' also dran, mich Ganymed zu nennen!</l>
               <l>Doch wie willst du genannt sein?</l>
             </lg>
@@ -1337,7 +1337,7 @@
           </sp>
         </div>
       </div>
-      <pb n="658"/>
+      <pb n="659"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1384,7 +1384,7 @@
               <l>Die runden Hüften reißen.</l>
             </lg>
           </sp>
-          <pb n="659"/>
+          <pb n="660"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
@@ -1436,7 +1436,7 @@
               <l>Den Kern vom Lande, Stadt und Hof, ja selbst</l>
               <l>Von diesem unsern Leben; schwört, daß wir</l>
               <l>Nichts als Tyrannen, Räuber, Schlimmres noch,</l>
-              <pb n="660"/>
+              <pb n="661"/>
               <l>Weil wir die Tiere schrecken, ja sie töten,</l>
               <l>In ihrem eignen heimatlichen Sitz.</l>
             </lg>
@@ -1513,7 +1513,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="661"/>
+        <pb n="662"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Vor Olivers Hause.</stage>
@@ -1577,7 +1577,7 @@
               <l>Was? willst du, daß ich gehn und Brot soll betteln?</l>
               <l>Wohl gar mit schnödem, tollem Schwert erzwingen</l>
               <l>Auf offner Straße dieb'schen Unterhalt?</l>
-              <pb n="662"/>
+              <pb n="663"/>
               <l>Das muß ich tun, sonst weiß ich nichts zu tun,</l>
               <l>Doch will ich dies nicht, komme, was da will.</l>
               <l>Ich setze mich der Bosheit lieber aus</l>
@@ -1631,7 +1631,7 @@
               <l>Auf, Herr! und bis zum letzten Odemzug</l>
               <l>Folg' ich Euch nach, ergeben ohne Trug.</l>
               <l>Von siebzehn Jahren bis zu achtzig schier</l>
-              <pb n="663"/>
+              <pb n="664"/>
               <l>Wohnt' ich, nun wohn' ich ferner nicht mehr hier.</l>
               <l>Um siebzehn ziemt's, daß mit dem Glück man buhle,</l>
               <l>Doch achtzig ist zu alt für diese Schule.</l>
@@ -1703,7 +1703,7 @@
             <lg>
               <l>Nein, Freund, alt wie du bist, errätst du's nicht,</l>
               <l>Warst du auch jung ein so getreuer Schäfer,</l>
-              <pb n="664"/>
+              <pb n="665"/>
               <l>Als je aufs mitternächt'ge Kissen seufzte.</l>
               <l>Allein, wenn deine Liebe meiner glich –</l>
               <l>Zwar glaub' ich, keiner liebte jemals so –,</l>
@@ -1770,7 +1770,7 @@
             <speaker>PROBSTEIN.</speaker>
             <p>Nach meiner auch, aber sie versauert ein wenig bei mir.</p>
           </sp>
-          <pb n="665"/>
+          <pb n="666"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <lg>
@@ -1866,7 +1866,7 @@
             <speaker>CORINNUS.</speaker>
             <lg>
               <l>So viel ist sicher, dies ist zu Verkauf.</l>
-              <pb n="666"/>
+              <pb n="667"/>
               <l>Geht mit! Gefällt euch auf Erkundigung</l>
               <l>Der Boden, der Ertrag und dieses Leben,</l>
               <l>So will ich euer treuer Pfleger sein</l>
@@ -1931,7 +1931,7 @@
           <sp who="#jaques">
             <speaker>JAQUES.</speaker>
             <p>Gut, wenn ich mich jemals bei einem Menschen bedanke, so will ich's bei Euch; aber
-              was sie Komplimente <pb n="667"/> nennen, ist, als wenn sich zwei Maulaffen begegnen.
+              was sie Komplimente <pb n="668"/> nennen, ist, als wenn sich zwei Maulaffen begegnen.
               Und wenn sich jemand herzlich bei mir bedankt, so ist mir, als hätte ich ihm einen
               Pfennig gegeben, und er sagte Gotteslohn dafür. Kommt, singt, und wer nicht mag, halte
               sein Maul!</p>
@@ -1992,7 +1992,7 @@
           <sp who="#jaques">
             <speaker>JAQUES.</speaker>
             <p>Es ist eine griechische Beschwörung, um Narren in einen Kreis zu bannen. Ich will
-              gehn und schlafen, wenn ich <pb n="668"/> kann; kann ich nicht, so will ich auf alle
+              gehn und schlafen, wenn ich <pb n="669"/> kann; kann ich nicht, so will ich auf alle
               Erstgeburt in Ägypten lästern.</p>
           </sp>
           <sp who="#amiens">
@@ -2037,7 +2037,7 @@
               <l>Denn nirgends find' ich ihn in Mannsgestalt.</l>
             </lg>
           </sp>
-          <pb n="669"/>
+          <pb n="670"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
@@ -2103,7 +2103,7 @@
             <lg>
               <l>Ein würd'ger Narr! Er war ein Hofmann sonst,</l>
               <l>Und sagt, wenn Frauen jung und schön nur sind,</l>
-              <pb n="670"/>
+              <pb n="671"/>
               <l>So haben sie die Gabe, es zu wissen.</l>
               <l>In seinem Hirne, das so trocken ist</l>
               <l>Wie Überrest von Zwieback nach der Reise,</l>
@@ -2166,7 +2166,7 @@
               <l>Und klagt damit den einzelnen nur an?</l>
               <l>Schwillt seine Flut nicht mächtig wie die See,</l>
               <l>Bis daß die letzten, letzten Mittel ebben?</l>
-              <pb n="671"/>
+              <pb n="672"/>
               <l>Welch eine Bürgerfrau nenn' ich mit Namen,</l>
               <l>Wenn ich behaupt', es tragen Bürgerfrau'n</l>
               <l>Der Fürsten Aufwand auf unwürd'gen Schultern?</l>
@@ -2247,7 +2247,7 @@
             <lg>
               <l>Sprecht Ihr so liebreich? Oh, vergebt, ich bitte!</l>
               <l>Ich dachte, alles müßte wild hier sein,</l>
-              <pb n="672"/>
+              <pb n="673"/>
               <l>Und darum setzt' ich in die Fassung mich</l>
               <l>Des trotzigen Befehls. Wer ihr auch seid,</l>
               <l>Die ihr in dieser unzugangbar'n Wildnis,</l>
@@ -2313,7 +2313,7 @@
             <lg>
               <l>Die ganze Welt ist Bühne,</l>
               <l>Und alle Frau'n und Männer bloße Spieler.</l>
-              <pb n="673"/>
+              <pb n="674"/>
               <l>Sie treten auf und gehen wieder ab,</l>
               <l>Sein Leben lang spielt einer manche Rollen,</l>
               <l>Durch sieben Akte hin. Zuerst das Kind,</l>
@@ -2370,7 +2370,7 @@
               <l>Gebt uns Musik, und singt eins, guter Vetter!</l>
             </lg>
           </sp>
-          <pb n="674"/>
+          <pb n="675"/>
           <stage>Lied</stage>
           <sp who="#amiens">
             <speaker>AMIENS.</speaker>
@@ -2423,7 +2423,7 @@
           </sp>
         </div>
       </div>
-      <pb n="675"/>
+      <pb n="676"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2465,7 +2465,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="676"/>
+        <pb n="677"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Der Wald.</stage>
@@ -2511,7 +2511,7 @@
               der weder durch Natur noch Kunst zu Verstand gekommen wäre, sich über die Erziehung zu
               beklagen hätte, oder aus einer sehr dummen Sippschaft sein müßte.</p>
           </sp>
-          <pb n="677"/>
+          <pb n="678"/>
           <sp who="#probstein">
             <speaker>PROBSTEIN.</speaker>
             <p>So einer ist ein natürlicher Philosoph. Warst je am Hofe, Schäfer?</p>
@@ -2585,7 +2585,7 @@
               von den Weisen und erwäge! Bisam ist von schlechterer Abkunft als Teer, der unsaubre
               Abgang einer Katze. Einen bessern Beweis, Schäfer!</p>
           </sp>
-          <pb n="678"/>
+          <pb n="679"/>
           <sp who="#corinnus">
             <speaker>CORINNUS.</speaker>
             <p>Ihr habt einen zu höfischen Witz für mich; ich lasse es dabei bewenden.</p>
@@ -2642,7 +2642,7 @@
           <sp who="#probstein">
             <speaker>PROBSTEIN.</speaker>
             <p>Zur Probe:</p>
-            <pb n="679"/>
+            <pb n="680"/>
             <lg>
               <l>Sehnt der Hirsch sich nach den Hinden:</l>
               <l>Laßt ihn suchen Rosalinden.</l>
@@ -2698,7 +2698,7 @@
               <l>Aber an den schönsten Zweigen,</l>
               <l>Und an jedes Spruches End'</l>
               <l>Soll man Rosalinde lesen,</l>
-              <pb n="680"/>
+              <pb n="681"/>
               <l>Und verbreiten soll der Ruf,</l>
               <l>Daß der Himmel aller Wesen</l>
               <l>Höchsten Ausbund in ihr schuf.</l>
@@ -2760,7 +2760,7 @@
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Ich war schon sieben Tage in der Woche über alles Wundern hinaus: ehe du kamst: denn
-              sieh nur, was ich an <pb n="681"/> einem Palmbaum fand. Ich bin nicht so bereimt
+              sieh nur, was ich an <pb n="682"/> einem Palmbaum fand. Ich bin nicht so bereimt
               worden seit Pythagoras' Zeiten, wo ich eine Ratte war, die sie mit schlechten Versen
               vergaben, was ich mir kaum noch erinnern kann.</p>
           </sp>
@@ -2832,7 +2832,7 @@
               von seinem Bart schon abwarten, wenn du mir nur die Kenntnis von seinem Kinn nicht
               länger vorenthältst.</p>
           </sp>
-          <pb n="682"/>
+          <pb n="683"/>
           <sp who="#celia">
             <speaker>CELIA.</speaker>
             <p>Es ist der junge Orlando, der den Ringer und dein Herz in einem Augenblick zum Falle
@@ -2912,7 +2912,7 @@
             <speaker>CELIA.</speaker>
             <p>Ich möchte mein Lied ohne Chor singen: du bringst mich aus der Weise.</p>
           </sp>
-          <pb n="683"/>
+          <pb n="684"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Wißt Ihr nicht, daß ich ein Weib bin? Wenn ich denke, muß ich sprechen. Liebe, sag
@@ -3005,7 +3005,7 @@
             <speaker>JAQUES.</speaker>
             <p>Der ärgste Fehler, den Ihr habt, ist, verliebt zu sein.</p>
           </sp>
-          <pb n="684"/>
+          <pb n="685"/>
           <sp who="#orlando">
             <speaker>ORLANDO.</speaker>
             <p>Das ist ein Fehler, den ich nicht mit Eurer besten Tugend vertauschte. – Ich bin Euer
@@ -3080,7 +3080,7 @@
               Hochzeittage. Wenn auch nur acht Tage dazwischen hingehn, so ist der Trab der Zeit so
               hart, daß es ihr wie acht Jahre vorkommt.</p>
           </sp>
-          <pb n="685"/>
+          <pb n="686"/>
           <sp who="#orlando">
             <speaker>ORLANDO.</speaker>
             <p>Mit wem geht die Zeit den Paß?</p>
@@ -3157,7 +3157,7 @@
           </sp>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
-            <p>Nein, ich will meine Arzenei nicht wegwerfen, außer <pb n="686"/> an Kranke. Es spukt
+            <p>Nein, ich will meine Arzenei nicht wegwerfen, außer <pb n="687"/> an Kranke. Es spukt
               hier ein junger Mensch im Walde herum, der unsre junge Baumzucht mißbraucht, den Namen
               Rosalinde in die Rinden zu graben, der Oden an Weißdornen hängt, und Elegien an
               Brombeersträuche, alle – denkt doch! – um Rosalindens Namen zu vergöttern. Könnte ich
@@ -3209,7 +3209,7 @@
             <speaker>ROSALINDE.</speaker>
             <p>Aber seid Ihr so verliebt, als Eure Reime bezeugen?</p>
           </sp>
-          <pb n="687"/>
+          <pb n="688"/>
           <sp who="#orlando">
             <speaker>ORLANDO.</speaker>
             <p>Weder Gereimtes noch Ungereimtes kann ausdrücken, wie sehr.</p>
@@ -3263,7 +3263,7 @@
             <speaker>ORLANDO.</speaker>
             <p>Von ganzem Herzen, guter Junge.</p>
           </sp>
-          <pb n="688"/>
+          <pb n="689"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Nein, Ihr müßt mich Rosalinde nennen. – Komm, Schwester, laß uns gehn!</p>
@@ -3321,7 +3321,7 @@
             <p>Ich tu' es wahrlich, denn du schwörst mir zu, daß du ehrbar bist. Wenn du nun ein
               Poet wärest, so hätte ich einige Hoffnung, daß du erdichtetest.</p>
           </sp>
-          <pb n="689"/>
+          <pb n="690"/>
           <sp who="#kaethchen">
             <speaker>KÄTHCHEN.</speaker>
             <p>Wolltet Ihr denn nicht, daß ich ehrbar wäre?</p>
@@ -3378,7 +3378,7 @@
               als die nackten Schläfe eines Junggesellen; und um so viel besser Schutzwehr ist als
               Unvermögen, um so viel kostbarer ist ein Horn als keins.</p>
             <stage>Ehrn Olivarius Textdreher kommt.</stage>
-            <p>Hier kommt Ehrn Olivarius. – Ehrn Olivarius Textdreher, <pb n="690"/> gut, daß wir
+            <p>Hier kommt Ehrn Olivarius. – Ehrn Olivarius Textdreher, <pb n="691"/> gut, daß wir
               Euch treffen. Wollt Ihr uns hier unter diesem Baum abfertigen, oder sollen wir mit
               Euch in Eure Kapelle gehn?</p>
           </sp>
@@ -3444,7 +3444,7 @@
               <l>Nicht: »O holder Oliver!</l>
               <l>O wackrer Oliver!</l>
               <l>Laß mich nicht hinter dir.«</l>
-              <pb n="691"/>
+              <pb n="692"/>
               <l>Nein: »Pack dich fort!</l>
               <l>Geh! auf mein Wort,</l>
               <l>Ich will nicht zur Trauung mit dir.«</l>
@@ -3522,7 +3522,7 @@
               Wahrhaftigkeit in der Liebe betrifft, so halte ich ihn für so hohl als einen
               umgekehrten Becher oder eine wurmstichige Nuß.</p>
           </sp>
-          <pb n="692"/>
+          <pb n="693"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Nicht wahrhaft in der Liebe?</p>
@@ -3591,7 +3591,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="693"/>
+        <pb n="694"/>
         <div type="scene">
           <head>Fünfte Szene</head>
           <stage>Ein andrer Teil des Waldes. Silvius und Phöbe treten auf.</stage>
@@ -3643,7 +3643,7 @@
               <l>Vom scharfen Pfeil der Liebe.</l>
             </lg>
           </sp>
-          <pb n="694"/>
+          <pb n="695"/>
           <sp who="#phoebe">
             <speaker>PHÖBE.</speaker>
             <lg>
@@ -3698,7 +3698,7 @@
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Er hat sich in ihre Häßlichkeit verliebt, und sie wird sich in meinen Zorn verlieben.
-              Wenn das ist, so will ich <pb n="695"/> sie mit bittern Worten pfeffern, so schnell
+              Wenn das ist, so will ich <pb n="696"/> sie mit bittern Worten pfeffern, so schnell
               sie dir mit Stirnrunzeln antwortet. – Warum seht Ihr mich so an?</p>
           </sp>
           <sp who="#phoebe">
@@ -3780,7 +3780,7 @@
               <l>Und ich in solcher Dürftigkeit an Gunst,</l>
               <l>Daß ich es für ein reiches Teil muß halten,</l>
               <l>Die Ähren nur dem Manne nachzulesen,</l>
-              <pb n="696"/>
+              <pb n="697"/>
               <l>Dem volle Ernte wird. Verliert nur dann und wann</l>
               <l>Ein flüchtig Lächeln: davon will ich leben.</l>
             </lg>
@@ -3845,7 +3845,7 @@
           </sp>
         </div>
       </div>
-      <pb n="697"/>
+      <pb n="698"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3897,7 +3897,7 @@
           <sp who="#jaques">
             <speaker>JAQUES.</speaker>
             <p>Nun, ich habe Erfahrung gewonnen.</p>
-            <pb n="698"/>
+            <pb n="699"/>
             <stage>Orlando tritt auf.</stage>
           </sp>
           <sp who="#rosalinde">
@@ -3960,7 +3960,7 @@
           </sp>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
-            <p>Ei, Hörner! wofür solche wie Ihr gern ihren Weibern <pb n="699"/> verpflichtet sein
+            <p>Ei, Hörner! wofür solche wie Ihr gern ihren Weibern <pb n="700"/> verpflichtet sein
               mögen. Aber er kommt mit seinem Lose ausgerüstet und verhütet den üblen Ruf seiner
               Frau.</p>
           </sp>
@@ -4029,7 +4029,7 @@
               Jahr alt, und die ganze Zeit über ist noch kein Mensch in eigner Person gestorben,
               nämlich in Liebessachen. Dem Troilus wurde das Gehirn mit einer griechischen Keule
               zerschmettert; doch tat er, was er konnte, um vorher noch zu sterben, und er ist eins
-              von den Mustern der Liebe. Leander, der hätte noch manches schöne <pb n="700"/> Jahr
+              von den Mustern der Liebe. Leander, der hätte noch manches schöne <pb n="701"/> Jahr
               gelebt, war Hero gleich Nonne geworden, wenn eine heiße Sommernacht es nicht getan
               hätte: denn der arme Junge, er ging nur hin, um sich im Hellespont zu baden, bekam den
               Krampf und ertrank, und die albernen Chronikenschreiber seiner Zeit befanden, es sei
@@ -4117,7 +4117,7 @@
             <speaker>ORLANDO.</speaker>
             <p>Ich nehme dich, Rosalinde, zum Weibe.</p>
           </sp>
-          <pb n="701"/>
+          <pb n="702"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Ich könnte nach Eurem Erlaubnisschein fragen, doch – Ich nehme dich, Orlando, zu
@@ -4186,7 +4186,7 @@
               nicht ihrem Manne zum Vorteil deuten kann, die laßt nie ihr Kind säugen; sie würde es
               albern groß ziehn.</p>
           </sp>
-          <pb n="702"/>
+          <pb n="703"/>
           <sp who="#orlando">
             <speaker>ORLANDO.</speaker>
             <p>Auf die nächsten zwei Stunden, Rosalinde, verlasse ich dich.</p>
@@ -4246,7 +4246,7 @@
             <speaker>CELIA.</speaker>
             <p>Sag lieber, bodenlos; so viel Liebe du hineintust, sie läuft alle wieder heraus.</p>
           </sp>
-          <pb n="703"/>
+          <pb n="704"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Nein, der boshafte Bastard der Venus, der vom Gedanken erzeugt, von der Grille
@@ -4322,7 +4322,7 @@
             <stage>Ab.</stage>
           </sp>
         </div>
-        <pb n="704"/>
+        <pb n="705"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Rosalinde und Celia treten auf.</stage>
@@ -4387,7 +4387,7 @@
             <speaker>SILVIUS.</speaker>
             <l>Gewiß, er ist von ihr.</l>
           </sp>
-          <pb n="705"/>
+          <pb n="706"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <lg>
@@ -4456,7 +4456,7 @@
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Habt Ihr Mitleid mit ihm? Nein, er verdient kein Mitleid. – Willst du solch ein Weib
-              lieben? – Was? dich zum <pb n="706"/> Instrument zu machen, worauf man falsche Töne
+              lieben? – Was? dich zum <pb n="707"/> Instrument zu machen, worauf man falsche Töne
               spielt? Nicht auszustehn! – Gut, geht Eures Weges zu ihr (denn ich sehe, die Liebe hat
               einen zahmen Wurm aus dir gemacht), und sagt ihr dies: Wenn sie mich liebt, befehle
               ich ihr an, dich zu lieben; wenn sie nicht will, so habe ich nichts mit ihr zu tun, es
@@ -4530,7 +4530,7 @@
               <l>Gab er sein Wort, in einer Stunde wieder</l>
               <l>Zurück zu sein; und schreitend durch den Wald</l>
               <l>Käut' er die Kost der süß' und bittern Liebe. –</l>
-              <pb n="707"/>
+              <pb n="708"/>
               <l>Seht, was geschah! Er warf sein Auge seitwärts,</l>
               <l>Und denkt, was für ein Gegenstand sich zeigt!</l>
               <l>Am alten Eichbaum mit bemoosten Zweigen,</l>
@@ -4605,7 +4605,7 @@
               <l>So süß mich dünkt, seit ich ein andrer bin.</l>
             </lg>
           </sp>
-          <pb n="708"/>
+          <pb n="709"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <l>Allein das blut'ge Tuch?</l>
@@ -4678,7 +4678,7 @@
             <p>Das war keine Verstellung: Eure Farbe legt ein zu starkes Zeugnis ab, daß es eine
               ernstliche Gemütsbewegung war.</p>
           </sp>
-          <pb n="709"/>
+          <pb n="710"/>
           <sp who="#rosalinde">
             <speaker>ROSALINDE.</speaker>
             <p>Verstellung, ich versichre Euch.</p>
@@ -4711,7 +4711,7 @@
           </sp>
         </div>
       </div>
-      <pb n="710"/>
+      <pb n="711"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -4780,7 +4780,7 @@
             <speaker>WILHELM.</speaker>
             <p>Ja, Herr, Gott sei Dank.</p>
           </sp>
-          <pb n="711"/>
+          <pb n="712"/>
           <sp who="#probstein">
             <speaker>PROBSTEIN.</speaker>
             <p>»Gott sei Dank«, – eine gute Antwort. Bist reich?</p>
@@ -4851,7 +4851,7 @@
             </p>
             <stage>Corinnus kommt.</stage>
           </sp>
-          <pb n="712"/>
+          <pb n="713"/>
           <sp who="#corinnus">
             <speaker>CORINNUS.</speaker>
             <p>Unsre Herrschaft sucht Euch. Kommt! geschwind, geschwind!</p>
@@ -4909,7 +4909,7 @@
             <speaker>ROSALINDE.</speaker>
             <p>Ich dachte, dein Herz wäre von den Klauen eines Löwen verwundet worden.</p>
           </sp>
-          <pb n="713"/>
+          <pb n="714"/>
           <sp who="#orlando">
             <speaker>ORLANDO.</speaker>
             <p>Verwundet ist es, aber von den Augen eines Fräuleins.</p>
@@ -4958,7 +4958,7 @@
               guten Gaben. Ich sage dies nicht, damit Ihr eine gute Meinung von meiner Wissenschaft
               fassen sollt, insofern ich sage: ich weiß, daß Ihr es seid; noch strebe ich nach einer
               größern Achtung, als die Euch einigermaßen Glauben ablocken kann, zu Eurem eignen
-              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb n="714"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
+              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb n="715"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
               Zauberer von der tiefsten Einsicht in seiner Kunst, ohne doch verdammlich zu sein.
               Wenn Euch Rosalinde so sehr am Herzen liegt, als Euer Benehmen laut bezeugt, so sollt
               Ihr sie heiraten, wann Euer Bruder Aliena heiratet. Ich weiß, in welche bedrängte Lage
@@ -5043,7 +5043,7 @@
             <speaker>SILVIUS.</speaker>
             <lg>
               <l>Es heißt, aus nichts bestehn als Phantasie,</l>
-              <pb n="715"/>
+              <pb n="716"/>
               <l>Aus nichts als Leidenschaft, aus nichts als Wünschen,</l>
               <l>Ganz Anbetung, Ergebung und Gehorsam,</l>
               <l>Ganz Demut, ganz Geduld und Ungeduld,</l>
@@ -5114,7 +5114,7 @@
             <stage>Alle ab.</stage>
           </sp>
         </div>
-        <pb n="716"/>
+        <pb n="717"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Ebendaselbst.</stage>
@@ -5167,7 +5167,7 @@
               <l>Wann Vögel singen, tirlirelirei:</l>
               <l>Süß Liebe liebt den Mai.</l>
             </lg>
-            <pb n="717"/>
+            <pb n="718"/>
             <lg>
               <l>Sie sangen diese Melodei,</l>
               <l>Mit heisa und ha und juchheisa trala!</l>
@@ -5231,7 +5231,7 @@
               <l>Ihr dem Orlando hier sie geben wollt?</l>
             </lg>
           </sp>
-          <pb n="718"/>
+          <pb n="719"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <l>Ja, hätt' ich Königreich' ihr mitzugeben.</l>
@@ -5313,7 +5313,7 @@
             <p>Sicherlich ist eine neue Sündflut im Anzuge, und diese Paare begeben sich in die
               Arche. Da kommt ein Paar seltsamer Tiere, die man in allen Sprachen Narren nennt.</p>
           </sp>
-          <pb n="719"/>
+          <pb n="720"/>
           <sp who="#probstein">
             <speaker>PROBSTEIN.</speaker>
             <p>Gruß und Empfehlung euch allen!</p>
@@ -5371,7 +5371,7 @@
               Meinung: das nennt man den <emph>höflichen Bescheid</emph>. Wenn ich ihm wieder sagen
               ließ, er wäre nicht gut gestutzt, so ließ er mir sagen, er stutzte ihn für seinen
               eignen Geschmack: das nennt man den <emph>feinen Stich</emph>. Sagte ich noch einmal,
-              er wäre nicht gut gestutzt, <pb n="720"/> so erklärte er mich unfähig zu urteilen: das
+              er wäre nicht gut gestutzt, <pb n="721"/> so erklärte er mich unfähig zu urteilen: das
               nennt man die <emph>grobe Erwiderung</emph>. Nochmals, er wäre nicht gut gestutzt, so
               antwortete er, ich spräche nicht wahr: das nennt man die <emph>beherzte
                 Abfertigung</emph>. Nochmals, er wäre nicht gut gestutzt, so sagte er, ich löge: das
@@ -5422,7 +5422,7 @@
               <l>Der ganze Himmel freut sich,</l>
               <l>Wenn ird'scher Dinge Streit sich</l>
               <l>In Frieden endet.</l>
-              <pb n="721"/>
+              <pb n="722"/>
               <l>Nimm deine Tochter, Vater,</l>
               <l>Die Hymen, ihr Berater,</l>
               <l>Vom Himmel sendet;</l>
@@ -5485,7 +5485,7 @@
             <lg>
               <l>Eh'stand ist der Juno Krone:</l>
               <l>O sel'ger Bund von Tisch und Bett!</l>
-              <pb n="722"/>
+              <pb n="723"/>
               <l>Hymen bevölkert jede Zone,</l>
               <l>Drum sei die Eh' verherrlichet.</l>
               <l>Preis, hoher Preis und Ruhm zum Lohne</l>
@@ -5543,7 +5543,7 @@
               <l>Wie seines Ranges Maß es mit sich bringt.</l>
               <l>Doch jetzt vergeßt die neue Herrlichkeit</l>
               <l>Bei dieser ländlich frohen Lustbarkeit!</l>
-              <pb n="723"/>
+              <pb n="724"/>
               <l>Spielt auf, Musik! – Ihr Bräutigam' und Bräute,</l>
               <l>Schwingt euch zum Tanz im Überschwang der Freude!</l>
             </lg>
@@ -5607,7 +5607,7 @@
           </sp>
         </div>
       </div>
-      <pb n="724"/>
+      <pb n="725"/>
       <div type="epilogue">
         <head>[Epilog</head>
         <sp>

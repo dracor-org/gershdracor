@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="463"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -98,8 +99,8 @@
         <castItem>Schaal, Friedensrichter</castItem>
         <castItem>Schmächtig, Schaals Vetter</castItem>
         <castGroup>
-          <castItem>Herr Page,</castItem>
-          <castItem>Herr Fluth,</castItem>
+          <castItem>Herr Page</castItem>
+          <castItem>Herr Fluth</castItem>
           <roleDesc>Bürger von Windsor</roleDesc>
         </castGroup>
         <castItem>Sir Hugh Evans, ein wallisischer Pfarrer</castItem>
@@ -123,7 +124,7 @@
       </set>
     </front>
     <body>
-      <pb n="464"/>
+      <pb n="465"/>
       <div type="act">
         <head>Erster Aufzug</head>
         <div type="scene">
@@ -181,7 +182,7 @@
             <speaker>SCHAAL.</speaker>
             <p>Das könntet Ihr auch durch eine Vermählung.</p>
           </sp>
-          <pb n="465"/>
+          <pb n="466"/>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
             <p>Was wollt Ihr tann mit dem Mehl im Quartier? Vermehlt Euch lieber in der Mühle. –
@@ -240,7 +241,7 @@
             <speaker>EVANS.</speaker>
             <p>Siepe hundert Pfund und andre Erbprospekten sein kute Gabe.</p>
           </sp>
-          <pb n="466"/>
+          <pb n="467"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Nun laßt uns zum ehrlichen Herrn Page gehn; ist Falstaff da?</p>
@@ -319,7 +320,7 @@
             <p>Sir, er ist drinnen, und ich wünschte, ich könnte ein gutes Werk zwischen euch
               stiften.</p>
           </sp>
-          <pb n="467"/>
+          <pb n="468"/>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
             <p>Tas ischt kesproche, wie frommer Chrischt spreche sollte.</p>
@@ -412,7 +413,7 @@
             <speaker>SCHMÄCHTIG.</speaker>
             <p>Wo ist Simpel, mein Kerl? Wißt Ihr's nicht, Vetter?</p>
           </sp>
-          <pb n="468"/>
+          <pb n="469"/>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
             <p>Still, ich pitt euch! Jetzt habt wohl Opacht: hier sein zwei Schiedsrichter in tieser
@@ -486,7 +487,7 @@
               nicht recht mehr besinnen kann, was ich tat, als ihr mich betrunken machtet, so bin
               ich doch nicht ganz und gar ein Esel.</p>
           </sp>
-          <pb n="469"/>
+          <pb n="470"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Was sagt ihr dazu, Scharlach und Hans?</p>
@@ -557,7 +558,7 @@
           </sp>
           <sp who="#simpel">
             <speaker>SIMPEL.</speaker>
-            <p>Das Rätselbuch? Ei, habt Ihr's nicht der Else Kleinsemmel <pb n="470"/> geliehen, auf
+            <p>Das Rätselbuch? Ei, habt Ihr's nicht der Else Kleinsemmel <pb n="471"/> geliehen, auf
               letzten Allerheiligen, vierzehn Tage vor Michaelis?</p>
           </sp>
           <sp who="#schaal">
@@ -627,7 +628,7 @@
             <p>Ei, Kotts Erzengel und Holzengel! Ihr müßt wie ein Positif sprechen; könnt Ihr's
               tahin für sie pringe, taß Ihr Euer Verlangen auf sie werft?</p>
           </sp>
-          <pb n="471"/>
+          <pb n="472"/>
           <sp who="#schaal">
             <speaker>SCHAAL.</speaker>
             <p>Das müßt Ihr. Wollt Ihr sie mit einer guten Aussteuer heiraten?</p>
@@ -698,7 +699,7 @@
           </sp>
           <sp who="#schmaechtig">
             <speaker>SCHMÄCHTIG.</speaker>
-            <p>Ich bin nicht hungrig, ich bedanke mich meiner <pb n="472"/> Seel'. Geh, Kerl,
+            <p>Ich bin nicht hungrig, ich bedanke mich meiner <pb n="473"/> Seel'. Geh, Kerl,
               obgleich du eigentlich mein Bedienter bist, geh und warte meinem Vetter Schaal
               auf.</p>
             <stage>Simpel geht ab.</stage>
@@ -766,7 +767,7 @@
             <speaker>SCHMÄCHTIG.</speaker>
             <p>Nun, so bitt' ich Euch, geht voran!</p>
           </sp>
-          <pb n="473"/>
+          <pb n="474"/>
           <sp who="#page">
             <speaker>PAGE.</speaker>
             <p>Nur zu, Junker!</p>
@@ -832,7 +833,7 @@
             <speaker>WIRT.</speaker>
             <p>Was sagt mein Rodomont? Sprich gelahrt und weislich!</p>
           </sp>
-          <pb n="474"/>
+          <pb n="475"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Wahrhaftig, mein Wirt, ich muß einige von meinem Gefolge abschaffen.</p>
@@ -920,7 +921,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Meine ehrlichen Jungen, ich will euch sagen, was mir vorschwebt.</p>
           </sp>
-          <pb n="475"/>
+          <pb n="476"/>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
             <p>Ein Wanst von hundert Pfund.</p>
@@ -982,7 +983,7 @@
               trag' du diesen Brief an Frau Page, und du jenen an Frau Fluth: unser Weizen blüht,
               Kinder, unser Weizen blüht.</p>
           </sp>
-          <pb n="476"/>
+          <pb n="477"/>
           <sp who="#pistol">
             <speaker>PISTOL.</speaker>
             <lg>
@@ -1061,7 +1062,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="477"/>
+        <pb n="478"/>
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Im Hause des Doktor Cajus.</stage>
@@ -1128,7 +1129,7 @@
           </sp>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
-            <p>Nun, der Himmel beschere Annchen kein <pb n="478"/> schlimmeres Glück! Sagt dem Herrn
+            <p>Nun, der Himmel beschere Annchen kein <pb n="479"/> schlimmeres Glück! Sagt dem Herrn
               Pfarrer Evans, ich werde für seinen Herrn tun, was ich kann; Anne ist ein gutes
               Mädchen, und ich wünsche, –</p>
             <stage>Rugby kommt wieder.</stage>
@@ -1203,7 +1204,7 @@
               Degen!</p>
             <stage>Er führt Simpel aus dem Kabinett.</stage>
           </sp>
-          <pb n="479"/>
+          <pb n="480"/>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Bester Herr, gebt Euch zufrieden!</p>
@@ -1274,7 +1275,7 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Wißt Ihr das auch schon? Ja, wahrhaftig, eine tüchtige Last, und dabei früh auf sein
-              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb n="480"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
+              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb n="481"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
               Anne Page; – aber mit alle dem, – ich weiß, wie Annchen denkt; es ist weder hier noch
               dort was.</p>
           </sp>
@@ -1332,7 +1333,7 @@
             <speaker>FRAU HURTIG.</speaker>
             <p>Desto besser, weil Euer Gnaden beliebt, danach zu fragen.</p>
           </sp>
-          <pb n="481"/>
+          <pb n="482"/>
           <sp who="#fenton">
             <speaker>FENTON.</speaker>
             <p>Was gibt's Neues? Was macht die hübsche Jungfer Anne?</p>
@@ -1391,7 +1392,7 @@
           </sp>
         </div>
       </div>
-      <pb n="482"/>
+      <pb n="483"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1420,7 +1421,7 @@
             <p>Welch ein Herodes von Judäa das ist! O gottlose, gottlose Welt! – Ist er doch schon
               vom Alter fast ganz aufgetragen und gebärdet sich wie ein junger Liebhaber! Welch
               unbedachtes Betragen hat denn mit des Teufels Beistand dieser flämische Trunkenbold
-              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb n="483"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
+              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb n="484"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
               sollt' ich ihm sagen? Ich war doch damals sparsam mit meiner Lustigkeit; der Himmel
               verzeihe mir's! – Wahrhaftig, ich will auf eine Akte im Parlament antragen, um alle
               Männer abzuschaffen. Wie soll ich mich an ihm rächen? Denn rächen will ich mich, so
@@ -1479,7 +1480,7 @@
               Auge habe, der Mannsbilder Gestalt zu unterscheiden. Und doch fluchte er nicht; lobte
               die Sittsamkeit der Frauen, und sprach so anständige und wohlgesetzte Verachtung alles
               Unschicklichen aus, daß ich drauf geschworen hätte, seine Gesinnung stimmte zum
-              Ausdruck seiner Worte: aber die haben nicht mehr Zusammenhang und <pb n="484"/> passen
+              Ausdruck seiner Worte: aber die haben nicht mehr Zusammenhang und <pb n="485"/> passen
               nicht besser zu einander, als der hundertste Psalm und die Melodie vom grünen Ärmel.
               Welcher Sturmwind mußte uns diesen Walfisch mit so viel Tonnen Öl im Bauch an die
               Küste von Windsor werfen? Wie soll ich mich an ihm rächen? Ich denke, das beste wäre,
@@ -1522,7 +1523,7 @@
               immer weiter locken, bis er unserm Gastwirt zum Hosenbande seine Pferde versetzt
               hat.</p>
           </sp>
-          <pb n="485"/>
+          <pb n="486"/>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
             <p>Ja, ich will die Hand dazu bieten, ihm jeden schlimmen Streich zu spielen, der nur
@@ -1605,7 +1606,7 @@
             <p>Und dies ist wahr; der Humor des Lügens ist mir zuwider. Er hat mich in gewissen
               Humoren beleidigt: ich habe einen Degen, und der muß die Zähne zeigen, wann's not tut.
               Er liebt Euer Weib, das ist das Kurze und das Lange. Mein Nam' ist Korporal Nym; ich
-              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb n="486"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
+              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb n="487"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
               Humor davon. Lebt wohl! <stage>Nym geht ab.</stage>
             </p>
           </sp>
@@ -1693,7 +1694,7 @@
             <speaker>PAGE.</speaker>
             <p>Ja, und hörtet, was der andre mir sagte?</p>
           </sp>
-          <pb n="487"/>
+          <pb n="488"/>
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Glaubt Ihr, daß ihnen zu trauen sei?</p>
@@ -1763,7 +1764,7 @@
             <p>Was sagst du, Rodomont?</p>
             <stage>Sie gehn auf die Seite.</stage>
           </sp>
-          <pb n="488"/>
+          <pb n="489"/>
           <sp who="#schaal">
             <speaker>SCHAAL</speaker>
             <stage>zu Page.</stage>
@@ -1822,7 +1823,7 @@
             <stage>Er geht ab.</stage>
           </sp>
         </div>
-        <pb n="489"/>
+        <pb n="490"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Zimmer im Gasthofe zum Hosenbande.</stage>
@@ -1871,7 +1872,7 @@
             <p>Ich hege Reu': was willst du mehr vom Mann?</p>
             <stage>Robin kommt.</stage>
           </sp>
-          <pb n="490"/>
+          <pb n="491"/>
           <sp who="#robin">
             <speaker>ROBIN.</speaker>
             <p>Herr, hier ist eine Frau, die mit Euch sprechen möchte.</p>
@@ -1954,7 +1955,7 @@
               gebracht, daß es ein Wunder ist. Der beste Hofkavalier von allen, als der Hof in
               Windsor rezitierte, hätte sie nicht so in Bastion gebracht! Und da gab's doch Ritter
               und Lords und Edelleute mit ihren Kutschen, das versichre ich Euch, Kutsche auf
-              Kutsche, <pb n="491"/> Brief auf Brief, Geschenk auf Geschenk, und rochen so süß –
+              Kutsche, <pb n="492"/> Brief auf Brief, Geschenk auf Geschenk, und rochen so süß –
               (von lauter Bisam), und rauschten, ich versichr' Euch, in Gold und Seide; und in so
               alikanten Ausdrücken, und mit Wein und Zucker von den besten, allerschönsten Sorten,
               daß es Euch jedes Frauenzimmer gewonnen hätte; und doch, das versichr' ich Euch,
@@ -1998,7 +1999,7 @@
               ich Euch ins Ohr sagen, die ist eine solche annette und repetierliche hübsche Frau,
               und eine, das sage ich Euch, die da weder ihren Morgen – noch ihren Abendsegen
               versäumt, wie's nur eine in Windsor gibt, wer sie auch sein mag; und die trug mir auf,
-              Euer Gnaden zu sagen, daß ihr Mann selten außer <pb n="492"/> Hause sei; aber sie
+              Euer Gnaden zu sagen, daß ihr Mann selten außer <pb n="493"/> Hause sei; aber sie
               hofft, es wird schon eine Zeit kommen. Ich habe nie eine Frau so versessen auf einen
               Mann gesehn; weiß Gott, ich glaube, Ihr müßt hexen können, gelt? Ja wahrhaftig! –</p>
           </sp>
@@ -2050,7 +2051,7 @@
             <speaker>PISTOL.</speaker>
             <lg>
               <l>Dies Jachtschiff dient wohl in Fortunas Flotte.</l>
-              <pb n="493"/>
+              <pb n="494"/>
               <l>Mehr Segel her! Setz' nach! Das Schießzeug auf:</l>
               <l>Gib Feu'r: die Pris' ist mein, sonst, Meer, verschling'sie all'! –</l>
             </lg>
@@ -2113,7 +2114,7 @@
           </sp>
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
-            <p>Werter Sir John, ich bitte um die Eurige; nicht um <pb n="494"/> Euch zur Last zu
+            <p>Werter Sir John, ich bitte um die Eurige; nicht um <pb n="495"/> Euch zur Last zu
               fallen, denn ich muß Euch bemerken, daß ich glaube, besser imstande zu sein, Geld
               auszuleihen, als Ihr; und das hat mich einigermaßen dreist gemacht, Euch so zur Unzeit
               heimzusuchen. Denn, wie man sagt, wo Geld vorangeht, sind alle Wege offen.</p>
@@ -2169,7 +2170,7 @@
               der zärtlichsten Aufmerksamkeit gefolgt, habe mir Gelegenheiten geschafft, sie zu
               treffen; jeden geringen Anlaß mit Unkosten erspäht, wo ich sie, wenn auch nur obenhin,
               sehen konnte; habe nicht nur manches Geschenk für sie gekauft, sondern manchem
-              reichlich gegeben, nur um zu erfahren, was sie gern geschenkt hätte: <pb n="495"/>
+              reichlich gegeben, nur um zu erfahren, was sie gern geschenkt hätte: <pb n="496"/>
               kurz, ich habe sie verfolgt, wie mich die Liebe verfolgt hat, das heißt, auf dem
               Fittich aller Gelegenheiten. Was ich aber auch verdienen mochte, sei's durch meine
               Leidenschaft, sei's durch meinen Aufwand, – Lohn, weiß ich gewiß, habe ich keinen
@@ -2228,7 +2229,7 @@
             <p>Glaubt es, denn Ihr wißt es. – Hier ist Geld: verwendet es; verwendet noch mehr,
               verwendet alles, was ich habe, nur schenkt mir dafür so viel von Eurer Zeit, als Ihr
               bedürft, um einen verliebten Angriff auf die Tugend der Frau Fluth zu unternehmen.
-              Gebraucht Eure Überredungskunst, gewinnt <pb n="496"/> sie, Euch zu erhören; wenn's
+              Gebraucht Eure Überredungskunst, gewinnt <pb n="497"/> sie, Euch zu erhören; wenn's
               irgend jemand vermag, vermögt Ihr's eher als einer.</p>
           </sp>
           <sp who="#falstaff">
@@ -2283,7 +2284,7 @@
             <p>Zum Henker mit dem armen Teufel von Hahnrei! Ich kenne ihn nicht: indes, ich tue ihm
               unrecht, wenn ich ihn arm nenne; man sagt, der eifersüchtige behornte Kerl hat ganze
               Haufen Gold; und darum kommt mir seine Frau auch hübsch vor. Sie soll mir der
-              Schlüssel zu des <pb n="497"/> Hahnreis Geldkasten sein, dort will ich mein Erntefest
+              Schlüssel zu des <pb n="498"/> Hahnreis Geldkasten sein, dort will ich mein Erntefest
               halten.</p>
           </sp>
           <sp who="#fluth">
@@ -2320,7 +2321,7 @@
               anvertrauen, als meine Frau sich selbst. Da kabaliert, da sinnt und grübelt sie, – und
               was sie in ihrem Herzen beschließen, das müssen sie ausführen, und sollte ihr Herz
               darüber brechen, sie müssen's ausführen. Dem Himmel sei Dank für meine Eifersucht! Um
-              elf ist die Stunde; ich will <pb n="498"/> dem Dinge zuvorkommen, mein Weib entlarven,
+              elf ist die Stunde; ich will <pb n="499"/> dem Dinge zuvorkommen, mein Weib entlarven,
               mich an Falstaff rächen und Page auslachen. Gleich will ich daran; besser drei Stunden
               zu früh, als eine Minute zu spät! – Pfui, pfui, pfui! – Hahnrei, Hahnrei, Hahnrei! –
                 <stage>Geht ab.</stage>
@@ -2400,7 +2401,7 @@
             <speaker>WIRT.</speaker>
             <p>Dich fechten zu sehn, dich legieren zu sehn, dich traversieren zu sehn, dich hier zu
               sehn, dich da zu sehn, dein Punto, deine Stoccata, dein Renvers, deine Distanz, deinen
-              Montant zu sehn. Ist er tot, mein Äthiopier? Ist er tot, mein <pb n="499"/> Franzmann?
+              Montant zu sehn. Ist er tot, mein Äthiopier? Ist er tot, mein <pb n="500"/> Franzmann?
               Ha, Rodomont! Was sagt mein Äskulap? mein Galen? mein Holundermark? Ist er tot, mein
               Harnmonarch? – Ist er tot?</p>
           </sp>
@@ -2472,7 +2473,7 @@
             <speaker>CAJUS.</speaker>
             <p>'erumkuranzen? Was 'eißt das? –</p>
           </sp>
-          <pb n="500"/>
+          <pb n="501"/>
           <sp who="#wirt">
             <speaker>WIRT.</speaker>
             <p>Das heißt, er wird dir Satisfaktion geben.</p>
@@ -2550,7 +2551,7 @@
           </sp>
         </div>
       </div>
-      <pb n="501"/>
+      <pb n="502"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2596,7 +2597,7 @@
               <l>Am stille ...</l>
             </lg>
           </sp>
-          <pb n="502"/>
+          <pb n="503"/>
           <sp who="#simpel">
             <speaker>SIMPEL.</speaker>
             <p>Dort kommt er! dorther, Sir Hugh! –</p>
@@ -2668,7 +2669,7 @@
               von seinem Stande, von seiner Gravität und Gelehrsamkeit, der so sehr alle Haltung
               verloren hätte.</p>
           </sp>
-          <pb n="503"/>
+          <pb n="504"/>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
             <p>Wer ischt's tann?</p>
@@ -2745,7 +2746,7 @@
             <p>Diable! 'ans Rugby, – meine Gastwirt, de la jarretière – 'aben mir nik gewart nak
               ihm, um ihn su exterminir? 'aben ik das nik auf die appointirte Place?</p>
           </sp>
-          <pb n="504"/>
+          <pb n="505"/>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
             <p>So wahr ich Christeseele pin, seht, das hier ischt verabredeter Platz; tas soll
@@ -2802,7 +2803,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="505"/>
+        <pb n="506"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Straße in Windsor.</stage>
@@ -2875,7 +2876,7 @@
             <speaker>FLUTH.</speaker>
             <p>Hat der Page kein Gehirn? hat er keine Augen? hat er keine Gedanken? Wahrhaftig, das
               alles schläft bei ihm, er weiß es nicht zu gebrauchen. Der Junge da wird so leicht
-              einen Brief zwanzig Meilen weit tragen, als eine Kanone <pb n="506"/> zwanzig
+              einen Brief zwanzig Meilen weit tragen, als eine Kanone <pb n="507"/> zwanzig
               dutzendmal ins Weiße trifft. Er schneidert selbst die Liebestorheit seiner Frau
               zurecht; er tut ihr Vorschub und macht ihr Gelegenheit, und nun geht sie zu meiner
               Frau und Falstaffs Bursche mit ihr, – dies Hagelwetter kann man wahrhaftig schon von
@@ -2929,7 +2930,7 @@
           </sp>
           <sp who="#wirt">
             <speaker>WIRT.</speaker>
-            <p>Und was sagt Ihr zu dem jungen Herrn Fenton? Er <pb n="507"/> springt, er tanzt, er
+            <p>Und was sagt Ihr zu dem jungen Herrn Fenton? Er <pb n="508"/> springt, er tanzt, er
               hat junge, feurige Augen, er schreibt Verse, er spricht Festtagsworte, er duftet wie
               April und Mai; der führt sie heim, der führt sie heim, der hat das Glück in der
               Tasche, der führt sie heim.</p>
@@ -2996,7 +2997,7 @@
             <speaker>FRAU PAGE.</speaker>
             <p>Macht fort! Macht fort!</p>
           </sp>
-          <pb n="508"/>
+          <pb n="509"/>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
             <p>Hier setzt ihn hin!</p>
@@ -3064,7 +3065,7 @@
                 <stage>Geht ab.</stage>
             </p>
           </sp>
-          <pb n="509"/>
+          <pb n="510"/>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
             <p>Nun wohlan: wir wollen schon mit dir fertig werden, du ungesunde Feuchtigkeit, du
@@ -3120,7 +3121,7 @@
             <p>Was machte mich in dich verliebt? Daraus kannst du den Schluß ziehn, du seist etwas
               Außerordentliches. Komm, ich kann nicht süß tun und sagen, du seist dies und das, wie
               so manche lispelnde Weißdornblüten, die wie Weiber in Mannskleidern gehn und riechen
-              wie ein Apothekerladen <pb n="510"/> zur Zeit der Kräuterlese: ich kann's nicht; aber
+              wie ein Apothekerladen <pb n="511"/> zur Zeit der Kräuterlese: ich kann's nicht; aber
               ich liebe dich, keine als dich, und du verdienst es.</p>
           </sp>
           <sp who="#frau_fluth">
@@ -3194,7 +3195,7 @@
               suchen, der, wie man sagt, jetzt mit Eurer Einwilligung hier im Hause ist, um sich
               seine Abwesenheit auf unerlaubte Art zunutze zu machen. Ihr seid verloren! –</p>
           </sp>
-          <pb n="511"/>
+          <pb n="512"/>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH</speaker>
             <stage>leise.</stage>
@@ -3251,7 +3252,7 @@
           </sp>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
-            <p>He, Johann! Robert! Johann! Bringt mir die <pb n="512"/> Wäsche fort, hurtig! Wo ist
+            <p>He, Johann! Robert! Johann! Bringt mir die <pb n="513"/> Wäsche fort, hurtig! Wo ist
               die Tragstange? Seht, wie ihr trödelt! – Tragt's zur Wäscherin auf die Datchetwiese;
               hurtig! macht fort! –</p>
             <stage>Fluth, Page, Cajus und Evans kommen.</stage>
@@ -3317,7 +3318,7 @@
             <speaker>FRAU PAGE.</speaker>
             <p>Wie ihm wohl zu Mut war, als Euer Mann fragte, was im Korbe sei!</p>
           </sp>
-          <pb n="513"/>
+          <pb n="514"/>
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
             <p>Ich fürchte fast, daß eine Wäsche ihm ganz zuträglich sei; und so wird's ihm eine
@@ -3396,7 +3397,7 @@
           <sp who="#page">
             <speaker>PAGE.</speaker>
             <p>Pfui, pfui, Herr Fluth, schämt Ihr Euch nicht? Welcher Geist, welcher Teufel bringt
-              Euch auf solche Einbildungen? <pb n="514"/> Ich möchte diese Eure Verstimmung nicht
+              Euch auf solche Einbildungen? <pb n="515"/> Ich möchte diese Eure Verstimmung nicht
               haben, nicht für alle Schätze von Windsor Schloß.</p>
           </sp>
           <sp who="#fluth">
@@ -3471,7 +3472,7 @@
             <speaker>FENTON.</speaker>
             <lg>
               <l>Sei nur einmal du selbst!</l>
-              <pb n="515"/>
+              <pb n="516"/>
               <l>Er wendet ein, ich sei zu hoch von Abkunft;</l>
               <l>Und weil Verschwendung mir mein Gut beschädigt,</l>
               <l>So woll' ich's nur durch sein Vermögen heilen:</l>
@@ -3553,7 +3554,7 @@
               <l>Junge, du hatt'st einen Vater, ...</l>
             </lg>
           </sp>
-          <pb n="516"/>
+          <pb n="517"/>
           <sp who="#schmaechtig">
             <speaker>SCHMÄCHTIG.</speaker>
             <p>Ich hatt' einen Vater, Jungfer Anne, – mein Onkel kann Euch hübsche Späße von ihm
@@ -3633,7 +3634,7 @@
             <speaker>FENTON.</speaker>
             <l>Nun, mein Herr Page, seid nicht ungeduldig!</l>
           </sp>
-          <pb n="517"/>
+          <pb n="518"/>
           <sp who="#frau_page">
             <speaker>FRAU PAGE.</speaker>
             <l>Lieber Herr Fenton, laßt das Mädchen gehn!</l>
@@ -3720,7 +3721,7 @@
             <speaker>FRAU HURTIG.</speaker>
             <p>Nun, der Himmel schenke dir seinen Segen! Ein liebreiches Herz hat er, unser eins
               liefe ja gern durchs Feuer und Wasser für so ein liebreiches Herz. – Aber ich wollte
-              doch, daß mein Herr Jungfer Anne bekäme, oder ich wollte, <pb n="518"/> daß Herr
+              doch, daß mein Herr Jungfer Anne bekäme, oder ich wollte, <pb n="519"/> daß Herr
               Schmächtig sie bekäme, – oder, mein' Seel', ich wollte, daß Herr Fenton sie bekäme.
               Ich will für alle drei tun, was ich kann: denn das hab' ich versprochen, und ich will
               auch ehrlich Wort halten; aber recht spezifisch dem Herrn Fenton. – Nun, jetzt muß ich
@@ -3762,7 +3763,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>Hier ist Frau Hurtig, Herr, die Euch sprechen will.</p>
           </sp>
-          <pb n="519"/>
+          <pb n="520"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Komm her, laß mich etwas Sekt zu dem Themsenwasser schütten, denn mein Bauch ist so
@@ -3842,7 +3843,7 @@
             <p>Friede sei mit Euch, Sir! <stage>Sie geht ab.</stage>
             </p>
           </sp>
-          <pb n="520"/>
+          <pb n="521"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Mich wundert, daß ich nichts vom Herrn Bach höre; er ließ mir sagen, ich möge zu
@@ -3921,7 +3922,7 @@
             <speaker>FLUTH.</speaker>
             <p>Und wie lange lagt Ihr darin? –</p>
           </sp>
-          <pb n="521"/>
+          <pb n="522"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Oh, Ihr sollt hören, Herr Bach, was ich ausgestanden habe, um diese Frau zu Eurem
@@ -3962,7 +3963,7 @@
             <speaker>FLUTH.</speaker>
             <p>Es ist schon acht vorbei, Sir.</p>
           </sp>
-          <pb n="522"/>
+          <pb n="523"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Wirklich? Nun, so geh' ich auf meinen Posten. Kommt zu mir, sobald's Euch eben
@@ -3988,7 +3989,7 @@
           </sp>
         </div>
       </div>
-      <pb n="523"/>
+      <pb n="524"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -4053,7 +4054,7 @@
             <speaker>WILHELM.</speaker>
             <p>Virtus.</p>
           </sp>
-          <pb n="524"/>
+          <pb n="525"/>
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Wirtshaus? Da pflegt's doch nicht immer sehr tugendhaft herzugehn.</p>
@@ -4153,7 +4154,7 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Schlimm genug mit der Geschichte vom ersten Fall; muß der Junge auch noch von einem
-              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb n="525"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
+              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb n="526"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
           </sp>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
@@ -4219,7 +4220,7 @@
             <speaker>FRAU FLUTH.</speaker>
             <p>Er ist auf der Vogelbeize, lieber Sir John.</p>
           </sp>
-          <pb n="526"/>
+          <pb n="527"/>
           <sp who="#frau_page">
             <speaker>FRAU PAGE</speaker>
             <stage>draußen.</stage>
@@ -4298,7 +4299,7 @@
               stecken?</p>
             <stage>Falstaff kommt herein.</stage>
           </sp>
-          <pb n="527"/>
+          <pb n="528"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Nein, ich will nicht wieder in den Korb. Kann ich nicht hinaus, eh' er kommt? –</p>
@@ -4369,7 +4370,7 @@
           <sp who="#frau_fluth">
             <speaker>FRAU FLUTH.</speaker>
             <p>Ich hoffe, mein Mann begegnet ihm in diesem Aufzuge; er kann das alte Weib von
-              Brentford nicht ausstehn; <pb n="528"/> er schwört, sie sei eine Hexe, hat ihr das
+              Brentford nicht ausstehn; <pb n="529"/> er schwört, sie sei eine Hexe, hat ihr das
               Haus verboten und gedroht, sie durchzuklopfen.</p>
           </sp>
           <sp who="#frau_page">
@@ -4433,7 +4434,7 @@
               mich als Narren behandelt? – Setzt den Korb nieder, Schurken! – Ruf' mir einer meine
               Frau, – Prinz im Korbe! – O ihr kupplerischen Schurken, – es ist ein Komplott, eine
               Partei, eine Verschwörung wider mich; nun soll der Teufel beschämt werden! Heda, Frau,
-                <pb n="529"/> sag' ich! komm, komm heraus; sieh nur, was für artige Wäsche du auf
+                <pb n="530"/> sag' ich! komm, komm heraus; sieh nur, was für artige Wäsche du auf
               die Bleiche schickst! –</p>
           </sp>
           <sp who="#page">
@@ -4516,7 +4517,7 @@
             <p>Herr Fluth, Ihr müßt peten und nicht tenen Phantastereien Eures Herzens folken; tas
               sein Eifersuchten.</p>
           </sp>
-          <pb n="530"/>
+          <pb n="531"/>
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Nun gut, hier ist er nicht, den ich suche.</p>
@@ -4581,7 +4582,7 @@
             <speaker>FRAU FLUTH.</speaker>
             <p>Wahrhaftig, das wird er noch tun, das wird dir recht viel Ehre bringen.</p>
           </sp>
-          <pb n="531"/>
+          <pb n="532"/>
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>An den Galgen mit der Hexe! –</p>
@@ -4648,7 +4649,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="532"/>
+        <pb n="533"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Gasthof zum Hosenband.</stage>
@@ -4709,7 +4710,7 @@
               <l>Als die Beleid'gung. –</l>
               <l>Doch, führen wir's zu Ende; laß die Frau'n</l>
               <l>Noch einmal, uns zum allgemeinen Scherz,</l>
-              <pb n="533"/>
+              <pb n="534"/>
               <l>Den alten fetten Burschen herbestellen,</l>
               <l>Daß wir ihn fangen und ihn derb verspotten.</l>
             </lg>
@@ -4791,7 +4792,7 @@
               <l>Und drei, vier andre Kinder kleiden wir</l>
               <l>Als Zwerge, Feen und Elfen, grün und weiß,</l>
               <l>Wachskerzen auf dem Kopf als Feuerkronen,</l>
-              <pb n="534"/>
+              <pb n="535"/>
               <l>Und Klappern in der Hand; dann soll'n sie plötzlich,</l>
               <l>Wenn Falstaff, sie und ich uns just gefunden,</l>
               <l>Aus einer Sägegrub' hervor sich stürzen</l>
@@ -4877,7 +4878,7 @@
               <l>Geht, Frau Fluth,</l>
               <l>Laßt ihn die Hurtig fragen, ob er kommt.</l>
               <stage>Frau Fluth ab.</stage>
-              <pb n="535"/>
+              <pb n="536"/>
               <l>Ich will zum Doktor; er empfing mein Wort,</l>
               <l>Und keiner wird mir Annchens Mann, als er.</l>
               <l>Schmächtig hat Güter zwar, doch ist's ein Tropf;</l>
@@ -4934,7 +4935,7 @@
               Heimlichkeiten? pfui!</p>
             <stage>Falstaff kommt.</stage>
           </sp>
-          <pb n="536"/>
+          <pb n="537"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Allerdings, mein Gastwirt, war eben eine dicke Frau bei mir, allein jetzt ist sie
@@ -5031,7 +5032,7 @@
               ich ward obendrein für mein Lernen bezahlt.</p>
             <stage>Bardolph kommt.</stage>
           </sp>
-          <pb n="537"/>
+          <pb n="538"/>
           <sp who="#bardolph">
             <speaker>BARDOLPH.</speaker>
             <p>Ach, Herr Je! Ach, Herr! Spitzbüberei, pure Spitzbüberei! –</p>
@@ -5094,7 +5095,7 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Ich wollte, die ganze Welt würde geprellt, denn ich bin geprellt und geprügelt dazu.
-              Sollte diese Metamorphose <pb n="538"/> dem Hof zu Ohren kommen, und wie meine
+              Sollte diese Metamorphose <pb n="539"/> dem Hof zu Ohren kommen, und wie meine
               Verwandlungen gewaschen und gewalkt worden sind, sie schmölzen mich aus meinem Fett
               heraus, Tropfen bei Tropfen, und schmierten Fischerstiefel mit mir: ich wette, sie
               geißelten mich mit ihrem stachlichten Witz, bis ich eingeschrumpft wäre wie eine
@@ -5142,7 +5143,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="539"/>
+        <pb n="540"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>Ebendaselbst. Der Wirt und Herr Fenton treten auf.</stage>
@@ -5193,7 +5194,7 @@
               <l>Wo schon ein Priester harrt. Dem Plan der Mutter</l>
               <l>Scheinbar gehorsam, hat sie auch dem Doktor</l>
               <l>Ihr Wort gegeben. Nun verhält sich's so:</l>
-              <pb n="540"/>
+              <pb n="541"/>
               <l>Der Vater will, daß sie sich kleid' in Weiß;</l>
               <l>Und in der Tracht, wann Schmächtig seine Zeit</l>
               <l>Sich ausersehn, soll sie die Hand ihm geben</l>
@@ -5257,7 +5258,7 @@
             <stage>Frau Hurtig geht ab.</stage>
             <p>Halt' den Kopf in die Höhe und mache dich niedlich!</p>
             <stage>Fluth kommt.</stage>
-            <pb n="541"/>
+            <pb n="542"/>
             <p>Nun, Herr Bach? – Herr Bach, heut nacht muß die Sache zustande kommen, oder nie. Seid
               nur im Park um Mitternacht bei Hernes Eiche, und Ihr sollt Wunder sehn.</p>
           </sp>
@@ -5283,7 +5284,7 @@
           </sp>
         </div>
       </div>
-      <pb n="542"/>
+      <pb n="543"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5329,7 +5330,7 @@
             <p>Ik weiß, was ik 'aben su tun: Adieu! <stage>Ab.</stage>
             </p>
           </sp>
-          <pb n="543"/>
+          <pb n="544"/>
           <sp who="#frau_page">
             <speaker>FRAU PAGE.</speaker>
             <p>Lebt wohl, Herr Doktor! Mein Mann wird sich nicht so über Falstaffs Bestrafung
@@ -5391,7 +5392,7 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Die Windsorglocke hat zwölf geschlagen: der Augenblick rückt heran. Nun, ihr
-              heißblütigen Götter, steht <pb n="544"/> mir bei: Erinn're dich, Jupiter, wie du für
+              heißblütigen Götter, steht <pb n="545"/> mir bei: Erinn're dich, Jupiter, wie du für
               Europa ein Stier wurdest; Liebe setzte dir deine Hörner auf. – O, allmächtige Liebe!
               die auf gewisse Weise das Vieh zum Menschen macht, und auf andre den Menschen zum
               Vieh! So wardst auch du, Jupiter, ein Schwan aus Liebe zu Leda. O, allgewaltige Liebe!
@@ -5444,7 +5445,7 @@
             <p>Fort! Fort! –</p>
             <stage>Die Frauen laufen davon.</stage>
           </sp>
-          <pb n="545"/>
+          <pb n="546"/>
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Ich denke, der Teufel will mich nicht verdammt sehn, damit das Öl, das ich in mir
@@ -5507,7 +5508,7 @@
               <l>Ihr Wiesenelfen, singt in nächt'ger Stunde,</l>
               <l>Und gleich dem Knieband schließt im Kreis die Runde;</l>
               <l>Laßt, wo der Ring sich zeichnet, üpp'ges Grün</l>
-              <pb n="546"/>
+              <pb n="547"/>
               <l>Und frischern Wuchs als sonst im Feld erblühn,</l>
               <l>Und hony soit qui mal y pense malt</l>
               <l>Mit Blütenschmelz, blau, weiß und rot durchstrahlt,</l>
@@ -5578,7 +5579,7 @@
             <l>Kneipt ihn und brennt ihn und laßt ihn sich drehn,</l>
             <l>Bis Kerzen und Sternlicht und Mondschein vergehn.</l>
           </lg>
-          <pb n="547"/>
+          <pb n="548"/>
           <stage>Während des Gesanges kneipen sie ihn. – Cajus kommt von der einen Seite und
             schleicht mit einer Fee in Grün davon; Schmächtig von der andern und holt sich eine Fee
             in Weiß; dann kommt Fenton und geht mit Jungfer Anne Page ab. Jagdgeschrei hinter der
@@ -5636,7 +5637,7 @@
             <p>Sir John Falstaff, tient Kott und entsakt böser Luscht, so werden Feien Euch nicht
               kneipen.</p>
           </sp>
-          <pb n="548"/>
+          <pb n="549"/>
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Wohlgesprochen, Elfe Hugh!</p>
@@ -5711,7 +5712,7 @@
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Ich dächte, Sir, wir führten Euch nach Windsor zu einem gewissen Herrn Bach, den Ihr
-              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb n="549"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
+              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb n="550"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
               Euch noch der bitterste Schmerz sein.</p>
           </sp>
           <sp who="#page">
@@ -5777,7 +5778,7 @@
             <speaker>PAGE.</speaker>
             <p>Oh, ich bin recht verdrießlich; was ist nun da zu machen?</p>
           </sp>
-          <pb n="550"/>
+          <pb n="551"/>
           <sp who="#frau_page">
             <speaker>FRAU PAGE.</speaker>
             <p>Liebster Georg, sei nicht böse: Ich wußte von deinen Plänen, tat meine Tochter in
@@ -5853,7 +5854,7 @@
               <l>Ihr's recht darauf angelegt hattet, mich zu treffen.</l>
             </lg>
           </sp>
-          <pb n="551"/>
+          <pb n="552"/>
           <sp who="#page">
             <speaker>PAGE.</speaker>
             <lg>

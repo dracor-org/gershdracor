@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="389"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -97,8 +98,8 @@
         <castItem>Brabantio, Senator</castItem>
         <castItem>Mehrere Senatoren</castItem>
         <castGroup>
-          <castItem>Gratiano,</castItem>
-          <castItem>Lodovico,</castItem>
+          <castItem>Gratiano</castItem>
+          <castItem>Lodovico</castItem>
           <roleDesc>Verwandte des Brabantio</roleDesc>
         </castGroup>
         <castItem>Othello, Feldherr; Mohr</castItem>
@@ -117,7 +118,7 @@
         <p>Szene im ersten Aufzug in Venedig; hernach in Cypern</p>
       </set>
     </front>
-    <pb n="390"/>
+    <pb n="391"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -167,7 +168,7 @@
               <l>Noch von der Heeresordnung mehr versteht</l>
               <l>Als Jüngferchen; nur Büchertheorie,</l>
               <l>Von der in seiner Toga wohl ein Ratsherr</l>
-              <pb n="391"/>
+              <pb n="392"/>
               <l>So weislich spricht, als er – all seine Kriegskunst</l>
               <l>Geschwätz, nicht Praxis –, der nun wird erwählt;</l>
               <l>Und ich, von dem sein Auge Proben sah</l>
@@ -222,7 +223,7 @@
               <l>Der Himmel weiß es! nicht aus Lieb' und Pflicht,</l>
               <l>Nein, nur zum Schein, für meinen eignen Zweck:</l>
               <l>Denn wenn mein äußres Tun je offenbart</l>
-              <pb n="392"/>
+              <pb n="393"/>
               <l>Des Herzens angeborne Art und Neigung</l>
               <l>In Haltung und Gebärde, dann alsbald</l>
               <l>Will ich mein Herz an meinem Ärmel tragen</l>
@@ -316,7 +317,7 @@
             <speaker>BRABANTIO.</speaker>
             <l>Ich nicht! Wer bist du?</l>
           </sp>
-          <pb n="393"/>
+          <pb n="394"/>
           <sp who="#rodrigo">
             <speaker>RODRIGO.</speaker>
             <l>Rodrigo heiß' ich.</l>
@@ -402,7 +403,7 @@
               <l>Bewacht, als durch 'nen feilen Gondolier –</l>
               <l>Den rohen Küssen eines üpp'gen Mohren? –</l>
               <l>Wenn Ihr das wißt und einverstanden seid, –</l>
-              <pb n="394"/>
+              <pb n="395"/>
               <l>So taten wir Euch groben, frechen Schimpf.</l>
               <l>Doch wißt Ihr's nicht, dann sagt mir Sitt' und Anstand,</l>
               <l>Ihr scheltet uns mit Unrecht. Nimmer glaubt,</l>
@@ -457,7 +458,7 @@
             <lg>
               <l>Zu wahr nur ist dies Unglück! Sie ist fort,</l>
               <l>Und was mir nachbleibt vom verhaßten Leben,</l>
-              <pb n="395"/>
+              <pb n="396"/>
               <l>Ist nichts als Bitterkeit. – Nun sag, Rodrigo,</l>
               <l>Wo hast du sie gesehn? – Oh, töricht Kind! –</l>
               <l>Der Mohr, sagst du! – Wer möchte Vater sein? –</l>
@@ -530,7 +531,7 @@
             <speaker>OTHELLO.</speaker>
             <l>'s ist besser so.</l>
           </sp>
-          <pb n="396"/>
+          <pb n="397"/>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
             <lg>
@@ -601,7 +602,7 @@
               <l>Im Augenblick.</l>
             </lg>
           </sp>
-          <pb n="397"/>
+          <pb n="398"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Was, meint Ihr, ist im Werk? –</l>
@@ -703,7 +704,7 @@
             <lg>
               <l>O schnöder Dieb! Was ward aus meiner Tochter?</l>
               <l>Du hast, verdammter Frevler, sie bezaubert;</l>
-              <pb n="398"/>
+              <pb n="399"/>
               <l>Denn alles, was Vernunft hegt, will ich fragen,</l>
               <l>Wenn nicht ein magisch Band sie hält gefangen,</l>
               <l>Ob eine Jungfrau, zart und schön und glücklich,</l>
@@ -767,7 +768,7 @@
               <l>Jetzt um die Mitternacht? – Führt ihn dahin;</l>
               <l>Nicht schlecht ist mein Gesuch. Der Herzog selbst,</l>
               <l>Und jeglicher von meinen Amtsgenossen,</l>
-              <pb n="399"/>
+              <pb n="400"/>
               <l>Muß fühlen meine Kränkung wie sein eigen:</l>
               <l>Denn läßt man solche Untat straflos schalten,</l>
               <l>Wird Heid' und Sklav' bei uns als Herrscher walten.</l>
@@ -850,7 +851,7 @@
               <l>Den Blick uns fehl zu leiten. Denken wir,</l>
               <l>Wie wichtig Cypern für den Türken sei,</l>
               <l>Und wiederum, gestehn wir selber ein,</l>
-              <pb n="400"/>
+              <pb n="401"/>
               <l>Daß, wie's dem Türken mehr verlohnt als Rhodus,</l>
               <l>Er auch mit leichterm Aufwand sich's erobert,</l>
               <l>Dieweil es nicht so kriegsgerüstet steht</l>
@@ -932,7 +933,7 @@
               <l>Und Eurer mir, mein güt'ger Fürst, verzeiht mir!</l>
               <l>Nicht Amtsberuf noch Nachricht von Geschäften</l>
               <l>Trieb mich vom Bett; nicht allgemeine Sorge</l>
-              <pb n="401"/>
+              <pb n="402"/>
               <l>Erfüllt mich jetzt: denn mein besondrer Gram</l>
               <l>Gleich einer Springflut strömt so wild dahin,</l>
               <l>Daß er verschluckt und einschlingt jede Sorge,</l>
@@ -1010,7 +1011,7 @@
               <l>Nur Kriegestat im Felde wie im Lager;</l>
               <l>Und wenig lernt' ich von dem Lauf der Welt,</l>
               <l>Als was zum Streit gehört und Werk der Schlacht;</l>
-              <pb n="402"/>
+              <pb n="403"/>
               <l>Drum wenig Schmuck wohl leih' ich meiner Sache,</l>
               <l>Red' ich für mich. Dennoch, mit eurer Gunst,</l>
               <l>Erzähl' ich schlicht und ungefärbt den Hergang</l>
@@ -1074,7 +1075,7 @@
             <l>Holt Desdemona her!</l>
             <stage>Einige vom Gefolge gehen hinaus.</stage>
           </sp>
-          <pb n="403"/>
+          <pb n="404"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Fähndrich, geht mit, Ihr wißt den Ort am besten.</l>
@@ -1122,7 +1123,7 @@
               <l>Die ganze Pilgerschaft ihr zu erzählen,</l>
               <l>Von der sie stückweis einzelnes gehört,</l>
               <l>Doch nicht in strenger Folge. Ich begann,</l>
-              <pb n="404"/>
+              <pb n="405"/>
               <l>Und oftmals hatt' ich Tränen ihr entlockt,</l>
               <l>Wenn ich ein leidvoll Abenteu'r berichtet</l>
               <l>Aus meiner Jugend. Als ich nun geendigt,</l>
@@ -1175,7 +1176,7 @@
               <l>Wie ich Euch Tochter. Doch hier steht mein Gatte,</l>
               <l>Und so viel Pflicht, als meine Mutter Euch</l>
               <l>Gezeigt, da sie Euch vorzog ihrem Vater,</l>
-              <pb n="405"/>
+              <pb n="406"/>
               <l>So viel muß ich auch meinem Gatten widmen,</l>
               <l>Dem Mohren, meinem Herrn.</l>
             </lg>
@@ -1231,7 +1232,7 @@
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Der Türke segelt mit gewaltiger Kriegsrüstung gegen Cypern. Othello, Euch ist die
-              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb n="406"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
+              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb n="407"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
               Meinung, jene unbeschränkte Gebieterin des Erfolgs, eine größere Zuversicht zu Euch.
               Ihr müßt Euch deshalb gefallen lassen, den Glanz Eures neuen Glücks durch diese rauhe
               und stürmische Unternehmung zu verdunkeln.</p>
@@ -1295,7 +1296,7 @@
               <l>Drum, würd'ge Herrn, läßt man mich hier zurück,</l>
               <l>Als Friedensmotte, weil er zieht ins Feld,</l>
               <l>So raubt man meiner Liebe teures Recht,</l>
-              <pb n="407"/>
+              <pb n="408"/>
               <l>Und läßt mir eine schwere Zwischenzeit,</l>
               <l>Dem Liebsten fern: drum laßt mich mit ihm ziehn!</l>
             </lg>
@@ -1371,7 +1372,7 @@
               <l>Dürft Ihr nicht häßlich Euern Eidam nennen.</l>
             </lg>
           </sp>
-          <pb n="408"/>
+          <pb n="409"/>
           <sp who="#erster_senator">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Lebt wohl, Mohr! Liebt und ehret Desdemona!</l>
@@ -1444,7 +1445,7 @@
             <speaker>JAGO.</speaker>
             <p>Tugend! Abgeschmackt! – In uns selber liegt's, ob wir so sind, oder anders. Unser
               Körper ist ein Garten, und unser Wille der Gärtner, so daß, ob wir Nesseln drin
-              pflanzen wollen oder Salat bauen, Ysop aufziehn oder Thymian ausjäten, <pb n="409"/>
+              pflanzen wollen oder Salat bauen, Ysop aufziehn oder Thymian ausjäten, <pb n="410"/>
               ihn dürftig mit einerlei Kraut besetzen oder mit mancherlei Gewächs aussaugen, ihn
               müßig verwildern lassen oder fleißig in Zucht halten, – ei, das Vermögen dazu und die
               bessernde Macht liegt durchaus in unserm freien Willen. Hätte der Waagbalken unsres
@@ -1477,7 +1478,7 @@
               Geld, so viel du kannst! Wenn des Priesters Segen und ein hohles Gelübde zwischen
               einem abenteuernden Afrikaner und einer überlistigen Venetianerin für meinen Witz und
               die ganze Sippschaft der Hölle nicht zu hart sind, so sollst du sie besitzen; darum
-              schaff' dir Geld! Zum <pb n="410"/> Henker mit dem Ersäufen! Das liegt weit ab von
+              schaff' dir Geld! Zum <pb n="411"/> Henker mit dem Ersäufen! Das liegt weit ab von
               deinem Wege. Denke du lieber drauf zu hängen, indem du deine Lust büßest, als dich zu
               ersäufen und sie fahren zu lassen!</p>
           </sp>
@@ -1540,7 +1541,7 @@
               <l>Sein Amt erhaschen, mein Gelüste büßen, –</l>
               <l>Ein doppelt Schelmstück! Wie nur? Laßt mich sehn: –</l>
               <l>Nach ein'ger Zeit Othellos Ohr betören,</l>
-              <pb n="411"/>
+              <pb n="412"/>
               <l>Er sei mit seinem Weibe zu vertraut –</l>
               <l>Der Bursch ist wohlgebaut, von schmeid'ger Art,</l>
               <l>Recht für den Argwohn, recht den Frau'n gefährlich.</l>
@@ -1555,7 +1556,7 @@
           </sp>
         </div>
       </div>
-      <pb n="412"/>
+      <pb n="413"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1611,7 +1612,7 @@
             <lg>
               <l>Botschaft, ihr Herrn! Der Krieg ist aus,</l>
               <l>Der wüt'ge Sturm nahm so die Türken mit,</l>
-              <pb n="413"/>
+              <pb n="414"/>
               <l>Daß ihre Landung hinkt – ein Kriegsschiff von Venedig</l>
               <l>War Zeuge grauser Not und Haverei</l>
               <l>Des Hauptteils ihrer Flotte.</l>
@@ -1692,7 +1693,7 @@
             <speaker>CASSIO.</speaker>
             <l>Was rufen sie? –</l>
           </sp>
-          <pb n="414"/>
+          <pb n="415"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
@@ -1773,7 +1774,7 @@
               <l>Entflamme glühend unsern lauten Mut,</l>
               <l>Und bringe Cypern Tröstung! Seht, o seht! –</l>
               <stage>Desdemona, Jago, Rodrigo und Emilia treten auf.</stage>
-              <pb n="415"/>
+              <pb n="416"/>
               <l>Des Schiffes Reichtum ist ans Land gekommen! –</l>
               <l>Ihr, Cyperns Edle, neigt euch huldigend:</l>
               <l>Heil dir, o Herrin! und des Himmels Gnade</l>
@@ -1858,7 +1859,7 @@
             <lg>
               <l>Geht, geht! Ihr seid Gemälde außerm Haus,</l>
               <l>Schellen im Zimmer, Drachen in der Küche;</l>
-              <pb n="416"/>
+              <pb n="417"/>
               <l>Verletzt ihr: Heil'ge; Teufel, kränkt man euch;</l>
               <l>Spielt mit dem Haushalt, haltet Haus im Bett.</l>
             </lg>
@@ -1958,7 +1959,7 @@
               <l>Trotz Hübschen und Gescheiten macht sie 'nen dummen Streich.</l>
             </lg>
           </sp>
-          <pb n="417"/>
+          <pb n="418"/>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
             <p>O grober Unverstand! Du preisest die Schlechtste am besten. Aber welches Lob bleibt
@@ -2014,7 +2015,7 @@
             <stage>Trompetenstoß.</stage>
             <l>Der Mohr! Ich kenne sein Signal. –</l>
           </sp>
-          <pb n="418"/>
+          <pb n="419"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <l>Er ist's!</l>
@@ -2093,7 +2094,7 @@
               <l>Ich schwatze alles durcheinander, schwärme</l>
               <l>Im neuen Glück. – Ich bitt' dich, guter Jago,</l>
               <l>Geh nach der Bucht, und schaff' ans Land die Kisten;</l>
-              <pb n="419"/>
+              <pb n="420"/>
               <l>Bring' auch den Schiffsherrn mir zur Zitadelle;</l>
               <l>Es ist ein wackrer Seemann, des Verdienst</l>
               <l>Ich hoch belohnen muß. Komm, Desdemona,</l>
@@ -2132,7 +2133,7 @@
               als er die äußere Form eines sittsamen und gebildeten Betragens annimmt, um seine
               lockern, geheimen, wilden Neigungen um so leichter zu befriedigen. – Nein, keiner,
               keiner! ein glatter geschmeidiger Bube; ein Gelegenheitshascher, dessen Blick Vorteile
-              prägt und falschmünzt, wenn selbst kein <pb n="420"/> wirklicher Vorteil sich ihm
+              prägt und falschmünzt, wenn selbst kein <pb n="421"/> wirklicher Vorteil sich ihm
               darbietet: ein Teufelsbube! Überdem ist der Bube hübsch, jung und hat alle die
               Erfordernisse, wonach Torheit und grüner Verstand hinschielen: ein verdammter,
               ausgemachter Bube! und sie hat ihn schon ausgefunden.</p>
@@ -2181,7 +2182,7 @@
             <speaker>RODRIGO.</speaker>
             <p>Das will ich tun, wenn du mir Gelegen heit gibst.</p>
           </sp>
-          <pb n="421"/>
+          <pb n="422"/>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
             <p>Dafür steh' ich dir. Komm nur sogleich auf die Zitadelle, ich muß jetzt sein Gepäck
@@ -2233,7 +2234,7 @@
           <sp who="#herold">
             <speaker>HEROLD.</speaker>
             <p>»Es ist Othellos, unsres edeln und tapfern Generals, Wunsch, daß auf die
-              zuverlässige, jetzt eingegangene Nachricht <pb n="422"/> von der gänzlichen
+              zuverlässige, jetzt eingegangene Nachricht <pb n="423"/> von der gänzlichen
               Vernichtung der türkischen Flotte jedermann seine Freude kund tue; sei es durch Tanz
               oder Lustfeuer, oder wie ihn sonst seine Neigung zu Spiel und Kurzweil treibt; denn
               außer jenem erfreulichen Ereignis feiert er heut seine Hochzeit: solches wird auf
@@ -2299,7 +2300,7 @@
             <speaker>CASSIO.</speaker>
             <p>Gewiß, sie ist ein blühendes, süßes Geschöpf.</p>
           </sp>
-          <pb n="423"/>
+          <pb n="424"/>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
             <p>Welch ein Auge! Mir scheint es wie ein Aufruf zur Verführung.</p>
@@ -2370,7 +2371,7 @@
               <l>Dem wahren Ausbund hier der mut'gen Jugend,</l>
               <l>Hab' ich mit vollen Flaschen zugesetzt;</l>
               <l>Die wachen auch. – Nun, in der trunknen Schar</l>
-              <pb n="424"/>
+              <pb n="425"/>
               <l>Reiz' ich Herrn Cassio wohl zu solcher Tat,</l>
               <l>Die alles hier empört. – Doch still, sie kommen. –</l>
               <l>Hat nur Erfolg, was jetzt mein Kopf ersinnt,</l>
@@ -2438,7 +2439,7 @@
               <l>Und schalt den Schneider einen Bock.</l>
               <l>Und war ein Fürst von großer Macht,</l>
               <l>Und du bist solch geringer Mann:</l>
-              <pb n="425"/>
+              <pb n="426"/>
               <l>Stolz hat manch Haus zu Fall gebracht,</l>
               <l>Drum zieh' den alten Kittel an!</l>
               <l>Wein her, sag' ich! –</l>
@@ -2523,7 +2524,7 @@
             <speaker>MONTANO.</speaker>
             <lg>
               <l>Dann wär' es gut,</l>
-              <pb n="426"/>
+              <pb n="427"/>
               <l>Man meldete den Fall dem General:</l>
               <l>Vielleicht, daß er's nicht sieht; vielleicht gewahrt</l>
               <l>Sein gutes Herz die Tugend nur am Cassio,</l>
@@ -2608,7 +2609,7 @@
             <stage>Leise zu Rodrigo.</stage>
             <l>Eil' und rufe Meuterei!</l>
             <stage>Rodrigo ab.</stage>
-            <pb n="427"/>
+            <pb n="428"/>
             <lg>
               <l>Still doch, Herr Leutnant! Still doch, liebe Herrn!</l>
               <l>He, Hülfe! Leutnant, – Herr, – Montano, – Herr! –</l>
@@ -2682,7 +2683,7 @@
               <l>Würd'ger Montan, Ihr schient mir sonst gesittet;</l>
               <l>Die Ruh' und edle Haltung Eurer Jugend</l>
               <l>Pries alle Welt, und Euer Name prangte</l>
-              <pb n="428"/>
+              <pb n="429"/>
               <l>Im Lob der Weisen: sagt mir denn, wie kam's,</l>
               <l>Daß Ihr so abgestreift den guten Ruf,</l>
               <l>Und Eures Leumunds Reichtum für den Namen</l>
@@ -2741,7 +2742,7 @@
               <l>Da kommt ein Mensch, der laut um Hülfe schreit;</l>
               <l>Und Cassio folgt ihm mit gezücktem Schwert,</l>
               <l>Ihn zu verwunden; drauf trat dieser Herr</l>
-              <pb n="429"/>
+              <pb n="430"/>
               <l>Cassio entgegen, bat ihn, still zu sein;</l>
               <l>Und ich derweil verfolgte jenen Schreier,</l>
               <l>Damit sein Ruf nicht (wie es doch geschah)</l>
@@ -2796,7 +2797,7 @@
             </lg>
             <stage>Alle ab; es bleiben Jago und Cassio.</stage>
           </sp>
-          <pb n="430"/>
+          <pb n="431"/>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
             <p>Seid Ihr verwundet, Leutnant?</p>
@@ -2858,7 +2859,7 @@
             <speaker>JAGO.</speaker>
             <p>Nun, aber du scheinst mir jetzt recht wohl; wie hast du dich so schnell erholt? –</p>
           </sp>
-          <pb n="431"/>
+          <pb n="432"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <p>Es hat dem Teufel Trunkenheit gefallen, dem Teufel Zorn Platz zu machen. Eine
@@ -2912,7 +2913,7 @@
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <p>Das glaube ich zuversichtlich, und gleich morgen früh will ich die tugendhafte
-              Desdemona ersuchen, sich für mich <pb n="432"/> zu verwenden. Ich verzweifle an meinem
+              Desdemona ersuchen, sich für mich <pb n="433"/> zu verwenden. Ich verzweifle an meinem
               Glück, wenn's mich hier zurück stößt.</p>
           </sp>
           <sp who="#jago">
@@ -2961,7 +2962,7 @@
           <sp who="#rodrigo">
             <speaker>RODRIGO.</speaker>
             <p>Ich folge hier der Meute, nicht wie ein Hund, der jagt, sondern wie einer, der nur
-              anschlägt. Mein Geld ist fast <pb n="433"/> vertan; ich bin heut nacht tüchtig
+              anschlägt. Mein Geld ist fast <pb n="434"/> vertan; ich bin heut nacht tüchtig
               durchgeprügelt, und ich denke, das Ende wird sein, daß ich für meine Mühe doch etwas
               Erfahrung gewinne, und so, ganz ohne Geld und mit etwas mehr Verstand, nach Venedig
               heimkehre.</p>
@@ -2997,7 +2998,7 @@
           </sp>
         </div>
       </div>
-      <pb n="434"/>
+      <pb n="435"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -3053,7 +3054,7 @@
               Cassio, der sie um die Vergünstigung eines kurzen Gesprächs bitte. Willst du das
               tun?</p>
           </sp>
-          <pb n="435"/>
+          <pb n="436"/>
           <sp who="#narr">
             <speaker>NARR.</speaker>
             <p>Munter ist sie, Herr; wenn sie sich hierher ermuntern will, so werd' ich's ihr
@@ -3133,7 +3134,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="436"/>
+        <pb n="437"/>
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ebendaselbst.</stage>
@@ -3215,7 +3216,7 @@
               <l>Der Feldherr meiner Lieb' und Treu' vergißt.</l>
             </lg>
           </sp>
-          <pb n="437"/>
+          <pb n="438"/>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
             <lg>
@@ -3308,7 +3309,7 @@
             <lg>
               <l>Nun, deinen Leutnant Cassio. Teurer Freund,</l>
               <l>Hat meine Liebe Kraft, dich zu bewegen,</l>
-              <pb n="438"/>
+              <pb n="439"/>
               <l>Dann augenblicks versöhne dich mit ihm! –</l>
               <l>Ist er nicht einer, der dich wahrhaft liebt,</l>
               <l>Aus Übereilung fehlt', und nicht aus Vorsatz,</l>
@@ -3393,7 +3394,7 @@
               <l>Es ist, als bät' ich dich, Handschuh' zu tragen,</l>
               <l>Dich warm zu halten, kräft'ge Kost zu nehmen,</l>
               <l>Oder als riet' ich dir besondre Sorgfalt</l>
-              <pb n="439"/>
+              <pb n="440"/>
               <l>Für deine Pflege – nein, hab' ich zu bitten,</l>
               <l>Was deine Liebe recht in Anspruch nimmt,</l>
               <l>Dann muß es schwierig sein und voll Gewicht,</l>
@@ -3509,7 +3510,7 @@
               <l>Hm, denken, gnäd'ger Herr! Bei Gott, mein Echo!</l>
               <l>Als läg' ein Ungeheu'r in seinem Sinn,</l>
               <l>Zu gräßlich, es zu zeigen. – Etwas meinst du:</l>
-              <pb n="440"/>
+              <pb n="441"/>
               <l>Jetzt eben riefst du: »Das gefällt mir nicht!« –</l>
               <l>Als Cassio fortging. Was gefällt dir nicht? –</l>
               <l>Und als ich sagt', ihm hab' ich mich vertraut</l>
@@ -3587,7 +3588,7 @@
               <l>Mit rechtsgemäßer Forschung?</l>
             </lg>
           </sp>
-          <pb n="441"/>
+          <pb n="442"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <lg>
@@ -3666,7 +3667,7 @@
               <l>Arm und vergnügt ist reich und überreich;</l>
               <l>Doch Krösus' Reichtum ist so arm als Winter</l>
               <l>Für den, der immer fürchtet, er verarme: –</l>
-              <pb n="442"/>
+              <pb n="443"/>
               <l>O Himmel, schütz' all meiner Freunde Herz</l>
               <l>Vor Eifersucht! –</l>
             </lg>
@@ -3731,7 +3732,7 @@
             <lg>
               <l>Nun folglich:</l>
               <l>Sie, die so jung sich so verstellen konnte,</l>
-              <pb n="443"/>
+              <pb n="444"/>
               <l>Daß sie des Vaters Blick mit Nacht umhüllte,</l>
               <l>Daß er's für Zauber hielt – doch scheltet mich: –</l>
               <l>In Demut bitt' ich Euch, Ihr wollt verzeihn,</l>
@@ -3818,7 +3819,7 @@
             <l>Lebt wohl, mein gnäd'ger Herr!</l>
             <stage>Abgehend.</stage>
           </sp>
-          <pb n="444"/>
+          <pb n="445"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <lg>
@@ -3877,7 +3878,7 @@
               <l>Schon im Entstehn schwebt der gehörnte Fluch</l>
               <l>Auf unsrer Scheitel. Siehe da, sie kommt: –</l>
               <stage>Desdemona und Emilia treten auf.</stage>
-              <pb n="445"/>
+              <pb n="446"/>
               <l>Ist diese falsch, so spottet sein der Himmel! –</l>
               <l>Ich will's nicht glauben!</l>
             </lg>
@@ -3972,7 +3973,7 @@
             <speaker>EMILIA.</speaker>
             <lg>
               <l>Welch Taschentuch?</l>
-              <pb n="446"/>
+              <pb n="447"/>
               <l>Ei nun, des Mohren erstes Brautgeschenk,</l>
               <l>Das du so oft mir zu entwenden hießest.</l>
             </lg>
@@ -4060,7 +4061,7 @@
             <speaker>JAGO.</speaker>
             <l>Wie, Gen'ral?</l>
           </sp>
-          <pb n="447"/>
+          <pb n="448"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <lg>
@@ -4139,7 +4140,7 @@
             <speaker>JAGO.</speaker>
             <lg>
               <l>O Gnad'! O Himmel! Schützt mich! –</l>
-              <pb n="448"/>
+              <pb n="449"/>
               <l>Seid Ihr ein Mann? Habt Ihr Vernunft und Sinn? –</l>
               <l>Fahrt wohl denn! Nehmt mein Amt! – Ich blöder Tor,</l>
               <l>Des Lieb' und Redlichkeit als Laster gilt! –</l>
@@ -4214,7 +4215,7 @@
               <l>Euch Überzeugung schafften, solche hätt' ich.</l>
             </lg>
           </sp>
-          <pb n="449"/>
+          <pb n="450"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Gib sprechende Beweise, daß sie falsch!</l>
@@ -4302,7 +4303,7 @@
             <lg>
               <l>Oh! daß der Sklav' zehntausend Leben hätte!</l>
               <l>Eins ist zu arm, zu schwach für meine Rache!</l>
-              <pb n="450"/>
+              <pb n="451"/>
               <l>Nun seh' ich, es ist wahr. Blick' her, o Jago,</l>
               <l>So blas' ich meine Lieb' in alle Winde: –</l>
               <l>Hin ist sie. –</l>
@@ -4378,7 +4379,7 @@
             <speaker>OTHELLO.</speaker>
             <lg>
               <l>Verdammt, verdammt sei sie, die büb'sche Dirne!</l>
-              <pb n="451"/>
+              <pb n="452"/>
               <l>Komm, folge heimlich mir, ich will im stillen</l>
               <l>Ein schnelles Todesmittel mir verschaffen</l>
               <l>Für diesen schönen Teufel. – Nun bist du mein Leutnant!</l>
@@ -4461,7 +4462,7 @@
             <lg>
               <l>Glaub' mir, viel lieber mißt' ich meine Börse,</l>
               <l>Voll von Crusados. Wär' mein edler Mohr</l>
-              <pb n="452"/>
+              <pb n="453"/>
               <l>Nicht großgesinnt und frei vom niedern Stoff</l>
               <l>Der Eifersucht, dies könnt' auf schlimme Meinung</l>
               <l>Ihn führen.</l>
@@ -4571,7 +4572,7 @@
             <speaker>OTHELLO.</speaker>
             <l>Nicht?</l>
           </sp>
-          <pb n="453"/>
+          <pb n="454"/>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
             <l>Wirklich nicht, mein Teurer.</l>
@@ -4667,7 +4668,7 @@
               <l>Ich bitt' dich, nimm den Cassio wieder an!</l>
             </lg>
           </sp>
-          <pb n="454"/>
+          <pb n="455"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>So hole mir das Tuch: mir ahnet Schlimmes.</l>
@@ -4760,7 +4761,7 @@
               <l>Ach, mein edler Cassio,</l>
               <l>Diesmal ist meine Anwaltschaft umsonst;</l>
               <l>Mein Herr ist nicht mein Herr, ich kennt' ihn nicht,</l>
-              <pb n="455"/>
+              <pb n="456"/>
               <l>Wär' er im Antlitz wie im Geist verwandelt. –</l>
               <l>So mag mir jeder fromme Engel helfen,</l>
               <l>Wie ich für Euch nach besten Kräften sprach;</l>
@@ -4830,7 +4831,7 @@
             <lg>
               <l>Das ist den Eifersücht'gen einerlei,</l>
               <l>Sie sind nicht stets aus Anlaß eifersüchtig,</l>
-              <pb n="456"/>
+              <pb n="457"/>
               <l>Sie eifern, weil sie eifern; 's ist ein Scheusal,</l>
               <l>Erzeugt von selbst, geboren aus sich selbst.</l>
             </lg>
@@ -4914,7 +4915,7 @@
             <speaker>BIANCA.</speaker>
             <l>Nun, woher kam's?</l>
           </sp>
-          <pb n="457"/>
+          <pb n="458"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <lg>
@@ -4966,7 +4967,7 @@
           </sp>
         </div>
       </div>
-      <pb n="458"/>
+      <pb n="459"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -5054,7 +5055,7 @@
             <speaker>JAGO.</speaker>
             <l>Nun was denn?</l>
           </sp>
-          <pb n="459"/>
+          <pb n="460"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Das ist doch nicht gut, gewiß! –</l>
@@ -5146,7 +5147,7 @@
               <l>Nein, laß ab:</l>
               <l>Laß ihn in seiner Starrsucht ungestört;</l>
               <l>Sonst schäumt er vor dem Mund und rast alsbald</l>
-              <pb n="460"/>
+              <pb n="461"/>
               <l>In wilder Tobsucht. Sieh, er rührt sich wieder;</l>
               <l>Entferne dich auf einen Augenblick,</l>
               <l>Er wird sich schnell erholen; wenn er fort ist,</l>
@@ -5216,7 +5217,7 @@
               <l>Wo, wann, wie oft, wie lange schon und wie</l>
               <l>Er Euer Weib geherzt und herzen wird;</l>
               <l>Merkt, sag' ich, sein Gebärdenspiel! O still doch! –</l>
-              <pb n="461"/>
+              <pb n="462"/>
               <l>Sonst denk' ich, Ihr seid ganz und gar nur Wut</l>
               <l>Und nichts von einem Manne.</l>
             </lg>
@@ -5310,7 +5311,7 @@
               <l>Ist das dein Ernst?</l>
             </lg>
           </sp>
-          <pb n="462"/>
+          <pb n="463"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <l>Ha, ha, ha, ha!</l>
@@ -5397,7 +5398,7 @@
             <p>Mag der Teufel und seine Großmutter dir nachlaufen! – Was hast du mit dem Taschentuch
               vor, das du mir jetzt eben gabst? Ich war eine rechte Närrin, daß ich's nahm. Ich soll
               die ganze Arbeit abzeichnen? Recht wahrscheinlich, daß du's in deinem Zimmer sollst
-              gefunden haben und nicht wissen, <pb n="463"/> wer's daließ 's ist das Geschenk
+              gefunden haben und nicht wissen, <pb n="464"/> wer's daließ 's ist das Geschenk
               irgendeines Schätzchens, und ich soll die Arbeit abzeichnen? Da gib's deinem
               Steckenpferde: woher du's auch hast, ich werde die Stickerei nicht abzeichnen.</p>
           </sp>
@@ -5495,7 +5496,7 @@
           </sp>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
-            <p>Sei sie verdammt! Ich sage nur, was sie ist: – So <pb n="464"/> geschickt mit ihrer
+            <p>Sei sie verdammt! Ich sage nur, was sie ist: – So <pb n="465"/> geschickt mit ihrer
               Nadel! – Eine wunderwürdige Tonkünstlerin! – Oh! sie würde die Wildheit eines Bären
               zahm singen! – Von so feinem, herrlichem Witz, so geistreich! –</p>
           </sp>
@@ -5587,7 +5588,7 @@
             <l>Euch grüßt Venedigs Herzog und Senat.</l>
             <stage>Er übergibt ihm einen Brief.</stage>
           </sp>
-          <pb n="465"/>
+          <pb n="466"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Ich küsse seines Willens Dokument.</l>
@@ -5716,7 +5717,7 @@
               <l>Mir aus den Augen!</l>
             </lg>
           </sp>
-          <pb n="466"/>
+          <pb n="467"/>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
             <l>Ich geh', Euch nicht zu ärgern.</l>
@@ -5815,7 +5816,7 @@
             <speaker>JAGO.</speaker>
             <lg>
               <l>Ach leider!</l>
-              <pb n="467"/>
+              <pb n="468"/>
               <l>Nicht wär's gewissenhaft von mir, erzählt' ich,</l>
               <l>Was ich erfuhr und sah. Habt acht auf ihn:</l>
               <l>Sein eigner Wandel wird ihn so bezeichnen,</l>
@@ -5900,7 +5901,7 @@
             <lg>
               <l>Sie sagt genug; doch jede Kupplerin</l>
               <l>Erzählt dasselbe. Schlau ist diese Metze,</l>
-              <pb n="468"/>
+              <pb n="469"/>
               <l>Ein heimlich Schloß und Riegel schnöder Sünden:</l>
               <l>Doch kniet und betet sie; ich sah es selbst! –</l>
             </lg>
@@ -5991,7 +5992,7 @@
               <l>Nun, ich verlor ihn auch.</l>
             </lg>
           </sp>
-          <pb n="469"/>
+          <pb n="470"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <lg>
@@ -6053,7 +6054,7 @@
             <speaker>DESDEMONA.</speaker>
             <l>Bei Gott, Ihr tut mir Unrecht!</l>
           </sp>
-          <pb n="470"/>
+          <pb n="471"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Du keine Metze?</l>
@@ -6159,7 +6160,7 @@
             <speaker>JAGO.</speaker>
             <l>Was wünscht Ihr, gnäd'ge Frau? Wie geht es Euch?</l>
           </sp>
-          <pb n="471"/>
+          <pb n="472"/>
           <sp who="#desdemona">
             <speaker>DESDEMONA.</speaker>
             <lg>
@@ -6266,7 +6267,7 @@
               <l>Vom Ost zum fernen West!</l>
             </lg>
           </sp>
-          <pb n="472"/>
+          <pb n="473"/>
           <sp who="#jago">
             <speaker>JAGO.</speaker>
             <l>Schrei doch nicht so! –</l>
@@ -6338,7 +6339,7 @@
             <speaker>JAGO.</speaker>
             <p>Und warum das Gegenteil?</p>
           </sp>
-          <pb n="473"/>
+          <pb n="474"/>
           <sp who="#rodrigo">
             <speaker>RODRIGO.</speaker>
             <p>Jeden Tag fertigst du mich mit einer Ausrede ab, Jago, und hältst mich vielmehr (wie
@@ -6403,7 +6404,7 @@
               hast sehr gegründete Einwendungen gegen mich vorgebracht, und dennoch, schwöre ich
               dir, bin ich in deiner Sache sehr grade zu Werke gegangen.</p>
           </sp>
-          <pb n="474"/>
+          <pb n="475"/>
           <sp who="#rodrigo">
             <speaker>RODRIGO.</speaker>
             <p>Das hat sich wenig gezeigt.</p>
@@ -6469,7 +6470,7 @@
             <stage>Sie gehn ab.</stage>
           </sp>
         </div>
-        <pb n="475"/>
+        <pb n="476"/>
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Vorsaal im Schlosse.</stage>
@@ -6568,7 +6569,7 @@
               <l>Und lief davon. Sie hatt' ein Lied von Weide,</l>
               <l>Ein altes Ding, doch paßt' es für ihr Lied;</l>
               <l>Sie starb, indem sie's sang. Das Lied heut nacht</l>
-              <pb n="476"/>
+              <pb n="477"/>
               <l>Kommt mir nicht aus dem Sinn; ich hab' zu schaffen,</l>
               <l>Daß ich nicht auch den Kopf so häng' und singe</l>
               <l>Wie's arme Bärbel. Bitt' dich, mach' geschwind!</l>
@@ -6654,7 +6655,7 @@
             <speaker>DESDEMONA.</speaker>
             <l>Tät'st du dergleichen um die ganze Welt?</l>
           </sp>
-          <pb n="477"/>
+          <pb n="478"/>
           <sp who="#emilia">
             <speaker>EMILIA.</speaker>
             <l>Nun, tätet Ihr's nicht?</l>
@@ -6726,7 +6727,7 @@
               <l>Wenn sie uns andre vorziehn? Ist es Lust?</l>
               <l>Ich denke, ja; treibt sie die Leidenschaft?</l>
               <l>Ich denke, ja; ist's Schwachheit, die sie tört?</l>
-              <pb n="478"/>
+              <pb n="479"/>
               <l>Gewiß; und haben wir nicht Leidenschaft?</l>
               <l>Nicht Hang zur Lust? Und Schwachheit gleich den Männern?</l>
               <l>Drum, wenn der Mann sich treulos von uns kehrte,</l>
@@ -6743,7 +6744,7 @@
           </sp>
         </div>
       </div>
-      <pb n="479"/>
+      <pb n="480"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -6799,7 +6800,7 @@
             <l>Es ist sein Gang, er kommt. – So stirb, du Schurk'! –</l>
             <stage>Er läuft auf Cassio zu und verwundet ihn.</stage>
           </sp>
-          <pb n="480"/>
+          <pb n="481"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <lg>
@@ -6905,7 +6906,7 @@
             <speaker>JAGO.</speaker>
             <l>Was gibt's?</l>
           </sp>
-          <pb n="481"/>
+          <pb n="482"/>
           <sp who="#gratiano">
             <speaker>GRATIANO.</speaker>
             <l>Das ist Othellos Fähndrich, wie ich glaube.</l>
@@ -7028,7 +7029,7 @@
               <l>Wer jene waren, die Euch so gelähmt?</l>
             </lg>
           </sp>
-          <pb n="482"/>
+          <pb n="483"/>
           <sp who="#cassio">
             <speaker>CASSIO.</speaker>
             <l>Nein.</l>
@@ -7124,7 +7125,7 @@
             </lg>
             <stage>Emilia tritt auf.</stage>
           </sp>
-          <pb n="483"/>
+          <pb n="484"/>
           <sp who="#emilia">
             <speaker>EMILIA.</speaker>
             <l>Was ist geschehn? Ach, Mann, was ist geschehn?</l>
@@ -7209,7 +7210,7 @@
               <l>Doch sterben muß sie, sonst betrügt sie andre.</l>
               <l>Tu' aus das Licht und dann – Tu' aus das Licht; –</l>
               <l>Ja, lösch' ich dich, du flammenheller Diener –</l>
-              <pb n="484"/>
+              <pb n="485"/>
               <l>Kann ich dein vorig Licht dir wiedergeben,</l>
               <l>Sollt' ich's bereun; – doch dein Licht ausgetan,</l>
               <l>Du reizend Muster herrlichster Natur,</l>
@@ -7306,7 +7307,7 @@
               <l>Da ich von Schuld nichts weiß; doch fühl' ich, daß ich fürchte.</l>
             </lg>
           </sp>
-          <pb n="485"/>
+          <pb n="486"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Denk' deiner Sünde!</l>
@@ -7415,7 +7416,7 @@
             <speaker>DESDEMONA.</speaker>
             <l>Was teurer Herr?</l>
           </sp>
-          <pb n="486"/>
+          <pb n="487"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Daß er dein Freund gewesen –</l>
@@ -7532,7 +7533,7 @@
               <l>Kommt sie, wird sie nach meinem Weibe fragen –</l>
               <l>Mein Weib! Mein Weib! – Welch Weib? Ich hab' kein Weib.</l>
               <l>Oh, unerträglich! Oh, furchtbare Stunde!</l>
-              <pb n="487"/>
+              <pb n="488"/>
               <l>Nun, dächt' ich, müßt' ein groß Verfinstern sein</l>
               <l>An Sonn' und Mond, und die erschreckte Erde</l>
               <l>Sich auftun vor Entsetzen.</l>
@@ -7647,7 +7648,7 @@
             <speaker>OTHELLO.</speaker>
             <l>Du hört'st es von ihr selbst, ich tat es nicht.</l>
           </sp>
-          <pb n="488"/>
+          <pb n="489"/>
           <sp who="#emila">
             <speaker>EMILA.</speaker>
             <l>So sagte sie: so muß ich's treu berichten.</l>
@@ -7769,7 +7770,7 @@
             <speaker>EMILIA.</speaker>
             <lg>
               <l>Tu' dein Ärgstes;</l>
-              <pb n="489"/>
+              <pb n="490"/>
               <l>So wert ist diese deine Tat des Himmels</l>
               <l>Als ihrer du.</l>
             </lg>
@@ -7873,7 +7874,7 @@
             <lg>
               <l>O Büberei, verruchte Büberei! –</l>
               <l>Ich denke dran – ich denk' – ich merk's – o Büberei!</l>
-              <pb n="490"/>
+              <pb n="491"/>
               <l>Ich dacht' es gleich – vor Gram möcht' ich mich töten!</l>
               <l>O Büberei! –</l>
             </lg>
@@ -7962,7 +7963,7 @@
             <l>Ich will nicht.</l>
             <stage>Jago macht Miene, sie zu erstechen.</stage>
           </sp>
-          <pb n="491"/>
+          <pb n="492"/>
           <sp who="#gratiano">
             <speaker>GRATIANO.</speaker>
             <l>Den Degen auf ein Weib? –</l>
@@ -8051,7 +8052,7 @@
             </lg>
             <stage>Sie stirbt.</stage>
           </sp>
-          <pb n="492"/>
+          <pb n="493"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <lg>
@@ -8115,7 +8116,7 @@
             <speaker>LODOVICO.</speaker>
             <l>Wo ist der rasche, höchst unsel'ge Mann? –</l>
           </sp>
-          <pb n="493"/>
+          <pb n="494"/>
           <sp who="#othello">
             <speaker>OTHELLO.</speaker>
             <l>Hier steht, der einst Othello war: hier bin ich.</l>
@@ -8229,7 +8230,7 @@
             <lg>
               <l>Ein andrer Brief, verstimmt und voller Zweifel,</l>
               <l>Gefunden auch bei ihm; und diesen, scheint's,</l>
-              <pb n="494"/>
+              <pb n="495"/>
               <l>Wollt' Roderigo an den Schurken senden,</l>
               <l>Doch kam indes wohl Jago selbst zu ihm,</l>
               <l>Ihn zu beruhigen.</l>
@@ -8296,7 +8297,7 @@
               <l>Mehr wert als all sein Volk; des überwundnes Auge,</l>
               <l>Sonst nicht gewöhnt zu schmelzen, sich ergeußt</l>
               <l>In Tränen, wie Arabiens Bäume taun</l>
-              <pb n="495"/>
+              <pb n="496"/>
               <l>Von heilungskräft'gem Balsam – schreibt das alles;</l>
               <l>Und fügt hinzu: daß in Aleppo, wo</l>
               <l>Ein gift'ger Türk' in hohem Turban einst</l>

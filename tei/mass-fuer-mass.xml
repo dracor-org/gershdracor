@@ -83,6 +83,7 @@
     </listRelation>
   </standOff>
   <text>
+    <pb n="211"/>
     <front>
       <titlePage>
         <docAuthor>William Shakespeare</docAuthor>
@@ -100,10 +101,10 @@
         <castItem>Lucio, ein Wüstling</castItem>
         <castItem>Zwei junge Edelleute, Freunde des Lucio</castItem>
         <castItem>Varrius, ein Edelmann, in des Herzogs Diensten</castItem>
+        <castItem>Ein Kerkermeister</castItem>
         <castGroup>
-          <castItem>Ein Kerkermeister</castItem>
           <castItem>Thomas</castItem>
-          <castItem>Peter,</castItem>
+          <castItem>Peter</castItem>
           <roleDesc>Mönche</roleDesc>
         </castGroup>
         <castItem>Elbogen, ein einfältiger Gerichtsdiener</castItem>
@@ -122,7 +123,7 @@
         <p>Die Szene ist in Wien</p>
       </set>
     </front>
-    <pb n="212"/>
+    <pb n="213"/>
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
@@ -172,7 +173,7 @@
             </lg>
             <stage>Angelo tritt auf.</stage>
           </sp>
-          <pb n="213"/>
+          <pb n="214"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <l>Da kommt er selbst.</l>
@@ -232,7 +233,7 @@
               <l>Wie uns Begebenheit und Zeit ermahnt,</l>
               <l>Was uns betrifft; und wünschen zu erfahren,</l>
               <l>Was hier begegnen mag. So lebt denn wohl:</l>
-              <pb n="214"/>
+              <pb n="215"/>
               <l>Ein glückliches Gelingen sei mit Euch,</l>
               <l>Nach unsern Wünschen!</l>
             </lg>
@@ -306,7 +307,7 @@
             <p>Wenn sich der Herzog und die andern Herzoge nicht mit dem König von Ungarn
               vergleichen, nun, so fallen alle Herzoge über den König her.</p>
           </sp>
-          <pb n="215"/>
+          <pb n="216"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Der Himmel gebe uns seinen Frieden, aber nicht des Königs von Ungarn Frieden! –</p>
@@ -386,7 +387,7 @@
               will nach deinem eignen Geständnis deine Gesundheit aus bringen lernen, aber, solange
               ich lebe, vergessen, nach dir zu trinken.</p>
           </sp>
-          <pb n="216"/>
+          <pb n="217"/>
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich habe mir wohl eben selbst zu nahe getan; habe ich nicht?</p>
@@ -472,7 +473,7 @@
             <p>Glaubt mir, es ist nicht unmöglich. Er versprach mir, mich vor zwei Stunden zu
               treffen, und er war immer pünktlich im Worthalten.</p>
           </sp>
-          <pb n="217"/>
+          <pb n="218"/>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Dazu kommt, daß es ganz mit dem übereinstimmt, wovon wir zusammen sprachen.</p>
@@ -555,7 +556,7 @@
             <p>Ei, fürchtet Ihr nichts; guten Advokaten fehlt es nicht an Klienten. Wenn Ihr schon
               Euer Quartier ändert, braucht Ihr darum nicht Euer Gewerbe zu ändern; ich bleibe noch
               immer Euer Zapfer. Mut gefaßt! Mit Euch wird man's so genau nicht nehmen; Ihr habt
-              Eure Augen in Euerm <pb n="218"/> Beruf fast aufgebraucht; über Euch werden sie schon
+              Eure Augen in Euerm <pb n="219"/> Beruf fast aufgebraucht; über Euch werden sie schon
               ein Auge zudrücken.</p>
           </sp>
           <sp who="#kupplerin">
@@ -635,7 +636,7 @@
             <speaker>LUCIO.</speaker>
             <l>Unzucht?</l>
           </sp>
-          <pb n="219"/>
+          <pb n="220"/>
           <sp who="#claudio">
             <speaker>CLAUDIO.</speaker>
             <l>Nenn' es so.</l>
@@ -702,7 +703,7 @@
           <sp who="#lucio">
             <speaker>LUCIO.</speaker>
             <p>Ja, wahrhaftig, so ist es, und dein Kopf steht so kitzlig auf deinen Schultern, daß
-              ein verliebtes Milchmädchen <pb n="220"/> ihn herunter seufzen könnte. Sende dem
+              ein verliebtes Milchmädchen <pb n="221"/> ihn herunter seufzen könnte. Sende dem
               Herzog Botschaft und appelliere an ihn! –</p>
           </sp>
           <sp who="#claudio">
@@ -766,7 +767,7 @@
             <speaker>HERZOG.</speaker>
             <lg>
               <l>Mein frommer Freund, Ihr selber wißt am besten,</l>
-              <pb n="221"/>
+              <pb n="222"/>
               <l>Wie sehr ich stets die Einsamkeit geliebt,</l>
               <l>Geringe Freude fand am eitlen Schwarm,</l>
               <l>Wo Jugend herrscht und Gold und sinnlos Prunken.</l>
@@ -823,7 +824,7 @@
               <l>Der, hinter meines Namens Schutz, mag treffen,</l>
               <l>Derweil ich selbst vom Kampfe fern mich halte</l>
               <l>Und frei vom Tadel bleibe. Sein Verfahren</l>
-              <pb n="222"/>
+              <pb n="223"/>
               <l>Zu prüfen, will ich als ein Ordensbruder</l>
               <l>Besuchen Fürst und Volk; drum bitt' ich Euch,</l>
               <l>Schafft mir ein klösterlich Gewand, belehrt mich,</l>
@@ -887,7 +888,7 @@
             <l>Frieden und Heil mit Euch! Wer ist's, der ruft? –</l>
             <stage>Lucio tritt auf.</stage>
           </sp>
-          <pb n="223"/>
+          <pb n="224"/>
           <sp who="#lucio">
             <speaker>LUCIO.</speaker>
             <lg>
@@ -984,7 +985,7 @@
             <speaker>LUCIO.</speaker>
             <l>Das ist der Punkt: –</l>
             <l>Der Herzog hat höchst seltsam sich entfernt;</l>
-            <pb n="224"/>
+            <pb n="225"/>
             <lg>
               <l>Und manchen Edeln – (mich nebst andern) – foppt er</l>
               <l>Mit Hoffnung auf ein Amt; doch hören wir</l>
@@ -1058,7 +1059,7 @@
             <speaker>LUCIO.</speaker>
             <l>Nur schnell! –</l>
           </sp>
-          <pb n="225"/>
+          <pb n="226"/>
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <lg>
@@ -1080,7 +1081,7 @@
           </sp>
         </div>
       </div>
-      <pb n="226"/>
+      <pb n="227"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
         <div type="scene">
@@ -1128,7 +1129,7 @@
               <l>Wer offenbar dem Rechte ward,</l>
               <l>Den straft das Recht. Was kümmert's das Gesetz,</l>
               <l>Ob Dieb den Dieb verurteilt? 's ist natürlich,</l>
-              <pb n="227"/>
+              <pb n="228"/>
               <l>Daß wir den Demant auf vom Boden heben,</l>
               <l>Weil wir ihn sehn; doch was wir nicht gesehn,</l>
               <l>Wir treten drauf und denken nicht daran.</l>
@@ -1197,7 +1198,7 @@
               absolutgesinnte Spitzbuben sind sie, und ohne ein Körnchen von der Kontribution, die
               ein guter Christ haben muß.</p>
           </sp>
-          <pb n="228"/>
+          <pb n="229"/>
           <sp who="#escalus">
             <speaker>ESCALUS.</speaker>
             <p>Vortrefflich vorgetragen! Da haben wir einen verständigen Konstabel! –</p>
@@ -1285,7 +1286,7 @@
             <speaker>POMPEJUS.</speaker>
             <p>Herr, sie kam an, und war hochschwanger, und hatte – (mit Eu'r Gnaden Respekt) – ein
               Gelust nach gekochten Pflaumen. Nun hatten wir nur zwei im Hause, gnädiger Herr, und
-              die lagen eben in dem Monument gleichsam <pb n="229"/> auf einem Fruchtteller, ein
+              die lagen eben in dem Monument gleichsam <pb n="230"/> auf einem Fruchtteller, ein
               Teller für drei oder vier Pfennige: Euer Gnaden müssen solche Teller schon gesehn
               haben; es sind keine Teller aus China, aber doch sehr gute Teller.</p>
           </sp>
@@ -1354,7 +1355,7 @@
             <speaker>SCHAUM.</speaker>
             <p>Allerheiligen-Abend.</p>
           </sp>
-          <pb n="230"/>
+          <pb n="231"/>
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Nun, seht Ihr wohl? Ich hoffe, hier gibt's Wahrheit! Er saß eben auf einem niedrigen
@@ -1438,7 +1439,7 @@
           </sp>
           <sp who="#elbogen">
             <speaker>ELBOGEN.</speaker>
-            <p>Erstlich, mit Eu'r Gnaden Erlaubnis, ist es ein <pb n="231"/> respektierliches Haus;
+            <p>Erstlich, mit Eu'r Gnaden Erlaubnis, ist es ein <pb n="232"/> respektierliches Haus;
               ferner ist dieser hier ein respektierlicher Kerl, und seine Wirtin ist ein
               respektierliches Weibsbild.</p>
           </sp>
@@ -1518,7 +1519,7 @@
             <speaker>ESCALUS.</speaker>
             <p>Wie heißt Eure Wirtin?</p>
           </sp>
-          <pb n="232"/>
+          <pb n="233"/>
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Frau Überley.</p>
@@ -1597,7 +1598,7 @@
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Sieht Eur' Herrlichkeit, so werden sie nach meiner geringen Meinung nicht davon
-              lassen. Wenn Eu'r Herrlichkeit <pb n="233"/> nur die lüderlichen Dirnen und losen
+              lassen. Wenn Eu'r Herrlichkeit <pb n="234"/> nur die lüderlichen Dirnen und losen
               Buben in Ordnung halten kann, so braucht sie die Kuppler gar nicht zu fürchten.</p>
           </sp>
           <sp who="#escalus">
@@ -1653,7 +1654,7 @@
               zum Dienst requiriert; sind denn nicht andre Leute in Euerm Kirchspiel, die imstande
               wären, ihn zu versehn?</p>
           </sp>
-          <pb n="234"/>
+          <pb n="235"/>
           <sp who="#elbogen">
             <speaker>ELBOGEN.</speaker>
             <p>Meiner Treu, gnädiger Herr, es sind wenige, die etwas Einsicht in solchen Dingen
@@ -1730,7 +1731,7 @@
             </lg>
             <stage>Angelo tritt auf.</stage>
           </sp>
-          <pb n="235"/>
+          <pb n="236"/>
           <sp who="#angelo">
             <speaker>ANGELO.</speaker>
             <l>Nun, was wollt Ihr, Schließer?</l>
@@ -1831,7 +1832,7 @@
             <speaker>ANGELO.</speaker>
             <l>Wohlan! Was wünscht Ihr?</l>
           </sp>
-          <pb n="236"/>
+          <pb n="237"/>
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <lg>
@@ -1938,7 +1939,7 @@
               <l>Ich kann es widerrufen! Seid gewiß,</l>
               <l>Kein Attribut das Mächtige verherrlicht,</l>
               <l>Nicht Königskrone, Schwert des Reichsverwesers,</l>
-              <pb n="237"/>
+              <pb n="238"/>
               <l>Des Marschalls Stab, des Richters Amtsgewand,</l>
               <l>Keins schmückt sie alle halb mit solchem Glanz,</l>
               <l>Als Gnade tut. War er an Eurer Stelle,</l>
@@ -2018,7 +2019,7 @@
               <l>Wenn nur der erste, der die Vorschrift brach,</l>
               <l>Für seine Tat gebüßt. Nun ist's erwacht,</l>
               <l>Forscht, was verübt ward, und Propheten gleich</l>
-              <pb n="238"/>
+              <pb n="239"/>
               <l>Sieht es im Spiegel, was für künft'ge Sünden</l>
               <l>(Ob jetzt schon, ob durch Nachsicht neu erzeugt,</l>
               <l>Und ferner ausgebrütet und geboren)</l>
@@ -2097,7 +2098,7 @@
             <speaker>LUCIO.</speaker>
             <l>Das ist die rechte Weise; immer mehr! –</l>
           </sp>
-          <pb n="239"/>
+          <pb n="240"/>
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <lg>
@@ -2206,7 +2207,7 @@
               <l>Wart' ich Eu'r Gnaden auf?</l>
             </lg>
           </sp>
-          <pb n="240"/>
+          <pb n="241"/>
           <sp who="#angelo">
             <speaker>ANGELO.</speaker>
             <l>Zu jeder Zeit vor Mittag.</l>
@@ -2266,7 +2267,7 @@
             <speaker>SCHLIESSER.</speaker>
             <l>Der Schließer bin ich; was begehrt Ihr, Pater?</l>
           </sp>
-          <pb n="241"/>
+          <pb n="242"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -2368,7 +2369,7 @@
               <l>Und trage gern die Schmach.</l>
             </lg>
           </sp>
-          <pb n="242"/>
+          <pb n="243"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -2435,7 +2436,7 @@
             <lg>
               <l>Führt sie zu mir herein!</l>
               <stage>Diener geht.</stage>
-              <pb n="243"/>
+              <pb n="244"/>
               <l>O Himmel!</l>
               <l>Wie sich mein Blut im Sturm zum Herzen drängt,</l>
               <l>Dort alle Kraft und Regsamkeit erstickend,</l>
@@ -2515,7 +2516,7 @@
             <lg>
               <l>Ah, meinst du? Dann bist du mir schnell gefangen!</l>
               <l>Was wählst du jetzt? Daß höchst gerechtem Spruch</l>
-              <pb n="244"/>
+              <pb n="245"/>
               <l>Dein Bruder fällt; wo nicht, ihn zu erlösen,</l>
               <l>Du selbst den Leib so süßer Schmach dahingäbst,</l>
               <l>Als sie, die er entehrt?</l>
@@ -2612,7 +2613,7 @@
               <l>Nach dem Gesetz ihn diese Strafe trifft.</l>
             </lg>
           </sp>
-          <pb n="245"/>
+          <pb n="246"/>
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <l>Wahr! –</l>
@@ -2696,7 +2697,7 @@
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <l>Sonst möcht' er immer sterben,</l>
-            <pb n="246"/>
+            <pb n="247"/>
             <l>Wenn kein Vasall als er allein der Schwachheit –</l>
             <l>Oh, wir sind alle der Versuchung Erben! –</l>
           </sp>
@@ -2785,7 +2786,7 @@
               <l>Wer glaubt dir's, Isabella?</l>
               <l>Mein unbefleckter Ruf, des Lebens Strenge,</l>
               <l>Mein Zeugnis gegen dich, mein Rang im Staat</l>
-              <pb n="247"/>
+              <pb n="248"/>
               <l>Wird dein Beschuld'gen überbieten,</l>
               <l>Daß du ersticken wirst am eignen Wort,</l>
               <l>Und nach Verleumdung schmecken. Ich begann;</l>
@@ -2828,7 +2829,7 @@
           </sp>
         </div>
       </div>
-      <pb n="248"/>
+      <pb n="249"/>
       <div type="act">
         <head>Dritter Aufzug</head>
         <div type="scene">
@@ -2872,7 +2873,7 @@
               <l>Denn dein Befinden wechselt seltsam launisch</l>
               <l>Mit jedem Mond. Reich, bist du dennoch arm;</l>
               <l>Dem Esel gleich, der unter Gold sich krümmt,</l>
-              <pb n="249"/>
+              <pb n="250"/>
               <l>Trägst du den schweren Schatz nur einen Tag,</l>
               <l>Und Tod entlastet dich. Freunde hast du keine;</l>
               <l>Denn selbst dein Blut, das Vater dich begrüßt,</l>
@@ -2949,7 +2950,7 @@
               <l>Lord Angelo hat ein Geschäft im Himmel</l>
               <l>Und sucht dich aus als schnellen Abgesandten,</l>
               <l>Wo du ihm bleibst als ew'ger Stellvertreter.</l>
-              <pb n="250"/>
+              <pb n="251"/>
               <l>Drum schick' dich an zur Wand'rung ungesäumt;</l>
               <l>Auf morgen reisest du.</l>
             </lg>
@@ -3043,7 +3044,7 @@
               <l>Durch niedre Schmach! – Der außenheil'ge Richter –</l>
             </lg>
             <l>Des finstre Stirn und tiefbedachtes Wort</l>
-            <pb n="251"/>
+            <pb n="252"/>
             <lg>
               <l>Die Jugend ängstigt und die Torheit scheucht,</l>
               <l>So wie der Falk die Taub' – ist doch ein Teufel:</l>
@@ -3140,7 +3141,7 @@
               <l>Verschrumpft zum Kloß; und der entzückte Geist</l>
               <l>Getaucht in Feuerfluten, oder schaudernd</l>
               <l>Umstarrt von Wüsten ew'ger Eisesmassen;</l>
-              <pb n="252"/>
+              <pb n="253"/>
               <l>Gekerkert sein in unsichtbare Stürme,</l>
               <l>Und mit rastloser Wut gejagt rings um</l>
               <l>Die schwebende Erd'; oder Schlimmres werden</l>
@@ -3214,7 +3215,7 @@
             <speaker>ISABELLA.</speaker>
             <p>Was ist Euer Wunsch?</p>
           </sp>
-          <pb n="253"/>
+          <pb n="254"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Wenn Eure Zeit es zuließe, hätte ich gern eine kurze Unterredung mit Euch; diese
@@ -3269,7 +3270,7 @@
               Schönheit gering geachtet, läßt auch der Schönheit nicht lange ihre Güte; aber
               Sittsamkeit, die Seele Eurer Züge, wird Euch auch immer schön erhalten. Von dem
               Angriff, den Angelo auf Euch versucht, hat mich der Zufall in Kenntnis gesetzt, und
-              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="254"/> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
+              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="255"/> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
               zufrieden zu stellen und Euren Bruder zu retten?</p>
           </sp>
           <sp who="#isabella">
@@ -3315,7 +3316,7 @@
               ihr Heiratsgut: mit beiden zugleich den ihr bestimmten Bräutigam, diesen redlich
               scheinenden Angelo! –</p>
           </sp>
-          <pb n="255"/>
+          <pb n="256"/>
           <sp who="#isabella">
             <speaker>ISABELLA.</speaker>
             <p>Ist es möglich? Und Angelo verließ sie wirklich?</p>
@@ -3365,7 +3366,7 @@
           </sp>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
-            <p>Es kommt alles auf Euer Betragen an. Eilt ungesäumt <pb n="256"/> zu Angelo! Wenn er
+            <p>Es kommt alles auf Euer Betragen an. Eilt ungesäumt <pb n="257"/> zu Angelo! Wenn er
               Euch um diese Nacht bittet, so sagt ihm Gewährung zu. Ich gehe sogleich nach Sankt
               Lukas – dort in der einsamen Hütte wohnt diese verstoßene Mariane –; dort sucht mich
               auf; und mit Angelo macht es ab, damit die Sache sich schnell entscheide.</p>
@@ -3419,7 +3420,7 @@
               <l>Verschafft dir Unterhalt. Denk', was das heißt,</l>
               <l>Den Wanst sich füllen, sich den Rücken kleiden</l>
               <l>Mit so unsauberm Laster! Sprich zu dir:</l>
-              <pb n="257"/>
+              <pb n="258"/>
               <l>Von ihrem schändlich viehischen Verkehr</l>
               <l>Trink' ich und esse, kleide mich und lebe: –</l>
             </lg>
@@ -3489,7 +3490,7 @@
             <p>I nun, Herr, sie war mit ihrem Vorrat von gesalznem Fleisch zu Ende, nun hat sie sich
               selbst in die Beize begeben.</p>
           </sp>
-          <pb n="258"/>
+          <pb n="259"/>
           <sp who="#lucio">
             <speaker>LUCIO.</speaker>
             <p>Ei, recht so; so gehört sich's; so muß es sein: Eure Fische immer frisch, Eure
@@ -3566,7 +3567,7 @@
             <p>Einige sagen, er sei beim Kaiser von Rußland; andre, er sei nach Rom gereist. Wo
               meint Ihr, daß er sei?</p>
           </sp>
-          <pb n="259"/>
+          <pb n="260"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Ich weiß es nicht, aber wo er sein mag, wünsch' ich ihm Gutes.</p>
@@ -3627,7 +3628,7 @@
             <p>Ich habe nie gehört, daß man den abwesenden Herzog eben mit Weibern in Verdacht
               gehabt hätte; er hatte dazu keinen Hang.</p>
           </sp>
-          <pb n="260"/>
+          <pb n="261"/>
           <sp who="#lucio">
             <speaker>LUCIO.</speaker>
             <p>O Herr, da seid Ihr im Irrtum! –</p>
@@ -3696,7 +3697,7 @@
               je zurückkehrt (wie wir alle beten, daß es geschehn möge), so laßt mich Euch ersuchen,
               Euch vor ihm zu verantworten. Habt Ihr der Wahrheit gemäß gesprochen, so habt Ihr Mut,
               es zu vertreten.</p>
-            <pb n="261"/>
+            <pb n="262"/>
             <p>Meine Pflicht ist; Euch dazu aufzufodern; und des halb bitt' ich Euch, wie ist Euer
               Name?</p>
           </sp>
@@ -3760,7 +3761,7 @@
           </sp>
           <sp who="#kupplerin">
             <speaker>KUPPLERIN.</speaker>
-            <p>Liebster, gnädiger Herr, habt Mitleid mit mir; <pb n="262"/> Euer Gnaden gilt für
+            <p>Liebster, gnädiger Herr, habt Mitleid mit mir; <pb n="263"/> Euer Gnaden gilt für
               einen sanftmütigen Herrn – liebster, gnädiger Herr! –</p>
           </sp>
           <sp who="#escalus">
@@ -3823,7 +3824,7 @@
             <p>Nichts; außer daß Rechtschaffenheit an einem so starken Fieber leidet, daß ihre
               Auflösung sie heilen muß. Nur dem Neuen wird nachgefragt, und es ist ebenso gefährlich
               geworden, in irgendeiner Lebensbahn alt zu werden, als es schon eine Tugend ist, in
-              irgendeinem Unternehmen <pb n="263"/> standhaft zu bleiben. Kaum ist noch so viel
+              irgendeinem Unternehmen <pb n="264"/> standhaft zu bleiben. Kaum ist noch so viel
               Vertrauen wirksam, um der Gesellschaft Sicherheit zu verbürgen; aber Bürgschaft so
               überlei, daß man allen Umgang verwünschen möchte. Um diese Rätsel dreht sich die ganze
               Weisheit der Welt; dies Neue ist alt genug, und dennoch das Neue des Tages. Ich bitt'
@@ -3877,7 +3878,7 @@
             <lg>
               <l>Wem Gott vertraut des Himmels Schwert,</l>
               <l>Muß heilig sein und ernst bewährt;</l>
-              <pb n="264"/>
+              <pb n="265"/>
               <l>Selbst ein Muster, uns zu leiten,</l>
               <l>So festzustehn, wie fortzuschreiten;</l>
               <l>Gleiches Maß den fremden Fehlen,</l>
@@ -3905,7 +3906,7 @@
           </sp>
         </div>
       </div>
-      <pb n="265"/>
+      <pb n="266"/>
       <div type="act">
         <head>Vierter Aufzug</head>
         <div type="scene">
@@ -3952,7 +3953,7 @@
             <p>Es hat niemand nach Euch gefragt; ich habe hier den ganzen Tag gesessen.</p>
             <stage>Isabella kommt.</stage>
           </sp>
-          <pb n="266"/>
+          <pb n="267"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Ich glaube Euch zuversichtlich; die Zeit ist da: eben jetzt. Ich muß Euch bitten,
@@ -4038,7 +4039,7 @@
             <speaker>MARIANE.</speaker>
             <l>Ich weiß, Ihr tut's, und hab' es schon erfahren.</l>
           </sp>
-          <pb n="267"/>
+          <pb n="268"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -4113,7 +4114,7 @@
             <speaker>SCHLIESSER.</speaker>
             <p>Kommt einmal her, Bursch; könnt Ihr wohl einem Menschen den Kopf abschlagen?</p>
           </sp>
-          <pb n="268"/>
+          <pb n="269"/>
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Wenn der Mensch ein Junggesell ist, Herr, so kann ich's; ist's aber ein verheirateter
@@ -4173,7 +4174,7 @@
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Das Malen, Herr, habe ich sagen hören, sei eine Kunst; und da die Huren, Herr, unter
-              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb n="269"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
+              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb n="270"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
               und wenn Ihr mich hängen wolltet –, das kann ich nicht einsehn.</p>
           </sp>
           <sp who="#grauslich">
@@ -4238,7 +4239,7 @@
             <speaker>CLAUDIO.</speaker>
             <lg>
               <l>So fest im Schlafe wie schuldlose Arbeit,</l>
-              <pb n="270"/>
+              <pb n="271"/>
               <l>Wenn sie des Wandrers Glieder schwer belastet;</l>
               <l>Er wird nicht wach.</l>
             </lg>
@@ -4319,7 +4320,7 @@
               <l>Ihn einzulassen; er ist unterwegs.</l>
             </lg>
           </sp>
-          <pb n="271"/>
+          <pb n="272"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -4398,7 +4399,7 @@
             <p>»Was Ihr auch immer vom Gegenteil hören mögt, laßt Claudio um vier Uhr hinrichten,
               und nachmittags den Bernardin. Zu besserer Versicherung schickt mir Claudios Kopf um
               fünf. Laßt dies genau vollzogen werden, und seid eingedenk, daß mehr hieran liegt, als
-              wir Euch für jetzt <pb n="272"/> mitteilen dürfen. Verfehlt daher nicht, Eure Pflicht
+              wir Euch für jetzt <pb n="273"/> mitteilen dürfen. Verfehlt daher nicht, Eure Pflicht
               zu tun, indem Ihr auf eigne Gefahr dafür stehen müßt.« – Was sagt Ihr dazu, Herr?
               –</p>
           </sp>
@@ -4458,7 +4459,7 @@
               Erfahrung. Indes, im Vertrauen auf mein sichres Urteil will ich's drauf wagen.
               Claudio, für dessen Hinrichtung Ihr jetzt den Befehl habt, ist dem Gesetz nicht mehr
               verfallen als Angelo, der ihn verurteilt hat. Euch davon durch eine augenscheinliche
-                <pb n="273"/> Probe zu versichern, bedarf es nur eines Aufschubs von vier Tagen,
+                <pb n="274"/> Probe zu versichern, bedarf es nur eines Aufschubs von vier Tagen,
               während dessen Ihr mir eine augenblickliche und gewagte Gefälligkeit erzeigen
               sollt.</p>
           </sp>
@@ -4523,7 +4524,7 @@
               Euch zu vernichten. Seht her, Freund! Hier ist des Herzogs Handschrift und Siegel. Ihr
               kennt die Schrift ohne Zweifel, und das Petschaft wird Euch nicht fremd sein.</p>
           </sp>
-          <pb n="274"/>
+          <pb n="275"/>
           <sp who="#schliesser">
             <speaker>SCHLIESSER.</speaker>
             <p>Ich kenne sie beide.</p>
@@ -4559,7 +4560,7 @@
               vier Stück schwarzen Atlas hat er ihn in unsre Gesellschaft eingeschwärzt. Dann haben
               wir hier den jungen Schwindlich, und den jungen Herrn Fluchmaul, und Herrn
               Kupfersporn, und Herrn Hungerdarm, den Dolch- und Degenmann, und den jungen Fegesack,
-              der den lustigen Pudding <pb n="275"/> tot schlug; und Junker Stichfest, den
+              der den lustigen Pudding <pb n="276"/> tot schlug; und Junker Stichfest, den
               Klopffechter, und den schmucken Herrn Schuhriem, den weitgereisten; und den wilden
               Halbnösel, der dem Krug den Garaus machte, und ich glaube ihrer vierzig mehr; lauter
               tapfre Leute in unsrer Hantierung, und werden jetzt heimgesucht um des Herrn
@@ -4637,7 +4638,7 @@
               Morgen früh, da hat er den andern Tag, um auszuschlafen.</p>
             <stage>Der Herzog kommt.</stage>
           </sp>
-          <pb n="276"/>
+          <pb n="277"/>
           <sp who="#grauslich">
             <speaker>GRAUSLICH.</speaker>
             <p>Seht, Freund, da kommt Euer Beichtvater. Meint Ihr noch, es sei Spaß? He!</p>
@@ -4712,7 +4713,7 @@
             <lg>
               <l>Das ist ein Glücksfall, den der Himmel sendet:</l>
               <l>Verfügt es augenblicks; es naht die Zeit,</l>
-              <pb n="277"/>
+              <pb n="278"/>
               <l>Die Angelo bestimmt. Mit Pünktlichkeit</l>
               <l>Vollzieht den Auftrag, während ich durch Lehre</l>
               <l>Den Rohen dort zu reu'gem Tod bekehre.</l>
@@ -4790,7 +4791,7 @@
               <l>'s ist Isabellens Ruf: sie kommt, zu hören,</l>
               <l>Ob ihrem Bruder Gnade sei gewährt;</l>
               <l>Doch bleib' ihr seine Rettung noch verhehlt,</l>
-              <pb n="278"/>
+              <pb n="279"/>
               <l>Daß aus Verzweiflung Himmelstrost ihr werde,</l>
               <l>Wenn sie's am mind'sten hofft.</l>
             </lg>
@@ -4870,7 +4871,7 @@
               <l>In Marianens Wohnung. Ihre Sach' und Eure</l>
               <l>Leg' ich in seine Hand; er bringt Euch vor</l>
               <l>Den Fürsten; dann dem Angelo ins Antlitz</l>
-              <pb n="279"/>
+              <pb n="280"/>
               <l>Klagt lauter ihn und lauter an. Ich Armer</l>
               <l>Bin durch ein heiliges Gelübd' gebunden,</l>
               <l>Das fern mich hält.</l>
@@ -4941,7 +4942,7 @@
             <p>Nun freilich war sie's von mir; aber ich schwur die Geschichte ab; ich hätte sonst
               die faule Mispel heiraten müssen.</p>
           </sp>
-          <pb n="280"/>
+          <pb n="281"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Herr, Eure Gesellschaft ist mehr unterhaltend als anständig; schlaft wohl!</p>
@@ -5004,7 +5005,7 @@
             <lg>
               <l>Die Tat nimmt allen Halt mir, stumpft den Sinn</l>
               <l>Und lähmt mein Handeln. – Ein entehrtes Mädchen! –</l>
-              <pb n="281"/>
+              <pb n="282"/>
               <l>Und durch den höchsten Richter, der die Strafe</l>
               <l>Geschärft! Wenn zarte Scheu ihr nicht verwehrte,</l>
               <l>Den jungfräulichen Raub bekannt zu machen,</l>
@@ -5061,7 +5062,7 @@
             <stage>Alle gehn ab.</stage>
           </sp>
         </div>
-        <pb n="282"/>
+        <pb n="283"/>
         <div type="scene">
           <head>Sechste Szene</head>
           <stage>Straße beim Tor.</stage>
@@ -5111,7 +5112,7 @@
           </sp>
         </div>
       </div>
-      <pb n="283"/>
+      <pb n="284"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
         <div type="scene">
@@ -5170,7 +5171,7 @@
             <lg>
               <l>Gerechtigkeit, mein Fürst! Lenkt Euern Blick</l>
               <l>Auf die gekränkte – ach! Gern sagt' ich, Jungfrau! –</l>
-              <pb n="284"/>
+              <pb n="285"/>
               <l>O edler Fürst, entehrt nicht Euer Auge,</l>
               <l>Auf irgendeinen andern Gegenstand es wendend,</l>
               <l>Bis Ihr vernommen die gerechte Klage</l>
@@ -5253,7 +5254,7 @@
               <l>Ja, der verruchtste Frevler auf der Welt</l>
               <l>Kann streng erscheinen, fromm, verschämt, vollkommen,</l>
               <l>Wie Angelo: so mag auch Angelo,</l>
-              <pb n="285"/>
+              <pb n="286"/>
               <l>In aller Haltung, Würde, Hoheit, Form,</l>
               <l>Doch ein Erz-Schurke sein: glaub', wär' er wen'ger,</l>
               <l>So wär' er nichts, mein Fürst: doch er ist mehr;</l>
@@ -5348,7 +5349,7 @@
             <speaker>LUCIO.</speaker>
             <l>Recht!</l>
           </sp>
-          <pb n="286"/>
+          <pb n="287"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -5431,7 +5432,7 @@
               <l>Wie ich gekränkt, geschmäht von hinnen gehe!</l>
             </lg>
           </sp>
-          <pb n="287"/>
+          <pb n="288"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -5517,7 +5518,7 @@
               <l>Lord Angelo bedrohe,) kam ich her,</l>
               <l>Zu zeugen, was er weiß, in seinem Namen,</l>
               <l>Was wahr, was falsch; und was mit einem Eid</l>
-              <pb n="288"/>
+              <pb n="289"/>
               <l>Und gültigem Beweis er dartun wird,</l>
               <l>Ruft man ihn auf. Zuerst, dies Mädchen hier –</l>
             </lg>
@@ -5613,7 +5614,7 @@
             <speaker>LUCIO.</speaker>
             <p>So war er also betrunken, gnädiger Herr; es kann nicht anders sein.</p>
           </sp>
-          <pb n="289"/>
+          <pb n="290"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Ich wollt', du wärst es auch: so schwiegst du endlich.</p>
@@ -5704,7 +5705,7 @@
               <l>Nicht dem Vertrag entsprach; teils, und zumeist,</l>
               <l>Weil ich erfuhr, sie schade ihrem Ruf</l>
               <l>Durch Leichtsinn. Seit der Zeit, fünf Jahre sind's,</l>
-              <pb n="290"/>
+              <pb n="291"/>
               <l>Sprach ich sie nicht, noch sah und hört' ich sie,</l>
               <l>Bei meiner Treu' und Ehre.</l>
             </lg>
@@ -5768,7 +5769,7 @@
             <lg>
               <l>Und Ihr, mein würd'ger, wohlerprobter Vetter,</l>
               <l>Dem daran liegt, die Sache zu durchforschen,</l>
-              <pb n="291"/>
+              <pb n="292"/>
               <l>Verfahrt mit dieser Schmähung, wie Ihr mögt,</l>
               <l>Und wählt die Strafe! Ich verlass' Euch jetzt</l>
               <l>Auf kurze Zeit; Ihr bleibt, bis Ihr durchaus</l>
@@ -5844,7 +5845,7 @@
           </sp>
           <sp who="#escalus">
             <speaker>ESCALUS.</speaker>
-            <p>Näher, guter Freund! Habt Ihr diese Weiber angestiftet, <pb n="292"/> Lord Angelo zu
+            <p>Näher, guter Freund! Habt Ihr diese Weiber angestiftet, <pb n="293"/> Lord Angelo zu
               verleumden? Sie haben bekannt, daß Ihr es tatet.</p>
           </sp>
           <sp who="#herzog">
@@ -5921,7 +5922,7 @@
               <l>Da steht und, was verpönt, nur wird verhöhnt.</l>
             </lg>
           </sp>
-          <pb n="293"/>
+          <pb n="294"/>
           <sp who="#escalus">
             <speaker>ESCALUS.</speaker>
             <l>Den Staat geschmäht? Fort, bringt ihn in den Kerker!</l>
@@ -5997,7 +5998,7 @@
               Euch frisch hängen! Will die Kapuze nicht herunter?</p>
             <stage>Reißt ihm die Mönchskappe ab und erkennt den Herzog.</stage>
           </sp>
-          <pb n="294"/>
+          <pb n="295"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -6080,7 +6081,7 @@
             <speaker>ISABELLA.</speaker>
             <lg>
               <l>O Fürst, verzeiht,</l>
-              <pb n="295"/>
+              <pb n="296"/>
               <l>Daß die Vasallin mit Geschäft und Müh'n</l>
               <l>Die unbekannte Majestät beschwert! –</l>
             </lg>
@@ -6144,7 +6145,7 @@
               <l>Ich hoff', Ihr gabt zum Spott mir nicht den Gatten?</l>
             </lg>
           </sp>
-          <pb n="296"/>
+          <pb n="297"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -6227,10 +6228,8 @@
               <l>Bis er mich sah. Wenn es sich so verhält,</l>
               <l>Laßt ihn nicht sterben! Claudio ward sein Recht,</l>
               <l>Weil er den Fehl beging, für den er starb.</l>
-              <pb n="297"/>
-            </lg>
-            <l>Doch Angelo, –</l>
-            <lg>
+              <pb n="298"/>
+              <l>Doch Angelo, –</l>
               <l>Sein Tun kam nicht dem sünd'gen Vorsatz gleich,</l>
               <l>Und muß begraben ruhn als eitler Vorsatz,</l>
               <l>Der starb entstehend. – Gedanken sind nicht Taten;</l>
@@ -6319,7 +6318,7 @@
             </lg>
             <stage>Der Schließer, Bernardino, Claudio und Julia kommen zurück.</stage>
           </sp>
-          <pb n="298"/>
+          <pb n="299"/>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <l>Welcher ist Bernardin?</l>
@@ -6386,7 +6385,7 @@
               <l>Hat wo ein Mädchen Klag' auf diesen Burschen</l>
               <l>(Wie er mir selber schwor, daß <emph>eine</emph> sei,</l>
               <l>Die ihm ein Kind gebar), so melde sie's,</l>
-              <pb n="299"/>
+              <pb n="300"/>
               <l>Dann soll er sie heiraten: – nach der Hochzeit</l>
               <l>Stäupt ihn und hängt ihn auf!</l>
             </lg>
