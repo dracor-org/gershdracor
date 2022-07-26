@@ -64,6 +64,94 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="saturninus" sex="MALE">
+            <persName>Saturninus</persName>
+          </person>
+          <person xml:id="bassianus" sex="MALE">
+            <persName>Bassianus</persName>
+          </person>
+          <person xml:id="marcus" sex="MALE">
+            <persName>Marcus Andronicus</persName>
+          </person>
+          <person xml:id="hauptmann" sex="MALE">
+            <persName>Hauptmann</persName>
+          </person>
+          <person xml:id="titus" sex="MALE">
+            <persName>Titus</persName>
+          </person>
+          <person xml:id="lucius" sex="MALE">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="tamora" sex="FEMALE">
+            <persName>Tamora</persName>
+          </person>
+          <person xml:id="chiron" sex="MALE">
+            <persName>Chiron</persName>
+          </person>
+          <person xml:id="demetrius" sex="MALE">
+            <persName>Demetrius</persName>
+          </person>
+          <person xml:id="lavinia" sex="FEMALE">
+            <persName>Lavinia</persName>
+          </person>
+          <person xml:id="mutius" sex="MALE">
+            <persName>Mutius</persName>
+          </person>
+          <person xml:id="quintus" sex="MALE">
+            <persName>Quintus</persName>
+          </person>
+          <person xml:id="marcius" sex="MALE">
+            <persName>Marcius</persName>
+          </person>
+          <person xml:id="aaron" sex="MALE">
+            <persName>Aaron</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="knabe" sex="MALE">
+            <persName>Knabe</persName>
+          </person>
+          <person xml:id="waerterin" sex="FEMALE">
+            <persName>Wärterin</persName>
+          </person>
+          <person xml:id="publius" sex="MALE">
+            <persName>Publius</persName>
+          </person>
+          <person xml:id="bauer" sex="MALE">
+            <persName>Bauer</persName>
+          </person>
+          <person xml:id="aemilius" sex="MALE">
+            <persName>Ämilius</persName>
+          </person>
+          <person xml:id="gote_a" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <personGrp xml:id="goten" sex="MALE">
+            <name>Goten</name>
+          </personGrp>
+          <person xml:id="gote_b" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <person xml:id="gote_c" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <person xml:id="gote_d" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <person xml:id="gote_e" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <person xml:id="gote_f" sex="MALE">
+            <persName>Gote</persName>
+          </person>
+          <personGrp xml:id="roemer" sex="MALE">
+            <name>Römer</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -104,7 +192,7 @@
           <castItem>Quintus</castItem>
           <castItem>Mutius</castItem>
           <castItem>Marcius</castItem>
-          <roleDesc>Söhne des Titus Andromcus</roleDesc>
+          <roleDesc>Söhne des Titus Andronicus</roleDesc>
         </castGroup>
         <castItem>Der jüngere Lucius, Lucius' Sohn. Titus' Enkel</castItem>
         <castItem>Publius, Sohn des Marcus Andronicus</castItem>
@@ -113,7 +201,7 @@
           <castItem>Alarbus</castItem>
           <castItem>Chiron</castItem>
           <castItem>Demetrius</castItem>
-          <roleDesc>Söhne der Tanwra</roleDesc>
+          <roleDesc>Söhne der Tamora</roleDesc>
         </castGroup>
         <castItem>Aaron, ein Mohr, Tamoras Geliebter</castItem>
         <castItem>Ein Hauptmann</castItem>
@@ -868,7 +956,7 @@
               <l>Er ruh' im Grab mit seinen Brüdern.</l>
             </lg>
           </sp>
-          <sp who="#die_soehne_des_titus">
+          <sp who="#lucius #quintus #marcius">
             <speaker>DIE SÖHNE DES TITUS.</speaker>
             <l>Das soll er, oder alle folgen ihm!</l>
           </sp>
@@ -961,7 +1049,7 @@
               <l>Bis wir dein Grab geziert mir Kriegstrophä'n! –</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#titus #marcus #lucius #quintus #marcius">
             <speaker>ALLE</speaker>
             <stage>knieend.</stage>
             <lg>
@@ -1405,8 +1493,8 @@
             <speaker>DEMETRIUS.</speaker>
             <l>Aaron, du trafst es.</l>
           </sp>
-          <sp who="#aron">
-            <speaker>ARON.</speaker>
+          <sp who="#aaron">
+            <speaker>AARON.</speaker>
             <lg>
               <l>Triff es auch, du Tor,</l>
               <l>So steht uns all der Lärm nicht mehr bevor! –</l>
@@ -1423,8 +1511,8 @@
             <speaker>DEMETRIUS.</speaker>
             <l>Mich auch nicht, wenn nur ich der eine bin.</l>
           </sp>
-          <sp who="#aron">
-            <speaker>ARON.</speaker>
+          <sp who="#aaron">
+            <speaker>AARON.</speaker>
             <lg>
               <l>Seid einig denn, und was euch trennt, versöhn' euch!</l>
               <l>Mit List und Politik erreicht das Ziel,</l>
@@ -4243,8 +4331,8 @@
             <speaker>TAMORA.</speaker>
             <l>Was fürchtet Ihr? Ist unsre Stadt nicht fest?</l>
           </sp>
-          <sp who="#satruninus">
-            <speaker>SATRUNINUS.</speaker>
+          <sp who="#saturninus">
+            <speaker>SATURNINUS.</speaker>
             <lg>
               <l>Ja, doch die Bürger sind dem Lucius hold,</l>
               <l>Und fallen ab von uns, ihm beizustehn.</l>
@@ -4334,7 +4422,7 @@
               <l>So nehmt euch jetzt dreifältigen Ersatz!</l>
             </lg>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_a">
             <speaker>GOTE.</speaker>
             <lg>
               <l>Du tapfrer Zweig von Titus' großem Stamm,</l>
@@ -4347,7 +4435,7 @@
               <l>Und zücht'gen die verhaßte Tamora.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#goten">
             <speaker>ALLE.</speaker>
             <l>Und wie er sprach, so spricht das ganze Heer.</l>
           </sp>
@@ -4359,7 +4447,7 @@
             </lg>
             <stage>Ein Gote führt den Aaron, der sein Kind auf dem Arm trägt.</stage>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_b">
             <speaker>GOTE.</speaker>
             <lg>
               <l>Ruhmvoller Lucius, ich ging ab vom Heer,</l>
@@ -4544,7 +4632,7 @@
               <l>Und gab mir zwanzig Küsse für die Zeitung.</l>
             </lg>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_c">
             <speaker>GOTE.</speaker>
             <l>Das alles sprichst du, und errötest nicht?</l>
           </sp>
@@ -4604,7 +4692,7 @@
             <l>Hör' auf mit Lästern, stopft ihm seinen Mund!</l>
             <stage>Ein Gote tritt auf.</stage>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_d">
             <speaker>GOTE.</speaker>
             <lg>
               <l>Feldherr, es ist ein Bote hier aus Rom,</l>
@@ -4628,7 +4716,7 @@
               <l>Dann augenblicklich sendet er sie her.</l>
             </lg>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_e">
             <speaker>GOTE.</speaker>
             <l>Was sagt mein Feldherr?</l>
           </sp>
@@ -5059,7 +5147,7 @@
               <l>Daß ich gen Rom mich wende, folg' ich dir.</l>
             </lg>
           </sp>
-          <sp who="#gote">
+          <sp who="#gote_f">
             <speaker>GOTE.</speaker>
             <l>Wir stehn dir bei, es gehe, wie es will.</l>
           </sp>
