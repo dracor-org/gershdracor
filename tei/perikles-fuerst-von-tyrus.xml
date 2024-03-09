@@ -41,16 +41,13 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Perikles. Fürst von Tyrus</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="301" to="379">301–379</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Perikles. Fürst von
+            Tyrus</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >2</biblScope>: Komödien. Poetische Werke. <edition>3. Auflage</edition>.
+              <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+              <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="301" to="379">301–379</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -61,6 +58,175 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="gower" sex="MALE">
+            <persName>Gower</persName>
+          </person>
+          <person xml:id="antiochus" sex="MALE">
+            <persName>Antiochus</persName>
+          </person>
+          <person xml:id="perikles" sex="MALE">
+            <persName>Perikles</persName>
+          </person>
+          <person xml:id="die_tochter" sex="FEMALE">
+            <persName>Die Tochter des Antiochus</persName>
+          </person>
+          <person xml:id="thaliard" sex="MALE">
+            <persName>Thaliard</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="erster_lord_i-4" sex="MALE">
+            <persName>Erster Lord (I/4)</persName>
+          </person>
+          <person xml:id="zweiter_lord_i-4" sex="MALE">
+            <persName>Zweiter Lord (I/4)</persName>
+          </person>
+          <person xml:id="helicanus" sex="MALE">
+            <persName>Helicanus</persName>
+          </person>
+          <person xml:id="cleon" sex="MALE">
+            <persName>Cleon</persName>
+          </person>
+          <person xml:id="dionysa" sex="FEMALE">
+            <persName>Dionysa</persName>
+          </person>
+          <person xml:id="lord_i-6" sex="MALE">
+            <persName>Lord (I/6)</persName>
+          </person>
+          <personGrp xml:id="gefolge_i-6" sex="UNKNOWN">
+            <name>Gefolge (I/6)</name>
+          </personGrp>
+          <person xml:id="erster_fischer" sex="MALE">
+            <persName>Erster Fischer</persName>
+          </person>
+          <person xml:id="zweiter_fischer" sex="MALE">
+            <persName>Zweiter Fischer</persName>
+          </person>
+          <person xml:id="dritter_fischer" sex="MALE">
+            <persName>Dritter Fischer</persName>
+          </person>
+          <person xml:id="simonides" sex="MALE">
+            <persName>Simonides</persName>
+          </person>
+          <person xml:id="erster_lord_ii-3" sex="MALE">
+            <persName>Erster Lord (II/3)</persName>
+          </person>
+          <person xml:id="thaisa" sex="FEMALE">
+            <persName>Thaisa</persName>
+          </person>
+          <person xml:id="zweiter_lord_ii-3" sex="MALE">
+            <persName>Zweiter Lord (II/3)</persName>
+          </person>
+          <person xml:id="dritter_lord_ii-3" sex="MALE">
+            <persName>Dritter Lord (II/3)</persName>
+          </person>
+          <personGrp xml:id="die_ritter_ii-4" sex="MALE">
+            <name>Die Ritter (II/4)</name>
+          </personGrp>
+          <person xml:id="marschall" sex="MALE">
+            <persName>Marschall</persName>
+          </person>
+          <person xml:id="erster_ritter_ii-4" sex="MALE">
+            <persName>Erster Ritter (II/4)</persName>
+          </person>
+          <person xml:id="escanes" sex="MALE">
+            <persName>Escanes</persName>
+          </person>
+          <person xml:id="erster_lord_ii-5" sex="MALE">
+            <persName>Erster Lord (II/5)</persName>
+          </person>
+          <person xml:id="zweiter_lord_ii-5" sex="MALE">
+            <persName>Zweiter Lord (II/5)</persName>
+          </person>
+          <person xml:id="dritter_lord_ii-5" sex="MALE">
+            <persName>Dritter Lord (II/5)</persName>
+          </person>
+          <person xml:id="erster_ritter_ii-6" sex="MALE">
+            <persName>Erster Ritter (II/6)</persName>
+          </person>
+          <person xml:id="zweiter_ritter_ii-6" sex="MALE">
+            <persName>Zweiter Ritter (II/6)</persName>
+          </person>
+          <person xml:id="dritter_ritter_ii-6" sex="MALE">
+            <persName>Dritter Ritter (II/6)</persName>
+          </person>
+          <person xml:id="lychorida" sex="FEMALE">
+            <persName>Lychorida</persName>
+          </person>
+          <person xml:id="erster_matrose_iii-2" sex="MALE">
+            <persName>Erster Matrose (III/2)</persName>
+          </person>
+          <person xml:id="zweiter_matrose_iii-2" sex="MALE">
+            <persName>Zweiter Matrose (III/2)</persName>
+          </person>
+          <person xml:id="cerimon" sex="MALE">
+            <persName>Cerimon</persName>
+          </person>
+          <person xml:id="philemon" sex="MALE">
+            <persName>Philemon</persName>
+          </person>
+          <person xml:id="diener_a" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="erster_edelmann_iii-3" sex="MALE">
+            <persName>Erster Edelmann (III/3)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_iii-3" sex="MALE">
+            <persName>Zweiter Edelmann (III/3)</persName>
+          </person>
+          <person xml:id="diener_b" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="leonin" sex="MALE">
+            <persName>Leonin</persName>
+          </person>
+          <person xml:id="marina" sex="FEMALE">
+            <persName>Marina</persName>
+          </person>
+          <person xml:id="erster_seeraeuber" sex="MALE">
+            <persName>Erster Seeräuber</persName>
+          </person>
+          <person xml:id="zweiter_seeraeuber" sex="MALE">
+            <persName>Zweiter Seeräuber</persName>
+          </person>
+          <person xml:id="dritter_seeraeuber" sex="MALE">
+            <persName>Dritter Seeräuber</persName>
+          </person>
+          <person xml:id="kuppler" sex="MALE">
+            <persName>Kuppler</persName>
+          </person>
+          <person xml:id="bolz" sex="MALE">
+            <persName>Bolz</persName>
+          </person>
+          <person xml:id="kupplerin" sex="FEMALE">
+            <persName>Kupplerin</persName>
+          </person>
+          <person xml:id="erster_edelmann_iv-7" sex="MALE">
+            <persName>Erster Edelmann (IV/7)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_iv-7" sex="MALE">
+            <persName>Zweiter Edelmann (IV/7)</persName>
+          </person>
+          <person xml:id="lysimachus" sex="MALE">
+            <persName>Lysimachus</persName>
+          </person>
+          <person xml:id="erster_matrose_v-2" sex="MALE">
+            <persName>Erster Matrose (V/2)</persName>
+          </person>
+          <person xml:id="erster_edelmann_v-2" sex="MALE">
+            <persName>Erster Edelmann (V/2)</persName>
+          </person>
+          <person xml:id="ein_lord_v-2" sex="MALE">
+            <persName>Ein Lord (V/2)</persName>
+          </person>
+          <person xml:id="diana" sex="FEMALE">
+            <persName>Diana</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -76,7 +242,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000031" passive="http://www.wikidata.org/entity/Q584729"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000031"
+        passive="http://www.wikidata.org/entity/Q584729"/>
     </listRelation>
   </standOff>
   <text>
@@ -527,11 +694,11 @@
               <l>Und straft voraus, was er zu strafen sinnt.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-4">
             <speaker>ERSTER LORD.</speaker>
             <l>Nur Freud' und Trost sei Eurer heil'gen Brust.</l>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-4">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>Und mache Euer Herz, da Ihr zurück</l>
@@ -898,7 +1065,7 @@
             </lg>
             <stage>Ein Lord kommt.</stage>
           </sp>
-          <sp who="#lord">
+          <sp who="#lord_i-6">
             <speaker>LORD.</speaker>
             <l>Wo ist der Herr Statthalter?</l>
           </sp>
@@ -911,7 +1078,7 @@
             </lg>
           </sp>
           <pb n="316"/>
-          <sp who="#lord">
+          <sp who="#lord_i-6">
             <speaker>LORD.</speaker>
             <lg>
               <l>Wir sahen, nahe schon an unsrer Küste,</l>
@@ -932,7 +1099,7 @@
               <l>Den zu besiegen großen Ruhm nicht schafft.</l>
             </lg>
           </sp>
-          <sp who="#lord">
+          <sp who="#lord_i-6">
             <speaker>LORD.</speaker>
             <lg>
               <l>Das ist die kleinste Furcht, denn nach dem Schein</l>
@@ -953,7 +1120,7 @@
               <l>Und was er will.</l>
             </lg>
           </sp>
-          <sp who="#lord">
+          <sp who="#lord_i-6">
             <speaker>LORD.</speaker>
             <l>Ich gehe schon.</l>
             <stage>Geht ab.</stage>
@@ -984,7 +1151,7 @@
               <l>Den Halberstorb'nen Leben mit und Brot.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#cleon #dionysa #gefolge_i-6">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Die Götter Griechenlands beschützen Euch!</l>
@@ -1047,14 +1214,11 @@
               <l>Was sprech' ich noch? Ihr seht sie kommen. –</l>
             </lg>
           </sp>
-          <sp who="#stummes_spiel">
-            <speaker>STUMMES SPIEL.</speaker>
-            <stage>Es tritt auf der einen Seite Perikles auf, im Gespräch mit Cleon, der ganze Zug
-              folgt ihnen. Von der anderen Seite kommt ein Edelmann, mit einem Briefe an den
-              Perikles; Perikles zeigt Cleon den Brief, hierauf gibt er dem Boten eine Belohnung und
-              schlägt ihn zum Ritter. Perikles geht auf der einen und Cleon auf der andern Seite
-              ab.</stage>
-          </sp>
+          <stage>Stummes Spiel.</stage>
+          <stage>Es tritt auf der einen Seite Perikles auf, im Gespräch mit Cleon, der ganze Zug
+            folgt ihnen. Von der anderen Seite kommt ein Edelmann, mit einem Briefe an den Perikles;
+            Perikles zeigt Cleon den Brief, hierauf gibt er dem Boten eine Belohnung und schlägt ihn
+            zum Ritter. Perikles geht auf der einen und Cleon auf der andern Seite ab.</stage>
           <sp who="#gower">
             <speaker>GOWER.</speaker>
             <lg>
@@ -1433,7 +1597,7 @@
             <speaker>SIMONIDES.</speaker>
             <l>Sind denn bereit die Ritter zum Turnier?</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-3">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>O ja, mein Fürst,</l>
@@ -1566,7 +1730,7 @@
               <l>Aus seinem armen Zustand auferblühn.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-3">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Und wohl bedarf er, daß was andres, als</l>
@@ -1576,14 +1740,14 @@
               <l>Die Peitsche statt der Lanze sonst geschwungen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_ii-3">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>Er muß wohl Wunder tun, denn wunderlich</l>
               <l>Kommt er hieher zur Feier des Turniers.</l>
             </lg>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_ii-3">
             <speaker>DRITTER LORD.</speaker>
             <lg>
               <l>Er ließ den Harnisch rostig und beschmutzt,</l>
@@ -1644,7 +1808,7 @@
               <l>Der Marschall wird nach Rang die andern setzen.</l>
             </lg>
           </sp>
-          <sp who="#die_ritter">
+          <sp who="#die_ritter_ii-4">
             <speaker>DIE RITTER.</speaker>
             <l>Sehr hoch ehrt uns Simonides der Gute.</l>
           </sp>
@@ -1664,7 +1828,7 @@
             <speaker>PERIKLES.</speaker>
             <l>Ein andrer ziemt mir mehr.</l>
           </sp>
-          <sp who="#erster_ritter">
+          <sp who="#erster_ritter_ii-4">
             <speaker>ERSTER RITTER.</speaker>
             <lg>
               <l>Nicht streitet, Herr, denn unser edle Sinn,</l>
@@ -1725,7 +1889,7 @@
             <speaker>SIMONIDES.</speaker>
             <l>Seid ihr vergnügt, ihr Ritter?</l>
           </sp>
-          <sp who="#die_ritter">
+          <sp who="#die_ritter_ii-4">
             <speaker>DIE RITTER.</speaker>
             <l>Wie anders hier in diesem Königshause?</l>
           </sp>
@@ -1737,7 +1901,7 @@
               <l>Trink' ich auf euer Wohl!</l>
             </lg>
           </sp>
-          <sp who="#die_ritter">
+          <sp who="#die_ritter_ii-4">
             <speaker>DIE RITTER.</speaker>
             <l>Dank, Eurer Hoheit.</l>
           </sp>
@@ -1928,22 +2092,22 @@
             <p>Sehr wahr.</p>
             <stage>Drei Lords treten herein.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-5">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Sieh', niemand hat im heimlichen Gespräch,</l>
               <l>Im Rate sein Vertrauen, als nur er.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_ii-5">
             <speaker>ZWEITER LORD.</speaker>
             <l>Wir tragen nicht mehr still, was uns verdrießt.</l>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_ii-5">
             <speaker>DRITTER LORD.</speaker>
             <l>Verwünscht, wer hierbei seine Hülfe weigert.</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-5">
             <speaker>ERSTER LORD.</speaker>
             <l>So folgt mir. Ein Wort, edler Helicanus.</l>
           </sp>
@@ -1951,7 +2115,7 @@
             <speaker>HELICANUS.</speaker>
             <l>Mit mir? Willkommen! Seid beglückt, ihr Herrn.</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-5">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Wißt, unser Kummer stieg zur höchsten Grenze,</l>
@@ -1962,7 +2126,7 @@
             <speaker>HELICANUS.</speaker>
             <l>Weshalb? Kränkt Euren teuern Fürsten nicht.</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-5">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Kränkt Euch nicht selbst denn, edler Helicanus!</l>
@@ -1975,7 +2139,7 @@
               <l>Und uns dann frei steht eine neue Wahl.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_ii-5">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>Sein Tod ist wohl am meisten wahrscheinlich.</l>
@@ -1986,7 +2150,7 @@
               <l>Als unserm Könige das Regiment.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erster_lord_ii-5 #zweiter_lord_ii-5 #dritter_lord_ii-5">
             <speaker>ALLE.</speaker>
             <l>Lange lebe der edle Helicanus!</l>
           </sp>
@@ -2009,7 +2173,7 @@
               <l>Und glänzt um seine Kron' als Diamanten.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_ii-5">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Der ist ein Tor, der nicht der Weisheit folgt;</l>
@@ -2030,7 +2194,7 @@
           <head>Sechste Szene</head>
           <stage>Von der einen Seite tritt auf Simonides, welcher einen Brief liest; die Ritter
             kommen ihm von der anderen Seite entgegen.</stage>
-          <sp who="#erster_ritter">
+          <sp who="#erster_ritter_ii-6">
             <speaker>ERSTER RITTER.</speaker>
             <l>Simonides dem Guten Heil und Glück.</l>
           </sp>
@@ -2043,7 +2207,7 @@
               <l>Ich kann ihn keineswegs von ihr erfahren.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_ritter">
+          <sp who="#zweiter_ritter_ii-6">
             <speaker>ZWEITER RITTER.</speaker>
             <l>Und nicht vergönnt ist es, ihr aufzuwarten?</l>
           </sp>
@@ -2057,7 +2221,7 @@
               <l>Und hält den Schwur, bei ihrer Jungfrauenehre.</l>
             </lg>
           </sp>
-          <sp who="#dritter_ritter">
+          <sp who="#dritter_ritter_ii-6">
             <speaker>DRITTER RITTER.</speaker>
             <l>Wir nehmen Urlaub, traurig, so zu scheiden.</l>
             <stage>Sie gehn ab.</stage>
@@ -2211,7 +2375,7 @@
           <sp who="#perikles">
             <speaker>PERIKLES.</speaker>
             <lg>
-              <l>Dann, wie Ihr seid gleich tugendhart und schön,</l>
+              <l>Dann, wie Ihr seid gleich tugendhaft und schön,</l>
               <l>So sagt dem zornigen Vater, ob ich je</l>
               <l>Mit Worten um Euch warb, ob ich das Kleinste</l>
               <l>Je tat, um Eure Liebe zu gewinnen.</l>
@@ -2257,7 +2421,7 @@
             <speaker>SIMONIDES.</speaker>
             <l>Nun, seid ihr einig?</l>
           </sp>
-          <sp who="#beide">
+          <sp who="#perikles #thaisa">
             <speaker>BEIDE.</speaker>
             <l>Ja, wenn's Euch gefällt, mein König.</l>
           </sp>
@@ -2296,14 +2460,12 @@
               <l>Ich deute, was ihr stumm erblickt.</l>
             </lg>
           </sp>
-          <sp who="#stummes_spiel">
-            <speaker>STUMMES SPIEL.</speaker>
-            <stage>Auf der einen Seite treten Perikles und Simonides mit ihrem Gefolge ein; ein Bote
-              tritt ihnen entgegen, kniet, und gibt dem Perikles einen Brief, Perikles zeigt ihn dem
-              Simonides, die Lords knien vor ihm; dann kommt Thaisa schwanger, mit der Amme
-              Lychorida, der König zeigt ihr den Brief, sie ist erfreut, sie und Perikles nehmen
-              Abschied vom Vater, und alle gehn ab.</stage>
-          </sp>
+          <stage>Stummes Spiel.</stage>
+          <stage>Auf der einen Seite treten Perikles und Simonides mit ihrem Gefolge ein; ein Bote
+            tritt ihnen entgegen, kniet, und gibt dem Perikles einen Brief, Perikles zeigt ihn dem
+            Simonides, die Lords knien vor ihm; dann kommt Thaisa schwanger, mit der Amme Lychorida,
+            der König zeigt ihr den Brief, sie ist erfreut, sie und Perikles nehmen Abschied vom
+            Vater, und alle gehn ab.</stage>
           <sp who="#gower">
             <speaker>GOWER.</speaker>
             <lg>
@@ -2435,7 +2597,7 @@
             </lg>
             <stage>Zwei Matrosen kommen.</stage>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_iii-2">
             <speaker>ERSTER MATROSE.</speaker>
             <p>Wie stets um den Mut, Herr? Gott erhalt' Euch!</p>
           </sp>
@@ -2448,19 +2610,19 @@
               <l>Möcht' ich, es würde ruhig.</l>
             </lg>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_iii-2">
             <speaker>ERSTER MATROSE.</speaker>
             <lg>
               <l>Schlaff die Boileinen! – Wird's nicht? –</l>
               <l>Wird's nicht? Nun so blasé bis du platzest!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_matrose">
+          <sp who="#zweiter_matrose_iii-2">
             <speaker>ZWEITER MATROSE.</speaker>
             <p>Nur Seeraum, so mögen Salzflut und wolkenhohe Wogen den Mond küssen? Was kümmert's
               mich?</p>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_iii-2">
             <speaker>ERSTER MATROSE.</speaker>
             <p>Herr, Eure Königin muß über Bord; die See geht hoch, der Wind ist laut, und wird
               nicht ruhig, bis das Schiff von Toten gesäubert ist.</p>
@@ -2469,7 +2631,7 @@
             <speaker>PERIKLES.</speaker>
             <p>Das ist nur Euer Aberglaube.</p>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_iii-2">
             <speaker>ERSTER MATROSE.</speaker>
             <p>Vergebung, Herr, bei uns zur See wird's immer so gehalten; sind wir streng, drum gebt
               sie ohne Umstände, sie muß über Bord.</p>
@@ -2502,7 +2664,7 @@
               <l>Ich ihr noch sage. Eile dich, du Frau!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_matrose">
+          <sp who="#zweiter_matrose_iii-2">
             <speaker>ZWEITER MATROSE.</speaker>
             <p>Herr, wir haben unten im Raum eine Kiste, die schon verstopft und ausgepicht ist.</p>
           </sp>
@@ -2510,7 +2672,7 @@
             <speaker>PERIKLES.</speaker>
             <p>Dank! Sag', Matrose, welche Küst' ist dies?</p>
           </sp>
-          <sp who="#zweiter_matrose">
+          <sp who="#zweiter_matrose_iii-2">
             <speaker>ZWEITER MATROSE.</speaker>
             <p>Wir sind nahe bei Tharsus.</p>
           </sp>
@@ -2521,7 +2683,7 @@
               <l>Statt Tyrus, segeln wir. Wann kommst du hin?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_matrose">
+          <sp who="#zweiter_matrose_iii-2">
             <speaker>ZWEITER MATROSE.</speaker>
             <p>Mit Tages Anbruch, wenn der Wind ruhig wird.</p>
           </sp>
@@ -2556,7 +2718,7 @@
               <l>Das war ein Sturm und Tosen diese Nacht!</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_a">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Schon manche sah' ich; solche Nacht wie diese</l>
@@ -2575,11 +2737,11 @@
             <stage>Alle übrigen ab.</stage>
             <stage>Zwei Edelleute kommen.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Guten Morgen.</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Euer Gnaden guten Morgen.</l>
           </sp>
@@ -2587,7 +2749,7 @@
             <speaker>CERIMON.</speaker>
             <l>Warum so früh auf, meine Herrn?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Hart an der See steht unsre Wohnung, Herr,</l>
@@ -2597,7 +2759,7 @@
               <l>Hat aus dem Hause uns gejagt.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Und darum sind wir Euch so früh zur Last;</l>
@@ -2608,7 +2770,7 @@
             <speaker>CERIMON.</speaker>
             <l>Ihr seid willkommen.</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Doch sehr verwundert mich, daß Euer Gnaden,</l>
@@ -2642,7 +2804,7 @@
               <l>Damit mich Narr und Tod verlachen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Durch Ephesus hier habt Ihr Eure Milde</l>
@@ -2654,7 +2816,7 @@
             </lg>
             <stage>Einige Diener bringen eine Kiste.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_b">
             <speaker>DIENER.</speaker>
             <l>So, hergesetzt!</l>
           </sp>
@@ -2662,7 +2824,7 @@
             <speaker>CERIMON.</speaker>
             <l>Was ist das?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_b">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Eben jetzt</l>
@@ -2674,7 +2836,7 @@
             <speaker>CERIMON.</speaker>
             <l>Setzt hin; laßt uns seh'n!</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Es gleicht 'nem Sarge.</l>
           </sp>
@@ -2688,7 +2850,7 @@
               <l>Es wieder ausspei't.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Wohl, mein gnäd'ger Herr.</l>
           </sp>
@@ -2696,7 +2858,7 @@
             <speaker>CERIMON.</speaker>
             <l>Wie fest verküttet, verleimt! Die See warf's aus?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_b">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Nie sah ich solche große Woge, Herr,</l>
@@ -2710,7 +2872,7 @@
               <l>Es duftet lieblich.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Trefflicher Geruch!</l>
           </sp>
@@ -2721,7 +2883,7 @@
               <l>O ihr allmächt'gen Götter! Wie? Ein Leichnam?</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Sehr wunderbar.</l>
           </sp>
@@ -2744,8 +2906,8 @@
               <l>Vor Weh zerbrechen. Dies geschah die Nacht.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmamn">
-            <speaker>ZWEITER EDELMAMN.</speaker>
+          <sp who="#zweiter_edelmann_iii-3">
+            <speaker>ZWEITER EDELMANN.</speaker>
             <l>Sehr wahrscheinlich.</l>
           </sp>
           <sp who="#cerimon">
@@ -2777,7 +2939,7 @@
               <l>Zublüh'n beginnt.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Durch Euch vermehrt der Himmel</l>
@@ -2805,11 +2967,11 @@
               <l>Und welche Welt?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Ist das nicht seltsam?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Wunder!</l>
           </sp>
@@ -3769,12 +3931,10 @@
               <l>Ich will dem Ohr, was Aug' jetzt sieht, auslegen.</l>
             </lg>
           </sp>
-          <sp who="#stummes_spiel">
-            <speaker>STUMMES SPIEL.</speaker>
-            <stage>Perikles tritt mit seinem Zuge von der einen Seite auf, Cleon und Dionysa von der
-              andern; Cleon zeigt dem Perikles das Grabmal, worauf Perikles heftige Klage führt, ein
-              Trauerkleid anlegt und im größten Schmerz abgeht.</stage>
-          </sp>
+          <stage>Stummes Spiel.</stage>
+          <stage>Perikles tritt mit seinem Zuge von der einen Seite auf, Cleon und Dionysa von der
+            andern; Cleon zeigt dem Perikles das Grabmal, worauf Perikles heftige Klage führt, ein
+            Trauerkleid anlegt und im größten Schmerz abgeht.</stage>
           <sp who="#gower">
             <speaker>GOWER.</speaker>
             <lg>
@@ -3815,25 +3975,25 @@
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>Zwei Edelleute treten auf.</stage>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iv-7">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Habt Ihr je dergleichen gehört?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iv-7">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Niemals; auch wird man nie wieder dergleichen an solchem Orte hören, wenn sie einmal
               fort ist.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iv-7">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Aber hier Theologie predigen! Konnte Euch das je im Traum einfallen?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iv-7">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Nein, nein. Kommt, ich mag nichts mehr von schlechten Häusern wissen. Wollen wir
               geh'n und die Vestalinnen singen hören?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iv-7">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Alles, was tugendhaft ist, will ich gern tun, aber vom Wege der Liederlichkeit bin
               ich zeitlebens abgekommen.</p>
@@ -4179,8 +4339,7 @@
             <speaker>KUPPLERIN.</speaker>
             <p>Sie beschwört; fort mit ihr! Wäre sie doch nie über meine Schwelle gekommen! Sie ist
               zu unserm Ruin geboren. Du willst den Weg nicht gehen, den alle Menschen geh'n? Ja,
-              hat sich was! Du Gericht Keuschheit mit Rosmarin und Lorbeer! <stage>Geht
-              ab.</stage>
+              hat sich was! Du Gericht Keuschheit mit Rosmarin und Lorbeer! <stage>Geht ab.</stage>
             </p>
           </sp>
           <sp who="#bolz">
@@ -4324,7 +4483,7 @@
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Zwei Matrosen treten auf</stage>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_v-2">
             <speaker>ERSTER MATROSE.</speaker>
             <lg>
               <l>Wo ist Lord Helicanus? Der kann's sagen, –</l>
@@ -4341,12 +4500,12 @@
             <speaker>HELICANUS.</speaker>
             <l>Der seinige geschen'. Ruft ein'ge Herrn.</l>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_v-2">
             <speaker>ERSTER MATROSE.</speaker>
             <l>He! Meine Herrn! Es ruft der Lord.</l>
             <stage>Einige Edelleute kommen.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_v-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ruft Euer Gnaden?</l>
           </sp>
@@ -4358,7 +4517,7 @@
             </lg>
             <stage>Lysimachus kommt mit Gefolge.</stage>
           </sp>
-          <sp who="#erster_matrose">
+          <sp who="#erster_matrose_v-2">
             <speaker>ERSTER MATROSE.</speaker>
             <l>Dies ist der Mann, der kann Euch alles sagen.</l>
           </sp>
@@ -4447,7 +4606,7 @@
             <speaker>HELICANUS.</speaker>
             <l>Es ist umsonst, er wird nicht zu Euch sprechen.</l>
           </sp>
-          <sp who="#ein_lord">
+          <sp who="#ein_lord_v-2">
             <speaker>EIN LORD.</speaker>
             <lg>
               <l>Ein Mädchen ist in Mitylen', ich wette,</l>
