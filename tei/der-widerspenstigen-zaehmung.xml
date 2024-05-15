@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Der Widerspenstigen Zähmung</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="63" to="147">63–147</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Der Widerspenstigen
+              Zähmung</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >1</biblScope>: Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="63" to="147">63–147</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,118 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="schlau" sex="MALE">
+            <persName>Schlau</persName>
+          </person>
+          <person xml:id="wirtin" sex="FEMALE">
+            <persName>Wirtin</persName>
+          </person>
+          <person xml:id="lord" sex="MALE">
+            <persName>Lord</persName>
+          </person>
+          <person xml:id="erster_jaeger" sex="MALE">
+            <persName>Erster Jäger</persName>
+          </person>
+          <person xml:id="zweiter_jaeger" sex="MALE">
+            <persName>Zweiter Jäger</persName>
+          </person>
+          <person xml:id="diener_einleitung_1" sex="MALE">
+            <persName>Diener (Einleitung)</persName>
+          </person>
+          <person xml:id="erster_schauspieler" sex="MALE">
+            <persName>Erster Schauspieler</persName>
+          </person>
+          <person xml:id="zweiter_schauspieler" sex="MALE">
+            <persName>Zweiter Schauspieler</persName>
+          </person>
+          <person xml:id="erster_diener" sex="MALE">
+            <persName>Erster Diener</persName>
+          </person>
+          <person xml:id="zweiter_diener" sex="MALE">
+            <persName>Zweiter Diener</persName>
+          </person>
+          <person xml:id="dritter_diener" sex="MALE">
+            <persName>Dritter Diener</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="diener_einleitung_2" sex="MALE">
+            <persName>Diener (Einleitung)</persName>
+          </person>
+          <person xml:id="lucentio" sex="MALE">
+            <persName>Lucentio</persName>
+          </person>
+          <person xml:id="tranio" sex="MALE">
+            <persName>Tranio</persName>
+          </person>
+          <person xml:id="baptista" sex="MALE">
+            <persName>Baptista</persName>
+          </person>
+          <person xml:id="gremio" sex="MALE">
+            <persName>Gremio</persName>
+          </person>
+          <person xml:id="katharina" sex="FEMALE">
+            <persName>Katharina</persName>
+          </person>
+          <person xml:id="hortensio" sex="MALE">
+            <persName>Hortensio</persName>
+          </person>
+          <person xml:id="bianca" sex="FEMALE">
+            <persName>Bianca</persName>
+          </person>
+          <person xml:id="biondello" sex="MALE">
+            <persName>Biondello</persName>
+          </person>
+          <person xml:id="petruchio" sex="MALE">
+            <persName>Petruchio</persName>
+          </person>
+          <person xml:id="grumio" sex="MALE">
+            <persName>Grumio</persName>
+          </person>
+          <person xml:id="diener_iii-1" sex="MALE">
+            <persName>Diener (III/1)</persName>
+          </person>
+          <person xml:id="curtis" sex="MALE">
+            <persName>Curtis</persName>
+          </person>
+          <person xml:id="nathanael" sex="MALE">
+            <persName>Nathanael</persName>
+          </person>
+          <person xml:id="philipp" sex="MALE">
+            <persName>Philipp</persName>
+          </person>
+          <person xml:id="joseph" sex="MALE">
+            <persName>Joseph</persName>
+          </person>
+          <person xml:id="niklas" sex="MALE">
+            <persName>Niklas</persName>
+          </person>
+          <person xml:id="gregor" sex="MALE">
+            <persName>Gregor</persName>
+          </person>
+          <person xml:id="peter" sex="MALE">
+            <persName>Peter</persName>
+          </person>
+          <person xml:id="magister" sex="MALE">
+            <persName>Magister</persName>
+          </person>
+          <person xml:id="putzhaendler" sex="MALE">
+            <persName>Putzhändler</persName>
+          </person>
+          <person xml:id="schneider" sex="MALE">
+            <persName>Schneider</persName>
+          </person>
+          <person xml:id="vincentio" sex="MALE">
+            <persName>Vincentio</persName>
+          </person>
+          <person xml:id="witwe" sex="FEMALE">
+            <persName>Witwe</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +187,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000007" passive="http://www.wikidata.org/entity/Q332387"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000007"
+        passive="http://www.wikidata.org/entity/Q332387"/>
     </listRelation>
   </standOff>
   <text>
@@ -123,7 +232,7 @@
           <roleDesc>Baptistas Töchter</roleDesc>
         </castGroup>
         <castItem>Eine Witwe</castItem>
-        <castItem>Schneider, Putzbändler und Bediente des Baptista und des Petruchio</castItem>
+        <castItem>Schneider, Putzhändler und Bediente des Baptista und des Petruchio</castItem>
       </castList>
       <set>
         <p>Die Handlung ist abwechselnd in Padua, und in dem Landhause des Petruchio</p>
@@ -134,36 +243,36 @@
       <div type="prologue">
         <head>Einleitung</head>
         <stage>Schlau und die Wirtin treten auf.</stage>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Ich will Euch zwiebeln, mein' Seel'!</p>
         </sp>
-        <sp>
+        <sp who="#wirtin">
           <speaker>WIRTIN.</speaker>
           <p>Fußschellen für dich, du Lump!</p>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Du Weibsstück! Die Schlaus sind keine Lumpen! Sieh in den Chroniken nach, wir kamen mit
             Richard dem Eroberer herüber! also paucas palabris: laßt der Welt ihr Recht: Sessa!
             –</p>
         </sp>
-        <sp>
+        <sp who="#wirtin">
           <speaker>WIRTIN.</speaker>
           <p>Ihr wollt mir die Gläser nicht bezahlen, die Ihr zerbrochen habt?</p>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Nein, keinen Heller: still, still, sagt Jeronimo: geh in dein kaltes Bett und wärme
             dich!</p>
         </sp>
-        <sp>
+        <sp who="#wirtin">
           <speaker>WIRTIN.</speaker>
           <p>Ich weiß schon, was ich zu tun habe: ich muß gehn und den Viertelsmeister holen. –
               <stage>Ab.</stage>
           </p>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Den Viertels-, Fünftels-, Sechstels- oder Achtelsmeister: ich werde ihm nach dem Gesetz
             antworten. Ich weiche keinen Zoll breit, Junge; laßt ihn kommen und in der Güte.
@@ -171,7 +280,7 @@
           </p>
           <stage>Ein Lord, der mit seinem Gefolge von der Jagd zurückkehrt, tritt auf.</stage>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Jäger, ich sag' dir's, pfleg' die Meute gut! –</l>
@@ -182,7 +291,7 @@
             <l>Den Hund möcht' ich für zwanzig Pfund nicht missen.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_jaeger">
           <speaker>ERSTER JÄGER.</speaker>
           <lg>
             <l>Nun, Baumann ist so gut wie der, Mylord,</l>
@@ -191,7 +300,7 @@
             <l>Glaubt mir's, das ist der allerbeste Hund!</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Du bist ein Narr; wär' Echo nur so flink,</l>
@@ -201,25 +310,25 @@
             <l>Ich reite morgen wieder auf die Jagd.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_jaeger">
           <speaker>ERSTER JÄGER.</speaker>
           <l>Ganz wohl, Mylord.</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Was gibt's da?</l>
             <l>Ein Toter oder Trunkner? Atmet er?</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#zweiter_jaeger">
           <speaker>ZWEITER JÄGER.</speaker>
           <lg>
             <l>Er atmet, gnäd'ger Herr: ihn wärmt sein Bier,</l>
             <l>Sonst wär's ein kaltes Bett, so fest zu schlafen.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>O scheußlich Tier! Da liegt er wie ein Schwein! –</l>
@@ -232,15 +341,15 @@
             <l>Würde der Bettler nicht sein selbst vergessen?</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_jaeger">
           <speaker>ERSTER JÄGER.</speaker>
           <l>Mein' Treu', Mylord, das, glaub' ich, kann nicht fehlen.</l>
         </sp>
-        <sp>
+        <sp who="#zweiter_jaeger">
           <speaker>ZWEITER JÄGER.</speaker>
           <l>Es wird ihn seltsam dünken, wenn er wacht.</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Ganz wie ein schmeichlerischer Traum, ein Blendwerk!</l>
@@ -271,7 +380,7 @@
             <l>Wird er gehandhabt mit bescheidnem Maß.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_jaeger">
           <speaker>ERSTER JÄGER.</speaker>
           <lg>
             <l>Mylord, vertraut, wir spielen unsre Rolle;</l>
@@ -279,7 +388,7 @@
             <l>Daß er nichts anders ist, als wir ihn nennen.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Hebt ihn behutsam auf, bringt ihn zu Bett,</l>
@@ -293,32 +402,32 @@
             <l>Sag an, wer ist's?</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#diener_einleitung_1">
           <speaker>DIENER.</speaker>
           <lg>
             <l>Mit Euer Gnaden Gunst,</l>
             <l>Schauspieler sind's, die ihre Dienste bieten.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <l>Führ' sie herein!</l>
           <stage>Schauspieler treten auf.</stage>
           <l>Ihr seid willkommen, Leute.</l>
         </sp>
-        <sp>
+        <sp who="#erster_schauspieler">
           <speaker>ERSTER SCHAUSPIELER.</speaker>
           <l>Wir danken Euer Gnaden.</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <l>Gedenkt ihr diesen Abend hier zu bleiben?</l>
         </sp>
-        <sp>
+        <sp who="#zweiter_schauspieler">
           <speaker>ZWEITER SCHAUSPIELER.</speaker>
           <l>Wenn Euer Gnaden unsern Dienst genehmigt.</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Von Herzen gern. Den Burschen kenn' ich noch,</l>
@@ -328,11 +437,11 @@
             <l>War passend und natürlich dargestellt.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_schauspieler">
           <speaker>ERSTER SCHAUSPIELER.</speaker>
           <l>War es nicht Soto, den Eu'r Gnaden meint?</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Der war es auch; du spieltest ihn vortrefflich.</l>
@@ -349,14 +458,14 @@
             <l>Wenn ihr nur lächelt, kommt er außer sich.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_schauspieler">
           <speaker>ERSTER SCHAUSPIELER.</speaker>
           <lg>
             <l>Sorgt nicht, Mylord, wir halten uns in Zaum,</l>
             <l>Und wär' er auch die lächerlichste Fratze.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Du geh mir, führ' sie in die Kellerei!</l>
@@ -408,23 +517,23 @@
           <stage>Es treten auf Schlau mit mehreren Dienern. Einige tragen Kleider, Becken und
             Gießkanne und anderes Gerät. Der Lord unter ihnen.</stage>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Um Gottes willen, einen Krug Dünnbier!</l>
         </sp>
-        <sp>
+        <sp who="#erster_diener">
           <speaker>ERSTER DIENER.</speaker>
           <l>Befiehlt Eu'r Herrlichkeit 'nen Becher Sekt?</l>
         </sp>
-        <sp>
+        <sp who="#zweiter_diener">
           <speaker>ZWEITER DIENER.</speaker>
           <l>Befiehlt Eu'r Gnaden eingemachte Früchte?</l>
         </sp>
-        <sp>
+        <sp who="#dritter_diener">
           <speaker>DRITTER DIENER.</speaker>
           <l>Welch einen Anzug wünscht Eu'r Gnaden heut?</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Ich bin Christoph Schlau, heißt mich nicht Herrlichkeit noch Gnaden. Ich habe mein
             Lebstage keinen Sekt getrunken, und wollt ihr mir Eingemachtes geben, so gebt mir
@@ -433,7 +542,7 @@
             ja zuweilen mehr Füße als Schuhe, oder solche Schuhe, wo mir die Zehen durchs Oberleder
             kucken.</p>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Gott nehm' Eu'r Gnaden diesen müß'gen Wahn! –</l>
@@ -442,7 +551,7 @@
             <l>Sich von so bösem Geist beherrschen läßt!</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Was! wollt Ihr mich verrückt machen? Bin ich denn nicht Christoph Schlau, Sohn des
             alten Schlau von Burtonhaide? durch Geburt ein Hausierer, durch Erziehung ein
@@ -453,15 +562,15 @@
             verlogensten Schelm in der ganzen Christenheit. Was! ich bin doch nicht verhext? – Hier
             ist ...</p>
         </sp>
-        <sp>
+        <sp who="#erster_diener">
           <speaker>ERSTER DIENER.</speaker>
           <l>Oh, dies macht Eure edle Gattin weinen! –</l>
         </sp>
-        <sp>
+        <sp who="#zweiter_diener">
           <speaker>ZWEITER DIENER.</speaker>
           <l>Oh, dies macht Eure treuen Diener trauern! –</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Ja, deshalb scheun das Haus die Anverwandten,</l>
@@ -485,14 +594,14 @@
             <l>Und weckt der hohlen Erde grelles Echo.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_diener">
           <speaker>ERSTER DIENER.</speaker>
           <lg>
             <l>Sprich, willst du hetzen? Schnell sind deine Hunde,</l>
             <l>Leicht wie der Hirsch, und flücht'ger als das Reh.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#zweiter_diener">
           <speaker>ZWEITER DIENER.</speaker>
           <lg>
             <l>Liebst du Gemälde? Sprich! Wir bringen dir</l>
@@ -502,7 +611,7 @@
             <l>Wie schwankes Schilfrohr mit dem Winde spielt.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Wir zeigen Jo dir, da sie noch Jungfrau,</l>
@@ -511,7 +620,7 @@
             <l>Ganz nach dem Leben täuschend dargestellt.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#dritter_diener">
           <speaker>DRITTER DIENER.</speaker>
           <lg>
             <l>Und Daphne, flüchtend durch den dorn'gen Wald,</l>
@@ -520,7 +629,7 @@
             <l>So meisterlich gemalt sind Blut und Tränen.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <lg>
             <l>Du bist ein Lord, nichts anders als ein Lord:</l>
@@ -528,7 +637,7 @@
             <l>Als irgendein' in dieser dürft'gen Zeit.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_diener">
           <speaker>ERSTER DIENER.</speaker>
           <lg>
             <l>Und eh' die Tränen, die für dich vergossen,</l>
@@ -537,7 +646,7 @@
             <l>Und jetzt noch steht sie keiner andern nach.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>Bin ich ein Lord? Und hab' ich solche Frau?</l>
@@ -550,7 +659,7 @@
             <l>Und nochmals: einen Krug vom dünnsten Bier! –</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#zweiter_diener">
           <speaker>ZWEITER DIENER.</speaker>
           <l>Will Eu'r Erhabenheit die Hände waschen?</l>
           <stage>Die Diener reichen ihm Becken, Kanne und Tuch.</stage>
@@ -561,14 +670,14 @@
             <l>Und wachtet Ihr, so war's, als ob Ihr schlieft.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>Seit funfzehn Jahren! Blitz, ein hübsches Schläfchen!</l>
             <l>Sprach ich denn gar nichts in der ganzen Zeit? –</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#erster_diener">
           <speaker>ERSTER DIENER.</speaker>
           <lg>
             <l>O ja, Mylord, doch lauter unnütz Zeug.</l>
@@ -580,12 +689,12 @@
             <l>Dann wieder rieft Ihr nach Cäcilie Hacket.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Ja, ja, der Wirtin Tochter in der Schenke.</l>
         </sp>
         <pb n="72"/>
-        <sp>
+        <sp who="#dritter_diener">
           <speaker>DRITTER DIENER.</speaker>
           <lg>
             <l>Ei Herr, Ihr kennt solch Haus nicht und solch Mädchen,</l>
@@ -597,86 +706,86 @@
             <l>Die niemals lebten und die niemand kennt.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Nun, Gott sei Dank für unsre Beßrung!</l>
         </sp>
-        <sp>
+        <sp who="#erster_diener #zweiter_diener #dritter_diener #lord">
           <speaker>ALLE.</speaker>
           <l>Amen! –</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Ich danke dir, 's soll nicht dein Schade sein. –</l>
           <stage>Der Page kommt, wie eine Dame gekleidet, mit Gefolge.</stage>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <l>Wie geht es meinem Herrn?</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>Ei nun, recht wohl, hier gibt's genug zu essen.</l>
             <l>Wo ist mein Weib?</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <l>Hier, edler Herr; was wolltest du von ihr?</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>Seid Ihr mein Weib und nennt mich nicht mein Mann?</l>
             <l>Herr heiß' ich fürs Gesind', ich bin Eu'r Alter.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <lg>
             <l>Mein Gatte und mein Herr, mein Herr und Gatte,</l>
             <l>Ich bin Eu'r Eh'gemahl in schuld'ger Demut.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Nun ja, ich weiß. Wie heißt sie denn?</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <l>Madam.</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Was! Madam Else? oder Madam Hanne? –</l>
         </sp>
-        <sp>
+        <sp who="#lord">
           <speaker>LORD.</speaker>
           <l>Madam schlichtweg, so nennen Lords die Ladies.</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>Nun, Madam Frau, man sagt, ich schlief und träumte</l>
             <l>Schon an die funfzehn Jahre wohl und länger.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <lg>
             <l>Ja, und die Zeit bedünkte mich wie dreißig,</l>
             <l>Weil ich so lang' getrennt von deinem Bett.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <lg>
             <l>'s ist viel! Leute, laßt mich und sie allein!</l>
             <l>Madam, zieht Euch nur aus und kommt zu Bett!</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <lg>
             <l>Dreimal erhabner Lord, ich muß Euch flehn,</l>
@@ -689,14 +798,14 @@
           </lg>
         </sp>
         <pb n="73"/>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>I nun ja, wenn's so steht, ist's aber doch schwer, so lange zu warten. Aber es sollte
             mich freilich verdrießen, wenn ich wieder in meine Träume verfiele, darum will ich
             warten, was auch Fleisch und Blut dazu sagen mögen.</p>
           <stage>Ein Diener kommt.</stage>
         </sp>
-        <sp>
+        <sp who="#diener_einleitung_2">
           <speaker>DIENER.</speaker>
           <lg>
             <l>Eu'r Herrlichkeit Schauspieler sind bereit,</l>
@@ -709,24 +818,24 @@
             <l>Dadurch wird Leid verbannt, verlängt das Leben.</l>
           </lg>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Zum Henker, das soll geschehn. Ist es nicht so eine Komodität, eine
             Christmarktstanzerei, oder eine Luftspringergeschichte?</p>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <p>Nein, Herr, dies Zeug gefällt Euch wohl noch besser.</p>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <l>Was? ist es Tischzeug?</l>
         </sp>
-        <sp>
+        <sp who="#page">
           <speaker>PAGE.</speaker>
           <l>'s ist 'ne Art Historie.</l>
         </sp>
-        <sp>
+        <sp who="#schlau">
           <speaker>SCHLAU.</speaker>
           <p>Nun, wir wollen's ansehn. Komm, Madam Frau, setz' dich neben mich und laß der Welt
             ihren Lauf; wir werden niemals wieder jünger.</p>
@@ -3148,7 +3257,7 @@
             </lg>
             <stage>Ein Diener kommt.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Fräulein, der Vater will, Ihr laßt die Bücher</l>
@@ -4001,7 +4110,7 @@
               <l>Wo sind Nathanael, Philipp und Gregor?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#nathanael #philipp #gregor">
             <speaker>ALLE.</speaker>
             <l>Hier, Herr!</l>
           </sp>

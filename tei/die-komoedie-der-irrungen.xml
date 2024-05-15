@@ -43,17 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Die Komödie der Irrungen</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="1" to="62">1–62</biblScope>.
-          </bibl>
+            <author>William Shakespeare</author>: <title level="a">Die Komödie der Irrungen</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="1" to="62">1–62</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
       <notesStmt>
@@ -64,6 +59,64 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="aegeon" sex="MALE">
+            <persName>Ägeon</persName>
+          </person>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Herzog</persName>
+          </person>
+          <person xml:id="schliesser" sex="MALE">
+            <persName>Schließer</persName>
+          </person>
+          <person xml:id="kaufmann" sex="MALE">
+            <persName>Kaufmann</persName>
+          </person>
+          <person xml:id="antipholus_von_syrakus" sex="MALE">
+            <persName>Antipholus von Syrakus</persName>
+          </person>
+          <person xml:id="dromio_von_syrakus" sex="MALE">
+            <persName>Dromio von Syrakus</persName>
+          </person>
+          <person xml:id="dromio_von_ephesus" sex="MALE">
+            <persName>Dromio von Ephesus</persName>
+          </person>
+          <person xml:id="adriana" sex="FEMALE">
+            <persName>Adriana</persName>
+          </person>
+          <person xml:id="luciana" sex="FEMALE">
+            <persName>Luciana</persName>
+          </person>
+          <person xml:id="antipholus_von_ephesus" sex="MALE">
+            <persName>Antipholus von Ephesus</persName>
+          </person>
+          <person xml:id="balthasar" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="lucie" sex="FEMALE">
+            <persName>Lucie</persName>
+          </person>
+          <person xml:id="angelo" sex="MALE">
+            <persName>Angelo</persName>
+          </person>
+          <person xml:id="gerichtsdiener" sex="MALE">
+            <persName>Gerichtsdiener</persName>
+          </person>
+          <person xml:id="kurtisane" sex="FEMALE">
+            <persName>Kurtisane</persName>
+          </person>
+          <person xml:id="zwick" sex="MALE">
+            <persName>Zwick</persName>
+          </person>
+          <person xml:id="aebtissin" sex="FEMALE">
+            <persName>Äbtissin</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +132,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000010" passive="http://www.wikidata.org/entity/Q506505"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000010"
+        passive="http://www.wikidata.org/entity/Q506505"/>
     </listRelation>
   </standOff>
   <text>
@@ -369,7 +423,7 @@
               <l>Hier ist Eu'r Geld, das Ihr mir anvertraut.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Geh, trag's in den Zentauren, unsern Gasthof,</l>
@@ -383,7 +437,7 @@
               <l>Nun mach' dich fort! –</l>
             </lg>
           </sp>
-          <sp who="#dromio">
+          <sp who="#dromio_von_syrakus">
             <speaker>DROMIO.</speaker>
             <lg>
               <l>Wohl mancher möcht' Euch jetzt beim Worte nehmen</l>
@@ -391,7 +445,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Ein treuer Bursch, mein Herr, der mir schon oft,</l>
@@ -412,7 +466,7 @@
               <l>Jetzt ruft mich jener Handel von Euch ab.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Lebt wohl so lang'; ich schlendre dann allein</l>
@@ -424,7 +478,7 @@
             <l>Seid Eurem besten Wohlsein dann empfohlen!</l>
             <stage>Geht ab.</stage>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Wer meinem besten Wohlsein mich empfiehlt,</l>
@@ -458,7 +512,7 @@
               <l>Wir büßen, was Ihr sündigt früh und spät.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Still doch! Spar' deine Lunge! Sag mir jetzt,</l>
@@ -473,7 +527,7 @@
               <l>Die hat der Sattler, ich behielt sie nicht.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Ich bin zu Späßen heut nicht aufgelegt;</l>
@@ -493,7 +547,7 @@
               <l>Und Euch nach Hause schlagen ohne Boten.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Hör', Dromio, dieser Spaß kommt sehr zur Unzeit;</l>
@@ -505,7 +559,7 @@
             <speaker>DROMIO VON EPHESUS.</speaker>
             <l>Mir, Herr? Ei wahrlich, Herr, Ihr gabt mir nichts.</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Hör' mich, Herr Schlingel! Laß die Albernheit</l>
@@ -521,7 +575,7 @@
             </lg>
           </sp>
           <pb n="10"/>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Nun denn, so wahr ich Christ bin, steh mir Rede:</l>
@@ -541,7 +595,7 @@
               <l>Ich glaub', Ihr stricht sie nicht geduldig ein.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Von meiner Frau? Sag, Kerl, von welcher Frau?</l>
           </sp>
@@ -553,7 +607,7 @@
               <l>Und bittet, daß Ihr eilig kommt zum Essen.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Was, Schurke, neckst du mich ins Angesicht,</l>
@@ -568,7 +622,7 @@
             </lg>
             <stage>Er läuft davon.</stage>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Bei meiner Treu! durch irgendeinen Streich</l>
@@ -863,7 +917,7 @@
           <head>Zweite Szene</head>
           <stage>Straße.</stage>
           <stage>Antipholus von Syrakus tritt auf.</stage>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Das Gold, das ich dem Dromio gab, liegt sicher</l>
@@ -888,7 +942,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Welch eine Antwort, Herr? Wann war das alles?</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Jetzt eben hier, kaum vor 'ner halben Stunde.</l>
           </sp>
@@ -899,7 +953,7 @@
               <l>Und mich damit heimsandtet zum Zentauren.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Schlingel, du leugnetest des Golds Empfang</l>
@@ -914,7 +968,7 @@
               <l>Was meint Ihr mit dem Scherz? Erzählt mir's, Herr!</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Ei, sieh! du höhnst und neckst mich ins Gesicht?</l>
@@ -929,7 +983,7 @@
               <l>Um welchen Handel ernt' ich solches Handgeld?</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Weil ich wohl manchmal in Vertraulichkeit</l>
@@ -951,7 +1005,7 @@
               meinen Schultern suchen. Aber mit Vergunst, Herr, warum werd' ich geschlagen?</p>
           </sp>
           <pb n="16"/>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Das weißt du nicht? –</p>
           </sp>
@@ -959,7 +1013,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Nichts, Herr, als daß ich geschlagen werde.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Soll ich dir sagen, warum?</p>
           </sp>
@@ -967,7 +1021,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Ja, Herr, und wofür; denn wie man sagt, hat jedes Warum sein Wofür.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Zuerst, warum? Fürs Necken; dann, wofür?</l>
@@ -982,7 +1036,7 @@
               <l>Nun gut, ich dank' Euch.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Dankst mir, Freund? Wofür? –</l>
           </sp>
@@ -990,7 +1044,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Meiner Treu, Herr, für etwas, das ich für nichts bekam.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Ich will's nächstens wieder gut machen und dir nichts für etwas geben. Aber sag mir,
               Freund, ist es Essenszeit?</p>
@@ -999,7 +1053,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Nein, Herr, denn unser Fleisch ist noch nicht, was ich bin.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Und was wäre das?</p>
           </sp>
@@ -1007,7 +1061,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>'s ist noch nicht mürbe.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Dann wird's also noch hart und trocken sein?</p>
           </sp>
@@ -1015,7 +1069,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Ja, und wenn das ist, so bitte ich Euch, eßt nicht davon!</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Dein Grund?</p>
           </sp>
@@ -1023,7 +1077,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Es möchte Euch cholerisch machen, und Ihr schlügt mich noch einmal.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Siehst du? Lerne zu rechter Zeit spaßen; jedes Ding hat seine Zeit.</p>
           </sp>
@@ -1031,7 +1085,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Den Satz hätte ich wohl geleugnet, ehe Ihr so cholerisch wurdet.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Nach welcher Regel?</p>
           </sp>
@@ -1040,7 +1094,7 @@
             <p>Nun, nach einer Regel, die so klar ist als die klare kahle Platte des uralten Gottes
               der Zeit.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Laß hören!</p>
           </sp>
@@ -1049,7 +1103,7 @@
             <p>Wenn einer von Natur kahl wird, so gibt es keine Zeit für ihn, sein Haar wieder zu
               bekommen.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Auch nicht durch Prozeß und Restitution?</p>
           </sp>
@@ -1059,7 +1113,7 @@
             <p>O ja; durch den Prozeß eines Perückenkaufs oder durch die Restauration, die man durch
               das abgeschnittene Haar eines andern erlangt.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Warum ist doch die Zeit ein solcher Knicker mit dem Haar, das sonst ein so
               reichlicher Auswuchs ist?</p>
@@ -1069,7 +1123,7 @@
             <p>Weil's ein Segen ist, mit dem sie das Vieh begabt; was sie dem Menschen an Haar
               entzieht, das ersetzt sie ihm an Witz.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Und doch hat mancher Mensch mehr Haar als Witz.</p>
           </sp>
@@ -1077,7 +1131,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Kein einziger, der nicht so viel Witz hätte, sein Haar zu verlieren.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Du machtest aber den Schluß, starkbehaarte Menschen seien täppische Gesellen ohne
               Witz?</p>
@@ -1087,7 +1141,7 @@
             <p>Je täppischer der Gesell gewesen, desto schneller verliert er's; aber mit dem allen
               verliert sich's mit einer Art von Lustigkeit.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Aus welchem Grund?</p>
           </sp>
@@ -1095,7 +1149,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Aus zwei Gründen, und gesunden dazu.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Gesunden wohl eigentlich nicht!</p>
           </sp>
@@ -1103,7 +1157,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Oder sichern.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Auch nicht sichern, in einer so mißlichen Sache.</p>
           </sp>
@@ -1111,7 +1165,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <p>Gewissen denn, also.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Und die sind?</p>
           </sp>
@@ -1120,7 +1174,7 @@
             <p>Der erste, weil er das Geld fürs Haarkräuseln sparen kann; und der zweite, weil ihm
               beim Essen das Haar nicht in die Suppe fallen wird.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Du wolltest alle die Zeit her beweisen, nicht jedes Ding habe seine Zeit.</p>
           </sp>
@@ -1129,7 +1183,7 @@
             <p>Nun allerdings, und das tat ich auch; namentlich, daß es keine Zeit gäbe, Haar wieder
               zu bekommen, das von Natur verloren ist.</p>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Aber dein Grund hielt nicht Stich, warum es keine Zeit gäbe, es wieder zu
               bekommen.</p>
@@ -1140,7 +1194,7 @@
               der Welt Kahlköpfe in ihrem Gefolge haben.</p>
           </sp>
           <pb n="18"/>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <p>Ich wußte schon, es würde einen kahlen Schluß geben. Aber still! Was winkt uns dort?
               –</p>
@@ -1189,7 +1243,7 @@
               <l>Dann leb' ich rein, und du von Schande frei.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Gilt mir das, schöne Frau? Ich kenn' Euch nicht;</l>
@@ -1207,7 +1261,7 @@
               <l>Sie ließ durch Dromio Euch zum Essen rufen.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Durch Dromio?</l>
           </sp>
@@ -1223,7 +1277,7 @@
               <l>Mein Haus als seins, mich als sein Weib verleugnet.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Sprachst du vorhin mit dieser Dame schon?</l>
@@ -1234,7 +1288,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Ich, Herr? Ich sah sie nie, bis eben jetzt.</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Schurke, du lügst; denn eben diese Worte</l>
@@ -1245,7 +1299,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Ich sprach in meinem Leben nicht mit ihr!</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Wie könnte sie uns dann bei Namen nennen,</l>
@@ -1271,7 +1325,7 @@
               <l>Den Saft dir raubt und droht dem Baum Zerstörung.</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Bin ich's denn wirklich, den ihr Vorwurf schmält?</l>
@@ -1307,7 +1361,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Herr, sagt, bin ich vertauscht, bin ich noch ich?</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Du bist vertauscht, mein Sohn, das bin auch ich.</l>
           </sp>
@@ -1315,7 +1369,7 @@
             <speaker>DROMIO VON SYRAKUS.</speaker>
             <l>Zweifelt Ihr noch, daß man mich neu erschaffe?</l>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <l>Du siehst noch aus wie sonst!</l>
           </sp>
@@ -1350,7 +1404,7 @@
               <l>Komm, Schwester! Dromio, du behüt' die Schwelle! –</l>
             </lg>
           </sp>
-          <sp who="#antipholus">
+          <sp who="#antipholus_von_syrakus">
             <speaker>ANTIPHOLUS.</speaker>
             <lg>
               <l>Ist dies die Erd'? Ist's Himmel oder Hölle?</l>
@@ -2088,8 +2142,8 @@
             <speaker>ANGELO.</speaker>
             <l>Was Euch gefällt! Ich machte sie für Euch.</l>
           </sp>
-          <sp who="#antipholus_von_sykarus">
-            <speaker>ANTIPHOLUS VON SYKARUS.</speaker>
+          <sp who="#antipholus_von_syrakus">
+            <speaker>ANTIPHOLUS VON SYRAKUS.</speaker>
             <l>Für mich, mein Herr? Ich hab' sie nicht bestellt!</l>
           </sp>
           <sp who="#angelo">
