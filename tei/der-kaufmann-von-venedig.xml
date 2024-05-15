@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Der Kaufmann von Venedig</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="379" to="461">379–461</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Der Kaufmann von Venedig</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="379" to="461">379–461</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,88 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="antonio" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="salarino" sex="MALE">
+            <persName>Salarino</persName>
+          </person>
+          <person xml:id="solanio" sex="MALE">
+            <persName>Solanio</persName>
+          </person>
+          <person xml:id="bassanio" sex="MALE">
+            <persName>Bassanio</persName>
+          </person>
+          <person xml:id="lorenzo" sex="MALE">
+            <persName>Lorenzo</persName>
+          </person>
+          <person xml:id="graziano" sex="MALE">
+            <persName>Graziano</persName>
+          </person>
+          <person xml:id="porzia" sex="FEMALE">
+            <persName>Porzia</persName>
+          </person>
+          <person xml:id="nerissa" sex="FEMALE">
+            <persName>Nerissa</persName>
+          </person>
+          <person xml:id="bedienter_i-2" sex="MALE">
+            <persName>Bedienter (I/2)</persName>
+          </person>
+          <person xml:id="shylock" sex="MALE">
+            <persName>Shylock</persName>
+          </person>
+          <person xml:id="marokko" sex="MALE">
+            <persName>Marokko</persName>
+          </person>
+          <person xml:id="lanzelot" sex="MALE">
+            <persName>Lanzelot</persName>
+          </person>
+          <person xml:id="gobbo" sex="MALE">
+            <persName>Gobbo</persName>
+          </person>
+          <person xml:id="leonardo" sex="MALE">
+            <persName>Leonardo</persName>
+          </person>
+          <person xml:id="jessica" sex="FEMALE">
+            <persName>Jessica</persName>
+          </person>
+          <person xml:id="arragon" sex="MALE">
+            <persName>Arragon</persName>
+          </person>
+          <person xml:id="bedienter_ii-9" sex="MALE">
+            <persName>Bedienter (II/9)</persName>
+          </person>
+          <person xml:id="bedienter_iii-1" sex="MALE">
+            <persName>Bedienter (III/1)</persName>
+          </person>
+          <person xml:id="tubal" sex="MALE">
+            <persName>Tubal</persName>
+          </person>
+          <person xml:id="erste_stimme" sex="MALE">
+            <persName>Erste Stimme</persName>
+          </person>
+          <person xml:id="zweite_stimme" sex="MALE">
+            <persName>Zweite Stimme</persName>
+          </person>
+          <person xml:id="salerio" sex="MALE">
+            <persName>Salerio</persName>
+          </person>
+          <person xml:id="balthasar" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="doge" sex="MALE">
+            <persName>Doge</persName>
+          </person>
+          <person xml:id="ein_schreiber" sex="MALE">
+            <persName>Ein Schreiber</persName>
+          </person>
+          <person xml:id="stephano" sex="MALE">
+            <persName>Stephano</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -78,7 +156,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000005" passive="http://www.wikidata.org/entity/Q206400"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000005"
+        passive="http://www.wikidata.org/entity/Q206400"/>
     </listRelation>
   </standOff>
   <text>
@@ -653,7 +732,7 @@
             <l>Nun, was gibt es Neues?</l>
           </sp>
           <pb n="390"/>
-          <sp who="#bedienter">
+          <sp who="#bedienter_i-2">
             <speaker>BEDIENTER.</speaker>
             <p>Die vier Fremden suchen Euch, Fräulein, um Abschied zu nehmen; und es ist ein
               Vorläufer von einem fünften da, vom Prinzen von Marokko, der Nachricht bringt, daß
@@ -1189,7 +1268,8 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Schlagt Euch rechter Hand an der nächsten Ecke, aber bei der allernächsten Ecke
-              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
+              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb
+                n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
               herum.</p>
           </sp>
           <sp who="#gobbo">
@@ -2393,7 +2473,7 @@
             <l>Komm, zieh' den Vorhang zu, Nerissa!</l>
             <stage>Ein Bedienter kommt.</stage>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_ii-9">
             <speaker>BEDIENTER.</speaker>
             <l>Wo ist mein Fräulein?</l>
           </sp>
@@ -2401,7 +2481,7 @@
             <speaker>PORZIA.</speaker>
             <l>Hier; was will mein Herr?</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_ii-9">
             <speaker>BEDIENTER.</speaker>
             <lg>
               <l>An Eurem Tor ist eben abgestiegen</l>
@@ -2551,7 +2631,7 @@
               oder ich will es meinen Meistern zuvortun.</p>
             <stage>Ein Bedienter kommt.</stage>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_iii-1">
             <speaker>BEDIENTER.</speaker>
             <p>Edle Herren, Antonio, mein Herr, ist zu Hause und wünscht euch zu sprechen.</p>
           </sp>
@@ -2788,7 +2868,7 @@
               <l>Ich beginne: Bim! bim! bim!</l>
             </lg>
           </sp>
-          <sp who="#chor">
+          <sp who="#erste_stimme #zweite_stimme">
             <speaker>CHOR.</speaker>
             <l>Bim! bim! bim!</l>
           </sp>
@@ -4876,7 +4956,7 @@
             <speaker>LORENZO.</speaker>
             <l>Wer kommt so eilig in der stillen Nacht?</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#stephano">
             <speaker>BEDIENTER.</speaker>
             <l>Ein Freund.</l>
           </sp>
@@ -4884,7 +4964,7 @@
             <speaker>LORENZO.</speaker>
             <l>Ein Freund? Was für ein Freund? Eu'r Name, Freund!</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#stephano">
             <speaker>BEDIENTER.</speaker>
             <lg>
               <l>Mein Nam' ist Stephano, und ich soll melden,</l>
@@ -4898,7 +4978,7 @@
             <speaker>LORENZO.</speaker>
             <l>Wer kommt mit ihr?</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#stephano">
             <speaker>BEDIENTER.</speaker>
             <lg>
               <l>Ein heil'ger Klausner und ihr Mädchen bloß.</l>
