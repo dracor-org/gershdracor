@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Die lustigen Weiber von Windsor</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="463" to="552">463–552</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Die lustigen Weiber von
+              Windsor</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >1</biblScope>: Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="463" to="552">463–552</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,88 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="schaal" sex="MALE">
+            <persName>Schaal</persName>
+          </person>
+          <person xml:id="schmaechtig" sex="MALE">
+            <persName>Schmächtig</persName>
+          </person>
+          <person xml:id="evans" sex="MALE">
+            <persName>Sir Hugh Evans</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Herr Page</persName>
+          </person>
+          <person xml:id="falstaff" sex="MALE">
+            <persName>Sir John Falstaff</persName>
+          </person>
+          <person xml:id="bardolph" sex="MALE">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="pistol" sex="MALE">
+            <persName>Pistol</persName>
+          </person>
+          <person xml:id="nym" sex="MALE">
+            <persName>Nym</persName>
+          </person>
+          <person xml:id="simpel" sex="MALE">
+            <persName>Simpel</persName>
+          </person>
+          <person xml:id="anne" sex="FEMALE">
+            <persName>Jungfer Anne Page</persName>
+          </person>
+          <person xml:id="wirt" sex="MALE">
+            <persName>Der Wirt zum Hosenbande</persName>
+          </person>
+          <person xml:id="frau_hurtig" sex="FEMALE">
+            <persName>Frau Hurtig</persName>
+          </person>
+          <person xml:id="rugby" sex="MALE">
+            <persName>Rugby</persName>
+          </person>
+          <person xml:id="cajus" sex="MALE">
+            <persName>Cajus</persName>
+          </person>
+          <person xml:id="fenton" sex="MALE">
+            <persName>Fenton</persName>
+          </person>
+          <person xml:id="frau_page" sex="FEMALE">
+            <persName>Frau Page</persName>
+          </person>
+          <person xml:id="frau_fluth" sex="FEMALE">
+            <persName>Frau Fluth</persName>
+          </person>
+          <person xml:id="fluth" sex="MALE">
+            <persName>Herr Fluth</persName>
+          </person>
+          <person xml:id="robin" sex="MALE">
+            <persName>Robin</persName>
+          </person>
+          <person xml:id="alle" sex="MALE">
+            <persName>alle</persName>
+          </person>
+          <person xml:id="knecht" sex="MALE">
+            <persName>Knecht</persName>
+          </person>
+          <person xml:id="wilhelm" sex="MALE">
+            <persName>Wilhelm</persName>
+          </person>
+          <person xml:id="erster_knecht" sex="MALE">
+            <persName>Erster Knecht</persName>
+          </person>
+          <person xml:id="zweiter_knecht" sex="MALE">
+            <persName>Zweiter Knecht</persName>
+          </person>
+          <person xml:id="feenkoenigin" sex="FEMALE">
+            <persName>Feenkönigin</persName>
+          </person>
+          <person xml:id="hobgoblin" sex="MALE">
+            <persName>Hobgoblin</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +157,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000011" passive="http://www.wikidata.org/entity/Q844836"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000011"
+        passive="http://www.wikidata.org/entity/Q844836"/>
     </listRelation>
   </standOff>
   <text>
@@ -1275,7 +1354,8 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Wißt Ihr das auch schon? Ja, wahrhaftig, eine tüchtige Last, und dabei früh auf sein
-              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb n="481"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
+              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb
+                n="481"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
               Anne Page; – aber mit alle dem, – ich weiß, wie Annchen denkt; es ist weder hier noch
               dort was.</p>
           </sp>
@@ -1421,7 +1501,8 @@
             <p>Welch ein Herodes von Judäa das ist! O gottlose, gottlose Welt! – Ist er doch schon
               vom Alter fast ganz aufgetragen und gebärdet sich wie ein junger Liebhaber! Welch
               unbedachtes Betragen hat denn mit des Teufels Beistand dieser flämische Trunkenbold
-              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb n="484"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
+              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb
+                n="484"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
               sollt' ich ihm sagen? Ich war doch damals sparsam mit meiner Lustigkeit; der Himmel
               verzeihe mir's! – Wahrhaftig, ich will auf eine Akte im Parlament antragen, um alle
               Männer abzuschaffen. Wie soll ich mich an ihm rächen? Denn rächen will ich mich, so
@@ -1606,7 +1687,8 @@
             <p>Und dies ist wahr; der Humor des Lügens ist mir zuwider. Er hat mich in gewissen
               Humoren beleidigt: ich habe einen Degen, und der muß die Zähne zeigen, wann's not tut.
               Er liebt Euer Weib, das ist das Kurze und das Lange. Mein Nam' ist Korporal Nym; ich
-              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb n="487"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
+              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb
+                n="487"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
               Humor davon. Lebt wohl! <stage>Nym geht ab.</stage>
             </p>
           </sp>
@@ -2510,7 +2592,7 @@
             <speaker>SCHAAL.</speaker>
             <p>Das wollen wir tun.</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#page #schaal #schmaechtig">
             <speaker>ALLE.</speaker>
             <p>Lebt wohl, lieber Herr Doktor!</p>
             <stage>Page, Schaal und Schmächtig ab.</stage>
@@ -2891,7 +2973,7 @@
               feststeht, daß Falstaff dort ist. Ich will hingehn.</p>
             <stage>Es kommen Page, Schaal, Schmächtig, Wirt, Evans und Cajus.</stage>
           </sp>
-          <sp who="#alle">
+          <sp who="#page #schaal #schmaechtig #wirt #evans #cajus">
             <speaker>ALLE.</speaker>
             <p>Ei, willkommen, Herr Fluth! –</p>
           </sp>
@@ -2971,7 +3053,7 @@
             <p>Und ich will vorher noch eins mit ihm umspringen, denn er soll diesmal nach meiner
               Pfeife tanzen. – Wollt ihr mitkommen, liebe Herrn?</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#page #evans #cajus">
             <speaker>ALLE.</speaker>
             <p>Wir gehn mit, das Monstrum zu sehn.</p>
             <stage>Sie gehn ab.</stage>
@@ -4154,7 +4236,8 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Schlimm genug mit der Geschichte vom ersten Fall; muß der Junge auch noch von einem
-              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb n="526"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
+              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb
+                n="526"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
           </sp>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
@@ -5440,7 +5523,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Was kann das sein?</p>
           </sp>
-          <sp who="#frau fluth #frau_page">
+          <sp who="#frau_fluth #frau_page">
             <speaker>FRAU FLUTH UND FRAU PAGE.</speaker>
             <p>Fort! Fort! –</p>
             <stage>Die Frauen laufen davon.</stage>
@@ -5712,7 +5795,8 @@
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Ich dächte, Sir, wir führten Euch nach Windsor zu einem gewissen Herrn Bach, den Ihr
-              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb n="550"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
+              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb
+                n="550"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
               Euch noch der bitterste Schmerz sein.</p>
           </sp>
           <sp who="#page">

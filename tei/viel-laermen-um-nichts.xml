@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Viel Lärmen um nichts</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="553" to="638">553–638</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Viel Lärmen um nichts</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="553" to="638">553–638</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,85 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="leonato" sex="MALE">
+            <persName>Leonato</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="beatrice" sex="FEMALE">
+            <persName>Beatrice</persName>
+          </person>
+          <person xml:id="hero" sex="FEMALE">
+            <persName>Hero</persName>
+          </person>
+          <person xml:id="don_pedro" sex="MALE">
+            <persName>Don Pedro</persName>
+          </person>
+          <person xml:id="benedikt" sex="MALE">
+            <persName>Benedikt</persName>
+          </person>
+          <person xml:id="don_juan" sex="MALE">
+            <persName>Don Juan</persName>
+          </person>
+          <person xml:id="claudio" sex="MALE">
+            <persName>Claudio</persName>
+          </person>
+          <person xml:id="antonio" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="konrad" sex="MALE">
+            <persName>Konrad</persName>
+          </person>
+          <person xml:id="borachio" sex="MALE">
+            <persName>Borachio</persName>
+          </person>
+          <person xml:id="margareta" sex="FEMALE">
+            <persName>Margareta</persName>
+          </person>
+          <person xml:id="balthasar" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="ursula" sex="FEMALE">
+            <persName>Ursula</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="holzapfel" sex="MALE">
+            <persName>Holzapfel</persName>
+          </person>
+          <person xml:id="schlehwein" sex="MALE">
+            <persName>Schlehwein</persName>
+          </person>
+          <person xml:id="erste_wache" sex="MALE">
+            <persName>Erste Wache</persName>
+          </person>
+          <person xml:id="zweite_wache" sex="MALE">
+            <persName>Zweite Wache</persName>
+          </person>
+          <person xml:id="diener_iii-5" sex="MALE">
+            <persName>Diener (III/5)</persName>
+          </person>
+          <person xml:id="moench" sex="MALE">
+            <persName>Ein Mönch</persName>
+          </person>
+          <person xml:id="schreiber" sex="MALE">
+            <persName>Ein Schreiber</persName>
+          </person>
+          <person xml:id="diener_v-3" sex="MALE">
+            <persName>Diener (V/3)</persName>
+          </person>
+          <personGrp xml:id="gesang" sex="UNKNOWN">
+            <name>Gesang</name>
+          </personGrp>
+          <person xml:id="diener_v-4" sex="MALE">
+            <persName>Diener (V/4)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +154,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000036" passive="http://www.wikidata.org/entity/Q130851"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000036"
+        passive="http://www.wikidata.org/entity/Q130851"/>
     </listRelation>
   </standOff>
   <text>
@@ -108,7 +184,7 @@
         </castGroup>
         <castGroup>
           <castItem>Holzapfel</castItem>
-          <castItem>Schleewein</castItem>
+          <castItem>Schlehwein</castItem>
           <roleDesc>einfältige Gerichtsdiener</roleDesc>
         </castGroup>
         <castItem>Ein Schreiber</castItem>
@@ -657,7 +733,8 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Gut, andre Zeiten, andre Gedanken. Für jetzt, lieber Signor Benedikt, geht hinein zu
-              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="563"/> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
+              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="563"
+              /> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -1536,7 +1613,8 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>In Wahrheit, Fräulein, diese heraldische Auslegung trifft zu; obgleich ich schwören
-              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb n="577"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
+              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb
+                n="577"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
               ihrem Vater an und habe seine Einwilligung erhalten. Bestimme jetzt deinen
               Hochzeitstag, und Gott schenke dir seinen Segen!</p>
           </sp>
@@ -1968,7 +2046,8 @@
             <speaker>BENEDIKT</speaker>
             <stage>beiseit.</stage>
             <p>Wär's ein Hund gewesen, der so geheult hätte, sie hätten ihn aufgehängt. Nun, Gott
-              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb n="584"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
+              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb
+                n="584"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO</speaker>
@@ -3221,7 +3300,8 @@
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <p>Euren neuen Aufsatz finde ich allerliebst, wenn das Haar nur um einen Gedanken
-              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb n="602"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
+              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb
+                n="602"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
               Wesens macht.</p>
           </sp>
           <sp who="#hero">
@@ -3490,7 +3570,7 @@
             <p>Trinkt ein Glas Wein, ehe ihr geht, und so lebt wohl!</p>
             <stage>Ein Diener kommt.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-5">
             <speaker>DIENER.</speaker>
             <p>Gnädiger Herr, man wartet auf Euch, um Eure Fräulein Tochter zur Trauung zu
               führen.</p>
@@ -5299,8 +5379,8 @@
           <sp who="#beatrice">
             <speaker>BEATRICE.</speaker>
             <p>
-              <emph>Dahin</emph>, habt Ihr jetzt eben gesagt, also lebt nun wohl! Doch eh' ich
-              gehe, sagt mir das, weshalb ich kam; laßt mich hören, was zwischen Euch und Claudio
+              <emph>Dahin</emph>, habt Ihr jetzt eben gesagt, also lebt nun wohl! Doch eh' ich gehe,
+              sagt mir das, weshalb ich kam; laßt mich hören, was zwischen Euch und Claudio
               vorgefallen ist.</p>
           </sp>
           <sp who="#benedikt">
@@ -5399,8 +5479,7 @@
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
             <p>Ich will in deinem Herzen leben, in deinem Schoß sterben, in deinen Augen begraben
-              werden, und über das alles will ich mit dir zu deinem Oheim gehn.
-              <stage>Ab.</stage>
+              werden, und über das alles will ich mit dir zu deinem Oheim gehn. <stage>Ab.</stage>
             </p>
           </sp>
         </div>
@@ -5412,7 +5491,7 @@
             <speaker>CLAUDIO.</speaker>
             <l>Ist dies des Leonato Grabgewölb'?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-3">
             <speaker>DIENER.</speaker>
             <l>Ja, gnäd'ger Herr.</l>
           </sp>
@@ -5836,7 +5915,7 @@
               Horn beschlagen ist.</p>
             <stage>Ein Diener kommt.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-4">
             <speaker>DIENER.</speaker>
             <p>Mein Fürst, Eu'r Bruder ward im Fliehn gefangen; Man bracht' ihn mit Bedeckung nach
               Messina.</p>

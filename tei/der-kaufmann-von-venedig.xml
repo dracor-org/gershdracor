@@ -92,13 +92,13 @@
             <persName>Shylock</persName>
           </person>
           <person xml:id="marokko" sex="MALE">
-            <persName>Marokko</persName>
+            <persName>Prinz von Marokko</persName>
           </person>
           <person xml:id="lanzelot" sex="MALE">
-            <persName>Lanzelot</persName>
+            <persName>Lanzelot Gobbo</persName>
           </person>
           <person xml:id="gobbo" sex="MALE">
-            <persName>Gobbo</persName>
+            <persName>Der alte Gobbo</persName>
           </person>
           <person xml:id="leonardo" sex="MALE">
             <persName>Leonardo</persName>
@@ -107,7 +107,7 @@
             <persName>Jessica</persName>
           </person>
           <person xml:id="arragon" sex="MALE">
-            <persName>Arragon</persName>
+            <persName>Prinz von Arragon</persName>
           </person>
           <person xml:id="bedienter_ii-9" sex="MALE">
             <persName>Bedienter (II/9)</persName>
@@ -131,7 +131,7 @@
             <persName>Balthasar</persName>
           </person>
           <person xml:id="doge" sex="MALE">
-            <persName>Doge</persName>
+            <persName>Der Doge von Venedig</persName>
           </person>
           <person xml:id="ein_schreiber" sex="MALE">
             <persName>Ein Schreiber</persName>

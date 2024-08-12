@@ -41,16 +41,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Die beiden Veroneser</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="149" to="219">149–219</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Die beiden Veroneser</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="149" to="219">149–219</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,7 +91,7 @@
             <persName>Thurio</persName>
           </person>
           <person xml:id="herzog" sex="MALE">
-            <persName>Herzog</persName>
+            <persName>Der Herzog von Mailand</persName>
           </person>
           <person xml:id="diener" sex="MALE">
             <persName>Diener</persName>
@@ -110,7 +106,7 @@
             <persName>Dritter Räuber</persName>
           </person>
           <person xml:id="wirt" sex="MALE">
-            <persName>Wirt</persName>
+            <persName>Ein Wirt</persName>
           </person>
           <person xml:id="eglamour" sex="MALE">
             <persName>Eglamour</persName>
@@ -132,7 +128,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000009" passive="http://www.wikidata.org/entity/Q232042"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000009"
+        passive="http://www.wikidata.org/entity/Q232042"/>
     </listRelation>
   </standOff>
   <text>

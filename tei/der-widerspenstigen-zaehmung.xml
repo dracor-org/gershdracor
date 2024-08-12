@@ -63,13 +63,13 @@
       <particDesc>
         <listPerson>
           <person xml:id="schlau" sex="MALE">
-            <persName>Schlau</persName>
+            <persName>Christoph Schlau</persName>
           </person>
           <person xml:id="wirtin" sex="FEMALE">
             <persName>Wirtin</persName>
           </person>
           <person xml:id="lord" sex="MALE">
-            <persName>Lord</persName>
+            <persName>Ein Lord</persName>
           </person>
           <person xml:id="erster_jaeger" sex="MALE">
             <persName>Erster Jäger</persName>
@@ -156,7 +156,7 @@
             <persName>Peter</persName>
           </person>
           <person xml:id="magister" sex="MALE">
-            <persName>Magister</persName>
+            <persName>Ein Magister</persName>
           </person>
           <person xml:id="putzhaendler" sex="MALE">
             <persName>Putzhändler</persName>

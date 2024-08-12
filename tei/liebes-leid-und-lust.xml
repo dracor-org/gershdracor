@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Liebes Leid und Lust</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="221" to="307">221–307</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Liebes Leid und Lust</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="221" to="307">221–307</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -146,7 +142,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000027" passive="http://www.wikidata.org/entity/Q128610"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000027"
+        passive="http://www.wikidata.org/entity/Q128610"/>
     </listRelation>
   </standOff>
   <text>
@@ -1137,7 +1134,8 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Ich will diesen Gegenstand von neuem bearbeiten lassen, damit ich ein Beispiel habe
-              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb n="235"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
+              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb
+                n="235"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
               kann Ansprüche machen ...</p>
           </sp>
           <sp who="#motte">
@@ -4078,7 +4076,8 @@
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Oh, sie zehren schon lange aus dem Almosenkorb der Worte. Mich wundert, daß dein Herr
-              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb n="276"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
+              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb
+                n="276"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
               leichter hinunter als ein Mandelschiffchen.</p>
           </sp>
           <sp who="#motte">
@@ -5810,8 +5809,7 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Gesalbter, ich flehe um so viel Aufwand deines königlichen geliebten Atems, als
-              erforderlich ist für ein paar Worte. <stage>Er spricht heimlich mit dem
-              König.</stage>
+              erforderlich ist für ein paar Worte. <stage>Er spricht heimlich mit dem König.</stage>
             </p>
           </sp>
           <sp who="#prinzessin">

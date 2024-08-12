@@ -71,7 +71,7 @@
             <persName>Schließer</persName>
           </person>
           <person xml:id="kaufmann" sex="MALE">
-            <persName>Kaufmann</persName>
+            <persName>Ein Kaufmann</persName>
           </person>
           <person xml:id="antipholus_von_syrakus" sex="MALE">
             <persName>Antipholus von Syrakus</persName>
@@ -104,10 +104,10 @@
             <persName>Gerichtsdiener</persName>
           </person>
           <person xml:id="kurtisane" sex="FEMALE">
-            <persName>Kurtisane</persName>
+            <persName>Eine Kurtisane</persName>
           </person>
           <person xml:id="zwick" sex="MALE">
-            <persName>Zwick</persName>
+            <persName>Doktor Zwick</persName>
           </person>
           <person xml:id="aebtissin" sex="FEMALE">
             <persName>Äbtissin</persName>

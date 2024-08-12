@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Wie es euch gefällt</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="639" to="725">639–725</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Wie es euch gefällt</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="639" to="725">639–725</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,106 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="orlando" sex="MALE">
+            <persName>Orlando</persName>
+          </person>
+          <person xml:id="adam" sex="MALE">
+            <persName>Adam</persName>
+          </person>
+          <person xml:id="oliver" sex="MALE">
+            <persName>Oliver</persName>
+          </person>
+          <person xml:id="dennis" sex="MALE">
+            <persName>Dennis</persName>
+          </person>
+          <person xml:id="charles" sex="MALE">
+            <persName>Charles</persName>
+          </person>
+          <person xml:id="celia" sex="FEMALE">
+            <persName>Celia</persName>
+          </person>
+          <person xml:id="rosalinde" sex="FEMALE">
+            <persName>Rosalinde</persName>
+          </person>
+          <person xml:id="probstein" sex="MALE">
+            <persName>Probstein</persName>
+          </person>
+          <person xml:id="le_beau" sex="MALE">
+            <persName>Le Beau</persName>
+          </person>
+          <person xml:id="herzog_friedrich" sex="MALE">
+            <persName>Herzog Friedrich</persName>
+          </person>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Der Herzog</persName>
+          </person>
+          <person xml:id="amiens" sex="MALE">
+            <persName>Amiens</persName>
+          </person>
+          <person xml:id="erster_edelmann_ii-1" sex="MALE">
+            <persName>Erster Edelmann (II/1)</persName>
+          </person>
+          <person xml:id="erster_edelmann_ii-2" sex="MALE">
+            <persName>Erster Edelmann (II/2)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_ii-2" sex="MALE">
+            <persName>Zweiter Edelmann (II/2)</persName>
+          </person>
+          <person xml:id="corinnus" sex="MALE">
+            <persName>Corinnus</persName>
+          </person>
+          <person xml:id="silvius" sex="MALE">
+            <persName>Silvius</persName>
+          </person>
+          <person xml:id="jaques" sex="MALE">
+            <persName>Jaques</persName>
+          </person>
+          <personGrp xml:id="alle_zusammen_ii-5" sex="MALE">
+            <name>Alle zusammen (II/5)</name>
+          </personGrp>
+          <person xml:id="erster_edelmann_ii-7" sex="MALE">
+            <persName>Erster Edelmann (II/7)</persName>
+          </person>
+          <person xml:id="kaethchen" sex="FEMALE">
+            <persName>Käthchen</persName>
+          </person>
+          <person xml:id="ehrn_olivarius" sex="MALE">
+            <persName>Ehrn Olivarius Textdreher</persName>
+          </person>
+          <person xml:id="phoebe" sex="FEMALE">
+            <persName>Phoebe</persName>
+          </person>
+          <person xml:id="erster_edelmann_iv-2" sex="MALE">
+            <persName>Erster Edelmann (IV/2)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_iv-2" sex="MALE">
+            <persName>Zweiter Edelmann (IV/2)</persName>
+          </person>
+          <person xml:id="erste_stimme" sex="MALE">
+            <persName>Erste Stimme</persName>
+          </person>
+          <person xml:id="zweite_stimme" sex="MALE">
+            <persName>Zweite Stimme</persName>
+          </person>
+          <personGrp xml:id="chor_iv-2" sex="MALE">
+            <name>Chor (IV/2)</name>
+          </personGrp>
+          <person xml:id="wilhelm" sex="MALE">
+            <persName>Wilhelm</persName>
+          </person>
+          <person xml:id="erster_page" sex="MALE">
+            <persName>Erster Page</persName>
+          </person>
+          <person xml:id="zweiter_page" sex="MALE">
+            <persName>Zweiter Page</persName>
+          </person>
+          <person xml:id="hymen" sex="FEMALE">
+            <persName>Hymen</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -78,7 +174,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000038" passive="http://www.wikidata.org/entity/Q237572"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000038"
+        passive="http://www.wikidata.org/entity/Q237572"/>
     </listRelation>
   </standOff>
   <text>
@@ -1385,7 +1482,7 @@
             </lg>
           </sp>
           <pb n="660"/>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-1">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Ja, mein Fürst,</l>
@@ -1416,7 +1513,7 @@
               <l>Macht' er dies Schauspiel nicht zur Sittenpredigt?</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-1">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>O ja, in tausend Gleichnissen. Zuerst</l>
@@ -1445,7 +1542,7 @@
             <speaker>HERZOG.</speaker>
             <l>Und ließet ihr in der Betrachtung ihn?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-1">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Ja, gnäd'ger Herr, beweinend und besprechend</l>
@@ -1460,7 +1557,7 @@
               <l>Mich mit ihm ein: er ist dann voller Sinn.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-1">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ich will Euch zu ihm bringen.</l>
             <stage>Ab.</stage>
@@ -1478,7 +1575,7 @@
               <l>Sind im Verständnis mit, und gaben's zu.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Ich kann von niemand hören, der sie sah.</l>
@@ -1487,7 +1584,7 @@
               <l>Das Bett von ihrem Fräulein ausgeleert.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_ii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Mein Herzog, der Hanswurst, den Euer Hoheit</l>
@@ -1949,7 +2046,7 @@
               danke dem Himmel, und mache kein Wesens davon. Kommt, trillert eins her!</p>
           </sp>
           <stage>Lied</stage>
-          <sp who="#alle_zusammen">
+          <sp who="#alle_zusammen_ii-5">
             <speaker>ALLE ZUSAMMEN.</speaker>
             <lg>
               <l>Wer Ehrgeiz sich hält fern,</l>
@@ -2038,7 +2135,7 @@
             </lg>
           </sp>
           <pb n="670"/>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-7">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Mein Fürst, er ging soeben von hier weg,</l>
@@ -2054,7 +2151,7 @@
             </lg>
             <stage>Jaques tritt auf.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-7">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Er spart die Mühe mir durch seine Ankunft.</l>
           </sp>
@@ -4269,7 +4366,7 @@
             <speaker>JAQUES.</speaker>
             <p>Wer ist's, der den Hirsch erlegt?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iv-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich tat es, Herr.</p>
           </sp>
@@ -4279,7 +4376,7 @@
               sich wohl, ihm das Hirschgeweih wie einen Siegeskranz aufzusetzen. Habt Ihr kein Lied,
               Jäger, auf diese Gelegenheit?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iv-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>O ja, Herr.</p>
           </sp>
@@ -4313,7 +4410,7 @@
             <speaker>ZWEITE STIMME.</speaker>
             <l>Und deinen Vater ziert' es.</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#chor_iv-2">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Das Horn, das Horn, das wackre Horn</l>
@@ -4958,7 +5055,8 @@
               guten Gaben. Ich sage dies nicht, damit Ihr eine gute Meinung von meiner Wissenschaft
               fassen sollt, insofern ich sage: ich weiß, daß Ihr es seid; noch strebe ich nach einer
               größern Achtung, als die Euch einigermaßen Glauben ablocken kann, zu Eurem eignen
-              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb n="715"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
+              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb
+                n="715"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
               Zauberer von der tiefsten Einsicht in seiner Kunst, ohne doch verdammlich zu sein.
               Wenn Euch Rosalinde so sehr am Herzen liegt, als Euer Benehmen laut bezeugt, so sollt
               Ihr sie heiraten, wann Euer Bruder Aliena heiratet. Ich weiß, in welche bedrängte Lage
@@ -5507,7 +5605,7 @@
             </lg>
             <stage>Jaques de Boys tritt auf.</stage>
           </sp>
-          <sp who="#jaques_de_boys">
+          <sp who="#jaques">
             <speaker>JAQUES DE BOYS.</speaker>
             <lg>
               <l>Verleiht für ein paar Worte mir Gehör:</l>
@@ -5556,7 +5654,7 @@
               <l>Und läßt die Pracht des Hofes hinter sich?</l>
             </lg>
           </sp>
-          <sp who="#jaques_de_boys">
+          <sp who="#jaques">
             <speaker>JAQUES DE BOYS.</speaker>
             <l>Das tut er.</l>
           </sp>
