@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Maß für Maß</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="211" to="300">211–300</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Maß für Maß</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische
+            Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="211" to="300">211–300</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,82 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Vincentio (Herzog von Wien)</persName>
+          </person>
+          <person xml:id="escalus" sex="MALE">
+            <persName>Escalus</persName>
+          </person>
+          <person xml:id="angelo" sex="MALE">
+            <persName>Angelo</persName>
+          </person>
+          <person xml:id="lucio" sex="MALE">
+            <persName>Lucio</persName>
+          </person>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="kupplerin" sex="FEMALE">
+            <persName>Frau Überley (Kupplerin)</persName>
+          </person>
+          <person xml:id="pompejus" sex="MALE">
+            <persName>Pompejus</persName>
+          </person>
+          <person xml:id="claudio" sex="MALE">
+            <persName>Claudio</persName>
+          </person>
+          <person xml:id="schliesser" sex="MALE">
+            <persName>Schließer (Kerkermeister)</persName>
+          </person>
+          <person xml:id="moench" sex="MALE">
+            <persName>Mönch (Pater Thomas)</persName>
+          </person>
+          <person xml:id="isabella" sex="FEMALE">
+            <persName>Isabella</persName>
+          </person>
+          <person xml:id="franziska" sex="FEMALE">
+            <persName>Franziska</persName>
+          </person>
+          <person xml:id="elbogen" sex="MALE">
+            <persName>Elbogen</persName>
+          </person>
+          <person xml:id="schaum" sex="MALE">
+            <persName>Schaum</persName>
+          </person>
+          <person xml:id="richter" sex="MALE">
+            <persName>Ein Richter</persName>
+          </person>
+          <person xml:id="diener_ii-2" sex="MALE">
+            <persName>Diener (II/2)</persName>
+          </person>
+          <person xml:id="julia" sex="FEMALE">
+            <persName>Julia</persName>
+          </person>
+          <person xml:id="diener_ii-4" sex="MALE">
+            <persName>Diener (II/4)</persName>
+          </person>
+          <person xml:id="mariane" sex="FEMALE">
+            <persName>Mariane</persName>
+          </person>
+          <person xml:id="grauslich" sex="MALE">
+            <persName>Grauslich</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="bernardin" sex="MALE">
+            <persName>Bernardin</persName>
+          </person>
+          <person xml:id="peter" sex="MALE">
+            <persName>Peter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +151,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000029" passive="http://www.wikidata.org/entity/Q665446"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000029"
+        passive="http://www.wikidata.org/entity/Q665446"/>
     </listRelation>
   </standOff>
   <text>
@@ -1714,7 +1787,7 @@
           <head>Zweite Szene</head>
           <stage>Ein andres Zimmer daselbst.</stage>
           <stage>Es treten auf der Schließer und ein Diener.</stage>
-          <sp who="#diener">
+          <sp who="#diener_ii-2">
             <speaker>DIENER.</speaker>
             <p>Er hält noch ein Verhör, er kommt sogleich. Ich meld' Euch an.</p>
           </sp>
@@ -1780,7 +1853,7 @@
             </lg>
             <stage>Diener kommt zurück.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-2">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Hier ist die Schwester des zum Tod Verdammten,</l>
@@ -2424,7 +2497,7 @@
             <stage>Ein Diener kommt.</stage>
             <l>Was gibt's?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-4">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Eine Nonn' ist draußen, Isabella heißt sie,</l>
@@ -2959,8 +3032,8 @@
             <speaker>CLAUDIO.</speaker>
             <l>Ist denn kein Mittel?</l>
           </sp>
-          <sp who="#isabblla">
-            <speaker>ISABBLLA.</speaker>
+          <sp who="#isabella">
+            <speaker>ISABELLA.</speaker>
             <lg>
               <l>Nein; nur ein Mittel, das, ein Haupt zu retten,</l>
               <l>Zerspalten würd' ein Herz.</l>
@@ -2995,8 +3068,8 @@
             <speaker>CLAUDIO.</speaker>
             <l>Von welcher Art?</l>
           </sp>
-          <sp who="#isabblla">
-            <speaker>ISABBLLA.</speaker>
+          <sp who="#isabella">
+            <speaker>ISABELLA.</speaker>
             <lg>
               <l>Von solcher Art, daß, wenn du eingewilligt,</l>
               <l>Du schältest ab die Ehre deinem Stamm</l>
@@ -3270,7 +3343,8 @@
               Schönheit gering geachtet, läßt auch der Schönheit nicht lange ihre Güte; aber
               Sittsamkeit, die Seele Eurer Züge, wird Euch auch immer schön erhalten. Von dem
               Angriff, den Angelo auf Euch versucht, hat mich der Zufall in Kenntnis gesetzt, und
-              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="255"/> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
+              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="255"
+              /> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
               zufrieden zu stellen und Euren Bruder zu retten?</p>
           </sp>
           <sp who="#isabella">
@@ -4174,7 +4248,8 @@
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Das Malen, Herr, habe ich sagen hören, sei eine Kunst; und da die Huren, Herr, unter
-              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb n="270"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
+              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb
+                n="270"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
               und wenn Ihr mich hängen wolltet –, das kann ich nicht einsehn.</p>
           </sp>
           <sp who="#grauslich">
@@ -5852,8 +5927,8 @@
             <speaker>HERZOG.</speaker>
             <l>Das ist falsch.</l>
           </sp>
-          <sp who="#escalos">
-            <speaker>ESCALOS.</speaker>
+          <sp who="#escalus">
+            <speaker>ESCALUS.</speaker>
             <l>Was? Wißt Ihr, wo Ihr seid?</l>
           </sp>
           <sp who="#herzog">

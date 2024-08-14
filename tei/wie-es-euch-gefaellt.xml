@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gersh000038" xml:lang="ger">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gersh000008" xml:lang="ger">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -174,7 +174,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000038"
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000008"
         passive="http://www.wikidata.org/entity/Q237572"/>
     </listRelation>
   </standOff>

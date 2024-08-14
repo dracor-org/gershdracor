@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Ende gut, alles gut</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="115" to="209">115–209</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Ende gut, alles gut</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>:
+            Komödien. Poetische Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="115" to="209">115–209</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,91 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="graefin" sex="FEMALE">
+            <persName>Die Gräfin von Roussillon</persName>
+          </person>
+          <person xml:id="bertram" sex="MALE">
+            <persName>Bertram</persName>
+          </person>
+          <person xml:id="lafeu" sex="MALE">
+            <persName>Lafeu</persName>
+          </person>
+          <person xml:id="helena" sex="FEMALE">
+            <persName>Helena</persName>
+          </person>
+          <person xml:id="parolles" sex="MALE">
+            <persName>Parolles</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Ein Page</persName>
+          </person>
+          <person xml:id="koenig" sex="MALE">
+            <persName>Der König von Frankreich</persName>
+          </person>
+          <person xml:id="erster_lord_erster_edelmann" sex="MALE">
+            <persName>Erster Lord/Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_lord_zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Lord/Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="haushofmeister" sex="MALE">
+            <persName>Haushofmeister</persName>
+          </person>
+          <person xml:id="narr" sex="MALE">
+            <persName>Narr</persName>
+          </person>
+          <personGrp xml:id="alle_ii-3" sex="MALE">
+            <name>Alle (II/3)</name>
+          </personGrp>
+          <person xml:id="erster_edelmann_ii-3" sex="MALE">
+            <persName>Erster Edelmann (II/3)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_ii-3" sex="MALE">
+            <persName>Zweiter Edelmann (II/3)</persName>
+          </person>
+          <person xml:id="vierter_edelmann_ii-3" sex="MALE">
+            <persName>Vierter Edelmann (II/3)</persName>
+          </person>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Der Herzog von Florenz</persName>
+          </person>
+          <person xml:id="erster_edelmann_iii-2" sex="MALE">
+            <persName>Erster Edelmann (III/2)</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_iii-2" sex="MALE">
+            <persName>Zweiter Edelmann (III/2)</persName>
+          </person>
+          <person xml:id="witwe" sex="FEMALE">
+            <persName>Eine Witwe</persName>
+          </person>
+          <person xml:id="diana" sex="FEMALE">
+            <persName>Diana</persName>
+          </person>
+          <person xml:id="mariana" sex="FEMALE">
+            <persName>Mariana</persName>
+          </person>
+          <person xml:id="soldat_iv-1a_dolmetscher" sex="MALE">
+            <persName>Soldat/Dolmetscher</persName>
+          </person>
+          <personGrp xml:id="alle_iv-1" sex="MALE">
+            <name>Alle (IV/1)</name>
+          </personGrp>
+          <person xml:id="soldat_iv-1b" sex="MALE">
+            <persName>Soldat</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="edelmann_v-1_und_v-3" sex="MALE">
+            <persName>Edelmann (V/1 und V/3)</persName>
+          </person>
+          <person xml:id="edelmann_v-3" sex="MALE">
+            <persName>Edelmann (V/3)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +160,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000013" passive="http://www.wikidata.org/entity/Q506865"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000013"
+        passive="http://www.wikidata.org/entity/Q506865"/>
     </listRelation>
   </standOff>
   <text>
@@ -552,7 +634,7 @@
               <l>Wird eifrig fortgesetzt.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER LORD.</speaker>
             <l>So wird erzählt. –</l>
           </sp>
@@ -568,7 +650,7 @@
               <l>Wir schlagen's ab.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Sein Rat und seine Treu',</l>
@@ -588,7 +670,7 @@
               <l>Nach ihrer Wahl hier oder dort zu fechten.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Erwünschte Schule unsrer edeln Jugend,</l>
@@ -600,7 +682,7 @@
             <l>Wer kommt?</l>
             <stage>Bertram, Lafeu und Parolles treten auf.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER LORD.</speaker>
             <l>Graf Roussillon, mein Fürst, der junge Bertram. –</l>
           </sp>
@@ -682,7 +764,7 @@
               <l>Raum gönnend Jüngern.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>Sire, Euch liebt das Volk;</l>
@@ -1229,7 +1311,7 @@
               <l>Und reicht für beide hin.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Wir hoffen, Herr,</l>
@@ -1252,20 +1334,20 @@
               <l>Daß Fama laut von euch erschall'! Lebt wohl! –</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Heil Euch, mein König! Ganz nach Euerm Wunsch! –</l>
           </sp>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
-            <l>Die welschen Mädchen – seid auf eurer Hut! –</l>
             <lg>
+              <l>Die welschen Mädchen – seid auf eurer Hut! –</l>
               <l>Der Franke, sagt man, kann, was sie verlangen,</l>
               <l>Nicht weigern – werdet nicht Gefangene,</l>
               <l>Bevor ihr dientet!</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster_lord_erster_edelmann #zweiter_lord_zweiter_edelmann">
             <speaker>BEIDE.</speaker>
             <l>Dank für Eure Warnung! –</l>
           </sp>
@@ -1275,7 +1357,7 @@
             <l>Lebt wohl! – Kommt her zu mir!</l>
             <stage>Der König legt sich auf ein Ruhebett.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>O lieber Graf! Daß Ihr nicht mit uns zieht!</l>
           </sp>
@@ -1283,7 +1365,7 @@
             <speaker>PAROLLES.</speaker>
             <l>Schad' um den jungen Degen!</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Edler Krieg!</l>
           </sp>
@@ -1311,7 +1393,7 @@
               <l>Als nur zum Tanz! – Weiß Gott, ich stehl' mich weg!</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Der Diebstahl brächt' Euch Ruhm.</l>
           </sp>
@@ -1319,7 +1401,7 @@
             <speaker>PAROLLES.</speaker>
             <l>Begeht ihn, Graf!</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Ich mach' Halbpart mit Euch; und so lebt wohl!</l>
           </sp>
@@ -1327,11 +1409,11 @@
             <speaker>BERTRAM.</speaker>
             <p>Ich bin so sehr der Eure, daß unsre Trennung einem gefolterten Körper gleicht.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Lebt wohl, Hauptmann!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Teurer Monsieur Parolles –</p>
           </sp>
@@ -1343,7 +1425,7 @@
               Wange: diese gute Klinge grub sie ein; sagt ihm, ich lebe, und beachtet, was er von
               mir aussagen wird!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Das wollen wir, edler Hauptmann.</p>
             <stage>Die beiden Edelleute gehn ab.</stage>
@@ -2036,7 +2118,7 @@
             </lg>
           </sp>
           <pb n="145"/>
-          <sp who="#alle">
+          <sp who="#alle_ii-3">
             <speaker>ALLE.</speaker>
             <p>Wir hörten's, und wir danken Gott für Euch.</p>
           </sp>
@@ -2069,7 +2151,7 @@
               <l>Hochheil'ge Liebe. – Kennt Ihr mein Gesuch? –</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_ii-3">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ja, und gewähr's.</l>
           </sp>
@@ -2090,7 +2172,7 @@
               <l>Das höh're Lieb' als meine Euch gewährt.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_ii-3">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Kein beßres wünsch' ich.</l>
           </sp>
@@ -2127,7 +2209,7 @@
               <l>Ich wünsch' Euch keinen Sohn aus meinem Blut.</l>
             </lg>
           </sp>
-          <sp who="#vierter_edelmann">
+          <sp who="#vierter_edelmann_ii-3">
             <speaker>VIERTER EDELMANN.</speaker>
             <p>Schöne, so denk' ich nicht.</p>
           </sp>
@@ -2955,7 +3037,7 @@
               <l>Und dürstet stets nach mehr.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Der Zwist scheint heilig</l>
@@ -2971,8 +3053,8 @@
               <l>Als wir um Beistand warben.</l>
             </lg>
           </sp>
-          <sp who="#dritter_edelmann">
-            <speaker>DRITTER EDELMANN.</speaker>
+          <sp who="#zweiter_lord_zweiter_edelmann">
+            <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Gnäd'ger Fürst,</l>
               <l>Die Gründe unsres Staats sind mir verhüllt,</l>
@@ -2988,7 +3070,7 @@
             <speaker>HERZOG.</speaker>
             <l>Er tue nach Gefallen!</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Doch sicher weiß ich, unsre muntre Jugend,</l>
@@ -3098,7 +3180,7 @@
               Graf davon gegangen ist.</p>
             <stage>Helena und zwei Edelleute treten auf.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Gott grüß' Euch, edle Gräfin!</l>
           </sp>
@@ -3106,7 +3188,7 @@
             <speaker>HELENA.</speaker>
             <l>O Gräfin, mein Gemahl ist hin, auf immer hin!</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Sagt das nicht!</l>
           </sp>
@@ -3119,7 +3201,7 @@
               <l>Mich kaum entmutigt. Sagt, wo ist mein Sohn?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Er ging zum Dienst des Herzogs von Florenz;</l>
@@ -3141,7 +3223,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Habt ihr den Brief gebracht, ihr Herrn?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Ja, Gräfin;</l>
@@ -3159,7 +3241,7 @@
               <l>Ist er gegangen?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Ja.</l>
           </sp>
@@ -3167,7 +3249,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Im Feld zu dienen?</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Das ist sein edler Vorsatz; und gewiß,</l>
@@ -3179,7 +3261,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Kehrt ihr dahin zurück?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ja, Gräfin, mit der Eile schnellstem Flug.</l>
           </sp>
@@ -3198,7 +3280,7 @@
             <speaker>HELENA.</speaker>
             <l>Ja, gnäd'ge Frau.</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Vielleicht 'ne Kühnheit nur der Hand, von der</l>
@@ -3215,7 +3297,7 @@
               <l>Sie stündlich Herrin nennend. Wer war mit ihm?</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Nur ein Bedienter, und ein Kavalier,</l>
@@ -3226,7 +3308,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Ist's Parolles?</l>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Ja, gnäd'ge Frau.</l>
           </sp>
@@ -3238,7 +3320,7 @@
               <l>Durch seinen schlechten Rat.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_iii-2">
             <speaker>ERSTER EDELMANN.</speaker>
             <lg>
               <l>Recht, edle Gräfin.</l>
@@ -3257,7 +3339,7 @@
               <l>Ihm schriftlich einzuhänd'gen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_iii-2">
             <speaker>ZWEITER EDELMANN.</speaker>
             <lg>
               <l>Zählt auf uns,</l>
@@ -3714,8 +3796,8 @@
           </sp>
           <sp who="#helena">
             <speaker>HELENA.</speaker>
-            <l>Ich dank' Euch bestens! –</l>
             <lg>
+              <l>Ich dank' Euch bestens! –</l>
               <l>Will unsre Wirtin und dies art'ge Mädchen</l>
               <l>Mit uns zu Abend speisen? Kost und Dank</l>
               <l>Nehm' ich auf mich, und gäb' als Zahlung gern</l>
@@ -3723,7 +3805,7 @@
               <l>Die wohl zu brauchen sind.</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#witwe #diana">
             <speaker>BEIDE.</speaker>
             <l>Wir danken freundlich!</l>
             <stage>Alle gehn ab.</stage>
@@ -3733,16 +3815,16 @@
           <head>Sechste Szene</head>
           <stage>Lager vor Florenz.</stage>
           <stage>Bertram und die beiden französischen Edelleute treten auf.</stage>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ja, lieber Graf, versucht's mit ihm; laßt ihm einmal seinen Willen!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Wenn Ihr nicht findet, er sei ein Lump, gnädiger Herr, so versagt mir auf immer Eure
               Achtung!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>So wahr ich lebe, gnädiger Herr, eine Schaumblase.</p>
           </sp>
@@ -3750,7 +3832,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Meint Ihr, ich hätte mich so ganz in ihm getäuscht?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Glaubt mir's, Graf, nach allem, was ich unmittelbar von ihm weiß – ohne irgend
               Bosheit, und indem ich nur von ihm rede, wie ich von meinem Vetter tun würde –, er ist
@@ -3758,7 +3840,7 @@
               Wortbrecher und Besitzer <pb n="168"/> keine einzigen Eigenschaft, die es verdiente,
               daß Eure Herrlichkeit sich seiner annimmt.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Es wäre gut, Ihr durchschautet ihn, damit Ihr nicht bei zu viel Vertrauen auf seine
               Tapferkeit, die er nicht hat, in einem großen und erheblichen Vorfall, wo es gelten
@@ -3769,12 +3851,12 @@
             <p>Ich wollte, es ergäbe sich eine besondere Veranlassung, ihn auf die Probe zu
               stellen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Am besten, Ihr laßt ihn seine Trommel wieder holen, was er, wie Ihr hört, so
               zuversichtlich übernimmt.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich, mit einem Trupp Florentiner, werde ihn plötzlich überfallen; ich will solche
               auswählen, die er gewiß nicht vom Feinde unterscheidet. Wir wollen ihn dergestalt
@@ -3786,7 +3868,7 @@
               obendrein das ewige Heil seiner Seele verschwört, – so sollt Ihr nie wieder meinem
                 <emph>Urteil</emph> in irgend etwas trauen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Oh, der Lachlust wegen laßt ihn seine Trommel holen! Er sagt, er hat eine Kriegslist
               dazu. Wenn Ihr alsdann, mein gnädiger Herr, seinem Erfolg auf den Grund seht, und in
@@ -3795,7 +3877,7 @@
               nicht zu vertilgen. Da kommt er.</p>
             <stage>Parolles tritt auf.</stage>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Oh, der Lachlust wegen, hindert den beabsichtigten Spaß nicht: laßt ihn auf jeden
               Fall seine Trommel holen!</p>
@@ -3805,7 +3887,7 @@
             <p>Wie geht's, Monsieur? Diese Trommel scheint Euch schwer auf dem Herzen zu liegen.</p>
           </sp>
           <pb n="169"/>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Hol' sie der Henker! Laßt sie doch, es ist ja nur eine Trommel.</p>
           </sp>
@@ -3815,7 +3897,7 @@
               mir ein herrliches Kommando! Mit der Reiterei in unsern eignen Flügel einzuhauen, und
               unsre eignen Leute zu werfen! –</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Das war nicht die Schuld des Kommando; es war ein Kriegsunglück, das Cäsar selbst
               nicht hätte hindern können, wenn er uns kommandiert hätte.</p>
@@ -3883,14 +3965,14 @@
             <p>Ich bin kein Freund von vielen Worten. <stage>Geht ab.</stage>
             </p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>So wenig als ein Fisch vom Wasser. – Ist das nicht ein wunderlicher Kauz, gnädiger
               Herr, der so zuversichtlich diese Sache zu unternehmen scheint, von der er weiß, sie
               sei nicht durchzuführen? Der sich dazu verdammt, sie zu tun, und lieber verdammt wäre,
               eh' er sie täte?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ihr kennt ihn nicht, gnädiger Herr, wie wir. Wahr ist's, daß er sich wohl in jemands
               Gunst zu stehlen weiß und eine Woche lang mannigfachen Entdeckungen auszuweichen
@@ -3901,21 +3983,21 @@
             <p>Wie! Meint ihr denn, er wird von dem allem nichts tun, wozu er sich doch so ernstlich
               anheischig macht?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Nicht das mindeste; mit einer Erfindung wird er wiederkommen und Euch zwei oder drei
               wahrscheinliche Lügen auftischen. Aber wir haben ihn schon fast müde gehetzt, und Ihr
               sollt ihn diese Nacht fallen sehn; denn in der Tat, er verdient Euer Gnaden Achtung
               nicht.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Wir wollen Euch erst noch eine kleine Jagd mit dem Fuchs halten, eh' wir ihn
               abstreifen. Der alte Herr Lafeu hat ihn zuerst ausgewittert; wenn er seine Maske
               einmal abgelegt, sollt Ihr sehn, was für einen Zeisig Ihr an ihm habt, und noch diesen
               Abend werdet Ihr's erleben.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ich muß gehn und nach meinen Leimruten sehn; er wird bald fest sein.</p>
           </sp>
@@ -3923,7 +4005,7 @@
             <speaker>BERTRAM.</speaker>
             <l>Doch erst soll Euer Bruder mit mir gehn.</l>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Wie's Euch gefällt; ich will mich Euch empfehlen.</l>
           </sp>
@@ -3934,7 +4016,7 @@
               <l>Von der ich sprach.</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Doch sagt Ihr, sie sei keusch?</l>
           </sp>
@@ -3952,7 +4034,7 @@
               <l>Wollt Ihr sie sehn?</l>
             </lg>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Sehr gern, mein gnäd'ger Herr.</l>
             <stage>Sie gehn ab.</stage>
@@ -4075,34 +4157,34 @@
           <stage>Im florentinischen Lager.</stage>
           <stage>Ein französischer Edelmann tritt auf. Fünf oder sechs Soldaten im
             Hinterhalt.</stage>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <p>Er kann nirgend anders herkommen, als an dieser Zaunecke. Wenn ihr auf ihn losstürzt,
               redet irgend eine fürchterliche Sprache, welche ihr wollt, wenn ihr sie auch selbst
               nicht versteht, gleichviel; denn wir müssen nicht tun, als verständen wir ihn, außer
               einem von uns, den wir für unsern Dolmetscher ausgeben müssen.</p>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>SOLDAT.</speaker>
             <p>Lieber Hauptmann, laßt mich den Dolmetscher sein!</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <p>Bist du nicht mit ihm bekannt? Kennt er deine Stimme nicht?</p>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>SOLDAT.</speaker>
             <p>Nein, Herr, gewiß nicht.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <p>Aber was für Kauderwelsch willst du uns erwidern?</p>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>SOLDAT.</speaker>
             <p>Eben solches, als Ihr mir sagen werdet.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <p>Er muß uns für einen Haufen Fremder halten, die in feindlichem Solde stehn. Nun hat
               er von allen benachbarten Sprachen etwas aufgeschnappt, darum muß jeder so sprechen,
@@ -4123,7 +4205,7 @@
               aber mein Herz hat die Furcht des Mars und seiner Kreaturen vor Augen, und wagt nicht,
               was meine Zunge prahlt.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Das ist die erste Wahrheit, deren sich deine Zunge je schuldig gemacht.</p>
@@ -4139,7 +4221,7 @@
               und eine andre von Bajazets Maultiere kaufen, wenn du mich in solche Gefahren
               plauderst!</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Ist's möglich, daß er weiß, wer er ist, und dennoch der ist, der er ist? –</p>
@@ -4149,7 +4231,7 @@
             <p>Ich wollte, ich käme damit ab, meine Montur zu zerschneiden, oder meine spanische
               Klinge zu zerbrechen!</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Damit können wir dich nicht absolvieren.</p>
@@ -4158,7 +4240,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Oder mir den Bart zu scheren, und zu sagen, es sei eine Kriegslist gewesen!</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Das würde dir nichts helfen!</p>
@@ -4167,7 +4249,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Oder meine Kleider ins Wasser zu werfen, und zu sagen, man habe mich ausgezogen?</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Hilft schwerlich.</p>
@@ -4176,7 +4258,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Wollt' ich etwa schwören, ich wäre aus dem Fenster der Zitadelle gesprungen –</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Wie tief?</p>
@@ -4186,7 +4268,7 @@
             <p>– Dreißig Klafter tief –</p>
           </sp>
           <pb n="175"/>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Das würden dir drei große Schwüre nicht glauben machen.</p>
@@ -4195,7 +4277,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Hätte ich nur eine feindliche Trommel; ich wollte schwören, ich habe sie erobert.</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>beiseit.</stage>
             <p>Gleich sollst du eine hören.</p>
@@ -4205,11 +4287,11 @@
             <speaker>PAROLLES.</speaker>
             <l>Eine feindliche Trommel!</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <l>Throcamovousus, cargo! Cargo! Cargo!</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv-1">
             <speaker>ALLE.</speaker>
             <l>Cargo, cargo, vilianda par carbo!</l>
             <stage>Sie greifen ihn und verbinden ihm die Augen.</stage>
@@ -4218,7 +4300,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Oh, Pardon! Pardon! Bindet mir nicht die Augen zu! –</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Barcos thromuldo boscos.</p>
           </sp>
@@ -4233,13 +4315,11 @@
               <l>Verderben bringen kann.</l>
             </lg>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <lg>
               <l>Boscos vouvado:</l>
               <l>Ich rede deine Sprache und versteh' dich: –</l>
-            </lg>
-            <lg>
               <l>Kerelybonto: – Freund,</l>
               <l>Schließ' deine Rechnung ab, denn siebzehn Dolche</l>
               <l>Stehn auf der Brust dir.</l>
@@ -4249,18 +4329,18 @@
             <speaker>PAROLLES.</speaker>
             <l>Oh!</l>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <lg>
               <l>Oh, bete, bete!</l>
               <l>Mancha revania dulche.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <l>Oscoribi dulchos volivorco ...</l>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <lg>
               <l>Der Feldherr will, daß man dich noch verschone,</l>
@@ -4279,7 +4359,7 @@
             </lg>
           </sp>
           <pb n="176"/>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <l>Und ohne Falsch?</l>
           </sp>
@@ -4287,7 +4367,7 @@
             <speaker>PAROLLES.</speaker>
             <l>Ja, sonst will ich verdammt sein.</l>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <lg>
               <l>Acordo linta.</l>
@@ -4296,7 +4376,7 @@
             <stage>Dolmetscher und Parolles ab.</stage>
             <stage>Trommeln hinter der Szene.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN</speaker>
             <stage>zu einem der Soldaten.</stage>
             <lg>
@@ -4305,22 +4385,22 @@
               <l>Bis sie Bescheid gesendet.</l>
             </lg>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_iv-1b">
             <speaker>SOLDAT.</speaker>
             <l>Gleich, Herr Hauptmann.</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Und sag den Herrn, er woll' uns allzumal</l>
               <l>Uns selbst verraten.</l>
             </lg>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_iv-1b">
             <speaker>SOLDAT.</speaker>
             <l>Wohl!</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Doch bis dahin</l>
@@ -4518,96 +4598,96 @@
           <head>Dritte Szene</head>
           <stage>Im florentinischen Lager.</stage>
           <stage>Die beiden französischen Edelleute und einige Soldaten treten auf.</stage>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ihr habt ihm den Brief seiner Mutter noch nicht gegeben.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ich gab ihn ihm vor einer Stunde; es muß etwas darin stehn, das ihn schmerzlich
               trifft; denn als er ihn las, ward er fast in ein andres Wesen verwandelt.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Er verdient den schärfsten Tadel, daß er eine so würdige Gemahlin und holde Dame
               verstoßen hat.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Besonders hat er sich des Königs Ungnade für ewige Zeiten zugezogen, der eben seine
               Huld dazu gestimmt hatte, ihm Glück zu singen. – Ich will Euch etwas sagen, aber es
               muß in tiefem Dunkel bei Euch verborgen bleiben.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Wenn Ihr's ausgesprochen habt, ist es tot, und es liegt in mir begraben.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Er hat hier in Florenz ein junges Fräulein vom sittsamsten Ruf verführt, und diese
               Nacht sättigt er seine Lust mit dem Raube ihrer Ehre. Er hat ihr seinen Familienring
               geschenkt und hält sich für überglücklich in dieser unkeuschen Verbindung.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Nun, Gott erbarme sich unsers Abfalls! Was sind wir für Geschöpfe, wenn wir
               unserneignen Weg gehn!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Nur unsre eignen Verräter. Und wie, nach dem gewöhnlichen Lauf aller Verrätereien,
               sie sich immer selbst aufdecken, ehe sie ihr ruchloses Ziel erreicht haben, so wird
               auch er, der in dieser Tat seinen innern Adel herabsetzt, zugleich der Herold seiner
               eignen Schande.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ist es denn nicht eine höchst strafwürdige Gesinnung, selbst die Verkünder unsrer
               verbotnen Absichten zu sein? – Wir werden ihn also nicht heut abend in unsrer
               Gesellschaft sehn? –</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Nicht bis nach Mitternacht, denn das ist die ihm bestimmte Stunde.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Die ist nicht mehr fern. Ich möchte gern, <pb n="180"/> daß er seinen Freund
               anatomiert sähe, damit er sein eignes Urteil würdigen lerne, in welches er diesen
               falschen Demant so künstlich eingefaßt hatte.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Wir wollen uns mit jenem nicht abgeben, bis der Graf kommt; denn seine Gegenwart muß
               die Geißel des Gesellen werden.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Sagt mir derweil, was hört Ihr von diesem Krieg?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ich höre, man spricht von Friedensunterhandlungen.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Nein, ich versichre Euch, der Friede ist schon geschlossen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Was wird Graf Roussillon dann beginnen? – Wird er weiter reisen oder nach Frankreich
               zurückkehren?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich schließe aus dieser Frage, daß Ihr nicht ganz in sein Geheimnis eingeweiht
               seid.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Dafür behüte mich Gott, Herr! Dann hätte ich auch großen Teil an seinem Tun.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Seine Gemahlin, Herr, entfloh vor zwei Monaten aus seinem Hause: zum Vorwand nahm sie
               eine Pilgerfahrt zu Sankt Jakob dem Ältern, und vollbrachte dies heilige Unternehmen
@@ -4615,41 +4695,41 @@
               Natur ihrem Kummer zur Beute; endlich seufzte sie ihren letzten Atem aus, und betet
               jetzt im Himmel.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Wie weiß man das mit Gewißheit?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Größtenteils aus ihren eignen Briefen; diese bestätigen ihre Geschichte bis auf den
               Punkt ihres Todes. Ihr Tod selbst, den sie nicht berichten konnte, ward zuverlässig
               durch den Pfarrer des Orts beglaubigt.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ist das alles dem Grafen zugekommen?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ja, und die besondern Belege, Punkt für Punkt, zur völligen Bekräftigung der
               Wahrheit.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Es tut mir herzlich leid, daß er darüber froh sein wird.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Wie wunderbar finden wir oft einen Trost in unserm Verlust!</p>
           </sp>
           <pb n="181"/>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Und wie wunderbar benetzen wir oft unsern Gewinn mit Tränen! Die große Auszeichnung,
               die seine Tapferkeit ihm hier erworben, wird in seinem Vaterlande einer eben so tiefen
               Schande begegnen.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Das Gewebe unsres Lebens besteht aus gemischtem Garn, gut und schlecht durch
               einander. Unsre Tugenden würden stolz sein, wenn unsre Fehler sie nicht geißelten, und
@@ -4664,12 +4744,12 @@
               Seine Gnaden wollen morgen nach Frankreich; der Herzog hat ihm Empfehlungsschreiben an
               den König angeboten.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Die werden ihm dort mehr als nötig sein, sagten sie auch mehr zu seinem Lobe, als sie
               können.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Sie können nicht süß genug für des Königs herbe Stimmung sein. – Da kommt der Graf.
               –</p>
@@ -4685,7 +4765,7 @@
               kleine Dinge ausgerichtet. Das letzte war das wichtigste, aber mit dem bin ich noch
               nicht zu Ende.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Wenn die Sache einige Schwierigkeit hat und Ihr diesen Morgen abreisen wollt, muß
               Euer Gnaden sich beeilen.</p>
@@ -4699,7 +4779,7 @@
             <p>Kommt, bringt uns dies falsche Muster her; er hat mich betrogen, wie ein
               doppelzüngiger Prophet.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Führt ihn her! Er hat die ganze Nacht im Stock gesessen, der arme, tapfre Wicht.</p>
           </sp>
@@ -4708,7 +4788,7 @@
             <p>Tut nichts; seine Fersen haben's verdient, weil sie sich so lange der Sporen
               angemaßt. Wie ist denn seine Fassung? –</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Wie ich Euer Gnaden sagte, seine Einfassung ist der Block. Aber um Euch zu antworten,
               wie Ihr verstanden sein wollt: er weint wie eine Dirne, die ihre Milch verschüttet
@@ -4720,7 +4800,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Nichts von mir, hoff' ich? –</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Seine Beichte ist zu Protokoll gebracht und soll in seiner Gegenwart abgelesen
               werden. Wenn Euer Gnaden darin vorkommen, wie ich fast glaube, so müßt Ihr die Geduld
@@ -4732,11 +4812,11 @@
             <p>Hol' ihn der Henker, den vermummten Kerl! Er kann nichts von mir sagen. Still!
               Still!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Da kommt die Blindekuh! – Porto Tartarossa.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Er ruft nach der Tortur: wollt Ihr nicht ohne das bekennen?</p>
           </sp>
@@ -4745,15 +4825,15 @@
             <p>Ich will ohne Zwang sagen, was ich weiß; wenn Ihr mich kerbt wie einen
               Pastetendeckel, ich kann nicht mehr sagen.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Bosco chimurcho.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Boblibindo chicurmurco.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Ihr seid ein gnädiger General. – Unser General befiehlt Euch, auf die Fragen zu
               antworten, die ich von meinem Zettel vorlesen werde.</p>
@@ -4762,7 +4842,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Und so wahrhaft, als ich zu leben hoffe.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>»Zuerst fragt ihn, wie stark des Herzogs Reiterei ist.« Was sagt Ihr dazu?</p>
           </sp>
@@ -4773,7 +4853,7 @@
               alle verstreut, und die Hauptleute arme Teufel: auf meine Ehre und Reputation, so wahr
               ich zu leben hoffe!</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Soll ich Eure Antwort so niederschreiben?</p>
           </sp>
@@ -4786,18 +4866,18 @@
             <p>
               <emph>Dem</emph> ist alles eins; der Schurke ist ohne Gnade verloren!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ihr irrt Euch, gnädiger Herr: es ist Monsieur Parolles, der ausbündige Günstling des
               Mars (das war seine eigne Phrase), der die ganze Theorie der Kriegskunst in dem Knoten
               seiner Schärpe trägt, und die Praxis im Gehenk seines Seitengewehrs.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ich will nie wieder jemand trauen, weil er seine Klinge blank hält, noch glauben, daß
               er der höchste der Menschen sei, weil sein Anzug sauber ist.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Gut, das ist geschrieben.</p>
           </sp>
@@ -4806,7 +4886,7 @@
             <p>Fünf- oder sechstausend Pferde, sagte ich, ich will aufrichtig sein; oder so
               ungefähr, schreibt hin: denn ich will die Wahrheit sagen.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Hierin ist er der Wahrheit sehr nahe.</p>
           </sp>
@@ -4818,7 +4898,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Arme Teufel, das schreibt doch ja!</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Gut, da steht's!</p>
           </sp>
@@ -4826,7 +4906,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Untertänigsten Dank, Herr; wahr bleibt wahr; es sind recht miserable Teufel.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>»Fragt ihn, wie stark ihr Fußvolk ist.« – Was sagt Ihr dazu?</p>
           </sp>
@@ -4845,12 +4925,12 @@
             <speaker>BERTRAM.</speaker>
             <p>Was soll man mit ihm anfangen?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Nichts, als sich bei ihm bedanken. – Fragt ihn doch nach meinen Umständen, und wie
               ich beim Herzog angeschrieben bin.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Gut, das steht geschrieben. – »Ihr sollt ihn fragen, ob ein gewisser Hauptmann Dumain
               im Lager ist, ein Franzose; in welchem Ruf er beim Herzog steht; wie es mit seiner
@@ -4863,7 +4943,7 @@
             <p>Bitt' Euch, laßt mich diese Fragstücke einzeln beantworten: fragt jedes
               besonders!</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Kennt Ihr diesen Hauptmann Du main?</p>
           </sp>
@@ -4879,7 +4959,7 @@
             <p>Nein, ich bitte Euch, laßt Eure Hand in Ruhe; sein Schädel gehört dem ersten Ziegel,
               der vom Dach fällt.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Nun, und ist dieser Hauptmann im Lager des Herzogs von Florenz?</p>
           </sp>
@@ -4887,12 +4967,12 @@
             <speaker>PAROLLES.</speaker>
             <p>So viel ich weiß, steckt er da, und voller Läuse.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Oh, seht mich nicht so an, gnädiger Herr; nun wird gleich die Reihe an Euch
               kommen.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>In welchem Ruf steht er beim Herzog?</p>
           </sp>
@@ -4902,7 +4982,7 @@
               mir vor ein paar Tagen, ich solle ihn fortjagen. Ich glaube, ich habe seinen Brief
               noch in der Tasche.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Kommt, wir wollen nachsuchen.</p>
           </sp>
@@ -4911,7 +4991,7 @@
             <p>In vollem Ernst, ich weiß doch nicht; entweder ist <pb n="185"/> er da, oder er hängt
               mit des Herzogs andern Briefen auf dem Faden in meinem Zelte.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Hier ist er; hier ist ein Papier: soll ich's Euch vorlesen? –</p>
           </sp>
@@ -4923,11 +5003,11 @@
             <speaker>BERTRAM.</speaker>
             <p>Unser Dolmetscher macht es gut!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Vortrefflich!</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER</speaker>
             <stage>liest.</stage>
             <p>»Diana, der Graf ist ein Narr, und schwer von Gold« –</p>
@@ -4939,7 +5019,7 @@
               Roussillon in acht zu nehmen, eines albernen, müßigen, jungen Menschen, der aber bei
               alle dem sehr verliebt ist. Ich bitte Euch, Herr, steckt ihn wieder ein.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Nein, ich will ihn erst lesen, wenn Ihr erlaubt.</p>
           </sp>
@@ -4954,7 +5034,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Verdammter Kerl! Auf beiden Seiten ein Schurke!</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER</speaker>
             <stage>liest.</stage>
             <lg>
@@ -4974,7 +5054,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Er soll durchs ganze Lager gepeitscht werden, mit diesem Reim an seiner Stirn.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Das ist Euer treu ergebner Freund. Herr, der vielbewanderte Sprachkenner und
               waffenkundige Soldat.</p>
@@ -4985,7 +5065,7 @@
             <p>Ich habe von jeher alles ertragen können, nur keine Katze, und nun ist er eine Katze
               für mich.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Ich schließe aus des Feldherrn Blicken, Herr, daß wir wohl nicht werden umhin können,
               Euch aufzuhängen.</p>
@@ -4997,7 +5077,7 @@
               abbüßen möchte. Laßt mich leben, Herr, in einem Kerker, im Block, wo es auch sei, wenn
               ich nur lebe.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Wir wollen sehn, was sich tun läßt, wenn Ihr aufrichtig bekennt. Also, – um nochmals
               auf diesen Hauptmann Dumain zu kommen, – über sein Ansehn beim Herzog und über seine
@@ -5015,7 +5095,7 @@
               hat alles, was ein rechtschaffner Mann nicht haben sollte; und was ein rechtschaffner
               Mann haben sollte, davon hat er nichts.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich fange an, ihm dafür gut zu werden.</p>
           </sp>
@@ -5024,7 +5104,7 @@
             <p>Für diese Beschreibung deiner Rechtschaffenheit? Ich meinesteils wünsche ihn zum
               Henker; er wird mir immer mehr und mehr zur Katze.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Was sagt Ihr von seiner Kriegs kenntnis?</p>
           </sp>
@@ -5037,7 +5117,7 @@
               stehn. Ich möchte dem Menschen gern alle mögliche Ehre antun, aber dieser Sache bin
               ich nicht recht gewiß.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Er hat den Schuft so überschuftet, daß die Seltenheit ihn frei spricht.</p>
           </sp>
@@ -5045,7 +5125,7 @@
             <speaker>BERTRAM.</speaker>
             <p>Zum Henker mit ihm! Er bleibt immer eine Katze.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Da seine Eigenschaften so wenig wert sind, so brauche ich Euch wohl nicht zu fragen,
               ob Gold ihn wohl zur Desertion verführen könnte?</p>
@@ -5056,15 +5136,15 @@
               dran, und prellt alle seine Agnaten um ihre Anwartschaft und Sukzession auf ewige
               Zeiten.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Was sagt Ihr denn von seinem Bruder, dem andern Hauptmann Dumain?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Warum fragt er ihn nach mir?</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Wie ist's mit dem? –</p>
           </sp>
@@ -5075,7 +5155,7 @@
               sein Bruder für eine der vorzüglichsten in der Welt. Auf der Flucht überrennt er jeden
               Läufer, und wenn's zum Angriff geht, hat er den Krampf.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Wenn Euch das Leben geschenkt wird, wollt Ihr dann versprechen, den Herzog von
               Florenz zu verraten?</p>
@@ -5084,7 +5164,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Ja, und den Anführer seiner Reiterei, den Grafen Roussillon, obendrein.</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Ich will heimlich mit dem General reden und hören, was sein Wille ist.</p>
           </sp>
@@ -5096,7 +5176,7 @@
               habe ich mich in solche Gefahr begeben. Wer hätte aber auch einen Hinterhalt vermutet,
               wo ich gefangen ward?</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Es ist keine Hülfe, Freund, Ihr müßt sterben. Der General sagt, wer so verräterisch
               die Geheimnisse seines <pb n="188"/> Heers entdeckt und so giftige Berichte über
@@ -5107,7 +5187,7 @@
             <speaker>PAROLLES.</speaker>
             <p>O Gott, Herr, laßt mich leben, oder laßt mich meinen Tod sehn! –</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Das sollt Ihr, und Abschied nehmen von allen Euren Freunden. <stage>Er nimmt ihm die
                 Binde ab.</stage> So, seht Euch um; kennt Ihr jemand hier?</p>
@@ -5116,26 +5196,26 @@
             <speaker>BERTRAM.</speaker>
             <p>Guten Morgen, edler Hauptmann!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Gott segn' Euch, Hauptmann Parolles!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Gott schütz' Euch, edler Hauptmann!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_lord_zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Hauptmann, habt Ihr einen Gruß für Herrn Lafeu? Ich will nach Frankreich.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_lord_erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Lieber Hauptmann, wollt Ihr mir nicht eine Abschrift von dem Sonett geben, das Ihr an
               Diana geschickt, um ihr den Grafen von Roussillon zu empfehlen? Wenn ich nicht eine
               Erzmemme wäre, so zwänge ich sie Euch ab; aber so lebt wohl!</p>
             <stage>Bertram und die Edelleute gehn ab.</stage>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Ihr seid verloren, Hauptmann, ganz aufgelöst; nur Eure Schärpe ist es nicht, die hat
               noch einen Knoten.</p>
@@ -5144,7 +5224,7 @@
             <speaker>PAROLLES.</speaker>
             <p>Wen zertrümmerte wohl nicht ein solches Komplott?</p>
           </sp>
-          <sp who="#dolmetscher">
+          <sp who="#soldat_iv-1a_dolmetscher">
             <speaker>DOLMETSCHER.</speaker>
             <p>Könntet Ihr ein Land auffinden, wo die Weiber nicht mehr Scham hätten als Ihr, Ihr
               würdet dort ein recht unverschämtes Volk stiften. Gehabt Euch wohl, Herr! Ich will
@@ -5474,7 +5554,7 @@
               <l>Wenn er sein Ansehn brauchen will. Gott grüß' Euch!</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Und Euch!</l>
           </sp>
@@ -5482,7 +5562,7 @@
             <speaker>HELENA.</speaker>
             <l>Mir scheint, ich sah Euch schon an Frankreichs Hof.</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Ich war zu Zeiten dort.</l>
           </sp>
@@ -5497,7 +5577,7 @@
               <l>Fortan gedenken will.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Was ist Eu'r Wunsch?</l>
           </sp>
@@ -5510,7 +5590,7 @@
               <l>Daß er mich hören wolle.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Der König ist nicht hier.</l>
           </sp>
@@ -5519,7 +5599,7 @@
             <speaker>HELENA.</speaker>
             <l>Nicht hier, Herr?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Nein,</l>
@@ -5539,7 +5619,7 @@
               <l>Ich bitt' Euch, sagt, wohin er abgereist?</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Nun, wenn ich recht gehört, nach Roussillon,</l>
@@ -5558,7 +5638,7 @@
               <l>Wie irgend möglich.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Das soll gern geschehn.</l>
           </sp>
@@ -5738,7 +5818,7 @@
               <l>Was unser Wille sei!</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Sogleich, mein König.</l>
             <stage>Ab.</stage>
@@ -5962,7 +6042,7 @@
             <l>Ein düstrer Argwohn quält mich.</l>
             <stage>Ein Edelmann tritt auf.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-1_und_v-3">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Gnäd'ger Fürst!</l>
@@ -5982,7 +6062,8 @@
             <speaker>KÖNIG</speaker>
             <stage>liest.</stage>
             <p>- »Auf seine vielen Beteurungen, mich zu heiraten, wenn seine Gattin tot wäre – ich
-              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb n="202"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
+              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb
+                n="202"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
               bezahlt. Er verließ Florenz heimlich, ohne Abschied zu nehmen, und ich folge ihm in
               sein Vaterland, um Recht zu finden. Gewährt es mir, o König: es steht völlig bei Euch;
               sonst triumphiert ein Verführer, und ein armes Mädchen ist verloren.</p>

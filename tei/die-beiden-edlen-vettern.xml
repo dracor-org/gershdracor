@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gersh000008" xml:lang="ger">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gersh000038" xml:lang="ger">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,16 +50,13 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>John Fletcher (und [Philip] Massinger)</author>:
-            <title level="a">Die beiden edlen Vettern</title>.
-            In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit. Zwölf Dramen seiner Zeitgenossen.</title>
-            Uebersetzt von <editor role="translator">F[erdinand] A[dolph] Gelbcke</editor>.
-            Mit Einleitungen von <editor role="preface">Robert Boyle</editor>.
-            <biblScope unit="volume">Dritter Theil</biblScope>.
-            <pubPlace>Leipzig</pubPlace>:
-            <publisher>F.A. Brockhaus</publisher>
-            <date>1890</date>,
-            S. <biblScope unit="page" from="1" to="105">1–105</biblScope>.
+            <author>John Fletcher (und [Philip] Massinger)</author>: <title level="a">Die beiden
+              edlen Vettern</title>. In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit.
+              Zwölf Dramen seiner Zeitgenossen.</title> Uebersetzt von <editor role="translator"
+              >F[erdinand] A[dolph] Gelbcke</editor>. Mit Einleitungen von <editor role="preface"
+              >Robert Boyle</editor>. <biblScope unit="volume">Dritter Theil</biblScope>.
+              <pubPlace>Leipzig</pubPlace>: <publisher>F.A. Brockhaus</publisher>
+            <date>1890</date>, S. <biblScope unit="page" from="1" to="105">1–105</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -70,6 +67,130 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="gesang" sex="UNKNOWN">
+            <name>Gesang</name>
+          </personGrp>
+          <person xml:id="erste_koenigin" sex="FEMALE">
+            <persName>Erste Königin</persName>
+          </person>
+          <person xml:id="zweite_koenigin" sex="FEMALE">
+            <persName>Zweite Königin</persName>
+          </person>
+          <person xml:id="dritte_koenigin" sex="FEMALE">
+            <persName>Dritte Königin</persName>
+          </person>
+          <person xml:id="theseus" sex="MALE">
+            <persName>Theseus</persName>
+          </person>
+          <person xml:id="hippolyta" sex="FEMALE">
+            <persName>Hippolyta</persName>
+          </person>
+          <person xml:id="emilia" sex="FEMALE">
+            <persName>Emilia</persName>
+          </person>
+          <person xml:id="pirithous" sex="MALE">
+            <persName>Pirithous</persName>
+          </person>
+          <person xml:id="arcites" sex="MALE">
+            <persName>Arcites</persName>
+          </person>
+          <person xml:id="palaemon" sex="MALE">
+            <persName>Palämon</persName>
+          </person>
+          <person xml:id="valerius" sex="MALE">
+            <persName>Valerius</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Herold</persName>
+          </person>
+          <person xml:id="kerkermeister" sex="MALE">
+            <persName>Kerkermeister</persName>
+          </person>
+          <person xml:id="freier" sex="MALE">
+            <persName>Ein Freier der Tochter des Kerkermeisters</persName>
+          </person>
+          <person xml:id="tochter" sex="FEMALE">
+            <persName>Die Tochter des Kerkermeisters</persName>
+          </person>
+          <person xml:id="zofe" sex="FEMALE">
+            <persName>Zofe</persName>
+          </person>
+          <person xml:id="erster_landmann" sex="MALE">
+            <persName>Erster Landmann</persName>
+          </person>
+          <person xml:id="zweiter_landmann" sex="MALE">
+            <persName>Zweiter Landmann</persName>
+          </person>
+          <person xml:id="dritter_landmann" sex="MALE">
+            <persName>Dritter Landmann</persName>
+          </person>
+          <person xml:id="vierter_landmann" sex="MALE">
+            <persName>Vierter Landmann</persName>
+          </person>
+          <person xml:id="gerrold" sex="MALE">
+            <persName>Gerrold</persName>
+          </person>
+          <person xml:id="erster_bauer" sex="MALE">
+            <persName>Erster Bauer</persName>
+          </person>
+          <person xml:id="zweiter_bauer" sex="MALE">
+            <persName>Zweiter Bauer</persName>
+          </person>
+          <person xml:id="dritter_bauer" sex="MALE">
+            <persName>Dritter Bauer</persName>
+          </person>
+          <person xml:id="timothe" sex="MALE">
+            <persName>Timothe</persName>
+          </person>
+          <person xml:id="vierter_bauer" sex="MALE">
+            <persName>Vierter Bauer</persName>
+          </person>
+          <person xml:id="nelly" sex="FEMALE">
+            <persName>Nelly</persName>
+          </person>
+          <person xml:id="pavian" sex="MALE">
+            <persName>Pavian</persName>
+          </person>
+          <person xml:id="erster_freund" sex="MALE">
+            <persName>Erster Freund</persName>
+          </person>
+          <person xml:id="zweiter_freund" sex="MALE">
+            <persName>Zweiter Freund</persName>
+          </person>
+          <person xml:id="bruder" sex="MALE">
+            <persName>Bruder des Kerkermeisters</persName>
+          </person>
+          <person xml:id="hofherr" sex="MALE">
+            <persName>Hofherr</persName>
+          </person>
+          <person xml:id="bote_iv-2" sex="MALE">
+            <persName>Bote (IV/2)</persName>
+          </person>
+          <person xml:id="doctor" sex="MALE">
+            <persName>Doctor</persName>
+          </person>
+          <person xml:id="bote_v-2" sex="MALE">
+            <persName>Bote (V/2)</persName>
+          </person>
+          <person xml:id="dienerin" sex="FEMALE">
+            <persName>Dienerin</persName>
+          </person>
+          <person xml:id="erster_ritter" sex="MALE">
+            <persName>Erster Ritter</persName>
+          </person>
+          <person xml:id="zweiter_ritter" sex="MALE">
+            <persName>Zweiter Ritter</persName>
+          </person>
+          <person xml:id="dritter_ritter" sex="MALE">
+            <persName>Dritter Ritter</persName>
+          </person>
+          <person xml:id="bote_v-4" sex="MALE">
+            <persName>Bote (V/4)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -85,7 +206,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000008" passive="http://www.wikidata.org/entity/Q53590"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000038"
+        passive="http://www.wikidata.org/entity/Q53590"/>
     </listRelation>
   </standOff>
   <text>
@@ -125,8 +247,8 @@
         <castItem>Emilia, Schwester des Theseus.</castItem>
         <castItem>Drei Königinnen.</castItem>
         <castItem>Die Tochter des Kerkermeisters.</castItem>
-        <castItem>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen vorstellt.
-          Ein Knabe. Ein Henker. Wache. Dienstboten. Landmädchen. Nymphen.</castItem>
+        <castItem>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen vorstellt. Ein
+          Knabe. Ein Henker. Wache. Dienstboten. Landmädchen. Nymphen.</castItem>
       </castList>
       <set>
         <p>Scene: Athen und seine Umgebung, außer im ersten Act, wo die Handlung auch in Theben und
@@ -231,14 +353,14 @@
           <stage>(Die drei Königinnen, in schwarze Schleier und Gewänder gehüllt, Königskronen auf
             dem Haupte, treten auf. Die erste fällt vor Theseus, die zweite vor Hippolyta, die
             dritte vor Emilia nieder.)</stage>
-          <sp who="#erste">
+          <sp who="#erste_koenigin">
             <speaker>ERSTE.</speaker>
             <lg>
               <l>Um der Barmherzigkeit und Gnade willen</l>
               <l>Erhöret mich!</l>
             </lg>
           </sp>
-          <sp who="#zweite">
+          <sp who="#zweite_koenigin">
             <speaker>ZWEITE.</speaker>
             <lg>
               <l>Um Eurer Mutter willen,</l>
@@ -246,7 +368,7 @@
               <l>Erhöret mich!</l>
             </lg>
           </sp>
-          <sp who="#dritte">
+          <sp who="#dritte_koenigin">
             <speaker>DRITTE.</speaker>
             <lg>
               <l>Um des Beglückten willen,</l>
@@ -531,7 +653,7 @@
               <l>Beraubt uns jeder Hoffnung.</l>
             </lg>
           </sp>
-          <sp who="#alle_drei">
+          <sp who="#erste_koenigin #zweite_koenigin #dritte_koenigin">
             <speaker>ALLE DREI.</speaker>
             <l>Lebet wohl!</l>
           </sp>
@@ -593,7 +715,7 @@
               <l>Zu Lehen jetzt will geben, Euren Schild!</l>
             </lg>
           </sp>
-          <sp who="#alle_drei">
+          <sp who="#erste_koenigin #zweite_koenigin #dritte_koenigin">
             <speaker>ALLE DREI.</speaker>
             <l>Ja helft, auf Euren Knieen fleht für uns!</l>
           </sp>
@@ -1231,7 +1353,7 @@
           <head>Fünfte Scene</head>
           <stage>(Ein anderer Theil desselben Feldes, etwas entfernter von Theben.)</stage>
           <stage>Die drei Königinnen mit den Todtenbahren ihrer Gatten, in feierlichem Zuge.</stage>
-          <sp who="#musik">
+          <sp who="#erste_koenigin #zweite_koenigin #dritte_koenigin">
             <speaker>Musik</speaker>
             <lg>
               <l>Erde, öffne deine Grüfte,</l>
@@ -2424,8 +2546,8 @@
               <l>Weil ich es wissen möchte.</l>
             </lg>
           </sp>
-          <sp who="#dritter_langmann">
-            <speaker>DRITTER LANGMANN.</speaker>
+          <sp who="#dritter_landmann">
+            <speaker>DRITTER LANDMANN.</speaker>
             <l>Zu den Spielen!</l>
           </sp>
           <sp who="#zweiter_landmann">
@@ -4738,7 +4860,7 @@
               <l>Hast du. Seid ihr damit zufrieden, Prinzen?</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#palaemon #arcites">
             <speaker>BEIDE.</speaker>
             <l>Von ganzer Seele.</l>
           </sp>
@@ -4749,7 +4871,7 @@
               <l>Er sterbe!</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#palaemon #arcites">
             <speaker>BEIDE.</speaker>
             <l>Welchen Tod du immer willst!</l>
           </sp>
@@ -4867,7 +4989,7 @@
               <l>Von mir und von Palämon's Flucht? Denkt nach!</l>
             </lg>
           </sp>
-          <sp who="#freund">
+          <sp who="#erster_freund">
             <speaker>FREUND.</speaker>
             <lg>
               <l>Ich hörte nichts, doch mußt' ich bald nach Haus,</l>
@@ -5338,7 +5460,7 @@
               <l>Ist meine Sache. Hebt die Anker auf!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#kerkermeister #erster_freund #zweiter_freund #freier #bruder #tochter">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Hio, hio, hio! Der Wind ist günstig,</l>
@@ -5522,7 +5644,7 @@
             <speaker>THESEUS.</speaker>
             <l>Wo kommst du her?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Ich komme von den Rittern.</l>
           </sp>
@@ -5530,7 +5652,7 @@
             <speaker>THESEUS.</speaker>
             <l>So sprich! Du sahst sie, was für Leute sind's?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Die Wahrheit sag' ich Euch: sechs bess're Männer</l>
@@ -5612,7 +5734,7 @@
               <l>Sein Alter, – etwa fünfundzwanzig Jahr.</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Da ist ein andrer noch, ein kleiner Mann,</l>
@@ -5625,7 +5747,7 @@
             <speaker>PIRITHOUS.</speaker>
             <l>Du meinst den mit den Sommersprossen?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ja!</l>
@@ -5636,7 +5758,7 @@
             <speaker>PIRITHOUS.</speaker>
             <l>Meine Ansicht!</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>So wenige sie sind, da ist nicht einer,</l>
@@ -6590,7 +6712,7 @@
             </lg>
             <stage>(Ein Bote tritt auf.)</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Was hockt ihr hier und geht des schönsten Anblicks</l>
@@ -6601,7 +6723,7 @@
             <speaker>KERKERMEISTER.</speaker>
             <l>So sind sie schon dabei?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>I, freilich, freilich!</l>
@@ -7160,7 +7282,7 @@
             <stage>(Palämon legt sein Haupt auf den Block. Man hört hinter der Bühne Geräusch und
               die Rufe: »Lauft, rettet, halt!« Ein Bote tritt eilig auf.)</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-4">
             <speaker>BOTE.</speaker>
             <l>Halt, halt, ums Himmels willen, haltet ein!</l>
             <stage>(Pirithous tritt eilig auf.)</stage>

@@ -196,13 +196,13 @@
             <persName>Dritter Seeräuber</persName>
           </person>
           <person xml:id="kuppler" sex="MALE">
-            <persName>Kuppler</persName>
+            <persName>Ein Kuppler</persName>
           </person>
           <person xml:id="bolz" sex="MALE">
             <persName>Bolz</persName>
           </person>
           <person xml:id="kupplerin" sex="FEMALE">
-            <persName>Kupplerin</persName>
+            <persName>Eine Kupplerin</persName>
           </person>
           <person xml:id="erster_edelmann_iv-7" sex="MALE">
             <persName>Erster Edelmann (IV/7)</persName>

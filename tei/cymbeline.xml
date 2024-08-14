@@ -41,16 +41,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Cymbeline</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="381" to="494">381–494</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Cymbeline</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische
+            Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="381" to="494">381–494</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -62,6 +58,133 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="koenigin" sex="FEMALE">
+            <persName>Die Königin</persName>
+          </person>
+          <person xml:id="posthumus" sex="MALE">
+            <persName>Leonatus Posthumus</persName>
+          </person>
+          <person xml:id="imogen" sex="FEMALE">
+            <persName>Imogen</persName>
+          </person>
+          <person xml:id="cymbeline" sex="MALE">
+            <persName>Cymbeline</persName>
+          </person>
+          <person xml:id="pisanio" sex="MALE">
+            <persName>Pisanio</persName>
+          </person>
+          <person xml:id="erster_edelmann_cloten" sex="MALE">
+            <persName>Erster Edelmann (Cloten)</persName>
+          </person>
+          <person xml:id="cloten" sex="MALE">
+            <persName>Cloten</persName>
+          </person>
+          <person xml:id="zweiter_edelmann_cloten" sex="MALE">
+            <persName>Zweiter Edelmann (Cloten)</persName>
+          </person>
+          <person xml:id="hofdame_i-4" sex="FEMALE">
+            <persName>Hofdame (I/4)</persName>
+          </person>
+          <person xml:id="jachimo" sex="MALE">
+            <persName>Jachimo</persName>
+          </person>
+          <person xml:id="philario" sex="MALE">
+            <persName>Philario</persName>
+          </person>
+          <person xml:id="franzose" sex="MALE">
+            <persName>Ein französischer Edelmann</persName>
+          </person>
+          <person xml:id="erste_hofdame" sex="FEMALE">
+            <persName>Erste Hofdame</persName>
+          </person>
+          <person xml:id="cornelius" sex="MALE">
+            <persName>Cornelius</persName>
+          </person>
+          <person xml:id="kammerfrau" sex="FEMALE">
+            <persName>Eine Kammerfrau</persName>
+          </person>
+          <person xml:id="bote_ii-3" sex="MALE">
+            <persName>Ein Bote (II/3)</persName>
+          </person>
+          <person xml:id="lucius" sex="MALE">
+            <persName>Cajus Lucius</persName>
+          </person>
+          <person xml:id="bellarius" sex="MALE">
+            <persName>Bellarius</persName>
+          </person>
+          <person xml:id="guiderius" sex="MALE">
+            <persName>Guiderius</persName>
+          </person>
+          <person xml:id="arviragus" sex="MALE">
+            <persName>Arviragus</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Ein Diener</persName>
+          </person>
+          <person xml:id="erster_senator" sex="MALE">
+            <persName>Erster Senator</persName>
+          </person>
+          <person xml:id="tribun" sex="MALE">
+            <persName>Tribun</persName>
+          </person>
+          <person xml:id="hauptmann" sex="MALE">
+            <persName>Ein römischer Hauptmann</persName>
+          </person>
+          <person xml:id="wahrsager" sex="MALE">
+            <persName>Ein Wahrsager</persName>
+          </person>
+          <person xml:id="erster_lord" sex="MALE">
+            <persName>Erster Lord</persName>
+          </person>
+          <person xml:id="zweiter_lord" sex="MALE">
+            <persName>Zweiter Lord</persName>
+          </person>
+          <person xml:id="lord" sex="MALE">
+            <persName>Ein britischer Lord</persName>
+          </person>
+          <person xml:id="erster_hauptmann" sex="MALE">
+            <persName>Erster Hauptmann</persName>
+          </person>
+          <person xml:id="zweiter_hauptmann" sex="MALE">
+            <persName>Zweiter Hauptmann</persName>
+          </person>
+          <person xml:id="erster_kerkermeister" sex="MALE">
+            <persName>Erster Kerkermeister</persName>
+          </person>
+          <person xml:id="zweiter_kerkermeister" sex="MALE">
+            <persName>Zweiter Kerkermeister</persName>
+          </person>
+          <person xml:id="sicilius" sex="MALE">
+            <persName>Sicilius Leonatus</persName>
+          </person>
+          <person xml:id="mutter" sex="FEMALE">
+            <persName>Mutter</persName>
+          </person>
+          <person xml:id="erster_bruder" sex="MALE">
+            <persName>Erster Bruder</persName>
+          </person>
+          <person xml:id="zweiter_bruder" sex="MALE">
+            <persName>Zweiter Bruder</persName>
+          </person>
+          <person xml:id="jupiter" sex="MALE">
+            <persName>Jupiter</persName>
+          </person>
+          <person xml:id="bote_v-4" sex="MALE">
+            <persName>Ein Bote (V/4)</persName>
+          </person>
+          <person xml:id="hofdame_v-5" sex="FEMALE">
+            <persName>Hofdame (V/5)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -77,7 +200,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000003" passive="http://www.wikidata.org/entity/Q730212"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000003"
+        passive="http://www.wikidata.org/entity/Q730212"/>
     </listRelation>
   </standOff>
   <text>
@@ -638,7 +762,7 @@
           <head>Dritte Szene</head>
           <stage>Freier Platz.</stage>
           <stage>Cloten tritt auf mit zwei Edelleuten.</stage>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Prinz, ich möchte Euch doch raten, das Hemde zu wechseln; die Heftigkeit der Bewegung
               macht, daß Ihr wie ein Opfer raucht: wo Luft ausströmt, zieht auch Luft ein, und keine
@@ -648,19 +772,19 @@
             <speaker>CLOTEN.</speaker>
             <p>Wenn mein Hemd blutig wäre, dann sollt's gewechselt – Hab' ich ihn verwundet?</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Nein, wahrhaftig; nicht einmal seine Geduld.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ihn verwundet? Sein Körper ist ein durchdringliches Beingerippe, wenn er nicht
               verwundet <pb n="390"/> ist – er ist eine Durchfahrt für Stahl, wenn er nicht
               verwundet ist.</p>
           </sp>
-          <sp who="#zweiter_edelmanm">
-            <speaker>ZWEITER EDELMANM</speaker>
+          <sp who="#zweiter_edelmann_cloten">
+            <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Sein Degen hatte Schulden, und versteckte sich hinterwärts.</p>
           </sp>
@@ -668,17 +792,17 @@
             <speaker>CLOTEN.</speaker>
             <p>Der Schurke wollte mir nicht stehn.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Nein, er floh immer vorwärts, auf dein Gesicht zu.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Euch stehn! Ihr habt selbst schon Land genug, aber er vergrößerte Euern Besitz: er
               gab Euch noch etwas Boden zu.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Ja, so viel Zoll, als du Weltmeere hast; ihr Laffen!</p>
@@ -687,7 +811,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Ich wollte, sie wären nicht zwischen uns gekommen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Das wollte ich auch, bis du gemessen hättest, wie lang ein Narr ist, wenn er auf der
@@ -697,18 +821,18 @@
             <speaker>CLOTEN.</speaker>
             <p>Und daß sie diesen Kerl lieben muß, und mich abweisen!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Wenn es Sünde ist, eine richtige Wahl zu treffen, so ist sie verdammt.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Prinz, ich sagte es Euch immer, ihre Schönheit und ihr Verstand halten nicht gleichen
               Schritt; sie ist ein treffliches Gemälde, aber ich habe wenige Reflexe ihres Geistes
               gesehen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Sie scheint nicht auf Narren, der Reflex möchte ihr schaden.</p>
@@ -717,7 +841,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Kommt auf mein Zimmer; ich wollte, es wäre irgendein Unglück geschehen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Das wollte ich nicht; es wäre denn der Fall eines Esels, was kein großes Unglück
@@ -727,7 +851,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Wollt Ihr mit uns gehn?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich folge Euch, gnädiger Herr.</p>
           </sp>
@@ -735,7 +859,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Nein, kommt, gehn wir zusammen!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Wohl, mein Prinz.</p>
             <stage>Alle ab.</stage>
@@ -833,7 +957,7 @@
             </lg>
             <stage>Eine Hofdame tritt auf.</stage>
           </sp>
-          <sp who="#hofdame">
+          <sp who="#hofdame_i-4">
             <speaker>HOFDAME.</speaker>
             <l>Die Kön'gin wünscht Eu'r Hoheit Gegenwart.</l>
           </sp>
@@ -1859,11 +1983,11 @@
               verwünschter Maulaffe mir noch mein Fluchen vorwerfen; als wenn ich meine Flüche von
               ihm borgte, und sie nicht nach Gefallen ausgeben könnte!</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Was hat es ihm geholfen? Ihr habt ihm mit Eurer Kugel den Kopf zerschlagen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Wenn sein Verstand dem Verwundenden gleich wäre, so wäre er ganz ausgelaufen.</p>
@@ -1873,7 +1997,7 @@
             <p>Wenn ein vornehmer Herr Lust hat zu fluchen, so schickt sich's nicht für irgend
               jemand, der dabei ist, ihm seine Flüche verschneiden zu wollen.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Nein, mein Prinz; <stage>für sich</stage> oder ihnen die Ohren zu stutzen.</p>
           </sp>
@@ -1882,7 +2006,7 @@
             <p>Verwünschter Hund! – Ich ihm Genugtuung geben? Ich wollte, er wäre von meinem
               Range!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Um auch solche Range zu sein wie du?</p>
@@ -1894,7 +2018,7 @@
               Königin meiner Mutter; jeder Hansnarr schlägt sich die Haut voll, und ich muß auf und
               ab gehen, wie ein Hahn, an den sich keiner traut.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Und doch ist Euch die Dummheit angetraut.</p>
@@ -1904,7 +2028,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Was sagst du?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Es schickt sich nicht für Euer Gnaden, sich mit jedem Gesellen herum zu schlagen, den
               Ihr beleidigt.</p>
@@ -1914,7 +2038,7 @@
             <p>Ja, das weiß ich wohl; aber es schickt sich für mich, die zu beleidigen, die weniger
               sind als ich.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Ja, das schickt sich nur für Euer Gnaden allein.</p>
           </sp>
@@ -1922,7 +2046,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Nun, das mein' ich.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Habt Ihr von jenem Ausländer gehört, der heut abend an den Hof gekommen ist?</p>
           </sp>
@@ -1930,12 +2054,12 @@
             <speaker>CLOTEN.</speaker>
             <p>Ein Ausländer! Und ich weiß nichts davon?</p>
           </sp>
-          <sp who="#zweiter_edelmanm">
-            <speaker>ZWEITER EDELMANM</speaker>
+          <sp who="#zweiter_edelmann_cloten">
+            <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Er ist selbst ein ausländisch Tier, und weiß es nicht.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ein Italiener ist angekommen; und wie man sagt, ein Freund des Leonatus.</p>
           </sp>
@@ -1944,7 +2068,7 @@
             <p>Leonatus? Der verbannte Schuft; und dieser ist auch einer, er mag sein, wer er will.
               Wer sagte Euch von diesem Ausländer?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Einer von Euer Gnaden Pagen.</p>
           </sp>
@@ -1953,7 +2077,7 @@
             <p>Schickt es sich, daß ich gehe und ihn ansehe? Ist das keine Erniedrigung für
               mich?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ihr könnt Euch gar nicht erniedrigen, Prinz.</p>
           </sp>
@@ -1961,7 +2085,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Nicht so leicht, das glaube ich auch.</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN</speaker>
             <stage>für sich.</stage>
             <p>Ihr seid ein ausgemachter Narr, und dadurch so erniedrigt, daß nichts, was Ihr tut,
@@ -1972,7 +2096,7 @@
             <p>Kommt, ich will diesen Italiener ansehn; was ich im Kugelspiel verloren habe, will
               ich heut abend von ihm wieder gewinnen. Kommt, gehn wir!</p>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Zu Euer Gnaden Befehl.</p>
             <stage>Cloten und der erste Edelmann gehn ab.</stage>
@@ -2093,7 +2217,7 @@
           <head>Dritte Szene</head>
           <stage>Vor Imogens Gemach.</stage>
           <stage>Cloten tritt auf und die Edelleute.</stage>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Euer Gnaden sind der geduldigste Mann beim Verlust, der kaltblütigste, der je ein As
               aufschlug.</p>
@@ -2102,7 +2226,7 @@
             <speaker>CLOTEN.</speaker>
             <p>Es muß jeden Menschen kalt machen, wenn er verliert.</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Aber nicht jeden so geduldig, wie Eure edle Gemütsart ist, mein Prinz: Ihr seid nur
               hitzig und wütig, wenn Ihr gewinnt.</p>
@@ -2112,7 +2236,7 @@
             <p>Gewinn macht den Menschen mutig. Könnte ich nur diese alberne Imogen erlangen, so
               hätte ich Gold genug. Nicht wahr, es ist fast Morgen?</p>
           </sp>
-          <sp who="#erster_edelmann">
+          <sp who="#erster_edelmann_cloten">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Schon Tag, gnädiger Herr.</p>
           </sp>
@@ -2148,7 +2272,7 @@
             <stage>Die Musiker gehn ab.</stage>
             <stage>Cymbeline und die Königin treten auf.</stage>
           </sp>
-          <sp who="#zweiter_edelmann">
+          <sp who="#zweiter_edelmann_cloten">
             <speaker>ZWEITER EDELMANN.</speaker>
             <p>Hier kommt der König.</p>
           </sp>
@@ -2195,7 +2319,7 @@
             <l>Sinnlos? Das fehlte noch?</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Gesandte sind von Rom da, hoher Herr;</l>
@@ -5390,7 +5514,7 @@
             <speaker>ARVIRAGUS.</speaker>
             <l>Dir verstummt jetzt Lust und Klage:</l>
           </sp>
-          <sp who="#beide">
+          <sp who="#guiderius #arviragus">
             <speaker>BEIDE.</speaker>
             <lg>
               <l>Jung Liebchen, Liebster, goldgehaart,</l>
@@ -5413,7 +5537,7 @@
             <speaker>ARVIRAGUS.</speaker>
             <l>Und nie was Böses härm' dich!</l>
           </sp>
-          <sp who="#beide">
+          <sp who="#guiderius #arviragus">
             <speaker>BEIDE.</speaker>
             <lg>
               <l>Ruhiges Verwesen hier;</l>
@@ -6259,7 +6383,7 @@
             </lg>
             <stage>Er schläft ein.</stage>
             <stage>Feierliche Musik.</stage>
-            <stage>Als Geistererscheinung treten auf Sicilius Leonaius, der Vater des Posthumus, ein
+            <stage>Als Geistererscheinung treten auf Sicilius Leonatus, der Vater des Posthumus, ein
               Greis in kriegerischem Schmuck; er führt eine Matrone an der Hand, seine Gattin, die
               Mutter des Posthumus.</stage>
             <stage>Ihnen folgen die jungen Leonate, des Posthumus Brüder, mit offnen Wunden, wie sie
@@ -6431,7 +6555,7 @@
               <l>Als wär' sein Gott vergnügt.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#mutter #erster_bruder #zweiter_bruder">
             <speaker>ALLE.</speaker>
             <l>Dank, Jupiter!</l>
           </sp>
@@ -6462,8 +6586,7 @@
             <l>Edler, als der es trägt: laß deinen Inhalt</l>
             <l>Auch golden sein, ganz ungleich jetz'gem Hofmann:</l>
             <l>Halte, was du versprichst:</l>
-            <p>
-              <stage>Er liest.</stage> »Wenn eines Löwen Junges, sich selbst unbekannt, ohne Suchen
+            <p><stage>Er liest.</stage> »Wenn eines Löwen Junges, sich selbst unbekannt, ohne Suchen
               findet, und umarmt wird von einem Stück zarter Luft; und wenn von einer stattlichen
               Zeder Äste abgehauen sind, die, nachdem sie manches Jahr tot gelegen haben, sich
               wieder neu beleben, mit dem alten Stamm vereinen und frisch empor wachsen: dann wird
@@ -6477,7 +6600,7 @@
             <l>Der Sympathie halb will ich es bewahren.</l>
             <stage>Die Kerkermeister kommen zurück.</stage>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Kommt, Herr, seid Ihr für den Tod gar gemacht?</p>
           </sp>
@@ -6485,7 +6608,7 @@
             <speaker>POSTHUMUS.</speaker>
             <p>Beinah' schon zu hart gebraten: gar schon lange.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Hängen ist die Losung; wenn Ihr dafür gar seid, so seid Ihr gut gekocht.</p>
           </sp>
@@ -6494,7 +6617,7 @@
             <p>Wenn mich also die Zuschauer wohlschmeckend finden, so zahlt das Gericht die
               Zeche.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Eine schwere Rechnung für Euch, Herr; aber der Trost ist, Ihr werdet nun nicht mehr
               zu Zahlungen gefodert werden, keine Wirtshausrechnung mehr zu fürchten haben, die oft
@@ -6512,7 +6635,7 @@
             <speaker>POSTHUMUS.</speaker>
             <p>Ich bin freudiger zu sterben, als du zu leben.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Wahrhaftig, Herr, wer schläft, fühlt kein Zahnweh; aber einer, der Euren Schlaf
               schlafen sollte, wobei der Henker ihm ins Bett steigen hilft, ich denke, der tauschte
@@ -6523,7 +6646,7 @@
             <speaker>POSTHUMUS.</speaker>
             <p>O ja, Freund, ich weiß es wohl.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Nun, dann hat Euer Tod Augen im Kopf; so Habe ich ihn noch nicht gemalt gesehen: Ihr
               müßt Euch entweder <pb n="478"/> von denen führen lassen, die behaupten, den Weg zu
@@ -6537,14 +6660,14 @@
             <p>Ich sage dir, keinem fehlen die Augen, ihn auf dem Wege zu leiten, den ich jetzt
               gehen werde, als solchen, die die Augen zudrücken und sie nicht gebrauchen wollen.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Welch ein Tausend Spaß wär' das, daß ein Mensch den besten Gebrauch seiner Augen
               hätte, um den Weg der Blindheit zu sehen! Ich bin gewiß, Hängen ist der Weg, die Augen
               zuzudrücken.</p>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-4">
             <speaker>BOTE.</speaker>
             <p>Nehmt ihm die Fesseln ab, und führt Euren Gefangenen zum König!</p>
           </sp>
@@ -6552,7 +6675,7 @@
             <speaker>POSTHUMUS.</speaker>
             <p>Du bringst gute Botschaft; – ich werde zur Freiheit gerufen.</p>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Dann will ich mich hängen lassen.</p>
           </sp>
@@ -6561,7 +6684,7 @@
             <p>Dann wirst du freier sein als ein Schließer; für den Toten gibt es keine Riegel.</p>
             <stage>Posthumus geht mit dem Boten ab.</stage>
           </sp>
-          <sp who="#kerkermeister">
+          <sp who="#erster_kerkermeister">
             <speaker>KERKERMEISTER.</speaker>
             <p>Wenn einer einen Galgen heiraten wollte, um junge Kniegalgen zu erzeugen, könnte er
               nicht versessener drauf sein wie der. Doch auf mein Gewissen, es gibt noch größere
@@ -6735,7 +6858,7 @@
             <speaker>CYMBELINE.</speaker>
             <l>Ihr Frau'n vernahmt dies auch?</l>
           </sp>
-          <sp who="#hofdame">
+          <sp who="#hofdame_v-5">
             <speaker>HOFDAME.</speaker>
             <l>So ist es, hoher König.</l>
           </sp>

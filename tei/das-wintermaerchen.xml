@@ -41,16 +41,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Das Wintermärchen</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="495" to="593">495–593</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Das Wintermärchen</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>:
+            Komödien. Poetische Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="495" to="593">495–593</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -62,6 +58,124 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="archidamus" sex="MALE">
+            <persName>Archidamus</persName>
+          </person>
+          <person xml:id="camillo" sex="MALE">
+            <persName>Camillo</persName>
+          </person>
+          <person xml:id="polyxenes" sex="MALE">
+            <persName>Polyxenes</persName>
+          </person>
+          <person xml:id="leontes" sex="MALE">
+            <persName>Leontes</persName>
+          </person>
+          <person xml:id="hermione" sex="FEMALE">
+            <persName>Hermione</persName>
+          </person>
+          <person xml:id="mamillius" sex="MALE">
+            <persName>Mamillius</persName>
+          </person>
+          <person xml:id="erste_dame" sex="FEMALE">
+            <persName>Erste Dame</persName>
+          </person>
+          <person xml:id="zweite_dame" sex="FEMALE">
+            <persName>Zweite Dame</persName>
+          </person>
+          <person xml:id="erster_herr_ii-1" sex="MALE">
+            <persName>Erster Herr (II/1)</persName>
+          </person>
+          <person xml:id="antigonus" sex="MALE">
+            <persName>Antigonus</persName>
+          </person>
+          <person xml:id="paulina" sex="FEMALE">
+            <persName>Paulina</persName>
+          </person>
+          <person xml:id="kerkermeister" sex="MALE">
+            <persName>Ein Kerkermeister</persName>
+          </person>
+          <person xml:id="emilia" sex="FEMALE">
+            <persName>Emilia</persName>
+          </person>
+          <person xml:id="diener_ii-3" sex="MALE">
+            <persName>Diener (II/3)</persName>
+          </person>
+          <person xml:id="erster_herr_ii-3" sex="MALE">
+            <persName>Erster Herr (II/3)</persName>
+          </person>
+          <person xml:id="erster_diener_ii-3" sex="MALE">
+            <persName>Erster Diener (II/3)</persName>
+          </person>
+          <person xml:id="cleomenes" sex="MALE">
+            <persName>Cleomenes</persName>
+          </person>
+          <person xml:id="dion" sex="MALE">
+            <persName>Dion</persName>
+          </person>
+          <person xml:id="beamter" sex="MALE">
+            <persName>Beamter</persName>
+          </person>
+          <person xml:id="erster_herr_iii-2" sex="MALE">
+            <persName>Erster Herr (III/2)</persName>
+          </person>
+          <personGrp xml:id="alle_iii-2" sex="UNKNOWN">
+            <name>Alle (III/2)</name>
+          </personGrp>
+          <person xml:id="diener_iii-2" sex="MALE">
+            <persName>Diener (III/2)</persName>
+          </person>
+          <person xml:id="matrose" sex="MALE">
+            <persName>Ein Matrose</persName>
+          </person>
+          <person xml:id="der_alte_schaefer" sex="MALE">
+            <persName>Der alte Schäfer</persName>
+          </person>
+          <person xml:id="der_junge_schaefer" sex="MALE">
+            <persName>Der junge Schäfer</persName>
+          </person>
+          <person xml:id="zeit" sex="UNKNOWN">
+            <persName>Die Zeit als Chorus</persName>
+          </person>
+          <person xml:id="autolycus" sex="MALE">
+            <persName>Autolycus</persName>
+          </person>
+          <person xml:id="florizel" sex="MALE">
+            <persName>Florizel</persName>
+          </person>
+          <person xml:id="perdita" sex="FEMALE">
+            <persName>Perdita</persName>
+          </person>
+          <person xml:id="dorcas" sex="FEMALE">
+            <persName>Dorcas</persName>
+          </person>
+          <person xml:id="mopsa" sex="FEMALE">
+            <persName>Mopsa</persName>
+          </person>
+          <person xml:id="knecht_iv-3a" sex="MALE">
+            <persName>Knecht (IV/3)</persName>
+          </person>
+          <person xml:id="knecht_iv-3b" sex="MALE">
+            <persName>Knecht (IV/3)</persName>
+          </person>
+          <person xml:id="edelmann" sex="MALE">
+            <persName>Edelmann</persName>
+          </person>
+          <person xml:id="hofherr" sex="MALE">
+            <persName>Hofherr</persName>
+          </person>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="dritter_edelmann" sex="MALE">
+            <persName>Dritter Edelmann</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -77,7 +191,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000004" passive="http://www.wikidata.org/entity/Q743194"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000004"
+        passive="http://www.wikidata.org/entity/Q743194"/>
     </listRelation>
   </standOff>
   <text>
@@ -1348,7 +1463,7 @@
               <l>Erzähl' ein Märchen!</l>
             </lg>
           </sp>
-          <sp who="mamillius">
+          <sp who="#mamillius">
             <speaker>MAMILLIUS.</speaker>
             <l>Lustig oder traurig?</l>
           </sp>
@@ -1399,7 +1514,7 @@
             <speaker>LEONTES.</speaker>
             <l>Man traf ihn dort? Sein Zug? Camillo mit ihm?</l>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Ich traf sie hinterm Pinienwald; noch nie</l>
@@ -1431,7 +1546,7 @@
               <l>Die Pforten ihnen aufgetan?</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Durch Vollmacht,</l>
@@ -1584,7 +1699,7 @@
             <l>Hinweg, und tut, was wir befohlen! Fort!</l>
             <stage>Die Königin geht mit ihren Damen ab.</stage>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <l>Ich bitt' Eu'r Hoheit, ruft zurück die Fürstin!</l>
           </sp>
@@ -1596,7 +1711,7 @@
               <l>Ihr, Eure Kön'gin, Euer Sohn.</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Mein Leben</l>
@@ -1622,7 +1737,7 @@
             <speaker>LEONTES.</speaker>
             <l>Schweigt still!</l>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <l>Mein teurer König –</l>
           </sp>
@@ -1667,7 +1782,7 @@
             <speaker>LEONTES.</speaker>
             <l>Glaubt man mir nicht?</l>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Viel besser, wenn man uns glaubt, und nicht Euch,</l>
@@ -1721,7 +1836,7 @@
               <l>Mich spornen oder zügeln. Tat ich wohl?</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-1">
             <speaker>ERSTER HERR.</speaker>
             <l>Sehr wohl, mein Fürst.</l>
           </sp>
@@ -1754,8 +1869,8 @@
           <head>Zweite Szene</head>
           <stage>Ein äußeres Zimmer des Gefängnisses, Paulina tritt auf mit mehreren
             Dienern.</stage>
-          <sp who="#palina">
-            <speaker>PALINA.</speaker>
+          <sp who="#paulina">
+            <speaker>PAULINA.</speaker>
             <lg>
               <l>Der Kerkermeister – ruft sogleich ihn her;</l>
               <l>Und sagt ihm, wer ich bin. –</l>
@@ -1960,7 +2075,7 @@
               <l>Käm' mir vielleicht zurück. – Heda!</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-3">
             <speaker>DIENER.</speaker>
             <l>Mein König –</l>
           </sp>
@@ -1968,7 +2083,7 @@
             <speaker>LEONTES.</speaker>
             <l>Was macht der Prinz?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-3">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Er schlief die Nacht recht gut;</l>
@@ -1998,7 +2113,7 @@
             </lg>
             <stage>Paulina tritt auf mit einem Kinde.</stage>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-3">
             <speaker>ERSTER HERR.</speaker>
             <l>Ihr dürft hier nicht herein.</l>
           </sp>
@@ -2015,7 +2130,7 @@
             <speaker>ANTIGONUS.</speaker>
             <l>Und das ist viel.</l>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-3">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Er schlief nicht, gnäd'ge Frau, und hat befohlen</l>
@@ -2315,7 +2430,7 @@
               <l>Mich davon frei.</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-3">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Wir können's, großer König:</l>
@@ -2326,7 +2441,7 @@
             <speaker>LEONTES.</speaker>
             <l>Ihr allesamt seid Lügner.</l>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-3">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Eu'r Hoheit mög' uns beßre Meinung schenken:</l>
@@ -2413,7 +2528,7 @@
             <speaker>LEONTES.</speaker>
             <l>Nein, fremde Brut will ich nicht auferziehn.</l>
           </sp>
-          <sp who="#erster_diener">
+          <sp who="#erster_diener_ii-3">
             <speaker>ERSTER DIENER.</speaker>
             <lg>
               <l>Mein Fürst, so eben langte Botschaft an</l>
@@ -2423,7 +2538,7 @@
               <l>Bald hier zu sein.</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_ii-3">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Erlaubt, die Reise war</l>
@@ -2699,7 +2814,7 @@
               <l>Apollo sei mein Richter!</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_iii-2">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Dies Begehren</l>
@@ -2750,7 +2865,7 @@
               der König wird ohne Erben leben, wenn das, was verloren ist, nicht wieder gefunden
               wird.«</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iii-2">
             <speaker>ALLE.</speaker>
             <l>Gepriesen sei der große Gott Apollo!</l>
           </sp>
@@ -2774,7 +2889,7 @@
             </lg>
             <stage>Ein Diener kommt eilig.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Mein Herr, mein Herr und König!</l>
           </sp>
@@ -2782,7 +2897,7 @@
             <speaker>LEONTES.</speaker>
             <l>Nun, was gibt's?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <lg>
               <l>O Herr, Haß wird mich für die Nachricht treffen:</l>
@@ -2794,7 +2909,7 @@
             <speaker>LEONTES.</speaker>
             <l>Wie? hin?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Ist tot.</l>
           </sp>
@@ -2854,7 +2969,7 @@
               <l>Nicht auch zerbricht!</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_iii-2">
             <speaker>ERSTER HERR.</speaker>
             <l>Woher, Frau, dies Entsetzen?</l>
           </sp>
@@ -2892,7 +3007,7 @@
               <l>Und noch stürzt Rache nicht herab!</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_iii-2">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Verhüten's</l>
@@ -2924,7 +3039,7 @@
               <l>Die Flüche aller Zungen.</l>
             </lg>
           </sp>
-          <sp who="#erster_herr">
+          <sp who="#erster_herr_iii-2">
             <speaker>ERSTER HERR.</speaker>
             <lg>
               <l>Sprecht nicht weiter:</l>
@@ -3943,7 +4058,7 @@
             </lg>
             <stage>Ein Knecht tritt auf.</stage>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3a">
             <speaker>KNECHT.</speaker>
             <p>O Herr, wenn Ihr den Hausierer vor der Tür hören könntet, so würdet Ihr nie wieder
               nach Trommel und Pfeife tanzen, nein, selbst der Dudelsack brächte Euch nicht auf die
@@ -3957,7 +4072,7 @@
               alles: wenn es eine traurige Geschichte ist, zu einer lustigen Melodie, oder ein recht
               spaßhaftes Ding, und kläglich abgesungen.</p>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3a">
             <speaker>KNECHT.</speaker>
             <p>Er hat Lieder für Mann und Weib, lang und kurz: kein Putzhändler kann seine Kunden so
               mit Handschuh' bedienen; er hat die artigsten Liebeslieder für Mädchen, so ohne
@@ -3976,7 +4091,7 @@
             <p>Mein' Seel', das muß ein außerordentlich gebildeter Kerl sein. Hat er Waren von
               Bedeutung?</p>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3a">
             <speaker>KNECHT.</speaker>
             <p>Er hat Bänder von allen Farben des Regenbogens. spitzige Häkeleien, mehr als alle
               Advokaten in Böhmen handhaben können, wollten sie sie ihm auch in Masse abnehmen:
@@ -4249,7 +4364,7 @@
             <stage>Der junge Schäfer, Autolycus, Dorcas und Mopsa gehn ab.</stage>
             <stage>Ein Knecht tritt auf.</stage>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3b">
             <speaker>KNECHT.</speaker>
             <p>Herr, da sind drei Fuhrknechte, drei Schäferknechte, drei Ochsenknechte und drei
               Schweineknechte, die haben sich ganz zu Menschen voller Haare gemacht; sie nennen sich
@@ -4268,7 +4383,7 @@
             <p>Ihr macht denen Langeweile, die uns Kurzweil bringen; ich bitt' Euch, laßt uns die
               vier Dreiheiten von Knechten sehn.</p>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3b">
             <speaker>KNECHT.</speaker>
             <p>Drei von ihnen haben, wie sie selbst sagen, vor dem Könige getanzt, und nicht der
               schlechteste von den dreien, der nicht zwölf und einen halben Fuß in der Breite
@@ -4279,7 +4394,7 @@
             <p>Laß dein Schwatzen; und da es diesen werten Männern recht ist, mögen sie herein
               kommen, aber denn auch gleich!</p>
           </sp>
-          <sp who="#knecht">
+          <sp who="#knecht_iv-3b">
             <speaker>KNECHT.</speaker>
             <p>Ei, sie sind hier nahe bei.</p>
             <stage>Der Knecht gellt ab.</stage>
@@ -6081,7 +6196,8 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich dachte es wohl, daß sie dort etwas Wichtiges vor habe, denn seit Hermiones Tode
-              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
+              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"
+              /> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
           </sp>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>

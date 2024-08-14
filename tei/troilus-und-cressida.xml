@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Troilus und Cressida</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="5" to="114">5–114</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Troilus und Cressida</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>:
+            Komödien. Poetische Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="5" to="114">5–114</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,106 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="troilus" sex="MALE">
+            <persName>Troilus</persName>
+          </person>
+          <person xml:id="pandarus" sex="MALE">
+            <persName>Pandarus</persName>
+          </person>
+          <person xml:id="aeneas" sex="MALE">
+            <persName>Äneas</persName>
+          </person>
+          <person xml:id="cressida" sex="FEMALE">
+            <persName>Cressida</persName>
+          </person>
+          <person xml:id="alexander" sex="MALE">
+            <persName>Alexander</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="agamemnon" sex="MALE">
+            <persName>Agamemnon</persName>
+          </person>
+          <person xml:id="nestor" sex="MALE">
+            <persName>Nestor</persName>
+          </person>
+          <person xml:id="ulysses" sex="MALE">
+            <persName>Ulysses</persName>
+          </person>
+          <person xml:id="menelaus" sex="MALE">
+            <persName>Menelaus</persName>
+          </person>
+          <person xml:id="ajax" sex="MALE">
+            <persName>Ajax</persName>
+          </person>
+          <person xml:id="thersites" sex="MALE">
+            <persName>Thersites</persName>
+          </person>
+          <person xml:id="achilles" sex="MALE">
+            <persName>Achilles</persName>
+          </person>
+          <person xml:id="patroklus" sex="MALE">
+            <persName>Patroklus</persName>
+          </person>
+          <person xml:id="priamus" sex="MALE">
+            <persName>Priamus</persName>
+          </person>
+          <person xml:id="hektor" sex="MALE">
+            <persName>Hektor</persName>
+          </person>
+          <person xml:id="helenus" sex="MALE">
+            <persName>Helenus</persName>
+          </person>
+          <person xml:id="kassandra" sex="FEMALE">
+            <persName>Kassandra</persName>
+          </person>
+          <person xml:id="paris" sex="MALE">
+            <persName>Paris</persName>
+          </person>
+          <person xml:id="diomedes" sex="MALE">
+            <persName>Diomedes</persName>
+          </person>
+          <person xml:id="diener_iii-1" sex="MALE">
+            <persName>Diener (III/1)</persName>
+          </person>
+          <person xml:id="helena" sex="FEMALE">
+            <persName>Helena</persName>
+          </person>
+          <person xml:id="diener_iii-2" sex="MALE">
+            <persName>Diener (III/2)</persName>
+          </person>
+          <person xml:id="kalchas" sex="MALE">
+            <persName>Kalchas</persName>
+          </person>
+          <person xml:id="deiphobus" sex="MALE">
+            <persName>Deiphobus</persName>
+          </person>
+          <personGrp xml:id="alle_iv-5" sex="MALE">
+            <name>Alle (IV/5)</name>
+          </personGrp>
+          <person xml:id="andromache" sex="FEMALE">
+            <persName>Andromache</persName>
+          </person>
+          <person xml:id="diener_v-5" sex="MALE">
+            <persName>Diener (V/5)</persName>
+          </person>
+          <person xml:id="margarelon" sex="MALE">
+            <persName>Margarelon</persName>
+          </person>
+          <personGrp xml:id="myrmidonen" sex="MALE">
+            <name>Myrmidonen</name>
+          </personGrp>
+          <personGrp xml:id="soldaten" sex="MALE">
+            <name>Soldaten</name>
+          </personGrp>
+          <personGrp xml:id="alle_v-11" sex="MALE">
+            <name>Alle (V/11)</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -79,7 +175,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000035" passive="http://www.wikidata.org/entity/Q183304"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000035"
+        passive="http://www.wikidata.org/entity/Q183304"/>
     </listRelation>
   </standOff>
   <text>
@@ -234,7 +331,8 @@
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Ja, aufs Säuern; aber nun kommt noch in dem Wort <emph>hernach</emph> das Kneten, das
-              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb n="9"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
+              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb
+                n="9"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
               verbrennen.</p>
           </sp>
           <sp who="#troilus">
@@ -719,7 +817,8 @@
             <speaker>CRESSIDA.</speaker>
             <p>So hätte Troilus denn zu viel Farbe; wenn sie sein Kolorit <emph>über</emph> das des
               andern stellt, ist er höher an Farbe; wenn nun Paris rot genug ist und Troilus
-              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb n="15"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
+              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb
+                n="15"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
@@ -822,8 +921,8 @@
             <speaker>PANDARUS.</speaker>
             <p>Und Kassandra lachte! –</p>
           </sp>
-          <sp who="#crzssida">
-            <speaker>CRZSSIDA.</speaker>
+          <sp who="#cressida">
+            <speaker>CRESSIDA.</speaker>
             <p>Aber es war unter dem Topf ihrer Augen wohl ein mäßigeres Feuer: liefen ihre Augen
               auch über?</p>
           </sp>
@@ -1642,8 +1741,6 @@
               <l>Ich führ' Euch, Herr, in unsern Pavillon:</l>
               <l>Achill vernehme, was Ihr heut bestellt,</l>
               <l>Und jeder griech'sche Ritter, Zelt für Zelt –</l>
-            </lg>
-            <lg>
               <l>Dann speist mit uns, eh' Ihr nach Troja kehrt,</l>
               <l>Und edler Feindesgruß sei Euch gewährt!</l>
             </lg>
@@ -2301,19 +2398,13 @@
               <l>Und statt der alten Base, dort gefangen,</l>
               <l>Bracht' er 'ne griech'sche Fürstin, deren Frische</l>
               <l>Apollo runzlicht, welk den Morgen macht. –</l>
-            </lg>
-            <l>Mit welchem Fug? Die Griechen halten jene! –</l>
-            <lg>
+              <l>Mit welchem Fug? Die Griechen halten jene! –</l>
               <l>Und ist sie's wert? Ha, eine Perle ist sie,</l>
               <l>Die mehr denn tausend Schiffe jagt' ins Meer</l>
               <l>Und Kaufherrn schuf aus Kön'gen.</l>
               <l>Gesteht ihr ein, recht war's, daß Paris ging –</l>
-            </lg>
-            <lg>
               <l>(Ihr müßt; denn alles rief: Zieh hin! Zieh hin!),</l>
               <l>Bekennt ihr, daß ein Kleinod seine Beute –</l>
-            </lg>
-            <lg>
               <l>(Ihr müßt; denn alle schlugt ihr in die Hände</l>
               <l>Und rieft: Unschätzbar!): warum schmäht ihr nun</l>
               <l>Den Ausgang eures eignen weisen Plans</l>
@@ -2372,9 +2463,9 @@
               <l>Troja vergeht, das schöne Ilium sinkt!</l>
               <l>Paris, der Feuerbrand, verzehrt uns alle.</l>
               <l>Weint, weint! O Helena, du Weh der Wehen! –</l>
+              <l>Weint! Troja brennt! Verbannt sie, heißt sie gehen!</l>
+              <stage>Geht ab.</stage>
             </lg>
-            <l>Weint! Troja brennt! Verbannt sie, heißt sie gehen!</l>
-            <stage>Geht ab.</stage>
           </sp>
           <sp who="#hektor">
             <speaker>HEKTOR.</speaker>
@@ -2499,8 +2590,6 @@
               <l>Ja, das ist unsres Trachtens Kraft und Inhalt.</l>
               <l>Wär's nicht die Ehre, die uns mehr entflammt,</l>
               <l>Als unserm schwell'nden Groll genug zu tun, –</l>
-            </lg>
-            <lg>
               <l>Nicht einen Tropfen Troerblut mehr wollt' ich</l>
               <l>Für sie vergeudet sehn. Doch, tapfrer Hektor,</l>
               <l>Sie ist ein Gegenstand für Her' und Ruhm,</l>
@@ -3157,7 +3246,7 @@
             <p>Freund, Ihr da, bitte Euch, nur ein Wort – folgt Ihr nicht dem jungen Herrn Paris?
               –</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ja, Herr, wenn er vor mir geht.</p>
           </sp>
@@ -3165,7 +3254,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Ich meine, Ihr dient ihm?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ich diene dem Herrn.</p>
           </sp>
@@ -3173,7 +3262,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Dann dient Ihr einem edeln Herrn; ich kann nicht anders als ihn lobpreisen.</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Der Herr sei gepriesen!</p>
           </sp>
@@ -3181,7 +3270,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Ihr kennt mich, nicht wahr?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ei nun, Herr, so obenhin.</p>
           </sp>
@@ -3189,7 +3278,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Freund, lernt mich besser kennen: ich bin der Herr Pandarus.</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ich hoffe, Eure Herrlichkeit besser kennen zu lernen.</p>
           </sp>
@@ -3197,7 +3286,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Das wünsche ich.</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>So seid Ihr also im Stande der Gnade?</p>
           </sp>
@@ -3206,7 +3295,7 @@
             <p>Gnade? O nein, Freund; Hochgeboren und Gestrengen sind meine Titel. Was ist das für
               Musik?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ich kenne sie nur zum Teil: es ist Musik mit verteilten Stimmen.</p>
           </sp>
@@ -3214,7 +3303,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Kennt Ihr die Musikanten?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ganz und gar, Herr.</p>
           </sp>
@@ -3222,7 +3311,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Für wen spielen sie?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Für die Zuhörer, Herr.</p>
           </sp>
@@ -3230,7 +3319,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Wem zu Gefallen?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Mir, Herr, und allen denen, die gern Musik hören.</p>
           </sp>
@@ -3239,7 +3328,7 @@
             <p>Auf wes Geheiß trag' ich, Freund?</p>
           </sp>
           <pb n="51"/>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ich denke, Ihr fragt auf niemands Geheiß.</p>
           </sp>
@@ -3248,7 +3337,7 @@
             <p>Freund, wir verstehn einander nicht. Ich bin zu höflich, und Ihr seid zu spitz. Auf
               wes Verlangen spielen diese Leute? –</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ja, nun traft Ihr's, Herr. Nun, auf das Verlangen des Prinzen Paris, meines Herrn,
               welcher selbst dabei ist, und mit ihm die sterbliche Venus, das Herzblatt der
@@ -3258,7 +3347,7 @@
             <speaker>PANDARUS.</speaker>
             <p>Wer? Meine Nichte Cressida?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Nein, Herr, Helena; konntet Ihr das nicht aus ihren Ehrentiteln erraten?</p>
           </sp>
@@ -3268,7 +3357,7 @@
               um mit Paris vom Prinzen Troilus zu sprechen; ich will eine freundliche Bestellung ihm
               eilend beibringen, denn mein Geschäft ist siedend.</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ein gesottnes Geschäft! Das nenn' ich eine Phrase für die Schwitzbäder.</p>
             <stage>Es treten auf Paris und Helena mit Gefolge.</stage>
@@ -3553,7 +3642,7 @@
             <p>Heda! Wo ist dein Herr? Ist er bei meiner Nichte Cressida? –</p>
           </sp>
           <pb n="55"/>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <p>Nein, Herr, er wartet auf Euch, daß Ihr ihn zu ihr führt.</p>
             <stage>Troilus kommt.</stage>
@@ -4525,7 +4614,8 @@
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <p>Nein, in eben solcher Verstimmung. Wie viel Musik in ihm nachbleibt, wenn Hektor ihm
-              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb n="70"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
+              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb
+                n="70"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
               machen.</p>
           </sp>
           <sp who="#achilles">
@@ -5703,7 +5793,7 @@
             </lg>
             <stage>Trompetenstoß.</stage>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv-5">
             <speaker>ALLE.</speaker>
             <l>Trojas Trompete!</l>
           </sp>
@@ -7606,7 +7696,7 @@
               <l>Und ich ihr treubewährter Held.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-5">
             <speaker>DIENER.</speaker>
             <l>Ich gehe.</l>
             <stage>Ab.</stage>
@@ -7988,7 +8078,7 @@
             <speaker>TROILUS.</speaker>
             <l>Hektor ist tot.</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_v-11">
             <speaker>ALLE.</speaker>
             <l>Hektor? Verhüt'es Zeus! –</l>
           </sp>
