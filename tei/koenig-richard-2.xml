@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Richard II.</title>
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="89" to="177">89–177</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Richard II.</title> In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
+            Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="89" to="177">89–177</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,118 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="koenig_richard" sex="MALE">
+            <persName>König Richard II.</persName>
+          </person>
+          <person xml:id="gaunt" sex="MALE">
+            <persName>Johann von Gaunt</persName>
+          </person>
+          <person xml:id="bolingbroke" sex="MALE">
+            <persName>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford</persName>
+          </person>
+          <person xml:id="norfolk" sex="MALE">
+            <persName>Mowbray, Herzog von Norfolk</persName>
+          </person>
+          <person xml:id="herzogin_von_gloster" sex="FEMALE">
+            <persName>Herzogin von Gloster</persName>
+          </person>
+          <person xml:id="lord_marschall" sex="MALE">
+            <persName>Lord Marschall</persName>
+          </person>
+          <person xml:id="aumerle" sex="MALE">
+            <persName>Herzog von Aumerle</persName>
+          </person>
+          <person xml:id="erster_herold" sex="MALE">
+            <persName>Erster Herold</persName>
+          </person>
+          <person xml:id="zweiter_herold" sex="MALE">
+            <persName>Zweiter Herold</persName>
+          </person>
+          <person xml:id="green" sex="MALE">
+            <persName>Green</persName>
+          </person>
+          <person xml:id="bushy" sex="MALE">
+            <persName>Bushy</persName>
+          </person>
+          <person xml:id="york" sex="MALE">
+            <persName>Edmund von Langley, Herzog von York</persName>
+          </person>
+          <person xml:id="koenigin" sex="FEMALE">
+            <persName>Die Königin</persName>
+          </person>
+          <person xml:id="northumberland" sex="MALE">
+            <persName>Graf von Northumberland</persName>
+          </person>
+          <person xml:id="ross" sex="MALE">
+            <persName>Lord Ross</persName>
+          </person>
+          <person xml:id="willoughby" sex="MALE">
+            <persName>Lord Willoughby</persName>
+          </person>
+          <person xml:id="bedienter_ii-3" sex="MALE">
+            <persName>Ein Bedienter (II/3)</persName>
+          </person>
+          <person xml:id="bagot" sex="MALE">
+            <persName>Bagot</persName>
+          </person>
+          <person xml:id="percy" sex="MALE">
+            <persName>Heinrich Percy</persName>
+          </person>
+          <person xml:id="berkley" sex="MALE">
+            <persName>Graf Berkley</persName>
+          </person>
+          <person xml:id="hauptmann" sex="MALE">
+            <persName>Der Hauptmann einer Schar von Wallisern</persName>
+          </person>
+          <person xml:id="salisbury" sex="MALE">
+            <persName>Graf von Salisbury</persName>
+          </person>
+          <person xml:id="carlisle" sex="MALE">
+            <persName>Bischof von Carlisle</persName>
+          </person>
+          <person xml:id="scroop" sex="MALE">
+            <persName>Sir Stephen Scroop</persName>
+          </person>
+          <person xml:id="erstes_fraeulein" sex="FEMALE">
+            <persName>Erstes Fräulein</persName>
+          </person>
+          <person xml:id="gaertner" sex="MALE">
+            <persName>Gärtner</persName>
+          </person>
+          <person xml:id="erster_geselle" sex="MALE">
+            <persName>Erster Geselle</persName>
+          </person>
+          <person xml:id="fitzwater" sex="MALE">
+            <persName>Lord Fitzwater</persName>
+          </person>
+          <person xml:id="ein_lord" sex="MALE">
+            <persName>Ein Lord</persName>
+          </person>
+          <person xml:id="surrey" sex="MALE">
+            <persName>Herzog von Surrey</persName>
+          </person>
+          <person xml:id="abt" sex="MALE">
+            <persName>Abt von Westminster</persName>
+          </person>
+          <person xml:id="herzogin_von_york" sex="FEMALE">
+            <persName>Herzogin von York</persName>
+          </person>
+          <person xml:id="exton" sex="MALE">
+            <persName>Sir Pierce von Exton</persName>
+          </person>
+          <person xml:id="bedienter_v-3" sex="MALE">
+            <persName>Ein Bedienter (V/3)</persName>
+          </person>
+          <person xml:id="stallknecht" sex="MALE">
+            <persName>Ein Stallknecht</persName>
+          </person>
+          <person xml:id="gefangenwaerter" sex="MALE">
+            <persName>Gefangenwärter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +186,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000025" passive="http://www.wikidata.org/entity/Q649562"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000025"
+        passive="http://www.wikidata.org/entity/Q649562"/>
     </listRelation>
   </standOff>
   <text>
@@ -99,8 +208,8 @@
           <castItem>Johann von Gaunt, Herzog von Lancaster</castItem>
           <roleDesc>Oheime des Königs</roleDesc>
         </castGroup>
-        <castItem>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford, Sohn Johanns von
-          Gaunt nachmaliger König Heinrich IV.</castItem>
+        <castItem>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford, Sohn Johanns von Gaunt
+          nachmaliger König Heinrich IV.</castItem>
         <castItem>Herzog von Aumerle, Sohn des Herzogs von York</castItem>
         <castItem>Mowbray, Herzog von Norfolk</castItem>
         <castItem>Herzog von Surrey</castItem>
@@ -122,8 +231,8 @@
         <castItem>Herzogin von Gloster</castItem>
         <castItem>Herzogin von York</castItem>
         <castItem>Ein Hoffräulein der Königin</castItem>
-        <castItem>Herren von Adel, Herolde, Offiziere, Soldaten, zwei Gärtner, Gefangenwärter,
-          Bote, Stallknecht und andres Gefolge</castItem>
+        <castItem>Herren von Adel, Herolde, Offiziere, Soldaten, zwei Gärtner, Gefangenwärter, Bote,
+          Stallknecht und andres Gefolge</castItem>
       </castList>
       <set>
         <p>Die Szene ist an verschiednen Orten in England und Wales</p>
@@ -2129,7 +2238,7 @@
             </lg>
             <stage>Ein Bedienter kommt.</stage>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_ii-3">
             <speaker>BEDIENTER.</speaker>
             <l>Herr, Euer Sohn war fort, schon eh' ich kam.</l>
           </sp>
@@ -2145,7 +2254,7 @@
               <l>Da hier, nimm meinen Ring!</l>
             </lg>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_ii-3">
             <speaker>BEDIENTER.</speaker>
             <lg>
               <l>Herr, ich vergaß, Eu'r Gnaden es zu sagen:</l>
@@ -2157,7 +2266,7 @@
             <speaker>YORK.</speaker>
             <l>Was ist es, Bube?</l>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_ii-3">
             <speaker>BEDIENTER.</speaker>
             <l>Die Herzogin war tot seit einer Stunde.</l>
           </sp>
@@ -4656,7 +4765,7 @@
           <head>Erste Szene</head>
           <stage>London. Ein Zimmer im Palaste des Herzogs von York.</stage>
           <stage>York und die Herzogin von York treten auf.</stage>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Ihr wolltet, mein Gemahl, den Rest erzählen,</l>
@@ -4668,7 +4777,7 @@
             <speaker>YORK.</speaker>
             <l>Wo blieb ich stehn?</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Bei der betrübten Stelle,</l>
@@ -4696,7 +4805,7 @@
               <l>Und so stets tuend, zog er so entlang.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Ach, armer Richard! Wo ritt er indes?</l>
           </sp>
@@ -4725,7 +4834,7 @@
             </lg>
             <stage>Aumerle tritt auf.</stage>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Da kommt mein Sohn Aumerle.</l>
           </sp>
@@ -4739,7 +4848,7 @@
               <l>Und Lehnspflicht gegen unsern neuen König.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Willkommen, Sohn! Wer sind die Veilchen nun,</l>
@@ -4808,7 +4917,7 @@
               <l>Ich fürcht', ich fürchte, –</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Was doch fürchtet Ihr?</l>
@@ -4834,7 +4943,7 @@
             <stage>Er reißt das Papier weg und liest.</stage>
             <l>Verrat! Verbrechen! – Schelm! Verräter! Knecht!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Was ist es, mein Gemahl?</l>
           </sp>
@@ -4847,7 +4956,7 @@
               <l>Erbarm' es Gott, was für Verräterei!</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Nun, mein Gemahl, was ist's?</l>
           </sp>
@@ -4860,7 +4969,7 @@
             </lg>
             <stage>Bedienter ab.</stage>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Was ist die Sache?</l>
           </sp>
@@ -4868,7 +4977,7 @@
             <speaker>YORK.</speaker>
             <l>Still, töricht Weib!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Ich will nicht still sein. – Sohn, was ist die Sache?</l>
           </sp>
@@ -4879,7 +4988,7 @@
               <l>Wofür mein armes Leben einstehn muß.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Dein Leben einstehn?</l>
             <stage>Der Bediente kommt zurück mit Stiefeln.</stage>
@@ -4889,7 +4998,7 @@
             <speaker>YORK.</speaker>
             <l>Bringt mir die Stiefeln; ich will hin zum König.</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Schlag' ihn, Aumerle! – Du starrst ganz, armer Junge. –</l>
             <stage>Zu dem Bedienten.</stage>
@@ -4899,7 +5008,7 @@
             <speaker>YORK.</speaker>
             <l>Die Stiefeln her, sag' ich!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Ei, York, was willst du tun?</l>
@@ -4921,7 +5030,7 @@
               <l>Zu Oxford unsern König umzubringen.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Er soll nicht drunter sein; wir halten ihn</l>
@@ -4935,7 +5044,7 @@
               <l>Mein Sohn, ich gäb' ihn an.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Hätt'st du um ihn geächzt,</l>
@@ -4954,7 +5063,7 @@
             <l>Mach' Platz, unbändig Weib!</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Aumerle, ihm nach! Besteige du sein Pferd,</l>
@@ -5163,7 +5272,7 @@
               <l>Dem Biedern Tod wird deine Gnade geben.</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN</speaker>
             <stage>draußen.</stage>
             <l>Mein Fürst! Um Gottes willen, laßt mich ein!</l>
@@ -5172,7 +5281,7 @@
             <speaker>BOLINGBROKE.</speaker>
             <l>Wer mag so gellend seine Bitten schrein?</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Ein Weib, und deine Muhme, großer König!</l>
@@ -5199,7 +5308,7 @@
             </lg>
             <stage>Herzogin tritt ein.</stage>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>O Fürst, glaub' nicht dem hartgeherzten Mann,</l>
@@ -5213,7 +5322,7 @@
               <l>Soll deine Brust noch 'mal den Buben nähren?</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Sei ruhig, lieber York! Mein König, höre!</l>
             <stage>Sie kniet.</stage>
@@ -5222,7 +5331,7 @@
             <speaker>BOLINGBROKE.</speaker>
             <l>Auf, gute Muhme!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Noch nicht, ich beschwöre!</l>
@@ -5244,7 +5353,7 @@
               <l>Gewährst du Gnade, so gedeih' dir's schlecht!</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Meint er's im Ernst? Sieh ins Gesicht ihm recht:</l>
@@ -5264,7 +5373,7 @@
             <speaker>BOLINGBROKE.</speaker>
             <l>Steht auf doch, Muhme!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Nein, sag nicht: »Steht auf!«</l>
@@ -5281,7 +5390,7 @@
             <speaker>YORK.</speaker>
             <l>So sprich französisch; sag: pardonnez-moi!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Lehrst du Verzeihung, wie sie nicht verzeih'?</l>
@@ -5299,7 +5408,7 @@
             <speaker>BOLINGBROKE.</speaker>
             <l>Steht auf doch, Muhme!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>Ich bitte nicht um Stehn,</l>
@@ -5311,7 +5420,7 @@
             <speaker>BOLINGBROKE.</speaker>
             <l>Verzeihung ihm, wie Gott mir mag verzeihn!</l>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <lg>
               <l>O eines knie'nden Kniees schön Gedeihn!</l>
@@ -5327,7 +5436,7 @@
               <l>Von Herzen ihm!</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Du bist ein Gott der Erde.</l>
           </sp>
@@ -5345,7 +5454,7 @@
               <l>Wohl bat für Euch die Mutter; hegt nun Scheu!</l>
             </lg>
           </sp>
-          <sp who="#herzogin">
+          <sp who="#herzogin_von_york">
             <speaker>HERZOGIN.</speaker>
             <l>Komm, alter Sohn, und mache Gott dich neu!</l>
             <stage>Alle ab.</stage>
@@ -5362,7 +5471,7 @@
               <l>Von der lebend'gen Furcht?« – War es nicht so?</l>
             </lg>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_v-3">
             <speaker>BEDIENTER.</speaker>
             <l>Das waren seine Worte.</l>
           </sp>
@@ -5373,7 +5482,7 @@
               <l>Und wiederholt' es dringend. Tat er's nicht?</l>
             </lg>
           </sp>
-          <sp who="#bedienter">
+          <sp who="#bedienter_v-3">
             <speaker>BEDIENTER.</speaker>
             <l>Er tat's.</l>
           </sp>

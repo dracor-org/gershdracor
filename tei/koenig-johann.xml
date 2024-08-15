@@ -42,17 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Johann</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="5" to="87">5–87</biblScope>.
-          </bibl>
+            <author>William Shakespeare</author>: <title level="a">König Johann</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien.
+              <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="5" to="87">5–87</biblScope>. </bibl>
         </bibl>
       </sourceDesc>
       <notesStmt>
@@ -63,6 +58,97 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="koenig_johann" sex="MALE">
+            <persName>König Johann</persName>
+          </person>
+          <person xml:id="chatillon" sex="MALE">
+            <persName>Chatillon</persName>
+          </person>
+          <person xml:id="eleonore" sex="FEMALE">
+            <persName>Eleonore</persName>
+          </person>
+          <person xml:id="essex" sex="MALE">
+            <persName>Geffrey Fitz-Peter, Graf von Essex</persName>
+          </person>
+          <person xml:id="bastard" sex="MALE">
+            <persName>Philipp Faulconbridge (Bastard)</persName>
+          </person>
+          <person xml:id="robert" sex="MALE">
+            <persName>Robert Faulconbridge</persName>
+          </person>
+          <person xml:id="lady_faulconbridge" sex="FEMALE">
+            <persName>Lady Faulconbridge</persName>
+          </person>
+          <person xml:id="gurney" sex="MALE">
+            <persName>Jakob Gurney</persName>
+          </person>
+          <person xml:id="louis" sex="MALE">
+            <persName>Louis</persName>
+          </person>
+          <person xml:id="arthur" sex="MALE">
+            <persName>Arthur</persName>
+          </person>
+          <person xml:id="oesterreich" sex="MALE">
+            <persName>Der Erzherzog von Österreich</persName>
+          </person>
+          <person xml:id="constanze" sex="FEMALE">
+            <persName>Constanze</persName>
+          </person>
+          <person xml:id="koenig_philipp" sex="MALE">
+            <persName>König Philipp</persName>
+          </person>
+          <person xml:id="blanca" sex="FEMALE">
+            <persName>Blanca</persName>
+          </person>
+          <person xml:id="erster_buerger" sex="MALE">
+            <persName>Erster Bürger</persName>
+          </person>
+          <person xml:id="franzoesischer_herold" sex="MALE">
+            <persName>Französischer Herold</persName>
+          </person>
+          <person xml:id="englischer_herold" sex="MALE">
+            <persName>Englischer Herold</persName>
+          </person>
+          <person xml:id="salisbury" sex="MALE">
+            <persName>William Longsword, Graf von Salisbury</persName>
+          </person>
+          <person xml:id="pandulpho" sex="MALE">
+            <persName>Kardinal Pandulpho</persName>
+          </person>
+          <person xml:id="hubert" sex="MALE">
+            <persName>Hubert de Burgh</persName>
+          </person>
+          <person xml:id="erster_aufwaerter" sex="MALE">
+            <persName>Erster Aufwärter</persName>
+          </person>
+          <person xml:id="pembroke" sex="MALE">
+            <persName>William Mareshall, Graf von Pembroke</persName>
+          </person>
+          <person xml:id="bote_iv-2" sex="MALE">
+            <persName>Ein Bote (IV/2)</persName>
+          </person>
+          <person xml:id="peter" sex="MALE">
+            <persName>Peter von Pomfret</persName>
+          </person>
+          <person xml:id="bigot" sex="MALE">
+            <persName>Robert Bigot</persName>
+          </person>
+          <person xml:id="bote_v-3" sex="MALE">
+            <persName>Ein Bote (V/3)</persName>
+          </person>
+          <person xml:id="melun" sex="MALE">
+            <persName>Melun</persName>
+          </person>
+          <person xml:id="bote_v-5" sex="MALE">
+            <persName>Ein Bote (V/5)</persName>
+          </person>
+          <person xml:id="prinz_heinrich" sex="MALE">
+            <persName>Prinz Heinrich</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +164,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000023" passive="http://www.wikidata.org/entity/Q661222"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000023"
+        passive="http://www.wikidata.org/entity/Q661222"/>
     </listRelation>
   </standOff>
   <text>
@@ -95,8 +182,8 @@
         <head>Personen</head>
         <castItem>König Johann</castItem>
         <castItem>Prinz Heinrich, sein Sohn, nachmaliger König Heinrich III.</castItem>
-        <castItem>Arthur, Herzog von Bretagne, Sohn des verstorbnen Herzogs Gottfried von
-          Bretagne, älteren Bruders vom König Johann</castItem>
+        <castItem>Arthur, Herzog von Bretagne, Sohn des verstorbnen Herzogs Gottfried von Bretagne,
+          älteren Bruders vom König Johann</castItem>
         <castItem>William Mareshall, Graf von Pembroke</castItem>
         <castItem>Geffrey Fitz-Peter, Graf von Essex, Oberrichter von England</castItem>
         <castItem>William Longsword, Graf von Salisbury</castItem>
@@ -128,581 +215,584 @@
     <body>
       <div type="act">
         <head>Erster Aufzug</head>
-        <head>Erste Szene</head>
-        <stage>Northampton. Ein Staatszimmer im Pataste.</stage>
-        <stage>König Johann, Königin Eleonore, Pembroke, Essex, Salisbury und andre, nebst
-          Chatillon, treten auf.</stage>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Nun, Chatillon, sag, was will Frankreich uns?</l>
-        </sp>
-        <sp>
-          <speaker>CHATILLON.</speaker>
-          <lg>
-            <l>So redet Frankreichs König, nach dem Gruß,</l>
-            <l>Durch meinen Vortrag zu der Majestät,</l>
-            <l>Erborgten Majestät von England hier.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <l>Erborgten Majestät? – Seltsamer Anfang!</l>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Still, gute Mutter? Hört die Botschaft an!</l>
-        </sp>
-        <sp>
-          <speaker>CHATILLON.</speaker>
-          <lg>
-            <l>Philipp von Frankreich, kraft undlaut des Namens</l>
-            <l>Von deines weiland Bruder Gottfried Sohn,</l>
-            <l>Arthur Plantagenet, spricht rechtlich an</l>
-            <l>Dies schöne Eiland samt den Ländereien,</l>
-            <l>Als Irland, Poictiers, Anjou, Touraine, Maine;</l>
-            <l>Begehrend, daß du legst beiseit das Schwert,</l>
-            <l>Das dieses Erb' anmaßendlich beherrscht,</l>
-            <l>Daß Arthur es aus deiner Hand empfange,</l>
-            <l>Dein Neff' und königlicher Oberherr.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Und wenn wir dieses weigern, was erfolgt?</l>
-        </sp>
-        <sp>
-          <speaker>CHATILLON.</speaker>
-          <lg>
-            <l>Der stolze Zwang des wilden, blut'gen Kriegs,</l>
-            <l>Zu dringen auf dies abgedrungne Recht.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Wir haben Krieg für Krieg und Blut für Blut,</l>
-            <l>Zwang wider Zwang: antworte Frankreich das!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>CHATILLON.</speaker>
-          <lg>
-            <l>So nehmt denn meines Königs Fehderuf</l>
-            <l>Aus meinem Munde, meiner Botschaft Ziel!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Bring' meinen ihm, und scheid' in Frieden so!</l>
-            <l>Sei du in Frankreichs Augen wie der Blitz:</l>
-            <l>Denn eh' du melden kannst, ich komme hin,</l>
-            <pb n="8"/>
-            <l>Soll man schon donnern hören mein Geschütz.</l>
-            <l>Hinweg denn! Sei du unsers Grimms Trompete</l>
-            <l>Und ernste Vorbedeutung eures Falls! –</l>
-            <l>Gebt ehrliches Geleit ihm auf dem Weg:</l>
-            <l>Besorgt es, Pembroke! – Chatillon, lebt wohl!</l>
-          </lg>
-          <stage>Chatillon und Pembroke ab.</stage>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Wie nun, mein Sohn? Hab' ich nicht stets gesagt,</l>
-            <l>Constanzens Ehrgeiz würde nimmer ruhn,</l>
-            <l>Bis sie für ihres Sohns Partei und Recht</l>
-            <l>Frankreich in Brand gesetzt und alle Welt?</l>
-            <l>Dies konnte man verhüten; es war leicht</l>
-            <l>Durch freundliche Vermittlung auszugleichen,</l>
-            <l>Was die Verwaltung zweier Reiche nun</l>
-            <l>Durch schrecklich blut'gen Ausgang muß entscheiden.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Uns schirmt Besitzes Macht und unser Recht.</l>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Besitzes Macht weit mehr als Euer Recht,</l>
-            <l>Sonst müßt' es übel gehn mit Euch und mir.</l>
-            <l>So flüstert in das Ohr Euch mein Gewissen,</l>
-            <l>Was nur der Himmel, Ihr und ich soll wissen.</l>
-          </lg>
-          <stage>Der Sheriff von Northamptonshire tritt auf und spricht heimlich mit Essex.</stage>
-        </sp>
-        <sp>
-          <speaker>ESSEX.</speaker>
-          <lg>
-            <l>Mein Fürst, hier ist der wunderlichste Streit,</l>
-            <l>Vom Land an Euren Richterstuhl gebracht,</l>
-            <l>Wovon ich je gehört. Bring' ich die Leute?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Ja, führt sie vor! –</l>
-          <stage>Sheriff ab.</stage>
-          <lg>
-            <l>Die Klöster und Abteien sollen zahlen</l>
-            <l>Die Kosten dieses Zugs. –</l>
-          </lg>
-          <stage>Der Sheriff kommt zurück mit Robert Faulconbridge und Philipp, seinem
-            Bastard-Bruder.</stage>
-          <l>Wer seid ihr beide?</l>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Ich Euer treuer Knecht, ein Edelmann,</l>
-            <l>Hier aus Northamptonshire, und, wie ich glaube,</l>
-            <l>Der älteste Sohn des Robert Faulconbridge,</l>
-            <l>Den Löwenherzens ruhmverleih'nde Hand</l>
-            <l>Für Kriegesdienst' im Feld zum Ritter schlug.</l>
-          </lg>
-        </sp>
-        <pb n="9"/>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Wer bist du?</l>
-        </sp>
-        <sp>
-          <speaker>ROBERT.</speaker>
-          <l>Der Erb' und Sohn desselben Faulconbridge.</l>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Ist das der ältre, und der Erbe du?</l>
-            <l>So scheint's, ihr seid von <emph>einer</emph> Mutter nicht.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Gewiß von <emph>einer</emph> Mutter, mächt'ger König,</l>
-            <l>Das weiß man, und ich denk' auch, einem Vater:</l>
-            <l>Doch die gewisse Kenntnis dieses Punktes</l>
-            <l>Macht mit dem Himmel aus und meiner Mutter:</l>
-            <l>Ich zweifle dran, wie jeder Sohn es darf.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Pfui, grober Mann! Du schändest deine Mutter</l>
-            <l>Und kränkest ihren Ruf mit dem Verdacht.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Ich, gnäd'ge Frau? Ich habe keinen Grund;</l>
-            <l>Das schützt mein Bruder vor, ich keineswegs:</l>
-            <l>Denn wenn er es beweist, so prellt er mich</l>
-            <l>Zum mind'sten um fünfhundert Pfund des Jahrs.</l>
-            <l>Gott schütz' mein Lehn und meiner Mutter Ehre!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Ein wackrer, dreister Bursch! – Warum spricht er,</l>
-            <l>Als Jüngstgeborner, deine Erbschaft an?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Ich weiß nicht, außer um das Lehn zu kriegen;</l>
-            <l>Doch einmal schalt er einen Bastard mich.</l>
-            <l>Ob ich so echt erzeugt bin oder nicht.</l>
-            <l>Das leg' ich stets auf meiner Mutter Haupt;</l>
-            <l>Allein, daß ich so wohl erzeugt bin, Herr,</l>
-            <l>(Ruh' dem Gebein, das sich für mich bemüht!) –</l>
-            <l>Vergleicht nur die Gesichter, richtet selbst!</l>
-            <l>Wenn uns der alte Herr, Sir Robert, beide</l>
-            <l>Erzeugt', und dieser Sohn dem Vater gleicht, –</l>
-            <l>O alter Robert! Vater! siehe mich</l>
-            <l>Gott knieend danken, daß ich dir nicht glich!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Nun, welch ein Tollkopf ist uns hier beschert?</l>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Er hat etwas von Löwenherzens Zügen,</l>
-            <l>Und seiner Sprache Ton ist ihm verwandt.</l>
-            <l>Erkennt Ihr nicht Merkmale meines Sohnes</l>
-            <l>Im großen Gliederbaue dieses Manns?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Mein Auge prüfte seine Bildung wohl</l>
-            <l>Und fand sie sprechend ähnlich. – Ihr da, sprecht,</l>
-            <l>Was treibt Euch, Eures Bruders Lehn zu fodern?</l>
-          </lg>
-        </sp>
-        <pb n="10"/>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Weil er ein Halbgesicht hat, wie mein Vater,</l>
-            <l>Möcht' er mein Lehn ganz für das Halbgesicht.</l>
-            <l>Sein Groschen mit dem Halbgesicht-Gepräge</l>
-            <l>Brächt' ihm alsdann fünfhundert Pfund des Jahrs.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ROBERT.</speaker>
-          <lg>
-            <l>Mein gnäd'ger Lehnsherr, als mein Vater lebte,</l>
-            <l>Braucht' Euer Bruder meinen Vater oft, –</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Ei, Herr, damit gewinnt Ihr nicht mein Lehn:</l>
-            <l>Erzählt uns, wie er meine Mutter brauchte!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ROBERT.</speaker>
-          <lg>
-            <l>Und sandt' ihn einst auf eine Botschaft aus,</l>
-            <l>Nach Deutschland, mit dem Kaiser dort zu handeln</l>
-            <l>In wichtigen Geschäften jener Zeit.</l>
-            <l>Der König nutzte die Entfernung nun</l>
-            <l>Und wohnt' indes in meines Vaters Haus.</l>
-            <l>Wie er's erlangte, schäm' ich mich zu sagen;</l>
-            <l>Doch wahr ist wahr: es trennten meinen Vater</l>
-            <l>Von meiner Mutter Strecken See und Land</l>
-            <l>(Wie ich von meinem Vater selbst gehört),</l>
-            <l>Als dieser muntre Herr da ward erzeugt.</l>
-            <l>Auf seinem Todbett ließ er mir sein Gut</l>
-            <l>Im Testament und starb getrost darauf,</l>
-            <l>Der, meiner Mutter Sohn, sei seiner nicht;</l>
-            <l>Und wenn er's war, so kam er in die Welt</l>
-            <l>An vierzehn Wochen vor der rechten Zeit.</l>
-            <l>So gönnt mir denn, was mein ist, bester Fürst,</l>
-            <l>Des Vaters Gut nach meines Vaters Willen!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Still! Euer Bruder ist ein echtes Kind;</l>
-            <l>Des Vaters Weib gebar ihn in der Eh',</l>
-            <l>Und wenn sie ihn betrog, ist's ihre Schuld,</l>
-            <l>Worauf es alle Männer wagen müssen,</l>
-            <l>Die Weiber nehmen. Sagt mir, wenn mein Bruder,</l>
-            <l>Der, wie Ihr sprecht, sich diesen Sohn geschafft,</l>
-            <l>Von Eurem Vater ihn gefodert hätte:</l>
-            <l>Traun, guter Freund, sein Kalb von seiner Kuh</l>
-            <l>Könnt' er behaupten gegen alle Welt;</l>
-            <l>Das könnt' er, traun! War er von meinem Bruder,</l>
-            <l>So konnt' ihn der nicht fodern; Euer Vater</l>
-            <l>Ihn nicht verleugnen, war er auch nicht sein.</l>
-            <pb n="11"/>
-            <l>Kurz, meiner Mutter Sohn zeugt' Eures Vaters Erben,</l>
-            <l>Dem Erben kommt das Gut des Vaters zu.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ROBERT.</speaker>
-          <lg>
-            <l>Hat meines Vaters Wille keine Kraft,</l>
-            <l>Das Kind, das nicht das seine, zu enterben?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Nein, nicht mehr Kraft, mich zu enterben, Herr,</l>
-            <l>Als, wie ich glaub', er mich zu zeugen hatte.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Was willst du lieber sein? ein Faulconbridge,</l>
-            <l>Der Lehn-Besitzer wie dein Bruder, oder</l>
-            <l>Des Löwenherzens anerkannter Sohn,</l>
-            <l>Herr deines Adels, und kein Lehn dazu?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Ja, Fürstin, säh' mein Bruder aus wie ich,</l>
-            <l>Und ich wie er, Sir Roberts Ebenbild,</l>
-            <l>Und hätt' ich Beine wie zwei Reitergerten</l>
-            <l>Und Arme wie von ausgestopfter Aalhaut,</l>
-            <l>Ein dünn Gesicht, daß ich mit keiner Rose,</l>
-            <l>Ins Ohr gesteckt, mich dürfte lassen sehn,</l>
-            <l>Daß man nicht schrie': »Seht da Drei-Heller gehn!«</l>
-            <l>Und wär' ich dieses ganzen Landes Erbe:</l>
-            <l>Ich will von hier nie weichen, gäb' ich nicht</l>
-            <l>Den letzten Fußbreit hin für dies Gesicht.</l>
-            <l>Um keinen Preis würd' ich ein solcher Wicht.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Ich hab' dich gern: willst du dein Teil verlassen,</l>
-            <l>Das Land ihm übermachen und mir folgen?</l>
-            <l>Ich bin Soldat und geh' auf Frankreich los.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Bruder, nimm du mein Land, wie ich mein Los.</l>
-            <l>Gilt Eu'r Gesicht fünfhundert Pfund auch heuer,</l>
-            <l>Verkauft Ihr's für fünf Heller doch zu teuer. –</l>
-            <l>Ich folge, gnäd'ge Frau, Euch in den Tod.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <l>Nein, lieber will ich Euch vorangehn lassen.</l>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <l>Des Landes Sitte gibt den Höhern Vortritt.</l>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <l>Wie ist dein Name?</l>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Philipp, mein Fürst: mein Name so beginnt;</l>
-            <l>Des alten Roberts Eh'frau ältstes Kind.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Führ' künftig dessen Namen, dem du gleichst:</l>
-            <l>Knie' du als Philipp, doch steh auf erhöht:</l>
-            <l>Steh auf, Sir Richard und Plantagenet!</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Gebt, mütterlicher Bruder, mir die Hand:</l>
-            <l>Mein Vater gab mir Adel, Eurer Land.</l>
-            <pb n="12"/>
-            <l>Gesegnet schienen Sonne oder Sterne,</l>
-            <l>Als ich erzeugt ward in Sir Roberts Ferne.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>ELEONORE.</speaker>
-          <lg>
-            <l>Das wahre Feuer der Plantagenet!</l>
-            <l>Nennt mich Großmutter, Richard, denn ich bin's.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Von ungefähr, nicht förmlich; doch was tut's?</l>
-            <l>Geht's nicht grad' aus, so sieht man, wie man's macht:</l>
-            <l>Herein zum Fenster, oder übern Graben.</l>
-            <l>Wer nicht bei Tage gehn darf, schleicht bei Nacht,</l>
-            <l>Und, wie man dran kömmt, haben ist doch haben.</l>
-            <l>Weit oder nah, gut Schießen bringt Gewinn,</l>
-            <l>Und ich bin ich, wie ich erzeugt auch bin.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>KÖNIG JOHANN.</speaker>
-          <lg>
-            <l>Geh, Faulconbridge! Du hast, was du begehrt;</l>
-            <l>Ein armer Ritter hat dir Gut beschert. –</l>
-            <l>Kommt, Mutter! Richard, kommt! Wir müssen eilen</l>
-            <l>Nach Frankreich, Frankreich! Denn hier gilt kein Weilen.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Bruder, leb wohl! Das Glück sei dir geneigt!</l>
-            <l>Du wurdest ja in Ehrbarkeit erzeugt.</l>
-          </lg>
-          <stage>Alle ab außer der Bastard.</stage>
-          <lg>
-            <l>Um einen Schritt zur Ehre besser nun,</l>
-            <l>Doch schlimmer um viel tausend Schritte Lands.</l>
-            <l>Ich kann ein Gretchen nun zur Dame machen; –</l>
-            <l>»Habt guten Tag, Sir Richard!« – »Dank, Gesell!« –</l>
-            <l>Und wenn er Jürge heißt, nenn' ich ihn Peter:</l>
-            <l>Denn neugeschaffner Rang vergißt die Namen;</l>
-            <l>Es ist zu aufmerksam und zu vertraulich</l>
-            <l>Für unsern Hofton. – Dann mein Reisender,</l>
-            <l>An meiner Gnaden Tisch die Zähne stochernd,</l>
-            <l>Und ist mein ritterlicher Magen voll,</l>
-            <l>So saug' ich an den Zähnen und befrage</l>
-            <l>Den Schönbart aus der Fremde: »Bester Herr«, –</l>
-            <l>So auf den Arm mich stützend, fang' ich an, –</l>
-            <l>»Ich möcht' Euch bitten«, – das ist die Frage nun,</l>
-            <l>Und dann kommt Antwort wie ein Abc-Buch:</l>
-            <l>»O Herr«, sagt Antwort, »gänzlich zu Befehl,</l>
-            <l>Wie's Euch beliebt, zu Euren Diensten, Herr.« –</l>
-            <l>Sagt Frage: »Nein, ich, bester Herr, zu Euren.«</l>
-            <l>Und so, eh' Antwort weiß, was Frage will, –</l>
-            <pb n="13"/>
-            <l>Bloß mit dem hin und her Komplimentieren</l>
-            <l>Und Schwatzen von den Alpen, Apenninen,</l>
-            <l>Den Pyrenäen und dem Flusse Po</l>
-            <l>Zieht es sich bis zur Abendmahlzeit hin.</l>
-            <l>Das ist hochadlige Gesellschaft nun,</l>
-            <l>Die strebenden Gemütern ziemt, gleich mir.</l>
-            <l>Wer nicht nach Wahrnehmung der Sitte schmeckt,</l>
-            <l>Der ist ja nur ein Bastard seiner Zeit;</l>
-            <l>(Das bleib' ich zwar, mit oder ohne Beischmack:)</l>
-            <l>Und dies nicht bloß in Tracht und Lebensart,</l>
-            <l>In äußerlichem Wesen und Manier,</l>
-            <l>Nein, auch aus innern Kräften, zu erzeugen</l>
-            <l>Süß, süßes Gift für des Zeitalters Gaum.</l>
-            <l>Will ich dies schon nicht üben zum Betrug,</l>
-            <l>So will ich's doch, Betrug zu meiden, lernen:</l>
-            <l>Mir soll's die Stufen der Erhöhung ebnen. –</l>
-            <l>Wer kommt in solcher Eil'? im Reithabit?</l>
-            <l>Welch eine Frau'n-Post? Hat sie keinen Mann,</l>
-            <l>Der sich bequemt, das Horn vor ihr zu blasen?</l>
-          </lg>
-          <stage>Lady Faulconbridge und Jakob Gurney treten auf.</stage>
-          <lg>
-            <l>O weh! 's ist meine Mutter. – Nun, gute Frau,</l>
-            <l>Was bringt Euch hier so eilig an den Hof?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>LADY FAULCONBRIDGE.</speaker>
-          <lg>
-            <l>Wo ist der Schalk, dein Bruder? sag mir, wo.</l>
-            <l>Der außer Atem meine Ehre hetzt?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Mein Bruder Robert? alten Roberts Sohn?</l>
-            <l>Colbrand der Riese, der gewalt'ge Mann?</l>
-            <l>Ist es Sir Roberts Sohn, den Ihr so sucht?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>LADY FAULCONBRIDGE.</speaker>
-          <lg>
-            <l>Sir Roberts Sohn! Ja, du verwegner Bube,</l>
-            <l>Sir Roberts Sohn: was höhnest du Sir Robert?</l>
-            <l>Er ist Sir Roberts Sohn, du bist es auch.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <l>Laß, Jakob, eine Weil' uns hier allein!</l>
-        </sp>
-        <sp>
-          <speaker>GURNEY.</speaker>
-          <l>Empfehl' mich, guter Philipp.</l>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Philipp? Possen! Jakob,</l>
-            <l>Hier ist was los, sogleich erfährst du mehr.</l>
-            <stage>Gurney ab.</stage>
-            <pb n="14"/>
-            <l>Ich bin Sir Roberts Sohn, des alten, nicht:</l>
-            <l>Sir Robert konnte seinen Teil an mir</l>
-            <l>Karfreitags essen und doch Fasten halten.</l>
-            <l>Sir Robert konnte was; doch – grad' heraus:</l>
-            <l>Konnt' er mich zeugen? Nein, das konnt' er nicht:</l>
-            <l>Wir kennen ja sein Machwerk. – Gute Mutter,</l>
-            <l>Sagt also, wem verdank' ich diese Glieder?</l>
-            <l>Nie half Sir Robert, dieses Bein zu machen.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>LADY FAULCONBRIDGE.</speaker>
-          <lg>
-            <l>Verschworst auch du mit deinem Bruder dich,</l>
-            <l>Der meine Ehr' aus Klugkeit schützen sollte?</l>
-            <l>Was soll dies Höhnen, ungeschliffner Knecht?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Kein Knecht, ein Ritter, meine gute Mutter;</l>
-            <l>Ich hab' den Ritterschlag, hier auf der Schulter.</l>
-            <l>Doch, Mutter, ich bin nicht Sir Roberts Sohn;</l>
-            <l>Sir Robert und mein Erbe gab ich auf,</l>
-            <l>Nam', ehrliche Geburt, und alles fort:</l>
-            <l>Drum, gute Mutter, nennt mir meinen Vater!</l>
-            <l>Ich hoff', ein feiner Mann; wer war es, Mutter?</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>LADY FAULCONBRIDGE.</speaker>
-          <l>Hast du dem Namen Faulconbridge entsagt?</l>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <l>Entsagt von Herzen, wie dem Teufel selbst</l>
-        </sp>
-        <sp>
-          <speaker>LADY FAULCONBRIDGE.</speaker>
-          <lg>
-            <l>Dich zeugte König Richard Löwenherz.</l>
-            <l>Durch lange, heft'ge Zumutung verführt,</l>
-            <l>Nahm ich ihn auf in meines Gatten Bett.</l>
-            <l>Der Himmel mag den Fehltritt mir verzeihn!</l>
-            <l>Du bist die Frucht vom sträflichen Vergehn,</l>
-            <l>Dem ich, bedrängt, nicht konnte widerstehn.</l>
-          </lg>
-        </sp>
-        <sp>
-          <speaker>BASTARD.</speaker>
-          <lg>
-            <l>Beim Sonnenlicht! Sollt' ich zur Welt erst kommen,</l>
-            <l>So wünscht' ich keinen bessern Vater mir!</l>
-            <l>Es gibt auf Erden losgesprochne Sünden,</l>
-            <l>Und Eure ist's; Ihr fehltet nicht aus Torheit:</l>
-            <l>Ihr mußtet dem durchaus Eu'r Herz ergeben,</l>
-            <l>Als Huldigungstribut für mächt'ge Liebe,</l>
-            <l>Mit dessen Grimm und Stärke sondergleichen</l>
-            <l>Der unerschrockne Leu nicht kämpfen konnte,</l>
-            <l>Noch Richards Hand sein fürstlich Herz entziehn.</l>
-            <pb n="15"/>
-            <l>Wer mit Gewalt das Herz dem Löwen raubt,</l>
-            <l>Gewinnt von einem Weib es leicht. Ach, Mutter!</l>
-            <l>Von Herzen dank' ich dir für meinen Vater.</l>
-            <l>Wer sagen darf, daß Übles sei geschehn,</l>
-            <l>Als ich erzeugt ward, soll zur Hölle gehn.</l>
-            <l>Komm, meine Anverwandten sollst du kennen;</l>
-            <l>Sie werden sprechen: hätt'st du Nein gesagt,</l>
-            <l>Als Richard warb, das wäre Sünd' zu nennen.</l>
-            <l>Ein Lügner, wer zu widersprechen wagt!</l>
-          </lg>
-          <stage>Ab.</stage>
-        </sp>
+        <div type="scene">
+          <head>Erste Szene</head>
+          <stage>Northampton. Ein Staatszimmer im Pataste.</stage>
+          <stage>König Johann, Königin Eleonore, Pembroke, Essex, Salisbury und andre, nebst
+            Chatillon, treten auf.</stage>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Nun, Chatillon, sag, was will Frankreich uns?</l>
+          </sp>
+          <sp who="#chatillon">
+            <speaker>CHATILLON.</speaker>
+            <lg>
+              <l>So redet Frankreichs König, nach dem Gruß,</l>
+              <l>Durch meinen Vortrag zu der Majestät,</l>
+              <l>Erborgten Majestät von England hier.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <l>Erborgten Majestät? – Seltsamer Anfang!</l>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Still, gute Mutter? Hört die Botschaft an!</l>
+          </sp>
+          <sp who="#chatillon">
+            <speaker>CHATILLON.</speaker>
+            <lg>
+              <l>Philipp von Frankreich, kraft undlaut des Namens</l>
+              <l>Von deines weiland Bruder Gottfried Sohn,</l>
+              <l>Arthur Plantagenet, spricht rechtlich an</l>
+              <l>Dies schöne Eiland samt den Ländereien,</l>
+              <l>Als Irland, Poictiers, Anjou, Touraine, Maine;</l>
+              <l>Begehrend, daß du legst beiseit das Schwert,</l>
+              <l>Das dieses Erb' anmaßendlich beherrscht,</l>
+              <l>Daß Arthur es aus deiner Hand empfange,</l>
+              <l>Dein Neff' und königlicher Oberherr.</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Und wenn wir dieses weigern, was erfolgt?</l>
+          </sp>
+          <sp who="#chatillon">
+            <speaker>CHATILLON.</speaker>
+            <lg>
+              <l>Der stolze Zwang des wilden, blut'gen Kriegs,</l>
+              <l>Zu dringen auf dies abgedrungne Recht.</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Wir haben Krieg für Krieg und Blut für Blut,</l>
+              <l>Zwang wider Zwang: antworte Frankreich das!</l>
+            </lg>
+          </sp>
+          <sp who="#chatillon">
+            <speaker>CHATILLON.</speaker>
+            <lg>
+              <l>So nehmt denn meines Königs Fehderuf</l>
+              <l>Aus meinem Munde, meiner Botschaft Ziel!</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Bring' meinen ihm, und scheid' in Frieden so!</l>
+              <l>Sei du in Frankreichs Augen wie der Blitz:</l>
+              <l>Denn eh' du melden kannst, ich komme hin,</l>
+              <pb n="8"/>
+              <l>Soll man schon donnern hören mein Geschütz.</l>
+              <l>Hinweg denn! Sei du unsers Grimms Trompete</l>
+              <l>Und ernste Vorbedeutung eures Falls! –</l>
+              <l>Gebt ehrliches Geleit ihm auf dem Weg:</l>
+              <l>Besorgt es, Pembroke! – Chatillon, lebt wohl!</l>
+            </lg>
+            <stage>Chatillon und Pembroke ab.</stage>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Wie nun, mein Sohn? Hab' ich nicht stets gesagt,</l>
+              <l>Constanzens Ehrgeiz würde nimmer ruhn,</l>
+              <l>Bis sie für ihres Sohns Partei und Recht</l>
+              <l>Frankreich in Brand gesetzt und alle Welt?</l>
+              <l>Dies konnte man verhüten; es war leicht</l>
+              <l>Durch freundliche Vermittlung auszugleichen,</l>
+              <l>Was die Verwaltung zweier Reiche nun</l>
+              <l>Durch schrecklich blut'gen Ausgang muß entscheiden.</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Uns schirmt Besitzes Macht und unser Recht.</l>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Besitzes Macht weit mehr als Euer Recht,</l>
+              <l>Sonst müßt' es übel gehn mit Euch und mir.</l>
+              <l>So flüstert in das Ohr Euch mein Gewissen,</l>
+              <l>Was nur der Himmel, Ihr und ich soll wissen.</l>
+            </lg>
+            <stage>Der Sheriff von Northamptonshire tritt auf und spricht heimlich mit
+              Essex.</stage>
+          </sp>
+          <sp who="#essex">
+            <speaker>ESSEX.</speaker>
+            <lg>
+              <l>Mein Fürst, hier ist der wunderlichste Streit,</l>
+              <l>Vom Land an Euren Richterstuhl gebracht,</l>
+              <l>Wovon ich je gehört. Bring' ich die Leute?</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Ja, führt sie vor! –</l>
+            <stage>Sheriff ab.</stage>
+            <lg>
+              <l>Die Klöster und Abteien sollen zahlen</l>
+              <l>Die Kosten dieses Zugs. –</l>
+            </lg>
+            <stage>Der Sheriff kommt zurück mit Robert Faulconbridge und Philipp, seinem
+              Bastard-Bruder.</stage>
+            <l>Wer seid ihr beide?</l>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Ich Euer treuer Knecht, ein Edelmann,</l>
+              <l>Hier aus Northamptonshire, und, wie ich glaube,</l>
+              <l>Der älteste Sohn des Robert Faulconbridge,</l>
+              <l>Den Löwenherzens ruhmverleih'nde Hand</l>
+              <l>Für Kriegesdienst' im Feld zum Ritter schlug.</l>
+            </lg>
+          </sp>
+          <pb n="9"/>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Wer bist du?</l>
+          </sp>
+          <sp who="#robert">
+            <speaker>ROBERT.</speaker>
+            <l>Der Erb' und Sohn desselben Faulconbridge.</l>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Ist das der ältre, und der Erbe du?</l>
+              <l>So scheint's, ihr seid von <emph>einer</emph> Mutter nicht.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Gewiß von <emph>einer</emph> Mutter, mächt'ger König,</l>
+              <l>Das weiß man, und ich denk' auch, einem Vater:</l>
+              <l>Doch die gewisse Kenntnis dieses Punktes</l>
+              <l>Macht mit dem Himmel aus und meiner Mutter:</l>
+              <l>Ich zweifle dran, wie jeder Sohn es darf.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Pfui, grober Mann! Du schändest deine Mutter</l>
+              <l>Und kränkest ihren Ruf mit dem Verdacht.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Ich, gnäd'ge Frau? Ich habe keinen Grund;</l>
+              <l>Das schützt mein Bruder vor, ich keineswegs:</l>
+              <l>Denn wenn er es beweist, so prellt er mich</l>
+              <l>Zum mind'sten um fünfhundert Pfund des Jahrs.</l>
+              <l>Gott schütz' mein Lehn und meiner Mutter Ehre!</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Ein wackrer, dreister Bursch! – Warum spricht er,</l>
+              <l>Als Jüngstgeborner, deine Erbschaft an?</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Ich weiß nicht, außer um das Lehn zu kriegen;</l>
+              <l>Doch einmal schalt er einen Bastard mich.</l>
+              <l>Ob ich so echt erzeugt bin oder nicht.</l>
+              <l>Das leg' ich stets auf meiner Mutter Haupt;</l>
+              <l>Allein, daß ich so wohl erzeugt bin, Herr,</l>
+              <l>(Ruh' dem Gebein, das sich für mich bemüht!) –</l>
+              <l>Vergleicht nur die Gesichter, richtet selbst!</l>
+              <l>Wenn uns der alte Herr, Sir Robert, beide</l>
+              <l>Erzeugt', und dieser Sohn dem Vater gleicht, –</l>
+              <l>O alter Robert! Vater! siehe mich</l>
+              <l>Gott knieend danken, daß ich dir nicht glich!</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Nun, welch ein Tollkopf ist uns hier beschert?</l>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Er hat etwas von Löwenherzens Zügen,</l>
+              <l>Und seiner Sprache Ton ist ihm verwandt.</l>
+              <l>Erkennt Ihr nicht Merkmale meines Sohnes</l>
+              <l>Im großen Gliederbaue dieses Manns?</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Mein Auge prüfte seine Bildung wohl</l>
+              <l>Und fand sie sprechend ähnlich. – Ihr da, sprecht,</l>
+              <l>Was treibt Euch, Eures Bruders Lehn zu fodern?</l>
+            </lg>
+          </sp>
+          <pb n="10"/>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Weil er ein Halbgesicht hat, wie mein Vater,</l>
+              <l>Möcht' er mein Lehn ganz für das Halbgesicht.</l>
+              <l>Sein Groschen mit dem Halbgesicht-Gepräge</l>
+              <l>Brächt' ihm alsdann fünfhundert Pfund des Jahrs.</l>
+            </lg>
+          </sp>
+          <sp who="#robert">
+            <speaker>ROBERT.</speaker>
+            <lg>
+              <l>Mein gnäd'ger Lehnsherr, als mein Vater lebte,</l>
+              <l>Braucht' Euer Bruder meinen Vater oft, –</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Ei, Herr, damit gewinnt Ihr nicht mein Lehn:</l>
+              <l>Erzählt uns, wie er meine Mutter brauchte!</l>
+            </lg>
+          </sp>
+          <sp who="#robert">
+            <speaker>ROBERT.</speaker>
+            <lg>
+              <l>Und sandt' ihn einst auf eine Botschaft aus,</l>
+              <l>Nach Deutschland, mit dem Kaiser dort zu handeln</l>
+              <l>In wichtigen Geschäften jener Zeit.</l>
+              <l>Der König nutzte die Entfernung nun</l>
+              <l>Und wohnt' indes in meines Vaters Haus.</l>
+              <l>Wie er's erlangte, schäm' ich mich zu sagen;</l>
+              <l>Doch wahr ist wahr: es trennten meinen Vater</l>
+              <l>Von meiner Mutter Strecken See und Land</l>
+              <l>(Wie ich von meinem Vater selbst gehört),</l>
+              <l>Als dieser muntre Herr da ward erzeugt.</l>
+              <l>Auf seinem Todbett ließ er mir sein Gut</l>
+              <l>Im Testament und starb getrost darauf,</l>
+              <l>Der, meiner Mutter Sohn, sei seiner nicht;</l>
+              <l>Und wenn er's war, so kam er in die Welt</l>
+              <l>An vierzehn Wochen vor der rechten Zeit.</l>
+              <l>So gönnt mir denn, was mein ist, bester Fürst,</l>
+              <l>Des Vaters Gut nach meines Vaters Willen!</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Still! Euer Bruder ist ein echtes Kind;</l>
+              <l>Des Vaters Weib gebar ihn in der Eh',</l>
+              <l>Und wenn sie ihn betrog, ist's ihre Schuld,</l>
+              <l>Worauf es alle Männer wagen müssen,</l>
+              <l>Die Weiber nehmen. Sagt mir, wenn mein Bruder,</l>
+              <l>Der, wie Ihr sprecht, sich diesen Sohn geschafft,</l>
+              <l>Von Eurem Vater ihn gefodert hätte:</l>
+              <l>Traun, guter Freund, sein Kalb von seiner Kuh</l>
+              <l>Könnt' er behaupten gegen alle Welt;</l>
+              <l>Das könnt' er, traun! War er von meinem Bruder,</l>
+              <l>So konnt' ihn der nicht fodern; Euer Vater</l>
+              <l>Ihn nicht verleugnen, war er auch nicht sein.</l>
+              <pb n="11"/>
+              <l>Kurz, meiner Mutter Sohn zeugt' Eures Vaters Erben,</l>
+              <l>Dem Erben kommt das Gut des Vaters zu.</l>
+            </lg>
+          </sp>
+          <sp who="#robert">
+            <speaker>ROBERT.</speaker>
+            <lg>
+              <l>Hat meines Vaters Wille keine Kraft,</l>
+              <l>Das Kind, das nicht das seine, zu enterben?</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Nein, nicht mehr Kraft, mich zu enterben, Herr,</l>
+              <l>Als, wie ich glaub', er mich zu zeugen hatte.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Was willst du lieber sein? ein Faulconbridge,</l>
+              <l>Der Lehn-Besitzer wie dein Bruder, oder</l>
+              <l>Des Löwenherzens anerkannter Sohn,</l>
+              <l>Herr deines Adels, und kein Lehn dazu?</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Ja, Fürstin, säh' mein Bruder aus wie ich,</l>
+              <l>Und ich wie er, Sir Roberts Ebenbild,</l>
+              <l>Und hätt' ich Beine wie zwei Reitergerten</l>
+              <l>Und Arme wie von ausgestopfter Aalhaut,</l>
+              <l>Ein dünn Gesicht, daß ich mit keiner Rose,</l>
+              <l>Ins Ohr gesteckt, mich dürfte lassen sehn,</l>
+              <l>Daß man nicht schrie': »Seht da Drei-Heller gehn!«</l>
+              <l>Und wär' ich dieses ganzen Landes Erbe:</l>
+              <l>Ich will von hier nie weichen, gäb' ich nicht</l>
+              <l>Den letzten Fußbreit hin für dies Gesicht.</l>
+              <l>Um keinen Preis würd' ich ein solcher Wicht.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Ich hab' dich gern: willst du dein Teil verlassen,</l>
+              <l>Das Land ihm übermachen und mir folgen?</l>
+              <l>Ich bin Soldat und geh' auf Frankreich los.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Bruder, nimm du mein Land, wie ich mein Los.</l>
+              <l>Gilt Eu'r Gesicht fünfhundert Pfund auch heuer,</l>
+              <l>Verkauft Ihr's für fünf Heller doch zu teuer. –</l>
+              <l>Ich folge, gnäd'ge Frau, Euch in den Tod.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <l>Nein, lieber will ich Euch vorangehn lassen.</l>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <l>Des Landes Sitte gibt den Höhern Vortritt.</l>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <l>Wie ist dein Name?</l>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Philipp, mein Fürst: mein Name so beginnt;</l>
+              <l>Des alten Roberts Eh'frau ältstes Kind.</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Führ' künftig dessen Namen, dem du gleichst:</l>
+              <l>Knie' du als Philipp, doch steh auf erhöht:</l>
+              <l>Steh auf, Sir Richard und Plantagenet!</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Gebt, mütterlicher Bruder, mir die Hand:</l>
+              <l>Mein Vater gab mir Adel, Eurer Land.</l>
+              <pb n="12"/>
+              <l>Gesegnet schienen Sonne oder Sterne,</l>
+              <l>Als ich erzeugt ward in Sir Roberts Ferne.</l>
+            </lg>
+          </sp>
+          <sp who="#eleonore">
+            <speaker>ELEONORE.</speaker>
+            <lg>
+              <l>Das wahre Feuer der Plantagenet!</l>
+              <l>Nennt mich Großmutter, Richard, denn ich bin's.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Von ungefähr, nicht förmlich; doch was tut's?</l>
+              <l>Geht's nicht grad' aus, so sieht man, wie man's macht:</l>
+              <l>Herein zum Fenster, oder übern Graben.</l>
+              <l>Wer nicht bei Tage gehn darf, schleicht bei Nacht,</l>
+              <l>Und, wie man dran kömmt, haben ist doch haben.</l>
+              <l>Weit oder nah, gut Schießen bringt Gewinn,</l>
+              <l>Und ich bin ich, wie ich erzeugt auch bin.</l>
+            </lg>
+          </sp>
+          <sp who="#koenig_johann">
+            <speaker>KÖNIG JOHANN.</speaker>
+            <lg>
+              <l>Geh, Faulconbridge! Du hast, was du begehrt;</l>
+              <l>Ein armer Ritter hat dir Gut beschert. –</l>
+              <l>Kommt, Mutter! Richard, kommt! Wir müssen eilen</l>
+              <l>Nach Frankreich, Frankreich! Denn hier gilt kein Weilen.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Bruder, leb wohl! Das Glück sei dir geneigt!</l>
+              <l>Du wurdest ja in Ehrbarkeit erzeugt.</l>
+            </lg>
+            <stage>Alle ab außer der Bastard.</stage>
+            <lg>
+              <l>Um einen Schritt zur Ehre besser nun,</l>
+              <l>Doch schlimmer um viel tausend Schritte Lands.</l>
+              <l>Ich kann ein Gretchen nun zur Dame machen; –</l>
+              <l>»Habt guten Tag, Sir Richard!« – »Dank, Gesell!« –</l>
+              <l>Und wenn er Jürge heißt, nenn' ich ihn Peter:</l>
+              <l>Denn neugeschaffner Rang vergißt die Namen;</l>
+              <l>Es ist zu aufmerksam und zu vertraulich</l>
+              <l>Für unsern Hofton. – Dann mein Reisender,</l>
+              <l>An meiner Gnaden Tisch die Zähne stochernd,</l>
+              <l>Und ist mein ritterlicher Magen voll,</l>
+              <l>So saug' ich an den Zähnen und befrage</l>
+              <l>Den Schönbart aus der Fremde: »Bester Herr«, –</l>
+              <l>So auf den Arm mich stützend, fang' ich an, –</l>
+              <l>»Ich möcht' Euch bitten«, – das ist die Frage nun,</l>
+              <l>Und dann kommt Antwort wie ein Abc-Buch:</l>
+              <l>»O Herr«, sagt Antwort, »gänzlich zu Befehl,</l>
+              <l>Wie's Euch beliebt, zu Euren Diensten, Herr.« –</l>
+              <l>Sagt Frage: »Nein, ich, bester Herr, zu Euren.«</l>
+              <l>Und so, eh' Antwort weiß, was Frage will, –</l>
+              <pb n="13"/>
+              <l>Bloß mit dem hin und her Komplimentieren</l>
+              <l>Und Schwatzen von den Alpen, Apenninen,</l>
+              <l>Den Pyrenäen und dem Flusse Po</l>
+              <l>Zieht es sich bis zur Abendmahlzeit hin.</l>
+              <l>Das ist hochadlige Gesellschaft nun,</l>
+              <l>Die strebenden Gemütern ziemt, gleich mir.</l>
+              <l>Wer nicht nach Wahrnehmung der Sitte schmeckt,</l>
+              <l>Der ist ja nur ein Bastard seiner Zeit;</l>
+              <l>(Das bleib' ich zwar, mit oder ohne Beischmack:)</l>
+              <l>Und dies nicht bloß in Tracht und Lebensart,</l>
+              <l>In äußerlichem Wesen und Manier,</l>
+              <l>Nein, auch aus innern Kräften, zu erzeugen</l>
+              <l>Süß, süßes Gift für des Zeitalters Gaum.</l>
+              <l>Will ich dies schon nicht üben zum Betrug,</l>
+              <l>So will ich's doch, Betrug zu meiden, lernen:</l>
+              <l>Mir soll's die Stufen der Erhöhung ebnen. –</l>
+              <l>Wer kommt in solcher Eil'? im Reithabit?</l>
+              <l>Welch eine Frau'n-Post? Hat sie keinen Mann,</l>
+              <l>Der sich bequemt, das Horn vor ihr zu blasen?</l>
+            </lg>
+            <stage>Lady Faulconbridge und Jakob Gurney treten auf.</stage>
+            <lg>
+              <l>O weh! 's ist meine Mutter. – Nun, gute Frau,</l>
+              <l>Was bringt Euch hier so eilig an den Hof?</l>
+            </lg>
+          </sp>
+          <sp who="#lady_faulconbridge">
+            <speaker>LADY FAULCONBRIDGE.</speaker>
+            <lg>
+              <l>Wo ist der Schalk, dein Bruder? sag mir, wo.</l>
+              <l>Der außer Atem meine Ehre hetzt?</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Mein Bruder Robert? alten Roberts Sohn?</l>
+              <l>Colbrand der Riese, der gewalt'ge Mann?</l>
+              <l>Ist es Sir Roberts Sohn, den Ihr so sucht?</l>
+            </lg>
+          </sp>
+          <sp who="#lady_faulconbridge">
+            <speaker>LADY FAULCONBRIDGE.</speaker>
+            <lg>
+              <l>Sir Roberts Sohn! Ja, du verwegner Bube,</l>
+              <l>Sir Roberts Sohn: was höhnest du Sir Robert?</l>
+              <l>Er ist Sir Roberts Sohn, du bist es auch.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <l>Laß, Jakob, eine Weil' uns hier allein!</l>
+          </sp>
+          <sp who="#gurney">
+            <speaker>GURNEY.</speaker>
+            <l>Empfehl' mich, guter Philipp.</l>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Philipp? Possen! Jakob,</l>
+              <l>Hier ist was los, sogleich erfährst du mehr.</l>
+              <stage>Gurney ab.</stage>
+              <pb n="14"/>
+              <l>Ich bin Sir Roberts Sohn, des alten, nicht:</l>
+              <l>Sir Robert konnte seinen Teil an mir</l>
+              <l>Karfreitags essen und doch Fasten halten.</l>
+              <l>Sir Robert konnte was; doch – grad' heraus:</l>
+              <l>Konnt' er mich zeugen? Nein, das konnt' er nicht:</l>
+              <l>Wir kennen ja sein Machwerk. – Gute Mutter,</l>
+              <l>Sagt also, wem verdank' ich diese Glieder?</l>
+              <l>Nie half Sir Robert, dieses Bein zu machen.</l>
+            </lg>
+          </sp>
+          <sp who="#lady_faulconbridge">
+            <speaker>LADY FAULCONBRIDGE.</speaker>
+            <lg>
+              <l>Verschworst auch du mit deinem Bruder dich,</l>
+              <l>Der meine Ehr' aus Klugkeit schützen sollte?</l>
+              <l>Was soll dies Höhnen, ungeschliffner Knecht?</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Kein Knecht, ein Ritter, meine gute Mutter;</l>
+              <l>Ich hab' den Ritterschlag, hier auf der Schulter.</l>
+              <l>Doch, Mutter, ich bin nicht Sir Roberts Sohn;</l>
+              <l>Sir Robert und mein Erbe gab ich auf,</l>
+              <l>Nam', ehrliche Geburt, und alles fort:</l>
+              <l>Drum, gute Mutter, nennt mir meinen Vater!</l>
+              <l>Ich hoff', ein feiner Mann; wer war es, Mutter?</l>
+            </lg>
+          </sp>
+          <sp who="#lady_faulconbridge">
+            <speaker>LADY FAULCONBRIDGE.</speaker>
+            <l>Hast du dem Namen Faulconbridge entsagt?</l>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <l>Entsagt von Herzen, wie dem Teufel selbst</l>
+          </sp>
+          <sp who="#lady_faulconbridge">
+            <speaker>LADY FAULCONBRIDGE.</speaker>
+            <lg>
+              <l>Dich zeugte König Richard Löwenherz.</l>
+              <l>Durch lange, heft'ge Zumutung verführt,</l>
+              <l>Nahm ich ihn auf in meines Gatten Bett.</l>
+              <l>Der Himmel mag den Fehltritt mir verzeihn!</l>
+              <l>Du bist die Frucht vom sträflichen Vergehn,</l>
+              <l>Dem ich, bedrängt, nicht konnte widerstehn.</l>
+            </lg>
+          </sp>
+          <sp who="#bastard">
+            <speaker>BASTARD.</speaker>
+            <lg>
+              <l>Beim Sonnenlicht! Sollt' ich zur Welt erst kommen,</l>
+              <l>So wünscht' ich keinen bessern Vater mir!</l>
+              <l>Es gibt auf Erden losgesprochne Sünden,</l>
+              <l>Und Eure ist's; Ihr fehltet nicht aus Torheit:</l>
+              <l>Ihr mußtet dem durchaus Eu'r Herz ergeben,</l>
+              <l>Als Huldigungstribut für mächt'ge Liebe,</l>
+              <l>Mit dessen Grimm und Stärke sondergleichen</l>
+              <l>Der unerschrockne Leu nicht kämpfen konnte,</l>
+              <l>Noch Richards Hand sein fürstlich Herz entziehn.</l>
+              <pb n="15"/>
+              <l>Wer mit Gewalt das Herz dem Löwen raubt,</l>
+              <l>Gewinnt von einem Weib es leicht. Ach, Mutter!</l>
+              <l>Von Herzen dank' ich dir für meinen Vater.</l>
+              <l>Wer sagen darf, daß Übles sei geschehn,</l>
+              <l>Als ich erzeugt ward, soll zur Hölle gehn.</l>
+              <l>Komm, meine Anverwandten sollst du kennen;</l>
+              <l>Sie werden sprechen: hätt'st du Nein gesagt,</l>
+              <l>Als Richard warb, das wäre Sünd' zu nennen.</l>
+              <l>Ein Lügner, wer zu widersprechen wagt!</l>
+            </lg>
+            <stage>Ab.</stage>
+          </sp>
+        </div>
       </div>
       <pb n="16"/>
       <div type="act">
@@ -3653,7 +3743,7 @@
               <l>Schütt' aus dein Wetter! – Wie geht in Frankreich alles?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Von Frankreich her nach England. Niemals ward</l>
@@ -3674,7 +3764,7 @@
               <l>Und sie es nicht gehört?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mein Fürst, ihr Ohr</l>
@@ -3696,7 +3786,7 @@
               <l>Das, wie du aussagst, hier gelandet ist?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Unter dem Dauphin.</l>
             <stage>Der Bastard und Peter von Pomfret treten auf.</stage>
@@ -3816,7 +3906,7 @@
               <l>Und der sei du!</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Von Herzen gern, mein Fürst.</l>
             <stage>Ab.</stage>
@@ -4832,7 +4922,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Herr, Euer tapfrer Vetter, Faulconbridge,</l>
@@ -4844,7 +4934,7 @@
             <speaker>KÖNIG JOHANN.</speaker>
             <l>Sagt ihm, nach Swinstead, dort in die Abtei.</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Seid gutes Mutes, denn die große Hülfsmacht,</l>
@@ -5000,7 +5090,7 @@
             </lg>
             <stage>Ein Bote kommt.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <l>Wo ist mein Prinz, der Dauphin?</l>
           </sp>
@@ -5008,7 +5098,7 @@
             <speaker>LOUIS.</speaker>
             <l>Hier; was gibt's?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Graf Melun fiel, die englischen Barone</l>
@@ -5028,7 +5118,7 @@
               <l>Eh' irre Dunkelheit die Heere schied?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <l>Wer es auch sagte, es ist wahr, mein Fürst.</l>
           </sp>

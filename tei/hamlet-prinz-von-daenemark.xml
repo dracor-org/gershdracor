@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Hamlet. Prinz von Dänemark</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="263" to="387">263–387</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Hamlet. Prinz von
+              Dänemark</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >4</biblScope>: Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="263" to="387">263–387</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -190,7 +186,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000014" passive="http://www.wikidata.org/entity/Q41567"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000014"
+        passive="http://www.wikidata.org/entity/Q41567"/>
     </listRelation>
   </standOff>
   <text>
@@ -3289,7 +3286,7 @@
               und Komplimente sind <pb n="307"/> das Zubehör der Bewillkommnung. Laßt mich euch auf
               diese Weise begrüßen, damit nicht mein Benehmen gegen die Schauspieler (das, sag' ich
               euch, sich äußerlich gut aus nehmen muß) einem Empfang ähnlicher sähe, als der eurige.
-              Ihr seid willkommen, aber mein Oheim- Vater und meine Tante-Mutter irren sich.</p>
+              Ihr seid willkommen, aber mein Oheim-Vater und meine Tante-Mutter irren sich.</p>
           </sp>
           <sp who="#gueldenstern">
             <speaker>GÜLDENSTERN.</speaker>

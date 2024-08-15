@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Der Sturm</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="595" to="667">595–667</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Der Sturm</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische
+            Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="595" to="667">595–667</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,68 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <person xml:id="schiffspatron" sex="MALE">
+          <persName>Ein Schiffspatron</persName>
+        </person>
+        <person xml:id="bootsmann" sex="MALE">
+          <persName>Ein Bootsmann</persName>
+        </person>
+        <person xml:id="alonso" sex="MALE">
+          <persName>Alonso</persName>
+        </person>
+        <person xml:id="antonio" sex="MALE">
+          <persName>Antonio</persName>
+        </person>
+        <person xml:id="gonzalo" sex="MALE">
+          <persName>Gonzalo</persName>
+        </person>
+        <person xml:id="sebastian" sex="MALE">
+          <persName>Sebastian</persName>
+        </person>
+        <personGrp xml:id="matrosen" sex="MALE">
+          <name>Matrosen</name>
+        </personGrp>
+        <person xml:id="miranda" sex="FEMALE">
+          <persName>Miranda</persName>
+        </person>
+        <person xml:id="prospero" sex="MALE">
+          <persName>Prospero</persName>
+        </person>
+        <person xml:id="ariel" sex="UNKNOWN">
+          <persName>Ariel</persName>
+        </person>
+        <person xml:id="caliban" sex="MALE">
+          <persName>Caliban</persName>
+        </person>
+        <personGrp xml:id="zerstreute_stimmen_chor" sex="UNKNOWN">
+          <name>Zerstreute Stimmen/Chor</name>
+        </personGrp>
+        <person xml:id="ferdinand" sex="MALE">
+          <persName>Ferdinand</persName>
+        </person>
+        <person xml:id="adrian" sex="MALE">
+          <persName>Adrian</persName>
+        </person>
+        <person xml:id="francisco" sex="MALE">
+          <persName>Francisco</persName>
+        </person>
+        <person xml:id="trinculo" sex="MALE">
+          <persName>Trinculo</persName>
+        </person>
+        <person xml:id="stephano" sex="MALE">
+          <persName>Stephano</persName>
+        </person>
+        <person xml:id="iris" sex="FEMALE">
+          <persName>Iris</persName>
+        </person>
+        <person xml:id="ceres" sex="FEMALE">
+          <persName>Ceres</persName>
+        </person>
+        <person xml:id="juno" sex="FEMALE">
+          <persName>Juno</persName>
+        </person>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Comedy</term>
@@ -78,7 +136,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000006" passive="http://www.wikidata.org/entity/Q86440"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000006"
+        passive="http://www.wikidata.org/entity/Q86440"/>
     </listRelation>
   </standOff>
   <text>
@@ -1237,14 +1296,14 @@
               <l>Horch! Horch!</l>
             </lg>
           </sp>
-          <sp who="#zerstreute_stimmen">
+          <sp who="#zerstreute_stimmen_chor">
             <speaker>ZERSTREUTE STIMMEN.</speaker>
             <lg>
               <l>Wau! Wau!</l>
               <l>Es bellt der Hund:</l>
             </lg>
           </sp>
-          <sp who="#zerstreute_stimmen">
+          <sp who="#zerstreute_stimmen_chor">
             <speaker>ZERSTREUTE STIMMEN.</speaker>
             <lg>
               <l>Wau! Wau!</l>
@@ -1281,7 +1340,7 @@
               <l>Da horch! ihr Glöcklein – Bim! Bim! Bim!</l>
             </lg>
           </sp>
-          <sp who="#chor">
+          <sp who="#zerstreute_stimmen_chor">
             <speaker>CHOR.</speaker>
             <l>Bim! Bim! Bim!</l>
           </sp>
@@ -3107,8 +3166,8 @@
               <l>Will ich Euch sein: Ihr wollet oder nicht.</l>
             </lg>
           </sp>
-          <sp who="#fbrdinand">
-            <speaker>FBRDINAND.</speaker>
+          <sp who="#ferdinand">
+            <speaker>FERDINAND.</speaker>
             <lg>
               <l>Geliebte, Herrin, und auf immer ich</l>
               <l>So untertänig!</l>
@@ -3134,8 +3193,8 @@
               <l>Auf eine halbe Stunde!</l>
             </lg>
           </sp>
-          <sp who="#fbrdinand">
-            <speaker>FBRDINAND.</speaker>
+          <sp who="#ferdinand">
+            <speaker>FERDINAND.</speaker>
             <l>Tausend, tausendmal!</l>
             <stage>Beide ab.</stage>
           </sp>

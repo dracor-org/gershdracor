@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich IV. Zweiter Teil</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="277" to="384">277–384</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich IV. Zweiter
+              Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="277" to="384">277–384</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,157 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="geruecht" sex="UNKNOWN">
+            <persName>Gerücht</persName>
+          </person>
+          <person xml:id="lord_bardolph" sex="MALE">
+            <persName>Lord Bardolph</persName>
+          </person>
+          <person xml:id="pfoertner" sex="MALE">
+            <persName>Pförtner</persName>
+          </person>
+          <person xml:id="northumberland" sex="MALE">
+            <persName>Graf von Northumberland</persName>
+          </person>
+          <person xml:id="travers" sex="MALE">
+            <persName>Travers</persName>
+          </person>
+          <person xml:id="morton" sex="MALE">
+            <persName>Morton</persName>
+          </person>
+          <person xml:id="falstaff" sex="MALE">
+            <persName>Sir John Falstaff</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Ein Page</persName>
+          </person>
+          <person xml:id="oberrichter" sex="MALE">
+            <persName>Der Oberrichter von der königlichen Bank</persName>
+          </person>
+          <person xml:id="unterbeamter" sex="MALE">
+            <persName>Ein Unterbeamter</persName>
+          </person>
+          <person xml:id="erzbischof" sex="MALE">
+            <persName>Scroop, Erzbischof von York</persName>
+          </person>
+          <person xml:id="mowbray" sex="MALE">
+            <persName>Lord Mowbray</persName>
+          </person>
+          <person xml:id="hastings" sex="MALE">
+            <persName>Lord Hastings</persName>
+          </person>
+          <person xml:id="wirtin" sex="FEMALE">
+            <persName>Frau Hurtig (Wirtin)</persName>
+          </person>
+          <person xml:id="klaue" sex="MALE">
+            <persName>Klaue</persName>
+          </person>
+          <person xml:id="schlinge" sex="MALE">
+            <persName>Schlinge</persName>
+          </person>
+          <person xml:id="gower" sex="MALE">
+            <persName>Gower</persName>
+          </person>
+          <person xml:id="prinz_heinrich_koenig" sex="MALE">
+            <persName>Prinz Heinrich von Wales/Heinrich V.</persName>
+          </person>
+          <person xml:id="poins" sex="MALE">
+            <persName>Poins</persName>
+          </person>
+          <person xml:id="bardolph" sex="MALE">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="lady_northumberland" sex="FEMALE">
+            <persName>Lady Northumberland</persName>
+          </person>
+          <person xml:id="lady_percy" sex="FEMALE">
+            <persName>Lady Percy</persName>
+          </person>
+          <person xml:id="erster_kuefer" sex="MALE">
+            <persName>Erster Küfer</persName>
+          </person>
+          <person xml:id="zweiter_kuefer" sex="MALE">
+            <persName>Zweiter Küfer</persName>
+          </person>
+          <person xml:id="dortchen" sex="FEMALE">
+            <persName>Dortchen Lakenreißer</persName>
+          </person>
+          <person xml:id="kuefer" sex="MALE">
+            <persName>Ein Küfer</persName>
+          </person>
+          <person xml:id="pistol" sex="MALE">
+            <persName>Pistol</persName>
+          </person>
+          <person xml:id="peto" sex="MALE">
+            <persName>Peto</persName>
+          </person>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich IV.</persName>
+          </person>
+          <person xml:id="warwick" sex="MALE">
+            <persName>Graf von Warwick</persName>
+          </person>
+          <person xml:id="schaal" sex="MALE">
+            <persName>Schaal</persName>
+          </person>
+          <person xml:id="stille" sex="MALE">
+            <persName>Stille</persName>
+          </person>
+          <person xml:id="schimmelig" sex="MALE">
+            <persName>Schimmelig</persName>
+          </person>
+          <person xml:id="schatte" sex="MALE">
+            <persName>Schatte</persName>
+          </person>
+          <person xml:id="warze" sex="MALE">
+            <persName>Warze</persName>
+          </person>
+          <person xml:id="schwaechlich" sex="MALE">
+            <persName>Schwächlich</persName>
+          </person>
+          <person xml:id="bullenkalb" sex="MALE">
+            <persName>Bullenkalb</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Ein Bote</persName>
+          </person>
+          <person xml:id="westmoreland" sex="MALE">
+            <persName>Graf von Westmoreland</persName>
+          </person>
+          <person xml:id="prinz_johann" sex="MALE">
+            <persName>Prinz Johann von Lancaster</persName>
+          </person>
+          <person xml:id="colevile" sex="MALE">
+            <persName>Sir John Colevile</persName>
+          </person>
+          <person xml:id="prinz_humphrey" sex="MALE">
+            <persName>Prinz Humphrey von Gloster</persName>
+          </person>
+          <person xml:id="clarence" sex="MALE">
+            <persName>Thomas, Herzog von Clarence</persName>
+          </person>
+          <person xml:id="harcourt" sex="MALE">
+            <persName>Harcourt</persName>
+          </person>
+          <person xml:id="david" sex="MALE">
+            <persName>David</persName>
+          </person>
+          <personGrp xml:id="die_uebrigen_v-2" sex="MALE">
+            <name>Die Übrigen (V/2)</name>
+          </personGrp>
+          <person xml:id="erster_buettel" sex="MALE">
+            <persName>Erster Büttel</persName>
+          </person>
+          <person xml:id="erster_kammerdiener" sex="MALE">
+            <persName>Erster Kammerdiener</persName>
+          </person>
+          <person xml:id="zweiter_kammerdiener" sex="MALE">
+            <persName>Zweiter Kammerdiener</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +225,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000017" passive="http://www.wikidata.org/entity/Q1232349"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000017"
+        passive="http://www.wikidata.org/entity/Q1232349"/>
     </listRelation>
   </standOff>
   <text>
@@ -146,7 +294,7 @@
         <head>Prolog</head>
         <stage>Warkworth. Vor Northumberlands Burg.</stage>
         <stage>Gerücht, ganz mit Zungen bemalt, tritt ein.</stage>
-        <sp>
+        <sp who="#geruecht">
           <speaker>GERÜCHT.</speaker>
           <lg>
             <l>Die Ohren auf! Denn wer von euch verstopft</l>
@@ -1302,7 +1450,7 @@
               Buch. Lieber Meister Klaue, packt ihn fest! Lieber Meister Schlinge, laßt ihn nicht
               entwischen! Er kommt kontinuierlich an die Pasteten-Ecke, <pb n="302"/> mit Euer
               Mannhaften Verlaub, um einen Sattel zu kaufen; und er ist im Leoparden-Kopf in der
-              Lombard- Straße bei Meister Glatt, dem Seidenhändler, (zum Essen) irritiert. Ich bitte
+              Lombard-Straße bei Meister Glatt, dem Seidenhändler, (zum Essen) irritiert. Ich bitte
               Euch, da mein Prozeß eingeleitet und meine Geschichte so offenbar vor aller Welt
               bekannt ist, so bringt ihn zur Verantwortung! Hundert Mark borgen, wenn man sich
               selbst kaum zu bergen weiß, das ist viel für eine arme, verlassene Frau; ich habe
@@ -1619,7 +1767,7 @@
           <head>Zweite Szene</head>
           <stage>Eine andre Straße in London.</stage>
           <stage>Prinz Heinrich und Poins treten auf.</stage>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Glaube mir, ich bin ungemein müde.</p>
           </sp>
@@ -1629,7 +1777,7 @@
               hohem Blut machen dürfte.</p>
           </sp>
           <pb n="307"/>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Mein' Treu', sie macht sich an mich, ob meine Hoheit gleich erröten muß, es
               anzuerkennen. Nimmt es sich nicht gemein an mir aus, Verlangen nach Dünnbier zu
@@ -1640,7 +1788,7 @@
             <p>Ein Prinz sollte nicht so obenhin studiert haben, daß ihm eine so matte Komposition
               nur in den Sinn käme.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Vielleicht war dann mein Appetit nicht prinzlich erzeugt, denn fürwahr, jetzt kommt
               mir nur die arme Kreatur Dünnbier in den Sinn. Aber gewiß, diese demütigen Rücksichten
@@ -1662,7 +1810,7 @@
               gearbeitet habt! Sagt mir, wie viel junge Prinzen würden das wohl tun, deren Väter so
               krank wären, als Eurer gegenwärtig ist?</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Soll ich dir etwas sagen, Poins?</p>
           </sp>
@@ -1670,7 +1818,7 @@
             <speaker>POINS.</speaker>
             <p>Ja, und daß es nur etwas Vortreffliches ist.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Es reicht hin für witzige Köpfe, die nicht vornehmer sind als du.</p>
           </sp>
@@ -1678,7 +1826,7 @@
             <speaker>POINS.</speaker>
             <p>Nur zu, ich bin schon auf das Etwas gerüstet, das Ihr sagen wollt.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Gut, ich sage dir also, es schickt sich nicht für mich, traurig zu sein, da mein
               Vater krank ist; wiewohl ich dir sagen kann: – als einem, den es mir in Ermangelung
@@ -1689,7 +1837,7 @@
             <speaker>POINS.</speaker>
             <p>Schwerlich bei einer solchen Veranlassung.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Bei dieser Rechten, du denkst, ich stünde eben so stark in des Teufels Buch als du
               und Falstaff, wegen Halsstarrigkeit und Verstocktheit. Das Ende wird's ausweisen. Ich
@@ -1701,7 +1849,7 @@
             <speaker>POINS.</speaker>
             <p>Aus welchem Grunde?</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was würdest du von mir denken, wenn ich weinte?</p>
           </sp>
@@ -1709,7 +1857,7 @@
             <speaker>POINS.</speaker>
             <p>Ich würde denken, du seiest der fürstlichste Heuchler.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Das würde jedermanns Gedanke sein, und du bist ein gesegneter Bursch, daß du denkst,
               wie jedermann denkt: keines Menschen Gedanken auf der Welt halten sich mehr auf der
@@ -1720,7 +1868,7 @@
             <speaker>POINS.</speaker>
             <p>Nun, weil Ihr so lüderlich und so sehr mit Falstaff verstrickt gewesen seid.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Und mit dir.</p>
           </sp>
@@ -1731,7 +1879,7 @@
               ein tüchtiger Geselle auf meine eigne Hand, und ich gestehe, diese beiden Dinge kann
               ich nicht ändern. Ei der Tausend, da kommt Bardolph!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Und der Junge, den ich dem Falstaff gab. Er hat ihn von mir als einen Christen
               bekommen, und sieh nur, ob der fette Schlingel nicht einen Affen aus ihm gemacht</p>
@@ -1741,7 +1889,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>Gott erhalte Euer Gnaden!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Und Eure auch, mein sehr edler Bardolph!</p>
           </sp>
@@ -1759,7 +1907,7 @@
               gewahr, und ich dachte, er hätte zwei Löcher in der Bierschenkin ihren neuen Rock
               gemacht und guckte da durch.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Hat der Junge nicht zugelernt?</p>
           </sp>
@@ -1771,7 +1919,7 @@
             <speaker>PAGE.</speaker>
             <p>Fort, du Schelm von Altheas Traum, fort!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Erkläre uns das, Junge: was für ein Traum?</p>
           </sp>
@@ -1780,7 +1928,7 @@
             <p>Ei, gnädiger Herr, Althea träumte, sie käme mit einem Feuerbrande nieder, und darum
               nenne ich ihn ihren Traum.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Eines Talers werte, gute Auslegung, und da hast du ihn, Junge! <stage>Gibt ihm
                 Geld.</stage>
@@ -1796,7 +1944,7 @@
             <p>Wenn ihr nicht sorgt, daß ihr ihn unter euch aufhängt, so geschieht dem Galgen zu
               nah.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Nun, wie geht's deinem Herrn, Bardolph?</p>
           </sp>
@@ -1818,7 +1966,7 @@
             <p>Freilich, sein unsterbliches Teil braucht einen Arzt, aber das kümmert ihn nicht; ist
               das schon krank, so stirbt es doch nicht.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ich erlaube dem Kropf, so vertraut mit mir zu tun wie mein Hund, und er behauptet
               seinen Platz: denn seht nur, wie er schreibt!</p>
@@ -1829,10 +1977,11 @@
             <p>»John Falstaff, Ritter« – jedermann muß das wissen, so oft er Gelegenheit hat, sich
               zu nennen. Grade wie die Leute, die mit dem König verwandt sind, denn die stechen sich
               niemals in den Finger, ohne zu sagen: »Da wird etwas von des Königs Blut vergossen.« –
-              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb n="310"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
+              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb
+                n="310"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
               des Königs armer Vetter, mein Herr.«</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ja, sie wollen mit uns verwandt sein, und wenn sie es von Japhet ableiten. Aber den
               Brief!</p>
@@ -1842,7 +1991,7 @@
             <p>»Sir John Falstaff, Ritter, dem Sohne des Königs, der seinem Vater am nächsten,
               Heinrich, Prinzen von Wales, Gruß.« – Ei, das ist ein Attestat.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Still!</p>
           </sp>
@@ -1858,7 +2007,7 @@
               John für ganz Europa.«</p>
             <p>Mein Prinz, ich will diesen Brief in Sekt tauchen und ihn zwingen, ihn zu essen.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Das hieße ihn zwingen, seine eignen Worte hinunter zu schlucken. Aber geht Ihr so mit
               mir um, Eduard? Muß ich Eure Schwester heiraten?</p>
@@ -1867,7 +2016,7 @@
             <speaker>POINS.</speaker>
             <p>Wäre der Dirne nur nichts Geringeres beschert! Aber gesagt habe ich es nie.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>So treiben wir Possen mit der Zeit, und die Geister der Weisen sitzen in den Wolken
               und spotten unser. – Ist Euer Herr hier in London?</p>
@@ -1876,7 +2025,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>Ja, gnädiger Herr.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Wo ißt er zu Abend? – Mästet sich der alte Eber noch auf dem alten Koben?</p>
           </sp>
@@ -1884,7 +2033,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>An dem alten Platze, gnädiger Herr: zu Eastcheap.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was hat er für Gesellschaft?</p>
           </sp>
@@ -1892,7 +2041,7 @@
             <speaker>BARDOLPH.</speaker>
             <p>Ephesier, gnädiger Herr: von der alten Kirche.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Essen Weiber mit ihm?</p>
           </sp>
@@ -1901,7 +2050,7 @@
             <p>Keine, gnädiger Herr, als die alte Frau Hurtig und Jungfer Dortchen Lakenreißer.</p>
           </sp>
           <pb n="311"/>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was mag das für eine Heidin sein?</p>
           </sp>
@@ -1909,7 +2058,7 @@
             <speaker>PAGE.</speaker>
             <p>Eine artige Mamsell, Herr, und eine Verwandte meines Herrn.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Grade so verwandt wie die Gemeinde-Kühe dem Stadtbullen. – Sollen wir sie beim
               Abendessen beschleichen, Eduard?</p>
@@ -1918,7 +2067,7 @@
             <speaker>POINS.</speaker>
             <p>Ich bin Euer Schatten, gnädiger Herr, ich folge Euch.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>He! Du Bursch, – und Ihr, Bardolph! – sagt eurem Herrn kein Wort, daß ich schon in
               die Stadt gekommen bin! Da habt ihr was für euer Schweigen!</p>
@@ -1931,7 +2080,7 @@
             <speaker>PAGE.</speaker>
             <p>Und was meine betrifft, Herr, ich will sie regieren.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Lebt denn wohl, geht!</p>
             <stage>Bardolph und Page ab.</stage>
@@ -1941,7 +2090,7 @@
             <speaker>POINS.</speaker>
             <p>Das versichre ich Euch, so gemein wie der Weg von London nach St. Albans.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Wie könnten wir den Falstaff heute abend in seinen wahren Farben sehen, ohne selbst
               gesehen zu werden?</p>
@@ -1951,7 +2100,7 @@
             <p>Stecken wir uns in zwei lederne Wämser und Schürzen und warten ihm bei Tische auf wie
               Küfer!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Von einem Gott zu einem Stier? Eine schwere Herabsetzung! Sie war Jupiters Fall. Aus
               einem Prinzen in einen Kellerjungen? Eine niedrige Verwandlung! Sie soll die meinige
@@ -2531,7 +2680,8 @@
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Wahrhaftig, und du warst wie ein Kirchturm hinter ihm drein. Du verwettertes,
-              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb n="321"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
+              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb
+                n="321"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
               den Himmel zurecht zu flicken?</p>
             <stage>Im Hintergrunde erscheinen Prinz Heinrich und Poins, in Küfer verkleidet.</stage>
           </sp>
@@ -2574,7 +2724,7 @@
               so ein Gesell: das Gewicht eines Haars wird zwischen ihnen der einen Schale den
               Ausschlag geben.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Sollte man dieser Nabe von einem Rade nicht die Ohren abschneiden?</p>
           </sp>
@@ -2582,7 +2732,7 @@
             <speaker>POINS.</speaker>
             <p>Laßt uns ihn vor den Augen seiner Hure prügeln!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Seht doch, läßt sich der welke Alte nicht den Kopf krauen wie ein Papagei?</p>
           </sp>
@@ -2595,7 +2745,7 @@
             <p>Küß mich, Dortchen!</p>
           </sp>
           <pb n="322"/>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Saturn und Venus heuer in Konjunktion! Was sagt der Kalender dazu?</p>
           </sp>
@@ -2635,7 +2785,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Was Sekt, Franz!</p>
           </sp>
-          <sp who="#prinz_heinrich #poins">
+          <sp who="#prinz_heinrich_koenig #poins">
             <speaker>PRINZ HEINRICH UND POINS</speaker>
             <stage>hervortretend.</stage>
             <p>Gleich, Herr! gleich!</p>
@@ -2644,7 +2794,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Ha! ein Bastard-Sohn des Königs. Und bist du nicht Poins sein Bruder?</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ei, du Erdball von sündlichen Ländern, was für ein Leben führst du?</p>
           </sp>
@@ -2652,7 +2802,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Ein besseres als du: Ich bin ein Mann von Stande, du ziehst Bier ab.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ganz richtig, Herr, und darum komme ich, Euch das Fell abzuziehn.</p>
           </sp>
@@ -2678,7 +2828,7 @@
             <p>Gnädiger Herr, er wird Euch aus Eurer Rache heraustreiben und alles in einen Spaß
               verwandeln, wenn Ihr ihm nicht in der ersten Hitze zusetzt.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Du verfluchte Talggrube, wie niederträchtig sprachst du nicht jetzt eben von mir vor
               diesem ehrbaren, tugendhaften, artigen Frauenzimmer?</p>
@@ -2691,7 +2841,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Hast du es angehört?</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ja, und Ihr kanntet mich wie damals, da Ihr bei Gadshill davonlieft; Ihr wußtet, daß
               ich hinter Euch stand, und tatet es mit Fleiß, um meine Geduld auf die Probe zu
@@ -2701,7 +2851,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Nein, nein, nein, das nicht; ich glaubte nicht, daß du mich hören könntest.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>So müßt Ihr mir die vorsätzliche Beschimpfung eingestehn, und dann weiß ich, wie ich
               Euch handhaben soll.</p>
@@ -2710,7 +2860,7 @@
             <speaker>FALSTAFF.</speaker>
             <p>Keine Beschimpfung, Heinz, auf meine Ehre, keine Beschimpfung!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Nicht? Mich herunter zu machen und mich Brotmeister und Brotschneider und ich weiß
               nicht was zu nennen!</p>
@@ -2732,7 +2882,7 @@
               Beschimpfung, Heinz! nicht die geringste, Eduard! – Nein, Kinder, nicht die
               geringste!</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Nun sieh einmal, bringt dich nicht bloße Furcht und ausgemachte Feigheit dahin,
               diesem tugendhaften Frauenzimmer zu nahe zu tun, um dich mit uns auszusöhnen? Ist sie
@@ -2750,7 +2900,7 @@
               Luzifers Leibküche, wo er nichts tut als Malzwürmer rösten. Was den Knaben betrifft,
               so ist ein guter Engel um ihn, aber der Teufel überbietet ihn auch.</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Was die Weiber betrifft, –</p>
           </sp>
@@ -2775,7 +2925,7 @@
             <p>Das tun alle Speisewirte. Was will eine Schöpskeule oder ein Paar in der ganzen
               Fastenzeit sagen?</p>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <p>Ihr, Frauenzimmer –</p>
           </sp>
@@ -2792,7 +2942,7 @@
             <p>Wer klopft so laut an die Türe? Sieh nach der Türe, Franz!</p>
             <stage>Peto kommt.</stage>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <l>Peto, was gibt's? Was bringst du Neues?</l>
           </sp>
@@ -2807,7 +2957,7 @@
               <l>Und alle frugen sie nach Sir John Falstaff.</l>
             </lg>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
               <l>Beim Himmel, Poins, ich fühl' mich tadelnswert,</l>
@@ -3579,7 +3729,8 @@
           <sp who="#schimmelig">
             <speaker>SCHIMMELIG.</speaker>
             <p>Und lieber Herr Korporal Kapitän, meiner alten Hausfrauen wegen, legt ein gut Wort
-              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb n="336"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
+              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb
+                n="336"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
               Schillinge haben, Herr.</p>
           </sp>
           <sp who="#bardolph">
@@ -3649,7 +3800,8 @@
               den Geist kommt es an, Herr Schaal. Da habt Ihr Warze, – Ihr seht, was es für eine
               ruppige Figur ist: der ladet und schießt Euch so flink, wie ein Zinngießer hämmert:
               läuft auf und ab, geschwinder wie einer, der des Brauers Eimer am Schwengel trägt. Und
-              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb n="337"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
+              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb
+                n="337"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
               Schneide eines Federmessers zielen; und geht's zum Rückzuge: – wie geschwind wird
               dieser Schwächlich, der Frauenschneider, davon laufen! O gebt mir die unansehnlichen
               Leute, so will ich die großen gar nicht ansehn. – Gib dem Warze eine Muskete in die
@@ -4986,7 +5138,7 @@
             <l>O still doch! Still!</l>
             <stage>Prinz Heinrich tritt auf.</stage>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <l>Wer sah den Herzog Clarence?</l>
           </sp>
@@ -4994,7 +5146,7 @@
             <speaker>CLARENCE.</speaker>
             <l>Hier bin ich, Bruder, voller Traurigkeit.</l>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
               <l>Wie nun? Im Hause regnet's und nicht draußen?</l>
@@ -5005,7 +5157,7 @@
             <speaker>PRINZ HUMPHREY.</speaker>
             <l>Er ist äußerst schlecht.</l>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
               <l>Hat er die gute Zeitung schon gehört?</l>
@@ -5017,7 +5169,7 @@
             <l>Wie er sie hörte, hat er sich verwandelt.</l>
           </sp>
           <pb n="359"/>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
               <l>Ist er vor Freuden krank,</l>
@@ -5039,7 +5191,7 @@
             <speaker>WARWICK.</speaker>
             <l>Beliebt es Euer Gnaden mitzugehn?</l>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <l>Ich will hier sitzen und beim König wachen.</l>
             <stage>Alle ab, außer Prinz Heinrich.</stage>
@@ -5182,7 +5334,7 @@
             </lg>
             <stage>Clarence, Prinz Humphrey, Lords und übrige ab.</stage>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <l>Ich dachte nicht, Euch noch ein Mal zu hören.</l>
           </sp>
@@ -5239,7 +5391,7 @@
               <l>Besetzt von Wölfen, deinen alten Bürgern!</l>
             </lg>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH</speaker>
             <stage>knieend.</stage>
             <lg>
@@ -5337,7 +5489,7 @@
               <l>Daß sie bei dir in wahrem Frieden lebe!</l>
             </lg>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <lg>
               <l>Mein gnäd'ger Fürst,</l>
@@ -5366,7 +5518,7 @@
               <l>Wo ist Mylord von Warwick?</l>
             </lg>
           </sp>
-          <sp who="#prinz_heinrich">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>PRINZ HEINRICH.</speaker>
             <l>Mylord von Warwick?</l>
           </sp>
@@ -5688,7 +5840,7 @@
             <speaker>OBERRICHTER.</speaker>
             <l>Guten Morgen! Gott erhalt' Euer Majestät!</l>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
               <l>Dies neue prächt'ge Staatskleid, Majestät,</l>
@@ -5712,11 +5864,11 @@
             </lg>
           </sp>
           <pb n="371"/>
-          <sp who="#prinz_johann #die_uebrigen">
+          <sp who="#prinz_johann #die_uebrigen_v-2">
             <speaker>PRINZ JOHANN UND DIE ÜBRIGEN.</speaker>
             <l>So hoffen wir's von Eurer Majestät.</l>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <l>Ihr blickt auf mich befremdet;</l>
             <stage>Zum Oberrichter.</stage>
@@ -5732,7 +5884,7 @@
               <l>Hat Eure Majestät zum Haß nicht Ursach'.</l>
             </lg>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
               <l>Nicht? Wie konnt' ein Prinz von meiner Anwartschaft</l>
@@ -5778,7 +5930,7 @@
               <l>Und Dienstpflicht gegen meinen Herrn mißziemte?</l>
             </lg>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
               <l>Ihr habt recht, Richter, und erwägt dies wohl.</l>
@@ -6381,7 +6533,7 @@
             <speaker>FALSTAFF.</speaker>
             <l>Gott schütz' dich, Herzensjunge!</l>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <l>Sprecht mit dem eitlen Mann, Herr Oberrichter!</l>
           </sp>
@@ -6393,7 +6545,7 @@
             <speaker>FALSTAFF.</speaker>
             <l>Mein Fürst! Mein Zeus! Dich red'ich an, mein Herz!</l>
           </sp>
-          <sp who="#koenig">
+          <sp who="#prinz_heinrich_koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
               <l>Ich kenn' dich, Alter, nicht; an dein Gebet!</l>

@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Antonius und Cleopatra</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="685" to="796">685–796</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Antonius und Cleopatra</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
+            Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="685" to="796">685–796</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -79,7 +75,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000001" passive="http://www.wikidata.org/entity/Q606830"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000001"
+        passive="http://www.wikidata.org/entity/Q606830"/>
     </listRelation>
   </standOff>
   <text>
@@ -3300,7 +3297,8 @@
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <p>Der nicht, der selbst nicht so ist; und das ist Marc Anton. Sein ägyptisches Mahl
-              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
+              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb
+                n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
               unmittelbare Veranlassung ihrer Entzweiung werden. Antonius wird seine Liebe zeigen,
               wo sie ist; hier hat er nur seinen Vorteil geheiratet. –</p>
           </sp>
@@ -3322,8 +3320,7 @@
         <div type="scene">
           <head>Siebente Szene</head>
           <stage>An Bord von Pompejus' Galeere.</stage>
-          <stage>Musik. Es treten auf zwei oder drei Diener, die ein</stage>
-          <stage>Bankett anrichten.</stage>
+          <stage>Musik. Es treten auf zwei oder drei Diener, die ein Bankett anrichten.</stage>
           <sp who="#erster_diener">
             <speaker>ERSTER DIENER.</speaker>
             <p>Gleich werden sie hier sein, Kam'rad; ein paar von diesen edlen Bäumen sind nicht
@@ -3690,7 +3687,7 @@
             <stage>Musik. Enobarbus stellt sie, und sie schließen den Reihen.</stage>
           </sp>
           <stage>Lied</stage>
-          <sp>
+          <sp who="#der_knabe">
             <lg>
               <l>Komm, du König, weinbekränzt,</l>
               <l>Bacchus, dessen Auge glänzt:</l>
@@ -8654,8 +8651,7 @@
           </sp>
           <sp who="#bauer">
             <speaker>BAUER.</speaker>
-            <p>Ja wahrhaftig, ich wünsche Euch viel Zeitvertreib von dem Wurm.
-              <stage>Ab.</stage>
+            <p>Ja wahrhaftig, ich wünsche Euch viel Zeitvertreib von dem Wurm. <stage>Ab.</stage>
             </p>
             <stage>Iras kommt zurück mit Krone und Kleid.</stage>
           </sp>

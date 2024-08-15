@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich V.</title>
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="385" to="491">385–491</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich V.</title> In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
+            Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="385" to="491">385–491</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,151 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="canterbury" sex="MALE">
+            <persName>Erzbischof von Canterbury</persName>
+          </person>
+          <person xml:id="ely" sex="MALE">
+            <persName>Bischof von Ely</persName>
+          </person>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich V.</persName>
+          </person>
+          <person xml:id="exeter" sex="MALE">
+            <persName>Herzog von Exeter</persName>
+          </person>
+          <person xml:id="westmoreland" sex="MALE">
+            <persName>Graf von Westmoreland</persName>
+          </person>
+          <person xml:id="gesandter" sex="MALE">
+            <persName>Gesandter</persName>
+          </person>
+          <person xml:id="bardolph" sex="MALE">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="nym" sex="MALE">
+            <persName>Nym</persName>
+          </person>
+          <person xml:id="pistol" sex="MALE">
+            <persName>Pistol</persName>
+          </person>
+          <person xml:id="frau_hurtig" sex="FEMALE">
+            <persName>Frau Hurtig (Wirtin)</persName>
+          </person>
+          <person xml:id="bursch" sex="MALE">
+            <persName>Ein Bursch</persName>
+          </person>
+          <person xml:id="bedford" sex="MALE">
+            <persName>Herzog von Bedford</persName>
+          </person>
+          <person xml:id="scroop" sex="MALE">
+            <persName>Lord Scroop</persName>
+          </person>
+          <person xml:id="cambridge" sex="MALE">
+            <persName>Graf von Cambridge</persName>
+          </person>
+          <person xml:id="grey" sex="MALE">
+            <persName>Sir Thomas Grey</persName>
+          </person>
+          <person xml:id="koenig_karl" sex="MALE">
+            <persName>Karl IV.</persName>
+          </person>
+          <person xml:id="dauphin" sex="MALE">
+            <persName>Louis, der Dauphin</persName>
+          </person>
+          <person xml:id="connetable" sex="MALE">
+            <persName>Der Connetable von Frankreich</persName>
+          </person>
+          <person xml:id="bote_ii-4" sex="MALE">
+            <persName>Ein Bote (II/4)</persName>
+          </person>
+          <person xml:id="fluellen" sex="MALE">
+            <persName>Fluellen</persName>
+          </person>
+          <person xml:id="gower" sex="MALE">
+            <persName>Gower</persName>
+          </person>
+          <person xml:id="jamy" sex="MALE">
+            <persName>Jamy</persName>
+          </person>
+          <person xml:id="macmorris" sex="MALE">
+            <persName>Macmorris</persName>
+          </person>
+          <person xml:id="befehlshaber" sex="MALE">
+            <persName>Befehlshaber von Harfleur</persName>
+          </person>
+          <person xml:id="katharina" sex="FEMALE">
+            <persName>Katharina</persName>
+          </person>
+          <person xml:id="alice" sex="FEMALE">
+            <persName>Alice</persName>
+          </person>
+          <person xml:id="bourbon" sex="MALE">
+            <persName>Herzog von Bourbon</persName>
+          </person>
+          <person xml:id="montjoye" sex="MALE">
+            <persName>Montjoye</persName>
+          </person>
+          <person xml:id="gloster" sex="MALE">
+            <persName>Herzog von Gloster</persName>
+          </person>
+          <person xml:id="orleans" sex="MALE">
+            <persName>Herzog von Orleans</persName>
+          </person>
+          <person xml:id="rambures" sex="MALE">
+            <persName>Rambures</persName>
+          </person>
+          <person xml:id="bote_iii-7" sex="MALE">
+            <persName>Ein Bote (III/7)</persName>
+          </person>
+          <person xml:id="erpingham" sex="MALE">
+            <persName>Sir Thomas Erpingham</persName>
+          </person>
+          <person xml:id="court" sex="MALE">
+            <persName>Court</persName>
+          </person>
+          <person xml:id="bates" sex="MALE">
+            <persName>Bates</persName>
+          </person>
+          <person xml:id="williams" sex="MALE">
+            <persName>Williams</persName>
+          </person>
+          <person xml:id="bote_iv-2" sex="MALE">
+            <persName>Ein Bote (IV/2)</persName>
+          </person>
+          <person xml:id="grandpre" sex="MALE">
+            <persName>Grandpré</persName>
+          </person>
+          <person xml:id="salisbury" sex="MALE">
+            <persName>Graf von Salisbury</persName>
+          </person>
+          <person xml:id="york" sex="MALE">
+            <persName>Herzog von York</persName>
+          </person>
+          <person xml:id="franzoesischer_soldat" sex="MALE">
+            <persName>Ein französischer Soldat</persName>
+          </person>
+          <person xml:id="warwick" sex="MALE">
+            <persName>Graf von Warwick</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Ein englischer Herold</persName>
+          </person>
+          <person xml:id="isabelle" sex="FEMALE">
+            <persName>Isabelle</persName>
+          </person>
+          <person xml:id="burgund" sex="MALE">
+            <persName>Herzog von Burgund</persName>
+          </person>
+          <personGrp xml:id="alle_v-2" sex="UNKNOWN">
+            <name>Alle (V/2)</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +219,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000018" passive="http://www.wikidata.org/entity/Q495954"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000018"
+        passive="http://www.wikidata.org/entity/Q495954"/>
     </listRelation>
   </standOff>
   <text>
@@ -131,7 +273,7 @@
         <castItem>Herzog von Orleans</castItem>
         <castItem>Herzog von Bourbon</castItem>
         <castItem>Der Connetable von Frankreich</castItem>
-        <castItem>Rambures und Grandprê, französische Edelleute</castItem>
+        <castItem>Rambures und Grandpré, französische Edelleute</castItem>
         <pb n="388"/>
         <castItem>Befehlshaber von Harfleur</castItem>
         <castItem>Montjoye, ein französischer Herold</castItem>
@@ -140,8 +282,8 @@
         <castItem>Katharina, Tochter Karls und Isabellens</castItem>
         <castItem>Alice, ein Fräulein im Gefolge der Prinzessin Katharina</castItem>
         <castItem>Wirtin Hurtig, Pistols Frau</castItem>
-        <castItem>Herren und Frauen vom Adel, Offiziere, französische und englische Soldaten,
-          Boten und Gefolge</castItem>
+        <castItem>Herren und Frauen vom Adel, Offiziere, französische und englische Soldaten, Boten
+          und Gefolge</castItem>
       </castList>
       <set>
         <p>Die Szene ist anfangs in England, nachher ununterbrochen in Frankreich</p>
@@ -150,7 +292,7 @@
     <pb n="389"/>
     <body>
       <div type="prologue">
-        <sp>
+        <sp who="#chorus">
           <speaker>CHORUS</speaker>
           <stage>tritt ein.</stage>
           <lg>
@@ -887,55 +1029,57 @@
       <pb n="403"/>
       <div type="act">
         <head>Zweiter Aufzug</head>
-        <sp who="#chorus">
-          <speaker>CHORUS</speaker>
-          <stage>tritt auf.</stage>
-          <l>Nun ist die Jugend Englands ganz in Glut,</l>
-          <l>Und seidne Buhlschaft liegt im Kleiderschrank;</l>
-          <l>Die Waffenschmiede nun gedeihn, der Ehre</l>
-          <l>Gedanke herrscht allein in aller Brust.</l>
-          <l>Sie geben um das Pferd die Weide feil,</l>
-          <l>Dem Spiegel aller Christen-Kön'ge folgend,</l>
-          <l>Beschwingten Tritts, wie englische Merkure.</l>
-          <l>Denn jetzo sitzt Erwartung in der Luft</l>
-          <l>Und birgt ein Schwert, vom Griff bis an die Spitze</l>
-          <l>Mit Kaiserkronen, Herrn- und Grafen-Kronen,</l>
-          <l>Heinrich und seinen Treuen zugesagt.</l>
-          <l>Die Franken, welche gute Kundschaft warnt</l>
-          <l>Vor dieser Schreckens-Rüstung, schütteln sich</l>
-          <l>In ihrer Furcht, und bleiche Politik</l>
-          <l>Bemüht sich, Englands Zwecke abzulenken.</l>
-          <l>O England! Vorbild deiner innern Größe,</l>
-          <l>Gleich einem kleinen Leib mit mächt'gem Herzen,</l>
-          <l>Was könntest du nicht tun, was Ehre will,</l>
-          <l>Wär' jedes deiner Kinder gut und echt!</l>
-          <l>Doch sieh nur! Frankreich fand in dir ein Nest</l>
-          <l>Von hohlen Busen, und das füllt es an</l>
-          <l>Mit falschen Kronen. Drei verderbte Männer:</l>
-          <l>Der eine, Richard Graf von Cambridge, dann</l>
-          <l>Heinrich, Lord Scroop von Masham, und der dritte,</l>
-          <l>Sir Thomas Grey, Northumberlandscher Ritter,</l>
-          <l>Sie sind um fränk'schen Sold (o Schuld, nicht Sold!)</l>
-          <l>Eidlich verschworen mit dem bangen Frankreich.</l>
-          <l>Und dieser Ausbund aller Kön'ge muß</l>
-          <l>Von ihren Händen sterben (wenn ihr Wort</l>
-          <pb n="404"/>
-          <l>Verrat und Hölle halten), eh' er sich</l>
-          <l>Nach Frankreich eingeschifft, und in Southampton.</l>
-          <l>Verlängt noch die Geduld, so ordnen wir</l>
-          <l>Der Ferne Mißbrauch nach des Spieles Zwang.</l>
-          <l>Die Summe ist bezahlt; die Frevler einig;</l>
-          <l>Der König fort von London, und die Szene</l>
-          <l>Ist nun verlegt, ihr Teuren, nach Southampton.</l>
-          <l>Da ist das Schauspielhaus, da müßt ihr sitzen,</l>
-          <l>Von da geleiten wir nach Frankreich euch</l>
-          <l>Und bringen sicher euch zurück, beschwörend</l>
-          <l>Die schmale See, daß sanfte Überfahrt</l>
-          <l>Sie euch gewährt; denn gehn nach uns die Sachen,</l>
-          <l>So soll dies Spiel nicht einen seekrank machen.</l>
-          <l>Doch wenn der König kommt, und nicht zuvor,</l>
-          <l>Rückt unsre Szene nach Southampton vor. <stage>Ab.</stage></l>
-        </sp>
+        <div type="prologue">
+          <sp who="#chorus">
+            <speaker>CHORUS</speaker>
+            <stage>tritt auf.</stage>
+            <l>Nun ist die Jugend Englands ganz in Glut,</l>
+            <l>Und seidne Buhlschaft liegt im Kleiderschrank;</l>
+            <l>Die Waffenschmiede nun gedeihn, der Ehre</l>
+            <l>Gedanke herrscht allein in aller Brust.</l>
+            <l>Sie geben um das Pferd die Weide feil,</l>
+            <l>Dem Spiegel aller Christen-Kön'ge folgend,</l>
+            <l>Beschwingten Tritts, wie englische Merkure.</l>
+            <l>Denn jetzo sitzt Erwartung in der Luft</l>
+            <l>Und birgt ein Schwert, vom Griff bis an die Spitze</l>
+            <l>Mit Kaiserkronen, Herrn- und Grafen-Kronen,</l>
+            <l>Heinrich und seinen Treuen zugesagt.</l>
+            <l>Die Franken, welche gute Kundschaft warnt</l>
+            <l>Vor dieser Schreckens-Rüstung, schütteln sich</l>
+            <l>In ihrer Furcht, und bleiche Politik</l>
+            <l>Bemüht sich, Englands Zwecke abzulenken.</l>
+            <l>O England! Vorbild deiner innern Größe,</l>
+            <l>Gleich einem kleinen Leib mit mächt'gem Herzen,</l>
+            <l>Was könntest du nicht tun, was Ehre will,</l>
+            <l>Wär' jedes deiner Kinder gut und echt!</l>
+            <l>Doch sieh nur! Frankreich fand in dir ein Nest</l>
+            <l>Von hohlen Busen, und das füllt es an</l>
+            <l>Mit falschen Kronen. Drei verderbte Männer:</l>
+            <l>Der eine, Richard Graf von Cambridge, dann</l>
+            <l>Heinrich, Lord Scroop von Masham, und der dritte,</l>
+            <l>Sir Thomas Grey, Northumberlandscher Ritter,</l>
+            <l>Sie sind um fränk'schen Sold (o Schuld, nicht Sold!)</l>
+            <l>Eidlich verschworen mit dem bangen Frankreich.</l>
+            <l>Und dieser Ausbund aller Kön'ge muß</l>
+            <l>Von ihren Händen sterben (wenn ihr Wort</l>
+            <pb n="404"/>
+            <l>Verrat und Hölle halten), eh' er sich</l>
+            <l>Nach Frankreich eingeschifft, und in Southampton.</l>
+            <l>Verlängt noch die Geduld, so ordnen wir</l>
+            <l>Der Ferne Mißbrauch nach des Spieles Zwang.</l>
+            <l>Die Summe ist bezahlt; die Frevler einig;</l>
+            <l>Der König fort von London, und die Szene</l>
+            <l>Ist nun verlegt, ihr Teuren, nach Southampton.</l>
+            <l>Da ist das Schauspielhaus, da müßt ihr sitzen,</l>
+            <l>Von da geleiten wir nach Frankreich euch</l>
+            <l>Und bringen sicher euch zurück, beschwörend</l>
+            <l>Die schmale See, daß sanfte Überfahrt</l>
+            <l>Sie euch gewährt; denn gehn nach uns die Sachen,</l>
+            <l>So soll dies Spiel nicht einen seekrank machen.</l>
+            <l>Doch wenn der König kommt, und nicht zuvor,</l>
+            <l>Rückt unsre Szene nach Southampton vor. <stage>Ab.</stage></l>
+          </sp>
+        </div>
         <div type="scene">
           <head>Erste Szene</head>
           <stage>London. Straße in Eastcheap.</stage>
@@ -1090,7 +1234,8 @@
           <sp who="#bursch">
             <speaker>BURSCH.</speaker>
             <p>Herr Wirt Pistol, Ihr müßt zu meinem Herrn kommen, – Ihr auch, Wirtin; – er ist sehr
-              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb n="407"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
+              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb
+                n="407"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
               schlimm.</p>
           </sp>
           <sp who="#bardolph">
@@ -1175,7 +1320,7 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>So wahr ihr von Weibern hergekommen seid, kommt hurtig zu Sir John herein. Ach, die
-              arme Seele! Ein brennendes Quotidian- Tertian-Fieber rüttelt ihn so zusammen, daß es
+              arme Seele! Ein brennendes Quotidian-Tertian-Fieber rüttelt ihn so zusammen, daß es
               höchst kläglich anzusehen ist. Herzensmänner, kommt zu ihm!</p>
           </sp>
           <sp who="#nym">
@@ -1778,7 +1923,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Gesandte Heinrichs, Königes von England,</l>
@@ -1944,48 +2089,50 @@
       <pb n="421"/>
       <div type="act">
         <head>Dritter Aufzug</head>
-        <sp who="#chorus">
-          <speaker>CHORUS</speaker>
-          <stage>tritt auf.</stage>
-          <l>So fliegt auf eingebild'ten Fittigen</l>
-          <l>Die rasche Szene mit nicht minder Eil'</l>
-          <l>Als der Gedanke. Stellt euch vor, ihr saht</l>
-          <l>Am Hampton-Damm den wohlverseh'nen König</l>
-          <l>Sein Königtum einschiffen, sein Geschwader</l>
-          <l>Den jungen Tag mit seidnen Wimpeln fächeln.</l>
-          <l>Spielt mit der Phantasie, und seht in ihr</l>
-          <l>Am hänfnen Tauwerk Schifferjungen klettern;</l>
-          <l>Die helle Pfeife hört, die Ordnung schafft</l>
-          <l>Verwirrten Lauten; seht die Leinensegel,</l>
-          <l>Die unsichtbare Winde schleichend heben,</l>
-          <l>Durch die gefurchte See die großen Kiele,</l>
-          <l>Den Fluten trotzend, ziehn. Oh, denket nur,</l>
-          <l>Ihr steht am Strand und sehet eine Stadt</l>
-          <l>Hintanzen auf den unbeständ'gen Wogen;</l>
-          <l>Denn so erscheint die majestät'sche Flotte,</l>
-          <l>Den Lauf nach Harfleur wendend. Folgt ihr! Folgt ihr!</l>
-          <l>Hakt euch im Geist an dieser Flotte Steuer,</l>
-          <l>Verlaßt eu'r England, still wie Mitternacht,</l>
-          <l>Bewacht von Greisen, Kindern, alten Frau'n,</l>
-          <l>Wo Mark und Kraft noch fehlt und schon verging;</l>
-          <l>Denn wer, dem nur ein einzig keimend Haar</l>
-          <l>Das Kinn begabt, ist nicht bereit, nach Frankreich</l>
-          <l>Der auserlesnen Ritterschaft zu folgen?</l>
-          <l>Auf, auf, im Geist! Seht einer Stadt Belag'rung.</l>
-          <l>Seht das Geschütz auf den Lafetten stehn,</l>
-          <l>Auf Harfleur mit den Mündern tödlich gähnend.</l>
-          <l>Denkt, der Gesandt' aus Frankreich sei zurück</l>
-          <l>Und meld' an Heinrich, daß der König ihm</l>
-          <pb n="422"/>
-          <l>Antrage seine Tochter Katharina,</l>
-          <l>Mit ihr zum Brautschatz ein paar Herzogtümer,</l>
-          <l>So klein und unersprießlich. Das Erbieten</l>
-          <l>Gefällt nicht, und der schnelle Kanonier</l>
-          <l>Rührt mit der Lunte nun die höll'schen Stücke,</l>
-          <stage>Getümmel. Es werden Kanonen abgefeuert.</stage>
-          <l>Die alles niederschmettern. Bleibt geneigt!</l>
-          <l>Eu'r Sinn ergänze, was die Bühne zeigt. <stage>Ab.</stage></l>
-        </sp>
+        <div type="prologue">
+          <sp who="#chorus">
+            <speaker>CHORUS</speaker>
+            <stage>tritt auf.</stage>
+            <l>So fliegt auf eingebild'ten Fittigen</l>
+            <l>Die rasche Szene mit nicht minder Eil'</l>
+            <l>Als der Gedanke. Stellt euch vor, ihr saht</l>
+            <l>Am Hampton-Damm den wohlverseh'nen König</l>
+            <l>Sein Königtum einschiffen, sein Geschwader</l>
+            <l>Den jungen Tag mit seidnen Wimpeln fächeln.</l>
+            <l>Spielt mit der Phantasie, und seht in ihr</l>
+            <l>Am hänfnen Tauwerk Schifferjungen klettern;</l>
+            <l>Die helle Pfeife hört, die Ordnung schafft</l>
+            <l>Verwirrten Lauten; seht die Leinensegel,</l>
+            <l>Die unsichtbare Winde schleichend heben,</l>
+            <l>Durch die gefurchte See die großen Kiele,</l>
+            <l>Den Fluten trotzend, ziehn. Oh, denket nur,</l>
+            <l>Ihr steht am Strand und sehet eine Stadt</l>
+            <l>Hintanzen auf den unbeständ'gen Wogen;</l>
+            <l>Denn so erscheint die majestät'sche Flotte,</l>
+            <l>Den Lauf nach Harfleur wendend. Folgt ihr! Folgt ihr!</l>
+            <l>Hakt euch im Geist an dieser Flotte Steuer,</l>
+            <l>Verlaßt eu'r England, still wie Mitternacht,</l>
+            <l>Bewacht von Greisen, Kindern, alten Frau'n,</l>
+            <l>Wo Mark und Kraft noch fehlt und schon verging;</l>
+            <l>Denn wer, dem nur ein einzig keimend Haar</l>
+            <l>Das Kinn begabt, ist nicht bereit, nach Frankreich</l>
+            <l>Der auserlesnen Ritterschaft zu folgen?</l>
+            <l>Auf, auf, im Geist! Seht einer Stadt Belag'rung.</l>
+            <l>Seht das Geschütz auf den Lafetten stehn,</l>
+            <l>Auf Harfleur mit den Mündern tödlich gähnend.</l>
+            <l>Denkt, der Gesandt' aus Frankreich sei zurück</l>
+            <l>Und meld' an Heinrich, daß der König ihm</l>
+            <pb n="422"/>
+            <l>Antrage seine Tochter Katharina,</l>
+            <l>Mit ihr zum Brautschatz ein paar Herzogtümer,</l>
+            <l>So klein und unersprießlich. Das Erbieten</l>
+            <l>Gefällt nicht, und der schnelle Kanonier</l>
+            <l>Rührt mit der Lunte nun die höll'schen Stücke,</l>
+            <stage>Getümmel. Es werden Kanonen abgefeuert.</stage>
+            <l>Die alles niederschmettern. Bleibt geneigt!</l>
+            <l>Eu'r Sinn ergänze, was die Bühne zeigt. <stage>Ab.</stage></l>
+          </sp>
+        </div>
         <div type="scene">
           <head>Erste Szene</head>
           <stage>Frankreich. Vor Harfleur.</stage>
@@ -3251,7 +3398,7 @@
             <p>Es ist nicht das erstemal, daß über Euch hinausgeschossen wird.</p>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-7">
             <speaker>BOTE.</speaker>
             <p>Herr Connetable, die Englischen liegen nur funfzehnhundert Schritte weit von Eurem
               Zelte.</p>
@@ -3260,7 +3407,7 @@
             <speaker>CONNETABLE.</speaker>
             <p>Wer hat das Feld gemessen?</p>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-7">
             <speaker>BOTE.</speaker>
             <p>Der gnädige Herr Grandpré.</p>
           </sp>
@@ -3297,7 +3444,8 @@
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Ganz recht, und die Menschen sympathisieren mit den Bullenbeißern im kräftigen und
-              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="443"/> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
+              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="443"
+              /> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
               fressen wie Wölfe und fechten wie Teufel.</p>
           </sp>
           <sp who="#orleans">
@@ -3322,65 +3470,67 @@
       <pb n="444"/>
       <div type="act">
         <head>Vierter Aufzug</head>
-        <sp who="#chorus">
-          <speaker>CHORUS</speaker>
-          <stage>tritt auf.</stage>
-          <l>Nun lasset euch gemahnen eine Zeit,</l>
-          <l>Wo schleichend Murmeln und das späh'nde Dunkel</l>
-          <l>Des Weltgebäudes weite Wölbung füllt.</l>
-          <l>Von Lager hallt zu Lager, durch der Nacht</l>
-          <l>Unsaubern Schoß, der Heere Summen leise,</l>
-          <l>Daß die gestellten Posten fast vernehmen</l>
-          <l>Der gegenseit'gen Wacht geheimes Flüstern.</l>
-          <l>Die Feu'r entsprechen Feuern, und es sieht</l>
-          <l>Durch ihre bleichen Flammen ein Geschwader</l>
-          <l>Des andern bräunlich überfärbt Gesicht.</l>
-          <l>Roß droht dem Roß, ihr stolzes Wiehern dringt</l>
-          <l>Ins dumpfe Ohr der Nacht; und von den Zelten,</l>
-          <l>Den Rittern helfend, geben Waffenschmiede,</l>
-          <l>Die Rüstung nietend mit geschäft'gem Hammer,</l>
-          <l>Der Vorbereitung grauenvollen Ton.</l>
-          <l>Des Dorfes Hähne krähn, die Glocken schlagen</l>
-          <l>Des schlafbetäubten Morgens dritte Stunde.</l>
-          <l>Stolz auf die Zahl und sichern Muts verspielen</l>
-          <l>Die muntern, selbstvertrauenden Franzosen</l>
-          <l>Die nichtsgeacht'ten Englischen in Würfeln</l>
-          <l>Und schmähn den krüppelhaften Gang der Nacht,</l>
-          <l>Die, einer schnöden, garst'gen Hexe gleich,</l>
-          <l>Hinweg so zögernd hinkt. Die armen Englischen,</l>
-          <l>Wie Opfer sitzen sie bei wachen Feuern</l>
-          <l>Geduldig und erwägen innerlich</l>
-          <l>Die morgende Gefahr; die trübe Miene</l>
-          <l>Auf hohlen Wangen und, vom Krieg vernutzt,</l>
-          <l>Die Röcke stellen sie dem schau 'nden Mond</l>
-          <l>Wie grause Geister dar. Oh, wer nun sehen mag</l>
-          <pb n="445"/>
-          <l>Den hohen Feldherrn der verlornen Schar</l>
-          <l>Von Wacht zu Wacht, von Zelt zu Zelte wandeln,</l>
-          <l>Der rufe: »Preis und Ruhm sei seinem Haupt!«</l>
-          <l>Denn er geht aus, besucht sein ganzes Heer,</l>
-          <l>Beut mit bescheidnem Lächeln guten Morgen</l>
-          <l>Und nennt sie Brüder, Freunde, Landesleute.</l>
-          <l>Auf seinem königlichen Antlitz ist</l>
-          <l>Kein Merkmal, welch ein furchtbar Heer ihn drängt,</l>
-          <l>Noch widmet er ein Tüttelchen von Farbe</l>
-          <l>Der schläfrigen und ganz durchwachten Nacht;</l>
-          <l>Nein, er sieht frisch und übermannt die Schwäche</l>
-          <l>Mit frohem Schein und holder Majestät,</l>
-          <l>Daß jeder Arme, bleich gehärmt zuvor,</l>
-          <l>Ihn sehend, Trost aus seinen Blicken schöpft:</l>
-          <l>Und allgemeine Gaben, wie die Sonne,</l>
-          <l>Erteilet jedem sein freigebig Auge,</l>
-          <l>Auftauend kalte Furcht. Drum, Hoh' und Niedre,</l>
-          <l>Seht, wie Unwürdigkeit ihn zeichnen mag,</l>
-          <l>Den leichten Abriß Heinrichs in der Nacht.</l>
-          <l>So muß zum Treffen unsre Szene fliegen,</l>
-          <l>Wo wir (o Schmach!) gar sehr entstellen werden</l>
-          <l>Mit vier bis fünf zerfetzten schnöden Klingen,</l>
-          <l>Zu lächerlichem Balgen schlecht geordnet,</l>
-          <l>Den Namen Agincourt. Doch sitzt und seht,</l>
-          <l>Das Wahre denkend, wo sein Scheinbild steht. <stage>Ab.</stage></l>
-        </sp>
+        <div type="prologue">
+          <sp who="#chorus">
+            <speaker>CHORUS</speaker>
+            <stage>tritt auf.</stage>
+            <l>Nun lasset euch gemahnen eine Zeit,</l>
+            <l>Wo schleichend Murmeln und das späh'nde Dunkel</l>
+            <l>Des Weltgebäudes weite Wölbung füllt.</l>
+            <l>Von Lager hallt zu Lager, durch der Nacht</l>
+            <l>Unsaubern Schoß, der Heere Summen leise,</l>
+            <l>Daß die gestellten Posten fast vernehmen</l>
+            <l>Der gegenseit'gen Wacht geheimes Flüstern.</l>
+            <l>Die Feu'r entsprechen Feuern, und es sieht</l>
+            <l>Durch ihre bleichen Flammen ein Geschwader</l>
+            <l>Des andern bräunlich überfärbt Gesicht.</l>
+            <l>Roß droht dem Roß, ihr stolzes Wiehern dringt</l>
+            <l>Ins dumpfe Ohr der Nacht; und von den Zelten,</l>
+            <l>Den Rittern helfend, geben Waffenschmiede,</l>
+            <l>Die Rüstung nietend mit geschäft'gem Hammer,</l>
+            <l>Der Vorbereitung grauenvollen Ton.</l>
+            <l>Des Dorfes Hähne krähn, die Glocken schlagen</l>
+            <l>Des schlafbetäubten Morgens dritte Stunde.</l>
+            <l>Stolz auf die Zahl und sichern Muts verspielen</l>
+            <l>Die muntern, selbstvertrauenden Franzosen</l>
+            <l>Die nichtsgeacht'ten Englischen in Würfeln</l>
+            <l>Und schmähn den krüppelhaften Gang der Nacht,</l>
+            <l>Die, einer schnöden, garst'gen Hexe gleich,</l>
+            <l>Hinweg so zögernd hinkt. Die armen Englischen,</l>
+            <l>Wie Opfer sitzen sie bei wachen Feuern</l>
+            <l>Geduldig und erwägen innerlich</l>
+            <l>Die morgende Gefahr; die trübe Miene</l>
+            <l>Auf hohlen Wangen und, vom Krieg vernutzt,</l>
+            <l>Die Röcke stellen sie dem schau 'nden Mond</l>
+            <l>Wie grause Geister dar. Oh, wer nun sehen mag</l>
+            <pb n="445"/>
+            <l>Den hohen Feldherrn der verlornen Schar</l>
+            <l>Von Wacht zu Wacht, von Zelt zu Zelte wandeln,</l>
+            <l>Der rufe: »Preis und Ruhm sei seinem Haupt!«</l>
+            <l>Denn er geht aus, besucht sein ganzes Heer,</l>
+            <l>Beut mit bescheidnem Lächeln guten Morgen</l>
+            <l>Und nennt sie Brüder, Freunde, Landesleute.</l>
+            <l>Auf seinem königlichen Antlitz ist</l>
+            <l>Kein Merkmal, welch ein furchtbar Heer ihn drängt,</l>
+            <l>Noch widmet er ein Tüttelchen von Farbe</l>
+            <l>Der schläfrigen und ganz durchwachten Nacht;</l>
+            <l>Nein, er sieht frisch und übermannt die Schwäche</l>
+            <l>Mit frohem Schein und holder Majestät,</l>
+            <l>Daß jeder Arme, bleich gehärmt zuvor,</l>
+            <l>Ihn sehend, Trost aus seinen Blicken schöpft:</l>
+            <l>Und allgemeine Gaben, wie die Sonne,</l>
+            <l>Erteilet jedem sein freigebig Auge,</l>
+            <l>Auftauend kalte Furcht. Drum, Hoh' und Niedre,</l>
+            <l>Seht, wie Unwürdigkeit ihn zeichnen mag,</l>
+            <l>Den leichten Abriß Heinrichs in der Nacht.</l>
+            <l>So muß zum Treffen unsre Szene fliegen,</l>
+            <l>Wo wir (o Schmach!) gar sehr entstellen werden</l>
+            <l>Mit vier bis fünf zerfetzten schnöden Klingen,</l>
+            <l>Zu lächerlichem Balgen schlecht geordnet,</l>
+            <l>Den Namen Agincourt. Doch sitzt und seht,</l>
+            <l>Das Wahre denkend, wo sein Scheinbild steht. <stage>Ab.</stage></l>
+          </sp>
+        </div>
         <div type="scene">
           <head>Erste Szene</head>
           <stage>Das englische Lager zu Agincourt.</stage>
@@ -3573,7 +3723,8 @@
             <p>Nun, im Namen Jessu Christi, sprecht doch leiser! Es ist das Allerverwunderlichste in
               der sämtlichen Welt, wenn die wahren und uralten Prifilegien und Gesetze des Krieges
               nicht beobachtet sein. Wenn Ihr Euch nur die Mühe nehmen wolltet, die Kriege von
-              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb n="448"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
+              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb
+                n="448"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
               stehe Euch dafür, Ihr werdet finden daß die Cärimonien des Krieges, und die Sorgfalt
               in selbigem, und die Sitten in selbigem, und die Nüchternheit in selbigem, und die
               Bescheidenheit in selbigem ganz anders sein.</p>
@@ -3648,7 +3799,8 @@
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Nein, und er muß es auch nicht tun. Denn, ob ich es Euch schon sage, ich denke, der
-              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb n="449"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
+              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb
+                n="449"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
               menschlichen Bedingungen; seine Zeremonien bei Seite gesetzt, erscheint er in seiner
               Nacktheit nur als ein Mensch, und wiewohl seine Neigungen einen höheren Schwung nehmen
               als unsre, so senken sie sich doch mit demselben Fittig, wenn sie sich senken. Daher
@@ -4009,7 +4161,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Die Feinde stehn in Reih'n, ihr fränk'schen Pairs.</l>
           </sp>
@@ -4042,7 +4194,7 @@
               <l>Denn unser Nahn soll so das Feld erschrecken,</l>
               <l>Daß England sich in Furcht soll niederstrecken.</l>
             </lg>
-            <stage>Grandpre tritt auf.</stage>
+            <stage>Grandpré tritt auf.</stage>
           </sp>
           <sp who="#grandpre">
             <speaker>GRANDPRE.</speaker>
@@ -4853,7 +5005,7 @@
           </sp>
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
-            <p>Euer Großvater berühmten Andenkens, mit Euer Majestät Erlaubnis, und Euer Groß- Oheim
+            <p>Euer Großvater berühmten Andenkens, mit Euer Majestät Erlaubnis, und Euer Groß-Oheim
               Eduard, der Schwarze Prinz von Wales, wie ich in den Chroniken gelesen habe, fochten
               hier in Frankreich eine sehr prafe Schlacht.</p>
           </sp>
@@ -4924,7 +5076,8 @@
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Mit Euer Majestät Erlaubnis, ein Schelm, der mir letzte Nacht was vorschwadronierte;
-              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb n="470"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
+              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb
+                n="470"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
               Handschuh an seiner Mütze zu sehen kriege (und er schwur, so wahr er ein Soldat wäre,
               er wollte ihn tragen, wenn er am Leben bliebe), so will ich ihn ihm tüchtig herunter
               schlagen.</p>
@@ -5184,7 +5337,8 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Es geschieht mit gutem Willen; ich sage Euch, Ihr könnt Eure Schuh' damit flicken
-              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb n="474"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
+              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb
+                n="474"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
               wechseln.</p>
             <stage>Ein englischer Herold tritt auf.</stage>
           </sp>
@@ -5295,58 +5449,60 @@
       <pb n="476"/>
       <div type="act">
         <head>Fünfter Aufzug</head>
-        <sp who="#chorus">
-          <speaker>CHORUS</speaker>
-          <stage>tritt auf.</stage>
-          <l>Vergönnt, daß denen, welche die Geschichte</l>
-          <l>Nicht lasen, ich sie deute; wer sie kennt,</l>
-          <l>Den bitt' ich ziemlichst um Entschuldigung</l>
-          <l>Für Zeit und Zahl und rechten Lauf der Dinge,</l>
-          <l>Die hier in ihrem großen wahren Leben</l>
-          <l>Nicht darzustellen sind. Den König bringen</l>
-          <l>Wir nach Calais; dort sei er, dort gesehn,</l>
-          <l>Hebt ihn auf den beflügelten Gedanken</l>
-          <l>Die See hinüber. Englands Küste, seht,</l>
-          <l>Umpfählt die Flut mit Männern, Weibern, Kindern;</l>
-          <l>Sie überjauchzen das tiefstimm'ge Meer,</l>
-          <l>Das, wie ein mächt'ger Marschall, vor dem König</l>
-          <l>Den Weg zu bahnen scheint: so laßt ihn landen,</l>
-          <l>Und feierlich seht ihn nach London ziehn.</l>
-          <l>So rasch ist des Gedankens Gang, daß ihr</l>
-          <l>Alsbald ihn auf Black-Heath euch denken könnt,</l>
-          <l>Wo seine Lords begehren, daß er lasse</l>
-          <l>Sein umgebognes Schwert, den Helm voll Beulen</l>
-          <l>Sich durch die Stadt vortragen. Er verbietet's,</l>
-          <l>Frei von ruhmred'gem Stolz und Eitelkeit,</l>
-          <l>Und gibt Trophäen, Siegeszeichen, Pomp</l>
-          <l>Ganz von sich weg an Gott. Nun aber seht</l>
-          <l>In reger Schmied' und Werkstatt der Gedanken,</l>
-          <l>Wie London seine Bürgerschaft ergießt.</l>
-          <l>Der Schulz, samt seinen Brüdern, all' im Staat,</l>
-          <l>So wie im alten Rom die Senatoren,</l>
-          <l>An ihren Fersen der Plebejer Schwarm,</l>
-          <l>Gehn, ihren Sieger Cäsar einzuholen:</l>
-          <l>Wie (sei's ein kleinres, doch ein liebend Gleichnis),</l>
-          <pb n="477"/>
-          <l>Wenn jetzt der Feldherr unsrer gnäd'gen Kaiserin,</l>
-          <l>Wie er es leichtlich mag, aus Irland käme</l>
-          <l>Und brächt' Empörung auf dem Schwert gespießt:</l>
-          <l>Wie viele würden diese Friedensstadt</l>
-          <l>Verlassen, um willkommen ihn zu heißen?</l>
-          <l>Vielmehre taten, und mit viel mehr Grund</l>
-          <l>Dies unserm Heinrich. Setzt ihn nun in London,</l>
-          <l>(Da noch das Weheklagen der Franzosen</l>
-          <l>Den König Englands heim zu weilen mahnt,</l>
-          <l>Wie auch des Kaisers Zwischenkunft für Frankreich,</l>
-          <l>Um Frieden zu vermitteln;) übergeht</l>
-          <l>All die Ereignisse, die vorgefallen,</l>
-          <l>Bis Heinrich wieder rückgekehrt nach Frankreich.</l>
-          <l>Dort müssen wir ihn haben, und ich spielte</l>
-          <l>Die Zwischenzeit, indem ich euch erinnert,</l>
-          <l>Sie sei vorbei. Drum duldet Abkürzung,</l>
-          <l>Und wendet euren Blick nach den Gedanken</l>
-          <l>Flugs wiederum zurück ins Land der Franken! <stage>Ab.</stage></l>
-        </sp>
+        <div type="prologue">
+          <sp who="#chorus">
+            <speaker>CHORUS</speaker>
+            <stage>tritt auf.</stage>
+            <l>Vergönnt, daß denen, welche die Geschichte</l>
+            <l>Nicht lasen, ich sie deute; wer sie kennt,</l>
+            <l>Den bitt' ich ziemlichst um Entschuldigung</l>
+            <l>Für Zeit und Zahl und rechten Lauf der Dinge,</l>
+            <l>Die hier in ihrem großen wahren Leben</l>
+            <l>Nicht darzustellen sind. Den König bringen</l>
+            <l>Wir nach Calais; dort sei er, dort gesehn,</l>
+            <l>Hebt ihn auf den beflügelten Gedanken</l>
+            <l>Die See hinüber. Englands Küste, seht,</l>
+            <l>Umpfählt die Flut mit Männern, Weibern, Kindern;</l>
+            <l>Sie überjauchzen das tiefstimm'ge Meer,</l>
+            <l>Das, wie ein mächt'ger Marschall, vor dem König</l>
+            <l>Den Weg zu bahnen scheint: so laßt ihn landen,</l>
+            <l>Und feierlich seht ihn nach London ziehn.</l>
+            <l>So rasch ist des Gedankens Gang, daß ihr</l>
+            <l>Alsbald ihn auf Black-Heath euch denken könnt,</l>
+            <l>Wo seine Lords begehren, daß er lasse</l>
+            <l>Sein umgebognes Schwert, den Helm voll Beulen</l>
+            <l>Sich durch die Stadt vortragen. Er verbietet's,</l>
+            <l>Frei von ruhmred'gem Stolz und Eitelkeit,</l>
+            <l>Und gibt Trophäen, Siegeszeichen, Pomp</l>
+            <l>Ganz von sich weg an Gott. Nun aber seht</l>
+            <l>In reger Schmied' und Werkstatt der Gedanken,</l>
+            <l>Wie London seine Bürgerschaft ergießt.</l>
+            <l>Der Schulz, samt seinen Brüdern, all' im Staat,</l>
+            <l>So wie im alten Rom die Senatoren,</l>
+            <l>An ihren Fersen der Plebejer Schwarm,</l>
+            <l>Gehn, ihren Sieger Cäsar einzuholen:</l>
+            <l>Wie (sei's ein kleinres, doch ein liebend Gleichnis),</l>
+            <pb n="477"/>
+            <l>Wenn jetzt der Feldherr unsrer gnäd'gen Kaiserin,</l>
+            <l>Wie er es leichtlich mag, aus Irland käme</l>
+            <l>Und brächt' Empörung auf dem Schwert gespießt:</l>
+            <l>Wie viele würden diese Friedensstadt</l>
+            <l>Verlassen, um willkommen ihn zu heißen?</l>
+            <l>Vielmehre taten, und mit viel mehr Grund</l>
+            <l>Dies unserm Heinrich. Setzt ihn nun in London,</l>
+            <l>(Da noch das Weheklagen der Franzosen</l>
+            <l>Den König Englands heim zu weilen mahnt,</l>
+            <l>Wie auch des Kaisers Zwischenkunft für Frankreich,</l>
+            <l>Um Frieden zu vermitteln;) übergeht</l>
+            <l>All die Ereignisse, die vorgefallen,</l>
+            <l>Bis Heinrich wieder rückgekehrt nach Frankreich.</l>
+            <l>Dort müssen wir ihn haben, und ich spielte</l>
+            <l>Die Zwischenzeit, indem ich euch erinnert,</l>
+            <l>Sie sei vorbei. Drum duldet Abkürzung,</l>
+            <l>Und wendet euren Blick nach den Gedanken</l>
+            <l>Flugs wiederum zurück ins Land der Franken! <stage>Ab.</stage></l>
+          </sp>
+        </div>
         <div type="scene">
           <head>Erste Szene</head>
           <stage>Frankreich. Ein englischer Wachtplatz.</stage>
@@ -6100,7 +6256,7 @@
               <l>Inmitten England und dem Fränk'schen Reiche!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_v-2">
             <speaker>ALLE.</speaker>
             <l>Amen!</l>
           </sp>
@@ -6127,7 +6283,7 @@
               <l>Von Brüdern sei'n: Gott sage hiezu Amen!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_v-2">
             <speaker>ALLE.</speaker>
             <l>Amen!</l>
           </sp>
@@ -6143,27 +6299,29 @@
             </lg>
             <stage>Alle ab.</stage>
           </sp>
-          <sp who="#chorus">
-            <speaker>CHORUS</speaker>
-            <stage>tritt auf.</stage>
-            <lg>
-              <l>So weit, mit rauhem, ungelenkem Kiel,</l>
-              <l>Kam unser Dichter, der Geschicht' sich bückend.</l>
-              <l>Beschränkend große Leut' in engem Spiel,</l>
-              <l>Ruckweise ihres Ruhmes Bahn zerstückend.</l>
-              <l>Nur kleine Zeit, doch groß in seiner Kraft</l>
-              <l>Schien Englands Stern; das Glück gab ihm sein Schwert,</l>
-              <l>Das ihm der Erde schönsten Garten schafft</l>
-              <l>Und seinem Erben Reich und Herrschaft mehrt.</l>
-              <l>Heinrich der Sechst', in Windeln schon ernennt</l>
-              <l>Zu Frankreichs Herrn und Englands, folgt' ihm nach,</l>
-              <l>Durch dessen vielberatnes Regiment</l>
-              <l>Frankreich verloren ward und England schwach;</l>
-              <l>Was oft auf unsrer Bühne vorgegangen,</l>
-              <l>Und wollet drum auch dies geneigt empfangen.</l>
-            </lg>
-          </sp>
         </div>
+      </div>
+      <div type="epilogue">
+        <sp who="#chorus">
+          <speaker>CHORUS</speaker>
+          <stage>tritt auf.</stage>
+          <lg>
+            <l>So weit, mit rauhem, ungelenkem Kiel,</l>
+            <l>Kam unser Dichter, der Geschicht' sich bückend.</l>
+            <l>Beschränkend große Leut' in engem Spiel,</l>
+            <l>Ruckweise ihres Ruhmes Bahn zerstückend.</l>
+            <l>Nur kleine Zeit, doch groß in seiner Kraft</l>
+            <l>Schien Englands Stern; das Glück gab ihm sein Schwert,</l>
+            <l>Das ihm der Erde schönsten Garten schafft</l>
+            <l>Und seinem Erben Reich und Herrschaft mehrt.</l>
+            <l>Heinrich der Sechst', in Windeln schon ernennt</l>
+            <l>Zu Frankreichs Herrn und Englands, folgt' ihm nach,</l>
+            <l>Durch dessen vielberatnes Regiment</l>
+            <l>Frankreich verloren ward und England schwach;</l>
+            <l>Was oft auf unsrer Bühne vorgegangen,</l>
+            <l>Und wollet drum auch dies geneigt empfangen.</l>
+          </lg>
+        </sp>
       </div>
     </body>
   </text>

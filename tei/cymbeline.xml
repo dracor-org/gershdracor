@@ -2250,18 +2250,18 @@
               aufgeben will ich es nicht. Erst ein vortreffliches, gut gespieltes Ding; nachher ein
               wunderbar süßer Gesang, mit erstaunlichen, übermäßigen Worten dazu. – Dann mag sie
               sich's überlegen.</p>
-          </sp>
-          <stage>Lied</stage>
-          <sp>
-            <l>Horch! Lerch' am Himmelstor singt hell,</l>
-            <l>Und Phöbus steigt herauf,</l>
-            <l>Sein Roßgespann trinkt süßen Quell</l>
-            <l>Von Blumenkelchen auf;</l>
-            <l>Die Ringelblum' erwacht aus Traum,</l>
-            <l>Tut güldne Äuglein auf;</l>
-            <l>Lacht jede Blüt' im grünen Raum,</l>
-            <l>Drum, holdes Kind, steh auf;</l>
-            <l>Steh auf, steh auf!</l>
+            <stage>Lied</stage>
+            <lg>
+              <l>Horch! Lerch' am Himmelstor singt hell,</l>
+              <l>Und Phöbus steigt herauf,</l>
+              <l>Sein Roßgespann trinkt süßen Quell</l>
+              <l>Von Blumenkelchen auf;</l>
+              <l>Die Ringelblum' erwacht aus Traum,</l>
+              <l>Tut güldne Äuglein auf;</l>
+              <l>Lacht jede Blüt' im grünen Raum,</l>
+              <l>Drum, holdes Kind, steh auf;</l>
+              <l>Steh auf, steh auf!</l>
+            </lg>
           </sp>
           <pb n="413"/>
           <sp who="#cloten">

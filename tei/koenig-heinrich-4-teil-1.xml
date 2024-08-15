@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich IV. Erster Teil</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="179" to="275">179–275</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich IV. Erster
+              Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="179" to="275">179–275</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,115 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich IV.</persName>
+          </person>
+          <person xml:id="westmoreland" sex="MALE">
+            <persName>Graf von Westmoreland</persName>
+          </person>
+          <person xml:id="falstaff" sex="MALE">
+            <persName>Sir John Falstaff</persName>
+          </person>
+          <person xml:id="prinz_heinrich" sex="MALE">
+            <persName>Heinrich, Prinz von Wales</persName>
+          </person>
+          <person xml:id="poins" sex="MALE">
+            <persName>Poins</persName>
+          </person>
+          <person xml:id="worcester" sex="MALE">
+            <persName>Graf von Worcester</persName>
+          </person>
+          <person xml:id="northumberland" sex="MALE">
+            <persName>Graf von Northumberland</persName>
+          </person>
+          <person xml:id="percy" sex="MALE">
+            <persName>Heinrich Percy</persName>
+          </person>
+          <person xml:id="blunt" sex="MALE">
+            <persName>Sir Walter Blunt</persName>
+          </person>
+          <person xml:id="erster_kaerrner" sex="MALE">
+            <persName>Erster Kärrner</persName>
+          </person>
+          <person xml:id="stallknecht" sex="MALE">
+            <persName>Stallknecht</persName>
+          </person>
+          <person xml:id="zweiter_kaerrner" sex="MALE">
+            <persName>Zweiter Kärrner</persName>
+          </person>
+          <person xml:id="gadshill" sex="MALE">
+            <persName>Gadshill</persName>
+          </person>
+          <person xml:id="hausknecht" sex="MALE">
+            <persName>Hausknecht</persName>
+          </person>
+          <person xml:id="bardolph" sex="MALE">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="peto" sex="MALE">
+            <persName>Peto</persName>
+          </person>
+          <person xml:id="erster_reisender" sex="MALE">
+            <persName>Erster Reisender</persName>
+          </person>
+          <personGrp xml:id="die_reisenden" sex="MALE">
+            <name>Die Reisenden</name>
+          </personGrp>
+          <person xml:id="lady_percy" sex="FEMALE">
+            <persName>Lady Percy</persName>
+          </person>
+          <person xml:id="bedienter" sex="MALE">
+            <persName>Ein Bedienter</persName>
+          </person>
+          <person xml:id="franz" sex="MALE">
+            <persName>Franz</persName>
+          </person>
+          <person xml:id="kellner" sex="MALE">
+            <persName>Kellner</persName>
+          </person>
+          <person xml:id="wirtin" sex="FEMALE">
+            <persName>Frau Hurtig (Wirtin)</persName>
+          </person>
+          <person xml:id="sheriff" sex="MALE">
+            <persName>Sheriff</persName>
+          </person>
+          <person xml:id="kaerrner_ii-4" sex="MALE">
+            <persName>Ein Kärrner (II/4)</persName>
+          </person>
+          <person xml:id="mortimer" sex="MALE">
+            <persName>Edmund Mortimer, Graf von March</persName>
+          </person>
+          <person xml:id="glendower" sex="MALE">
+            <persName>Owen Glendower</persName>
+          </person>
+          <person xml:id="douglas" sex="MALE">
+            <persName>Archibald, Graf von Douglas</persName>
+          </person>
+          <person xml:id="bote_iv-1" sex="MALE">
+            <persName>Ein Bote (IV/1)</persName>
+          </person>
+          <person xml:id="vernon" sex="MALE">
+            <persName>Sir Richard Vernon</persName>
+          </person>
+          <person xml:id="erzbischof" sex="MALE">
+            <persName>Scroop, Erzbischof von York</persName>
+          </person>
+          <person xml:id="edelmann" sex="MALE">
+            <persName>Ein Edelmann</persName>
+          </person>
+          <person xml:id="bote_v-2a" sex="MALE">
+            <persName>Ein Bote (V/2)</persName>
+          </person>
+          <person xml:id="bote_v-2b" sex="MALE">
+            <persName>Ein andrer Bote (V/2)</persName>
+          </person>
+          <person xml:id="prinz_johann" sex="MALE">
+            <persName>Prinz Johann von Lancaster</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +183,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000016" passive="http://www.wikidata.org/entity/Q631855"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000016"
+        passive="http://www.wikidata.org/entity/Q631855"/>
     </listRelation>
   </standOff>
   <text>
@@ -1242,7 +1348,7 @@
           <head>Erste Szene</head>
           <stage>Rochester. Ein Hof in der Herberge.</stage>
           <stage>Ein Kärrner kommt gähnend mit einer Laterne in der Hand.</stage>
-          <sp who="#kaerrner">
+          <sp who="#erster_kaerrner">
             <speaker>KÄRRNER.</speaker>
             <p>Ohe! Wenn's nicht schon um viere ist, will ich mich hängen lassen. Der Wagen da
               droben steht schon über dem neuen Schornstein, und unser Pferd ist noch nicht bepackt.
@@ -1253,7 +1359,7 @@
             <stage>drinnen.</stage>
             <p>Gleich! Gleich!</p>
           </sp>
-          <sp who="#kaerrner">
+          <sp who="#erster_kaerrner">
             <speaker>KÄRRNER.</speaker>
             <p>Hörst du, Thoms, schlag' mir Hansens Sattel zurecht, steck' ein bißchen Werg unter
               den Knopf! Das arme Vieh hat sich am Widerrist gedruckt wie nichts Gutes.</p>
@@ -1603,7 +1709,7 @@
             <p>Kommt, Nachbar, der Junge soll unsre Pferde den Berg hinunter führen: wir wollen ein
               Weilchen gehn und uns die Füße vertreten.</p>
           </sp>
-          <sp who="#die_raeuber">
+          <sp who="#bardolph #peto #falstaff #gadshill">
             <speaker>DIE RÄUBER.</speaker>
             <p>Halt!</p>
           </sp>
@@ -1615,7 +1721,7 @@
           <sp who="#falstaff">
             <speaker>FALSTAFF.</speaker>
             <p>Schlagt zu! Macht sie nieder! Brecht den Buben die Hälse! Ei, das unnütze
-              Schmarotzer- Pack! Die Speckfresser! Sie hassen uns junges Volk. Nieder mit ihnen!
+              Schmarotzer-Pack! Die Speckfresser! Sie hassen uns junges Volk. Nieder mit ihnen!
               Rupft sie!</p>
           </sp>
           <sp who="#erster_reisender">
@@ -1703,7 +1809,8 @@
               jetzt bei dem Schurken wäre, so könnte ich ihm mit seiner Frauen Fächer den Kopf
               einschlagen. Ist nicht mein Vater, mein Oheim und ich selbst dabei? Lord Edmund
               Mortimer, der Erzbischof von York und Owen Glendower? Ist nicht endlich der Douglas
-              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
+              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb
+                n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
               ausgerückt? Was ist das für ein ungläubiger Schurke? Ein Heide! Ha, ihr sollt nun
               sehen, aus wahrer, aufrichtiger Furcht und Engherzigkeit wird er zum Könige gehn und
               ihm alle unsre Anstalten vorlegen. Oh, ich könnte mich zerteilen und mir Maulschellen
@@ -2877,7 +2984,7 @@
               <l>Ein starker fetter Mann.</l>
             </lg>
           </sp>
-          <sp who="#kaerrner">
+          <sp who="#kaerrner_ii-4">
             <speaker>KÄRRNER.</speaker>
             <l>So fett wie Butter.</l>
           </sp>
@@ -4253,7 +4360,7 @@
             <stage>Ein Bote kommt mit Briefen.</stage>
             <l>Was bringst du da? – Nur danken kann ich Euch.</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-1">
             <speaker>BOTE.</speaker>
             <l>Von Eurem Vater kommen diese Briefe.</l>
           </sp>
@@ -4261,7 +4368,7 @@
             <speaker>PERCY.</speaker>
             <l>Briefe von ihm? Warum kommt er nicht selbst?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-1">
             <speaker>BOTE.</speaker>
             <l>Er kann nicht, gnäd'ger Herr, er ist schwer krank.</l>
           </sp>
@@ -4273,7 +4380,7 @@
               <l>In wessen Leitung rücken sie heran?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-1">
             <speaker>BOTE.</speaker>
             <l>Sein Brief, nicht ich, kann Euch das sagen, Herr.</l>
           </sp>
@@ -4281,7 +4388,7 @@
             <speaker>WORCESTER.</speaker>
             <l>Ich bitt' dich, sag mir, hütet er das Bett?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ja, gnäd'ger Herr, vier Tage, eh' ich reiste,</l>
@@ -5376,7 +5483,7 @@
             </lg>
             <stage>Ein Bote kommt.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-2a">
             <speaker>BOTE.</speaker>
             <l>Herr, da sind Briefe für Euch.</l>
           </sp>
@@ -5396,7 +5503,7 @@
             <stage>Ein andrer Bote kommt.</stage>
           </sp>
           <pb n="266"/>
-          <sp who="#bote">
+          <sp who="#bote_v-2b">
             <speaker>BOTE.</speaker>
             <l>Herr, rüstet Euch, der König naht in Eil'.</l>
           </sp>
