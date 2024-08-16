@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich VI. Zweiter Teil</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="585" to="687">585–687</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich VI. Zweiter
+              Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="585" to="687">585–687</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,223 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="suffolk" sex="MALE">
+            <persName>Herzog von Suffolk</persName>
+          </person>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich IV.</persName>
+          </person>
+          <person xml:id="margareta" sex="FEMALE">
+            <persName>Margareta</persName>
+          </person>
+          <personGrp xml:id="alle_i-1" sex="UNKNOWN">
+            <name>Alle (I/1)</name>
+          </personGrp>
+          <person xml:id="gloster" sex="MALE">
+            <persName>Humphrey, Herzog von Gloster</persName>
+          </person>
+          <person xml:id="kardinal" sex="MALE">
+            <persName>Kardinal Beaufort, Bischof von Winchester</persName>
+          </person>
+          <person xml:id="salisbury" sex="MALE">
+            <persName>Graf von Salisbury</persName>
+          </person>
+          <person xml:id="warwick" sex="MALE">
+            <persName>Graf von Warwick</persName>
+          </person>
+          <person xml:id="york" sex="MALE">
+            <persName>Richard Plantagenet, Herzog von York</persName>
+          </person>
+          <person xml:id="buckingham" sex="MALE">
+            <persName>Herzog von Buckingham</persName>
+          </person>
+          <person xml:id="somerset" sex="MALE">
+            <persName>Herzog von Somerset</persName>
+          </person>
+          <person xml:id="herzogin" sex="FEMALE">
+            <persName>Leonora, Herzogin von Gloster</persName>
+          </person>
+          <person xml:id="bote_i-2" sex="MALE">
+            <persName>Ein Bote (I/2)</persName>
+          </person>
+          <person xml:id="hume" sex="MALE">
+            <persName>Hume</persName>
+          </person>
+          <person xml:id="erster_supplikant" sex="MALE">
+            <persName>Erster Supplikant</persName>
+          </person>
+          <person xml:id="zweiter_supplikant" sex="MALE">
+            <persName>Zweiter Supplikant</persName>
+          </person>
+          <person xml:id="peter" sex="MALE">
+            <persName>Peter</persName>
+          </person>
+          <person xml:id="koenigin" sex="FEMALE">
+            <persName>Margareta, König Heinrichs Gemahlin</persName>
+          </person>
+          <person xml:id="horner" sex="MALE">
+            <persName>Thomas Horner</persName>
+          </person>
+          <person xml:id="bolingbroke" sex="MALE">
+            <persName>Bolingbroke</persName>
+          </person>
+          <person xml:id="geist" sex="UNKNOWN">
+            <persName>Geist</persName>
+          </person>
+          <person xml:id="grete_jordan" sex="FEMALE">
+            <persName>Grete Jordan</persName>
+          </person>
+          <person xml:id="einwohner" sex="MALE">
+            <persName>Ein Einwohner von Sankt-Albans</persName>
+          </person>
+          <person xml:id="simpcox" sex="MALE">
+            <persName>Simpcox</persName>
+          </person>
+          <person xml:id="frau" sex="FEMALE">
+            <persName>Simpcoxens Frau</persName>
+          </person>
+          <person xml:id="schulz" sex="MALE">
+            <persName>Der Schulz von Sankt-Albans</persName>
+          </person>
+          <person xml:id="buettel" sex="MALE">
+            <persName>Büttel</persName>
+          </person>
+          <person xml:id="erster_nachbar" sex="MALE">
+            <persName>Erster Nachbar</persName>
+          </person>
+          <person xml:id="zweiter_nachbar" sex="MALE">
+            <persName>Zweiter Nachbar</persName>
+          </person>
+          <person xml:id="dritter_nachbar" sex="MALE">
+            <persName>Dritter Nachbar</persName>
+          </person>
+          <person xml:id="erster_lehrbursche" sex="MALE">
+            <persName>Erster Lehrbursche</persName>
+          </person>
+          <person xml:id="zweiter_lehrbursche" sex="MALE">
+            <persName>Zweiter Lehrbursche</persName>
+          </person>
+          <person xml:id="bedienter" sex="MALE">
+            <persName>Bedienter</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Ein Herold</persName>
+          </person>
+          <person xml:id="sheriff" sex="MALE">
+            <persName>Ein Sheriff</persName>
+          </person>
+          <person xml:id="stanley" sex="MALE">
+            <persName>Sir John Stanley</persName>
+          </person>
+          <person xml:id="bote_iii-1" sex="MALE">
+            <persName>Ein Bote (III/1)</persName>
+          </person>
+          <person xml:id="erster_moerder" sex="MALE">
+            <persName>Erster Mörder</persName>
+          </person>
+          <person xml:id="zweiter_moerder" sex="MALE">
+            <persName>Zweiter Mörder</persName>
+          </person>
+          <personGrp xml:id="volk" sex="UNKNOWN">
+            <name>Volk</name>
+          </personGrp>
+          <person xml:id="vaux" sex="MALE">
+            <persName>Vaux</persName>
+          </person>
+          <person xml:id="beaufort" sex="MALE">
+            <persName>Kardinal Beaufort, Bischof von Winchester</persName>
+          </person>
+          <person xml:id="schiffshauptmann" sex="MALE">
+            <persName>Ein Schiffshauptmann</persName>
+          </person>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="patron" sex="MALE">
+            <persName>Der Patron</persName>
+          </person>
+          <person xml:id="gehuelfe" sex="MALE">
+            <persName>Gehülfe</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="wittmer" sex="MALE">
+            <persName>Seyfart Wittmer</persName>
+          </person>
+          <person xml:id="georg" sex="MALE">
+            <persName>Georg Bevis</persName>
+          </person>
+          <person xml:id="johann" sex="MALE">
+            <persName>Johann Holland</persName>
+          </person>
+          <person xml:id="cade" sex="MALE">
+            <persName>Hans Cade</persName>
+          </person>
+          <person xml:id="maerten" sex="MALE">
+            <persName>Märten der Metzger</persName>
+          </person>
+          <person xml:id="smith" sex="MALE">
+            <persName>Smith der Leinweber</persName>
+          </person>
+          <personGrp xml:id="alle_iv" sex="UNKNOWN">
+            <name>Alle (IV), Cades Anhänger</name>
+          </personGrp>
+          <person xml:id="schreiber" sex="MALE">
+            <persName>Der Schreiber von Chatham</persName>
+          </person>
+          <person xml:id="michel" sex="MALE">
+            <persName>Michel</persName>
+          </person>
+          <person xml:id="stafford" sex="MALE">
+            <persName>Sir Humphrey Stafford</persName>
+          </person>
+          <person xml:id="william_stafford" sex="MALE">
+            <persName>William Stafford</persName>
+          </person>
+          <person xml:id="say" sex="MALE">
+            <persName>Lord Say</persName>
+          </person>
+          <person xml:id="bote_iv-4" sex="MALE">
+            <persName>Ein Bote (IV/4)</persName>
+          </person>
+          <person xml:id="zweiter_bote" sex="MALE">
+            <persName>Zweiter Bote</persName>
+          </person>
+          <person xml:id="scales" sex="MALE">
+            <persName>Lord Scales</persName>
+          </person>
+          <person xml:id="erster_buerger" sex="MALE">
+            <persName>Erster Bürger</persName>
+          </person>
+          <person xml:id="soldat" sex="MALE">
+            <persName>Ein Soldat</persName>
+          </person>
+          <person xml:id="bote_iv-7" sex="MALE">
+            <persName>Ein Bote (IV/7)</persName>
+          </person>
+          <person xml:id="clifford" sex="MALE">
+            <persName>Lord Clifford</persName>
+          </person>
+          <person xml:id="bote_iv-9" sex="MALE">
+            <persName>Ein Bote (IV/9)</persName>
+          </person>
+          <person xml:id="iden" sex="MALE">
+            <persName>Alexander Iden</persName>
+          </person>
+          <person xml:id="eduard" sex="MALE">
+            <persName>Eduard</persName>
+          </person>
+          <person xml:id="richard" sex="MALE">
+            <persName>Richard</persName>
+          </person>
+          <person xml:id="clifford_sohn" sex="MALE">
+            <persName>Der junge Clifford</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +291,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000020" passive="http://www.wikidata.org/entity/Q1236216"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000020"
+        passive="http://www.wikidata.org/entity/Q1236216"/>
     </listRelation>
   </standOff>
   <text>
@@ -116,8 +330,7 @@
         <castItem>Lord Say</castItem>
         <castItem>Sir Humphrey Stafford und sein Bruder</castItem>
         <castItem>Sir John Stanley</castItem>
-        <castItem>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart
-          Wittmer</castItem>
+        <castItem>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart Wittmer</castItem>
         <castItem>Zwei Edelleute, nebst Suffolk gefangen</castItem>
         <castItem>Ein Herold</castItem>
         <castItem>Vaux</castItem>
@@ -130,8 +343,8 @@
         <castItem>Simpcox, ein Betrüger</castItem>
         <castItem>Zwei Mörder</castItem>
         <castItem>Hans Cade, ein Rebell</castItem>
-        <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel
-          u.a., seine Anhänger</castItem>
+        <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel u.a.,
+          seine Anhänger</castItem>
         <castItem>Alexander Iden, ein kentischer Edelmann</castItem>
         <pb n="588"/>
         <castItem>Margareta, König Heinrichs Gemahlin</castItem>
@@ -216,7 +429,7 @@
               <l>Lords, heißt mit einer Stimme sie willkommen!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_i-1">
             <speaker>ALLE.</speaker>
             <l>Lang' lebe Margareta, Englands Heil!</l>
             <stage>Trompetenstoß.</stage>
@@ -680,7 +893,7 @@
             <l>Nun, sei nicht zornig, ich bin wieder gut.</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_i-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mylord Protektor, Seine Hoheit wünscht,</l>
@@ -874,7 +1087,7 @@
             <stage>Sie zerreißt die Bittschriften.</stage>
             <l>Fort, ihr Halunken! – Suffolk, laßt sie gehn.</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#erster_supplikant #zweiter_supplikant #peter">
             <speaker>ALLE.</speaker>
             <l>Kommt! Laßt uns gehn!</l>
             <stage>Supplikanten ab.</stage>
@@ -2249,7 +2462,7 @@
               <l>Mit Ehren des Geburtsrechts an den Thron.</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#warwick #salisbury">
             <speaker>BEIDE.</speaker>
             <l>Lang' lebe König Richard, unser Herr!</l>
           </sp>
@@ -2502,8 +2715,7 @@
           </sp>
           <sp who="#horner">
             <speaker>HORNER.</speaker>
-            <p>Halt, Peter, halt! Ich bekenne, ich bekenne meine Verräterei.
-              <stage>Stirbt.</stage>
+            <p>Halt, Peter, halt! Ich bekenne, ich bekenne meine Verräterei. <stage>Stirbt.</stage>
             </p>
           </sp>
           <sp who="#york">
@@ -3299,7 +3511,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ihr großen Lords, von Irland eilt' ich her,</l>
@@ -4872,7 +5084,7 @@
               alle in gemein haben; in Cheapside geht euch mein Klepper auf die Weide. Und wenn ich
               König bin, – wie ich es denn bald sein werde, –</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Gott erhalte Eure Majestät!</p>
           </sp>
@@ -4949,7 +5161,7 @@
             <speaker>SCHREIBER.</speaker>
             <p>Gott sei Dank, Herr, ich bin so gut erzogen, daß ich meinen Namen schreiben kann.</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Er hat bekannt: fort mit ihm! Er ist ein Schelm und ein Verräter.</p>
           </sp>
@@ -5075,7 +5287,7 @@
               <l>Der spricht, er weiß nicht was?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Jawohl, das tun wir; also packt euch nur!</p>
           </sp>
@@ -5114,7 +5326,7 @@
               frage Euch nur: kann jemand, der mit der Zunge eines Feindes spricht, ein guter
               Ratgeber sein oder nicht?</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Nein, nein, und also wollen wir seinen Kopf haben.</p>
           </sp>
@@ -5273,7 +5485,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Nun dann, was gibt's? Was kommst du so in Eil'?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Die Meuter sind in Southwark: flieht, mein Fürst!</l>
@@ -5486,7 +5698,7 @@
             <p>Und hinfüro soll alles in Gemeinschaft sein.</p>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-7">
             <speaker>BOTE.</speaker>
             <p>Mylord, ein Fang! ein Fang! Hier ist der Lord Say, der die Städte in Frankreich
               verkauft hat; der uns einundzwanzig Funfzehnte hat bezahlen lassen und einen Schilling
@@ -5642,7 +5854,7 @@
               Haus seines Schwiegersohnes Sir John Cromer und schlagt ihm den Kopf ab, und bringt
               sie beide auf zwei Stangen her!</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <l>Es soll geschehn.</l>
           </sp>
@@ -5675,7 +5887,7 @@
             <speaker>CADE.</speaker>
             <p>Ei, sogleich!</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>O herrlich!</p>
             <stage>Es kommen Rebellen zurück mit den Köpfen des Lord Say und seines
@@ -5728,7 +5940,7 @@
               <l>Und sage: »Gott erhalte Seine Majestät!«</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Gott erhalte den König! Gott erhalte den König!</p>
           </sp>
@@ -5745,7 +5957,7 @@
               betrifft, ich will jetzt nur für <emph>einen</emph> sorgen, und euch alle möge Gottes
               Fluch treffen!</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <l>Wir folgen unserm Cade! Wir folgen unserm Cade!</l>
           </sp>
@@ -5774,7 +5986,7 @@
               <l>Gott mit uns, zweifelt nicht an eurem Sieg!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <p>Clifford hoch! Clifford hoch! Wir folgen dem König und Clifford.</p>
           </sp>
@@ -5858,12 +6070,12 @@
               <l>Entlass' ich euch, in seine Heimat jeden.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv">
             <speaker>ALLE.</speaker>
             <l>Gott erhalte den König! Gott erhalte den König!</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-9">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Vergönnen mir Eu'r Gnaden, zu berichten,</l>

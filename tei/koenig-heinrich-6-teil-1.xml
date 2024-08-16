@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich VI. Erster Teil</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="493" to="583">493–583</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich VI. Erster
+              Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="493" to="583">493–583</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,193 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="bedford" sex="MALE">
+            <persName>Herzog von Bedford</persName>
+          </person>
+          <person xml:id="gloster" sex="MALE">
+            <persName>Herzog von Gloster</persName>
+          </person>
+          <person xml:id="exeter" sex="MALE">
+            <persName>Thomas Beaufort, Herzog von Exeter</persName>
+          </person>
+          <person xml:id="winchester_kardinal" sex="MALE">
+            <persName>Heinrich Beaufort, Bischof von Winchester und nachmals Kardinal</persName>
+          </person>
+          <person xml:id="bote_i-1" sex="MALE">
+            <persName>Ein Bote (I/1)</persName>
+          </person>
+          <person xml:id="zweiter_bote" sex="MALE">
+            <persName>Zweiter Bote</persName>
+          </person>
+          <person xml:id="dritter_bote" sex="MALE">
+            <persName>Dritter Bote</persName>
+          </person>
+          <person xml:id="karl" sex="MALE">
+            <persName>Karl, Dauphin</persName>
+          </person>
+          <person xml:id="alencon" sex="MALE">
+            <persName>Herzog von Alençon</persName>
+          </person>
+          <person xml:id="reignier" sex="MALE">
+            <persName>Reignier, Herzog von Anjou</persName>
+          </person>
+          <person xml:id="bastard" sex="MALE">
+            <persName>Bastard von Orleans</persName>
+          </person>
+          <person xml:id="pucelle" sex="FEMALE">
+            <persName>Jeanne d'Arc, genannt La Pucelle</persName>
+          </person>
+          <person xml:id="erster_waechter" sex="MALE">
+            <persName>Erster Wächter</persName>
+          </person>
+          <person xml:id="bedienter" sex="MALE">
+            <persName>Bedienter</persName>
+          </person>
+          <person xml:id="zweiter_waechter" sex="MALE">
+            <persName>Zweiter Wächter</persName>
+          </person>
+          <person xml:id="woodville" sex="MALE">
+            <persName>Woodville</persName>
+          </person>
+          <person xml:id="schultheiss" sex="MALE">
+            <persName>Schultheiß von London</persName>
+          </person>
+          <person xml:id="gerichtsbeamter" sex="MALE">
+            <persName>Gerichtsbeamter</persName>
+          </person>
+          <person xml:id="buechsenmeister" sex="MALE">
+            <persName>Der Büchsenmeister von Orleans</persName>
+          </person>
+          <person xml:id="sohn" sex="MALE">
+            <persName>Der Sohn des Büchsenmeisters</persName>
+          </person>
+          <person xml:id="salisbury" sex="MALE">
+            <persName>Graf von Salisbury</persName>
+          </person>
+          <person xml:id="talbot" sex="MALE">
+            <persName>Lord Talbot</persName>
+          </person>
+          <person xml:id="gargrave" sex="MALE">
+            <persName>Sir Thomas Gargrave</persName>
+          </person>
+          <person xml:id="glansdale" sex="MALE">
+            <persName>Sir William Glansdale</persName>
+          </person>
+          <person xml:id="bote_i-4" sex="MALE">
+            <persName>Ein Bote (I/4)</persName>
+          </person>
+          <person xml:id="sergeant" sex="MALE">
+            <persName>Ein französischer Sergeant</persName>
+          </person>
+          <person xml:id="erste_schildwache" sex="MALE">
+            <persName>Erste Schildwache</persName>
+          </person>
+          <person xml:id="burgund" sex="MALE">
+            <persName>Herzog von Burgund</persName>
+          </person>
+          <person xml:id="soldat" sex="MALE">
+            <persName>Ein englischer Soldat</persName>
+          </person>
+          <person xml:id="bote_ii-2_und_ii-3" sex="MALE">
+            <persName>Ein Bote (II/2–3)</persName>
+          </person>
+          <person xml:id="hauptmann_ii-2" sex="MALE">
+            <persName>Ein Hauptmann (II/2)</persName>
+          </person>
+          <person xml:id="graefin" sex="FEMALE">
+            <persName>Gräfin von Auvergne</persName>
+          </person>
+          <person xml:id="torwaerter" sex="MALE">
+            <persName>Torwärter</persName>
+          </person>
+          <person xml:id="plantagenet_york" sex="MALE">
+            <persName>Richard Plantagenet, nachmals Herzog von York</persName>
+          </person>
+          <person xml:id="suffolk" sex="MALE">
+            <persName>Graf von Suffolk</persName>
+          </person>
+          <person xml:id="somerset" sex="MALE">
+            <persName>Johann Beaufort, Graf von Somerset</persName>
+          </person>
+          <person xml:id="warwick" sex="MALE">
+            <persName>Graf von Warwick</persName>
+          </person>
+          <person xml:id="vernon" sex="MALE">
+            <persName>Vernon</persName>
+          </person>
+          <person xml:id="rechtsgelehrter" sex="MALE">
+            <persName>Ein Rechtsgelehrter</persName>
+          </person>
+          <person xml:id="mortimer" sex="MALE">
+            <persName>Edmund Mortimer</persName>
+          </person>
+          <person xml:id="erster_gefangenwaerter" sex="MALE">
+            <persName>Erster Gefangenwärter</persName>
+          </person>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich VI.</persName>
+          </person>
+          <person xml:id="erster_bedienter" sex="MALE">
+            <persName>Erster Bedienter</persName>
+          </person>
+          <person xml:id="zweiter_bedienter" sex="MALE">
+            <persName>Zweiter Bedienter</persName>
+          </person>
+          <person xml:id="dritter_bedienter" sex="MALE">
+            <persName>Dritter Bedienter</persName>
+          </person>
+          <personGrp xml:id="alle_iii-1" sex="MALE">
+            <name>Alle (III/1)</name>
+          </personGrp>
+          <person xml:id="erster_soldat" sex="MALE">
+            <persName>Erster Soldat</persName>
+          </person>
+          <person xml:id="wache" sex="MALE">
+            <persName>Wache</persName>
+          </person>
+          <person xml:id="hauptmann_iii-2" sex="MALE">
+            <persName>Ein Hauptmann (III/2)</persName>
+          </person>
+          <person xml:id="fastolfe" sex="MALE">
+            <persName>Sir John Fastolfe</persName>
+          </person>
+          <person xml:id="basset" sex="MALE">
+            <persName>Basset</persName>
+          </person>
+          <person xml:id="befehlshaber" sex="MALE">
+            <persName>Der Befehlshaber der französischen Truppen</persName>
+          </person>
+          <person xml:id="bote_iv-3" sex="MALE">
+            <persName>Ein Bote (IV/3)</persName>
+          </person>
+          <person xml:id="lucy" sex="MALE">
+            <persName>Sir William Lucy</persName>
+          </person>
+          <person xml:id="offizier" sex="MALE">
+            <persName>Ein Offizier</persName>
+          </person>
+          <person xml:id="john" sex="MALE">
+            <persName>Johann Talbot</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Ein Diener</persName>
+          </person>
+          <person xml:id="legat" sex="MALE">
+            <persName>Ein Legat</persName>
+          </person>
+          <person xml:id="bote_v-2" sex="MALE">
+            <persName>Ein Bote (V/2)</persName>
+          </person>
+          <person xml:id="margareta" sex="FEMALE">
+            <persName>Margareta</persName>
+          </person>
+          <person xml:id="schaefer" sex="MALE">
+            <persName>Ein Schäfer</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +261,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000019" passive="http://www.wikidata.org/entity/Q643236"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000019"
+        passive="http://www.wikidata.org/entity/Q643236"/>
     </listRelation>
   </standOff>
   <text>
@@ -195,7 +379,7 @@
               <l>Durch mag'sche Verse seinen Tod erzielt?</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Es war ein Fürst, vom Herrn der Herrn gesegnet.</l>
@@ -214,7 +398,7 @@
               <l>Den ihr wie einen Schüler meistern könnt.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Gloster, was ich auch mag, du bist Protektor</l>
@@ -250,7 +434,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_i-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Euch allen Heil, ihr ehrenwerten Lords!</l>
@@ -281,7 +465,7 @@
             <speaker>EXETER.</speaker>
             <l>Was hat uns drum gebracht? Welch ein Verrat?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_i-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Nein, kein Verrat, nur Geld- und Menschen-Mangel.</l>
@@ -362,7 +546,7 @@
               <l>Zwischen dem rüst'gen Talbot und den Franken.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Was? Worin Talbot Sieger blieb? nicht wahr?</l>
           </sp>
@@ -481,7 +665,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Ein jeder hat sein Amt und seinen Platz,</l>
@@ -511,7 +695,7 @@
               <l>Belagern matt uns eine Stund' im Monat.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Sie missen ihre Brüh'n und fettes Rindfleisch;</l>
@@ -559,7 +743,7 @@
               <l>Bestürmen uns als ihres Hungers Raub.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Froissard, ein Landesmann von uns, bezeugt,</l>
@@ -591,7 +775,7 @@
               <l>Nach meiner Meinung lassen wir sie gehn.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <l>So sei es.</l>
             <stage>Der Bastard von Orleans tritt auf.</stage>
@@ -749,7 +933,7 @@
             <speaker>REIGNIER.</speaker>
             <l>Mich dünkt, der Prinz ist lange im Gespräch.</l>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Er hört gewiß dem Weiberrock die Beichte,</l>
@@ -760,7 +944,7 @@
             <speaker>REIGNIER.</speaker>
             <l>Er kennt kein Maß: sagt, sollen wir ihn stören?</l>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Wohl mehr ermißt er, als wir Armen wissen,</l>
@@ -775,8 +959,8 @@
             </lg>
           </sp>
           <pb n="506"/>
-          <sp who="#pocelle">
-            <speaker>POCELLE.</speaker>
+          <sp who="#pucelle">
+            <speaker>PUCELLE.</speaker>
             <lg>
               <l>Ich sage nein, kleingläubig Heidenvolk!</l>
               <l>Kämpft bis zum letzten Hauch, ich will euch schirmen.</l>
@@ -813,7 +997,7 @@
               <l>Wie bet' ich ehrerbietig dich genugsam an?</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <l>Laßt alles Zögern und entsetzt die Stadt!</l>
           </sp>
@@ -924,7 +1108,7 @@
             </lg>
             <stage>Winchester tritt auf mit einem Gefolge von Bedienten in braunen Röcken.</stage>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Wie nun, ehrsücht'ger Humphrey? sag, was soll's?</l>
           </sp>
@@ -932,7 +1116,7 @@
             <speaker>GLOSTER.</speaker>
             <l>Glatzköpf'ger Priester, heißt du aus mich schließen?</l>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Ja, du verräterischer Usurpator,</l>
@@ -950,7 +1134,7 @@
               <l>Dich sichten, wo du fortfährst in dem Trotz.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Tritt du zurück, ich weich' und wanke nicht.</l>
@@ -966,7 +1150,7 @@
               <l>Dich wegzuschaffen aus der Freistatt Schutz.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Tu', was du darfst; ich biete keck dir Trutz.</l>
           </sp>
@@ -985,7 +1169,7 @@
               <l>Schleif' ich am Halse hier dich auf und ab.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Gloster, dafür gibt dir der Papst dein Teil.</l>
           </sp>
@@ -1015,7 +1199,7 @@
               <l>Hat hier den Turm allein an sich gerissen.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Sieh Gloster da, den Feind der Bürgerschaft,</l>
@@ -1055,7 +1239,7 @@
               <l>Doch treff' ich dich und will den Trotz dir brechen.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Gloster, wir treffen uns; auf deine Kosten:</l>
@@ -1069,7 +1253,7 @@
               <l>Der Kardinal ist frecher als der Teufel.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Verhaßter Gloster! Hüte deinen Kopf,</l>
@@ -1265,7 +1449,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_i-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Herr, Herr, die Franken bieten uns die Stirn;</l>
@@ -1408,7 +1592,7 @@
               <l>Das Glück zu feiern, das uns Gott verliehn.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Ganz Frankreich wird erfüllt mit Freud' und Lust,</l>
@@ -1552,14 +1736,14 @@
             <stage>Die Englischen ersteigen die Mauern mit Sturmleitern, indem sie: »Sankt Georg!«
               und: »Talbot hoch!« rufen, und dringen alle in die Stadt.</stage>
           </sp>
-          <sp who="#schildwache">
+          <sp who="#erste_schildwache">
             <speaker>SCHILDWACHE</speaker>
             <stage>drinnen.</stage>
             <l>Auf, zu den Waffen, auf! Die Feinde stürmen!</l>
             <stage>Die Franzosen springen im Hemde über die Mauern. Hierauf kommen von verschiednen
               Seiten der Bastard, Alençon, Reignier, halb angekleidet, halb nicht.</stage>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <l>Wie nun, ihr Herrn? Was? So unangekleidet?</l>
           </sp>
@@ -1577,7 +1761,7 @@
               <l>Der Lärm war schon an unsrer Kammertür.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Seit ich die Waffen übte, hört' ich nie</l>
@@ -1594,7 +1778,7 @@
             <l>Wo nicht die Höll', ist ihm der Himmel günstig.</l>
           </sp>
           <pb n="518"/>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <l>Da kommt der Prinz, mich wundert, wie's ihm ging.</l>
             <stage>Karl und die Pucelle treten auf.</stage>
@@ -1631,7 +1815,7 @@
               <l>Ihr besser nicht den wicht'gen Dienst versehn.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>War jegliches Quartier so wohl bewahrt</l>
@@ -1686,8 +1870,8 @@
           <head>Zweite Szene</head>
           <stage>Orleans. Innerhalb der Stadt.</stage>
           <stage>Talbot, Bedford, Burgund, ein Hauptmann und andre.</stage>
-          <sp who="#bedpord">
-            <speaker>BEDPORD.</speaker>
+          <sp who="#bedford">
+            <speaker>BEDFORD.</speaker>
             <lg>
               <l>Der Tag bricht an, und es entflieht die Nacht,</l>
               <l>Die um die Erde warf den Rabenmantel.</l>
@@ -1742,7 +1926,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2_und_ii-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Heil euch, ihr hohen Lords! Was nennet ihr</l>
@@ -1755,7 +1939,7 @@
             <speaker>TALBOT.</speaker>
             <l>Ich bin der Talbot: wer will mit ihm reden?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2_und_ii-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Die tugendsame Gräfin von Auvergne,</l>
@@ -1804,7 +1988,7 @@
             <stage>Er spricht leise mit ihm.</stage>
             <l>Ihr versteht die Meinung?</l>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_ii-2">
             <speaker>HAUPTMANN.</speaker>
             <l>Ja, gnäd'ger Herr, und meine dem gemäß.</l>
             <stage>Alle ab.</stage>
@@ -1839,7 +2023,7 @@
             </lg>
             <stage>Der Bote kommt mit Talbot.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2_und_ii-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Gräfin! Wie Eure Gnaden es begehrt,</l>
@@ -1850,7 +2034,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Er ist willkommen. Wie? Ist dies der Mann?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2_und_ii-3">
             <speaker>BOTE.</speaker>
             <l>Ja, gnäd'ge Frau.</l>
           </sp>
@@ -1881,7 +2065,7 @@
             <speaker>GRÄFIN.</speaker>
             <l>Was hat er vor? Geh, frag', wohin er geht.</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2_und_ii-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Lord Talbot, haltet: meine gnäd'ge Frau</l>
@@ -2020,7 +2204,7 @@
           <stage>London. Der Garten des Tempels.</stage>
           <stage>Die Grafen von Somerset, Suffolk und Warwick; Richard Plantagenet, Vernon und ein
             andrer Rechtsgelehrter treten auf.</stage>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Ihr großen Lords und Herrn, was soll dies Schweigen?</l>
@@ -2034,7 +2218,7 @@
               <l>Der Garten hier ist schicklicher dazu.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>So sagt mir eins, ob Wahrheit ich behauptet,</l>
@@ -2067,7 +2251,7 @@
               <l>Hat wahrlich eine Dohle mehr begriffen.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Pah, welche höfliche Zurückhaltung!</l>
@@ -2083,7 +2267,7 @@
               <l>Daß sie durch eines Blinden Auge schimmert.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Weil Redescheu die Zungen denn euch bindet,</l>
@@ -2133,7 +2317,7 @@
               <l>Still geb' ich nach, hab' ich die mindre Zahl.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Ich auch.</l>
           </sp>
@@ -2175,7 +2359,7 @@
               <l>Zum Zeichen des pflück' ich die weiße Rose.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Nun, Somerset, wo ist nun Euer Satz?</l>
           </sp>
@@ -2186,7 +2370,7 @@
               <l>Die weiße Rose blutig rot Euch färben.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Indes äfft Eure Wange unsre Rosen,</l>
@@ -2203,7 +2387,7 @@
               <l>Und deine Zunge doch dein Irren leugnet.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Stach dir kein Wurm die Rose, Somerset?</l>
           </sp>
@@ -2211,7 +2395,7 @@
             <speaker>SOMERSET.</speaker>
             <l>Hat deine keinen Dorn, Plantagenet?</l>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Ja, einen scharfen, wahr sich zu behaupten,</l>
@@ -2226,7 +2410,7 @@
               <l>Wo sich Plantagenet nicht sehn darf lassen.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Bei dieser reinen Blüt' in meiner Hand,</l>
@@ -2237,7 +2421,7 @@
             <speaker>SUFFOLK.</speaker>
             <l>Kehr' sonst wohin den Spott, Plantagenet.</l>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Nein, stolzer Poole, ich spotte sein und dein.</l>
           </sp>
@@ -2263,7 +2447,7 @@
               <l>Treibt solche Wurzel wappenlose Bauern?</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Er macht des Platzes Vorrecht sich zu Nutz,</l>
@@ -2283,7 +2467,7 @@
               <l>Und, bis zur Herstellung, bist du ein Bauer.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Mein Vater war beklagt, nicht überwiesen;</l>
@@ -2304,7 +2488,7 @@
               <l>Die meine Freunde tragen dir zum Trotz.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Und diese bleiche und erzürnte Rose,</l>
@@ -2328,7 +2512,7 @@
             <l>Ich folge, Poole. Leb wohl, ehrgeiz'ger Richard!</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Wie man mir trotzt, und doch muß ich es dulden.</l>
           </sp>
@@ -2350,7 +2534,7 @@
               <l>In Tod und Todsnacht tausend Seelen reißen.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Euch, guter Meister Vernon, sag' ich Dank,</l>
@@ -2365,7 +2549,7 @@
             <speaker>RECHTSGELEHRTER.</speaker>
             <l>Das will ich ebenfalls.</l>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Kommt, gehn wir vier zur Mahlzeit; ich darf sagen:</l>
@@ -2436,7 +2620,7 @@
             <speaker>MORTIMER.</speaker>
             <l>Richard Plantagenet, mein Freund? Ist er da?</l>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Ja, edler Oheim, schmählich so behandelt,</l>
@@ -2454,7 +2638,7 @@
               <l>Erklär', warum du »jüngst entehrt« dich nanntest.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Erst lehn' auf meinen Arm den alten Rücken,</l>
@@ -2481,7 +2665,7 @@
               <l>War das verfluchte Werkzeug seines Todes.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Entdecke näher, welch ein Grund das war,</l>
@@ -2527,7 +2711,7 @@
               <l>Worauf der Anspruch ruhte, unterdrückt.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <l>Und deren letzter, edler Lord, seid Ihr.</l>
           </sp>
@@ -2540,7 +2724,7 @@
               <l>Doch übe Vorsicht bei der fleiß'gen Sorge.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Die ernste Warnung präget sich mir ein;</l>
@@ -2559,7 +2743,7 @@
               <l>Des langen Weilens am bestimmten Platz.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Oh, kauft' ein Teil von meinen jungen Jahren</l>
@@ -2578,7 +2762,7 @@
             </lg>
             <stage>Stirbt.</stage>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Fried' und nicht Krieg mit deiner flieh'nden Seele!</l>
@@ -2612,7 +2796,7 @@
           <stage>Trompetenstoß. König Heinrich, Exeter, Gloster, Warwick. Somerset und Suffolk, der
             Bischof von Winchester, Richard Plantagenet und andre treten auf. Gloster will ein
             Memorial überreichen, Winchester reißt es ihm weg und zerreißt es.</stage>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Kommst du mit tief vorausbedachten Zeilen,</l>
@@ -2649,7 +2833,7 @@
               <l>Von neid'scher Tücke deines schwell'nden Herzens.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Gloster, ich biete Trotz dir. – Lords, geruht</l>
@@ -2676,7 +2860,7 @@
               <l>Du Bastard meines Großvaters!</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Ja, großer Herr; denn was seid Ihr, ich bitte,</l>
@@ -2687,7 +2871,7 @@
             <speaker>GLOSTER.</speaker>
             <l>Sag, bin ich nicht Protektor, kecker Pfaff'?</l>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Und bin ich ein Prälat der Kirche nicht?</l>
           </sp>
@@ -2698,7 +2882,7 @@
               <l>Und es zum Schutze seines Diebstahls braucht.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Unwürd'ger Spötter Gloster!</l>
           </sp>
@@ -2709,7 +2893,7 @@
               <l>Nur durch dein geistlich Amt, nicht durch dein Leben.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Rom soll dem steuern.</l>
           </sp>
@@ -2751,7 +2935,7 @@
               <l>Ist Seine Hoheit nicht des Reichs Protektor?</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -2882,7 +3066,7 @@
               <l>Seid still dann, wenn ihr nicht nach Blute dürstet.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Er unterwerfe sich, sonst weich' ich nie.</l>
           </sp>
@@ -2925,7 +3109,7 @@
               <l>Wie! Soll ein Kind Euch lehren, was sich ziemt?</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Herzog von Gloster, wohl, ich gebe nach;</l>
@@ -2942,7 +3126,7 @@
               <l>So helfe Gott mir, wie ich's redlich meine!</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER</speaker>
             <stage>beiseit.</stage>
             <l>So helfe Gott mir, wie ich's nicht so meine!</l>
@@ -3003,7 +3187,7 @@
               <l>So wird des Vaters Unrecht ihm vergütet.</l>
             </lg>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Wie alle wollen, will auch Winchester.</l>
           </sp>
@@ -3016,7 +3200,7 @@
               <l>Von wannen Ihr in grader Reihe stammt.</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Dein untertän'ger Knecht gelobt Gehorsam</l>
@@ -3033,7 +3217,7 @@
               <l>Steh auf, ernannt zum hohen Herzog York!</l>
             </lg>
           </sp>
-          <sp who="#plantagenet">
+          <sp who="#plantagenet_york">
             <speaker>PLANTAGENET.</speaker>
             <lg>
               <l>Wie deiner Feinde Fall sei Richards Heil,</l>
@@ -3041,7 +3225,7 @@
               <l>Der wider Eure Majestät was denkt!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iii-1">
             <speaker>ALLE.</speaker>
             <l>Heil, hoher Prinz, der mächt'ge Herzog York!</l>
           </sp>
@@ -3162,7 +3346,7 @@
               <l>Den sichersten und besten Weg hinein?</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Vom Turm dort steckt sie eine Fackel auf,</l>
@@ -3194,7 +3378,7 @@
               <l>Wie ein Prophet von unsrer Feinde Fall!</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Kein Zeitverlust! denn Zögern bringt Gefahr!</l>
@@ -3291,7 +3475,7 @@
               <l>Kommt ihr und fechtet's wie Soldaten aus?</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <l>Nein, Signor.</l>
           </sp>
@@ -3377,7 +3561,7 @@
               zurücklassen.</stage>
             <stage>Getümmel, Angriffe. Sir John Fastolfe und ein Hauptmann kommen.</stage>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_iii-2">
             <speaker>HAUPTMANN.</speaker>
             <l>So eilig, Sir John Fastolfe! Wo hinaus?</l>
           </sp>
@@ -3388,7 +3572,7 @@
               <l>Wir werden wiederum geworfen werden.</l>
             </lg>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_iii-2">
             <speaker>HAUPTMANN.</speaker>
             <l>Was? Flieht Ihr und verlaßt Lord Talbot?</l>
           </sp>
@@ -3401,7 +3585,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_iii-2">
             <speaker>HAUPTMANN.</speaker>
             <l>Verzagter Ritter! Unglück folge dir!</l>
             <stage>Ab.</stage>
@@ -3501,7 +3685,7 @@
               <l>Und ruhmvoll machen wir dich aller Welt.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Wir stell'n dein Bildnis an geweihte Plätze</l>
@@ -3527,7 +3711,7 @@
               <l>Vielmehr vertilgt aus unsern Landen sein.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Für immer wären sie verbannt aus Frankreich</l>
@@ -3661,7 +3845,7 @@
             <speaker>BASTARD.</speaker>
             <l>Und zeuget neuen Mut in unsrer Brust.</l>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Pucelle hat ihre Rolle brav gespielt</l>
@@ -3793,7 +3977,7 @@
             <speaker>GLOSTER.</speaker>
             <l>Herr Bischof, setzt die Kron' ihm auf sein Haupt.</l>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <l>Heil König Heinrich, sechstem dieses Namens!</l>
           </sp>
@@ -3967,7 +4151,7 @@
             <speaker>BASSET.</speaker>
             <l>Und mir, mein Fürst, gewährt den Zweikampf auch!</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Dies ist mein Diener: hört ihn, edler Prinz!</l>
           </sp>
@@ -4028,7 +4212,7 @@
               <l>Verrate Schwäch' im Herzen meines Herrn.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Läßt diese Bosheit, Somerset, nicht nach?</l>
           </sp>
@@ -4049,7 +4233,7 @@
               <l>Beruhigt euch, ich bitt', und haltet Frieden!</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Laßt ein Gefecht erst diesen Zwist entscheiden,</l>
@@ -4063,7 +4247,7 @@
               <l>So werd' er zwischen uns denn ausgemacht.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Da ist mein Pfand; nimm, Somerset, es an.</l>
           </sp>
@@ -4153,7 +4337,7 @@
               <l>Hat artig seine Rednerkunst gezeigt.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Das tat er auch; jedoch gefällt's mir nicht,</l>
@@ -4167,7 +4351,7 @@
               <l>Der holde Prinz, ich wett', er meint kein Arges.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Und wenn ich's wüßte, – doch das mag beruhn,</l>
@@ -4289,14 +4473,14 @@
           <head>Dritte Szene</head>
           <stage>Ebne in Gascogne.</stage>
           <stage>York tritt auf mit Truppen, zu ihm ein Bote.</stage>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Sind nicht die hurt'gen Späher wieder da,</l>
               <l>Die nachgespürt dem mächt'gen Heer des Dauphin?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-3">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Sie sind zurück, Mylord, und geben an,</l>
@@ -4307,7 +4491,7 @@
               <l>Die nach Bourdeaux, vereint mit ihm, sich wandten.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Verflucht sei doch der Schurke Somerset,</l>
@@ -4333,7 +4517,7 @@
               <l>Leb wohl sonst, Talbot, Frankreich, Englands Ehre!</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>O Gott! Wär' Somerset, der, stolzen Herzens,</l>
@@ -4348,7 +4532,7 @@
             <speaker>LUCY.</speaker>
             <l>O sendet Hülfe dem bedrängten Lord!</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Er stirbt, wir fall'n; ich brach mein krieg'risch Wort:</l>
@@ -4367,7 +4551,7 @@
               <l>Sie treffen sich: da ist's um sie geschehn.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Ach, was für Lust denkt Ihr, daß Talbot habe,</l>
@@ -5008,7 +5192,7 @@
               <l>Auf Gottes Ehr' und meines Landes Wohl.</l>
             </lg>
             <stage>Ein Legat und zwei Gesandte treten auf, nebst Winchester in
-              Kardinalsiracht.</stage>
+              Kardinalstracht.</stage>
           </sp>
           <sp who="#exeter">
             <speaker>EXETER.</speaker>
@@ -5055,7 +5239,7 @@
             </lg>
             <stage>König Heinrich mit Gefolge, Gloster, Exeter und Gesandten ab.</stage>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Bleibt, Herr Legat! Ihr müßt empfangen erst</l>
@@ -5068,7 +5252,7 @@
             <speaker>LEGAT.</speaker>
             <l>Ich richte mich nach Euer Hoheit Muße.</l>
           </sp>
-          <sp who="#winchester">
+          <sp who="#winchester_kardinal">
             <speaker>WINCHESTER.</speaker>
             <lg>
               <l>Nun wird sich Winchester nicht beugen, traun!</l>
@@ -5095,7 +5279,7 @@
               <l>Und wieder zu den tapfern Franken wenden.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>Zieht nach Paris denn, königlicher Karl,</l>
@@ -5110,7 +5294,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mit unserm tapfern Feldherrn alles Heil,</l>
@@ -5121,7 +5305,7 @@
             <speaker>KARL.</speaker>
             <l>Was melden unsre Späher? Bitte, sprich!</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Die englische Armee, die erst getrennt</l>
@@ -5216,7 +5400,7 @@
             <stage>Getümmel. Franzosen und Engländer kommen fechtend, die Pucelle und York werden
               handgemein. Die Pucelle wird gefangen. Die Franzosen fliehn.</stage>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Nun, Dirne Frankreichs, denk' ich, hab' ich Euch:</l>
@@ -5231,7 +5415,7 @@
             <speaker>PUCELLE.</speaker>
             <l>Dich kann Verwandlung häßlicher nicht machen.</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Oh, Karl, der Dauphin, ist ein hübscher Mann,</l>
@@ -5246,7 +5430,7 @@
               <l>Von blut'ger Hand, in euren Betten schlafend!</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Still, schwarze Bannerin! Du Zaub'rin, schweig!</l>
           </sp>
@@ -5254,7 +5438,7 @@
             <speaker>PUCELLE.</speaker>
             <l>Ich bitt' dich, laß mich eine Weile fluchen.</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Verdammte, fluch', wenn du zum Richtplatz kömmst.</l>
             <stage>Alle ab.</stage>
@@ -5341,8 +5525,8 @@
             <speaker>MARGARETA.</speaker>
             <l>Nun, nimmst du Lösung an, ja oder nein?</l>
           </sp>
-          <sp who="#supfolk">
-            <speaker>SUPFOLK</speaker>
+          <sp who="#suffolk">
+            <speaker>SUFFOLK</speaker>
             <stage>beiseit.</stage>
             <lg>
               <l>O Tor! Erinn're dich, du hast ein Weib;</l>
@@ -5706,7 +5890,7 @@
           <head>Vierte Szene</head>
           <stage>Lager des Herzogs von York in Anjou.</stage>
           <stage>York, Warwick und andre treten auf.</stage>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Führt vor die Zauberin, verdammt zum Feuer!</l>
             <stage>Die Pucelle kommt, von Wache umgeben, mit ihr ein Schäfer.</stage>
@@ -5742,7 +5926,7 @@
             <speaker>WARWICK.</speaker>
             <l>Ruchlose! Willst du deine Sippschaft leugnen?</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Dies zeigt, was für ein Leben sie geführt,</l>
@@ -5783,7 +5967,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Schafft sie hinweg! Sie hat zu lang' gelebt,</l>
@@ -5813,7 +5997,7 @@
               <l>Um Rache schrein wird an des Himmels Toren.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Ja, ja, nur fort mit ihr zur Hinrichtung!</l>
           </sp>
@@ -5838,7 +6022,7 @@
               <l>Schleppt ihr auch mich zum Tod gewaltsam hin.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <l>Verhüt' es Gott! Die heil'ge Jungfrau schwanger?</l>
           </sp>
@@ -5849,7 +6033,7 @@
               <l>Kam's dahin mit der strengen Züchtigkeit?</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Sie und der Dauphin hielten's mit einander;</l>
@@ -5870,7 +6054,7 @@
               <l>Alençon war's, der meine Lieb' genoß.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Alençon, der verrufne Machiavell!</l>
@@ -5889,7 +6073,7 @@
             <speaker>WARWICK.</speaker>
             <l>Ein Mann im Eh'stand! Das ist noch das Ärgste.</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Ei, das ist mir ein Mädchen! die nicht weiß –</l>
@@ -5900,7 +6084,7 @@
             <speaker>WARWICK.</speaker>
             <l>Ein Zeichen, daß sie frei und willig war.</l>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Und doch, wahrhaftig, eine reine Jungfrau! –</l>
@@ -5921,7 +6105,7 @@
             <stage>Sie wird von der Wache abgeführt.</stage>
           </sp>
           <pb n="578"/>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Brich du in Stücke und zerfall' in Asche,</l>
@@ -5929,7 +6113,7 @@
             </lg>
             <stage>Kardinal Beaufort tritt auf mit Gefolge.</stage>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#winchester_kardinal">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Mit einem Brief der Vollmacht, Lord Regent,</l>
@@ -5943,7 +6127,7 @@
               <l>Um über diese Sache zu verhandeln.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Ist dieses unsrer Arbeit ganze Frucht?</l>
@@ -5977,7 +6161,7 @@
               <l>Was für Bedingungen der Bund erheischt.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Sprich, Winchester; denn Gall' erstickt mir kochend</l>
@@ -5985,7 +6169,7 @@
               <l>Beim Anblick der gehäss'gen Feinde da.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#winchester_kardinal">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Karl und ihr andern, so ist's vorgeschrieben:</l>
@@ -6001,7 +6185,7 @@
               <l>Die königliche Würde fortgenießen.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON.</speaker>
             <lg>
               <l>So muß er denn sein eigner Schatte sein?</l>
@@ -6025,7 +6209,7 @@
               <l>Mich um die Möglichkeit von allem bringe.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>Hochmüt'ger Karl! Hast du dir insgeheim</l>
@@ -6047,7 +6231,7 @@
               <l>Wir finden die Gelegenheit nicht wieder.</l>
             </lg>
           </sp>
-          <sp who="#alençon">
+          <sp who="#alencon">
             <speaker>ALENÇON</speaker>
             <stage>leise.</stage>
             <lg>
@@ -6072,7 +6256,7 @@
               <l>An der Besatzung unsrer Städte fodert.</l>
             </lg>
           </sp>
-          <sp who="#york">
+          <sp who="#plantagenet_york">
             <speaker>YORK.</speaker>
             <lg>
               <l>So schwöre Lehnspflicht Seiner Majestät,</l>

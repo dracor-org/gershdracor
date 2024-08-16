@@ -119,9 +119,6 @@
           <person xml:id="robin" sex="MALE">
             <persName>Robin</persName>
           </person>
-          <person xml:id="alle" sex="MALE">
-            <persName>alle</persName>
-          </person>
           <person xml:id="knecht" sex="MALE">
             <persName>Knecht</persName>
           </person>
