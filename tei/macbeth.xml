@@ -41,16 +41,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Macbeth</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="605" to="683">605–683</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Macbeth</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
+              <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="605" to="683">605–683</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -62,6 +58,139 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="erste_hexe" sex="FEMALE">
+            <persName>Erste Hexe</persName>
+          </person>
+          <person xml:id="zweite_hexe" sex="FEMALE">
+            <persName>Zweite Hexe</persName>
+          </person>
+          <person xml:id="dritte_hexe" sex="FEMALE">
+            <persName>Dritte Hexe</persName>
+          </person>
+          <person xml:id="duncan" sex="MALE">
+            <persName>Duncan, König von Schottland</persName>
+          </person>
+          <person xml:id="malcolm" sex="MALE">
+            <persName>Malcolm</persName>
+          </person>
+          <person xml:id="krieger" sex="MALE">
+            <persName>Ein blutender Krieger</persName>
+          </person>
+          <person xml:id="lenox" sex="MALE">
+            <persName>Lenox</persName>
+          </person>
+          <person xml:id="rosse" sex="MALE">
+            <persName>Rosse</persName>
+          </person>
+          <person xml:id="macbeth" sex="MALE">
+            <persName>Macbeth</persName>
+          </person>
+          <person xml:id="banquo" sex="MALE">
+            <persName>Banquo</persName>
+          </person>
+          <person xml:id="angus" sex="MALE">
+            <persName>Angus</persName>
+          </person>
+          <person xml:id="lady_macbeth" sex="FEMALE">
+            <persName>Lady Macbeth</persName>
+          </person>
+          <person xml:id="diener_i-5" sex="MALE">
+            <persName>Ein Diener (I/5)</persName>
+          </person>
+          <person xml:id="fleance" sex="MALE">
+            <persName>Fleance</persName>
+          </person>
+          <person xml:id="pfoertner" sex="MALE">
+            <persName>Ein Pförtner</persName>
+          </person>
+          <person xml:id="macduff" sex="MALE">
+            <persName>Macduff</persName>
+          </person>
+          <person xml:id="donalbain" sex="MALE">
+            <persName>Donalbain</persName>
+          </person>
+          <person xml:id="alter" sex="MALE">
+            <persName>Ein alter Mann</persName>
+          </person>
+          <person xml:id="diener_iii-1" sex="MALE">
+            <persName>Ein Diener (III/1)</persName>
+          </person>
+          <person xml:id="erster_moerder" sex="MALE">
+            <persName>Erster Mörder</persName>
+          </person>
+          <person xml:id="zweiter_moerder" sex="MALE">
+            <persName>Zweiter Mörder</persName>
+          </person>
+          <person xml:id="diener_iii-2" sex="MALE">
+            <persName>Ein Diener (III/2)</persName>
+          </person>
+          <person xml:id="dritter_moerder" sex="MALE">
+            <persName>Dritter Mörder</persName>
+          </person>
+          <personGrp xml:id="lords" sex="MALE">
+            <name>Lords</name>
+          </personGrp>
+          <person xml:id="hekate" sex="FEMALE">
+            <persName>Hekate</persName>
+          </person>
+          <person xml:id="gesang" sex="UNKNOWN">
+            <persName>Gesang</persName>
+          </person>
+          <person xml:id="lord" sex="MALE">
+            <persName>Ein Lord</persName>
+          </person>
+          <person xml:id="die_erscheinung" sex="UNKNOWN">
+            <persName>Die Erscheinung</persName>
+          </person>
+          <person xml:id="lady_macduff" sex="FEMALE">
+            <persName>Lady Macduff</persName>
+          </person>
+          <person xml:id="sohn" sex="MALE">
+            <persName>Macduffs kleiner Sohn</persName>
+          </person>
+          <person xml:id="bote_iv-2" sex="MALE">
+            <persName>Ein Bote (IV/2)</persName>
+          </person>
+          <person xml:id="moerder_iv-2" sex="MALE">
+            <persName>Mörder (IV/2)</persName>
+          </person>
+          <person xml:id="ein_englischer_arzt" sex="MALE">
+            <persName>Ein englischer Arzt</persName>
+          </person>
+          <person xml:id="ein_schottischer_arzt" sex="MALE">
+            <persName>Ein schottischer Arzt</persName>
+          </person>
+          <person xml:id="kammerfrau" sex="FEMALE">
+            <persName>Eine Kammerfrau</persName>
+          </person>
+          <person xml:id="menteth" sex="MALE">
+            <persName>Menteth</persName>
+          </person>
+          <person xml:id="cathness" sex="MALE">
+            <persName>Cathness</persName>
+          </person>
+          <person xml:id="diener_v-3" sex="MALE">
+            <persName>Ein Diener (V/3)</persName>
+          </person>
+          <person xml:id="seyton" sex="MALE">
+            <persName>Seyton</persName>
+          </person>
+          <person xml:id="siward" sex="MALE">
+            <persName>Siward</persName>
+          </person>
+          <person xml:id="ein_soldat" sex="MALE">
+            <persName>Ein Soldat</persName>
+          </person>
+          <person xml:id="bote_v-5" sex="MALE">
+            <persName>Ein Bote (V/5)</persName>
+          </person>
+          <person xml:id="der_junge_siward" sex="MALE">
+            <persName>Der junge Siward</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -77,7 +206,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000028" passive="http://www.wikidata.org/entity/Q130283"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000028"
+        passive="http://www.wikidata.org/entity/Q130283"/>
     </listRelation>
   </standOff>
   <text>
@@ -173,7 +303,7 @@
             <speaker>ERSTE HEXE.</speaker>
             <l>Grau Lieschen, ja! ich komme!</l>
           </sp>
-          <sp who="#alle_drei">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE DREI.</speaker>
             <lg>
               <l>Unke ruft: – Geschwind –</l>
@@ -423,7 +553,7 @@
             </lg>
           </sp>
           <pb n="611"/>
-          <sp who="#alle_drei">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE DREI.</speaker>
             <lg>
               <l>Unheilsschwestern, Hand in Hand</l>
@@ -905,7 +1035,7 @@
             </lg>
           </sp>
           <pb n="618"/>
-          <sp who="#diener">
+          <sp who="#diener_i-5">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Noch vor Abend kommt</l>
@@ -920,7 +1050,7 @@
               <l>Der Anstalt wegen es gemeldet hätte.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_i-5">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Verzeiht; es ist doch wahr. Der Than kommt gleich,</l>
@@ -2012,7 +2142,7 @@
             <speaker>MACBETH.</speaker>
             <l>So auch ich.</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#macduff #lenox #malcolm #donalbain">
             <speaker>ALLE.</speaker>
             <l>Wir alle.</l>
           </sp>
@@ -2023,7 +2153,7 @@
               <l>Uns in der Halle treffen!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#macduff #banquo #lenox #malcolm #donalbain">
             <speaker>ALLE.</speaker>
             <l>Wohl, so sei's.</l>
             <stage>Malcolm und Donalbain bleiben; die übrigen gehn ab.</stage>
@@ -2331,7 +2461,7 @@
             <l>Du da! ein Wort: sind jene Männer hier?</l>
             <stage>Der Diener tritt ein.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <l>Sie harren vor dem Schloßtor, mein Gebieter.</l>
           </sp>
@@ -2529,7 +2659,7 @@
             <speaker>LADY MACBETH.</speaker>
             <l>Ist Banquo fort vom Hof?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Ja, Kön'gin, doch er kommt zurück heut abend.</l>
           </sp>
@@ -2541,7 +2671,7 @@
             </lg>
           </sp>
           <pb n="642"/>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Ich gehorche.</l>
             <stage>Er geht ab.</stage>
@@ -2814,7 +2944,7 @@
               <l>Auf deiner Stirn ist Blut –</l>
             </lg>
           </sp>
-          <sp who="#moerder">
+          <sp who="#erster_moerder">
             <speaker>MÖRDER.</speaker>
             <l>So ist es Banquos.</l>
           </sp>
@@ -2825,7 +2955,7 @@
               <l>So ist er abgetan?</l>
             </lg>
           </sp>
-          <sp who="#moerder">
+          <sp who="#erster_moerder">
             <speaker>MÖRDER.</speaker>
             <lg>
               <l>Herr, seine Kehle</l>
@@ -2840,7 +2970,7 @@
               <l>Warst du's, so hast du deinesgleichen nicht.</l>
             </lg>
           </sp>
-          <sp who="#moerder">
+          <sp who="#erster_moerder">
             <speaker>MÖRDER.</speaker>
             <l>Mein königlicher Herr, Fleance ist entwischt.</l>
           </sp>
@@ -2855,7 +2985,7 @@
               <l>Doch Banquo ist uns sicher?</l>
             </lg>
           </sp>
-          <sp who="#moerder">
+          <sp who="#erster_moerder">
             <speaker>MÖRDER.</speaker>
             <lg>
               <l>Ja, teurer Herr! im Graben liegt er sicher:</l>
@@ -3384,7 +3514,7 @@
               <l>Sollst zuerst im Kessel schmoren!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Spart am Werk nicht Fleiß noch Mühe,</l>
@@ -3404,7 +3534,7 @@
               <l>Höllenbrei im Kessel glühe!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Spart am Werk nicht Fleiß noch Mühe,</l>
@@ -3430,7 +3560,7 @@
               <l>Und der Brei wird fertig sein.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Spart am Werk nicht Fleiß noch Mühe,</l>
@@ -3480,7 +3610,7 @@
               <l>Was macht ihr da?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <l>Ein namenloses Werk.</l>
           </sp>
@@ -3534,7 +3664,7 @@
               <l>In die Glut!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Kommt, groß und klein!</l>
@@ -3612,7 +3742,7 @@
               <l>Den Kranz der Majestät?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <l>Horch, sprich's nicht an!</l>
           </sp>
@@ -3642,7 +3772,7 @@
               <l>Wird Banquos Same je dies Reich regieren?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <l>Frag' weiter nichts!</l>
           </sp>
@@ -3667,7 +3797,7 @@
             <speaker>DRITTE HEXE.</speaker>
             <l>Erscheint!</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#erste_hexe #zweite_hexe #dritte_hexe">
             <speaker>ALLE.</speaker>
             <lg>
               <l>Erscheint dem Aug' und quält den Sinn:</l>
@@ -3974,7 +4104,7 @@
             <p>Armes Närrchen, wie du plauderst!</p>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Gott mit Euch, schöne Frau! Ihr kennt mich nicht,</l>
@@ -4004,7 +4134,7 @@
             <l>Was für Gesichter?</l>
           </sp>
           <pb n="661"/>
-          <sp who="#moerder">
+          <sp who="#moerder_iv-2">
             <speaker>MÖRDER.</speaker>
             <l>Wo ist Euer Mann?</l>
           </sp>
@@ -4015,7 +4145,7 @@
               <l>Wo deinesgleichen ihn kann finden.</l>
             </lg>
           </sp>
-          <sp who="#moerder">
+          <sp who="#moerder_iv-2">
             <speaker>MÖRDER.</speaker>
             <lg>
               <l>Er</l>
@@ -4026,7 +4156,7 @@
             <speaker>SOHN.</speaker>
             <l>Du lügst, strupfköpf'ger Schurke!</l>
           </sp>
-          <sp who="#moerder">
+          <sp who="#moerder_iv-2">
             <speaker>MÖRDER.</speaker>
             <lg>
               <l>Was! du Ei,</l>
@@ -4321,7 +4451,7 @@
             <stage>Ein Arzt tritt auf.</stage>
             <l>Geht heut der König aus?</l>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_englischer_arzt">
             <speaker>ARZT.</speaker>
             <lg>
               <l>Ja, Prinz; denn viele Arme sind versammelt,</l>
@@ -4631,7 +4761,7 @@
           <head>Erste Szene</head>
           <stage>Dunsinan, Zimmer im Schloß.</stage>
           <stage>Es treten auf ein Arzt und eine Kammerfrau.</stage>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Zwei Nächte habe ich nun mit Euch gewacht, aber keine Bestätigung Eurer Aussage
               gesehen. Wann ist sie zuletzt umher gewandelt?</p>
@@ -4643,7 +4773,7 @@
               zusammen legte, schrieb, das Geschriebene las, es versiegelte, und dann wieder zu Bett
               ging: und die ganze Zeit im tiefen Schlafe.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Eine große Zerrüttung der Natur: die Wohltat des Schlafes genießen, und zugleich die
               Geschäfte des Wachens verrichten! – In dieser schlafenden Aufregung, außer dem
@@ -4653,7 +4783,7 @@
             <speaker>KAMMERFRAU.</speaker>
             <p>Dinge, die ich ihr nicht nachsprechen werde.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Mir könnt Ihr's vertrauen; und es ist notwendig, daß Ihr es tut.</p>
           </sp>
@@ -4665,7 +4795,7 @@
             <p>Seht, da kommt sie! So ist ihre Art und Weise! und, bei meinem Leben, fest im Schlaf!
               Beobachtet sie; steht ruhig!</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Wie kam sie zu dem Licht?</p>
           </sp>
@@ -4674,7 +4804,7 @@
             <p>Das brennt neben ihrem Bett. Sie hat immer Licht: es ist ihr Befehl.</p>
           </sp>
           <pb n="671"/>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Seht, ihre Augen sind offen.</p>
           </sp>
@@ -4682,7 +4812,7 @@
             <speaker>KAMMERFRAU.</speaker>
             <p>Ja, aber ihre Sinne geschlossen.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Was macht sie nun? Schaut, wie sie sich die Hände reibt!</p>
           </sp>
@@ -4695,7 +4825,7 @@
             <speaker>LADY MACBETH.</speaker>
             <p>Da ist noch ein Fleck.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Horch, sie spricht! Ich will aufschreiben, was sie sagt, um hernach meine Erinnerung
               daraus zu ergänzen.</p>
@@ -4707,7 +4837,7 @@
               haben wir zu fürchten, wer es weiß, da niemand unsre Gewalt zur Rechenschaft ziehen
               darf? – Aber wer hätte gedacht, daß der alte Mann noch so viel Blut in sich hätte?</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Hört Ihr wohl?</p>
           </sp>
@@ -4717,7 +4847,7 @@
               rein werden? –Nichts mehr davon, mein Gemahl, nichts mehr davon: du verdirbst alles
               mit diesem Auffahren.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Ei, ei! Ihr habt erfahren, was Ihr nicht solltet!</p>
           </sp>
@@ -4731,7 +4861,7 @@
             <p>Noch immer riecht es hier nach Blut; alle Wohlgerüche Arabiens würden diese kleine
               Hand nicht wohlriechend machen. Oh! oh! oh!</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Was das für ein Seufzer war! Ihr Herz ist schmerzlich beladen.</p>
           </sp>
@@ -4740,7 +4870,7 @@
             <p>Ich möchte nicht ein solches Herz im Busen tragen, nicht für den Königsschmuck des
               ganzen Leibes!</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Gut. gut! –</p>
           </sp>
@@ -4748,7 +4878,7 @@
             <speaker>KAMMERFRAU.</speaker>
             <p>Gebe Gott, daß es gut sei!</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Diese Krankheit liegt außer dem Gebiete meiner Kunst; aber ich habe Menschen gekannt,
               die im Schlaf umher wandelten, und doch fromm in ihrem Bett starben.</p>
@@ -4760,7 +4890,7 @@
             <pb n="672"/>
             <p>Banquo ist begraben, er kann aus seiner Gruft nicht heraus kommen.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Wirklich?</p>
           </sp>
@@ -4771,7 +4901,7 @@
                 <stage>Sie geht ab.</stage>
             </p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <p>Geht sie nun zu Bett?</p>
           </sp>
@@ -4779,7 +4909,7 @@
             <speaker>KAMMERFRAU.</speaker>
             <p>Unverzüglich.</p>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <lg>
               <l>Von Greueln flüstert man, – und Taten unnatürlich</l>
@@ -4916,7 +5046,7 @@
               <l>Wie kommst du an den Gänseblick?</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-3">
             <speaker>DIENER.</speaker>
             <l>Da sind zehntausend –</l>
           </sp>
@@ -4924,7 +5054,7 @@
             <speaker>MACBETH.</speaker>
             <l>Gänse, Schuft?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-3">
             <speaker>DIENER.</speaker>
             <l>Soldaten, Her.</l>
           </sp>
@@ -4938,7 +5068,7 @@
               <l>Molkengesicht?</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_v-3">
             <speaker>DIENER.</speaker>
             <l>Erlaubt; das Heer von England.</l>
           </sp>
@@ -4996,7 +5126,7 @@
               <l>Was macht die Kranke, Arzt?</l>
             </lg>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <lg>
               <l>Nicht krank sowohl,</l>
@@ -5016,7 +5146,7 @@
               <l>Die schwer das Herz bedrückt?</l>
             </lg>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <l>Hier muß der Kranke selbst das Mittel finden.</l>
           </sp>
@@ -5035,7 +5165,7 @@
               <l>Wohl ab die Englischen? – Hörst du von ihnen?</l>
             </lg>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <lg>
               <l>Ja, hoher König; Eure Kriegesrüstung</l>
@@ -5051,7 +5181,7 @@
             </lg>
             <stage>Er geht ab.</stage>
           </sp>
-          <sp who="#arzt">
+          <sp who="#ein_schottischer_arzt">
             <speaker>ARZT.</speaker>
             <lg>
               <l>Wär' ich von Dunsinan mit Heil und Glück,</l>
@@ -5198,7 +5328,7 @@
             <l>Du hast was auf der Zunge: schnell heraus!</l>
           </sp>
           <pb n="678"/>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mein königlicher Herr, –</l>
@@ -5210,7 +5340,7 @@
             <speaker>MACBETH.</speaker>
             <l>Nun, sag's nur, Mensch!</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Als ich den Wachtdienst auf dem Hügel tat, –</l>
@@ -5223,7 +5353,7 @@
             <l>Lügner und Sklav'!</l>
             <stage>Er schlägt ihn.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Laßt Euren Zorn mich fühlen, ist's nicht so:</l>
@@ -5562,7 +5692,7 @@
               <l>Dem König Schottlands Heil!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#malcolm #siward #rosse #lenox #angus #cathness #menteth">
             <speaker>ALLE.</speaker>
             <l>Heil, Schottlands König!</l>
             <stage>Trompetenstoß.</stage>

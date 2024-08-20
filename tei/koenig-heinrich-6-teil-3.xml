@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich VI. Dritter Teil</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="689" to="787">689–787</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich VI. Dritter
+              Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="689" to="787">689–787</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,154 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="warwick" sex="MALE">
+            <persName>Graf von Warwick</persName>
+          </person>
+          <person xml:id="york" sex="MALE">
+            <persName>Richard Plantagenet, Herzog von York</persName>
+          </person>
+          <person xml:id="eduard" sex="MALE">
+            <persName>Eduard, Graf von March, nachmals König Eduard IV.</persName>
+          </person>
+          <person xml:id="montague" sex="MALE">
+            <persName>Marquis von Montague</persName>
+          </person>
+          <person xml:id="richard_gloster" sex="MALE">
+            <persName>Richard, nachmals Herzog von Glocester</persName>
+          </person>
+          <person xml:id="norfolk" sex="MALE">
+            <persName>Herzog von Norfolk</persName>
+          </person>
+          <person xml:id="koenig_heinrich" sex="MALE">
+            <persName>König Heinrich VI.</persName>
+          </person>
+          <person xml:id="northumberland" sex="MALE">
+            <persName>Graf von Northumberland</persName>
+          </person>
+          <person xml:id="clifford" sex="MALE">
+            <persName>Lord Clifford</persName>
+          </person>
+          <person xml:id="westmoreland" sex="MALE">
+            <persName>Graf von Westmoreland</persName>
+          </person>
+          <person xml:id="exeter" sex="MALE">
+            <persName>Herzog von Exeter</persName>
+          </person>
+          <person xml:id="margareta" sex="FEMALE">
+            <persName>Königin Margareta</persName>
+          </person>
+          <person xml:id="prinz" sex="MALE">
+            <persName>Eduard, Prinz von Wales</persName>
+          </person>
+          <person xml:id="bote_i-2" sex="MALE">
+            <persName>Ein Bote (I/2)</persName>
+          </person>
+          <person xml:id="sir_john" sex="MALE">
+            <persName>Sir John Mortimer</persName>
+          </person>
+          <person xml:id="rutland" sex="MALE">
+            <persName>Edmund, Graf von Rutland</persName>
+          </person>
+          <person xml:id="lehrmeister" sex="MALE">
+            <persName>Der Lehrmeister Rutlands</persName>
+          </person>
+          <person xml:id="bote_ii-1a" sex="MALE">
+            <persName>Ein Bote (II/1)</persName>
+          </person>
+          <person xml:id="bote_ii-1b" sex="MALE">
+            <persName>Ein Bote (II/1)</persName>
+          </person>
+          <person xml:id="bote_ii-2" sex="MALE">
+            <persName>Ein Bote (II/2)</persName>
+          </person>
+          <person xml:id="george_clarence" sex="MALE">
+            <persName>Georg, nachmals Herzog von Clarence</persName>
+          </person>
+          <person xml:id="sohn" sex="MALE">
+            <persName>Ein Sohn, der seinen Vater umgebracht hat</persName>
+          </person>
+          <person xml:id="vater" sex="MALE">
+            <persName>Ein Vater, der seinen Sohn umgebracht hat</persName>
+          </person>
+          <person xml:id="erster_foerster" sex="MALE">
+            <persName>Erster Förster</persName>
+          </person>
+          <person xml:id="zweiter_foerster" sex="MALE">
+            <persName>Zweiter Förster</persName>
+          </person>
+          <person xml:id="lady_grey_koenigin_elisabeth" sex="FEMALE">
+            <persName>Lady Grey, nachmals Gemahlin Eduards IV.</persName>
+          </person>
+          <person xml:id="edelmann" sex="MALE">
+            <persName>Ein Edelmann</persName>
+          </person>
+          <person xml:id="koenig_ludwig" sex="MALE">
+            <persName>Ludwig XI., König von Frankreich</persName>
+          </person>
+          <person xml:id="oxford" sex="MALE">
+            <persName>Graf von Oxford</persName>
+          </person>
+          <person xml:id="bona" sex="FEMALE">
+            <persName>Bona</persName>
+          </person>
+          <person xml:id="bote_iii-3_und_iv-1" sex="MALE">
+            <persName>Ein Bote (III/3 und IV/1)</persName>
+          </person>
+          <person xml:id="somerset" sex="MALE">
+            <persName>Herzog von Somerset</persName>
+          </person>
+          <person xml:id="hastings" sex="MALE">
+            <persName>Lord Hastings</persName>
+          </person>
+          <person xml:id="erste_schildwache" sex="MALE">
+            <persName>Erste Schildwache</persName>
+          </person>
+          <person xml:id="zweite_schildwache" sex="MALE">
+            <persName>Zweite Schildwache</persName>
+          </person>
+          <person xml:id="dritte_schildwache" sex="MALE">
+            <persName>Dritte Schildwache</persName>
+          </person>
+          <person xml:id="rivers" sex="MALE">
+            <persName>Lord Rivers</persName>
+          </person>
+          <person xml:id="jaeger" sex="MALE">
+            <persName>Ein Jäger</persName>
+          </person>
+          <person xml:id="kommandant" sex="MALE">
+            <persName>Der Kommandant des Turmes</persName>
+          </person>
+          <person xml:id="bote_iv-6" sex="MALE">
+            <persName>Ein Bote (IV/6)</persName>
+          </person>
+          <person xml:id="schultheiss" sex="MALE">
+            <persName>Der Schultheiß von York</persName>
+          </person>
+          <person xml:id="montgomery" sex="MALE">
+            <persName>Sir John Montgomery</persName>
+          </person>
+          <person xml:id="soldat" sex="MALE">
+            <persName>Soldat</persName>
+          </person>
+          <personGrp xml:id="alle_iv-7" sex="MALE">
+            <name>Alle (IV/7)</name>
+          </personGrp>
+          <person xml:id="erster_bote" sex="MALE">
+            <persName>Erster Bote</persName>
+          </person>
+          <person xml:id="zweiter_bote" sex="MALE">
+            <persName>Zweiter Bote</persName>
+          </person>
+          <person xml:id="somerville" sex="MALE">
+            <persName>Sir John Somerville</persName>
+          </person>
+          <person xml:id="bote_v-4" sex="MALE">
+            <persName>Ein Bote (V/4)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +222,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000021" passive="http://www.wikidata.org/entity/Q1241754"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000021"
+        passive="http://www.wikidata.org/entity/Q1241754"/>
     </listRelation>
   </standOff>
   <text>
@@ -197,7 +342,7 @@
               <l>Den bei der Scharen Handgemeng' ich traf.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD</speaker>
             <stage>wirft Somersets Kopf hin.</stage>
             <l>Sprich du für mich und sage, was ich tat.</l>
@@ -213,7 +358,7 @@
             <speaker>NORFOLK.</speaker>
             <l>So geh's dem ganzen Haus Johanns von Gaunt!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>So hoff' ich König Heinrichs Kopf zu schütteln.</l>
           </sp>
@@ -265,7 +410,7 @@
               <l>Mit Worten oder Streichen hier erobern.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Laßt uns, gewaffnet so, dies Haus behaupten.</l>
           </sp>
@@ -484,7 +629,7 @@
               <l>Ich war neun Monden alt, da man mich krönte.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Jetzt seid Ihr alt genug, und doch verliert Ihr, scheint's.</l>
@@ -504,7 +649,7 @@
             </lg>
           </sp>
           <pb n="697"/>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Die Trommeln rührt, so wird der König fliehn.</l>
           </sp>
@@ -944,7 +1089,7 @@
           <head>Zweite Szene</head>
           <stage>Ein Zimmer in der Burg Sandal, bei Wakefield in Yorkshire.</stage>
           <stage>Eduard, Richard und Montague treten auf.</stage>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Bruder, vergönnt mir, bin ich schon der Jüngste.</l>
           </sp>
@@ -973,7 +1118,7 @@
             <speaker>YORK.</speaker>
             <l>Um was?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Um was Eu'r Gnaden angeht, so wie uns:</l>
@@ -984,7 +1129,7 @@
             <speaker>YORK.</speaker>
             <l>Mein, Knabe? Nicht vor König Heinrichs Tod.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Eu'r Recht hängt nicht an seinem Tod und Leben.</l>
           </sp>
@@ -1007,7 +1152,7 @@
               <l>Ein Jahr zu herrschen, bräch' ich tausend Eide.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Verhüte Gott, daß Ihr meineidig würdet.</l>
           </sp>
@@ -1015,7 +1160,7 @@
             <speaker>YORK.</speaker>
             <l>Das werd' ich, wenn ich mit den Waffen fodre.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Das Gegenteil beweis' ich, wenn Ihr hören wollt.</l>
           </sp>
@@ -1023,7 +1168,7 @@
             <speaker>YORK.</speaker>
             <l>Du kannst es nicht; es ist unmöglich, Sohn.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ein Eid gilt nichts, der nicht geleistet wird</l>
@@ -1062,7 +1207,7 @@
             <stage>Ein Bote tritt auf.</stage>
             <l>Doch halt: was gibt's? Was kommst du so in Eil'?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_i-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Die Königin samt allen nord'schen Lords</l>
@@ -1108,7 +1253,7 @@
             <speaker>YORK.</speaker>
             <l>Was? Mit fünftausend Mann?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ja mit fünfhundert, Vater, wenn es gilt.</l>
@@ -1615,7 +1760,7 @@
               <l>Was macht mein Bruder? Warum so betrübt?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich kann nicht froh sein, bis ich sicher weiß,</l>
@@ -1640,7 +1785,7 @@
             <speaker>EDUARD.</speaker>
             <l>Bin ich geblendet, oder seh' drei Sonnen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Drei lichte Sonnen, jede ganz vollkommen;</l>
@@ -1667,7 +1812,7 @@
               <l>Drei Sonnengötter auf der Tartsche tragen.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nein, laßt sie weiblich bilden: denn, vergönnt,</l>
@@ -1677,7 +1822,7 @@
               <l>Auf deiner Zunge schwebend, ahnden läßt?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-1a">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ach, einer, der mit Jammer angesehn,</l>
@@ -1689,11 +1834,11 @@
             <speaker>EDUARD.</speaker>
             <l>O sprich nicht mehr! Ich hörte schon zu viel.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Sag, wie er starb, denn ich will alles hören.</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-1a">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Umzingelt war er von der Feinde Menge,</l>
@@ -1733,7 +1878,7 @@
               <l>Niemals, o niemals werd' ich Freud' erleben.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich kann nicht weinen: alles Naß in mir</l>
@@ -1755,7 +1900,7 @@
               <l>Sein Herzogtum und Stuhl blieb mir zurück.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nein, stammst du von dem königlichen Adler,</l>
@@ -1769,7 +1914,7 @@
             <speaker>WARWICK.</speaker>
             <l>Nun, lieben Lords! wie steht's? Was gibt es Neues?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wenn wir die grause Zeitung, großer Warwick,</l>
@@ -1849,7 +1994,7 @@
               <l>Mit einer Hülfsmacht zu dem nöt'gen Krieg.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Das muß wohl Übermacht gewesen sein,</l>
@@ -1869,7 +2014,7 @@
               <l>Als man ihn milde, fromm und friedlich rühmt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich weiß es wohl, Lord Warwick, schilt mich nicht;</l>
@@ -1909,7 +2054,7 @@
               <l>Nie wieder Rücken wenden oder fliehn.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ja, nun hör' ich den großen Warwick reden!</l>
@@ -1939,7 +2084,7 @@
               <l>Blast die Trompeten, und an unser Werk!</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nun, Clifford, wär' dein Herz so hart als Stahl,</l>
@@ -1957,7 +2102,7 @@
             <l>Wie nun? Was gibt's?</l>
           </sp>
           <pb n="718"/>
-          <sp who="#bote">
+          <sp who="#bote_ii-1b">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Der Herzog Norfolk meldet euch durch mich,</l>
@@ -2084,7 +2229,7 @@
             <l>Das heißt gesprochen wie ein kühner Prinz.</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ihr königlichen Feldherrn, seid bereit!</l>
@@ -2164,7 +2309,7 @@
               <l>Wer soll dem Vater folgen, als der Sohn?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Seid Ihr da, Schlächter? Oh, ich kann nicht reden!</l>
           </sp>
@@ -2175,7 +2320,7 @@
               <l>Und jedem noch so Stolzen deines Schlags.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Ihr tötetet den jungen Rutland, nicht?</l>
           </sp>
@@ -2183,7 +2328,7 @@
             <speaker>CLIFFORD.</speaker>
             <l>Ja, und den alten York, und noch nicht satt.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Um Gottes willen, Lords, gebt das Signal!</l>
           </sp>
@@ -2215,7 +2360,7 @@
             <speaker>NORTHUMBERLAND.</speaker>
             <l>Noch Euer Mannsinn, was Euch halten konnte.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Northumberland, ich halte dich in Ehren. –</l>
@@ -2228,7 +2373,7 @@
             <speaker>CLIFFORD.</speaker>
             <l>Ich schlug den Vater dir: nennst du ihn Kind?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ja, wie ein Feigling, eine tück'sche Memme,</l>
@@ -2258,7 +2403,7 @@
               <l>Die uns zusammen rief: darum seid still!</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Scharfrichter, so entblöße denn dein Schwert!</l>
@@ -2290,7 +2435,7 @@
               <l>So gibt's kein Unrecht, dann ist alles recht.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wer dich auch zeugte, dort steht deine Mutter,</l>
@@ -2306,7 +2451,7 @@
               <l>Wie gift'ge Kröten oder Eidechsstacheln.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Eisen von Napel, englisch übergoldet!</l>
@@ -2342,7 +2487,7 @@
               <l>Die Fod'rung wir auf andre Zeit verspart.</l>
             </lg>
           </sp>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <lg>
               <l>Doch da wir sahn, daß unser Sonnenschein</l>
@@ -2407,7 +2552,7 @@
             <stage>George tritt auf.</stage>
           </sp>
           <pb n="724"/>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <lg>
               <l>Statt Glück Verlust, statt Hoffnung nur Verzweiflung.</l>
@@ -2423,7 +2568,7 @@
             </lg>
             <stage>Richard tritt auf.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ach, Warwick, warum hast du dich entfernt!</l>
@@ -2470,7 +2615,7 @@
             </lg>
           </sp>
           <pb n="725"/>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Bruder, gib mir die Hand, und, lieber Warwick,</l>
@@ -2483,7 +2628,7 @@
             <speaker>WARWICK.</speaker>
             <l>Fort, fort! Noch einmal, lieben Lords, lebt wohl!</l>
           </sp>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <lg>
               <l>Doch gehn wir insgesamt zu unsern Scharen,</l>
@@ -2502,7 +2647,7 @@
           <head>Vierte Szene</head>
           <stage>Ein andrer Teil des Schlachtfeldes.</stage>
           <stage>Angriffe. Richard und Clifford treten auf.</stage>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nun, Clifford, dich allein las ich mir aus.</l>
@@ -2524,7 +2669,7 @@
             </lg>
             <stage>Sie fechten, Warwich kommt dazu, Clifford flieht.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nein, Warwick, lies ein andres Wild dir aus,</l>
@@ -2846,7 +2991,7 @@
             <speaker>EDUARD.</speaker>
             <l>Wes Seele nimmt da ihren schweren Abschied?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Ein Ächzen war's, wie zwischen Tod und Leben.</l>
           </sp>
@@ -2857,7 +3002,7 @@
               <l>Freund oder Feind, behandelt schonend ihn.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Heb' auf den Gnadenspruch, denn es ist Clifford,</l>
@@ -2897,7 +3042,7 @@
               <l>Er sieht uns nicht und hört nicht, was man sagt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>O tät' er's doch! Er tut es auch vielleicht,</l>
@@ -2906,11 +3051,11 @@
               <l>Wie er bei unsers Vaters Tod geübt.</l>
             </lg>
           </sp>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <l>Wenn du das denkst, plag' ihn mit scharfen Worten.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Clifford, erflehe Gnad' und finde keine!</l>
           </sp>
@@ -2922,11 +3067,11 @@
             <speaker>WARWICK.</speaker>
             <l>Ersinn' Entschuldigung für deine Taten!</l>
           </sp>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <l>Indes wir Folterpein dafür ersinnen.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <l>Du liebtest York, und ich bin Sohn von York.</l>
           </sp>
@@ -2934,7 +3079,7 @@
             <speaker>EDUARD.</speaker>
             <l>Wie Rutlands du, will ich mich dein erbarmen.</l>
           </sp>
-          <sp who="#george">
+          <sp who="#george_clarence">
             <speaker>GEORGE.</speaker>
             <l>Wo ist dein Schutz nun, Hauptmann Margareta?</l>
           </sp>
@@ -2942,7 +3087,7 @@
             <speaker>WARWICK.</speaker>
             <l>Man höhnt dich, Clifford; fluche, wie du pflegtest.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Was? Keinen Fluch? Dann steht es schlimm, wenn Clifford</l>
@@ -2989,7 +3134,7 @@
               <l>Soll tun und lassen, was ihm nur gefällt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#richard_gloster">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Laß mich von Clarence, George von Gloster Herzog sein,</l>
@@ -3252,7 +3397,7 @@
           <head>Zweite Szene</head>
           <stage>London. Ein Zimmer im Palast.</stage>
           <stage>König Eduard, Gloster, Clarence und Lady Grey treten auf.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Bruder von Gloster, auf Sankt-Albans Feld</l>
@@ -3264,18 +3409,18 @@
               <l>Der würd'ge Mann sein Leben eingebüßt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Eu'r Hoheit täte wohl, es zu gewähren;</l>
               <l>Es wäre schimpflich, ihr es abzuschlagen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Das wär' es auch, doch schieb' ich es noch auf.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit zu Clarence.</stage>
             <lg>
@@ -3285,24 +3430,24 @@
             </lg>
           </sp>
           <pb n="738"/>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>Er kennt die Jagd: wie bleibt er bei der Fährte!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Still!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Witwe! Wir wollen Eu'r Gesuch erwägen,</l>
               <l>Und kommt ein andermal um den Bescheid.</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Ich kann Verzug nicht dulden, gnäd'ger Fürst:</l>
@@ -3310,7 +3455,7 @@
               <l>Und was Euch nur gefällt, soll mir genügen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -3319,52 +3464,52 @@
               <l>Gebt besser acht, sonst wird Euch eins versetzt.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>Ich sorge nicht, wenn sie nicht etwa fällt.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Verhüt' es Gott! Er nähm' den Vorteil wahr.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Wie viele Kinder hast du, Witwe? Sag mir.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>Ich glaub', er denkt sie um ein Kind zu bitten.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Dann nennt mich Schelm; er gibt ihr lieber zwei.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Drei, mein sehr gnäd'ger Fürst.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Er schafft Euch vier, wenn Ihr ihm folgen wollt.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Hart wär's, wenn sie des Vaters Land verlören.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Habt Mitleid, hoher Herr, gewährt es ihnen!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Laßt uns, ihr Lords: ich will den Witz der Witwe prüfen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wir lassen euch, ihr bleibt euch überlassen,</l>
@@ -3372,164 +3517,164 @@
             </lg>
             <stage>Gloster und Clarence treten auf die andre Seite zurück.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Sagt, liebt Ihr Eure Kinder, edle Frau?</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Ja, so von Herzen, wie ich selbst mich liebe.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Und wolltet Ihr nicht viel tun für ihr Wohl?</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Ich wollte für ihr Wohl ein Übel dulden.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Erwerbt Euch denn die Güter für ihr Wohl!</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Deswegen kam ich zu Eu'r Majestät.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ich sag' Euch, wie sie zu erwerben sind.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Das wird mich Euer Hoheit Dienst verpflichten.</l>
           </sp>
           <pb n="739"/>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Was tust du mir zum Dienst, wenn ich sie gebe?</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Was Ihr befehlt, das bei mir steht zu tun.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ihr werdet Euch an meinem Antrag stoßen.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Nein, gnäd'ger Herr, ich müßte denn nicht können.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Du kannst das aber, was ich bitten will.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>So will ich tun, was Eure Hoheit fodert.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Er drängt sie scharf; viel Regen höhlt den Marmor.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>So rot wie Feu'r! Da muß ihr Wachs wohl schmelzen.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Was stockt mein Fürst? Soll ich den Dienst nicht wissen?</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ein leichter Dienst: nur einen König lieben.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Das kann ich leicht als Untertanin tun.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Dann geb' ich gleich dir deines Gatten Güter.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Und ich empfehle mich mit tausend Dank.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>'s ist richtig; sie besiegelt's mit dem Knicks.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Verziehe noch: der Liebe Früchte mein' ich.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Der Liebe Früchte mein' ich, bester Fürst.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ja, doch ich fürcht', in einem andern Sinn.</l>
               <l>Um welche Liebe, glaubst du, werb' ich so?</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Lieb' in den Tod, Dank und Gebet für Euch;</l>
               <l>Wie Tugend Liebe bittet und gewährt.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nein, solche Liebe mein' ich nicht, mein' Treu'.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Nun wohl, dann meint Ihr nicht so, wie ich dachte.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nun aber merkt Ihr meinen Sinn zum Teil.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Mein Sinn gibt nimmer zu, was, wie ich merke,</l>
               <l>Eu'r Hoheit denket, denk' ich anders recht.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Bei dir zu liegen denk' ich, grad' heraus.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Und grad' heraus, ich läg' im Kerker lieber.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nun, so bekommst du nicht des Mannes Güter.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>So sei die Ehrbarkeit mein Leibgedinge;</l>
               <l>Um <emph>den</emph> Verlust will ich sie nicht erkaufen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Du tust damit den Kindern sehr zu nah.</l>
           </sp>
           <pb n="740"/>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Eu'r Hoheit tut hiemit es mir und ihnen.</l>
@@ -3538,28 +3683,28 @@
               <l>Entlaßt mit Ja mich gütigst oder Nein.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ja, wenn du ja auf meinen Wunsch willst sagen;</l>
               <l>Nein, wenn du nein auf mein Begehren sagst.</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <l>Dann nein, mein Fürst, und mein Gesuch ist aus.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Die Witwe mag ihn nicht, sie runzelt ihre Stirn.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>Kein Mensch in Christenlanden wirbt wohl plumper.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nach ihren Blicken ist sie voller Sittsamkeit,</l>
@@ -3570,7 +3715,7 @@
               <l>Setz', König Eduard nähm' dich zum Gemahl?</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Das läßt sich besser sagen, Herr, als tun:</l>
@@ -3578,7 +3723,7 @@
               <l>Doch taug' ich längst nicht, Herrscherin zu sein.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Bei meinem Thron schwör' ich dir, holde Witwe,</l>
@@ -3586,7 +3731,7 @@
               <l>Das ist, dich als Geliebte zu besitzen.</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Und das ist mehr, als ich will zugestehn.</l>
@@ -3594,18 +3739,18 @@
               <l>Und doch zu gut, Eu'r Kebsweib nur zu sein.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Stecht Silben nicht: ich meinte als Gemahl.</l>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Wenn meine Söhne nun Euch Vater nennen,</l>
               <l>Das wird Eu'r Hoheit kränken.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nein, nicht mehr,</l>
@@ -3618,49 +3763,49 @@
             </lg>
           </sp>
           <pb n="741"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Der Geistliche hat seine Beicht' vollbracht.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>beiseit.</stage>
             <l>Zum Beicht'ger hat ihn Leibliches gemacht.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Euch wundert's, Brüder, was wir zwei geflüstert?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Der Witwe steht's nicht an, sie sieht verdüstert.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ihr fändet's fremd, wenn ich zur Frau sie wählte?</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Für wen, mein Fürst?</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ei, Clarence, für mich selbst.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Das wär' zum Wundern auf zehn Tage mind'stens.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Das ist ein Tag mehr, als ein Wunder währt.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>So endlos würde dieses Wundern sein.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Gut, Brüder, spaßt nur fort: ich kann euch sagen,</l>
@@ -3675,7 +3820,7 @@
               <l>Gefangen bringt man ihn vor Euer Schloß.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>So sorgt, daß man ihn schaffe nach dem Turm; –</l>
@@ -3685,7 +3830,7 @@
             </lg>
             <stage>König Eduard, Lady Grey, Clarence und der Edelmann ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ja, Eduard hält die Weiber wohl in Ehren.</l>
@@ -4134,7 +4279,7 @@
             <l>Warwick, an dich kommt Botschaft, oder uns.</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mein Herr Gesandter, dieser Brief hier ist an Euch,</l>
@@ -4385,7 +4530,7 @@
           <head>Erste Szene</head>
           <stage>London. Ein Zimmer im Palast.</stage>
           <stage>Gloster, Clarence, Somerset, Montague und andre treten auf.</stage>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Nun sagt mir, Bruder Clarence, was denkt Ihr</l>
@@ -4393,7 +4538,7 @@
               <l>Traf unser Bruder keine würd'ge Wahl?</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Ach, wie Ihr wißt, 's ist weit nach Frankreich hin;</l>
@@ -4407,22 +4552,22 @@
             <stage>König Eduard mit Gefolge, Lady Grey als Königin, Pembroke, Stafford, Hastings und
               andre treten auf.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Und seine wohlgewählte Braut.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Ich sag' ihm, was ich denke, grad' heraus.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun, Bruder Clarence, wie dünkt Euch die Wahl,</l>
               <l>Daß Ihr nachdenklich steht, halb mißvergnügt?</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>So gut wie Ludwig und dem Grafen Warwick,</l>
@@ -4430,7 +4575,7 @@
               <l>Daß unsre Mißhandlung sie nicht beleidigt.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Setzt, daß sie ohne Grund beleidigt wären,</l>
@@ -4438,18 +4583,18 @@
               <l>Eu'r Herr und Warwicks, und muß schalten können.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Und sollt auch schalten, weil Ihr unser Herr;</l>
               <l>Doch übereilte Eh' tut selten gut.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Ei, Bruder Richard, seid Ihr auch beleidigt?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich nicht:</l>
@@ -4459,7 +4604,7 @@
               <l>Ein Paar zu trennen, das so schön sich paßt.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Vom Hohn und Widerwillen abgesehn,</l>
@@ -4469,7 +4614,7 @@
               <l>Sprecht offen, was ihr denkt.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>So ist dies meine Meinung: König Ludwig</l>
@@ -4477,14 +4622,14 @@
               <l>Der Fräulein Bona zum Gespött gemacht.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Und Warwick, der nach Eurem Auftrag tat,</l>
               <l>Ist nun entehrt durch diese neue Heirat.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Wie, wenn ich beide nun durch neue Mittel,</l>
@@ -4520,21 +4665,21 @@
               <l>Sie und wir selbst sind unsre Sicherheit.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Für diese Rede schon verdient Lord Hastings</l>
               <l>Zur Eh' die Erbin des Lord Hungerford.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun gut, was soll's? Es war mein Will' und Wort,</l>
               <l>Und diesmal gilt mein Wille für Gesetz.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Doch dünkt mich, Eure Hoheit tat nicht wohl,</l>
@@ -4544,7 +4689,7 @@
               <l>Doch Bruderlieb' ist in der Braut begraben.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Sonst hättet Ihr die Erbin des Lord Bonville</l>
@@ -4553,14 +4698,14 @@
             </lg>
           </sp>
           <pb n="754"/>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ach, armer Clarence! Bist du mißvergnügt</l>
               <l>Nur um ein Weib? Ich will dich schon versorgen.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Die Wahl für Euch verriet schon Euer Urteil;</l>
@@ -4569,14 +4714,14 @@
               <l>Wozu ich nächstens denk' Euch zu verlassen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Geht oder bleibt, Eduard will König sein</l>
               <l>Und nicht gebunden an der Brüder Willen.</l>
             </lg>
           </sp>
-          <sp who="#lady_grey">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>LADY GREY.</speaker>
             <lg>
               <l>Mylords, eh' Seine Majestät beliebte,</l>
@@ -4589,7 +4734,7 @@
               <l>Mir abhold, mit Gefahr und Leid die Freude.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Mein Herz, laß ab, den Mürrischen zu schmeicheln.</l>
@@ -4602,20 +4747,20 @@
               <l>Sie sollen meines Grimmes Rache fühlen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Ich sage wenig, denke desto mehr.</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun, Bote, was für Brief' und Neuigkeiten</l>
               <l>Aus Frankreich?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mein König, keine Brief' und wenig Worte,</l>
@@ -4623,7 +4768,7 @@
               <l>Nicht melden darf.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Gut, wir begnad'gen dich; drum sage kürzlich,</l>
@@ -4631,7 +4776,7 @@
               <l>Was gab der König unserm Brief zur Antwort?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Dies waren seine Worte, da ich schied:</l>
@@ -4642,14 +4787,14 @@
               <l>Zum Tanz mit ihm und seiner neuen Braut.«</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ist er so brav? Er hält mich wohl für Heinrich.</l>
               <l>Doch was sagt Fräulein Bona zu der Heirat?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Dies waren ihre sanft unwill'gen Worte:</l>
@@ -4657,7 +4802,7 @@
               <l>Trag' ich den Weidenkranz um seinetwillen.«</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ich tadle drum sie nicht, sie konnte wohl</l>
@@ -4666,21 +4811,21 @@
               <l>Denn, wie ich hörte, war sie da zugegen.</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>»Sag ihm«, sprach sie, »die Trau'r sei abgetan,</l>
               <l>Und kriegerische Rüstung leg' ich an.«</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Es scheint, sie will die Amazone spielen.</l>
               <l>Was aber sagte Warwick zu dem Hohn?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Er, wider Eure Majestät entrüstet,</l>
@@ -4689,7 +4834,7 @@
               <l>Drum woll' ich ihn entkrönen, eh' er's denkt.«</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ha! Wagte der Verräter so zu freveln?</l>
@@ -4698,14 +4843,14 @@
               <l>Doch sag, ist Warwick Freund mit Margareten?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-3_und_iv-1">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ja, gnäd'ger Fürst; so innig ist die Freundschaft,</l>
               <l>Daß sich ihr Prinz vermählt mit Warwicks Tochter.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Wohl mit der ältern, Clarence will die jüngste.</l>
@@ -4717,7 +4862,7 @@
             </lg>
             <stage>Clarence ab, und Somerset folgt ihm nach.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -4725,7 +4870,7 @@
               <l>Ich bleibe, Eduard nicht, der Krone nur zu lieb.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Clarence und Somerset, zum Warwick beide!</l>
@@ -4756,15 +4901,15 @@
             <speaker>HASTINGS.</speaker>
             <l>Und Hastings, wie er Eduards Sache führt!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nun, Bruder Richard, wollt Ihr bei uns stehn?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Ja, trotz jedwedem, der Euch widersteht.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun wohl, so bin ich meines Siegs gewiß.</l>
@@ -4788,7 +4933,7 @@
               <l>Sagt schleunig, Mylords: sind wir sämtlich Freunde?</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Sorgt darum nicht, Mylord!</l>
           </sp>
@@ -4932,7 +5077,7 @@
             <speaker>WARWICK.</speaker>
             <l>Richard und Hastings; laßt sie, hier ist der Herzog.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Herzog! Wie, Warwick? Da wir schieden, nanntest</l>
@@ -4954,7 +5099,7 @@
               <l>Nicht wißt, vor Euren Feinden Euch zu bergen?</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ei, Bruder Clarence, bist du auch dabei?</l>
@@ -4982,7 +5127,7 @@
               <l>Leb wohl indessen, guter Herzog York!</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Was Schicksal auflegt, muß der Mensch ertragen,</l>
@@ -5016,7 +5161,7 @@
             <speaker>RIVERS.</speaker>
             <l>Was hat Euch, gnäd'ge Frau, so schnell verwandelt?</l>
           </sp>
-          <sp who="#koenigin_elisabeth">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>KÖNIGIN ELISABETH.</speaker>
             <lg>
               <l>Wie, Bruder Rivers? Müßt Ihr's erst erfahren,</l>
@@ -5027,7 +5172,7 @@
             <speaker>RIVERS.</speaker>
             <l>Verlust von einem Treffen gegen Warwick?</l>
           </sp>
-          <sp who="#koenigin_elisabeth">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>KÖNIGIN ELISABETH.</speaker>
             <l>Nein, seiner fürstlichen Person Verlust.</l>
           </sp>
@@ -5035,7 +5180,7 @@
             <speaker>RIVERS.</speaker>
             <l>So ward mein Fürst erschlagen?</l>
           </sp>
-          <sp who="#koenigin_elisabeth">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>KÖNIGIN ELISABETH.</speaker>
             <lg>
               <l>Ja, fast erschlagen: denn er ward gefangen,</l>
@@ -5054,7 +5199,7 @@
               <l>Vom Warwick kann der Sieg zu uns sich schlagen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin_elisabeth">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>KÖNIGIN ELISABETH.</speaker>
             <lg>
               <l>Bis dahin muß mein Leben Hoffnung tragen.</l>
@@ -5073,7 +5218,7 @@
             <speaker>RIVERS.</speaker>
             <l>Doch, gnäd'ge Frau, wo kam denn Warwick hin?</l>
           </sp>
-          <sp who="#koenigin_elisabeth">
+          <sp who="#lady_grey_koenigin_elisabeth">
             <speaker>KÖNIGIN ELISABETH.</speaker>
             <lg>
               <l>Man meldet mir, daß er nach London zieht,</l>
@@ -5095,7 +5240,7 @@
           <head>Fünfte Szene</head>
           <stage>Ein Tiergarten in der Nähe der Burg Middleham in Yorkshire.</stage>
           <stage>Gloster, Hastings, Sir William Stanley und andre treten auf.</stage>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Nun, Mylord Hastings und Sir William Stanley,</l>
@@ -5118,7 +5263,7 @@
             <speaker>JÄGER.</speaker>
             <l>Hieher, mein Fürst; hier liegt das Wild versteckt.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nein, hieher, Mann: sieh da die Jäger stehn. –</l>
@@ -5127,14 +5272,14 @@
             </lg>
           </sp>
           <pb n="762"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Bruder, die Zeit und Lage fodert Eil';</l>
               <l>An des Geheges Ecke steht Eu'r Pferd.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Doch wohin sollen wir?</l>
           </sp>
@@ -5142,19 +5287,19 @@
             <speaker>HASTINGS.</speaker>
             <l>Nach Lynn, Mylord, von da nach Flandern schiffen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Fürwahr, getroffen! Das war meine Meinung.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Stanley, ich will den Eifer dir vergelten.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Was zögern wir? Zum Reden ist nicht Zeit.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Was sagst du, Jäger? Willst du mit mir gehn?</l>
           </sp>
@@ -5162,11 +5307,11 @@
             <speaker>JÄGER.</speaker>
             <l>Besser als bleiben und mich hängen lassen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>So kommt denn, fort! und macht kein Wesen weiter.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Leb wohl denn, Bischof! Warwicks Zorn entrinne,</l>
@@ -5232,7 +5377,7 @@
               <l>Daß Ihr mich wählt, da Clarence steht daneben.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Nein, Warwick, du bist würdig der Gewalt,</l>
@@ -5262,7 +5407,7 @@
             <speaker>WARWICK.</speaker>
             <l>Was sagt auf seines Fürsten Willen Clarence?</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Daß er drein willigt, wenn es Warwick tut:</l>
@@ -5283,7 +5428,7 @@
               <l>Und alle seine Güter einzuziehn.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Was sonst? Und dann das Erbrecht zu bestimmen.</l>
           </sp>
@@ -5303,7 +5448,7 @@
               <l>Die Lust an meiner Freiheit halb verfinstert.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Es soll, mein Fürst, in aller Eil' geschehn.</l>
           </sp>
@@ -5338,7 +5483,7 @@
             <speaker>WARWICK.</speaker>
             <l>Was bringst du Neues, Freund?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-6">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Daß Eduard Eurem Bruder ist entwischt</l>
@@ -5349,7 +5494,7 @@
             <speaker>WARWICK.</speaker>
             <l>Mißfäll'ge Neuigkeit! Doch wie entkam er?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-6">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Er ward entführt durch Richard, Herzog Gloster,</l>
@@ -5405,7 +5550,7 @@
           <head>Siebente Szene</head>
           <stage>Vor York.</stage>
           <stage>König Eduard, Gloster und Hastings treten auf mit Truppen.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun, Bruder Richard, Lord Hastings und ihr andern:</l>
@@ -5420,7 +5565,7 @@
             </lg>
           </sp>
           <pb n="766"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Das Tor verschlossen? Das gefällt mir nicht;</l>
@@ -5428,7 +5573,7 @@
               <l>Verwarnt dies, drinnen laure die Gefahr.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Pah, Freund! Jetzt dürfen Zeichen uns nicht schrecken:</l>
@@ -5449,7 +5594,7 @@
               <l>Denn jetzo sind wir Heinrich Treue schuldig.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Wenn Heinrich Euer König ist, Herr Schultheiß,</l>
@@ -5460,11 +5605,11 @@
             <speaker>SCHULTHEISS.</speaker>
             <l>Ja, bester Herr, dafür erkenn' ich Euch.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nun, und ich fodre bloß mein Herzogtum.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -5484,7 +5629,7 @@
             <l>Ah, so? Das Tor soll euch geöffnet werden.</l>
             <stage>Von oben ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Ein weiser, tücht'ger Hauptmann, und bald beredet!</l>
           </sp>
@@ -5498,7 +5643,7 @@
             </lg>
             <stage>Der Schultheiß kommt mit zwei Aldermännern aus der Stadt.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Herr Schultheiß, dieses Tor ist nicht zu schließen</l>
@@ -5511,14 +5656,14 @@
             </lg>
             <stage>Trommeln. Montgomery kommt mit Truppen auf dem Marsch begriffen.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Bruder, das ist Sir John Montgomery,</l>
               <l>Wo ich nicht irre, unser biedrer Freund.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Sir John, willkommen! Doch warum in Waffen?</l>
           </sp>
@@ -5529,7 +5674,7 @@
               <l>Zu helfen, wie ein treuer Untertan.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Dank, teuerster Montgomery! Aber nun</l>
@@ -5547,7 +5692,7 @@
             </lg>
             <stage>Die Trommeln fangen einen Marsch an.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ein Weilchen haltet noch; laßt uns erwägen,</l>
@@ -5565,11 +5710,11 @@
               <l>Wenn Ihr kein Recht behauptet, föchten wir?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Wozu doch, Bruder, die Bedenklichkeiten?</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Wenn wir erst stärker sind, dann wollen wir</l>
@@ -5581,7 +5726,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Jetzt fort mit scheuem Witz! Das Schwert regiere!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Und kühner Mut erklimmt am ersten Thronen.</l>
@@ -5589,7 +5734,7 @@
               <l>Der Ruf davon wird viele Freund' Euch schaffen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>So sei es, wie ihr wollt: denn 's ist mein Recht,</l>
@@ -5626,11 +5771,11 @@
             </lg>
             <stage>Wirft seinen Handschuh nieder.</stage>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iv-7">
             <speaker>ALLE.</speaker>
             <l>Lang' lebe Eduard der Vierte!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Dank, tapferer Montgomery! Dank euch allen!</l>
@@ -5668,7 +5813,7 @@
             <speaker>OXFORD.</speaker>
             <l>Man werbe Mannschaft, ihn zurückzuschlagen.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Leicht wird ein kleines Feuer ausgetreten,</l>
@@ -5700,7 +5845,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Leb wohl, mein Hektor! Meines Troja Hoffnung!</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Zum Pfand der Treu' küss' ich Eu'r Hoheit Hand.</l>
           </sp>
@@ -5767,7 +5912,7 @@
             <l>Hört, hört, mein Fürst! Welch ein Geschrei ist das?</l>
             <stage>König Eduard, Gloster und Soldaten treten auf.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ergreift den blöden Heinrich, führt ihn fort</l>
@@ -5783,7 +5928,7 @@
               <l>Wird Frost uns die gehoffte Ernte nagen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Bei Zeiten fort, eh' sich sein Heer vereint,</l>
@@ -5861,11 +6006,11 @@
             <stage>Trommeln.</stage>
             <stage>König Eduard und Gloster nebst Truppen auf dem Marsch.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Trompeter, lade sie zur Unterhandlung!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Seht auf der Mau'r den finstern Warwick hausen!</l>
           </sp>
@@ -5878,7 +6023,7 @@
             </lg>
           </sp>
           <pb n="772"/>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun, Warwick, tust du uns das Stadttor auf,</l>
@@ -5896,7 +6041,7 @@
               <l>So sollst du ferner Herzog sein von York.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich glaubt', er würde mind'stens König sagen;</l>
@@ -5907,7 +6052,7 @@
             <speaker>WARWICK.</speaker>
             <l>Ist nicht ein Herzogtum ein schön Geschenk?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ja wahrlich, wenn's ein armer Graf vergibt.</l>
@@ -5918,7 +6063,7 @@
             <speaker>WARWICK.</speaker>
             <l>Ich war's ja, der das Königreich ihm gab.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Nun, so ist's mein, wenn auch durch Warwicks Gabe.</l>
           </sp>
@@ -5930,7 +6075,7 @@
               <l>Und Heinrich ist mein Herr, Warwick sein Untertan.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Doch Warwicks Herr ist Eduards Gefangner,</l>
@@ -5938,7 +6083,7 @@
               <l>Was ist der Körper, wenn das Haupt ihm fehlt?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ach, daß doch Warwick nicht mehr Vorsicht hatte,</l>
@@ -5948,11 +6093,11 @@
               <l>Zehn gegen eins, Ihr trefft ihn nun im Turm.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>So ist es auch, doch bleibt Ihr Warwick stets.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Komm, Warwick! Nimm die Zeit wahr! Kniee nieder!</l>
@@ -5967,7 +6112,7 @@
               <l>Als daß ich dir die Segel streichen sollte.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ja, segle, wie du kannst, mit Wind und Flut!</l>
@@ -5988,11 +6133,11 @@
             <l>Oxford, Oxford, für Lancaster!</l>
             <stage>Zieht mit seinen Truppen in die Stadt.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Das Tor steht offen, laßt uns auch hinein!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ein andrer Feind könnt' uns in Rücken fallen.</l>
@@ -6012,14 +6157,14 @@
             <l>Montague, Montague, für Lancaster!</l>
             <stage>Zieht mit seinen Truppen in die Stadt.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Du und dein Bruder sollen den Verrat</l>
               <l>Mit eurer Leiber bestem Blut bezahlen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Je stärkrer Gegenpart, je größrer Sieg;</l>
@@ -6032,7 +6177,7 @@
             <l>Somerset, Somerset, für Lancaster!</l>
             <stage>Zieht mit seinen Truppen in die Stadt.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Zwei Herzöge von Somerset wie du</l>
@@ -6051,7 +6196,7 @@
               <l>Komm, Clarence, komm! Du wirst's, wenn Warwick ruft.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Weißt du, was dies bedeutet, Vater Warwick?</l>
@@ -6080,14 +6225,14 @@
               <l>Ich will hinfort nicht unbeständig sein.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Willkommen nun, und zehnmal mehr geliebt,</l>
               <l>Als hätt'st du niemals unsern Haß verdient.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Willkommen, Clarence! Das ist brüderlich.</l>
           </sp>
@@ -6095,7 +6240,7 @@
             <speaker>WARWICK.</speaker>
             <l>O Erzverräter, falsch und ungerecht!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun, Warwick, willst du aus der Stadt und fechten?</l>
@@ -6110,7 +6255,7 @@
               <l>Und, Eduard, wo du darfst, die Schlacht dir bieten.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ja, Warwick, Eduard darf und zieht voran.</l>
@@ -6124,7 +6269,7 @@
           <head>Zweite Szene</head>
           <stage>Ein Schlachtfeld bei Barnet.</stage>
           <stage>Getümmel und Angriffe, König Eduard bringt den verwundeten Warwick.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>So, lieg' du da; stirb du und unsre Furcht,</l>
@@ -6220,7 +6365,7 @@
           <stage>Ein andrer Teil des Schlachtfeldes.</stage>
           <stage>Trompetenstoß. König Eduard kommt triumphierend mit Clarence, Gloster und den
             übrigen.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>So weit hält aufwärts unser Glück den Lauf,</l>
@@ -6235,7 +6380,7 @@
               <l>Und zieht, so hören wir, zum Kampf heran.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Ein Lüftchen wird die Wolke bald zerstreun</l>
@@ -6244,7 +6389,7 @@
               <l>Nicht jede Wolk' erzeugt ein Ungewitter.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Man schätzt die Königin auf dreißigtausend,</l>
@@ -6253,7 +6398,7 @@
               <l>So wird ihr Anhang ganz so stark wie unsrer.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Wir sind berichtet von getreuen Freunden,</l>
@@ -6360,7 +6505,7 @@
             <l>Nehmt dessen Dank, der noch nichts weiter hat.</l>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Bereitet euch, ihr Lords, denn Eduard naht</l>
@@ -6388,7 +6533,7 @@
             <stage>Ein Marsch. In der Entfernung erscheinen König Eduard, Clarence und Gloster mit
               ihren Truppen.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Dort, Kriegsgefährten, steht der dorn'ge Wald,</l>
@@ -6422,7 +6567,7 @@
           <stage>Getümmel, Angriffe, dann ein Rückzug. Hierauf kommen König Eduard, Clarence,
             Gloster, von Truppen begleitet, mit Königin Margareta, Oxford und Somerset als
             Gefangenen.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>So hat nun der Empörer-Zwist ein Ende.</l>
@@ -6447,19 +6592,19 @@
               <l>In Lust vereint das Paradies uns wieder.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Ist ausgerufen, dem, der Eduard findet,</l>
               <l>Sei großer Lohn geschenkt, und ihm sein Leben?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Man tat's, und seht, da kommt der junge Eduard.</l>
             <stage>Soldaten kommen mit Prinz Eduard.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Führt mir den Braven vor, laßt uns ihn hören! –</l>
@@ -6483,7 +6628,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Ach, wär' dein Vater doch so fest gewesen!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>So hättet Ihr den Weiberrock behalten</l>
@@ -6497,7 +6642,7 @@
               <l>Hier passen seine groben Rätsel nicht.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Beim Himmel, Brut, dafür will ich dich plagen.</l>
           </sp>
@@ -6506,7 +6651,7 @@
             <l>Du bist geboren zu der Menschen Plage.</l>
           </sp>
           <pb n="781"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Schafft doch das lose Maul von Weibe weg!</l>
           </sp>
@@ -6514,11 +6659,11 @@
             <speaker>PRINZ.</speaker>
             <l>Nein, lieber stopft dem Bucklichten das Maul!</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Still, trotzig Kind! Sonst will ich stumm dich machen.</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Du bist zu vorlaut, unerzogner Knabe.</l>
           </sp>
@@ -6532,17 +6677,17 @@
               <l>Du maßest meines Vaters Recht und meins dir an.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD</speaker>
             <stage>durchsticht ihn.</stage>
             <l>Nimm dies, du Abbild jener Schmäherin!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>durchsticht ihn.</stage>
             <l>Zuckst du? Nimm dies, um deine Qual zu enden!</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE</speaker>
             <stage>durchsticht ihn.</stage>
             <l>Dies hier, weil du mit Meineid mich gezwackt.</l>
@@ -6551,24 +6696,24 @@
             <speaker>MARGARETA.</speaker>
             <l>Oh, tötet mich mit ihm!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>im Begriff sie umzubringen.</stage>
             <l>Fürwahr, das wollen wir.</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Halt, Richard, halt! Wir taten schon zu viel.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Warum soll sie die Welt mit Worten füllen?</l>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Sie fällt in Ohnmacht? Bringt sie wieder zu sich.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Clarence, entschuld'ge mich bei meinem Bruder.</l>
@@ -6576,11 +6721,11 @@
               <l>Eh' Ihr dahin kommt, sollt Ihr Neues hören.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Was? Was?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Der Turm! Der Turm!</l>
             <stage>Ab.</stage>
@@ -6608,7 +6753,7 @@
               <l>Wie diesen holden Prinz ihr Henker jetzt.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Fort mit ihr! Geht, bringt mit Gewalt sie weg!</l>
           </sp>
@@ -6620,7 +6765,7 @@
               <l>Du willst nicht? Wie? – Dann, Clarence, tu es du!</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>Bei Gott, ich will dir nicht so Liebes tun.</l>
           </sp>
@@ -6628,7 +6773,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Nun, bester Clarence! lieber Clarence, tu's doch!</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <l>So hast du nicht gehört, wie ich's verschwur?</l>
           </sp>
@@ -6643,7 +6788,7 @@
               <l>Du weisest kein Gesuch um Blut zurück.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Fort, sag' ich! Ich befehl' euch, bringt sie weg!</l>
           </sp>
@@ -6652,18 +6797,18 @@
             <l>Euch und den Euren geh's wie diesem Prinzen!</l>
             <stage>Sie wird abgeführt.</stage>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Wo ist nur Richard hin?</l>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Nach London, ganz in Eil', und wie ich rate,</l>
               <l>Ein blutig Abendmahl im Turm zu halten.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Er säumt nicht, wenn was durch den Kopf ihm fährt.</l>
@@ -6681,7 +6826,7 @@
           <stage>London. Ein Zimmer im Turm.</stage>
           <stage>Man sieht König Heinrich mit einem Buch in der Hand sitzen, der Kommandant des
             Turmes steht neben ihm. Zu ihnen Gloster.</stage>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Guten Tag, Herr! Wie? So eifrig bei dem Buch?</l>
           </sp>
@@ -6694,7 +6839,7 @@
               <l>Und gleich verkehrt; also nicht »guter Mylord«.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Laßt uns allein, wir müssen uns besprechen.</l>
             <stage>Der Kommandant ab.</stage>
@@ -6708,7 +6853,7 @@
               <l>Will Roscius neue Todesszenen spielen?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Verdacht wohnt stets im schuldigen Gemüt;</l>
@@ -6726,7 +6871,7 @@
               <l>Der meines Jungen Fang und Tod bewirkt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ei, welch ein Geck war der von Kreta nicht,</l>
@@ -6749,7 +6894,7 @@
             </lg>
           </sp>
           <pb n="784"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Denkst du, ich sei ein Henker?</l>
           </sp>
@@ -6761,7 +6906,7 @@
               <l>So bist du ja ein Henker.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Deinen Sohn</l>
@@ -6796,7 +6941,7 @@
               <l>Kamst du –</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <l>Nichts weiter! Stirb, Prophet, in deiner Rede!</l>
             <stage>Durchsticht ihn.</stage>
@@ -6810,7 +6955,7 @@
             </lg>
             <stage>Stirbt.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wie? Sinkt der Lancaster hochstrebend Blut</l>
@@ -6858,7 +7003,7 @@
           <stage>Ein Zimmer im Palast.</stage>
           <stage>Man sieht König Eduard auf seinem Thron sitzen, Königin Elisabeth mit dem kleinen
             Prinzen, Clarence, Gloster, Hastings und andre um ihn her.</stage>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Noch einmal sitzen wir auf Englands Thron,</l>
@@ -6884,7 +7029,7 @@
               <l>Und ernten sollst du unsrer Mühen Frucht.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -6895,26 +7040,26 @@
               <l>Du, bahne mir den Weg, und dies vollbringe!</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Clarence und Gloster, liebet mein Gemahl,</l>
               <l>Und küßt den königlichen Neffen, Brüder!</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Die Treu', die Euer Majestät gebührt,</l>
               <l>Versiegl' ich auf des holden Säuglings Lippen.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <l>Dank, edler Clarence! Würd'ger Bruder, Dank!</l>
           </sp>
           <pb n="787"/>
-          <sp who="#gloster">
+          <sp who="#richard_gloster">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Daß ich den Baum, von dem du sprossest, liebe,</l>
@@ -6924,14 +7069,14 @@
               <l>Und rief ihm Heil zu, da er Unheil meinte.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Nun thron' ich, wie mein Herz begehrt: mir ward</l>
               <l>Des Landes Frieden und der Brüder Liebe.</l>
             </lg>
           </sp>
-          <sp who="#clarence">
+          <sp who="#george_clarence">
             <speaker>CLARENCE.</speaker>
             <lg>
               <l>Was ist mit Margareten Euer Schluß?</l>
@@ -6940,7 +7085,7 @@
               <l>Das sandten sie zur Lösung für sie her.</l>
             </lg>
           </sp>
-          <sp who="#koenig_eduard">
+          <sp who="#eduard">
             <speaker>KÖNIG EDUARD.</speaker>
             <lg>
               <l>Fort mit ihr, setzet sie nach Frankreich über!</l>

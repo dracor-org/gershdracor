@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Heinrich VIII.</title>
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="907" to="1009">907–1009</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Heinrich VIII.</title> In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
+            Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="907" to="1009">907–1009</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -62,6 +58,148 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="buckingham" sex="MALE">
+            <persName>Herzog von Buckingham</persName>
+          </person>
+          <person xml:id="norfolk" sex="MALE">
+            <persName>Herzog von Norfolk</persName>
+          </person>
+          <person xml:id="abergavenny" sex="MALE">
+            <persName>Lord Abergavenny</persName>
+          </person>
+          <person xml:id="wolsey" sex="MALE">
+            <persName>Kardinal Wolsey</persName>
+          </person>
+          <person xml:id="schreiber_i-1" sex="MALE">
+            <persName>Ein Schreiber (I/1)</persName>
+          </person>
+          <person xml:id="brandon" sex="MALE">
+            <persName>Brandon</persName>
+          </person>
+          <person xml:id="gerichtsdiener" sex="MALE">
+            <persName>Ein Gerichtsdiener</persName>
+          </person>
+          <person xml:id="koenig" sex="MALE">
+            <persName>König Heinrich VIII.</persName>
+          </person>
+          <person xml:id="koenigin_katharina" sex="FEMALE">
+            <persName>Katharina, Königin von England</persName>
+          </person>
+          <person xml:id="haushofmeister" sex="MALE">
+            <persName>Haushofmeister des Herzogs von Buckingham</persName>
+          </person>
+          <person xml:id="lord_kaemmerer" sex="MALE">
+            <persName>Lord Kämmerer</persName>
+          </person>
+          <person xml:id="sands" sex="MALE">
+            <persName>Lord Sands</persName>
+          </person>
+          <person xml:id="lovell" sex="MALE">
+            <persName>Sir Thomas Lovell</persName>
+          </person>
+          <person xml:id="guilford" sex="MALE">
+            <persName>Sir Heinrich Guilford</persName>
+          </person>
+          <person xml:id="anna" sex="FEMALE">
+            <persName>Anna Bullen</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Ein Diener</persName>
+          </person>
+          <person xml:id="erster" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="vaux" sex="MALE">
+            <persName>Sir Nikolas Vaux</persName>
+          </person>
+          <person xml:id="suffolk" sex="MALE">
+            <persName>Herzog von Suffolk</persName>
+          </person>
+          <person xml:id="campejus" sex="MALE">
+            <persName>Kardinal Campejus</persName>
+          </person>
+          <person xml:id="gardiner" sex="MALE">
+            <persName>Gardiner, Bischof von Winchester</persName>
+          </person>
+          <person xml:id="hofdame" sex="FEMALE">
+            <persName>Eine alte Hofdame</persName>
+          </person>
+          <person xml:id="schreiber_ii-4" sex="MALE">
+            <persName>Ein Schreiber (II/4)</persName>
+          </person>
+          <person xml:id="ausrufer" sex="MALE">
+            <persName>Ausrufer</persName>
+          </person>
+          <person xml:id="griffith" sex="MALE">
+            <persName>Griffith</persName>
+          </person>
+          <person xml:id="lincoln" sex="MALE">
+            <persName>Bischof von Lincoln</persName>
+          </person>
+          <person xml:id="edelmann" sex="MALE">
+            <persName>Ein Edelmann</persName>
+          </person>
+          <person xml:id="surrey" sex="MALE">
+            <persName>Graf von Surrey</persName>
+          </person>
+          <person xml:id="cromwell" sex="MALE">
+            <persName>Cromwell</persName>
+          </person>
+          <person xml:id="dritter" sex="MALE">
+            <persName>Dritter Edelmann</persName>
+          </person>
+          <person xml:id="patienza" sex="FEMALE">
+            <persName>Patienza</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Bote</persName>
+          </person>
+          <person xml:id="capucius" sex="MALE">
+            <persName>Capucius</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Ein Page</persName>
+          </person>
+          <person xml:id="denny" sex="MALE">
+            <persName>Sir Anton Denny</persName>
+          </person>
+          <person xml:id="cranmer" sex="MALE">
+            <persName>Cranmer, Erzbischof von Canterbury</persName>
+          </person>
+          <person xml:id="hofkavalier" sex="MALE">
+            <persName>Hofkavalier</persName>
+          </person>
+          <person xml:id="tuersteher" sex="MALE">
+            <persName>Türsteher</persName>
+          </person>
+          <person xml:id="butts" sex="MALE">
+            <persName>Doktor Butts</persName>
+          </person>
+          <person xml:id="kanzler" sex="MALE">
+            <persName>Lord Kanzler</persName>
+          </person>
+          <personGrp xml:id="alle_v-2" sex="MALE">
+            <name>Alle (V/2)</name>
+          </personGrp>
+          <person xml:id="pfoertner" sex="MALE">
+            <persName>Pförtner</persName>
+          </person>
+          <person xml:id="einer_von_drinnen" sex="MALE">
+            <persName>Einer von drinnen</persName>
+          </person>
+          <person xml:id="knecht" sex="MALE">
+            <persName>Knecht</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Der Herold</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -77,7 +215,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000022" passive="http://www.wikidata.org/entity/Q672059"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000022"
+        passive="http://www.wikidata.org/entity/Q672059"/>
     </listRelation>
   </standOff>
   <text>
@@ -129,8 +268,8 @@
         <castItem>Anna Bullen</castItem>
         <castItem>Eine alte Hofdame</castItem>
         <castItem>Patienza, Kammerfrau der Königin Katharina</castItem>
-        <castItem>Verschiedene Herren und Flauen vom Hof, als stumme Personen. Weiber im Gefolge
-          der Königin; Geister, die ihr erscheinen. Schreiber, Offiziere, Wachen, Gefolge, Volk
+        <castItem>Verschiedene Herren und Flauen vom Hof, als stumme Personen. Weiber im Gefolge der
+          Königin; Geister, die ihr erscheinen. Schreiber, Offiziere, Wachen, Gefolge, Volk
           usw.</castItem>
       </castList>
       <set>
@@ -452,7 +591,7 @@
               <l>Habt Ihr die Untersuchung?</l>
             </lg>
           </sp>
-          <sp who="#schreiber">
+          <sp who="#schreiber_i-1">
             <speaker>SCHREIBER.</speaker>
             <l>Hier, Mylord.</l>
           </sp>
@@ -460,7 +599,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Hält er sich fertig in Person?</l>
           </sp>
-          <sp who="#schreiber">
+          <sp who="#schreiber_i-1">
             <speaker>SCHREIBER.</speaker>
             <l>Ja, gnäd'ger Herr.</l>
           </sp>
@@ -751,7 +890,7 @@
               von Norfolk und Suffolk; sie knieet. Der König steht auf von seinem Thron, hebt sie
               auf, küßt sie und heißt sie, neben ihm sitzen.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <l>Nein, laßt uns länger knien; ich kam, zu bitten.</l>
           </sp>
@@ -764,7 +903,7 @@
               <l>So sagt und nehmt die Bitte.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Dank, mein König.</l>
@@ -778,7 +917,7 @@
             <speaker>KÖNIG.</speaker>
             <l>Fahret fort, Gemahlin.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ich werd' umlagert stets – und zwar von vielen,</l>
@@ -828,7 +967,7 @@
               <l>Wo andre mit mir schreiten.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Nein, Mylord,</l>
@@ -851,7 +990,7 @@
               <l>War die Erpressung?</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Wag' ich doch zu viel,</l>
@@ -939,7 +1078,7 @@
             </lg>
             <stage>Geheimschreiber ab. – Der Haushofmeister tritt auf.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Es geht mir nah, daß Herzog Buckingham</l>
@@ -1005,7 +1144,7 @@
               <l>Ja, zielt noch jenseits selbst auf Eure Freunde</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <l>Seid christlich, Mylord Kardinal!</l>
           </sp>
@@ -1068,7 +1207,7 @@
               <l>Wird England einst beherrschen.« –</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Hör' ich recht,</l>
@@ -1153,7 +1292,7 @@
               <l>Bleibt dieser außer Haft?</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <l>Gott füg's zum Guten!</l>
           </sp>
@@ -2184,7 +2323,7 @@
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Ein Vorzimmer im Palast.</stage>
-          <sp who="#der_lord_kaemmerer">
+          <sp who="#lord_kaemmerer">
             <speaker>DER LORD KÄMMERER</speaker>
             <stage>der einen Brief liest.</stage>
             <p>»Mylord! Die Pferde, nach denen Eure Herrlichkeit schickte, waren mit aller Sorgfalt
@@ -2895,7 +3034,7 @@
             <speaker>WOLSEY.</speaker>
             <l>So sei's; dann schreitet weiter!</l>
           </sp>
-          <sp who="#schreiber">
+          <sp who="#schreiber_ii-4">
             <speaker>SCHREIBER.</speaker>
             <l>Ruft: Heinrich, König von England, erscheine vor Gericht!</l>
           </sp>
@@ -2907,9 +3046,9 @@
             <speaker>KÖNIG.</speaker>
             <l>Hier.</l>
           </sp>
-          <sp who="#schreiber">
+          <sp who="#schreiber_ii-4">
             <speaker>SCHREIBER.</speaker>
-            <l>Ruft: Katharine, Königin von England, erscheinevor Gericht!</l>
+            <l>Ruft: Katharine, Königin von England, erscheine vor Gericht!</l>
           </sp>
           <sp who="#ausrufer">
             <speaker>AUSRUFER.</speaker>
@@ -2917,7 +3056,7 @@
             <stage>Die Königin antwortet nicht, steht von ihrem Sitze auf, geht der Versammlung
               vorüber, kommt zum König, kniet zu seinen Füßen und spricht darauf.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Herr, Recht begehr' ich und Gerechtigkeit,</l>
@@ -2992,7 +3131,7 @@
             </lg>
           </sp>
           <pb n="951"/>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Mylord Kardinal, –!</l>
@@ -3003,7 +3142,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Was wünscht Ihr, Fürstin?</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Herr,</l>
@@ -3017,7 +3156,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Faßt Euch nur in Geduld! –</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ich will's, wenn Ihr demütig seid, – ja früher;</l>
@@ -3061,7 +3200,7 @@
               <l>Und sprecht es nie mehr aus!</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Mylord, Mylord,</l>
@@ -3105,7 +3244,7 @@
             <speaker>GRIFFITH.</speaker>
             <l>Man ruft Euch, Königin.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Was braucht <emph>Ihr</emph> drauf zu hören? Geht nur weiter:</l>
@@ -3294,7 +3433,7 @@
           <head>Erste Szene</head>
           <stage>Zimmer der Königin.</stage>
           <stage>Die Königin und ihre Frauen, an der Arbeit.</stage>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Nimm deine Laute, Kind, mich trübt der Kummer;</l>
@@ -3319,7 +3458,7 @@
             <l>Wiegten sie in Schlaf und Grab.</l>
           </lg>
           <stage>Ein Edelmann tritt auf.</stage>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <l>Was ist?</l>
           </sp>
@@ -3330,7 +3469,7 @@
               <l>Die beiden großen Kardinäle.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Wollen</l>
@@ -3344,7 +3483,7 @@
               <l>Eu'r Hoheit sie zu melden.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Bittet sie,</l>
@@ -3363,7 +3502,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Fried' Eurer Hoheit!</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Eure Gnaden sehn</l>
@@ -3380,7 +3519,7 @@
               <l>Vernehmen unsrer Ankunft Ursach'.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Sagt mir's</l>
@@ -3400,7 +3539,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Tanta est erga te mentis integritas, regina serenissima, –</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Oh, kein Latein, Mylord;</l>
@@ -3445,7 +3584,7 @@
               <l>Euch Dienst und Beistand.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN</speaker>
             <stage>beiseit:</stage>
             <lg>
@@ -3474,7 +3613,7 @@
               <l>Sind noch unendlich.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Hier in England kaum</l>
@@ -3497,7 +3636,7 @@
               <l>Ihr ließt den Gram und hörtet mich.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <l>Was meint Ihr?</l>
           </sp>
@@ -3515,7 +3654,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Er rät Euch gut.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Er rät mir, was ihr beide wünscht – Verderben!</l>
@@ -3528,7 +3667,7 @@
             <speaker>CAMPEJUS.</speaker>
             <l>Eu'r Zorn verkennt uns.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>So schmählicher für euch! – Ich wähnt' euch heilig,</l>
@@ -3550,7 +3689,7 @@
               <l>In Arglist wandelt Ihr die gute Meinung.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ihr aber wandelt mich in nichts. Weh euch!</l>
@@ -3571,7 +3710,7 @@
             <speaker>CAMPEJUS.</speaker>
             <l>Das Schlimmst' ist Eure Furcht.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Lebt' ich so lang' – ja, laßt mich selber reden,</l>
@@ -3593,7 +3732,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Wegflieht Ihr von dem Gut, das wir Euch gönnten. –</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Mylord, ich lade nie die Schuld auf mich,</l>
@@ -3606,7 +3745,7 @@
             <speaker>WOLSEY.</speaker>
             <l>Hört, ich bitt' Euch –</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Hätt' ich doch nie dies brit'sche Land betreten,</l>
@@ -3658,7 +3797,7 @@
               <l>Das Äußerste in Eurem Dienst zu tun.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#koenigin_katharina">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Tut, was ihr wollt ihr Herrn; und mir verzeiht,</l>
@@ -5100,7 +5239,7 @@
               <l>Erzähl' ich mehr.</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster #zweiter">
             <speaker>BEIDE.</speaker>
             <l>Wir sind zu Eurem Dienst.</l>
             <stage>Alle ab.</stage>
@@ -5115,7 +5254,7 @@
             <speaker>GRIFFITH.</speaker>
             <l>Wie geht's Eur' Hoheit? –</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Tödlich krank, o Griffith!</l>
@@ -5135,7 +5274,7 @@
               <l>Vernahm mich kaum in Ihrem heft'gen Schmerz.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Sag, guter Griffith, bitt' dich, wie er starb;</l>
@@ -5154,7 +5293,7 @@
               <l>Auf seinem Maultier sitzen.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <l>Armer Mann! –</l>
           </sp>
@@ -5177,7 +5316,7 @@
               <l>Sein geistlich Teil dem Herrn, und starb in Frieden.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>So schlaf' er auch, leicht sei'n ihm seine Fehle! –</l>
@@ -5206,7 +5345,7 @@
               <l>Mir jetzt wohl auch sein Lob?</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Ja, guter Griffith,</l>
@@ -5239,7 +5378,7 @@
               <l>Als der von Menschen kommt, starb er, Gott fürchtend.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Nach meinem Tod wünsch' ich zum Herold mir,</l>
@@ -5274,7 +5413,7 @@
               Eingebung, und streckt beide Hände gen Himmel. Darauf verschwinden die Gestalten und
               nehmen den Kranz mit sich hinweg. Die Musik währt fort.</stage>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Wo seid ihr, sel'ge Geister? All' verschwunden?</l>
@@ -5285,7 +5424,7 @@
             <speaker>GRIFFITH.</speaker>
             <l>Hier sind wir, gnäd'ge Frau.</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Euch rief ich nicht;</l>
@@ -5296,7 +5435,7 @@
             <speaker>GRIFFITH.</speaker>
             <l>Nein, Fürstin.</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Nicht? Kam nicht eben jetzt ein Chor von Engeln,</l>
@@ -5316,7 +5455,7 @@
             </lg>
           </sp>
           <pb n="986"/>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Laßt nun enden die Musik,</l>
@@ -5346,7 +5485,7 @@
             <speaker>BOTE.</speaker>
             <l>Eu'r Gnaden wird –</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Geh, unverschämter Mensch!</l>
@@ -5369,7 +5508,7 @@
               <l>Ein Herr, gesandt vom König, Euch zu sehen.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Gewährt ihm Zutritt, Griffith; doch diesen Menschen</l>
@@ -5387,7 +5526,7 @@
             <speaker>CAPUCIUS.</speaker>
             <l>Derselbe, Fürstin, Euer Knecht.</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Oh, Herr,</l>
@@ -5408,7 +5547,7 @@
               <l>Und wünscht von Herzen Euch den besten Trost.</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>O werter Herr, dies Trösten kommt zu spät,</l>
@@ -5422,7 +5561,7 @@
             <speaker>CAPUCIUS.</speaker>
             <l>In bestem Wohlsein.</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Das bleib' ihm immer! Blühe stets sein Glück,</l>
@@ -5435,7 +5574,7 @@
             <speaker>PATIENZA.</speaker>
             <l>Nein, Fürstin.</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Dann bitt' ich Euch in Demut, meinem Herrn</l>
@@ -5446,7 +5585,7 @@
             <speaker>CAPUCIUS.</speaker>
             <l>Fürstin, zählt darauf!</l>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Empfohlen hab' ich seiner Gnad' und Milde</l>
@@ -5487,7 +5626,7 @@
               <l>So wahr mir Gott ein menschlich Herz verliehn! –</l>
             </lg>
           </sp>
-          <sp who="#katharina">
+          <sp who="#koenigin_katharina">
             <speaker>KATHARINA.</speaker>
             <lg>
               <l>Ich dank' Euch, würd'ger Herr. Gedenkt auch meiner</l>
@@ -6314,7 +6453,7 @@
               <l>Vom König kommt. Mylords, sind alle einig?</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_v-2">
             <speaker>ALLE.</speaker>
             <l>Das sind wir.</l>
           </sp>
@@ -6542,7 +6681,7 @@
             auf.</stage>
           <sp who="#pfoertner">
             <speaker>PFÖRTNER.</speaker>
-            <p>Werdet ihr bald mit Lärmen aufhören, ihr Esel Meint ihr, der Schloßhof sei ein
+            <p>Werdet ihr bald mit Lärmen aufhören, ihr Esel? Meint ihr, der Schloßhof sei ein
               Bärengarten? Ihr wüsten Gesellen, laßt ab mit Gaffen!</p>
           </sp>
           <sp who="#einer_von_drinnen">
@@ -6551,7 +6690,7 @@
           </sp>
           <sp who="#pfoertner">
             <speaker>PFÖRTNER.</speaker>
-            <p>Gehört zum Galgen und laßt Euch hängen, Ihr Maulaff! Ist dies der Ort, solch ein
+            <p>Gehört zum Galgen und laßt Euch hängen, Ihr Maulaff'! Ist dies der Ort, solch ein
               Gebrüll zu verführen? <pb n="1003"/> Holt mir ein Dutzend Schwarzdornknittel, von den
               stämmigsten! Diese hier sind alle nur wie Reitgerten. Ich werde euch die Köpfe krauen;
               müßt ihr auf Kindtaufen sein? Steht euch der Sinn auf Bier und Kuchen hier, ihr wüsten
@@ -6569,7 +6708,7 @@
           </sp>
           <sp who="#pfoertner">
             <speaker>PFÖRTNER.</speaker>
-            <l>Wie zum Henker kamen sie denn herein?</l>
+            <p>Wie zum Henker kamen sie denn herein?</p>
           </sp>
           <sp who="#knecht">
             <speaker>KNECHT.</speaker>
@@ -6592,7 +6731,7 @@
               wieder einen Rippenbraten vor Augen sehn, und das möcht' ich nicht für eine ganze Kuh.
               Gott tröste sie!</p>
           </sp>
-          <sp who="#von_drinnen">
+          <sp who="#einer_von_drinnen">
             <speaker>VON DRINNEN.</speaker>
             <p>Hört Ihr, Meister Pförtner?</p>
           </sp>
@@ -6654,8 +6793,8 @@
               <l>Wenn sie vom Taufsaal kommen.</l>
             </lg>
           </sp>
-          <sp who="#pfortner">
-            <speaker>PFORTNER.</speaker>
+          <sp who="#pfoertner">
+            <speaker>PFÖRTNER.</speaker>
             <lg>
               <l>Sicht Eu'r Gnaden,</l>
               <l>Wir sind nur Menschen: was da möglich war</l>

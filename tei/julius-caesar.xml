@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Julius Cäsar</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="179" to="262">179–262</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Julius Cäsar</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
+              <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="179" to="262">179–262</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,169 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="flavius" sex="MALE">
+            <persName>Flavius</persName>
+          </person>
+          <person xml:id="erster_buerger_i-1" sex="MALE">
+            <persName>Erster Bürger (I/1)</persName>
+          </person>
+          <person xml:id="marullus" sex="MALE">
+            <persName>Marullus</persName>
+          </person>
+          <person xml:id="zweiter_buerger_i-1" sex="MALE">
+            <persName>Zweiter Bürger (I/1)</persName>
+          </person>
+          <person xml:id="caesar" sex="MALE">
+            <persName>Julius Cäsar</persName>
+          </person>
+          <person xml:id="casca" sex="MALE">
+            <persName>Casca</persName>
+          </person>
+          <person xml:id="calpurnia" sex="FEMALE">
+            <persName>Calpurnia</persName>
+          </person>
+          <person xml:id="antonius" sex="MALE">
+            <persName>Marcus Antonius</persName>
+          </person>
+          <person xml:id="wahrsager" sex="MALE">
+            <persName>Ein Wahrsager</persName>
+          </person>
+          <person xml:id="brutus" sex="MALE">
+            <persName>Marcus Brutus</persName>
+          </person>
+          <person xml:id="cassius" sex="MALE">
+            <persName>Cassius</persName>
+          </person>
+          <person xml:id="cicero" sex="MALE">
+            <persName>Cicero</persName>
+          </person>
+          <person xml:id="cinna" sex="MALE">
+            <persName>Cinna</persName>
+          </person>
+          <person xml:id="lucius" sex="MALE">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="decius" sex="MALE">
+            <persName>Decius Brutus</persName>
+          </person>
+          <person xml:id="metellus" sex="MALE">
+            <persName>Metellus Cimber</persName>
+          </person>
+          <person xml:id="trebonius" sex="MALE">
+            <persName>Trebonius</persName>
+          </person>
+          <person xml:id="portia" sex="FEMALE">
+            <persName>Portia</persName>
+          </person>
+          <person xml:id="ligarius" sex="MALE">
+            <persName>Ligarius</persName>
+          </person>
+          <person xml:id="diener_ii-2" sex="MALE">
+            <persName>Diener (II/2)</persName>
+          </person>
+          <person xml:id="publius" sex="MALE">
+            <persName>Publius</persName>
+          </person>
+          <person xml:id="artemidorus" sex="MALE">
+            <persName>Artemidorus</persName>
+          </person>
+          <person xml:id="popilius" sex="MALE">
+            <persName>Popilius Lena</persName>
+          </person>
+          <person xml:id="diener_iii-2" sex="MALE">
+            <persName>Diener (III/2)</persName>
+          </person>
+          <personGrp xml:id="buerger_iii-2" sex="MALE">
+            <name>Bürger (III/2)</name>
+          </personGrp>
+          <person xml:id="erster_buerger_iii-2" sex="MALE">
+            <persName>Erster Bürger (III/2)</persName>
+          </person>
+          <person xml:id="zweiter_buerger_iii-2" sex="MALE">
+            <persName>Zweiter Bürger (III/2)</persName>
+          </person>
+          <person xml:id="dritter_buerger_iii-2" sex="MALE">
+            <persName>Dritter Bürger (III/2)</persName>
+          </person>
+          <person xml:id="vierter_buerger_iii-2" sex="MALE">
+            <persName>Vierter Bürger (III/2)</persName>
+          </person>
+          <person xml:id="diener_iii-3" sex="MALE">
+            <persName>Diener (III/3)</persName>
+          </person>
+          <person xml:id="cinna_der_poet" sex="MALE">
+            <persName>Cinna der Poet</persName>
+          </person>
+          <person xml:id="erster_buerger_iii-3" sex="MALE">
+            <persName>Erster Bürger (III/3)</persName>
+          </person>
+          <person xml:id="zweiter_buerger_iii-3" sex="MALE">
+            <persName>Zweiter Bürger (III/3)</persName>
+          </person>
+          <person xml:id="dritter_buerger_iii-3" sex="MALE">
+            <persName>Dritter Bürger (III/3)</persName>
+          </person>
+          <person xml:id="vierter_buerger_iii-3" sex="MALE">
+            <persName>Vierter Bürger (III/3)</persName>
+          </person>
+          <person xml:id="octavius" sex="MALE">
+            <persName>Octavius Cäsar</persName>
+          </person>
+          <person xml:id="lepidus" sex="MALE">
+            <persName>M. Ämilius Lepidus</persName>
+          </person>
+          <person xml:id="lucilius" sex="MALE">
+            <persName>Lucilius</persName>
+          </person>
+          <person xml:id="pindarus" sex="MALE">
+            <persName>Pindarus</persName>
+          </person>
+          <person xml:id="ein_poet" sex="MALE">
+            <persName>Ein Poet</persName>
+          </person>
+          <person xml:id="messala" sex="MALE">
+            <persName>Messala</persName>
+          </person>
+          <person xml:id="titinius" sex="MALE">
+            <persName>Titinius</persName>
+          </person>
+          <person xml:id="varro" sex="MALE">
+            <persName>Varro</persName>
+          </person>
+          <person xml:id="geist" sex="MALE">
+            <persName>Der Geist Cäsars</persName>
+          </person>
+          <person xml:id="claudius" sex="MALE">
+            <persName>Claudius</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Ein Bote</persName>
+          </person>
+          <person xml:id="cato" sex="MALE">
+            <persName>Der junge Cato</persName>
+          </person>
+          <person xml:id="erster_soldat" sex="MALE">
+            <persName>Erster Soldat</persName>
+          </person>
+          <person xml:id="zweiter_soldat" sex="MALE">
+            <persName>Zweiter Soldat</persName>
+          </person>
+          <person xml:id="clitus" sex="MALE">
+            <persName>Clitus</persName>
+          </person>
+          <person xml:id="dardanius" sex="MALE">
+            <persName>Dardanius</persName>
+          </person>
+          <person xml:id="volumnius" sex="MALE">
+            <persName>Volumnius</persName>
+          </person>
+          <person xml:id="strato" sex="MALE">
+            <persName>Strato</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -78,7 +237,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000015" passive="http://www.wikidata.org/entity/Q215750"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000015"
+        passive="http://www.wikidata.org/entity/Q215750"/>
     </listRelation>
   </standOff>
   <text>
@@ -173,7 +333,7 @@
               <l>Umhergehn? – Welch Gewerbe treibst du? Sprich!</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_i-1">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Nun, Herr, ich bin ein Zimmermann.</l>
           </sp>
@@ -185,7 +345,7 @@
               <l>Ihr, Freund, was treibt Ihr?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Die Wahrheit zu gestehn, Herr, gegen einen feinen Arbeiter gehalten, mache ich nur,
               so zu sagen, Flickwerk.</p>
@@ -194,7 +354,7 @@
             <speaker>MARULLUS.</speaker>
             <p>Doch welch Gewerb'? Antworte grade zu!</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Ein Gewerbe, Herr, das ich mit gutem Gewissen treiben kann, wie ich hoffe. Es besteht
               darin, einen schlechten Wandel zu verbessern.</p>
@@ -203,7 +363,7 @@
             <speaker>MARULLUS.</speaker>
             <p>Welch ein Gewerb', du Schuft? welch ein Gewerb'?</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Nein, ich bitte Euch, Herr, laßt Euch die Geduld nicht reißen! Wenn aber ja was
               reißt, so gebt Euch nur in meine Hand!</p>
@@ -212,7 +372,7 @@
             <speaker>MARULLUS.</speaker>
             <p>Was meinst du damit? Mich in deine Hand geben, du naseweiser Bursch?</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Nun ja, Herr, damit ich Euch flicken kann.</p>
           </sp>
@@ -220,7 +380,7 @@
             <speaker>FLAVIUS.</speaker>
             <p>Du bist ein Schuhflicker, nicht wahr?</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Im Ernst, Herr, ich bin ein Wundarzt für alte Schuhe: wenn's gefährlich mit ihnen
               steht, so mache <pb n="184"/> ich sie wieder heil. So hübsche Leute, als jemals auf
@@ -233,7 +393,7 @@
               <l>Was führst du diese Leute durch die Gassen?</l>
             </lg>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_i-1">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Meiner Treu, Herr, um ihre Schuhe abzunutzen, damit ich wieder Arbeit kriege. Doch im
               Ernst, Herr, wir machen Feiertag, um den Cäsar zu sehen und uns über seinen Triumph zu
@@ -2084,7 +2244,7 @@
             </lg>
             <stage>Ein Diener kommt.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-2">
             <speaker>DIENER.</speaker>
             <l>Herr?</l>
           </sp>
@@ -2095,7 +2255,7 @@
               <l>Und bring' mir ihre Meinung vom Erfolg!</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-2">
             <speaker>DIENER.</speaker>
             <l>Es soll geschehn.</l>
             <stage>Ab.</stage>
@@ -2165,7 +2325,7 @@
             <stage>Der Diener kommt zurück.</stage>
             <l>Was dünkt den Augurn?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_ii-2">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Sie raten Euch, für heut nicht auszugehn.</l>
@@ -2939,7 +3099,7 @@
             <speaker>BRUTUS.</speaker>
             <l>Doch still? Wer kommt? Ein Freund des Mark Anton.</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <lg>
               <l>So, Brutus, hieß mich mein Gebieter knien,</l>
@@ -2971,7 +3131,7 @@
               <l>Entlass' ihn ungekränkt.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Ich hol' ihn gleich.</l>
             <stage>Ab.</stage>
@@ -3226,7 +3386,7 @@
             <l>Ihr dienet dem Octavius Cäsar? nicht?</l>
           </sp>
           <pb n="226"/>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Ja, Mark Anton.</l>
           </sp>
@@ -3234,7 +3394,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Cäsar beschied ihn schriftlich her nach Rom.</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Die Brief' empfing er und ist unterwegs;</l>
@@ -3252,7 +3412,7 @@
               <l>Begannen sie zu fließen. – Kommt dein Herr?</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-2">
             <speaker>DIENER.</speaker>
             <l>Er bleibt zu Nacht von Rom nur sieben Meilen.</l>
           </sp>
@@ -3278,7 +3438,7 @@
           <head>Zweite Szene</head>
           <stage>Das Forum.</stage>
           <stage>Brutus und Cassius kommen mit einem Haufen Volkes.</stage>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Wir wollen Rechenschaft: legt Rechenschaft uns ab!</l>
           </sp>
@@ -3294,12 +3454,12 @@
               <l>Von Cäsars Tod.</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Ich will den Brutus hören.</l>
           </sp>
           <pb n="227"/>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
               <l>Den Cassius ich: so können wir die Gründe</l>
@@ -3307,7 +3467,7 @@
             </lg>
             <stage>Cassius mit einigen Bürgern ab. Brutus besteigt die Rostra.</stage>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Der edle Brutus steht schon oben: Still!</p>
           </sp>
@@ -3330,7 +3490,7 @@
               ich beleidigt. Wer ist hier so roh, daß er nicht wünschte, ein Römer zu sein? Ist es
               jemand, er rede, denn ihn habe ich beleidigt. Ich halte inne, um Antwort zu hören.</p>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER</speaker>
             <stage>verschiedne Stimmen auf einmal.</stage>
             <p>Niemand, Brutus, niemand!</p>
@@ -3348,27 +3508,27 @@
               meinen besten Freund für das Wohl Roms erschlug, habe ich denselben Dolch für mich
               selbst, wenn es dem Vaterlande gefällt, meinen Tod zu bedürfen.</p>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Lebe, Brutus! lebe! lebe!</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Begleitet mit Triumph ihn in sein Haus!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>Stellt ihm ein Bildnis auf bei seinen Ahnen!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Er werde Cäsar!</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Im Brutus krönt ihr Cäsars beßre Gaben.</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Wir bringen ihn zu Haus mit lautem Jubel.</l>
           </sp>
@@ -3376,11 +3536,11 @@
             <speaker>BRUTUS.</speaker>
             <l>Mitbürger –</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>Schweigt doch! Stille! Brutus spricht.</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Still da!</l>
           </sp>
@@ -3397,11 +3557,11 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>He, bleibt doch! Hören wir den Mark Anton!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <lg>
               <l>Laßt ihn hinaufgehn auf die Rednerbühne!</l>
@@ -3412,36 +3572,36 @@
             <speaker>ANTONIUS.</speaker>
             <l>Um Brutus' willen bin ich euch verpflichtet.</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Was sagt er da vom Brutus?</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <lg>
               <l>Er sagt, um Brutus' willen find' er sich</l>
               <l>Uns insgesamt verpflichtet.</l>
             </lg>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <lg>
               <l>Er täte wohl,</l>
               <l>Dem Brutus hier nichts Übles nachzureden.</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Der Cäsar war ein Tyrann.</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <lg>
               <l>Ja, das ist sicher.</l>
               <l>Es ist ein Glück für uns, daß Rom ihn los ward.</l>
             </lg>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Still! Hört doch, was Antonius sagen kann!</l>
           </sp>
@@ -3449,7 +3609,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Ihr edlen Römer –</l>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Still da! hört ihn doch!</l>
           </sp>
@@ -3494,18 +3654,18 @@
               <l>Und ich muß schweigen, bis es mir zurückkommt.</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Mich dünkt, in seinen Reden ist viel Grund.</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
               <l>Wenn man die Sache recht erwägt, ist Cäsarn</l>
               <l>Groß Unrecht widerfahren.</l>
             </lg>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <lg>
               <l>Meint ihr, Bürger?</l>
@@ -3513,32 +3673,32 @@
             </lg>
           </sp>
           <pb n="230"/>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <lg>
               <l>Habt Ihr gehört? Er nahm die Krone nicht:</l>
               <l>Da sieht man, daß er nicht herrschsüchtig war.</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <lg>
               <l>Wenn dem so ist, so wird es manchem teuer</l>
               <l>Zu stehen kommen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
               <l>Ach, der arme Mann!</l>
               <l>Die Augen sind ihm feuerrot vom Weinen.</l>
             </lg>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Antonius ist der bravste Mann in Rom.</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Gebt acht, er fängt von neuem an zu reden!</l>
           </sp>
@@ -3567,14 +3727,14 @@
               <l>Zum köstlichen Vermächtnis.</l>
             </lg>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <lg>
               <l>Wir wollen's hören: lest das Testament!</l>
               <l>Lest, Mark Anton!</l>
             </lg>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <lg>
               <l>Ja ja, das Testament!</l>
@@ -3594,7 +3754,7 @@
               <l>Denn wüßtet ihr's, was würde draus entstehn?</l>
             </lg>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <lg>
               <l>Lest das Testament! Wir wollen's hören, Mark Anton!</l>
@@ -3611,15 +3771,15 @@
               <l>Ich fürcht' es.</l>
             </lg>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Sie sind Verräter: ehrenwerte Männer!</l>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Das Testament! Das Testament!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
               <l>Sie waren Bösewichter, Mörder! Das Testament!</l>
@@ -3635,28 +3795,28 @@
               <l>Erlaubt ihr mir's? Soll ich hinuntersteigen?</l>
             </lg>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Ja, kommt nur!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>Steigt herab!</l>
             <stage>Er verläßt die Rednerbühne.</stage>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Es ist euch gern erlaubt.</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Schließt einen Kreis herum!</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Zurück vom Sarge! Von der Leiche weg!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>Platz für Antonius! für den edlen Antonius!</l>
           </sp>
@@ -3664,7 +3824,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Nein, drängt nicht so heran! Steht weiter weg!</l>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Zurück! Platz da! Zurück!</l>
           </sp>
@@ -3704,27 +3864,27 @@
               <l>Hier ist er selbst, geschändet von Verrätern!</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>O kläglich Schauspiel!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>O edler Cäsar!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>O jammervoller Tag!</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>O Buben und Verräter!</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>O blut'ger Anblick!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <lg>
               <l>Wir wollen Rache, Rache! Auf und sucht!</l>
@@ -3735,11 +3895,11 @@
             <speaker>ANTONIUS.</speaker>
             <l>Seid ruhig, meine Bürger!</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Still da! Hört den edlen Antonius!</l>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Wir wollen ihn hören, wir wollen ihm folgen, wir wollen für ihn sterben.</p>
           </sp>
@@ -3772,15 +3932,15 @@
               <l>Die Steine Roms zum Aufstand würd' empören.</l>
             </lg>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Empörung!</l>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <l>Steckt des Brutus Haus in Brand!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Hinweg denn! Kommt, sucht die Verschwornen auf!</l>
           </sp>
@@ -3788,7 +3948,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Noch hört mich, meine Bürger, hört mich an!</l>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Still da! Hört Mark Anton! den edlen Mark Anton!</l>
           </sp>
@@ -3801,7 +3961,7 @@
               <l>Habt ihr das Testament, wovon ich sprach.</l>
             </lg>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Wohl wahr! Das Testament! Bleibt, hört das Testament!</l>
           </sp>
@@ -3813,11 +3973,11 @@
               <l>Auf jeden Kopf euch fünfundsiebzig Drachmen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>O edler Cäsar! – Kommt, rächt seinen Tod!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>O königlicher Cäsar!</l>
           </sp>
@@ -3825,7 +3985,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Hört mich mit Geduld!</l>
           </sp>
-          <sp who="#buerger">
+          <sp who="#buerger_iii-2">
             <speaker>BÜRGER.</speaker>
             <l>Still da!</l>
           </sp>
@@ -3841,7 +4001,7 @@
               <l>Das war ein Cäsar: wann kommt seinesgleichen?</l>
             </lg>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-2">
             <speaker>ERSTER BÜRGER.</speaker>
             <lg>
               <l>Nimmer! nimmer! – Kommt! hinweg! hinweg!</l>
@@ -3850,15 +4010,15 @@
               <l>Die Häuser an! Nehmt denn die Leiche auf!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-2">
             <speaker>ZWEITER BÜRGER.</speaker>
             <l>Geht! holt Feuer!</l>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-2">
             <speaker>DRITTER BÜRGER.</speaker>
             <l>Reißt Bänke ein!</l>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-2">
             <speaker>VIERTER BÜRGER.</speaker>
             <l>Reißt Sitze, Läden, alles ein!</l>
             <stage>Die Bürger mit Cäsars Leiche ab.</stage>
@@ -3872,7 +4032,7 @@
             <stage>Ein Diener kommt.</stage>
             <l>Was bringst du, Bursch?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-3">
             <speaker>DIENER.</speaker>
             <l>Herr, Octavius ist schon nach Rom gekommen.</l>
           </sp>
@@ -3880,7 +4040,7 @@
             <speaker>ANTONIUS.</speaker>
             <l>Wo ist er?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-3">
             <speaker>DIENER.</speaker>
             <l>Er und Lepidus sind in Cäsars Hause.</l>
           </sp>
@@ -3892,7 +4052,7 @@
               <l>Und wird in dieser Laun' uns nichts versagen.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-3">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Ich hört' ihn sagen, Cassius und Brutus</l>
@@ -3913,7 +4073,7 @@
           <head>Dritte Szene</head>
           <stage>Eine Straße.</stage>
           <stage>Cinna der Poet tritt auf.</stage>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <lg>
               <l>Mir träumte heut, daß ich mit Cäsarn schmauste</l>
@@ -3924,106 +4084,106 @@
             <stage>Bürger kommen.</stage>
           </sp>
           <pb n="235"/>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-3">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Wie ist Euer Name?</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-3">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Wo geht Ihr hin?</p>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-3">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Wo wohnt Ihr?</p>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-3">
             <speaker>VIERTER BÜRGER.</speaker>
             <p>Seid Ihr verheiratet oder ein Junggesell?</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-3">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Antwortet jedem unverzüglich!</p>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-3">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Ja, und kürzlich!</p>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-3">
             <speaker>VIERTER BÜRGER.</speaker>
             <p>Ja, und weislich!</p>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-3">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Ja, und ehrlich, das raten wir Euch!</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Wie ist mein Name? Wohin gehe ich? Wo wohne ich? Bin ich verheiratet oder ein
               Junggesell? Also um jedem Manne unverzüglich und kürzlich, weislich und ehrlich zu
               antworten, sage ich weislich: ich bin ein Junggesell.</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-3">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Das heißt so viel: wer heiratet, ist ein Narr. Dafür denke ich Euch eins zu
               versetzen. – Weiter, unverzüglich!</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Unverzüglich gehe ich zu Cäsars Bestattung.</p>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-3">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Als Freund oder Feind?</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Als Freund.</p>
           </sp>
-          <sp who="#zweiter_buerger">
+          <sp who="#zweiter_buerger_iii-3">
             <speaker>ZWEITER BÜRGER.</speaker>
             <p>Das war unverzüglich beantwortet.</p>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-3">
             <speaker>VIERTER BÜRGER.</speaker>
             <p>Eure Wohnung, kürzlich!</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Kürzlich, ich wohne beim Kapitol.</p>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-3">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Euer Name, Herr! ehrlich!</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Ehrlich, mein Name ist Cinna.</p>
           </sp>
-          <sp who="#erster_buerger">
+          <sp who="#erster_buerger_iii-3">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Reißt ihn in Stücke! Er ist ein Verschworner.</p>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Ich bin Cinna der Poet! Ich bin Cinna der Poet!</p>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-3">
             <speaker>VIERTER BÜRGER.</speaker>
             <lg>
               <l>Zerreißt ihn für seine schlechten Verse!</l>
               <l>Zerreißt ihn für seine schlechten Verse!</l>
             </lg>
           </sp>
-          <sp who="#cinna">
+          <sp who="#cinna_der_poet">
             <speaker>CINNA.</speaker>
             <p>Ich bin nicht Cinna der Verschworne.</p>
           </sp>
-          <sp who="#vierter_buerger">
+          <sp who="#vierter_buerger_iii-3">
             <speaker>VIERTER BÜRGER.</speaker>
             <p>Es tut nichts: sein Name ist Cinna; reißt ihm den Namen aus dem Herzen und laßt ihn
               laufen.</p>
           </sp>
-          <sp who="#dritter_buerger">
+          <sp who="#dritter_buerger_iii-3">
             <speaker>DRITTER BÜRGER.</speaker>
             <p>Zerreißt ihn! Zerreißt ihn! Kommt, Brände! Heda, Feuerbrände! Zum Brutus! zum
               Cassius! Steckt alles in Brand! Ihr zu des Decius Hause! Ihr zu des Casca! Ihr des
@@ -4667,7 +4827,7 @@
             <stage>hinter der Szene.</stage>
             <l>Ihr sollt nicht hinein!</l>
           </sp>
-          <sp who="#poet">
+          <sp who="#ein_poet">
             <speaker>POET</speaker>
             <stage>hinter der Szene</stage>
             <l>Der Tod nur hält mich ab.</l>
@@ -4677,7 +4837,7 @@
             <speaker>CASSIUS.</speaker>
             <l>Ei nun, was gibt's?</l>
           </sp>
-          <sp who="#poet">
+          <sp who="#ein_poet">
             <speaker>POET.</speaker>
             <lg>
               <l>Schämt ihr euch nicht, ihr Feldherrn? Was beginnt ihr?</l>

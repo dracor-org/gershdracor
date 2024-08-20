@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Lear</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="497" to="604">497–604</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Lear</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
+              <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="497" to="604">497–604</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,109 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="kent" sex="MALE">
+            <persName>Graf von Kent</persName>
+          </person>
+          <person xml:id="gloster" sex="MALE">
+            <persName>Graf von Gloster</persName>
+          </person>
+          <person xml:id="edmund" sex="MALE">
+            <persName>Edmund</persName>
+          </person>
+          <person xml:id="lear" sex="MALE">
+            <persName>Lear, König von Britannien</persName>
+          </person>
+          <person xml:id="goneril" sex="FEMALE">
+            <persName>Goneril</persName>
+          </person>
+          <person xml:id="cordelia" sex="FEMALE">
+            <persName>Cordelia</persName>
+          </person>
+          <person xml:id="regan" sex="FEMALE">
+            <persName>Regan</persName>
+          </person>
+          <person xml:id="albanien" sex="MALE">
+            <persName>Herzog von Albanien</persName>
+          </person>
+          <person xml:id="cornwall" sex="MALE">
+            <persName>Herzog von Cornwall</persName>
+          </person>
+          <person xml:id="burgund" sex="MALE">
+            <persName>Herzog von Burgund</persName>
+          </person>
+          <person xml:id="frankreich" sex="MALE">
+            <persName>König von Frankreich</persName>
+          </person>
+          <person xml:id="edgar" sex="MALE">
+            <persName>Edgar</persName>
+          </person>
+          <person xml:id="haushofmeister" sex="MALE">
+            <persName>Oswald, Gonerils Haushofmeister</persName>
+          </person>
+          <person xml:id="ritter_i-4" sex="MALE">
+            <persName>Ein Ritter (I/4)</persName>
+          </person>
+          <person xml:id="narr" sex="MALE">
+            <persName>Der Narr</persName>
+          </person>
+          <person xml:id="ritter_i-5" sex="MALE">
+            <persName>Ein Ritter (I/5)</persName>
+          </person>
+          <person xml:id="curan" sex="MALE">
+            <persName>Curan</persName>
+          </person>
+          <person xml:id="ritter_ii-4" sex="MALE">
+            <persName>Ein Ritter (II/4)</persName>
+          </person>
+          <person xml:id="ritter_iii-1" sex="MALE">
+            <persName>Ein Ritter (III/1)</persName>
+          </person>
+          <person xml:id="diener" sex="MALE">
+            <persName>Diener</persName>
+          </person>
+          <person xml:id="erster_diener" sex="MALE">
+            <persName>Erster Diener</persName>
+          </person>
+          <person xml:id="zweiter_diener" sex="MALE">
+            <persName>Zweiter Diener</persName>
+          </person>
+          <person xml:id="alter_mann" sex="MALE">
+            <persName>Ein alter Mann</persName>
+          </person>
+          <person xml:id="bote_iv-2" sex="MALE">
+            <persName>Ein Bote (IV/2)</persName>
+          </person>
+          <person xml:id="edelmann_iv-2" sex="MALE">
+            <persName>Ein Edelmann (IV/2)</persName>
+          </person>
+          <person xml:id="arzt" sex="MALE">
+            <persName>Ein Arzt</persName>
+          </person>
+          <person xml:id="bote_iv-4" sex="MALE">
+            <persName>Ein Bote (IV/4)</persName>
+          </person>
+          <person xml:id="edelmann_iv-6" sex="MALE">
+            <persName>Ein Edelmann (IV/6)</persName>
+          </person>
+          <person xml:id="edelmann_iv-7" sex="MALE">
+            <persName>Ein Edelmann (IV/7)</persName>
+          </person>
+          <person xml:id="hauptmann_v-3a" sex="MALE">
+            <persName>Ein Hauptmann (V/3)</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Ein Herold</persName>
+          </person>
+          <person xml:id="edelmann_v-3" sex="MALE">
+            <persName>Ein Edelmann (V/3)</persName>
+          </person>
+          <person xml:id="hauptmann_v-3b" sex="MALE">
+            <persName>Ein Hauptmann (V/3)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -79,7 +178,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000024" passive="http://www.wikidata.org/entity/Q181598"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000024"
+        passive="http://www.wikidata.org/entity/Q181598"/>
     </listRelation>
   </standOff>
   <text>
@@ -1309,7 +1409,7 @@
             <p>Was sagt der Schlingel da? Ruft den Tölpel zurück! Wo ist mein Narr, he? – Ich
               glaube, die Welt liegt im Schlaf. Nun? Wo bleibt der Lümmel? –</p>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-4">
             <speaker>RITTER.</speaker>
             <p>Er sagt, Mylord, Eurer Tochter sei nicht wohl.</p>
           </sp>
@@ -1317,7 +1417,7 @@
             <speaker>LEAR.</speaker>
             <p>Warum kam denn der Flegel nicht zurück, als ich ihn rief?</p>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-4">
             <speaker>RITTER.</speaker>
             <p>Herr, er sagte mir sehr rund heraus, er wolle nicht.</p>
           </sp>
@@ -1325,7 +1425,7 @@
             <speaker>LEAR.</speaker>
             <p>Er wolle nicht?</p>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-4">
             <speaker>RITTER.</speaker>
             <p>Mylord, ich weiß nicht, was vorgeht; aber nach meiner Ansicht begegnet man Eurer
               Hoheit nicht mehr mit der ehrerbietigen Aufmerksamkeit, wie man pflegte; es zeigt sich
@@ -1336,7 +1436,7 @@
             <speaker>LEAR.</speaker>
             <p>Ha! Meinst du? –</p>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-4">
             <speaker>RITTER.</speaker>
             <p>Ich bitte Euch, verzeiht mir, Mylord, wenn ich mich irre, denn mein Diensteifer kann
               nicht schweigen, wenn ich Eure Hoheit beleidigt glaube.</p>
@@ -1348,7 +1448,7 @@
               auf einen wirklichen Vorsatz und absichtliche Unfreundlichkeit. – Ich will genauer
               darauf acht geben. Aber wo ist mein Narr? Ich hab' ihn in zwei Tagen nicht gesehn.</p>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-4">
             <speaker>RITTER.</speaker>
             <p>Seit der jungen Fürstin Abreise nach Frankreich, gnädiger Herr, hat sich der Narr
               ganz abgehärmt.</p>
@@ -2068,7 +2168,7 @@
             <stage>Ein Ritter kommt.</stage>
             <l>Nun, sind die Pferde bereit?</l>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_i-5">
             <speaker>RITTER.</speaker>
             <p>Bereit, Mylord!</p>
           </sp>
@@ -2121,8 +2221,8 @@
             <p>Habt Ihr nicht gehört, daß es wahrscheinlich bald zwischen den Herzogen von Cornwall
               und Albanien zum Krieg kommen wird? –</p>
           </sp>
-          <sp who="#edmunnd">
-            <speaker>EDMUNND.</speaker>
+          <sp who="#edmund">
+            <speaker>EDMUND.</speaker>
             <p>Nicht ein Wort.</p>
           </sp>
           <sp who="#curan">
@@ -2896,7 +2996,7 @@
               <l>Mir nicht heimsenden!</l>
             </lg>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_ii-4">
             <speaker>RITTER.</speaker>
             <lg>
               <l>Wie ich dort erfuhr,</l>
@@ -3034,7 +3134,7 @@
             </lg>
             <stage>Er geht ab.</stage>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_ii-4">
             <speaker>RITTER.</speaker>
             <l>Versahst du mehr nicht, als was du erzählt?</l>
           </sp>
@@ -3652,7 +3752,7 @@
             <speaker>KENT.</speaker>
             <l>Wer ist da, außer schlechtem Wetter?</l>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_iii-1">
             <speaker>RITTER.</speaker>
             <l>Ein Mann, gleich diesem Wetter, höchst bewegt.</l>
           </sp>
@@ -3660,7 +3760,7 @@
             <speaker>KENT.</speaker>
             <l>Ich kenn' Euch; wo ist der König?</l>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_iii-1">
             <speaker>RITTER.</speaker>
             <lg>
               <l>Im Kampf mit dem erzürnten Element.</l>
@@ -3682,7 +3782,7 @@
             <speaker>KENT.</speaker>
             <l>Doch wer ist mit ihm?</l>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_iii-1">
             <speaker>RITTER.</speaker>
             <lg>
               <l>Der Narr allein, der wegzuscherzen strebt</l>
@@ -3721,7 +3821,7 @@
               <l>Vertrau' ich Euch dies Amt.</l>
             </lg>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_iii-1">
             <speaker>RITTER.</speaker>
             <l>Ich werd' Euch weiter sprechen.</l>
           </sp>
@@ -3738,7 +3838,7 @@
               <l>Ich will den König suchen.</l>
             </lg>
           </sp>
-          <sp who="#ritter">
+          <sp who="#ritter_iii-1">
             <speaker>RITTER.</speaker>
             <l>Gebt mir die Hand: Habt Ihr nicht mehr zu sagen?</l>
           </sp>
@@ -5428,7 +5528,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Was bringst du Neues?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>O gnäd'ger Herr, tot ist der Herzog Cornwall;</l>
@@ -5440,7 +5540,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Glosters Augen?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ein Knecht, den er erzog, gereizt von Mitleid,</l>
@@ -5460,7 +5560,7 @@
               <l>Verlor er beide Augen?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Beide, Herr!</l>
@@ -5485,7 +5585,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Wo war sein Sohn, als sie ihn blendeten?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Er kam mit Eurer Gattin.</l>
           </sp>
@@ -5493,7 +5593,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Er ist nicht hier.</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <l>Mein gnäd'ger Herr, ich traf ihn auf dem Rückweg.</l>
           </sp>
@@ -5501,7 +5601,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Weiß er die Greueltat?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Ja, gnäd'ger Herr! Er war's, der ihn verriet,</l>
@@ -5530,7 +5630,7 @@
             <p>Warum der König von Frankreich so plötzlich zurückgegangen ist: wißt Ihr die
               Ursach'?</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Es war ein Staatsgeschäft noch nicht vollendet,</l>
@@ -5544,7 +5644,7 @@
             <speaker>KENT.</speaker>
             <l>Wenn ließ er hier zurück als seinen Feldherrn?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>Den Marschall Frankreichs, Monseigneur le Fèr.</l>
           </sp>
@@ -5552,7 +5652,7 @@
             <speaker>KENT.</speaker>
             <p>Reizten Eure Briefe die Königin nicht zu Äußerungen des Schmerzes?</p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Jawohl, sie nahm sie, las in meinem Beisein,</l>
@@ -5569,7 +5669,7 @@
               <l>Ward sie bewegt.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Doch nicht zum Zorn. Geduld und Kummer stritten,</l>
@@ -5588,7 +5688,7 @@
             <speaker>KENT.</speaker>
             <l>Hat sie nichts gesprochen?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Ja, mehrmals seufzte sie den Namen »Vater«</l>
@@ -5611,7 +5711,7 @@
               <l>Ein und dasselbe Paar. – Spracht Ihr sie noch?</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>Nein.</l>
           </sp>
@@ -5619,7 +5719,7 @@
             <speaker>KENT.</speaker>
             <l>War's vor des Königs Reise?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>Nein, hernach.</l>
           </sp>
@@ -5633,7 +5733,7 @@
               <l>Will er die Tochter sehn.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>Weshalb nicht, Herr? –</l>
           </sp>
@@ -5648,7 +5748,7 @@
               <l>Ihn von Cordelien fern hält.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>Armer Herr!</l>
           </sp>
@@ -5656,7 +5756,7 @@
             <speaker>KENT.</speaker>
             <l>Wißt Ihr von Cornwalls und Albaniens Macht?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-2">
             <speaker>EDELMANN.</speaker>
             <l>'s ist wie gesagt: sie stehn im Feld.</l>
           </sp>
@@ -5715,7 +5815,7 @@
             </lg>
             <stage>Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Vernehmt, Mylady,</l>
@@ -6285,7 +6385,7 @@
             </lg>
             <stage>Ein Edelmann mit Bedienten tritt auf.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>O hier, hier ist er. Haltet ihn! Mylord,</l>
@@ -6301,7 +6401,7 @@
               <l>Ich bin ins Hirn gehaun.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <l>Nichts soll Euch fehlen.</l>
           </sp>
@@ -6314,7 +6414,7 @@
               <l>Des Herbstes Staub zu löschen.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <l>Teurer Herr!</l>
           </sp>
@@ -6326,7 +6426,7 @@
               <l>Ihr Herren, wißt ihr das? –</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <l>Ein hoher König, und wir folgen Euch.</l>
           </sp>
@@ -6336,7 +6436,7 @@
               Laufen haschen. Sa, sa, sa, sa! <stage>Er läuft fort.</stage>
             </p>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Ein Anblick, jammervoll am ärmsten Bettler,</l>
@@ -6349,7 +6449,7 @@
             <speaker>EDGAR.</speaker>
             <l>Heil, edler Herr!</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <l>Seid kurz, mein Freund! Was wollt Ihr?</l>
           </sp>
@@ -6357,7 +6457,7 @@
             <speaker>EDGAR.</speaker>
             <l>Vernahmt Ihr, Herr, ob's bald ein Treffen gibt?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Nun, das ist weltbekannt, ein jeder weiß es,</l>
@@ -6371,7 +6471,7 @@
               <l>Wie nahe steht der Feind?</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Nah und in schnellem Anmarsch; stündlich kann</l>
@@ -6383,7 +6483,7 @@
             <l>Dank Euch! Das war alles.</l>
           </sp>
           <pb n="584"/>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-6">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Weilt gleich die Königin aus Gründen hier,</l>
@@ -6645,7 +6745,7 @@
             </lg>
             <stage>Diener bringen den schlafenden Lear in einem Sessel herein.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-7">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Ja, gnäd'ge Frau, in seinem tiefen Schlaf</l>
@@ -6824,7 +6924,7 @@
             </lg>
             <stage>Lear, Cordelia, Arzt und Bediente gehn ab.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-7">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Bestätigt sich's,</l>
@@ -6835,7 +6935,7 @@
             <speaker>KENT.</speaker>
             <l>Ja, Herr!</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-7">
             <speaker>EDELMANN.</speaker>
             <l>Wer ist der Führer seines Heers?</l>
           </sp>
@@ -6843,7 +6943,7 @@
             <speaker>KENT.</speaker>
             <l>Man sagt, der Bastard Glosters.</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-7">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Sein verbannter</l>
@@ -6859,7 +6959,7 @@
               <l>Rückt schleunig vor.</l>
             </lg>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_iv-7">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Nun, die Entscheidung wird sehr blutig sein.</l>
@@ -7220,7 +7320,7 @@
               <l>Sonst such' dir andres Glück.</l>
             </lg>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_v-3a">
             <speaker>HAUPTMANN.</speaker>
             <l>Ich bin bereit.</l>
           </sp>
@@ -7232,7 +7332,7 @@
               <l>Wie ich dir's niederschrieb.</l>
             </lg>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_v-3a">
             <speaker>HAUPTMANN.</speaker>
             <lg>
               <l>Ich kann den Karrn nicht ziehn noch Hafer essen;</l>
@@ -7698,7 +7798,7 @@
             </lg>
             <stage>Ein Edelmann kommt in voller Eile mit einem blutigen Messer.</stage>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-3">
             <speaker>EDELMANN.</speaker>
             <l>Helft, helft, o helft!</l>
           </sp>
@@ -7714,7 +7814,7 @@
             <speaker>EDGAR.</speaker>
             <l>Was meint der blut'ge Dolch?</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-3">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Er raucht, ist heiß;</l>
@@ -7726,7 +7826,7 @@
             <speaker>ALBANIEN.</speaker>
             <l>Wer tot? Sprich, Mann!</l>
           </sp>
-          <sp who="#edelmann">
+          <sp who="#edelmann_v-3">
             <speaker>EDELMANN.</speaker>
             <lg>
               <l>Herr, Eure Gattin; ihre Schwester ist</l>
@@ -7973,7 +8073,7 @@
             <l>Ganz umsonst.</l>
             <stage>Ein Hauptmann kommt.</stage>
           </sp>
-          <sp who="#hauptmann">
+          <sp who="#hauptmann_v-3b">
             <speaker>HAUPTMANN.</speaker>
             <l>Edmund ist tot, Mylord!</l>
           </sp>

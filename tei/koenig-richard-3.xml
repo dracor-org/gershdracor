@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">König Richard III.</title>
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">3</biblScope>: Historien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="789" to="905">789–905</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">König Richard III.</title> In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
+            Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="789" to="905">789–905</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -63,6 +59,205 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="gloster_richard" sex="MALE">
+            <persName>Richard, Herzog von Gloster, nachmals König Richard III.</persName>
+          </person>
+          <person xml:id="clarence" sex="MALE">
+            <persName>George, Herzog von Clarence</persName>
+          </person>
+          <person xml:id="brakenbury" sex="MALE">
+            <persName>Sir Robert Brakenbury</persName>
+          </person>
+          <person xml:id="hastings" sex="MALE">
+            <persName>Lord Hastings</persName>
+          </person>
+          <person xml:id="anna" sex="FEMALE">
+            <persName>Anna</persName>
+          </person>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="rivers" sex="MALE">
+            <persName>Graf Rivers</persName>
+          </person>
+          <person xml:id="grey" sex="MALE">
+            <persName>Lord Grey</persName>
+          </person>
+          <person xml:id="elisabeth" sex="FEMALE">
+            <persName>Elisabeth</persName>
+          </person>
+          <person xml:id="buckingham" sex="MALE">
+            <persName>Herzog von Buckingham</persName>
+          </person>
+          <person xml:id="stanley" sex="MALE">
+            <persName>Lord Stanley</persName>
+          </person>
+          <person xml:id="margareta" sex="FEMALE">
+            <persName>Margareta</persName>
+          </person>
+          <person xml:id="dorset" sex="MALE">
+            <persName>Marquis von Dorset</persName>
+          </person>
+          <person xml:id="catesby" sex="MALE">
+            <persName>Sir William Catesby</persName>
+          </person>
+          <person xml:id="erster_moerder" sex="MALE">
+            <persName>Erster Mörder</persName>
+          </person>
+          <person xml:id="zweiter_moerder" sex="MALE">
+            <persName>Zweiter Mörder</persName>
+          </person>
+          <person xml:id="eduard" sex="MALE">
+            <persName>König Eduard IV.</persName>
+          </person>
+          <person xml:id="sohn" sex="MALE">
+            <persName>Ein junger Sohn des Clarence</persName>
+          </person>
+          <person xml:id="herzogin" sex="FEMALE">
+            <persName>Herzogin von York</persName>
+          </person>
+          <person xml:id="tochter" sex="FEMALE">
+            <persName>Eine junge Tochter des Clarence</persName>
+          </person>
+          <person xml:id="erster_buerger" sex="MALE">
+            <persName>Erster Bürger</persName>
+          </person>
+          <person xml:id="zweiter_buerger" sex="MALE">
+            <persName>Zweiter Bürger</persName>
+          </person>
+          <person xml:id="dritter_buerger" sex="MALE">
+            <persName>Dritter Bürger</persName>
+          </person>
+          <person xml:id="erzbischof" sex="MALE">
+            <persName>Erzbischof von York</persName>
+          </person>
+          <person xml:id="york" sex="MALE">
+            <persName>Richard, Herzog von York</persName>
+          </person>
+          <person xml:id="bote_ii-4" sex="MALE">
+            <persName>Ein Bote (II/4)</persName>
+          </person>
+          <person xml:id="prinz" sex="MALE">
+            <persName>Eduard, Prinz von Wales, nachmals König Eduard V.</persName>
+          </person>
+          <person xml:id="mayor" sex="MALE">
+            <persName>Lord Mayor von London</persName>
+          </person>
+          <person xml:id="kardinal" sex="MALE">
+            <persName>Kardinal Bourchier, Erzbischof von Canterbury</persName>
+          </person>
+          <person xml:id="bote_iii-2" sex="MALE">
+            <persName>Ein Bote (III/2)</persName>
+          </person>
+          <person xml:id="heroldsdiener" sex="MALE">
+            <persName>Ein Heroldsdiener</persName>
+          </person>
+          <person xml:id="priester" sex="MALE">
+            <persName>Ein Priester</persName>
+          </person>
+          <person xml:id="ratcliff" sex="MALE">
+            <persName>Sir Richard Ratcliff</persName>
+          </person>
+          <person xml:id="vaughan" sex="MALE">
+            <persName>Sir Thomas Vaughan</persName>
+          </person>
+          <person xml:id="ely" sex="MALE">
+            <persName>Bischof von Ely</persName>
+          </person>
+          <person xml:id="lovel" sex="MALE">
+            <persName>Lord Lovel</persName>
+          </person>
+          <person xml:id="kanzellist" sex="MALE">
+            <persName>Ein Kanzellist</persName>
+          </person>
+          <personGrp xml:id="alle_iii-7" sex="UNKNOWN">
+            <name>Alle (III/7)</name>
+          </personGrp>
+          <person xml:id="edelknabe" sex="MALE">
+            <persName>Ein Edelknabe</persName>
+          </person>
+          <person xml:id="tyrrel" sex="MALE">
+            <persName>Sir James Tyrrel</persName>
+          </person>
+          <person xml:id="bote_iv-4" sex="MALE">
+            <persName>Ein Bote (IV/4)</persName>
+          </person>
+          <person xml:id="zweiter_bote" sex="MALE">
+            <persName>Zweiter Bote</persName>
+          </person>
+          <person xml:id="dritter_bote" sex="MALE">
+            <persName>Dritter Bote</persName>
+          </person>
+          <person xml:id="vierter_bote" sex="MALE">
+            <persName>Vierter Bote</persName>
+          </person>
+          <person xml:id="urswick" sex="MALE">
+            <persName>Christopher Urswick</persName>
+          </person>
+          <person xml:id="sheriff" sex="MALE">
+            <persName>Sheriff von Wiltshire</persName>
+          </person>
+          <person xml:id="richmond" sex="MALE">
+            <persName>Heinrich, Graf von Richmond, nachmals König Heinrich VII.</persName>
+          </person>
+          <person xml:id="oxford" sex="MALE">
+            <persName>Graf von Oxford</persName>
+          </person>
+          <person xml:id="herbert" sex="MALE">
+            <persName>Sir Walter Herbert</persName>
+          </person>
+          <person xml:id="blunt" sex="MALE">
+            <persName>Sir James Blunt</persName>
+          </person>
+          <person xml:id="surrey" sex="MALE">
+            <persName>Graf von Surrey</persName>
+          </person>
+          <person xml:id="norfolk" sex="MALE">
+            <persName>Herzog von Norfolk</persName>
+          </person>
+          <person xml:id="geist_des_prinzen_eduard" sex="MALE">
+            <persName>Der Geist des Prinzen Eduard</persName>
+          </person>
+          <person xml:id="geist_koenig_heinrichs" sex="MALE">
+            <persName>Der Geist König Heinrichs VI. </persName>
+          </person>
+          <person xml:id="geist_des_clarence" sex="MALE">
+            <persName>Der Geist des Clarence</persName>
+          </person>
+          <person xml:id="geist_des_rivers" sex="MALE">
+            <persName>Der Geist des Rivers</persName>
+          </person>
+          <person xml:id="geist_des_grey" sex="MALE">
+            <persName>Der Geist des Grey</persName>
+          </person>
+          <person xml:id="geist_des_vaughan" sex="MALE">
+            <persName>Der Geist des Vaughan</persName>
+          </person>
+          <person xml:id="geist_des_hastings" sex="MALE">
+            <persName>Der Geist des Hastings</persName>
+          </person>
+          <personGrp xml:id="geister_der_beiden_jungen_prinzen" sex="MALE">
+            <name>Die Geister der beiden jungen Prinzen</name>
+          </personGrp>
+          <person xml:id="geist_der_prinzessin_anna" sex="FEMALE">
+            <persName>Der Geist der Prinzessin Anna</persName>
+          </person>
+          <person xml:id="buckinghams_geist" sex="MALE">
+            <persName>Buckinghams Geist</persName>
+          </person>
+          <personGrp xml:id="lords" sex="MALE">
+            <name>Lords</name>
+          </personGrp>
+          <person xml:id="bote_v-5" sex="MALE">
+            <persName>Ein Bote (V/5)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">History</term>
@@ -78,7 +273,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000026" passive="http://www.wikidata.org/entity/Q652011"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000026"
+        passive="http://www.wikidata.org/entity/Q652011"/>
     </listRelation>
   </standOff>
   <text>
@@ -129,8 +325,8 @@
         <castItem>Margareta, Witwe König Heinrichs VI.</castItem>
         <castItem>Herzogin von York, Mutter König Eduards IV., Clarences und Glosters</castItem>
         <pb n="792"/>
-        <castItem>Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs
-          VI., nachmals mit Gloster vermählt</castItem>
+        <castItem>Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs VI., nachmals mit
+          Gloster vermählt</castItem>
         <castItem>Eine junge Tochter des Clarence</castItem>
         <castItem>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,
           Mörder, Boten, Geister, Soldaten u.s.w.</castItem>
@@ -147,7 +343,7 @@
           <head>Erste Szene</head>
           <stage>London. Eine Straße.</stage>
           <stage>Gloster tritt auf.</stage>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Nun ward der Winter unsers Mißvergnügens</l>
@@ -205,7 +401,7 @@
               <l>Mir dies Geleit, mich nach dem Turm zu schaffen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Aus welchem Grund?</l>
           </sp>
@@ -213,7 +409,7 @@
             <speaker>CLARENCE.</speaker>
             <l>Weil man mich George nennt.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ach, Mylord, das ist Euer Fehler nicht,</l>
@@ -239,7 +435,7 @@
               <l>Bewogen Seine Hoheit zum Verhaft.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>So geht's, wenn Weiber einen Mann regieren,</l>
@@ -263,7 +459,7 @@
               <l>Lord Hastings um Befreiung an sie wandte?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Demütig klagend ihrer Göttlichkeit,</l>
@@ -285,7 +481,7 @@
               <l>Soll sprechen insgeheim mit seinem Bruder.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ja so! Beliebt's Eu'r Edeln, Brakenbury,</l>
@@ -305,7 +501,7 @@
             <speaker>BRAKENBURY.</speaker>
             <l>Mylord, ich bin bei allem dem nichts nutz.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Nichtsnutzig bei Frau Shore? Hör' an, Gesell:</l>
@@ -317,7 +513,7 @@
             <speaker>BRAKENBURY.</speaker>
             <l>Als welcher eine, Mylord?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ihr Mann, du Schuft; willst du mich fangen?</l>
           </sp>
@@ -335,7 +531,7 @@
               <l>Und woll'n gehorchen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wir sind die Verworfnen</l>
@@ -352,7 +548,7 @@
             <speaker>CLARENCE.</speaker>
             <l>Ich weiß es, sie gefällt uns beiden nicht.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wohl, Eu'r Verhaft wird nicht von Dauer sein:</l>
@@ -365,7 +561,7 @@
             <l>Ich muß; leb wohl!</l>
             <stage>Clarence mit Brakenbury und der Wache ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Geh nur des Wegs, den du nie wiederkehrst,</l>
@@ -380,7 +576,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Vergnügten Morgen meinem gnäd'gen Herrn!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Das gleiche meinem lieben Kämmerer!</l>
@@ -397,7 +593,7 @@
             </lg>
           </sp>
           <pb n="797"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Gewiß, gewiß! und das wird Clarence auch:</l>
@@ -412,7 +608,7 @@
               <l>Und Gei'r und Habicht rauben frei indes.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Was gibt es Neues draußen?</l>
           </sp>
@@ -424,7 +620,7 @@
               <l>Und seine Ärzte fürchten ungemein.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Nun, bei Sankt Paul! die Neuigkeit ist schlimm.</l>
@@ -438,7 +634,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Er tut's.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Geht nur voran, ich folge bald Euch nach.</l>
             <stage>Hastings ab.</stage>
@@ -512,7 +708,7 @@
             </lg>
             <stage>Die Träger nehmen die Leiche auf und gehen weiter. Gloster tritt auf.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Halt! Ihr der Leiche Träger, setzt sie nieder!</l>
           </sp>
@@ -523,7 +719,7 @@
               <l>Zur Störung frommer Liebesdienste her?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Schurken, die Leiche nieder! Bei Sankt Paul,</l>
@@ -534,7 +730,7 @@
             <speaker>ERSTER EDELMANN.</speaker>
             <l>Mylord, weicht aus und laßt den Sarg vorbei!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Schamloser Hund! Steh du, wenn ich's befehle;</l>
@@ -555,7 +751,7 @@
               <l>Die Seel' erlangst du nicht: drum mach' dich fort!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Sei christlich, süße Heil'ge, fluche nicht!</l>
           </sp>
@@ -584,7 +780,7 @@
               <l>Den sein der Höll' ergebner Arm gewürgt!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Herrin, Ihr kennt der Liebe Vorschrift nicht,</l>
@@ -598,7 +794,7 @@
               <l>Das wild'ste Tier kennt doch des Mitleids Regung.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ich kenne keins, und bin daher kein Tier.</l>
           </sp>
@@ -606,7 +802,7 @@
             <speaker>ANNA.</speaker>
             <l>O Wunder, wenn ein Teufel Wahrheit spricht!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mehr Wunder, wenn ein Engel zornig ist! –</l>
@@ -623,7 +819,7 @@
               <l>Gelegentlich zu fluchen dir Verfluchtem.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Du, schöner als ein Mund dich nennen kann!</l>
@@ -637,7 +833,7 @@
               <l>Für dich gilt kein Entschuld'gen, als dich hängen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Verzweifelnd so, verklagt' ich ja mich selbst.</l>
           </sp>
@@ -649,7 +845,7 @@
               <l>Der du unwürd'gen Mord an andern übtest.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Setz', ich erschlug sie nicht.</l>
           </sp>
@@ -660,7 +856,7 @@
               <l>Doch tot sind sie, und, Höllenknecht, durch dich.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ich schlug nicht Euren Gatten.</l>
           </sp>
@@ -668,7 +864,7 @@
             <speaker>ANNA.</speaker>
             <l>Nun wohl, so lebt er noch.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Nein, er ist tot, und ihn schlug Eduards Hand.</l>
           </sp>
@@ -681,7 +877,7 @@
               <l>Nur deine Brüder schlugen es beiseit.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich war gereizt von ihrer Lästerzunge,</l>
@@ -697,7 +893,7 @@
               <l>Hast du nicht diesen König umgebracht?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ich geb' es zu.</l>
           </sp>
@@ -709,7 +905,7 @@
               <l>Oh, er war gütig, mild und tugendsam.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>So taugt er, bei des Himmels Herrn zu wohnen.</l>
           </sp>
@@ -717,7 +913,7 @@
             <speaker>ANNA.</speaker>
             <l>Er ist im Himmel, wo du niemals hinkommst.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Er danke mir, der ihm dahin verholfen:</l>
@@ -728,7 +924,7 @@
             <speaker>ANNA.</speaker>
             <l>Du taugst für keinen Ort als für die Hölle.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ja, <emph>einen</emph> noch, wenn ich ihn nennen darf.</l>
           </sp>
@@ -736,7 +932,7 @@
             <speaker>ANNA.</speaker>
             <l>Ein Kerker.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Euer Schlafzimmer.</l>
           </sp>
@@ -744,7 +940,7 @@
             <speaker>ANNA.</speaker>
             <l>Verbannt sei Ruh' vom Zimmer, wo du liegst!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Das ist sie, Herrin, bis ich bei Euch liege.</l>
           </sp>
@@ -752,7 +948,7 @@
             <speaker>ANNA.</speaker>
             <l>Ich hoff' es.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich weiß es. – Doch, liebe Lady Anna,</l>
@@ -767,7 +963,7 @@
             <speaker>ANNA.</speaker>
             <l>Du warst die Ursach' und verfluchte Wirkung.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Eu'r Reiz allein war Ursach' dieser Wirkung,</l>
@@ -783,7 +979,7 @@
               <l>Von meinen Wangen reißen diesen Reiz.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Dies Auge kann den Reiz nicht tilgen sehn;</l>
@@ -796,7 +992,7 @@
             <speaker>ANNA.</speaker>
             <l>Nacht schwärze deinen Tag und Tod dein Leben.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Fluch', hold Geschöpf, dir selbst nicht: du bist beides.</l>
           </sp>
@@ -805,7 +1001,7 @@
             <speaker>ANNA.</speaker>
             <l>Ich wollt', ich wär's, um mich an dir zu rächen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Es ist ein Handel wider die Natur,</l>
@@ -819,7 +1015,7 @@
               <l>Mich rächen an dem Mörder meines Gatten.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Der dich beraubte, Herrin, deines Gatten,</l>
@@ -830,7 +1026,7 @@
             <speaker>ANNA.</speaker>
             <l>Ein beßrer atmet auf der Erde nicht.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Es lebt wer, der Euch besser liebt als er.</l>
           </sp>
@@ -838,7 +1034,7 @@
             <speaker>ANNA.</speaker>
             <l>Nenn' ihn.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Plantagenet.</l>
           </sp>
@@ -846,7 +1042,7 @@
             <speaker>ANNA.</speaker>
             <l>So hieß ja er.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Derselbe Name, doch bei beßrer Art.</l>
           </sp>
@@ -854,7 +1050,7 @@
             <speaker>ANNA.</speaker>
             <l>Wo ist er?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Hier.</l>
             <stage>Sie speit nah ihm.</stage>
@@ -864,7 +1060,7 @@
             <speaker>ANNA.</speaker>
             <l>Wär' es doch tödlich Gift, um deinethalb!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Niemals kam Gift aus solchem süßen Ort.</l>
           </sp>
@@ -875,7 +1071,7 @@
               <l>Aus meinen Augen fort! Du steckst sie an.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Dein Auge, Herrin, hat meins angesteckt.</l>
           </sp>
@@ -883,7 +1079,7 @@
             <speaker>ANNA.</speaker>
             <l>Oh, wär's ein Basilisk, dich tot zu blitzen!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich wollt' es selbst, so stürb' ich auf einmal,</l>
@@ -933,7 +1129,7 @@
               <l>So will ich doch nicht sein Vollstrecker sein.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>So heiß' mich selbst mich töten, und ich will's.</l>
           </sp>
@@ -941,7 +1137,7 @@
             <speaker>ANNA.</speaker>
             <l>Ich tat es schon.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Das war in deiner Wut.</l>
@@ -955,7 +1151,7 @@
             <speaker>ANNA.</speaker>
             <l>Kennt' ich doch nur dein Herz!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Auf meiner Zunge wohnt's.</l>
           </sp>
@@ -964,7 +1160,7 @@
             <l>Vielleicht sind beide falsch.</l>
           </sp>
           <pb n="804"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Dann meint' es niemand treu.</l>
           </sp>
@@ -972,7 +1168,7 @@
             <speaker>ANNA.</speaker>
             <l>Nun wohl, steckt ein das Schwert.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Gewährst du Frieden mir?</l>
           </sp>
@@ -980,7 +1176,7 @@
             <speaker>ANNA.</speaker>
             <l>Das sollt Ihr künftig sehn.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Darf ich in Hoffnung leben?</l>
           </sp>
@@ -988,7 +1184,7 @@
             <speaker>ANNA.</speaker>
             <l>Ich hoffe, jeder tut's.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Tragt diesen Ring von mir.</l>
           </sp>
@@ -997,7 +1193,7 @@
             <l>Annehmen ist nicht geben.</l>
             <stage>Sie steckt den Ring an.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Sieh, wie der Ring umfasset deinen Finger,</l>
@@ -1012,7 +1208,7 @@
             <speaker>ANNA.</speaker>
             <l>Was ist es?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Daß ihr dies traur'ge Werk dem überlaßt,</l>
@@ -1034,7 +1230,7 @@
               <l>Tressel und Berkley, kommt, begleitet mich.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Sagt mir Lebwohl!</l>
           </sp>
@@ -1047,7 +1243,7 @@
             </lg>
             <stage>Prinzessin Anna mit zwei Edelleuten ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Nehmt auf die Leich', ihr Herrn.</l>
           </sp>
@@ -1055,7 +1251,7 @@
             <speaker>ZWEITER EDELMANN.</speaker>
             <l>Nach Chertsey, edler Lord?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Nein, zu den Karmelitern; dort erwartet mich.</l>
             <stage>Der Zug mit der Leiche ab.</stage>
@@ -1234,7 +1430,7 @@
             </lg>
             <stage>Gloster, Hastings und Dorset treten auf.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Sie tun mir Unrecht, und ich will's nicht dulden.</l>
@@ -1255,7 +1451,7 @@
             <speaker>GREY.</speaker>
             <l>Mit wem in diesem Kreis spricht Euer Gnaden?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mit dir, der weder Tugend hat noch Gnade.</l>
@@ -1281,7 +1477,7 @@
               <l>Die Ursach' Eures Grolls und weg sie schaffe.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich weiß es nicht, – die Welt ist so verderbt,</l>
@@ -1298,7 +1494,7 @@
               <l>Gott gebe, daß wir nie Euch nötig haben!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Gott gibt indes, daß wir Euch nötig haben;</l>
@@ -1321,7 +1517,7 @@
               <l>Da Ihr mich falsch in solchen Argwohn bringt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ihr könnt auch leugnen, daß Ihr Schuld gehabt</l>
@@ -1332,7 +1528,7 @@
             <speaker>RIVERS.</speaker>
             <l>Sie kann's, Mylord; denn –</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Sie kann's, Lord Rivers? Ei, wer weiß das nicht?</l>
@@ -1347,7 +1543,7 @@
             <speaker>RIVERS.</speaker>
             <l>Was kann sie, traun?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Was kann sie traun? Mit einem König traun,</l>
@@ -1377,7 +1573,7 @@
               <l>Denn mir gebührt dein Rang und Ehrensitz.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Was? Droht Ihr mir, dem König es zu sagen?</l>
@@ -1395,7 +1591,7 @@
               <l>Und meinen armen Sohn zu Tewksbury.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Eh' Ihr den Thron bestiegt und Eu'r Gemahl,</l>
@@ -1409,7 +1605,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Ja, und viel beßres Blut als seins und deins.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>In all der Zeit wart Ihr und Grey, Eu'r Mann,</l>
@@ -1425,7 +1621,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Ein mörderischer Schurk', und bist es noch.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Verließ nicht Clarence seinen Vater Warwick,</l>
@@ -1436,7 +1632,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Bestraf' ihn Gott!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Um neben Eduard für den Thron zu fechten?</l>
             <pb n="810"/>
@@ -1463,7 +1659,7 @@
               <l>Wie wir an Euch es täten, wenn Ihr's würdet.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wenn ich es würde? Lieber ein Hausierer!</l>
@@ -1494,7 +1690,7 @@
               <l>Ha, lieber Schurke! Wende dich nicht weg!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Was schaffst du, schnöde Hexe, mir vor Augen?</l>
           </sp>
@@ -1505,7 +1701,7 @@
               <l>Das will ich schaffen, eh' ich gehn dich lasse.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Bist du bei Todesstrafe nicht verbannt?</l>
           </sp>
@@ -1521,7 +1717,7 @@
             </lg>
           </sp>
           <pb n="811"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Der Fluch, den dir mein edler Vater gab,</l>
@@ -1590,7 +1786,7 @@
               <l>Erreich' und plötzlich werde weggerafft!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Schließ' deinen Spruch, verschrumpfte böse Hexe!</l>
           </sp>
@@ -1617,7 +1813,7 @@
               <l>Du Lump der Ehre! Du mein Abscheu –</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Margareta.</l>
           </sp>
@@ -1625,7 +1821,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Richard!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>He?</l>
           </sp>
@@ -1633,7 +1829,7 @@
             <speaker>MARGARETA.</speaker>
             <l>Ich rief dich nicht.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>So bitt' ich um Verzeihung; denn ich dachte,</l>
@@ -1647,7 +1843,7 @@
               <l>O laß zum Schluß mich bringen meinen Fluch!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ich tat's für dich: er endigt in Margreta.</l>
           </sp>
@@ -1705,7 +1901,7 @@
               <l>Und wenn er fällt, so wird er ganz zerschmettert.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Traun, guter Rat! Marquis, nehmt ihn zu Herzen.</l>
           </sp>
@@ -1713,7 +1909,7 @@
             <speaker>DORSET.</speaker>
             <l>Er geht Euch an, Mylord, so sehr als mich.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ja, und weit mehr: Doch ich bin hochgeboren;</l>
@@ -1782,7 +1978,7 @@
               <l>Und ihre Diener all umgeben ihn.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Was sagt sie da, Mylord von Buckingham?</l>
           </sp>
@@ -1811,7 +2007,7 @@
             <speaker>RIVERS.</speaker>
             <l>Mir auch; es wundert mich, daß man so frei sie läßt.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich schelte nicht sie, bei der Mutter Gottes!</l>
@@ -1823,7 +2019,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Ich tat ihr nie zu nah, soviel ich weiß.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Doch habt Ihr allen Vorteil ihres Leids.</l>
@@ -1842,7 +2038,7 @@
             </lg>
           </sp>
           <pb n="815"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Das tu' ich immer, weislich so belehrt: –</l>
             <stage>Beiseit.</stage>
@@ -1865,7 +2061,7 @@
             <l>Wir sind zu Euer Gnaden Dienst.</l>
             <stage>Alle ab, außer Gloster.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich tu' das Bös', und schreie selbst zuerst.</l>
@@ -1896,7 +2092,7 @@
               <l>Damit man uns einlasse, wo er ist.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ganz wohl bedacht! Ich habe hier sie bei mir;</l>
             <stage>gibt ihnen die Vollmacht</stage>
@@ -1917,7 +2113,7 @@
               <l>Die Hände brauchen wir und nicht die Zungen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ihr weint Mühlsteine, wie die Narren Tränen;</l>
@@ -2292,7 +2488,7 @@
               <l>Wer hat euch hergesandt? Weswegen kommt ihr?</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster_moerder #zweiter_moerder">
             <speaker>BEIDE.</speaker>
             <l>Um, um, um –</l>
           </sp>
@@ -2300,7 +2496,7 @@
             <speaker>CLARENCE.</speaker>
             <l>Mich zu ermorden?</l>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster_moerder #zweiter_moerder">
             <speaker>BEIDE.</speaker>
             <l>Ja, ja.</l>
           </sp>
@@ -2445,7 +2641,7 @@
               <l>Geht nur von mir zu ihm!</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster_moerder #zweiter_moerder">
             <speaker>BEIDE.</speaker>
             <l>Das woll'n wir auch.</l>
           </sp>
@@ -2706,7 +2902,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Zur guten Stunde kommt der edle Herzog.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER</speaker>
             <stage>tritt auf.</stage>
             <lg>
@@ -2723,7 +2919,7 @@
               <l>Bei diesen hitzig aufgereizten Pairs.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Gesegnetes Bemühn, mein hoher Herr!</l>
@@ -2760,7 +2956,7 @@
               <l>Zu Gnaden unsern Bruder Clarence an.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wie? Bot ich darum Liebe, gnäd'ge Frau,</l>
@@ -2793,7 +2989,7 @@
             <speaker>EDUARD.</speaker>
             <l>Starb Clarence? Der Befehl ward widerrufen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Der Arme starb auf Euer erst Geheiß,</l>
@@ -2872,7 +3068,7 @@
             </lg>
             <stage>Der König, die Königin, Hastings, Rivers, Dorset und Grey ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Das ist die Frucht des Jähzorns! – Gabt ihr acht,</l>
@@ -3054,7 +3250,7 @@
               <l>Ach, weh um meinen Gatten, meinen Eduard!</l>
             </lg>
           </sp>
-          <sp who="#die_kinder">
+          <sp who="#sohn #tochter">
             <speaker>DIE KINDER.</speaker>
             <l>Um unsern Vater, unsern teuern Clarence!</l>
           </sp>
@@ -3066,7 +3262,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wer war mein Halt als Eduard? Er ist hin.</l>
           </sp>
-          <sp who="#die_kinder">
+          <sp who="#sohn #tochter">
             <speaker>DIE KINDER.</speaker>
             <l>Wer unser Halt als Clarence? Er ist hin.</l>
           </sp>
@@ -3078,7 +3274,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Nie keine Witwe büßte so viel ein.</l>
           </sp>
-          <sp who="#die_kinder">
+          <sp who="#sohn #tochter">
             <speaker>DIE KINDER.</speaker>
             <l>Nie keine Waise büßte so viel ein.</l>
           </sp>
@@ -3122,7 +3318,7 @@
             </lg>
             <stage>Gloster, Buckingham, Stanley, Hastings, Ratcliff und andre treten auf.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Faßt, Schwester, Euch; wir alle haben Grund,</l>
@@ -3140,7 +3336,7 @@
               <l>Gehorsam, Lieb' und echte Treu' ins Herz!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Amen!</l>
@@ -3184,7 +3380,7 @@
               <l>Muß, meiner Meinung nach, verhütet werden.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Der König schloß ja Frieden mit uns allen,</l>
@@ -3206,7 +3402,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Das sag' ich auch.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>So sei es denn; und gehn wir, zu entscheiden,</l>
@@ -3227,7 +3423,7 @@
               <l>Von der Person des Prinzen zu entfernen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mein andres Selbst! Du meine Ratsversammlung,</l>
@@ -3500,7 +3696,7 @@
             <speaker>ERZBISCHOF.</speaker>
             <l>Da kommt ein Bote, seht. – Was gibt es Neues?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <l>Mylord, was anzumelden mich betrübt.</l>
           </sp>
@@ -3508,7 +3704,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Was macht der Prinz?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <l>Er ist gesund und wohl.</l>
           </sp>
@@ -3516,7 +3712,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Was bringst du sonst?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Lord Rivers und Lord Grey sind fort nach Pomfret,</l>
@@ -3527,7 +3723,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Und wer hat sie verhaftet?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <l>Die mächt'gen Herzoge, Gloster und Buckingham.</l>
           </sp>
@@ -3535,7 +3731,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Für welch Vergeh'n?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_ii-4">
             <speaker>BOTE.</speaker>
             <l>Was ich nur weiß und kann, eröffnet' ich.</l>
             <pb n="837"/>
@@ -3613,7 +3809,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Willkommen, bester Prinz, in London, Eurer Kammer!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Willkommen, Vetter, meines Sinnes Fürst! –</l>
@@ -3628,7 +3824,7 @@
               <l>Ich misse hier noch Onkel zum Empfang.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mein Prinz, die reine Tugend Eurer Jahre</l>
@@ -3646,7 +3842,7 @@
             <speaker>PRINZ.</speaker>
             <l>Vor falschen Freunden: ja! Sie waren keine.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Mein Fürst, der Schulz von London kommt zum Willkomm</l>
             <stage>Der Lord Mayor und sein Zug treten auf.</stage>
@@ -3748,7 +3944,7 @@
               <l>Wo sollen wir verbleiben bis zur Krönung?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wo's gut dünkt Eurer fürstlichen Person.</l>
@@ -3765,7 +3961,7 @@
               <l>Hat Julius Cäsar ihn gebaut, Mylord?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Er hat, mein gnäd'ger Fürst, den Ort gestiftet,</l>
@@ -3792,7 +3988,7 @@
               <l>Bis auf den letzten Tag der Welt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Klug allzubald, sagt man, wird nimmer alt.</l>
@@ -3801,7 +3997,7 @@
             <speaker>PRINZ.</speaker>
             <l>Was sagt Ihr, Oheim?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ich sage, Ruhm wird ohne Schriften alt. –</l>
             <stage>Beiseit.</stage>
@@ -3834,7 +4030,7 @@
               <l>Sterb' ich als Krieger, wie ich lebt' als König.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER</speaker>
             <stage>beiseit.</stage>
             <l>Auf zeit'gen Frühling währt der Sommer wenig.</l>
@@ -3860,7 +4056,7 @@
               <l>Des Tod ihm viel an Majestät benahm.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wie geht es unserm edlen Vetter York?</l>
           </sp>
@@ -3872,7 +4068,7 @@
               <l>Der Prinz, mein Bruder, wuchs mir übern Kopf.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Jawohl, Mylord.</l>
           </sp>
@@ -3880,7 +4076,7 @@
             <speaker>YORK.</speaker>
             <l>Und ist er darum unnütz?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>O bester Vetter, das möcht' ich nicht sagen.</l>
           </sp>
@@ -3888,7 +4084,7 @@
             <speaker>YORK.</speaker>
             <l>Dann ist er Euch ja mehr als ich verpflichtet.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Er hat mir zu befehlen als mein Fürst,</l>
@@ -3899,7 +4095,7 @@
             <speaker>YORK.</speaker>
             <p>Ich bitt' Euch, Oheim, gebt mir diesen Dolch.</p>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Den Dolch, mein kleiner Vetter? Herzlich gern.</l>
           </sp>
@@ -3914,7 +4110,7 @@
               <l>Und um 'ne Kleinigkeit, die man ohn' Arges gibt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wohl Größres will ich meinem Vetter geben.</l>
           </sp>
@@ -3922,7 +4118,7 @@
             <speaker>YORK.</speaker>
             <l>Wohl Größres? Oh, das ist das Schwert dazu.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ja, lieber Vetter, wär's nur leicht genug.</l>
           </sp>
@@ -3933,7 +4129,7 @@
               <l>Bei Dingen von Gewicht, sagt Ihr dem Bettler: Nein!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Es hat zu viel Gewicht für Euch zu tragen.</l>
           </sp>
@@ -3941,7 +4137,7 @@
             <speaker>YORK.</speaker>
             <l>Für mich hat's kein Gewicht, und wär's noch schwerer.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wie? Wollt Ihr meine Waffen, kleiner Lord?</l>
           </sp>
@@ -3949,7 +4145,7 @@
             <speaker>YORK.</speaker>
             <l>Ja, und mein Dank soll sein, wie Ihr mich nennt.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wie?</l>
           </sp>
@@ -3983,7 +4179,7 @@
               <l>So schlau und noch so jung ist wunderbar.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mein gnäd'ger Fürst, beliebt es Euch zu gehn?</l>
@@ -4004,7 +4200,7 @@
             <speaker>YORK.</speaker>
             <l>Ich schlafe sicher nicht mit Ruh' im Turm.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Warum? Was könnt Ihr fürchten?</l>
           </sp>
@@ -4019,7 +4215,7 @@
             <speaker>PRINZ.</speaker>
             <l>Ich fürchte keinen toten Oheim.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Auch keine, hoff' ich, die am Leben sind.</l>
           </sp>
@@ -4040,7 +4236,7 @@
               <l>So schimpflich Euch zu necken und verspotten?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Gewiß, gewiß: oh, 's ist ein schlimmer Bursch!</l>
@@ -4094,7 +4290,7 @@
               <l>Worin wir höchlich dich gebrauchen wollen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Empfiehl mich dem Lord William: sag ihm, Catesby,</l>
@@ -4112,7 +4308,7 @@
             <speaker>CATESBY.</speaker>
             <l>Ja, werte Lords, mit aller Achtsamkeit.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wird man von Euch vor Schlafengehn noch hören?</l>
           </sp>
@@ -4120,7 +4316,7 @@
             <speaker>CATESBY.</speaker>
             <l>Gewiß, Mylord.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>In Crosby-Hof, da findet Ihr uns beide.</l>
             <stage>Catesby ab.</stage>
@@ -4133,7 +4329,7 @@
             </lg>
           </sp>
           <pb n="844"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Den Kopf ihm abhaun, Freund: – was muß geschehn.</l>
@@ -4146,7 +4342,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Ich will mich auf Eu'r Hoheit Wort berufen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Es soll dir freundlichst zugestanden werden.</l>
@@ -4160,7 +4356,7 @@
           <head>Zweite Szene</head>
           <stage>Vor Lord Hastings Hause.</stage>
           <stage>Ein Bote tritt auf.</stage>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE</speaker>
             <stage>klopft.</stage>
             <l>Mylord! Mylord!</l>
@@ -4170,7 +4366,7 @@
             <stage>von innen.</stage>
             <l>Wer klopft?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE.</speaker>
             <l>Jemand von Lord Stanley.</l>
           </sp>
@@ -4179,7 +4375,7 @@
             <stage>von innen.</stage>
             <l>Was ist die Uhr?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE.</speaker>
             <l>Vier auf den Schlag.</l>
             <stage>Hastings tritt auf.</stage>
@@ -4188,7 +4384,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Kann nicht dein Herr die langen Nächte schlafen?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>So scheint's, nach dem, was ich zu sagen habe.</l>
@@ -4199,7 +4395,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Und dann?</l>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Und dann läßt er Euch melden, daß ihm träumte,</l>
@@ -4235,7 +4431,7 @@
               <l>Wo, du sollst sehn, der Eber freundlich sein wird.</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iii-2">
             <speaker>BOTE.</speaker>
             <l>Ich geh', Mylord, und will ihm das bestellen.</l>
             <stage>Ab.</stage>
@@ -4627,7 +4823,7 @@
             <speaker>ELY.</speaker>
             <l>Zu rechter Zeit kommt da der Herzog selbst.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ihr edlen Lords und Vetter, guten Morgen!</l>
@@ -4645,7 +4841,7 @@
               <l>Gab Eure Stimme, mein' ich, für die Krönung.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Niemand darf dreister sein als Mylord Hastings;</l>
@@ -4660,7 +4856,7 @@
             <l>Das will ich, Mylord, und von Herzen gern.</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Vetter von Buckingham, ein Wort mit Euch.</l>
             <stage>Er nimmt ihn beiseit.</stage>
@@ -4721,7 +4917,7 @@
             <stage>Gloster und Buckingham treten auf.</stage>
           </sp>
           <pb n="851"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich bitt' euch alle, sagt, was die verdienen,</l>
@@ -4739,7 +4935,7 @@
               <l>Ich sage, Mylord, sie sind wert des Tods.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Sei denn Eu'r Auge ihres Unheils Zeuge:</l>
@@ -4754,7 +4950,7 @@
             <speaker>HASTINGS.</speaker>
             <l>Wenn sie die Tat getan, mein edler Herr, –</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wenn! Du Beschützer der verdammten Metze!</l>
@@ -4826,7 +5022,7 @@
           <stage>Innerhalb der Mauern des Turms.</stage>
           <stage>Gloster und Buckingham in rostigem Harnisch und einem sehr entstellenden
             Aufzuge.</stage>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Komm, Vetter, kannst du zittern, Farbe wechseln?</l>
@@ -4848,7 +5044,7 @@
               <l>Doch sag, ist Catesby fort?</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Ja, und sieh da, er bringt den Schulzen mit.</l>
             <stage>Der Lord Mayor und Catesby treten auf.</stage>
@@ -4858,7 +5054,7 @@
             <l>Laßt mich allein ihn unterhalten. – Lord Mayor, –</l>
           </sp>
           <pb n="853"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Gebt auf die Zugbrück' acht!</l>
           </sp>
@@ -4866,7 +5062,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Horch! Eine Trommel.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Catesby, schau von der Mauer!</l>
           </sp>
@@ -4874,7 +5070,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Lord Mayor, der Grund, warum wir nach Euch sandten, –</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Sieh um dich, wehr' dich, es sind Feinde hier.</l>
           </sp>
@@ -4883,7 +5079,7 @@
             <l>Bewahr' und schirm' uns Gott und unsre Unschuld!</l>
             <stage>Ratcliff und Lovel treten auf mit Hastings Kopfe.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Sei ruhig! Freunde sind's, Ratcliff und Lovel.</l>
           </sp>
@@ -4894,7 +5090,7 @@
               <l>Des tückischen und unverdächt'gen Hastings.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich war so gut ihm, daß ich weinen muß.</l>
@@ -4924,7 +5120,7 @@
             <speaker>MAYOR.</speaker>
             <l>Wie? Hatt' er das?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Was? Denkt Ihr, wir sei'n Türken oder Heiden</l>
@@ -4971,7 +5167,7 @@
               <l>All eu'r gerecht Verfahren bei dem Fall.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wir wünschten zu dem End' Eu'r Edeln her,</l>
@@ -4987,7 +5183,7 @@
             </lg>
             <stage>Der Lord Mayor ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Geh, folg' ihm, folg' ihm, Vetter Buckingham.</l>
@@ -5025,7 +5221,7 @@
               <l>Mir selbst bestimmt wär'; und somit lebt wohl.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Wenn's Euch gelingt, bringt sie nach Baynards-Schloß,</l>
@@ -5041,7 +5237,7 @@
             </lg>
             <stage>Buckingham ab.</stage>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Geh, Lovel, ungesäumt zum Doktor Shaw; –</l>
             <stage>Zu Catesby.</stage>
@@ -5087,7 +5283,7 @@
           <head>Siebente Szene</head>
           <stage>Der Hof in Baynards-Schloß.</stage>
           <stage>Gloster und Buckingham begegnen einander.</stage>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wie steht's? Wie steht's? Was sagt die Bürgerschaft?</l>
           </sp>
@@ -5098,7 +5294,7 @@
               <l>Die Bürgerschaft ist stockstill, sagt kein Wort.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Spracht Ihr von Unechtheit der Kinder Eduards?</l>
           </sp>
@@ -5127,7 +5323,7 @@
               <l>»Gott schütze Richard, Englands großen König!«</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Und taten sie's?</l>
           </sp>
@@ -5155,7 +5351,7 @@
               <l>Und damit brach ich ab und ging davon.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Die stummen Blöcke! Wollten sie nicht sprechen?</l>
@@ -5174,7 +5370,7 @@
               <l>Tut mädchenhaft, sagt immer nein, und nehmt!</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich geh', und wenn du weißt, für sie zu sprechen,</l>
@@ -5294,7 +5490,7 @@
               <l>Der Andacht und des christlich frommen Eifers.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Mylord, es braucht nicht der Entschuldigung,</l>
@@ -5312,7 +5508,7 @@
               <l>So dieses unregierte Eiland hegt.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich sorg', ich hab' in etwas mich vergangen,</l>
@@ -5328,7 +5524,7 @@
             </lg>
           </sp>
           <pb n="860"/>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Weswegen lebt' ich sonst in Christenlanden?</l>
           </sp>
@@ -5361,7 +5557,7 @@
               <l>Für dies Gesuch Eu'r Gnaden zu bewegen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ich weiß nicht, ob stillschweigend wegzugehn,</l>
@@ -5446,7 +5642,7 @@
             <speaker>CATESBY.</speaker>
             <l>O macht sie froh, gewährt ihr bill'ges Flehn!</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Ach, warum diese Sorgen auf mich laden?</l>
@@ -5480,7 +5676,7 @@
               <l>Wenn Ihr sie abweist, wird das Land es büßen.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <lg>
               <l>Zwingt ihr mir eine Welt von Sorgen auf?</l>
@@ -5509,7 +5705,7 @@
             <speaker>MAYOR.</speaker>
             <l>Gott segn' Eu'r Gnaden! Wir sehn's und wollen's sagen.</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wenn ihr es sagt, so sagt ihr nur die Wahrheit.</l>
           </sp>
@@ -5520,7 +5716,7 @@
               <l>Lang' lebe Richard, Englands würd'ger König!</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_iii-7">
             <speaker>ALLE.</speaker>
             <l>Amen!</l>
           </sp>
@@ -5528,7 +5724,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Beliebt's Euch, daß die Krönung morgen sei?</l>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER.</speaker>
             <l>Wann's Euch beliebt, weil Ihr's so haben wollt.</l>
           </sp>
@@ -5539,7 +5735,7 @@
               <l>Und nehmen hiemit voller Freuden Abschied.</l>
             </lg>
           </sp>
-          <sp who="#gloster">
+          <sp who="#gloster_richard">
             <speaker>GLOSTER</speaker>
             <stage>zu den Bischöfen.</stage>
             <lg>
@@ -5803,7 +5999,7 @@
           <stage>Ein Staatszimmer im Palast.</stage>
           <stage>Trompetenstoß. Richard als König auf seinem Thron, Buckingham, Catesby, ein
             Edelknabe und andre.</stage>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Steht alle seitwärts. – Vetter Buckingham, –</l>
           </sp>
@@ -5811,7 +6007,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Mein gnäd'ger Fürst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Gib mir die Hand. So hoch, durch deinen Rat</l>
@@ -5824,7 +6020,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Stets leb' er, möge dauern immerdar!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ah, Buckingham! Den Prüfstein spiel' ich jetzt,</l>
@@ -5836,7 +6032,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Sprecht weiter, bester Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ei, Buckingham, ich möchte König sein.</l>
           </sp>
@@ -5844,7 +6040,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Das seid Ihr ja, mein hochberühmter Fürst.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ha! Bin ich König? Wohl, doch Eduard lebt.</l>
           </sp>
@@ -5853,7 +6049,7 @@
             <l>Wahr, edler Prinz.</l>
           </sp>
           <pb n="868"/>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>O bittre Folgerung!</l>
@@ -5868,7 +6064,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Eu'r Hoheit kann verfahren nach Belieben.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Pah, pah! Du bist wie Eis; dein Eifer friert.</l>
@@ -5889,7 +6085,7 @@
             <stage>beiseit.</stage>
             <l>Der König ist erzürnt, er beißt die Lippe.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD</speaker>
             <stage>steigt vom Thron.</stage>
             <lg>
@@ -5904,7 +6100,7 @@
             <speaker>EDELKNABE.</speaker>
             <l>Mein Fürst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Weißt du mir keinen, den bestechend Gold</l>
@@ -5920,7 +6116,7 @@
               <l>Und wird gewiß zu allem ihn versuchen.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Wie ist sein Name?</l>
           </sp>
@@ -5928,7 +6124,7 @@
             <speaker>EDELKNABE.</speaker>
             <l>Herr, sein Nam' ist Tyrrel.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ich kenne schon den Mann; geh, Bursche, hol' ihn her! –</l>
             <stage>Edelknabe ab.</stage>
@@ -5950,7 +6146,7 @@
               <l>Zum Richmond, in die Lande, wo er lebt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Catesby, komm her! Bring' ein Gerücht herum,</l>
@@ -5978,7 +6174,7 @@
             <speaker>TYRREL.</speaker>
             <l>James Tyrrel, Eu'r ergebner Untertan.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bist du das wirklich?</l>
           </sp>
@@ -5986,7 +6182,7 @@
             <speaker>TYRREL.</speaker>
             <l>Prüft mich, gnäd'ger Herr!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Schlügst du wohl einen meiner Freunde tot?</l>
           </sp>
@@ -5994,7 +6190,7 @@
             <speaker>TYRREL.</speaker>
             <l>Wie's Euch beliebt; doch lieber noch zwei Feinde.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Da triffst du's eben, zwei Erzfeinde sind's,</l>
@@ -6010,7 +6206,7 @@
               <l>So seid Ihr bald der Furcht vor ihnen los.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Du singst mir süßen Ton. Hieher komm, Tyrrel:</l>
@@ -6034,7 +6230,7 @@
               <l>Den Wunsch, um den Ihr eben mich befragtet.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Laß gut sein. Dorset ist geflohn zum Richmond.</l>
           </sp>
@@ -6042,7 +6238,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Ich höre so, mein Fürst.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Stanley, er ist Eu'r Stiefsohn. – Wohl, gebt ach!</l>
           </sp>
@@ -6055,7 +6251,7 @@
               <l>Die ich, wie Ihr verspracht, besitzen soll.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Stanley, gebt acht auf Eure Frau: befördert</l>
@@ -6066,7 +6262,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Was sagt Eu'r Hoheit auf die bill'ge Fod'rung?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Es ist mir noch im Sinn, Heinrich der Sechste</l>
@@ -6079,7 +6275,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Mein Fürst, –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wie kam's, daß der Prophet nicht damals mir,</l>
@@ -6090,7 +6286,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Mein Fürst, die mir versprochne Grafschaft –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Richmond! – Ich war letzthin in Exeter,</l>
@@ -6104,7 +6300,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Mein Fürst, –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Was ist die Uhr?</l>
           </sp>
@@ -6115,7 +6311,7 @@
               <l>An was Ihr mir verspracht.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Gut, doch was ist die Uhr?</l>
           </sp>
@@ -6123,7 +6319,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Zehn auf den Schlag.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Nun gut, so laß es schlagen.</l>
           </sp>
@@ -6132,7 +6328,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Warum es schlagen lassen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Weil zwischen deiner Bitt' und meinem Denken</l>
@@ -6144,7 +6340,7 @@
             <speaker>BUCKINGHAM.</speaker>
             <l>Nun, so erklärt Euch, ob Ihr wollt, ob nicht.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Du störst mich nur; ich bin nicht in der Laune.</l>
             <stage>Richard mit seinem Gefolge ab.</stage>
@@ -6194,7 +6390,7 @@
             <stage>Richard tritt auf.</stage>
             <l>Hier kommt er eben. – Heil, mein hoher Herr!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Freund Tyrrel, macht mich deine Zeitung glücklich?</l>
           </sp>
@@ -6206,7 +6402,7 @@
               <l>Es ist geschehn.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Doch sahst du selbst sie tot?</l>
           </sp>
@@ -6214,7 +6410,7 @@
             <speaker>TYRREL.</speaker>
             <l>Ja, Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Und auch begraben, lieber Tyrrel?</l>
           </sp>
@@ -6225,7 +6421,7 @@
               <l>Wo, weiß ich nicht, die Wahrheit zu gestehn.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Komm zu mir, Tyrrel, nach dem Abendessen,</l>
@@ -6240,7 +6436,7 @@
             <l>Zu Gnaden Euch empfohlen.</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Den Sohn des Clarence hab' ich eingesperrt,</l>
@@ -6258,7 +6454,7 @@
             <speaker>CATESBY.</speaker>
             <l>Herr, –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Gilt es gute oder schlimme Zeitung,</l>
@@ -6273,7 +6469,7 @@
               <l>Rückt in das Feld, und seine Macht nimmt zu.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ely samt Richmond drängen näher mich</l>
@@ -6553,7 +6749,7 @@
             <l>Ich höre Trommeln; spar' nicht dein Geschrei!</l>
             <stage>Richard mit seinem Zuge, auf dem Marsch.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Wer hält in meinem Zuge hier mich auf?</l>
           </sp>
@@ -6590,7 +6786,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Wo ist der gute Hastings?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ein Tusch, Trompeten! Trommeln, schlaget Lärm!</l>
@@ -6606,7 +6802,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Bist du mein Sohn?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ja, Gott gedankt sei's, Euch und meinem Vater.</l>
           </sp>
@@ -6614,7 +6810,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>So hör' geduldig meine Ungeduld!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich hab' 'ne Spur von Eurer Art, Frau Mutter,</l>
@@ -6626,7 +6822,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>O laß mich reden!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Tut's, doch hör' ich nicht.</l>
           </sp>
@@ -6634,7 +6830,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Ich will in meinen Worten milde sein.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Und, gute Mutter, kurz! Denn ich hab' Eil'.</l>
           </sp>
@@ -6645,7 +6841,7 @@
               <l>Gott weiß, in Marter und in Todesangst.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Doch kam ich endlich nicht zu Eurem Trost?</l>
           </sp>
@@ -6664,7 +6860,7 @@
               <l>Die je in deinem Beisein mich begnadigt?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Find' ich so wenig Gnad' in Euren Augen,</l>
@@ -6676,7 +6872,7 @@
             <speaker>HERZOGIN.</speaker>
             <l>Ich bitt' dich, hör' mich reden!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ihr redet allzu bitter.</l>
           </sp>
@@ -6687,7 +6883,7 @@
               <l>Denn niemals wieder werd' ich mit dir reden.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Wohl!</l>
           </sp>
@@ -6719,7 +6915,7 @@
             </lg>
             <stage>Will gehen.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bleibt, gnäd'ge Frau: ich muß ein Wort Euch sagen.</l>
           </sp>
@@ -6733,7 +6929,7 @@
               <l>Und also steh nach ihrem Leben nicht.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ein' Eurer Töchter heißt Elisabeth,</l>
@@ -6752,7 +6948,7 @@
               <l>Bekenn' ich gern, sie sei nicht Eduards Kind.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ehrt ihr Abkunft, sie ist königlich.</l>
           </sp>
@@ -6760,7 +6956,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Ich leugn' es ab, das Leben ihr zu sichern.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ihr Leben sichert die Geburt zumeist.</l>
           </sp>
@@ -6768,7 +6964,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Dadurch gesichert starben ihre Brüder.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Weil gute Sterne der Geburt gemangelt.</l>
           </sp>
@@ -6776,7 +6972,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Nein, weil ihr Leben üble Freunde hatte.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Nicht umzukehren ist des Schicksals Spruch.</l>
           </sp>
@@ -6788,7 +6984,7 @@
               <l>Hätt'st du ein schönres Leben dir erkoren.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ihr sprecht, als hätt' ich meine Vetter umgebracht.</l>
           </sp>
@@ -6812,7 +7008,7 @@
               <l>Zerscheitert wär' an deiner Felsenbrust.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>So glück' es mir bei meinem Unternehmen</l>
@@ -6828,7 +7024,7 @@
               <l>Ist zu entdecken, das mir Gutes schaffte?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Erhebung Eurer Kinder, werte Frau.</l>
           </sp>
@@ -6836,7 +7032,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Zum Blutgerüst, ihr Haupt da zu verlieren?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Nein, zu der Höh' und Würdigkeit des Glücks,</l>
@@ -6851,7 +7047,7 @@
               <l>Kannst du auf eins von meinen Kindern bringen?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Was ich nur habe; ja, mich selbst und alles</l>
@@ -6868,7 +7064,7 @@
               <l>Sonst länger dauern als die Freundschaft selbst.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>So wiss', von Herzen lieb' ich deine Tochter.</l>
           </sp>
@@ -6876,7 +7072,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Im Herzen denkt es meiner Mutter Tochter.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Was denkt Ihr?</l>
           </sp>
@@ -6888,7 +7084,7 @@
               <l>Und ich, vom Herzen, danke dir dafür.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Verwirret meine Meinung nicht so rasch:</l>
@@ -6900,7 +7096,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wohl; doch wer, meinst du, soll ihr König sein?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Nun, der zur Königin sie macht. Wer sonst?</l>
           </sp>
@@ -6908,7 +7104,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wie? Du?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ich, eben ich: was dünkt Euch, gnäd'ge Frau?</l>
           </sp>
@@ -6917,7 +7113,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wie kannst du um sie frein?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Das möcht' ich lernen</l>
@@ -6928,7 +7124,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Und willst du's von mir lernen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Herzlich gern.</l>
           </sp>
@@ -6950,7 +7146,7 @@
               <l>Der guten Tante Anna schleunig fort.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ihr spottet, gnäd'ge Frau: sie zu gewinnen</l>
@@ -6965,7 +7161,7 @@
               <l>Und nicht der Richard sein, der all dies tat.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Setzt, daß ich's nur aus Liebe zu ihr tat.</l>
           </sp>
@@ -6976,7 +7172,7 @@
               <l>Der Lieb' erkauft um solchen blut'gen Raub.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Seht, was geschehn, steht jetzo nicht zu ändern.</l>
@@ -7040,7 +7236,7 @@
               <l>Den zarten Jahren ließ' gefällig sein?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Zeig' Englands Frieden ihr in diesem Bündnis.</l>
           </sp>
@@ -7048,7 +7244,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Den sie erkaufen wird mit stetem Krieg.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sag ihr, der König, sonst gebietend, bitte.</l>
           </sp>
@@ -7056,7 +7252,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Das von ihr, was der Kön'ge Herr verbeut.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sag, sie werd' eine mächt'ge Königin.</l>
           </sp>
@@ -7064,7 +7260,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Den Titel zu bejammern, so wie ich.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sag, immerwährend lieben woll' ich sie.</l>
           </sp>
@@ -7072,7 +7268,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wie lang' wird wohl dies Wörtchen <emph>immer</emph> währen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bis an das Ende ihres holden Lebens.</l>
           </sp>
@@ -7080,7 +7276,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Wie lang' wird wohl dies süße Leben währen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>So lang' Natur und Himmel es verlängt.</l>
           </sp>
@@ -7088,7 +7284,7 @@
             <speaker>ELISABETH.</speaker>
             <l>So lang's die Höll' und Richard leiden mag.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sag, ich, ihr Herrscher sei ihr Untertan.</l>
           </sp>
@@ -7096,7 +7292,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Zwar Untertanin, haßt sie solche Herrschaft.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Zu meinem Besten sei beredt bei ihr.</l>
           </sp>
@@ -7104,7 +7300,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Ein redlich Wort macht Eindruck, schlicht gesagt.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>So sag ihr meine Lieb' in schlichten Worten.</l>
           </sp>
@@ -7112,7 +7308,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Schlicht und nicht redlich lautet allzu rauh.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Zu seicht und lebhaft sind mir Eure Gründe.</l>
           </sp>
@@ -7123,7 +7319,7 @@
               <l>Zu tief und tot, im Grab die armen Kinder.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <p>Rührt nicht <emph>die</emph> Saite mehr: das ist vorbei.</p>
           </sp>
@@ -7131,7 +7327,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Ich will sie rühren, bis das Herz mir springt.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bei meinem George, dem Knieband und der Krone –</l>
           </sp>
@@ -7139,7 +7335,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Entweiht, entehrt, die dritte angemaßt!</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Schwör' ich –</l>
           </sp>
@@ -7154,7 +7350,7 @@
               <l>So schwör' bei etwas, das du nicht gekränkt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Nun, bei der Welt –</l>
           </sp>
@@ -7162,7 +7358,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Voll deines schnöden Unrechts.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bei meines Vaters Tod –</l>
           </sp>
@@ -7171,7 +7367,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Dein Leben schmäht ihn.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Dann bei mir selbst –</l>
           </sp>
@@ -7179,7 +7375,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Dein Selbst ist selbst geschändet.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Beim Himmel –</l>
           </sp>
@@ -7199,7 +7395,7 @@
               <l>Wobei nun kannst du schwören?</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bei der künft'gen Zeit.</l>
           </sp>
@@ -7219,7 +7415,7 @@
               <l>Durch die vergangne Zeit, die du mißhandelt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>So wahr ich sinn' auf Wohlfahrt und auf Reu',</l>
@@ -7250,7 +7446,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Soll ich vom Teufel so mich locken lassen?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ja, wenn der Teufel dich zum Guten lockt.</l>
           </sp>
@@ -7258,7 +7454,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Soll ich denn selbst vergessen meiner selbst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Wenn Eurer selbst gedenken selbst Euch schadet.</l>
           </sp>
@@ -7266,7 +7462,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Du brachtest meine Kinder um.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>In Eurer Tochter Schoß begrab' ich sie;</l>
@@ -7278,7 +7474,7 @@
             <speaker>ELISABETH.</speaker>
             <l>Soll ich die Tochter zu gewinnen gehn?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Und seid beglückte Mutter durch die Tat.</l>
           </sp>
@@ -7289,7 +7485,7 @@
               <l>Und Ihr vernehmt von mir, wie sie gesinnt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Bringt meinen Liebeskuß ihr, und lebt wohl!</l>
             <stage>Küßt sie. Elisabeth ab.</stage>
@@ -7311,7 +7507,7 @@
               <l>Erwartend nur, am Strand sie zu empfangen.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ein flinker Freund soll hin zum Herzog Norfolk:</l>
@@ -7323,7 +7519,7 @@
             <speaker>CATESBY.</speaker>
             <l>Hier, bester Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Catesby, flieg' hin zum Herzog.</l>
           </sp>
@@ -7331,7 +7527,7 @@
             <speaker>CATESBY.</speaker>
             <l>Das will ich, Herr, mit aller nöt'gen Eil'.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ratcliff, komm her. Reit' hin nach Salisbury:</l>
@@ -7348,7 +7544,7 @@
               <l>Was ich von Euer Hoheit ihm soll melden.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wahr, guter Catesby! Gleich aufbringen soll er</l>
@@ -7365,7 +7561,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Was soll ich, wenn's beliebt, zu Salisbury?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ei, was hast du zu tun da, eh' ich komme?</l>
           </sp>
@@ -7374,7 +7570,7 @@
             <l>Eu'r Hoheit sagte mir, voraus zu reiten.</l>
             <stage>Stanley tritt auf.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ich bin itzt andern Sinns. – Stanley, was bringst du Neues?</l>
           </sp>
@@ -7385,7 +7581,7 @@
               <l>Noch auch so schlimm, daß man's nicht melden dürfte.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Heida, ein Rätsel! weder gut noch schlimm!</l>
@@ -7398,7 +7594,7 @@
             <speaker>STANLEY.</speaker>
             <l>Richmond ist auf der See.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Versänk' er da, und wär' die See auf ihm!</l>
@@ -7409,7 +7605,7 @@
             <speaker>STANLEY.</speaker>
             <l>Ich weiß nicht, mächt'ger Fürst, und kann nur raten.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Nun, und Ihr ratet?</l>
           </sp>
@@ -7420,7 +7616,7 @@
               <l>Kommt er nach England und begehrt die Krone.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ist der Stuhl ledig? ungeführt das Schwert?</l>
@@ -7435,7 +7631,7 @@
             <speaker>STANLEY.</speaker>
             <l>Es sei denn dazu, Herr, kann ich's nicht raten.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Es sei denn, daß er komm, Eu'r Fürst zu sein,</l>
@@ -7447,7 +7643,7 @@
             <speaker>STANLEY.</speaker>
             <l>Nein, mächt'ger Fürst; mißtraut mir also nicht.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wo ist dein Volk denn, ihn zurückzuschlagen?</l>
@@ -7460,7 +7656,7 @@
             <speaker>STANLEY.</speaker>
             <l>Nein, meine Freunde sind im Norden, bester Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Mir kalte Freunde: was tun die im Norden,</l>
@@ -7476,7 +7672,7 @@
               <l>Wo es und wann Eu'r Majestät beliebt.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ja, ja, du möchtest gern zu Richmond stoßen:</l>
@@ -7491,7 +7687,7 @@
               <l>Ich war und werde nimmer treulos sein.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Geht denn, mustert Volk. Doch, hört Ihr, laßt zurück</l>
@@ -7504,7 +7700,7 @@
             <l>Verfahrt mit ihm, wie ich mich treu bewähre.</l>
             <stage>Stanley ab. Ein Bote tritt auf.</stage>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_iv-4">
             <speaker>BOTE.</speaker>
             <lg>
               <l>Mein gnäd'ger Fürst, es sind in Devonshire,</l>
@@ -7529,7 +7725,7 @@
             <speaker>DRITTER BOTE.</speaker>
             <l>Mein Fürst, das Heer des großen Buckingham –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Fort mit euch, Uhus! Nichts als Todeslieder?</l>
             <stage>Er schlägt den Boten.</stage>
@@ -7545,7 +7741,7 @@
               <l>Wohin, weiß niemand.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Oh, ich bitt', entschuldigt!</l>
@@ -7574,7 +7770,7 @@
               <l>Zog Segel auf und steu'rte nach Bretagne.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ins Feld! ins Feld! weil wir in Waffen sind:</l>
@@ -7592,7 +7788,7 @@
               <l>Klingt minder gut, doch will's gemeldet sein.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wohlauf, nach Salisbury! Indes wir schwatzen,</l>
@@ -7772,7 +7968,7 @@
           <stage>Das Feld bei Bosworth.</stage>
           <stage>König Richard mit Mannschaft; Herzog von Norfolk, Graf von Surrey und
             andre.</stage>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Hier schlagt die Zelt' auf, hier im Feld bei Bosworth. –</l>
@@ -7783,7 +7979,7 @@
             <speaker>SURREY.</speaker>
             <l>Mein Herz ist zehnmal heitrer als mein Blick.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Mylord von Norfolk, –</l>
           </sp>
@@ -7791,7 +7987,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Hier, mein gnäd'ger Fürst.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Norfolk, hier gilt es Schläge: ha, nicht wahr?</l>
           </sp>
@@ -7799,7 +7995,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Man gibt und nimmt sie, mein gewogner Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Schlagt auf mein Zelt: hier will ich ruhn zu Nacht.</l>
             <stage>Soldaten fangen an, des Königs Zelt aufzuschlagen.</stage>
@@ -7812,7 +8008,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Sechs, sieben Tausend ist die ganze Macht.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ei, unser Heer verdreifacht den Belauf.</l>
@@ -7828,8 +8024,8 @@
             <stage>An der andern Seite des Feldes treten auf Richmond, Sir William Brandon, Oxford
               und andre Herren. Einige Soldaten schlagen Richmonds Zelt auf.</stage>
           </sp>
-          <sp who="#richmomd">
-            <speaker>RICHMOMD.</speaker>
+          <sp who="#richmond">
+            <speaker>RICHMOND.</speaker>
             <lg>
               <l>Die müde Sonne ging so golden unter,</l>
               <l>Und, nach des Feuerwagens lichter Spur,</l>
@@ -7884,7 +8080,7 @@
             <stage>Sie begeben sich in das Zelt.</stage>
             <stage>König Richard geht zu seinem Zelte mit Norfolk, Ratcliff vnd Catesby.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Was ist die Uhr?</l>
           </sp>
@@ -7895,7 +8091,7 @@
               <l>Es ist neun Uhr.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich will zu Nacht nicht essen. –</l>
@@ -7908,7 +8104,7 @@
             <speaker>CATESBY.</speaker>
             <l>Ja, gnäd'ger Herr; 's ist alles in Bereitschaft.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Mach', guter Norfolk, dich auf deinen Posten,</l>
@@ -7919,7 +8115,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Ich gehe, Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sei mit der Lerche munter, lieber Norfolk.</l>
           </sp>
@@ -7928,7 +8124,7 @@
             <l>Verlaßt Euch drauf, mein Fürst.</l>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ratcliff, –</l>
           </sp>
@@ -7937,7 +8133,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Mein Fürst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Send' einen Waffenherold</l>
@@ -7954,7 +8150,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Mein Fürst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Sahst du den melanchol'schen Lord Northumberland?</l>
           </sp>
@@ -7966,7 +8162,7 @@
               <l>Von Schar zu Schar ermunternd unsre Leute.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Das g'nügt mir. Gebt mir einen Becher Weins. –</l>
@@ -7979,7 +8175,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Ja, gnäd'ger Herr.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Heißt meine Schildwacht munter sein; verlaßt mich.</l>
@@ -8053,7 +8249,7 @@
             <stage>Der Geist des Prinzen Eduard, Sohnes Heinrichs des VI., steigt zwischen den
               beiden Zelten auf.</stage>
           </sp>
-          <sp who="#geist">
+          <sp who="#geist_des_prinzen_eduard">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8068,7 +8264,7 @@
             </lg>
             <stage>Der Geist König Heinrichs VI. steigt auf.</stage>
           </sp>
-          <sp who="#geist">
+          <sp who="#geist_koenig_heinrichs">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8083,7 +8279,7 @@
             </lg>
             <stage>Der Geist des Clarence steigt auf.</stage>
           </sp>
-          <sp who="#geist">
+          <sp who="#geist_des_clarence">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8099,7 +8295,7 @@
             </lg>
             <stage>Die Geister des Rivers, Grey und Vaughan steigen auf.</stage>
           </sp>
-          <sp who="#rivers">
+          <sp who="#geist_des_rivers">
             <speaker>RIVERS</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8107,12 +8303,12 @@
               <l>Rivers, der starb zu Pomfret! Verzweifl' und stirb!</l>
             </lg>
           </sp>
-          <sp who="#grey">
+          <sp who="#geist_des_grey">
             <speaker>GREY</speaker>
             <stage>zu König Richard.</stage>
             <l>Gedenk' an Grey, und laß die Seel' verzweifeln!</l>
           </sp>
-          <sp who="#vaughan">
+          <sp who="#geist_des_vaughan">
             <speaker>VAUGHAN</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8120,7 +8316,7 @@
               <l>Vor schuldbewußter Furcht! Verzweifl' und stirb!</l>
             </lg>
           </sp>
-          <sp who="#alle_drei">
+          <sp who="#geist_des_rivers #geist_des_grey #geist_des_vaughan">
             <speaker>ALLE DREI</speaker>
             <stage>zu Richmond.</stage>
             <lg>
@@ -8130,7 +8326,7 @@
             <stage>Der Geist des Hastings steigt auf.</stage>
           </sp>
           <pb n="897"/>
-          <sp who="#geist">
+          <sp who="#geist_des_hastings">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8143,7 +8339,7 @@
             </lg>
             <stage>Die Geister der beiden jungen Prinzen steigen auf.</stage>
           </sp>
-          <sp who="#geister">
+          <sp who="#geister_der_beiden_jungen_prinzen">
             <speaker>GEISTER</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8160,7 +8356,7 @@
             </lg>
             <stage>Der Geist der Prinzessin Anna steigt auf.</stage>
           </sp>
-          <sp who="#geist">
+          <sp who="#geist_der_prinzessin_anna">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8176,7 +8372,7 @@
             </lg>
             <stage>Buckinghams Geist steigt auf.</stage>
           </sp>
-          <sp who="#geist">
+          <sp who="#buckinghams_geist">
             <speaker>GEIST</speaker>
             <stage>zu König Richard.</stage>
             <lg>
@@ -8195,7 +8391,7 @@
             </lg>
             <stage>Die Geister verschwinden. König Richard fährt aus seinen Träumen auf.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ein andres Pferd! Verbindet meine Wunden! –</l>
@@ -8235,7 +8431,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Mein Fürst, –</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Wer ist da?</l>
           </sp>
@@ -8248,7 +8444,7 @@
               <l>Sind auf und schnallen ihre Rüstung an.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>O Ratcliff, ich hatt' einen furchtbar'n Traum! –</l>
@@ -8259,7 +8455,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Gewiß, mein Fürst.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>O Ratcliff! Ich fürcht', ich fürchte, –</l>
           </sp>
@@ -8267,7 +8463,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Nein, bester Herr, entsetzt Euch nicht vor Schatten.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Bei dem Apostel Paul! Es warfen Schatten</l>
@@ -8357,7 +8553,7 @@
             <stage>Alle ab.</stage>
             <stage>König Richard und Ratcliff kommen zurück, mit Gefolge und Truppen.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Was hat Northumberland gesagt vom Richmond?</l>
           </sp>
@@ -8365,7 +8561,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Er sei nicht auferzogen bei den Waffen.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Er sagte wahr. Was sagte Surrey drauf?</l>
           </sp>
@@ -8374,7 +8570,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Er lächelte und sprach: »Um desto besser.«</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Er hatte recht, so ist es in der Tat.</l>
             <stage>Die Glocke schlägt.</stage>
@@ -8387,7 +8583,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Ich nicht, mein Fürst.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>So weigert sie den Schein, denn nach dem Buch</l>
@@ -8400,7 +8596,7 @@
             <speaker>RATCLIFF.</speaker>
             <l>Mein Fürst?</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Die Sonne läßt sich heut nicht sehn;</l>
@@ -8416,7 +8612,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Auf, auf, mein Fürst! Der Feind stolziert im Feld.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Kommt, tummelt, tummelt euch! Mein Pferd gezäumt! –</l>
@@ -8443,7 +8639,7 @@
             <stage>Gibt ihm einen Zettel.</stage>
           </sp>
           <pb n="902"/>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD</speaker>
             <stage>liest:</stage>
             <lg>
@@ -8493,11 +8689,11 @@
               <l>Was sagt Lord Stanley? Bringt er seine Schar?</l>
             </lg>
           </sp>
-          <sp who="#bote">
+          <sp who="#bote_v-5">
             <speaker>BOTE.</speaker>
             <l>Mein Fürst, er weigert sich zu kommen.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Herunter mit dem Kopfe seines Sohns!</l>
           </sp>
@@ -8508,7 +8704,7 @@
               <l>Erst nach dem Treffen laßt George Stanley sterben.</l>
             </lg>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Wohl tausend Herzen schwellen mir im Busen:</l>
@@ -8536,7 +8732,7 @@
             </lg>
             <stage>Getümmel. König Richard tritt auf.</stage>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <l>Ein Pferd! ein Pferd! mein Königreich für 'n Pferd!</l>
           </sp>
@@ -8544,7 +8740,7 @@
             <speaker>CATESBY.</speaker>
             <l>Herr, weicht zurück! Ich helf' Euch an ein Pferd.</l>
           </sp>
-          <sp who="#richard">
+          <sp who="#gloster_richard">
             <speaker>RICHARD.</speaker>
             <lg>
               <l>Ich setzt' auf einen Wurf mein Leben, Knecht,</l>

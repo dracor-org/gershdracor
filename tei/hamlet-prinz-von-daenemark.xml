@@ -74,7 +74,7 @@
             <persName>Marcellus</persName>
           </person>
           <person xml:id="koenig" sex="MALE">
-            <persName>König</persName>
+            <persName>Claudius, König von Dänemark</persName>
           </person>
           <person xml:id="cornelius" sex="MALE">
             <persName>Cornelius</persName>
@@ -92,13 +92,13 @@
             <persName>Hamlet</persName>
           </person>
           <person xml:id="koenigin" sex="FEMALE">
-            <persName>Königin</persName>
+            <persName>Gertrude, Königin von Dänemark</persName>
           </person>
           <person xml:id="ophelia" sex="FEMALE">
             <persName>Ophelia</persName>
           </person>
           <person xml:id="geist" sex="MALE">
-            <persName>Geist</persName>
+            <persName>Der Geist von Hamlets Vater</persName>
           </person>
           <person xml:id="reinhold" sex="MALE">
             <persName>Reinhold</persName>
@@ -128,22 +128,22 @@
             <persName>Fortinbras</persName>
           </person>
           <person xml:id="hauptmann" sex="MALE">
-            <persName>Hauptmann</persName>
+            <persName>Ein Hauptmann</persName>
           </person>
           <person xml:id="edelmann_iv-5" sex="MALE">
-            <persName>Edelmann (IV/5)</persName>
+            <persName>Ein Edelmann (IV/5)</persName>
           </person>
           <personGrp xml:id="daenen" sex="MALE">
             <name>Dänen</name>
           </personGrp>
           <person xml:id="diener" sex="MALE">
-            <persName>Diener</persName>
+            <persName>Ein Diener</persName>
           </person>
           <person xml:id="erster_matrose" sex="MALE">
             <persName>Erster Matrose</persName>
           </person>
           <person xml:id="bote" sex="MALE">
-            <persName>Bote</persName>
+            <persName>Ein Bote</persName>
           </person>
           <person xml:id="erster_totengraeber" sex="MALE">
             <persName>Erster Totengräber</persName>
@@ -152,7 +152,7 @@
             <persName>Zweiter Totengräber</persName>
           </person>
           <person xml:id="priester" sex="MALE">
-            <persName>Priester</persName>
+            <persName>Ein Priester</persName>
           </person>
           <personGrp xml:id="gefolge" sex="UNKNOWN">
             <name>Gefolge</name>
@@ -161,7 +161,7 @@
             <persName>Osrick</persName>
           </person>
           <person xml:id="edelmann_v-2" sex="MALE">
-            <persName>Edelmann (V/2)</persName>
+            <persName>Ein Edelmann (V/2)</persName>
           </person>
           <personGrp xml:id="herren_vom_hofe" sex="MALE">
             <name>Herren vom Hofe</name>

@@ -43,16 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Othello</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="389" to="496">389–496</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Othello</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+              Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
+              <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="389" to="496">389–496</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -64,6 +60,91 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="rodrigo" sex="MALE">
+            <persName>Rodrigo</persName>
+          </person>
+          <person xml:id="jago" sex="MALE">
+            <persName>Jago</persName>
+          </person>
+          <person xml:id="brabantio" sex="MALE">
+            <persName>Brabantio</persName>
+          </person>
+          <person xml:id="othello" sex="MALE">
+            <persName>Othello</persName>
+          </person>
+          <person xml:id="cassio" sex="MALE">
+            <persName>Cassio</persName>
+          </person>
+          <person xml:id="gerichtsdiener" sex="MALE">
+            <persName>Gerichtsdiener</persName>
+          </person>
+          <person xml:id="herzog" sex="MALE">
+            <persName>Herzog von Venedig</persName>
+          </person>
+          <person xml:id="erster_senator" sex="MALE">
+            <persName>Erster Senator</persName>
+          </person>
+          <person xml:id="zweiter_senator" sex="MALE">
+            <persName>Zweiter Senator</persName>
+          </person>
+          <person xml:id="matrose" sex="MALE">
+            <persName>Matrose</persName>
+          </person>
+          <person xml:id="beamter" sex="MALE">
+            <persName>Ein Beamter</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Ein Bote</persName>
+          </person>
+          <personGrp xml:id="alle_i-3" sex="MALE">
+            <name>Alle (I/3)</name>
+          </personGrp>
+          <person xml:id="desdemona" sex="FEMALE">
+            <persName>Desdemona</persName>
+          </person>
+          <person xml:id="montano" sex="MALE">
+            <persName>Montano</persName>
+          </person>
+          <person xml:id="erster_edelmann" sex="MALE">
+            <persName>Erster Edelmann</persName>
+          </person>
+          <person xml:id="zweiter_edelmann" sex="MALE">
+            <persName>Zweiter Edelmann</persName>
+          </person>
+          <person xml:id="dritter_edelmann" sex="MALE">
+            <persName>Dritter Edelmann</persName>
+          </person>
+          <person xml:id="emilia" sex="FEMALE">
+            <persName>Emilia</persName>
+          </person>
+          <person xml:id="herold" sex="MALE">
+            <persName>Ein Herold</persName>
+          </person>
+          <personGrp xml:id="alle_ii-3" sex="UNKNOWN">
+            <name>Alle (II/3)</name>
+          </personGrp>
+          <person xml:id="narr" sex="MALE">
+            <persName>Narr</persName>
+          </person>
+          <personGrp xml:id="musikanten" sex="MALE">
+            <name>Musikanten</name>
+          </personGrp>
+          <personGrp xml:id="edelleute" sex="MALE">
+            <name>Edelleute</name>
+          </personGrp>
+          <person xml:id="bianca" sex="FEMALE">
+            <persName>Bianca</persName>
+          </person>
+          <person xml:id="lodovico" sex="MALE">
+            <persName>Lodovico</persName>
+          </person>
+          <person xml:id="gratiano" sex="MALE">
+            <persName>Gratiano</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -79,7 +160,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000030" passive="http://www.wikidata.org/entity/Q26833"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000030"
+        passive="http://www.wikidata.org/entity/Q26833"/>
     </listRelation>
   </standOff>
   <text>
@@ -983,7 +1065,7 @@
               <l>Hieher berief.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_i-3">
             <speaker>ALLE.</speaker>
             <l>Das tut uns herzlich leid.</l>
           </sp>
@@ -1232,7 +1314,8 @@
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Der Türke segelt mit gewaltiger Kriegsrüstung gegen Cypern. Othello, Euch ist die
-              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb n="407"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
+              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb
+                n="407"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
               Meinung, jene unbeschränkte Gebieterin des Erfolgs, eine größere Zuversicht zu Euch.
               Ihr müßt Euch deshalb gefallen lassen, den Glanz Eures neuen Glücks durch diese rauhe
               und stürmische Unternehmung zu verdunkeln.</p>
@@ -1701,8 +1784,8 @@
               <l>Gedrängt das Volk, man ruft: »ein Schiff! ein Schiff!«</l>
             </lg>
           </sp>
-          <sp who="#casio">
-            <speaker>CASIO.</speaker>
+          <sp who="#cassio">
+            <speaker>CASSIO.</speaker>
             <l>Mein Hoffen wähnt, es sei der Gouverneur.</l>
             <stage>Man hört Schüsse.</stage>
           </sp>
@@ -1713,8 +1796,8 @@
               <l>Zum mind'sten Freunde sind's.</l>
             </lg>
           </sp>
-          <sp who="#casio">
-            <speaker>CASIO.</speaker>
+          <sp who="#cassio">
+            <speaker>CASSIO.</speaker>
             <lg>
               <l>Ich bitt' Euch, Herr,</l>
               <l>Geht, bringt uns sichre Nachricht, wer gelandet!</l>
@@ -1729,8 +1812,8 @@
             <speaker>MONTANO.</speaker>
             <l>Sagt, Leutnant, ist der General vermählt?</l>
           </sp>
-          <sp who="#casio">
-            <speaker>CASIO.</speaker>
+          <sp who="#cassio">
+            <speaker>CASSIO.</speaker>
             <lg>
               <l>Ja, äußerst glücklich. Er gewann ein Fräulein,</l>
               <l>Das jeden schwärmerischen Preis erreicht,</l>
@@ -2481,7 +2564,7 @@
               – dies meine linke Hand – ich bin also nicht betrunken; ich stehe noch ziemlich gut,
               und spreche noch ziemlich gut.</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_ii-3">
             <speaker>ALLE.</speaker>
             <p>Außerordentlich gut.</p>
           </sp>
@@ -5956,8 +6039,8 @@
             <speaker>DESDEMONA.</speaker>
             <l>Dein Weib, mein Gatte, dein pflichtgetreues Weib.</l>
           </sp>
-          <sp who="#hello">
-            <speaker>HELLO.</speaker>
+          <sp who="#othello">
+            <speaker>OTHELLO.</speaker>
             <lg>
               <l>Komm, schwör's, verdamm' dich selbst, daß nicht die Teufel,</l>
               <l>Geschreckt von deiner Engelbildung, zittern,</l>
@@ -7649,8 +7732,8 @@
             <l>Du hört'st es von ihr selbst, ich tat es nicht.</l>
           </sp>
           <pb n="489"/>
-          <sp who="#emila">
-            <speaker>EMILA.</speaker>
+          <sp who="#emilia">
+            <speaker>EMILIA.</speaker>
             <l>So sagte sie: so muß ich's treu berichten.</l>
           </sp>
           <sp who="#othello">
@@ -7849,7 +7932,7 @@
               <l>In ihrem Bett liegt meine Frau ermordet.</l>
             </lg>
           </sp>
-          <sp who="#alle">
+          <sp who="#montano #gratiano #jago">
             <speaker>ALLE.</speaker>
             <l>Oh, Gott verhüt' es!</l>
           </sp>

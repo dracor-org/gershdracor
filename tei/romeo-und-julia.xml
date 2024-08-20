@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Romeo und Julia</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="83" to="178">83–178</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Romeo und Julia</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
+            Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="83" to="178">83–178</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -96,16 +92,16 @@
             <persName>Gräfin Montague</persName>
           </person>
           <person xml:id="prinz" sex="MALE">
-            <persName>Prinz</persName>
+            <persName>Escalus, Prinz von Verona</persName>
           </person>
           <person xml:id="romeo" sex="MALE">
             <persName>Romeo</persName>
           </person>
           <person xml:id="paris" sex="MALE">
-            <persName>Paris</persName>
+            <persName>Graf Paris</persName>
           </person>
           <person xml:id="der_bediente_i-2" sex="MALE">
-            <persName>Der Bediente (I/2)</persName>
+            <persName>Ein Bedienter (I/2)</persName>
           </person>
           <person xml:id="waerterin" sex="FEMALE">
             <persName>Wärterin</persName>
@@ -114,7 +110,7 @@
             <persName>Julia</persName>
           </person>
           <person xml:id="der_bediente_i-3" sex="MALE">
-            <persName>Der Bediente (I/3)</persName>
+            <persName>Ein Bedienter (I/3)</persName>
           </person>
           <person xml:id="mercutio" sex="MALE">
             <persName>Mercutio</persName>
@@ -132,10 +128,10 @@
             <persName>Zweiter Capulet</persName>
           </person>
           <person xml:id="der_bediente_i-5" sex="MALE">
-            <persName>Der Bediente (I/5)</persName>
+            <persName>Ein Bedienter (I/5)</persName>
           </person>
           <person xml:id="lorenzo" sex="MALE">
-            <persName>Lorenzo</persName>
+            <persName>Bruder Lorenzo</persName>
           </person>
           <person xml:id="peter" sex="MALE">
             <persName>Peter</persName>
@@ -144,7 +140,7 @@
             <persName>Ein Bürger (III/1)</persName>
           </person>
           <person xml:id="bedienter_iv-2" sex="MALE">
-            <persName>Bedienter (IV/2)</persName>
+            <persName>Ein Bedienter (IV/2)</persName>
           </person>
           <person xml:id="erster_bediente_iv-4" sex="MALE">
             <persName>Erster Bediente (IV/3)</persName>
@@ -165,13 +161,13 @@
             <persName>Balthasar</persName>
           </person>
           <person xml:id="apotheker" sex="MALE">
-            <persName>Apotheker</persName>
+            <persName>Ein Apotheker</persName>
           </person>
           <person xml:id="marcus" sex="MALE">
-            <persName>Marcus</persName>
+            <persName>Bruder Marcus</persName>
           </person>
           <person xml:id="page" sex="MALE">
-            <persName>Page</persName>
+            <persName>Ein Page des Paris</persName>
           </person>
           <personGrp xml:id="waechter" sex="MALE">
             <name>Wächter</name>
@@ -202,7 +198,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000032" passive="http://www.wikidata.org/entity/Q83186"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000032"
+        passive="http://www.wikidata.org/entity/Q83186"/>
     </listRelation>
   </standOff>
   <text>

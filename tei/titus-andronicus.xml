@@ -43,17 +43,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Titus Andronicus</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="5" to="82">5–82</biblScope>.
-          </bibl>
+            <author>William Shakespeare</author>: <title level="a">Titus Andronicus</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
+            Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="5" to="82">5–82</biblScope>. </bibl>
         </bibl>
       </sourceDesc>
       <notesStmt>
@@ -76,10 +71,10 @@
             <persName>Marcus Andronicus</persName>
           </person>
           <person xml:id="hauptmann" sex="MALE">
-            <persName>Hauptmann</persName>
+            <persName>Ein Hauptmann</persName>
           </person>
           <person xml:id="titus" sex="MALE">
-            <persName>Titus</persName>
+            <persName>Titus Andronicus</persName>
           </person>
           <person xml:id="lucius" sex="MALE">
             <persName>Lucius</persName>
@@ -109,19 +104,19 @@
             <persName>Aaron</persName>
           </person>
           <person xml:id="bote" sex="MALE">
-            <persName>Bote</persName>
+            <persName>Ein Bote</persName>
           </person>
           <person xml:id="knabe" sex="MALE">
-            <persName>Knabe</persName>
+            <persName>Der jüngere Lucius, ein Knabe</persName>
           </person>
           <person xml:id="waerterin" sex="FEMALE">
-            <persName>Wärterin</persName>
+            <persName>Eine Wärterin</persName>
           </person>
           <person xml:id="publius" sex="MALE">
             <persName>Publius</persName>
           </person>
           <person xml:id="bauer" sex="MALE">
-            <persName>Bauer</persName>
+            <persName>Ein Bauer</persName>
           </person>
           <person xml:id="aemilius" sex="MALE">
             <persName>Ämilius</persName>
@@ -167,7 +162,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000034" passive="http://www.wikidata.org/entity/Q272169"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000034"
+        passive="http://www.wikidata.org/entity/Q272169"/>
     </listRelation>
   </standOff>
   <text>
@@ -182,8 +178,7 @@
       <pb n="6"/>
       <castList>
         <head>Personen</head>
-        <castItem>Saturninus, Sohn des letzten römischen Kaisern, späterhin selbst
-          Kaiser</castItem>
+        <castItem>Saturninus, Sohn des letzten römischen Kaisern, späterhin selbst Kaiser</castItem>
         <castItem>Bassianus, dessen Bruder, Liebhaber der Lavinia</castItem>
         <castItem>Titus Andronicus, ein edler Kölner und Heerführer wider die Goten</castItem>
         <castItem>Marcus Andronicus, Volkstribun, des Titus Bruder</castItem>
