@@ -41,16 +41,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Timon von Athen</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">4</biblScope>: Tragödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="915" to="993">915–993</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Timon von Athen</title>. In:
+              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
+            Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="915" to="993">915–993</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -62,6 +58,244 @@
       </notesStmt>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="dichter" sex="MALE">
+            <persName>Ein Dichter</persName>
+          </person>
+          <person xml:id="maler" sex="MALE">
+            <persName>Ein Maler</persName>
+          </person>
+          <person xml:id="kaufmann" sex="MALE">
+            <persName>Ein Kaufmann</persName>
+          </person>
+          <person xml:id="juwelier" sex="MALE">
+            <persName>Ein Juwelier</persName>
+          </person>
+          <person xml:id="timon" sex="MALE">
+            <persName>Timon</persName>
+          </person>
+          <person xml:id="ein_diener_des_ventidius" sex="MALE">
+            <persName>Ein Diener des Ventidius</persName>
+          </person>
+          <person xml:id="athenienser" sex="MALE">
+            <persName>Ein alter Athenienser</persName>
+          </person>
+          <person xml:id="lucilius" sex="MALE">
+            <persName>Lucilius</persName>
+          </person>
+          <person xml:id="apemantus" sex="MALE">
+            <persName>Apemantus</persName>
+          </person>
+          <person xml:id="diener_i-1" sex="MALE">
+            <persName>Ein Diener (I/1)</persName>
+          </person>
+          <person xml:id="alcibiades" sex="MALE">
+            <persName>Alcibiades</persName>
+          </person>
+          <person xml:id="erster_lord_i-1" sex="MALE">
+            <persName>Erster Lord (I/1)</persName>
+          </person>
+          <person xml:id="zweiter_lord_i-1" sex="MALE">
+            <persName>Zweiter Lord (I/1)</persName>
+          </person>
+          <person xml:id="ventidius" sex="MALE">
+            <persName>Ventidius</persName>
+          </person>
+          <person xml:id="erster_lord_i-2" sex="MALE">
+            <persName>Erster Lord (I/2)</persName>
+          </person>
+          <person xml:id="zweiter_lord_i-2" sex="MALE">
+            <persName>Zweiter Lord (I/2)</persName>
+          </person>
+          <person xml:id="dritter_lord_i-2" sex="MALE">
+            <persName>Dritter Lord (I/2)</persName>
+          </person>
+          <person xml:id="diener_i-2a" sex="MALE">
+            <persName>Ein Diener (I/2)</persName>
+          </person>
+          <person xml:id="cupido" sex="MALE">
+            <persName>Cupido</persName>
+          </person>
+          <person xml:id="erste_dame" sex="FEMALE">
+            <persName>Erste Dame</persName>
+          </person>
+          <personGrp xml:id="damen" sex="FEMALE">
+            <name>Damen</name>
+          </personGrp>
+          <person xml:id="flavius" sex="MALE">
+            <persName>Flavius</persName>
+          </person>
+          <person xml:id="diener_i-2b" sex="MALE">
+            <persName>Ein Diener (I/2)</persName>
+          </person>
+          <personGrp xml:id="alle_lords" sex="MALE">
+            <name>Alle/Alle Lords</name>
+          </personGrp>
+          <person xml:id="zweiter_diener_i-2" sex="MALE">
+            <persName>Zweiter Diener (I/2)</persName>
+          </person>
+          <person xml:id="dritter_diener_i-2" sex="MALE">
+            <persName>Dritter Diener (I/2)</persName>
+          </person>
+          <person xml:id="vierter_diener_i-2" sex="MALE">
+            <persName>Vierter Diener (I/2)</persName>
+          </person>
+          <person xml:id="senator" sex="MALE">
+            <persName>Ein Senator</persName>
+          </person>
+          <person xml:id="caphis" sex="MALE">
+            <persName>Caphis</persName>
+          </person>
+          <person xml:id="varros_diener" sex="MALE">
+            <persName>Varros Diener</persName>
+          </person>
+          <person xml:id="isidors_diener" sex="MALE">
+            <persName>Isidors Diener</persName>
+          </person>
+          <person xml:id="narr" sex="MALE">
+            <persName>Ein Narr</persName>
+          </person>
+          <person xml:id="page" sex="MALE">
+            <persName>Ein Page</persName>
+          </person>
+          <personGrp xml:id="die_diener" sex="MALE">
+            <name>Andre Diener</name>
+          </personGrp>
+          <person xml:id="flaminius" sex="MALE">
+            <persName>Flaminius</persName>
+          </person>
+          <person xml:id="diener_iii-1" sex="MALE">
+            <persName>Ein Diener (III/1)</persName>
+          </person>
+          <person xml:id="lucullus" sex="MALE">
+            <persName>Lucullus</persName>
+          </person>
+          <person xml:id="lucius" sex="MALE">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="erster_fremder" sex="MALE">
+            <persName>Erster Fremder</persName>
+          </person>
+          <person xml:id="zweiter_fremder" sex="MALE">
+            <persName>Zweiter Fremder</persName>
+          </person>
+          <person xml:id="servilius" sex="MALE">
+            <persName>Servilius</persName>
+          </person>
+          <person xml:id="dritter_fremder" sex="MALE">
+            <persName>Dritter Fremder</persName>
+          </person>
+          <person xml:id="sempronius" sex="MALE">
+            <persName>Sempronius</persName>
+          </person>
+          <person xml:id="diener_iii-3" sex="MALE">
+            <persName>Ein Diener (III/3)</persName>
+          </person>
+          <person xml:id="varros_erster_diener" sex="MALE">
+            <persName>Varros erster Diener</persName>
+          </person>
+          <person xml:id="titus" sex="MALE">
+            <persName>Titus</persName>
+          </person>
+          <person xml:id="hortensius" sex="MALE">
+            <persName>Hortensius</persName>
+          </person>
+          <person xml:id="lucius_diener" sex="MALE">
+            <persName>Lucius' Diener</persName>
+          </person>
+          <person xml:id="philotus" sex="MALE">
+            <persName>Philotus</persName>
+          </person>
+          <person xml:id="varros_zweiter_diener" sex="MALE">
+            <persName>Varros zweiter Diener</persName>
+          </person>
+          <person xml:id="erster_senator_iii-5" sex="MALE">
+            <persName>Erster Senator (III/5)</persName>
+          </person>
+          <person xml:id="zweiter_senator_iii-5" sex="MALE">
+            <persName>Zweiter Senator (III/5)</persName>
+          </person>
+          <person xml:id="dritter_senator_iii-5" sex="MALE">
+            <persName>Dritter Senator (III/5)</persName>
+          </person>
+          <person xml:id="erster_lord_iii-6" sex="MALE">
+            <persName>Erster Lord (III/6)</persName>
+          </person>
+          <person xml:id="zweiter_lord_iii-6" sex="MALE">
+            <persName>Zweiter Lord (III/6)</persName>
+          </person>
+          <person xml:id="dritter_lord_iii-6" sex="MALE">
+            <persName>Dritter Lord (III/6)</persName>
+          </person>
+          <personGrp xml:id="mehrere_zugleich" sex="MALE">
+            <name>Mehrere zugleich</name>
+          </personGrp>
+          <personGrp xml:id="andere" sex="MALE">
+            <name>Andere</name>
+          </personGrp>
+          <person xml:id="vierter_lord_iii-6" sex="MALE">
+            <persName>Vierter Lord (III/6)</persName>
+          </person>
+          <person xml:id="erster_diener_iv-2" sex="MALE">
+            <persName>Erster Diener (IV/2)</persName>
+          </person>
+          <person xml:id="zweiter_diener_iv-2" sex="MALE">
+            <persName>Zweiter Diener (IV/2)</persName>
+          </person>
+          <person xml:id="dritter_diener_iv-2" sex="MALE">
+            <persName>Dritter Diener (IV/2)</persName>
+          </person>
+          <person xml:id="phrynia" sex="FEMALE">
+            <persName>Phrynia</persName>
+          </person>
+          <person xml:id="timandra" sex="FEMALE">
+            <persName>Timandra</persName>
+          </person>
+          <person xml:id="erster_bandit" sex="MALE">
+            <persName>Erster Bandit</persName>
+          </person>
+          <person xml:id="zweiter_bandit" sex="MALE">
+            <persName>Zweiter Bandit</persName>
+          </person>
+          <person xml:id="dritter_bandit" sex="MALE">
+            <persName>Dritter Bandit</persName>
+          </person>
+          <personGrp xml:id="die_banditen" sex="MALE">
+            <name>Die (anderen) Banditen</name>
+          </personGrp>
+          <person xml:id="erster_senator_v-2" sex="MALE">
+            <persName>Erster Senator (V/2)</persName>
+          </person>
+          <person xml:id="zweiter_senator_v-2" sex="MALE">
+            <persName>Zweiter Senator (V/2)</persName>
+          </person>
+          <person xml:id="erster_senator_v-3" sex="MALE">
+            <persName>Erster Senator (V/3)</persName>
+          </person>
+          <person xml:id="bote" sex="MALE">
+            <persName>Ein Bote</persName>
+          </person>
+          <person xml:id="zweiter_senator_v-3" sex="MALE">
+            <persName>Zweiter Senator (V/3)</persName>
+          </person>
+          <person xml:id="dritter_senator_v-3" sex="MALE">
+            <persName>Dritter Senator (V/3)</persName>
+          </person>
+          <person xml:id="soldat_v-4" sex="MALE">
+            <persName>Ein Soldat (V/4)</persName>
+          </person>
+          <person xml:id="erster_senator_v-5" sex="MALE">
+            <persName>Erster Senator (V/5)</persName>
+          </person>
+          <person xml:id="zweiter_senator_v-5" sex="MALE">
+            <persName>Zweiter Senator (V/5)</persName>
+          </person>
+          <person xml:id="soldat_v-5" sex="MALE">
+            <persName>Ein Soldat (V/5)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term type="genreTitle">Tragedy</term>
@@ -77,7 +311,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000033" passive="http://www.wikidata.org/entity/Q284641"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000033"
+        passive="http://www.wikidata.org/entity/Q284641"/>
     </listRelation>
   </standOff>
   <text>
@@ -412,7 +647,7 @@
             <speaker>TIMON.</speaker>
             <l>Verhaftet ist er, sagst du?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#ein_diener_des_ventidius">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Ja, Herr, und fünf Talent' ist seine Schuld,</l>
@@ -432,7 +667,7 @@
               <l>Die wird ihm: denn ich zahl', und er sei frei.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#ein_diener_des_ventidius">
             <speaker>DIENER.</speaker>
             <l>Euer Gnaden wird auf ewig ihn verbinden.</l>
           </sp>
@@ -445,7 +680,7 @@
               <l>Auch stützen muß man ihn. – So fahre wohl!</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#ein_diener_des_ventidius">
             <speaker>DIENER.</speaker>
             <l>Sei alles Glück mit meinem gnäd'gen Herrn!</l>
             <stage>Diener geht ab.</stage>
@@ -894,7 +1129,7 @@
             <l>Was für Trompeten?</l>
           </sp>
           <pb n="925"/>
-          <sp who="#diener">
+          <sp who="#diener_i-1">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Alcibiades,</l>
@@ -941,7 +1176,7 @@
             <stage>Alle gehn ab, außer Apemantus.</stage>
             <stage>Zwei Lords treten auf.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <l>Was ist die Zeit am Tage, Apemantus?</l>
           </sp>
@@ -949,7 +1184,7 @@
             <speaker>APEMANTUS.</speaker>
             <l>Zeit, daß man ehrlich ist.</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <l>Die Zeit ist immer.</l>
           </sp>
@@ -957,7 +1192,7 @@
             <speaker>APEMANTUS.</speaker>
             <l>Um so verruchter du, sie nie zu nutzen.</l>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <l>Gehst zu Lord Timons Fest?</l>
           </sp>
@@ -968,7 +1203,7 @@
               <l>Und Narren Wein erhitzt.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <l>Leb wohl, leb wohl!</l>
           </sp>
@@ -976,7 +1211,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Du bist ein Narr, daß du mir's zweimal sagst.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <p>Warum, Apemantus?</p>
           </sp>
@@ -984,7 +1219,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Du hättest das eine für dich behalten sollen, denn ich denke dir keines zu geben.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <p>Geh, häng' dich auf!</p>
           </sp>
@@ -994,7 +1229,7 @@
             <p>Nein, ich tue nichts auf deinen Befehl: bring' deine Gesuche bei deinem Freunde
               an!</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <p>Fort, du zänkischer Hund, oder ich stoße dich mit dem Fuß hinaus.</p>
           </sp>
@@ -1004,7 +1239,7 @@
                 ab.</stage>
             </p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Er ist ein Widerspiel der Menschheit. Kommt hinein,</l>
@@ -1012,7 +1247,7 @@
               <l>Als selbst das Herz der Milde.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>Er strömt sie aus; Plutus, der Gott des Goldes,</l>
@@ -1022,18 +1257,18 @@
               <l>Weit über alles Maß.</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Das edelste</l>
               <l>Gemüt hat er, das je im Menschen herrschte.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-1">
             <speaker>ZWEITER LORD.</speaker>
             <p>Er lebe lang' und glücklich! Woll'n wir gehn!</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-1">
             <speaker>ERSTER LORD.</speaker>
             <p>Ja, ich begleite Euch.</p>
             <stage>Sie gehn ab.</stage>
@@ -1043,7 +1278,7 @@
           <head>Zweite Szene</head>
           <stage>Prunksaal in Timons Hause.</stage>
           <stage>Hoboen, laute Musik. Ein großes Bankett wird angerichtet.</stage>
-          <stage>Flavius und andre Diener. Dann treten auf: Timon, Alcibiades, Lucius Sempronius,
+          <stage>Flavius und andre Diener. Dann treten auf: Timon, Alcibiades, Lucius, Sempronius,
             Lucullus, Ventidius und andre Senatoren und Gefolge. Zuletzt Apemantus.</stage>
           <sp who="#ventidius">
             <speaker>VENTIDIUS.</speaker>
@@ -1087,7 +1322,7 @@
             </lg>
             <stage>Sie setzen sich.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <l>Mylord, das war stets unser Eingeständnis.</l>
           </sp>
@@ -1158,7 +1393,7 @@
             <speaker>TIMON.</speaker>
             <l>Von Herzen, Herr; und rundum geh' es weiter!</l>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <l>Laß ihn von dieser Seite wandeln, edler Lord!</l>
           </sp>
@@ -1214,7 +1449,7 @@
             <p>So wollt' ich, alle diese Schmeichler wären deine Feinde, damit du sie alle töten
               könntest und mich dann darauf einladen.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <p>Würde uns nur das Glück zu teil, edler Lord, daß Ihr einst unsrer Liebe bedürftet,
               damit wir Euch einigermaßen unsern Eifer zeigen könnten: dann würden wir uns, auf
@@ -1242,7 +1477,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Du weinst, daß sie trinken mögen, Timon.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <lg>
               <l>So ward die Freud' auch uns im Aug' empfangen,</l>
@@ -1254,7 +1489,7 @@
             <speaker>APEMANTUS.</speaker>
             <l>Ich lache, daß es wohl ein Bastard war.</l>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_i-2">
             <speaker>DRITTER LORD.</speaker>
             <l>Wahrlich, Mylord, Ihr habt mich ganz erschüttert,</l>
           </sp>
@@ -1268,7 +1503,7 @@
             <p>Was bedeutet die Trompete? – he?</p>
             <stage>Ein Diener tritt auf.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_i-2a">
             <speaker>DIENER.</speaker>
             <p>Mit Eurer Genehmigung, Mylord, es sind einige Damen da, die sehnlich den Einlaß
               wünschen.</p>
@@ -1277,7 +1512,7 @@
             <speaker>TIMON.</speaker>
             <p>Damen? was begehren sie?</p>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_i-2a">
             <speaker>DIENER.</speaker>
             <p>Sie haben einen Vorläufer bei sich, Mylord, der den Auftrag hat, ihren Willen kund zu
               tun.</p>
@@ -1304,7 +1539,7 @@
               willkommen!</p>
             <stage>Cupido geht ab.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <p>Ihr seht, wie Ihr von allen seid geliebt.</p>
             <stage>Musik. Cupido tritt wieder auf, Maskerade von Damen als Amazonen verkleidet; sie
@@ -1390,15 +1625,15 @@
             </lg>
             <stage>Er geht ab und kommt mit dem Kästchen wieder.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <l>Sind unsre Leute da?</l>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_i-2b">
             <speaker>DIENER.</speaker>
             <l>Euch zu Befehl, Mylord.</l>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <l>Die Pferde vor!</l>
           </sp>
@@ -1413,16 +1648,16 @@
               <l>Empfangt und tragt es, güt'ger Herr!</l>
             </lg>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <l>Doch bin ich schon so sehr in Eurer Schuld –</l>
           </sp>
-          <sp who="#alle">
+          <sp who="#alle_lords">
             <speaker>ALLE.</speaker>
             <l>Das sind wir alle.</l>
             <stage>Ein Diener tritt auf.</stage>
           </sp>
-          <sp who="#zweiter_diener">
+          <sp who="#zweiter_diener_i-2">
             <speaker>ZWEITER DIENER.</speaker>
             <lg>
               <l>Mylord, es steigen ein'ge Senatoren</l>
@@ -1454,7 +1689,7 @@
             <l>Kaum noch weiß ich, wie.</l>
             <stage>Ein Diener tritt auf.</stage>
           </sp>
-          <sp who="#dritter_diener">
+          <sp who="#dritter_diener_i-2">
             <speaker>DRITTER DIENER.</speaker>
             <lg>
               <l>Erlaubt mir, gnäd'ger Herr, Lord Lucius sendet</l>
@@ -1470,7 +1705,7 @@
             </lg>
             <stage>Ein Diener tritt auf.</stage>
           </sp>
-          <sp who="#vierter_diener">
+          <sp who="#vierter_diener_i-2">
             <speaker>VIERTER DIENER.</speaker>
             <p>Mit Euer Gnaden Erlaubnis, der edle Lord Lucullus wünscht Eure Gesellschaft, um
               morgen mit ihm zu jagen, und sendet Euer Gnaden zwei Kuppel Windhunde.</p>
@@ -1514,11 +1749,11 @@
               <l>Hier, nehmt die kleine Gabe meiner Liebe!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <l>Ich nehm's, mit nicht gemeiner Dankbarkeit.</l>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_i-2">
             <speaker>DRITTER LORD.</speaker>
             <l>Ja wohl ist er der Großmut wahre Seele!</l>
           </sp>
@@ -1530,7 +1765,7 @@
               <l>Er ist der Eure, da er Euch gefällt.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <l>Ich bitt' Euch, edler Herr, entschuldigt mich!</l>
           </sp>
@@ -1564,7 +1799,7 @@
             <speaker>ALCIBIADES.</speaker>
             <l>Unfruchtbares Land, Mylord!</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <l>Wir sind unendlich Euch verpflichtet. –</l>
           </sp>
@@ -1575,7 +1810,7 @@
               <l>So bin ich Euch.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_i-2">
             <speaker>ZWEITER LORD.</speaker>
             <l>Auf ewig ganz ergeben.</l>
           </sp>
@@ -1583,7 +1818,7 @@
             <speaker>TIMON.</speaker>
             <l>Nicht minder ich. – He, Lichter, noch mehr Lichter!</l>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_i-2">
             <speaker>ERSTER LORD.</speaker>
             <lg>
               <l>Das höchste Glück,</l>
@@ -1938,7 +2173,7 @@
             <p>Der die letzte Frage tat. – Arme Schufte und Diener von Wucherern! Kuppler zwischen
               Gold und Mangel!</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Was sind wir, Apemantus?</p>
           </sp>
@@ -1946,7 +2181,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Esel.</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Warum?</p>
           </sp>
@@ -1959,7 +2194,7 @@
             <speaker>NARR.</speaker>
             <p>Wie geht's euch, ihr Herren?</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Großen Dank, Narr! Wie geht es deiner Gebieterin?</p>
           </sp>
@@ -2026,7 +2261,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Wenn Timon zu Hause bleibt. – Ihr drei bedient drei Wucherer.</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Ja; bedienten sie lieber uns!</p>
           </sp>
@@ -2038,7 +2273,7 @@
             <speaker>NARR.</speaker>
             <p>Seid ihr die Diener von drei Wucherern?</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Ja, Narr.</p>
           </sp>
@@ -2083,7 +2318,7 @@
             <speaker>APEMANTUS.</speaker>
             <p>Dieser Antwort hätte sich Apemantus nicht schämen dürfen.</p>
           </sp>
-          <sp who="#alle_diener">
+          <sp who="#caphis #isidors_diener #varros_diener">
             <speaker>ALLE DIENER.</speaker>
             <p>Platz! Platz! hier kommt Lord Timon.</p>
             <stage>Timon und Flavius treten auf.</stage>
@@ -2361,7 +2596,7 @@
           <head>Erste Szene</head>
           <stage>Zimmer in Lucullus' Hause.</stage>
           <stage>Flaminius; ein Diener kommt zu ihm.</stage>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Ich habe dich bei meinem Herrn gemeldet, er wird gleich zu dir herunter kommen.</p>
           </sp>
@@ -2370,7 +2605,7 @@
             <p>Ich danke dir.</p>
             <stage>Lucullus tritt auf.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Hier ist mein Herr.</p>
           </sp>
@@ -2413,7 +2648,7 @@
               zurück bringen.</p>
             <stage>Der Diener kommt mit Wein.</stage>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-1">
             <speaker>DIENER.</speaker>
             <p>Gnädiger Herr, hier ist der Wein.</p>
           </sp>
@@ -2658,7 +2893,7 @@
               <l>Verdanken ihren Wohlstand ihm.</l>
             </lg>
           </sp>
-          <sp who="#diener">
+          <sp who="#diener_iii-3">
             <speaker>DIENER.</speaker>
             <lg>
               <l>Mylord,</l>
@@ -2693,7 +2928,7 @@
             <stage>Geht ab.</stage>
           </sp>
           <pb n="950"/>
-          <sp who="#diener">
+          <sp who="#diener_iii-3">
             <speaker>DIENER.</speaker>
             <p>Ganz unvergleichlich! Euer Gnaden ist ein recht frommer Schurke. Der Teufel wußte
               nicht, was er tat, als er den Menschen politisch machte; er stand sich selbst im
@@ -2720,7 +2955,7 @@
           <stage>Vorhalle in Timons Hause.</stage>
           <stage>Es treten auf zwei Diener des Varro und ein Diener des Lucius; Titus, Hortensius
             und andere Diener von Timons Gläubigern.</stage>
-          <sp who="#varros_diener">
+          <sp who="#varros_erster_diener">
             <speaker>VARROS DIENER.</speaker>
             <l>Recht! Guten Morgen, Titus und Hortensius!</l>
           </sp>
@@ -2841,7 +3076,7 @@
               <l>Sein Undank macht dies jetzt dem Diebstahl gleich.</l>
             </lg>
           </sp>
-          <sp who="#varros_diener">
+          <sp who="#varros_erster_diener">
             <speaker>VARROS DIENER.</speaker>
             <l>Meins ist dreitausend Kronen; und das deine?</l>
           </sp>
@@ -3007,7 +3242,7 @@
             <speaker>HORTENSIUS.</speaker>
             <p>Und meine.</p>
           </sp>
-          <sp who="#die_beiden_diener_des_varro">
+          <sp who="#varros_erster_diener #varros_zweiter_diener">
             <speaker>DIE BEIDEN DIENER DES VARRO.</speaker>
             <p>Und unsre, Herr.</p>
           </sp>
@@ -3125,7 +3360,7 @@
           <head>Fünfte Szene</head>
           <stage>Das Haus des Senats.</stage>
           <stage>Der Senat ist versammelt.</stage>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Mylord, so stimm' auch ich; die Schuld ist blutig:</l>
@@ -3133,7 +3368,7 @@
               <l>Die Sünde wird durch Gnade frecher nur.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_iii-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Sehr wahr; vernichten soll ihn das Gesetz.</l>
             <stage>Alcibiades tritt auf mit Gefolge.</stage>
@@ -3142,7 +3377,7 @@
             <speaker>ALCIBIADES.</speaker>
             <l>Heil sei und Ehr' und Milde dem Senat!</l>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Was wollt Ihr, Feldherr?</l>
           </sp>
@@ -3169,7 +3404,7 @@
               <l>Als stritt er mit Beweisen und Gedanken.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Du unternimmst zu herben Widerspruch,</l>
@@ -3192,7 +3427,7 @@
             <speaker>ALCIBIADES.</speaker>
             <l>Mylord, –</l>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Durch Euch wird glorreich nicht ein hart Verschulden;</l>
@@ -3224,7 +3459,7 @@
               <l>Wägt daran seine Schuld!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_iii-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Ihr sprecht umsonst.</l>
           </sp>
@@ -3236,7 +3471,7 @@
               <l>Sie könnten ihm das Leben wohl erkaufen!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Was meint Ihr?</l>
           </sp>
@@ -3249,7 +3484,7 @@
               <l>Das künden all die Wunden, die er schlug.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_iii-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Ja, Ihr habt recht, zu viele Wunden schlug er,</l>
@@ -3262,7 +3497,7 @@
               <l>Sein Rausch bringt Schande ihm und uns Gefahr.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Er stirbt.</l>
           </sp>
@@ -3283,7 +3518,7 @@
               <l>Ist Satzung herb, so ist der Krieg noch herber.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Wir stehn hier fürs Gesetz: er stirbt; nichts weiter,</l>
@@ -3298,7 +3533,7 @@
               <l>Ich bitt' euch sehr, erkennt mich wieder!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_iii-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Wie?</l>
           </sp>
@@ -3306,7 +3541,7 @@
             <speaker>ALCIBIADES.</speaker>
             <l>Ruft mich zurück in eu'r Gedächtnis!</l>
           </sp>
-          <sp who="#dritter_senator">
+          <sp who="#dritter_senator_iii-5">
             <speaker>DRITTER SENATOR.</speaker>
             <l>Was?</l>
           </sp>
@@ -3319,7 +3554,7 @@
               <l>Das schmerzt die Wunden!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Trotzt Ihr unserm Zorn?</l>
@@ -3335,7 +3570,7 @@
               <l>Der den Senat abscheulich macht!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_iii-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Wenn nach zwei Tagen dich Athen noch faßt,</l>
@@ -3371,58 +3606,58 @@
           <stage>Timons Prunksaal.</stage>
           <stage>Tafeln sind gesetzt, die Diener stehn umher.</stage>
           <stage>Timons Freunde kommen von verschiedenen Seiten herein.</stage>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Ich wünsche Euch einen guten Tag, Freund.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Ich Euch gleichfalls. Ich glaube, dieser würdige Mann wollte uns neulich nur auf die
               Probe stellen.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Eben darauf waren meine Gedanken auch gerichtet, indem wir uns begegneten. Ich hoffe,
               es steht nicht so schlimm mit ihm, als er bei Prüfung seiner Freunde vorgab.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Nach dem, was dies neue Gastmahl uns verheißt, kann es wohl nicht sein.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Das glaube ich auch; er sandte mir eine dringende Einladung, welche abzulehnen mir
               ernste Geschäfte nahe genug legten; aber er beschwor mich, auch die wichtigste
               Rücksicht fallen zu lassen, und so mußte ich denn notwendig erscheinen.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Auf gleiche Weise ward ich von sehr bedeutenden Geschäften abgehalten, aber er wollte
               meine Entschuldigung nicht hören. Es tut mir leid, daß mein Vorrat ganz erschöpft war,
               als er zu mir schickte, Geld aufzunehmen.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>An derselben Kränkung leide ich, da ich nun sehe, wie die Sachen stehen.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Jedem, der hier ist, geht es so. Wieviel wollt' er Euch abborgen?</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Tausend Goldstücke.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Tausend Goldstücke!</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Wie viel von Euch?</p>
           </sp>
           <pb n="959"/>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Er schickte zu mir – doch hier kommt er.</p>
             <stage>Timon tritt auf mit Gefolge.</stage>
@@ -3431,11 +3666,11 @@
             <speaker>TIMON.</speaker>
             <p>Von Herzen gegrüßt, ihr beiden edeln Männer! – Wie geht es euch?</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Immer sehr gut, wenn ich Euer Gnaden Wohlergehen erfahre.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Die Schwalbe folgt dem Sommer nicht freudiger, als wir Euer Gnaden.</p>
           </sp>
@@ -3446,7 +3681,7 @@
               indes an der Musik, wenn Trompetenklang ihnen keine zu harte Speise ist. Wir wollen
               uns gleich setzen.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Ich hoffe, Ihr erinnert Euch dessen nicht unfreundlich, mein gnädiger Herr, daß ich
               Euch einen leeren Boten zurück sandte.</p>
@@ -3455,7 +3690,7 @@
             <speaker>TIMON.</speaker>
             <p>Ei, laßt Euch das nicht beunruhigen!</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Mein edler Lord –</p>
           </sp>
@@ -3464,7 +3699,7 @@
             <p>All, guter Freund! Kommen die Speisen?</p>
             <stage>Ein Bankett wird hergerichtet.</stage>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Mein höchst verehrter Herr, ich bin krank vor Scham, daß ich, als Ihr neulich zu mir
               sandtet, ein so unglücklicher Bettler war.</p>
@@ -3473,7 +3708,7 @@
             <speaker>TIMON.</speaker>
             <p>Denkt nicht weiter daran!</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Hättet Ihr nur zwei Stunden früher geschickt –</p>
           </sp>
@@ -3481,40 +3716,40 @@
             <speaker>TIMON.</speaker>
             <p>Stört damit nicht bessere Gedanken! – Kommt, bringt alles zugleich!</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Lauter verdeckte Schüsseln!</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Ein königliches Mahl, das glaubt mir!</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Daran zweifelt nicht, wie nur Geld und die Jahreszeit es liefern kann.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Wie geht es Euch? Was gibt es Neues?</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Alcibiades ist verbannt; habt Ihr davon schon gehört?</p>
           </sp>
-          <sp who="#erster_lord #zweiter_lord">
+          <sp who="#erster_lord_iii-6 #zweiter_lord_iii-6">
             <speaker>ERSTER UND ZWEITER LORD.</speaker>
             <p>Alcibiades verbannt?</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>So ist es, zweifelt nicht!</p>
           </sp>
           <pb n="960"/>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Wie denn? wie denn?</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Ich bitte Euch, aus welchem Grunde?</p>
           </sp>
@@ -3522,24 +3757,24 @@
             <speaker>TIMON.</speaker>
             <p>Meine würdigen Freunde, wollt ihr näher treten?</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Ich will Euch nachher mehr davon erzählen. Hier steht uns ein herrlicher Schmaus
               bevor.</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Dieser Mann ist noch der alte.</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Wird's dauern? wird's dauern?</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Es wird; doch kommt die Zeit, und dann –</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Ich verstehe Euch.</p>
           </sp>
@@ -3599,53 +3834,53 @@
             </lg>
             <stage>Die Gäste kommen zurück mit noch andern Lords und Senatoren.</stage>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Wie nun, ihr Herren?</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Wißt Ihr was Näheres um Timons Raserei?</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Still! habt Ihr meine Kappe nicht gesehen?</p>
           </sp>
-          <sp who="#vierter_lord">
+          <sp who="#vierter_lord_iii-6">
             <speaker>VIERTER LORD.</speaker>
             <p>Ich habe meinen Rock verloren.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Er ist nichts weiter als ein toller Lord, und nur Laune setzt ihn in Bewegung.
               Neulich schenkte er mir einen Edelstein, und nun hat er ihn mir vom Hute herunter
               geschlagen. Habt ihr meinen Edelstein nicht gesehen?</p>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <p>Habt ihr meine Kappe nicht gesehen?</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <p>Hier ist sie.</p>
           </sp>
-          <sp who="#vierter_lord">
+          <sp who="#vierter_lord_iii-6">
             <speaker>VIERTER LORD.</speaker>
             <p>Hier liegt mein Rock.</p>
           </sp>
-          <sp who="#erster_lord">
+          <sp who="#erster_lord_iii-6">
             <speaker>ERSTER LORD.</speaker>
             <p>Laßt uns nicht verweilen!</p>
           </sp>
-          <sp who="#zweiter_lord">
+          <sp who="#zweiter_lord_iii-6">
             <speaker>ZWEITER LORD.</speaker>
             <l>Lord Timon rast.</l>
           </sp>
-          <sp who="#dritter_lord">
+          <sp who="#dritter_lord_iii-6">
             <speaker>DRITTER LORD.</speaker>
             <l>Ich fühl's in den Gebeinen.</l>
           </sp>
-          <sp who="#vierter_lord">
+          <sp who="#vierter_lord_iii-6">
             <speaker>VIERTER LORD.</speaker>
             <l>Juwelen schenkt' er gestern uns, heut wirft er uns mit Steinen.</l>
             <stage>Alle ab.</stage>
@@ -3712,7 +3947,7 @@
           <head>Zweite Szene</head>
           <stage>In Timons Hause.</stage>
           <stage>Flavius tritt auf und mehrere Diener Timons.</stage>
-          <sp who="#erster_diener">
+          <sp who="#erster_diener_iv-2">
             <speaker>ERSTER DIENER.</speaker>
             <lg>
               <l>Sprecht, Hausverwalter, wo ist unser Herr?</l>
@@ -3727,7 +3962,7 @@
               <l>Ich bin so arm wie ihr.</l>
             </lg>
           </sp>
-          <sp who="#erster_diener">
+          <sp who="#erster_diener_iv-2">
             <speaker>ERSTER DIENER.</speaker>
             <lg>
               <l>Solch Haus gefallen!</l>
@@ -3736,7 +3971,7 @@
               <l>Und mit ihm geht!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_diener">
+          <sp who="#zweiter_diener_iv-2">
             <speaker>ZWEITER DIENER.</speaker>
             <lg>
               <l>Wie wir den Rücken wenden</l>
@@ -3755,7 +3990,7 @@
             <speaker>FLAVIUS.</speaker>
             <l>Zerbrochenes Geschirr der Hauszerstörung!</l>
           </sp>
-          <sp who="#dritter_diener">
+          <sp who="#dritter_diener_iv-2">
             <speaker>DRITTER DIENER.</speaker>
             <lg>
               <l>Und doch trägt unser Herz noch Timons Kleid,</l>
@@ -4746,7 +4981,7 @@
             <speaker>ERSTER BANDIT.</speaker>
             <p>Ist er das nicht?</p>
           </sp>
-          <sp who="#die_anderen_banditen">
+          <sp who="#die_banditen">
             <speaker>DIE ANDEREN BANDITEN.</speaker>
             <p>Wo?</p>
           </sp>
@@ -5170,7 +5405,7 @@
               <l>Nun, könnt ihr Wurzeln essen, Wasser trinken?</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <l>Was wir nur können, tun wir, dir zu dienen.</l>
           </sp>
@@ -5214,7 +5449,7 @@
               <l>Daß ihn zu bessern ihr euch müht.</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <lg>
               <l>Geruht,</l>
@@ -5225,7 +5460,7 @@
             <speaker>TIMON.</speaker>
             <l>Doch ihr nehmt es übel.</l>
           </sp>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <l>Wir nehmen's dankbar an.</l>
           </sp>
@@ -5234,7 +5469,7 @@
             <l>Wollt ihr das wirklich?</l>
           </sp>
           <pb n="985"/>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <l>Nicht zweifelt, edler Lord!</l>
           </sp>
@@ -5245,7 +5480,7 @@
               <l>Der tüchtig euch betrügt.</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <l>Herr, tun wir das?</l>
           </sp>
@@ -5276,7 +5511,7 @@
               <l>Ich geb' euch Gold genug!</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#dichter #maler">
             <speaker>BEIDE.</speaker>
             <l>Nennt sie, verehrter Herr, macht sie uns kenntlich.</l>
           </sp>
@@ -5311,7 +5546,7 @@
             </lg>
           </sp>
           <pb n="986"/>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Führ' uns zu seiner Höhle!</l>
@@ -5319,7 +5554,7 @@
               <l>Mit ihm zu reden.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Nicht in allen Zeiten</l>
@@ -5351,7 +5586,7 @@
               <l>Im Sprechen sie vernichtend!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Würd'ger Timon, –</l>
           </sp>
@@ -5359,7 +5594,7 @@
             <speaker>TIMON.</speaker>
             <l>Nur solcher wert als Ihr, wie Ihr des Timon.</l>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Timon, es grüßt dich der Senat Athens.</l>
           </sp>
@@ -5370,7 +5605,7 @@
               <l>Könnt' ich für ihn sie greifen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Oh, vergiß,</l>
@@ -5381,7 +5616,7 @@
               <l>Daliegen, daß du dich mit ihnen schmückst.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Und sie gestehn,</l>
@@ -5409,7 +5644,7 @@
               <l>Bei eurem Trost zu weinen, Senatoren!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Laß dir's gefallen, kehre heim mit uns;</l>
@@ -5422,14 +5657,14 @@
               <l>Des Vaterlands.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Und der die Türm' Athens</l>
               <l>Mit seinem Schwert bedrängt.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Timon, darum –</l>
           </sp>
@@ -5472,7 +5707,7 @@
               <l>Und lange währ's!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Wir sprechen nur vergeblich.</l>
           </sp>
@@ -5484,7 +5719,7 @@
               <l>Wie das Gerücht es sagt.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>So sprichst du gut.</l>
           </sp>
@@ -5492,11 +5727,11 @@
             <speaker>TIMON.</speaker>
             <l>Empfehlt mich meinen teuren Landsgenossen –</l>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Dies Wort ziert deinen Mund, indem er's spricht.</l>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Zieht in das Ohr, dem Triumphator gleich,</l>
@@ -5515,7 +5750,7 @@
               <l>Der Wut des Alcibiades entraffen.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Dies dünkt mich gut, er kehrt gewiß zurück.</l>
           </sp>
@@ -5553,14 +5788,14 @@
             </lg>
             <stage>Er geht ab.</stage>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Sein zorn'ger Sinn ist fest und unzertrennlich</l>
               <l>Von seinem Wesen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-2">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>In ihm starb unsre Hoffnung. Kehrt zurück</l>
@@ -5568,7 +5803,7 @@
               <l>In dieser großen Not.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-2">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Wir müssen eilen.</l>
             <stage>Sie gehn ab.</stage>
@@ -5578,7 +5813,7 @@
           <head>Dritte Szene</head>
           <stage>In Athen.</stage>
           <stage>Es treten auf zwei Senatoren und ein Bote.</stage>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-3">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Mit Sorgfalt forschtest du; sind seine Scharen</l>
@@ -5593,7 +5828,7 @@
               <l>Sich zeigen wird.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-3">
             <speaker>ZWEITER SENATOR.</speaker>
             <l>Kommt Timon nicht, so sind wir sehr gefährdet.</l>
           </sp>
@@ -5611,12 +5846,12 @@
             </lg>
             <stage>Die Senatoren, welche von Timon zurück kommen.</stage>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-3">
             <speaker>ERSTER SENATOR.</speaker>
             <l>Seht, unsre Brüder kommen.</l>
           </sp>
           <pb n="990"/>
-          <sp who="#dritter_senator">
+          <sp who="#dritter_senator_v-3">
             <speaker>DRITTER SENATOR.</speaker>
             <lg>
               <l>Sprecht nicht von Timon, nichts von ihm erwartet</l>
@@ -5631,7 +5866,7 @@
           <head>Vierte Szene</head>
           <stage>Vor Timons Höhle; man sieht einen Grabstein.</stage>
           <stage>Ein Soldat tritt auf.</stage>
-          <sp who="#soldat">
+          <sp who="#soldat_v-4">
             <speaker>SOLDAT.</speaker>
             <lg>
               <l>Nach der Beschreibung wäre dies der Platz,</l>
@@ -5675,7 +5910,7 @@
               <l>In Furcht und grauser Flucht.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>O edler Jüngling,</l>
@@ -5686,7 +5921,7 @@
               <l>Mehr zahlend als die Schuld.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Auch luden wir</l>
@@ -5696,7 +5931,7 @@
               <l>Des Krieges Geißel nicht.</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Hier diese Mauern,</l>
@@ -5706,7 +5941,7 @@
               <l>Um Schuld der einzelnen.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Auch sind sie tot,</l>
@@ -5721,7 +5956,7 @@
               <l>So falle der Befleckte!</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Alle fehlten nicht;</l>
@@ -5737,7 +5972,7 @@
               <l>Doch nicht erwürge alles!</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Was du foderst,</l>
@@ -5745,7 +5980,7 @@
               <l>Als mit dem Schwert erhaun,</l>
             </lg>
           </sp>
-          <sp who="#erster_senator">
+          <sp who="#erster_senator_v-5">
             <speaker>ERSTER SENATOR.</speaker>
             <lg>
               <l>Setz' nur den Fuß</l>
@@ -5754,7 +5989,7 @@
               <l>Als Freundesboten.</l>
             </lg>
           </sp>
-          <sp who="#zweiter_senator">
+          <sp who="#zweiter_senator_v-5">
             <speaker>ZWEITER SENATOR.</speaker>
             <lg>
               <l>Wirf den Handschuh her;</l>
@@ -5780,7 +6015,7 @@
               <l>Zur strengen Rechenschaft!</l>
             </lg>
           </sp>
-          <sp who="#beide">
+          <sp who="#erster_senator_v-5 #zweiter_senator_v-5">
             <speaker>BEIDE.</speaker>
             <l>Ein edles Wort!</l>
           </sp>
@@ -5788,9 +6023,9 @@
             <speaker>ALCIBIADES.</speaker>
             <l>So steigt herab und haltet das Versprechen!</l>
             <stage>Die Senatoren steigen herab und öffnen die Tore.</stage>
-            <stage>Ein, Soldat tritt auf.</stage>
+            <stage>Ein Soldat tritt auf.</stage>
           </sp>
-          <sp who="#soldat">
+          <sp who="#soldat_v-5">
             <speaker>SOLDAT.</speaker>
             <lg>
               <l>Mein edler Feldherr, Timon ist gestorben</l>

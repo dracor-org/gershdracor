@@ -168,7 +168,7 @@
             <persName>Vincentio</persName>
           </person>
           <person xml:id="witwe" sex="FEMALE">
-            <persName>Witwe</persName>
+            <persName>Eine Witwe</persName>
           </person>
         </listPerson>
       </particDesc>

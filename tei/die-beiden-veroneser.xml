@@ -94,7 +94,7 @@
             <persName>Der Herzog von Mailand</persName>
           </person>
           <person xml:id="diener" sex="MALE">
-            <persName>Diener</persName>
+            <persName>Ein Diener</persName>
           </person>
           <person xml:id="erster_raeuber" sex="MALE">
             <persName>Erster Räuber</persName>
