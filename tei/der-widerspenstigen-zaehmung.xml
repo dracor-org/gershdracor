@@ -62,7 +62,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="schlau" sex="MALE">
+          <person xml:id="schlau" sex="MALE" ana="http://www.wikidata.org/entity/Q16238343">
             <persName>Christoph Schlau</persName>
           </person>
           <person xml:id="wirtin" sex="FEMALE">
@@ -78,7 +78,7 @@
             <persName>Zweiter Jäger</persName>
           </person>
           <person xml:id="diener_einleitung_1" sex="MALE">
-            <persName>Diener (Einleitung)</persName>
+            <persName>Ein Diener (Einleitung)</persName>
           </person>
           <person xml:id="erster_schauspieler" sex="MALE">
             <persName>Erster Schauspieler</persName>
@@ -99,42 +99,42 @@
             <persName>Page</persName>
           </person>
           <person xml:id="diener_einleitung_2" sex="MALE">
-            <persName>Diener (Einleitung)</persName>
+            <persName>Ein Diener (Einleitung)</persName>
           </person>
-          <person xml:id="lucentio" sex="MALE">
+          <person xml:id="lucentio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823065">
             <persName>Lucentio</persName>
           </person>
-          <person xml:id="tranio" sex="MALE">
+          <person xml:id="tranio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823071">
             <persName>Tranio</persName>
           </person>
-          <person xml:id="baptista" sex="MALE">
+          <person xml:id="baptista" sex="MALE" ana="http://www.wikidata.org/entity/Q20823060">
             <persName>Baptista</persName>
           </person>
-          <person xml:id="gremio" sex="MALE">
+          <person xml:id="gremio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823068">
             <persName>Gremio</persName>
           </person>
-          <person xml:id="katharina" sex="FEMALE">
+          <person xml:id="katharina" sex="FEMALE" ana="http://www.wikidata.org/entity/Q20819934">
             <persName>Katharina</persName>
           </person>
-          <person xml:id="hortensio" sex="MALE">
+          <person xml:id="hortensio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823069">
             <persName>Hortensio</persName>
           </person>
-          <person xml:id="bianca" sex="FEMALE">
+          <person xml:id="bianca" sex="FEMALE" ana="http://www.wikidata.org/entity/Q4902502">
             <persName>Bianca</persName>
           </person>
-          <person xml:id="biondello" sex="MALE">
+          <person xml:id="biondello" sex="MALE" ana="http://www.wikidata.org/entity/Q20823073">
             <persName>Biondello</persName>
           </person>
-          <person xml:id="petruchio" sex="MALE">
+          <person xml:id="petruchio" sex="MALE" ana="http://www.wikidata.org/entity/Q7179191">
             <persName>Petruchio</persName>
           </person>
-          <person xml:id="grumio" sex="MALE">
+          <person xml:id="grumio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823070">
             <persName>Grumio</persName>
           </person>
           <person xml:id="diener_iii-1" sex="MALE">
-            <persName>Diener (III/1)</persName>
+            <persName>Ein Diener (III/1)</persName>
           </person>
-          <person xml:id="curtis" sex="MALE">
+          <person xml:id="curtis" sex="MALE" ana="http://www.wikidata.org/entity/Q20823074">
             <persName>Curtis</persName>
           </person>
           <person xml:id="nathanael" sex="MALE">
@@ -164,7 +164,7 @@
           <person xml:id="schneider" sex="MALE">
             <persName>Schneider</persName>
           </person>
-          <person xml:id="vincentio" sex="MALE">
+          <person xml:id="vincentio" sex="MALE" ana="http://www.wikidata.org/entity/Q20823066">
             <persName>Vincentio</persName>
           </person>
           <person xml:id="witwe" sex="FEMALE">

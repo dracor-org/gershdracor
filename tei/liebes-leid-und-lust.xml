@@ -71,7 +71,7 @@
           <person xml:id="dumain" sex="MALE">
             <persName>Dumain</persName>
           </person>
-          <person xml:id="biron" sex="MALE">
+          <person xml:id="biron" sex="MALE" ana="http://www.wikidata.org/entity/Q72164637">
             <persName>Biron</persName>
           </person>
           <person xml:id="dumm" sex="MALE">

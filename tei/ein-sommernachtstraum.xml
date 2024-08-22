@@ -42,16 +42,12 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>:
-            <title level="a">Ein Sommernachtstraum</title>.
-            In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>.
-            Band <biblScope unit="volume">1</biblScope>: Komödien.
-            <edition>3. Auflage</edition>.
-            <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-            <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>,
-            S. <biblScope unit="page" from="309" to="377">309–377</biblScope>.
+            <author>William Shakespeare</author>: <title level="a">Ein Sommernachtstraum</title>.
+            In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
+              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
+            Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
+              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
+            <date>1975</date>, S. <biblScope unit="page" from="309" to="377">309–377</biblScope>.
           </bibl>
         </bibl>
       </sourceDesc>
@@ -65,55 +61,55 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="theseus" sex="MALE">
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="hippolyta" sex="FEMALE">
+          <person xml:id="hippolyta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q210303">
             <persName>Hippolyta</persName>
           </person>
-          <person xml:id="egeus" sex="MALE">
+          <person xml:id="egeus" sex="MALE" ana="http://www.wikidata.org/entity/Q2250073">
             <persName>Egeus</persName>
           </person>
-          <person xml:id="hermia" sex="FEMALE">
+          <person xml:id="hermia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q3229575">
             <persName>Hermia</persName>
           </person>
-          <person xml:id="demetrius" sex="MALE">
+          <person xml:id="demetrius" sex="MALE" ana="http://www.wikidata.org/entity/Q1920050">
             <persName>Demetrius</persName>
           </person>
-          <person xml:id="lysander" sex="MALE">
+          <person xml:id="lysander" sex="MALE" ana="http://www.wikidata.org/entity/Q2637148">
             <persName>Lysander</persName>
           </person>
-          <person xml:id="helena" sex="FEMALE">
+          <person xml:id="helena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2498540">
             <persName>Helena</persName>
           </person>
-          <person xml:id="squenz" sex="MALE">
+          <person xml:id="squenz" sex="MALE" ana="http://www.wikidata.org/entity/Q3089658">
             <persName>Squenz (Prolog)</persName>
           </person>
-          <person xml:id="zettel" sex="MALE">
+          <person xml:id="zettel" sex="MALE" ana="http://www.wikidata.org/entity/Q2190927">
             <persName>Zettel (Pyramus)</persName>
           </person>
-          <person xml:id="flaut" sex="MALE">
+          <person xml:id="flaut" sex="MALE" ana="http://www.wikidata.org/entity/Q2538905">
             <persName>Flaut (Thisbe)</persName>
           </person>
-          <person xml:id="schlucker" sex="MALE">
+          <person xml:id="schlucker" sex="MALE" ana="http://www.wikidata.org/entity/Q782687">
             <persName>Schlucker (Mond)</persName>
           </person>
-          <person xml:id="schnauz" sex="MALE">
+          <person xml:id="schnauz" sex="MALE" ana="http://www.wikidata.org/entity/Q2239224">
             <persName>Schnauz (Wand)</persName>
           </person>
-          <person xml:id="schnock" sex="MALE">
+          <person xml:id="schnock" sex="MALE" ana="http://www.wikidata.org/entity/Q2289762">
             <persName>Schnock (Löwe)</persName>
           </person>
-          <person xml:id="droll" sex="MALE">
+          <person xml:id="droll" sex="MALE" ana="http://www.wikidata.org/entity/Q1248616">
             <persName>Droll</persName>
           </person>
           <person xml:id="elfe" sex="UNKNOWN">
             <persName>Elfe</persName>
           </person>
-          <person xml:id="oberon" sex="MALE">
+          <person xml:id="oberon" sex="MALE" ana="http://www.wikidata.org/entity/Q1139234">
             <persName>Oberon</persName>
           </person>
-          <person xml:id="titania" sex="FEMALE">
+          <person xml:id="titania" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2332221">
             <persName>Titania</persName>
           </person>
           <person xml:id="erster_elfe" sex="UNKNOWN">
@@ -137,7 +133,7 @@
           <person xml:id="spinnweb" sex="UNKNOWN">
             <persName>Spinnweb</persName>
           </person>
-          <person xml:id="philostrat" sex="MALE">
+          <person xml:id="philostrat" sex="MALE" ana="http://www.wikidata.org/entity/Q2275813">
             <persName>Philostrat</persName>
           </person>
         </listPerson>
@@ -157,7 +153,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000012" passive="http://www.wikidata.org/entity/Q104871"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000012"
+        passive="http://www.wikidata.org/entity/Q104871"/>
     </listRelation>
   </standOff>
   <text>

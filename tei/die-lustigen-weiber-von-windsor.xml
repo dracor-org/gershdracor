@@ -62,7 +62,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="schaal" sex="MALE">
+          <person xml:id="schaal" sex="MALE" ana="http://www.wikidata.org/entity/Q18390753">
             <persName>Schaal</persName>
           </person>
           <person xml:id="schmaechtig" sex="MALE">
@@ -74,16 +74,16 @@
           <person xml:id="page" sex="MALE">
             <persName>Herr Page</persName>
           </person>
-          <person xml:id="falstaff" sex="MALE">
+          <person xml:id="falstaff" sex="MALE" ana="http://www.wikidata.org/entity/Q1233109">
             <persName>Sir John Falstaff</persName>
           </person>
-          <person xml:id="bardolph" sex="MALE">
+          <person xml:id="bardolph" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
-          <person xml:id="pistol" sex="MALE">
+          <person xml:id="pistol" sex="MALE" ana="http://www.wikidata.org/entity/Q16932862">
             <persName>Pistol</persName>
           </person>
-          <person xml:id="nym" sex="MALE">
+          <person xml:id="nym" sex="MALE" ana="http://www.wikidata.org/entity/Q18752823">
             <persName>Nym</persName>
           </person>
           <person xml:id="simpel" sex="MALE">
@@ -95,7 +95,7 @@
           <person xml:id="wirt" sex="MALE">
             <persName>Der Wirt zum Hosenbande</persName>
           </person>
-          <person xml:id="frau_hurtig" sex="FEMALE">
+          <person xml:id="frau_hurtig" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Frau Hurtig</persName>
           </person>
           <person xml:id="rugby" sex="MALE">

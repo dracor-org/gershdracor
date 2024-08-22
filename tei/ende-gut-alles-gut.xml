@@ -135,13 +135,13 @@
             <persName>Soldat</persName>
           </person>
           <person xml:id="diener" sex="MALE">
-            <persName>Diener</persName>
+            <persName>Ein Diener</persName>
           </person>
           <person xml:id="edelmann_v-1_und_v-3" sex="MALE">
-            <persName>Edelmann (V/1 und V/3)</persName>
+            <persName>Ein Edelmann (V/1 und V/3)</persName>
           </person>
           <person xml:id="edelmann_v-3" sex="MALE">
-            <persName>Edelmann (V/3)</persName>
+            <persName>Ein Edelmann (V/3)</persName>
           </person>
         </listPerson>
       </particDesc>

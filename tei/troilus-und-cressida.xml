@@ -62,16 +62,16 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="troilus" sex="MALE">
+          <person xml:id="troilus" sex="MALE" ana="http://www.wikidata.org/entity/Q867342">
             <persName>Troilus</persName>
           </person>
-          <person xml:id="pandarus" sex="MALE">
+          <person xml:id="pandarus" sex="MALE" ana="http://www.wikidata.org/entity/Q1057384">
             <persName>Pandarus</persName>
           </person>
-          <person xml:id="aeneas" sex="MALE">
+          <person xml:id="aeneas" sex="MALE" ana="http://www.wikidata.org/entity/Q82732">
             <persName>Äneas</persName>
           </person>
-          <person xml:id="cressida" sex="FEMALE">
+          <person xml:id="cressida" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2313920">
             <persName>Cressida</persName>
           </person>
           <person xml:id="alexander" sex="MALE">
@@ -80,71 +80,71 @@
           <person xml:id="page" sex="MALE">
             <persName>Page</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE">
+          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Agamemnon</persName>
           </person>
-          <person xml:id="nestor" sex="MALE">
+          <person xml:id="nestor" sex="MALE" ana="http://www.wikidata.org/entity/Q193267">
             <persName>Nestor</persName>
           </person>
-          <person xml:id="ulysses" sex="MALE">
+          <person xml:id="ulysses" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ulysses</persName>
           </person>
-          <person xml:id="menelaus" sex="MALE">
+          <person xml:id="menelaus" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Menelaus</persName>
           </person>
-          <person xml:id="ajax" sex="MALE">
+          <person xml:id="ajax" sex="MALE" ana="http://www.wikidata.org/entity/Q172725">
             <persName>Ajax</persName>
           </person>
-          <person xml:id="thersites" sex="MALE">
+          <person xml:id="thersites" sex="MALE" ana="http://www.wikidata.org/entity/Q1045730">
             <persName>Thersites</persName>
           </person>
-          <person xml:id="achilles" sex="MALE">
+          <person xml:id="achilles" sex="MALE" ana="http://www.wikidata.org/entity/Q41746">
             <persName>Achilles</persName>
           </person>
-          <person xml:id="patroklus" sex="MALE">
+          <person xml:id="patroklus" sex="MALE" ana="http://www.wikidata.org/entity/Q186271">
             <persName>Patroklus</persName>
           </person>
-          <person xml:id="priamus" sex="MALE">
+          <person xml:id="priamus" sex="MALE" ana="http://www.wikidata.org/entity/Q170473">
             <persName>Priamus</persName>
           </person>
-          <person xml:id="hektor" sex="MALE">
+          <person xml:id="hektor" sex="MALE" ana="http://www.wikidata.org/entity/Q159666">
             <persName>Hektor</persName>
           </person>
-          <person xml:id="helenus" sex="MALE">
+          <person xml:id="helenus" sex="MALE" ana="http://www.wikidata.org/entity/Q729332">
             <persName>Helenus</persName>
           </person>
-          <person xml:id="kassandra" sex="FEMALE">
+          <person xml:id="kassandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Kassandra</persName>
           </person>
-          <person xml:id="paris" sex="MALE">
+          <person xml:id="paris" sex="MALE" ana="http://www.wikidata.org/entity/Q167646">
             <persName>Paris</persName>
           </person>
-          <person xml:id="diomedes" sex="MALE">
+          <person xml:id="diomedes" sex="MALE" ana="http://www.wikidata.org/entity/Q208256">
             <persName>Diomedes</persName>
           </person>
           <person xml:id="diener_iii-1" sex="MALE">
-            <persName>Diener (III/1)</persName>
+            <persName>Ein Diener (III/1)</persName>
           </person>
-          <person xml:id="helena" sex="FEMALE">
+          <person xml:id="helena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Helena</persName>
           </person>
           <person xml:id="diener_iii-2" sex="MALE">
-            <persName>Diener (III/2)</persName>
+            <persName>Ein Diener (III/2)</persName>
           </person>
-          <person xml:id="kalchas" sex="MALE">
+          <person xml:id="kalchas" sex="MALE" ana="http://www.wikidata.org/entity/Q725527">
             <persName>Kalchas</persName>
           </person>
-          <person xml:id="deiphobus" sex="MALE">
+          <person xml:id="deiphobus" sex="MALE" ana="http://www.wikidata.org/entity/Q736813">
             <persName>Deiphobus</persName>
           </person>
           <personGrp xml:id="alle_iv-5" sex="MALE">
             <name>Alle (IV/5)</name>
           </personGrp>
-          <person xml:id="andromache" sex="FEMALE">
+          <person xml:id="andromache" sex="FEMALE" ana="http://www.wikidata.org/entity/Q19376">
             <persName>Andromache</persName>
           </person>
           <person xml:id="diener_v-5" sex="MALE">
-            <persName>Diener (V/5)</persName>
+            <persName>Ein Diener (V/5)</persName>
           </person>
           <person xml:id="margarelon" sex="MALE">
             <persName>Margarelon</persName>

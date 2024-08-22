@@ -68,22 +68,22 @@
           <person xml:id="bote" sex="MALE">
             <persName>Bote</persName>
           </person>
-          <person xml:id="beatrice" sex="FEMALE">
+          <person xml:id="beatrice" sex="FEMALE" ana="http://www.wikidata.org/entity/Q97156756">
             <persName>Beatrice</persName>
           </person>
-          <person xml:id="hero" sex="FEMALE">
+          <person xml:id="hero" sex="FEMALE" ana="http://www.wikidata.org/entity/Q108757945">
             <persName>Hero</persName>
           </person>
-          <person xml:id="don_pedro" sex="MALE">
+          <person xml:id="don_pedro" sex="MALE" ana="http://www.wikidata.org/entity/Q5293299">
             <persName>Don Pedro</persName>
           </person>
-          <person xml:id="benedikt" sex="MALE">
+          <person xml:id="benedikt" sex="MALE" ana="http://www.wikidata.org/entity/Q125374100">
             <persName>Benedikt</persName>
           </person>
-          <person xml:id="don_juan" sex="MALE">
+          <person xml:id="don_juan" sex="MALE" ana="http://www.wikidata.org/entity/Q125374125">
             <persName>Don Juan</persName>
           </person>
-          <person xml:id="claudio" sex="MALE">
+          <person xml:id="claudio" sex="MALE" ana="http://www.wikidata.org/entity/Q125374118">
             <persName>Claudio</persName>
           </person>
           <person xml:id="antonio" sex="MALE">
@@ -95,7 +95,7 @@
           <person xml:id="borachio" sex="MALE">
             <persName>Borachio</persName>
           </person>
-          <person xml:id="margareta" sex="FEMALE">
+          <person xml:id="margareta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q26904362">
             <persName>Margareta</persName>
           </person>
           <person xml:id="balthasar" sex="MALE">
@@ -107,7 +107,7 @@
           <person xml:id="page" sex="MALE">
             <persName>Page</persName>
           </person>
-          <person xml:id="holzapfel" sex="MALE">
+          <person xml:id="holzapfel" sex="MALE" ana="http://www.wikidata.org/entity/Q5288312">
             <persName>Holzapfel</persName>
           </person>
           <person xml:id="schlehwein" sex="MALE">
@@ -120,7 +120,7 @@
             <persName>Zweite Wache</persName>
           </person>
           <person xml:id="diener_iii-5" sex="MALE">
-            <persName>Diener (III/5)</persName>
+            <persName>Ein Diener (III/5)</persName>
           </person>
           <person xml:id="moench" sex="MALE">
             <persName>Ein Mönch</persName>
@@ -129,13 +129,13 @@
             <persName>Ein Schreiber</persName>
           </person>
           <person xml:id="diener_v-3" sex="MALE">
-            <persName>Diener (V/3)</persName>
+            <persName>Ein Diener (V/3)</persName>
           </person>
           <personGrp xml:id="gesang" sex="UNKNOWN">
             <name>Gesang</name>
           </personGrp>
           <person xml:id="diener_v-4" sex="MALE">
-            <persName>Diener (V/4)</persName>
+            <persName>Ein Diener (V/4)</persName>
           </person>
         </listPerson>
       </particDesc>

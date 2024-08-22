@@ -61,7 +61,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="orlando" sex="MALE">
+          <person xml:id="orlando" sex="MALE" ana="http://www.wikidata.org/entity/Q7103025">
             <persName>Orlando</persName>
           </person>
           <person xml:id="adam" sex="MALE">
@@ -76,13 +76,13 @@
           <person xml:id="charles" sex="MALE">
             <persName>Charles</persName>
           </person>
-          <person xml:id="celia" sex="FEMALE">
+          <person xml:id="celia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5057966">
             <persName>Celia</persName>
           </person>
-          <person xml:id="rosalinde" sex="FEMALE">
+          <person xml:id="rosalinde" sex="FEMALE" ana="http://www.wikidata.org/entity/Q60834955">
             <persName>Rosalinde</persName>
           </person>
-          <person xml:id="probstein" sex="MALE">
+          <person xml:id="probstein" sex="MALE" ana="http://www.wikidata.org/entity/Q7828727">
             <persName>Probstein</persName>
           </person>
           <person xml:id="le_beau" sex="MALE">
@@ -112,7 +112,7 @@
           <person xml:id="silvius" sex="MALE">
             <persName>Silvius</persName>
           </person>
-          <person xml:id="jaques" sex="MALE">
+          <person xml:id="jaques" sex="MALE" ana="http://www.wikidata.org/entity/Q6159398">
             <persName>Jaques</persName>
           </person>
           <personGrp xml:id="alle_zusammen_ii-5" sex="MALE">
@@ -154,7 +154,7 @@
           <person xml:id="zweiter_page" sex="MALE">
             <persName>Zweiter Page</persName>
           </person>
-          <person xml:id="hymen" sex="FEMALE">
+          <person xml:id="hymen" sex="MALE" ana="http://www.wikidata.org/entity/Q506770">
             <persName>Hymen</persName>
           </person>
         </listPerson>

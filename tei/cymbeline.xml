@@ -72,10 +72,10 @@
           <person xml:id="posthumus" sex="MALE">
             <persName>Leonatus Posthumus</persName>
           </person>
-          <person xml:id="imogen" sex="FEMALE">
+          <person xml:id="imogen" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6005653">
             <persName>Imogen</persName>
           </person>
-          <person xml:id="cymbeline" sex="MALE">
+          <person xml:id="cymbeline" sex="MALE" ana="http://www.wikidata.org/entity/Q437417">
             <persName>Cymbeline</persName>
           </person>
           <person xml:id="pisanio" sex="MALE">
@@ -93,7 +93,7 @@
           <person xml:id="hofdame_i-4" sex="FEMALE">
             <persName>Hofdame (I/4)</persName>
           </person>
-          <person xml:id="jachimo" sex="MALE">
+          <person xml:id="jachimo" sex="MALE" ana="http://www.wikidata.org/entity/Q105969861">
             <persName>Jachimo</persName>
           </person>
           <person xml:id="philario" sex="MALE">
@@ -120,10 +120,10 @@
           <person xml:id="bellarius" sex="MALE">
             <persName>Bellarius</persName>
           </person>
-          <person xml:id="guiderius" sex="MALE">
+          <person xml:id="guiderius" sex="MALE" ana="http://www.wikidata.org/entity/Q3779135">
             <persName>Guiderius</persName>
           </person>
-          <person xml:id="arviragus" sex="MALE">
+          <person xml:id="arviragus" sex="MALE" ana="http://www.wikidata.org/entity/Q608841">
             <persName>Arviragus</persName>
           </person>
           <person xml:id="diener" sex="MALE">
@@ -174,7 +174,7 @@
           <person xml:id="zweiter_bruder" sex="MALE">
             <persName>Zweiter Bruder</persName>
           </person>
-          <person xml:id="jupiter" sex="MALE">
+          <person xml:id="jupiter" sex="MALE" ana="http://www.wikidata.org/entity/Q4649">
             <persName>Jupiter</persName>
           </person>
           <person xml:id="bote_v-4" sex="MALE">

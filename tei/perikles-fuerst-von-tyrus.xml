@@ -60,13 +60,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="gower" sex="MALE">
+          <person xml:id="gower" sex="MALE" ana="http://www.wikidata.org/entity/Q365133">
             <persName>Gower</persName>
           </person>
           <person xml:id="antiochus" sex="MALE">
             <persName>Antiochus</persName>
           </person>
-          <person xml:id="perikles" sex="MALE">
+          <person xml:id="perikles" sex="MALE" ana="http://www.wikidata.org/entity/Q121143329">
             <persName>Perikles</persName>
           </person>
           <person xml:id="die_tochter" sex="FEMALE">

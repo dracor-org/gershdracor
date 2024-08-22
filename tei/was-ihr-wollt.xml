@@ -61,8 +61,8 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="herzog" sex="MALE">
-            <persName>Herzog</persName>
+          <person xml:id="herzog" sex="MALE" ana="http://www.wikidata.org/entity/Q7104140">
+            <persName>Orsino, Herzog von Illyrien</persName>
           </person>
           <person xml:id="curio" sex="MALE">
             <persName>Curio</persName>
@@ -70,41 +70,41 @@
           <person xml:id="valentin" sex="MALE">
             <persName>Valentin</persName>
           </person>
-          <person xml:id="viola" sex="FEMALE">
+          <person xml:id="viola" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7932996">
             <persName>Viola</persName>
           </person>
           <person xml:id="schiffshauptmann" sex="MALE">
             <persName>Ein Schiffshauptmann</persName>
           </person>
-          <person xml:id="junker_tobias" sex="MALE">
-            <persName>Junker Tobias</persName>
+          <person xml:id="junker_tobias" sex="MALE" ana="http://www.wikidata.org/entity/Q7811769">
+            <persName>Junker Tobias von Rülp</persName>
           </person>
-          <person xml:id="maria" sex="FEMALE">
+          <person xml:id="maria" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6760968">
             <persName>Maria</persName>
           </person>
-          <person xml:id="junker_christoph" sex="MALE">
-            <persName>Junker Christoph</persName>
+          <person xml:id="junker_christoph" sex="MALE" ana="http://www.wikidata.org/entity/Q4756185">
+            <persName>Junker Christoph von Bleichenwang</persName>
           </person>
-          <person xml:id="narr" sex="MALE">
+          <person xml:id="narr" sex="MALE" ana="http://www.wikidata.org/entity/Q5445659">
             <persName>Narr</persName>
           </person>
-          <person xml:id="olivia" sex="FEMALE">
+          <person xml:id="olivia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7088017">
             <persName>Olivia</persName>
           </person>
-          <person xml:id="malvolio" sex="MALE">
+          <person xml:id="malvolio" sex="MALE" ana="http://www.wikidata.org/entity/Q3844047">
             <persName>Malvolio</persName>
           </person>
           <person xml:id="antonio" sex="MALE">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="sebastian" sex="MALE">
+          <person xml:id="sebastian" sex="MALE" ana="http://www.wikidata.org/entity/Q7442354">
             <persName>Sebastian</persName>
           </person>
           <person xml:id="fabio" sex="MALE">
             <persName>Fabio</persName>
           </person>
           <person xml:id="bedienter" sex="MALE">
-            <persName>Bedienter</persName>
+            <persName>Ein Bedienter</persName>
           </person>
           <person xml:id="erster_gerichtsdiener" sex="MALE">
             <persName>Erster Gerichtsdiener</persName>

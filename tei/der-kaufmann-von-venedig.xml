@@ -61,61 +61,61 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antonio" sex="MALE">
+          <person xml:id="antonio" sex="MALE" ana="http://www.wikidata.org/entity/Q4776379">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="salarino" sex="MALE">
+          <person xml:id="salarino" sex="MALE" ana="http://www.wikidata.org/entity/Q64145704">
             <persName>Salarino</persName>
           </person>
-          <person xml:id="solanio" sex="MALE">
+          <person xml:id="solanio" sex="MALE" ana="http://www.wikidata.org/entity/Q64145705">
             <persName>Solanio</persName>
           </person>
-          <person xml:id="bassanio" sex="MALE">
+          <person xml:id="bassanio" sex="MALE" ana="http://www.wikidata.org/entity/Q85745665">
             <persName>Bassanio</persName>
           </person>
-          <person xml:id="lorenzo" sex="MALE">
+          <person xml:id="lorenzo" sex="MALE" ana="http://www.wikidata.org/entity/Q63191940">
             <persName>Lorenzo</persName>
           </person>
-          <person xml:id="graziano" sex="MALE">
+          <person xml:id="graziano" sex="MALE" ana="http://www.wikidata.org/entity/Q64145685">
             <persName>Graziano</persName>
           </person>
-          <person xml:id="porzia" sex="FEMALE">
+          <person xml:id="porzia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7231797">
             <persName>Porzia</persName>
           </person>
-          <person xml:id="nerissa" sex="FEMALE">
+          <person xml:id="nerissa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145686">
             <persName>Nerissa</persName>
           </person>
           <person xml:id="bedienter_i-2" sex="MALE">
-            <persName>Bedienter (I/2)</persName>
+            <persName>Ein Bedienter (I/2)</persName>
           </person>
-          <person xml:id="shylock" sex="MALE">
+          <person xml:id="shylock" sex="MALE" ana="http://www.wikidata.org/entity/Q2362952">
             <persName>Shylock</persName>
           </person>
-          <person xml:id="marokko" sex="MALE">
+          <person xml:id="marokko" sex="MALE" ana="http://www.wikidata.org/entity/Q64145698">
             <persName>Prinz von Marokko</persName>
           </person>
-          <person xml:id="lanzelot" sex="MALE">
+          <person xml:id="lanzelot" sex="MALE" ana="http://www.wikidata.org/entity/Q64145690">
             <persName>Lanzelot Gobbo</persName>
           </person>
-          <person xml:id="gobbo" sex="MALE">
+          <person xml:id="gobbo" sex="MALE" ana="http://www.wikidata.org/entity/Q64145692">
             <persName>Der alte Gobbo</persName>
           </person>
-          <person xml:id="leonardo" sex="MALE">
+          <person xml:id="leonardo" sex="MALE" ana="http://www.wikidata.org/entity/Q64145694">
             <persName>Leonardo</persName>
           </person>
-          <person xml:id="jessica" sex="FEMALE">
+          <person xml:id="jessica" sex="FEMALE" ana="http://www.wikidata.org/entity/Q30612507">
             <persName>Jessica</persName>
           </person>
-          <person xml:id="arragon" sex="MALE">
+          <person xml:id="arragon" sex="MALE" ana="http://www.wikidata.org/entity/Q64145703">
             <persName>Prinz von Arragon</persName>
           </person>
           <person xml:id="bedienter_ii-9" sex="MALE">
-            <persName>Bedienter (II/9)</persName>
+            <persName>Ein Bedienter (II/9)</persName>
           </person>
           <person xml:id="bedienter_iii-1" sex="MALE">
-            <persName>Bedienter (III/1)</persName>
+            <persName>Ein Bedienter (III/1)</persName>
           </person>
-          <person xml:id="tubal" sex="MALE">
+          <person xml:id="tubal" sex="MALE" ana="http://www.wikidata.org/entity/Q64145689">
             <persName>Tubal</persName>
           </person>
           <person xml:id="erste_stimme" sex="MALE">
@@ -127,16 +127,16 @@
           <person xml:id="salerio" sex="MALE">
             <persName>Salerio</persName>
           </person>
-          <person xml:id="balthasar" sex="MALE">
+          <person xml:id="balthasar" sex="MALE" ana="http://www.wikidata.org/entity/Q64145707">
             <persName>Balthasar</persName>
           </person>
-          <person xml:id="doge" sex="MALE">
+          <person xml:id="doge" sex="MALE" ana="http://www.wikidata.org/entity/Q64145696">
             <persName>Der Doge von Venedig</persName>
           </person>
           <person xml:id="ein_schreiber" sex="MALE">
             <persName>Ein Schreiber</persName>
           </person>
-          <person xml:id="stephano" sex="MALE">
+          <person xml:id="stephano" sex="MALE" ana="http://www.wikidata.org/entity/Q64145687">
             <persName>Stephano</persName>
           </person>
         </listPerson>

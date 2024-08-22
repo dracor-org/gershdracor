@@ -68,7 +68,7 @@
           <person xml:id="escalus" sex="MALE">
             <persName>Escalus</persName>
           </person>
-          <person xml:id="angelo" sex="MALE">
+          <person xml:id="angelo" sex="MALE" ana="http://www.wikidata.org/entity/Q4762821">
             <persName>Angelo</persName>
           </person>
           <person xml:id="lucio" sex="MALE">
@@ -128,7 +128,7 @@
           <person xml:id="bote" sex="MALE">
             <persName>Bote</persName>
           </person>
-          <person xml:id="bernardin" sex="MALE">
+          <person xml:id="bernardin" sex="MALE" ana="http://www.wikidata.org/entity/Q70476571">
             <persName>Bernardin</persName>
           </person>
           <person xml:id="peter" sex="MALE">
