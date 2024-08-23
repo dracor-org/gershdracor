@@ -61,25 +61,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="koenig_richard" sex="MALE">
+          <person xml:id="koenig_richard" sex="MALE" ana="http://www.wikidata.org/entity/Q81000">
             <persName>König Richard II.</persName>
           </person>
-          <person xml:id="gaunt" sex="MALE">
+          <person xml:id="gaunt" sex="MALE" ana="http://www.wikidata.org/entity/Q193752">
             <persName>Johann von Gaunt</persName>
           </person>
-          <person xml:id="bolingbroke" sex="MALE">
+          <person xml:id="bolingbroke" sex="MALE" ana="http://www.wikidata.org/entity/Q161866">
             <persName>Heinrich, mit dem Zunamen Bolingbroke, Herzog von Hereford</persName>
           </person>
-          <person xml:id="norfolk" sex="MALE">
+          <person xml:id="norfolk" sex="MALE" ana="http://www.wikidata.org/entity/Q711992">
             <persName>Mowbray, Herzog von Norfolk</persName>
           </person>
-          <person xml:id="herzogin_von_gloster" sex="FEMALE">
+          <person xml:id="herzogin_von_gloster" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q2548323">
             <persName>Herzogin von Gloster</persName>
           </person>
           <person xml:id="lord_marschall" sex="MALE">
             <persName>Lord Marschall</persName>
           </person>
-          <person xml:id="aumerle" sex="MALE">
+          <person xml:id="aumerle" sex="MALE" ana="http://www.wikidata.org/entity/Q452639">
             <persName>Herzog von Aumerle</persName>
           </person>
           <person xml:id="erster_herold" sex="MALE">
@@ -88,49 +89,49 @@
           <person xml:id="zweiter_herold" sex="MALE">
             <persName>Zweiter Herold</persName>
           </person>
-          <person xml:id="green" sex="MALE">
+          <person xml:id="green" sex="MALE" ana="http://www.wikidata.org/entity/Q5722188">
             <persName>Green</persName>
           </person>
-          <person xml:id="bushy" sex="MALE">
+          <person xml:id="bushy" sex="MALE" ana="http://www.wikidata.org/entity/Q6224092">
             <persName>Bushy</persName>
           </person>
-          <person xml:id="york" sex="MALE">
+          <person xml:id="york" sex="MALE" ana="http://www.wikidata.org/entity/Q305002">
             <persName>Edmund von Langley, Herzog von York</persName>
           </person>
-          <person xml:id="koenigin" sex="FEMALE">
+          <person xml:id="koenigin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170202">
             <persName>Die Königin</persName>
           </person>
-          <person xml:id="northumberland" sex="MALE">
+          <person xml:id="northumberland" sex="MALE" ana="http://www.wikidata.org/entity/Q1398378">
             <persName>Graf von Northumberland</persName>
           </person>
-          <person xml:id="ross" sex="MALE">
+          <person xml:id="ross" sex="MALE" ana="http://www.wikidata.org/entity/Q8020820">
             <persName>Lord Ross</persName>
           </person>
-          <person xml:id="willoughby" sex="MALE">
+          <person xml:id="willoughby" sex="MALE" ana="http://www.wikidata.org/entity/Q2581065">
             <persName>Lord Willoughby</persName>
           </person>
           <person xml:id="bedienter_ii-3" sex="MALE">
             <persName>Ein Bedienter (II/3)</persName>
           </person>
-          <person xml:id="bagot" sex="MALE">
+          <person xml:id="bagot" sex="MALE" ana="http://www.wikidata.org/entity/Q8004925">
             <persName>Bagot</persName>
           </person>
-          <person xml:id="percy" sex="MALE">
+          <person xml:id="percy" sex="MALE" ana="http://www.wikidata.org/entity/Q471421">
             <persName>Heinrich Percy</persName>
           </person>
-          <person xml:id="berkley" sex="MALE">
+          <person xml:id="berkley" sex="MALE" ana="http://www.wikidata.org/entity/Q7795453">
             <persName>Graf Berkley</persName>
           </person>
           <person xml:id="hauptmann" sex="MALE">
             <persName>Der Hauptmann einer Schar von Wallisern</persName>
           </person>
-          <person xml:id="salisbury" sex="MALE">
+          <person xml:id="salisbury" sex="MALE" ana="http://www.wikidata.org/entity/Q3020313">
             <persName>Graf von Salisbury</persName>
           </person>
-          <person xml:id="carlisle" sex="MALE">
+          <person xml:id="carlisle" sex="MALE" ana="http://www.wikidata.org/entity/Q7792397">
             <persName>Bischof von Carlisle</persName>
           </person>
-          <person xml:id="scroop" sex="MALE">
+          <person xml:id="scroop" sex="MALE" ana="http://www.wikidata.org/entity/Q27493894">
             <persName>Sir Stephen Scroop</persName>
           </person>
           <person xml:id="erstes_fraeulein" sex="FEMALE">
@@ -142,19 +143,20 @@
           <person xml:id="erster_geselle" sex="MALE">
             <persName>Erster Geselle</persName>
           </person>
-          <person xml:id="fitzwater" sex="MALE">
+          <person xml:id="fitzwater" sex="MALE" ana="http://www.wikidata.org/entity/Q18811357">
             <persName>Lord Fitzwater</persName>
           </person>
           <person xml:id="ein_lord" sex="MALE">
             <persName>Ein Lord</persName>
           </person>
-          <person xml:id="surrey" sex="MALE">
+          <person xml:id="surrey" sex="MALE" ana="http://www.wikidata.org/entity/Q2501872">
             <persName>Herzog von Surrey</persName>
           </person>
-          <person xml:id="abt" sex="MALE">
+          <person xml:id="abt">
             <persName>Abt von Westminster</persName>
           </person>
-          <person xml:id="herzogin_von_york" sex="FEMALE">
+          <person xml:id="herzogin_von_york" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q434485">
             <persName>Herzogin von York</persName>
           </person>
           <person xml:id="exton" sex="MALE">

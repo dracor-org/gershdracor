@@ -61,31 +61,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="koenig_heinrich" sex="MALE">
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q161866">
             <persName>König Heinrich IV.</persName>
           </person>
-          <person xml:id="westmoreland" sex="MALE">
+          <person xml:id="westmoreland" sex="MALE" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Graf von Westmoreland</persName>
           </person>
-          <person xml:id="falstaff" sex="MALE">
+          <person xml:id="falstaff" sex="MALE" ana="http://www.wikidata.org/entity/Q1233109">
             <persName>Sir John Falstaff</persName>
           </person>
-          <person xml:id="prinz_heinrich" sex="MALE">
+          <person xml:id="prinz_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q131581">
             <persName>Heinrich, Prinz von Wales</persName>
           </person>
-          <person xml:id="poins" sex="MALE">
+          <person xml:id="poins" sex="MALE" ana="http://www.wikidata.org/entity/Q18752824">
             <persName>Poins</persName>
           </person>
-          <person xml:id="worcester" sex="MALE">
+          <person xml:id="worcester" sex="MALE" ana="http://www.wikidata.org/entity/Q2082616">
             <persName>Graf von Worcester</persName>
           </person>
-          <person xml:id="northumberland" sex="MALE">
+          <person xml:id="northumberland" sex="MALE" ana="http://www.wikidata.org/entity/Q1398378">
             <persName>Graf von Northumberland</persName>
           </person>
-          <person xml:id="percy" sex="MALE">
-            <persName>Heinrich Percy</persName>
+          <person xml:id="percy" sex="MALE" ana="http://www.wikidata.org/entity/Q471421">
+            <persName>Heinrich Percy, mit dem Beinamen Heißsporn</persName>
           </person>
-          <person xml:id="blunt" sex="MALE">
+          <person xml:id="blunt" sex="MALE" ana="http://www.wikidata.org/entity/Q7964324">
             <persName>Sir Walter Blunt</persName>
           </person>
           <person xml:id="erster_kaerrner" sex="MALE">
@@ -103,7 +103,7 @@
           <person xml:id="hausknecht" sex="MALE">
             <persName>Hausknecht</persName>
           </person>
-          <person xml:id="bardolph" sex="MALE">
+          <person xml:id="bardolph" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
           <person xml:id="peto" sex="MALE">
@@ -115,7 +115,7 @@
           <personGrp xml:id="die_reisenden" sex="MALE">
             <name>Die Reisenden</name>
           </personGrp>
-          <person xml:id="lady_percy" sex="FEMALE">
+          <person xml:id="lady_percy" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5363245">
             <persName>Lady Percy</persName>
           </person>
           <person xml:id="bedienter" sex="MALE">
@@ -127,7 +127,7 @@
           <person xml:id="kellner" sex="MALE">
             <persName>Kellner</persName>
           </person>
-          <person xml:id="wirtin" sex="FEMALE">
+          <person xml:id="wirtin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Frau Hurtig (Wirtin)</persName>
           </person>
           <person xml:id="sheriff" sex="MALE">
@@ -136,22 +136,22 @@
           <person xml:id="kaerrner_ii-4" sex="MALE">
             <persName>Ein Kärrner (II/4)</persName>
           </person>
-          <person xml:id="mortimer" sex="MALE">
+          <person xml:id="mortimer" sex="MALE" ana="http://www.wikidata.org/entity/Q3402270">
             <persName>Edmund Mortimer, Graf von March</persName>
           </person>
-          <person xml:id="glendower" sex="MALE">
+          <person xml:id="glendower" sex="MALE" ana="http://www.wikidata.org/entity/Q317279">
             <persName>Owen Glendower</persName>
           </person>
-          <person xml:id="douglas" sex="MALE">
+          <person xml:id="douglas" sex="MALE" ana="http://www.wikidata.org/entity/Q633144">
             <persName>Archibald, Graf von Douglas</persName>
           </person>
           <person xml:id="bote_iv-1" sex="MALE">
             <persName>Ein Bote (IV/1)</persName>
           </person>
-          <person xml:id="vernon" sex="MALE">
+          <person xml:id="vernon" sex="MALE" ana="http://www.wikidata.org/entity/Q100901247">
             <persName>Sir Richard Vernon</persName>
           </person>
-          <person xml:id="erzbischof" sex="MALE">
+          <person xml:id="erzbischof" sex="MALE" ana="http://www.wikidata.org/entity/Q3431392">
             <persName>Scroop, Erzbischof von York</persName>
           </person>
           <person xml:id="edelmann" sex="MALE">
@@ -163,7 +163,7 @@
           <person xml:id="bote_v-2b" sex="MALE">
             <persName>Ein andrer Bote (V/2)</persName>
           </person>
-          <person xml:id="prinz_johann" sex="MALE">
+          <person xml:id="prinz_johann" sex="MALE" ana="http://www.wikidata.org/entity/Q348441">
             <persName>Prinz Johann von Lancaster</persName>
           </person>
         </listPerson>

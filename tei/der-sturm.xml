@@ -66,13 +66,13 @@
         <person xml:id="bootsmann" sex="MALE">
           <persName>Ein Bootsmann</persName>
         </person>
-        <person xml:id="alonso" sex="MALE">
+        <person xml:id="alonso" sex="MALE" ana="http://www.wikidata.org/entity/Q3337857">
           <persName>Alonso</persName>
         </person>
-        <person xml:id="antonio" sex="MALE">
+        <person xml:id="antonio" sex="MALE" ana="http://www.wikidata.org/entity/Q15703427">
           <persName>Antonio</persName>
         </person>
-        <person xml:id="gonzalo" sex="MALE">
+        <person xml:id="gonzalo" sex="MALE" ana="http://www.wikidata.org/entity/Q5582168">
           <persName>Gonzalo</persName>
         </person>
         <person xml:id="sebastian" sex="MALE">
@@ -81,43 +81,43 @@
         <personGrp xml:id="matrosen" sex="MALE">
           <name>Matrosen</name>
         </personGrp>
-        <person xml:id="miranda" sex="FEMALE">
+        <person xml:id="miranda" sex="FEMALE" ana="http://www.wikidata.org/entity/Q634983">
           <persName>Miranda</persName>
         </person>
-        <person xml:id="prospero" sex="MALE">
+        <person xml:id="prospero" sex="MALE" ana="http://www.wikidata.org/entity/Q978952">
           <persName>Prospero</persName>
         </person>
-        <person xml:id="ariel" sex="UNKNOWN">
+        <person xml:id="ariel" sex="UNKNOWN" ana="http://www.wikidata.org/entity/Q658028">
           <persName>Ariel</persName>
         </person>
-        <person xml:id="caliban" sex="MALE">
+        <person xml:id="caliban" sex="MALE" ana="http://www.wikidata.org/entity/Q533120">
           <persName>Caliban</persName>
         </person>
         <personGrp xml:id="zerstreute_stimmen_chor" sex="UNKNOWN">
           <name>Zerstreute Stimmen/Chor</name>
         </personGrp>
-        <person xml:id="ferdinand" sex="MALE">
+        <person xml:id="ferdinand" sex="MALE" ana="http://www.wikidata.org/entity/Q5443792">
           <persName>Ferdinand</persName>
         </person>
         <person xml:id="adrian" sex="MALE">
           <persName>Adrian</persName>
         </person>
-        <person xml:id="francisco" sex="MALE">
+        <person xml:id="francisco" sex="MALE" ana="http://www.wikidata.org/entity/Q70202832">
           <persName>Francisco</persName>
         </person>
-        <person xml:id="trinculo" sex="MALE">
+        <person xml:id="trinculo" sex="MALE" ana="http://www.wikidata.org/entity/Q70204054">
           <persName>Trinculo</persName>
         </person>
-        <person xml:id="stephano" sex="MALE">
+        <person xml:id="stephano" sex="MALE" ana="http://www.wikidata.org/entity/Q7608448">
           <persName>Stephano</persName>
         </person>
-        <person xml:id="iris" sex="FEMALE">
+        <person xml:id="iris" sex="FEMALE" ana="http://www.wikidata.org/entity/Q184570">
           <persName>Iris</persName>
         </person>
-        <person xml:id="ceres" sex="FEMALE">
+        <person xml:id="ceres" sex="FEMALE" ana="http://www.wikidata.org/entity/Q32102">
           <persName>Ceres</persName>
         </person>
-        <person xml:id="juno" sex="FEMALE">
+        <person xml:id="juno" sex="FEMALE" ana="http://www.wikidata.org/entity/Q125046">
           <persName>Juno</persName>
         </person>
       </particDesc>

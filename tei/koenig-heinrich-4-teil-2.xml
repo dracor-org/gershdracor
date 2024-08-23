@@ -64,13 +64,13 @@
           <person xml:id="geruecht" sex="UNKNOWN">
             <persName>Gerücht</persName>
           </person>
-          <person xml:id="lord_bardolph" sex="MALE">
+          <person xml:id="lord_bardolph" sex="MALE" ana="http://www.wikidata.org/entity/Q7787379">
             <persName>Lord Bardolph</persName>
           </person>
           <person xml:id="pfoertner" sex="MALE">
             <persName>Pförtner</persName>
           </person>
-          <person xml:id="northumberland" sex="MALE">
+          <person xml:id="northumberland" sex="MALE" ana="http://www.wikidata.org/entity/Q1398378">
             <persName>Graf von Northumberland</persName>
           </person>
           <person xml:id="travers" sex="MALE">
@@ -79,7 +79,7 @@
           <person xml:id="morton" sex="MALE">
             <persName>Morton</persName>
           </person>
-          <person xml:id="falstaff" sex="MALE">
+          <person xml:id="falstaff" sex="MALE" ana="http://www.wikidata.org/entity/Q1233109">
             <persName>Sir John Falstaff</persName>
           </person>
           <person xml:id="page" sex="MALE">
@@ -91,16 +91,16 @@
           <person xml:id="unterbeamter" sex="MALE">
             <persName>Ein Unterbeamter</persName>
           </person>
-          <person xml:id="erzbischof" sex="MALE">
+          <person xml:id="erzbischof" sex="MALE" ana="http://www.wikidata.org/entity/Q3431392">
             <persName>Scroop, Erzbischof von York</persName>
           </person>
-          <person xml:id="mowbray" sex="MALE">
+          <person xml:id="mowbray" sex="MALE" ana="http://www.wikidata.org/entity/Q6739909">
             <persName>Lord Mowbray</persName>
           </person>
-          <person xml:id="hastings" sex="MALE">
+          <person xml:id="hastings" sex="MALE" ana="http://www.wikidata.org/entity/Q18762059">
             <persName>Lord Hastings</persName>
           </person>
-          <person xml:id="wirtin" sex="FEMALE">
+          <person xml:id="wirtin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Frau Hurtig (Wirtin)</persName>
           </person>
           <person xml:id="klaue" sex="MALE">
@@ -112,19 +112,20 @@
           <person xml:id="gower" sex="MALE">
             <persName>Gower</persName>
           </person>
-          <person xml:id="prinz_heinrich_koenig" sex="MALE">
+          <person xml:id="prinz_heinrich_koenig" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q131581">
             <persName>Prinz Heinrich von Wales/Heinrich V.</persName>
           </person>
-          <person xml:id="poins" sex="MALE">
+          <person xml:id="poins" sex="MALE" ana="http://www.wikidata.org/entity/Q18752824">
             <persName>Poins</persName>
           </person>
-          <person xml:id="bardolph" sex="MALE">
+          <person xml:id="bardolph" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
           <person xml:id="lady_northumberland" sex="FEMALE">
             <persName>Lady Northumberland</persName>
           </person>
-          <person xml:id="lady_percy" sex="FEMALE">
+          <person xml:id="lady_percy" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5363245">
             <persName>Lady Percy</persName>
           </person>
           <person xml:id="erster_kuefer" sex="MALE">
@@ -133,25 +134,25 @@
           <person xml:id="zweiter_kuefer" sex="MALE">
             <persName>Zweiter Küfer</persName>
           </person>
-          <person xml:id="dortchen" sex="FEMALE">
+          <person xml:id="dortchen" sex="FEMALE" ana="http://www.wikidata.org/entity/Q18211594">
             <persName>Dortchen Lakenreißer</persName>
           </person>
           <person xml:id="kuefer" sex="MALE">
             <persName>Ein Küfer</persName>
           </person>
-          <person xml:id="pistol" sex="MALE">
+          <person xml:id="pistol" sex="MALE" ana="http://www.wikidata.org/entity/Q16932862">
             <persName>Pistol</persName>
           </person>
           <person xml:id="peto" sex="MALE">
             <persName>Peto</persName>
           </person>
-          <person xml:id="koenig_heinrich" sex="MALE">
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q161866">
             <persName>König Heinrich IV.</persName>
           </person>
-          <person xml:id="warwick" sex="MALE">
+          <person xml:id="warwick" sex="MALE" ana="http://www.wikidata.org/entity/Q592988">
             <persName>Graf von Warwick</persName>
           </person>
-          <person xml:id="schaal" sex="MALE">
+          <person xml:id="schaal" sex="MALE" ana="http://www.wikidata.org/entity/Q18390753">
             <persName>Schaal</persName>
           </person>
           <person xml:id="stille" sex="MALE">
@@ -175,19 +176,19 @@
           <person xml:id="bote" sex="MALE">
             <persName>Ein Bote</persName>
           </person>
-          <person xml:id="westmoreland" sex="MALE">
+          <person xml:id="westmoreland" sex="MALE" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Graf von Westmoreland</persName>
           </person>
-          <person xml:id="prinz_johann" sex="MALE">
+          <person xml:id="prinz_johann" sex="MALE" ana="http://www.wikidata.org/entity/Q348441">
             <persName>Prinz Johann von Lancaster</persName>
           </person>
           <person xml:id="colevile" sex="MALE">
             <persName>Sir John Colevile</persName>
           </person>
-          <person xml:id="prinz_humphrey" sex="MALE">
+          <person xml:id="prinz_humphrey" sex="MALE" ana="http://www.wikidata.org/entity/Q447541">
             <persName>Prinz Humphrey von Gloster</persName>
           </person>
-          <person xml:id="clarence" sex="MALE">
+          <person xml:id="clarence" sex="MALE" ana="http://www.wikidata.org/entity/Q511869">
             <persName>Thomas, Herzog von Clarence</persName>
           </person>
           <person xml:id="harcourt" sex="MALE">

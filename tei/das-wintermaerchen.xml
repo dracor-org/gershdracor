@@ -69,7 +69,7 @@
           <person xml:id="polyxenes" sex="MALE">
             <persName>Polyxenes</persName>
           </person>
-          <person xml:id="leontes" sex="MALE">
+          <person xml:id="leontes" sex="MALE" ana="http://www.wikidata.org/entity/Q6526741">
             <persName>Leontes</persName>
           </person>
           <person xml:id="hermione" sex="FEMALE">
@@ -100,7 +100,7 @@
             <persName>Emilia</persName>
           </person>
           <person xml:id="diener_ii-3" sex="MALE">
-            <persName>Diener (II/3)</persName>
+            <persName>Ein Diener (II/3)</persName>
           </person>
           <person xml:id="erster_herr_ii-3" sex="MALE">
             <persName>Erster Herr (II/3)</persName>
@@ -115,7 +115,7 @@
             <persName>Dion</persName>
           </person>
           <person xml:id="beamter" sex="MALE">
-            <persName>Beamter</persName>
+            <persName>Ein Beamter</persName>
           </person>
           <person xml:id="erster_herr_iii-2" sex="MALE">
             <persName>Erster Herr (III/2)</persName>
@@ -124,7 +124,7 @@
             <name>Alle (III/2)</name>
           </personGrp>
           <person xml:id="diener_iii-2" sex="MALE">
-            <persName>Diener (III/2)</persName>
+            <persName>Ein Diener (III/2)</persName>
           </person>
           <person xml:id="matrose" sex="MALE">
             <persName>Ein Matrose</persName>
@@ -141,10 +141,10 @@
           <person xml:id="autolycus" sex="MALE">
             <persName>Autolycus</persName>
           </person>
-          <person xml:id="florizel" sex="MALE">
+          <person xml:id="florizel" sex="MALE" ana="http://www.wikidata.org/entity/Q5461920">
             <persName>Florizel</persName>
           </person>
-          <person xml:id="perdita" sex="FEMALE">
+          <person xml:id="perdita" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7167694">
             <persName>Perdita</persName>
           </person>
           <person xml:id="dorcas" sex="FEMALE">
@@ -154,16 +154,16 @@
             <persName>Mopsa</persName>
           </person>
           <person xml:id="knecht_iv-3a" sex="MALE">
-            <persName>Knecht (IV/3)</persName>
+            <persName>Ein Knecht (IV/3)</persName>
           </person>
           <person xml:id="knecht_iv-3b" sex="MALE">
-            <persName>Knecht (IV/3)</persName>
+            <persName>Ein Knecht (IV/3)</persName>
           </person>
           <person xml:id="edelmann" sex="MALE">
-            <persName>Edelmann</persName>
+            <persName>Ein Edelmann</persName>
           </person>
           <person xml:id="hofherr" sex="MALE">
-            <persName>Hofherr</persName>
+            <persName>Ein Hofherr</persName>
           </person>
           <person xml:id="erster_edelmann" sex="MALE">
             <persName>Erster Edelmann</persName>

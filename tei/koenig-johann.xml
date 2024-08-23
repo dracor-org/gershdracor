@@ -60,19 +60,19 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="koenig_johann" sex="MALE">
+          <person xml:id="koenig_johann" sex="MALE" ana="http://www.wikidata.org/entity/Q129308">
             <persName>König Johann</persName>
           </person>
-          <person xml:id="chatillon" sex="MALE">
+          <person xml:id="chatillon" sex="MALE" ana="http://www.wikidata.org/entity/Q1388916">
             <persName>Chatillon</persName>
           </person>
-          <person xml:id="eleonore" sex="FEMALE">
+          <person xml:id="eleonore" sex="FEMALE" ana="http://www.wikidata.org/entity/Q178525">
             <persName>Eleonore</persName>
           </person>
-          <person xml:id="essex" sex="MALE">
+          <person xml:id="essex" sex="MALE" ana="http://www.wikidata.org/entity/Q5534602">
             <persName>Geffrey Fitz-Peter, Graf von Essex</persName>
           </person>
-          <person xml:id="bastard" sex="MALE">
+          <person xml:id="bastard" sex="MALE" ana="http://www.wikidata.org/entity/Q1405919">
             <persName>Philipp Faulconbridge (Bastard)</persName>
           </person>
           <person xml:id="robert" sex="MALE">
@@ -84,22 +84,22 @@
           <person xml:id="gurney" sex="MALE">
             <persName>Jakob Gurney</persName>
           </person>
-          <person xml:id="louis" sex="MALE">
-            <persName>Louis</persName>
+          <person xml:id="louis" sex="MALE" ana="http://www.wikidata.org/entity/Q165284">
+            <persName>Louis, der Dauphin</persName>
           </person>
-          <person xml:id="arthur" sex="MALE">
-            <persName>Arthur</persName>
+          <person xml:id="arthur" sex="MALE" ana="http://www.wikidata.org/entity/Q363800">
+            <persName>Arthur, Herzog von Bretagne</persName>
           </person>
-          <person xml:id="oesterreich" sex="MALE">
+          <person xml:id="oesterreich" sex="MALE" ana="http://www.wikidata.org/entity/Q319713">
             <persName>Der Erzherzog von Österreich</persName>
           </person>
-          <person xml:id="constanze" sex="FEMALE">
+          <person xml:id="constanze" sex="FEMALE" ana="http://www.wikidata.org/entity/Q234317">
             <persName>Constanze</persName>
           </person>
-          <person xml:id="koenig_philipp" sex="MALE">
+          <person xml:id="koenig_philipp" sex="MALE" ana="http://www.wikidata.org/entity/Q34428">
             <persName>König Philipp</persName>
           </person>
-          <person xml:id="blanca" sex="FEMALE">
+          <person xml:id="blanca" sex="FEMALE" ana="http://www.wikidata.org/entity/Q353">
             <persName>Blanca</persName>
           </person>
           <person xml:id="erster_buerger" sex="MALE">
@@ -111,28 +111,28 @@
           <person xml:id="englischer_herold" sex="MALE">
             <persName>Englischer Herold</persName>
           </person>
-          <person xml:id="salisbury" sex="MALE">
+          <person xml:id="salisbury" sex="MALE" ana="http://www.wikidata.org/entity/Q1121970">
             <persName>William Longsword, Graf von Salisbury</persName>
           </person>
-          <person xml:id="pandulpho" sex="MALE">
+          <person xml:id="pandulpho" sex="MALE" ana="http://www.wikidata.org/entity/Q7130766">
             <persName>Kardinal Pandulpho</persName>
           </person>
-          <person xml:id="hubert" sex="MALE">
+          <person xml:id="hubert" sex="MALE" ana="http://www.wikidata.org/entity/Q1381324">
             <persName>Hubert de Burgh</persName>
           </person>
           <person xml:id="erster_aufwaerter" sex="MALE">
             <persName>Erster Aufwärter</persName>
           </person>
-          <person xml:id="pembroke" sex="MALE">
+          <person xml:id="pembroke" sex="MALE" ana="http://www.wikidata.org/entity/Q348911">
             <persName>William Mareshall, Graf von Pembroke</persName>
           </person>
           <person xml:id="bote_iv-2" sex="MALE">
             <persName>Ein Bote (IV/2)</persName>
           </person>
-          <person xml:id="peter" sex="MALE">
+          <person xml:id="peter" sex="MALE" ana="http://www.wikidata.org/entity/Q7177932">
             <persName>Peter von Pomfret</persName>
           </person>
-          <person xml:id="bigot" sex="MALE">
+          <person xml:id="bigot" sex="MALE" ana="http://www.wikidata.org/entity/Q3438704">
             <persName>Robert Bigot</persName>
           </person>
           <person xml:id="bote_v-3" sex="MALE">
@@ -144,7 +144,7 @@
           <person xml:id="bote_v-5" sex="MALE">
             <persName>Ein Bote (V/5)</persName>
           </person>
-          <person xml:id="prinz_heinrich" sex="MALE">
+          <person xml:id="prinz_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q160311">
             <persName>Prinz Heinrich</persName>
           </person>
         </listPerson>
@@ -3117,7 +3117,7 @@
           <sp who="#pandulpho">
             <speaker>PANDULPHO.</speaker>
             <lg>
-              <l>Ihr, kraft des Rechtes Eurer Gattin Bianca,</l>
+              <l>Ihr, kraft des Rechtes Eurer Gattin Blanca,</l>
               <l>Habt jeden Anspruch dann, den Arthur machte.</l>
             </lg>
           </sp>
