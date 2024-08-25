@@ -61,16 +61,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bedford" sex="MALE">
+          <person xml:id="bedford" sex="MALE" ana="http://www.wikidata.org/entity/Q348441">
             <persName>Herzog von Bedford</persName>
           </person>
-          <person xml:id="gloster" sex="MALE">
+          <person xml:id="gloster" sex="MALE" ana="http://www.wikidata.org/entity/Q447541">
             <persName>Herzog von Gloster</persName>
           </person>
-          <person xml:id="exeter" sex="MALE">
+          <person xml:id="exeter" sex="MALE" ana="http://www.wikidata.org/entity/Q660630">
             <persName>Thomas Beaufort, Herzog von Exeter</persName>
           </person>
-          <person xml:id="winchester_kardinal" sex="MALE">
+          <person xml:id="winchester_kardinal" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q982472">
             <persName>Heinrich Beaufort, Bischof von Winchester und nachmals Kardinal</persName>
           </person>
           <person xml:id="bote_i-1" sex="MALE">
@@ -82,31 +83,31 @@
           <person xml:id="dritter_bote" sex="MALE">
             <persName>Dritter Bote</persName>
           </person>
-          <person xml:id="karl" sex="MALE">
+          <person xml:id="karl" sex="MALE" ana="http://www.wikidata.org/entity/Q133372">
             <persName>Karl, Dauphin</persName>
           </person>
-          <person xml:id="alencon" sex="MALE">
+          <person xml:id="alencon" sex="MALE" ana="http://www.wikidata.org/entity/Q719814">
             <persName>Herzog von Alençon</persName>
           </person>
-          <person xml:id="reignier" sex="MALE">
+          <person xml:id="reignier" sex="MALE" ana="http://www.wikidata.org/entity/Q170353">
             <persName>Reignier, Herzog von Anjou</persName>
           </person>
-          <person xml:id="bastard" sex="MALE">
+          <person xml:id="bastard" sex="MALE" ana="http://www.wikidata.org/entity/Q503809">
             <persName>Bastard von Orleans</persName>
           </person>
-          <person xml:id="pucelle" sex="FEMALE">
+          <person xml:id="pucelle" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7226">
             <persName>Jeanne d'Arc, genannt La Pucelle</persName>
           </person>
           <person xml:id="erster_waechter" sex="MALE">
             <persName>Erster Wächter</persName>
           </person>
           <person xml:id="bedienter" sex="MALE">
-            <persName>Bedienter</persName>
+            <persName>Ein Bedienter</persName>
           </person>
           <person xml:id="zweiter_waechter" sex="MALE">
             <persName>Zweiter Wächter</persName>
           </person>
-          <person xml:id="woodville" sex="MALE">
+          <person xml:id="woodville" sex="MALE" ana="http://www.wikidata.org/entity/Q934384">
             <persName>Woodville</persName>
           </person>
           <person xml:id="schultheiss" sex="MALE">
@@ -121,13 +122,13 @@
           <person xml:id="sohn" sex="MALE">
             <persName>Der Sohn des Büchsenmeisters</persName>
           </person>
-          <person xml:id="salisbury" sex="MALE">
+          <person xml:id="salisbury" sex="MALE" ana="http://www.wikidata.org/entity/Q1000874">
             <persName>Graf von Salisbury</persName>
           </person>
-          <person xml:id="talbot" sex="MALE">
+          <person xml:id="talbot" sex="MALE" ana="http://www.wikidata.org/entity/Q561173">
             <persName>Lord Talbot</persName>
           </person>
-          <person xml:id="gargrave" sex="MALE">
+          <person xml:id="gargrave" sex="MALE" ana="http://www.wikidata.org/entity/Q16198824">
             <persName>Sir Thomas Gargrave</persName>
           </person>
           <person xml:id="glansdale" sex="MALE">
@@ -142,7 +143,7 @@
           <person xml:id="erste_schildwache" sex="MALE">
             <persName>Erste Schildwache</persName>
           </person>
-          <person xml:id="burgund" sex="MALE">
+          <person xml:id="burgund" sex="MALE" ana="http://www.wikidata.org/entity/Q239337">
             <persName>Herzog von Burgund</persName>
           </person>
           <person xml:id="soldat" sex="MALE">
@@ -154,22 +155,22 @@
           <person xml:id="hauptmann_ii-2" sex="MALE">
             <persName>Ein Hauptmann (II/2)</persName>
           </person>
-          <person xml:id="graefin" sex="FEMALE">
+          <person xml:id="graefin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1254053">
             <persName>Gräfin von Auvergne</persName>
           </person>
           <person xml:id="torwaerter" sex="MALE">
             <persName>Torwärter</persName>
           </person>
-          <person xml:id="plantagenet_york" sex="MALE">
+          <person xml:id="plantagenet_york" sex="MALE" ana="http://www.wikidata.org/entity/Q312137">
             <persName>Richard Plantagenet, nachmals Herzog von York</persName>
           </person>
-          <person xml:id="suffolk" sex="MALE">
+          <person xml:id="suffolk" sex="MALE" ana="http://www.wikidata.org/entity/Q584430">
             <persName>Graf von Suffolk</persName>
           </person>
-          <person xml:id="somerset" sex="MALE">
+          <person xml:id="somerset" sex="MALE" ana="http://www.wikidata.org/entity/Q919338">
             <persName>Johann Beaufort, Graf von Somerset</persName>
           </person>
-          <person xml:id="warwick" sex="MALE">
+          <person xml:id="warwick" sex="MALE" ana="http://www.wikidata.org/entity/Q592988">
             <persName>Graf von Warwick</persName>
           </person>
           <person xml:id="vernon" sex="MALE">
@@ -178,13 +179,13 @@
           <person xml:id="rechtsgelehrter" sex="MALE">
             <persName>Ein Rechtsgelehrter</persName>
           </person>
-          <person xml:id="mortimer" sex="MALE">
+          <person xml:id="mortimer" sex="MALE" ana="http://www.wikidata.org/entity/Q3402270">
             <persName>Edmund Mortimer</persName>
           </person>
           <person xml:id="erster_gefangenwaerter" sex="MALE">
             <persName>Erster Gefangenwärter</persName>
           </person>
-          <person xml:id="koenig_heinrich" sex="MALE">
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q160337">
             <persName>König Heinrich VI.</persName>
           </person>
           <person xml:id="erster_bedienter" sex="MALE">
@@ -208,7 +209,7 @@
           <person xml:id="hauptmann_iii-2" sex="MALE">
             <persName>Ein Hauptmann (III/2)</persName>
           </person>
-          <person xml:id="fastolfe" sex="MALE">
+          <person xml:id="fastolfe" sex="MALE" ana="http://www.wikidata.org/entity/Q71125">
             <persName>Sir John Fastolfe</persName>
           </person>
           <person xml:id="basset" sex="MALE">
@@ -226,7 +227,7 @@
           <person xml:id="offizier" sex="MALE">
             <persName>Ein Offizier</persName>
           </person>
-          <person xml:id="john" sex="MALE">
+          <person xml:id="john" sex="MALE" ana="http://www.wikidata.org/entity/Q6260178">
             <persName>Johann Talbot</persName>
           </person>
           <person xml:id="diener" sex="MALE">
@@ -238,11 +239,11 @@
           <person xml:id="bote_v-2" sex="MALE">
             <persName>Ein Bote (V/2)</persName>
           </person>
-          <person xml:id="margareta" sex="FEMALE">
+          <person xml:id="margareta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Margareta</persName>
           </person>
-          <person xml:id="schaefer" sex="MALE">
-            <persName>Ein Schäfer</persName>
+          <person xml:id="schaefer" sex="MALE" ana="http://www.wikidata.org/entity/Q3160219">
+            <persName>Ein alter Schäfer, Vater der Pucelle</persName>
           </person>
         </listPerson>
       </particDesc>

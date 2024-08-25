@@ -64,64 +64,64 @@
           <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="canterbury" sex="MALE">
+          <person xml:id="canterbury" sex="MALE" ana="http://www.wikidata.org/entity/Q2376957">
             <persName>Erzbischof von Canterbury</persName>
           </person>
-          <person xml:id="ely" sex="MALE">
+          <person xml:id="ely" sex="MALE" ana="http://www.wikidata.org/entity/Q6233619">
             <persName>Bischof von Ely</persName>
           </person>
-          <person xml:id="koenig_heinrich" sex="MALE">
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q131581">
             <persName>König Heinrich V.</persName>
           </person>
-          <person xml:id="exeter" sex="MALE">
+          <person xml:id="exeter" sex="MALE" ana="http://www.wikidata.org/entity/Q660630">
             <persName>Herzog von Exeter</persName>
           </person>
-          <person xml:id="westmoreland" sex="MALE">
+          <person xml:id="westmoreland" sex="MALE" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Graf von Westmoreland</persName>
           </person>
           <person xml:id="gesandter" sex="MALE">
             <persName>Gesandter</persName>
           </person>
-          <person xml:id="bardolph" sex="MALE">
+          <person xml:id="bardolph" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
-          <person xml:id="nym" sex="MALE">
+          <person xml:id="nym" sex="MALE" ana="http://www.wikidata.org/entity/Q18752823">
             <persName>Nym</persName>
           </person>
-          <person xml:id="pistol" sex="MALE">
+          <person xml:id="pistol" sex="MALE" ana="http://www.wikidata.org/entity/Q16932862">
             <persName>Pistol</persName>
           </person>
-          <person xml:id="frau_hurtig" sex="FEMALE">
+          <person xml:id="frau_hurtig" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Frau Hurtig (Wirtin)</persName>
           </person>
           <person xml:id="bursch" sex="MALE">
             <persName>Ein Bursch</persName>
           </person>
-          <person xml:id="bedford" sex="MALE">
+          <person xml:id="bedford" sex="MALE" ana="http://www.wikidata.org/entity/Q348441">
             <persName>Herzog von Bedford</persName>
           </person>
-          <person xml:id="scroop" sex="MALE">
+          <person xml:id="scroop" sex="MALE" ana="http://www.wikidata.org/entity/Q1607250">
             <persName>Lord Scroop</persName>
           </person>
-          <person xml:id="cambridge" sex="MALE">
+          <person xml:id="cambridge" sex="MALE" ana="http://www.wikidata.org/entity/Q469002">
             <persName>Graf von Cambridge</persName>
           </person>
-          <person xml:id="grey" sex="MALE">
+          <person xml:id="grey" sex="MALE" ana="http://www.wikidata.org/entity/Q7790197">
             <persName>Sir Thomas Grey</persName>
           </person>
-          <person xml:id="koenig_karl" sex="MALE">
+          <person xml:id="koenig_karl" sex="MALE" ana="http://www.wikidata.org/entity/Q160349">
             <persName>Karl IV.</persName>
           </person>
-          <person xml:id="dauphin" sex="MALE">
+          <person xml:id="dauphin" sex="MALE" ana="http://www.wikidata.org/entity/Q1347131">
             <persName>Louis, der Dauphin</persName>
           </person>
-          <person xml:id="connetable" sex="MALE">
+          <person xml:id="connetable" sex="MALE" ana="http://www.wikidata.org/entity/Q626829">
             <persName>Der Connetable von Frankreich</persName>
           </person>
           <person xml:id="bote_ii-4" sex="MALE">
             <persName>Ein Bote (II/4)</persName>
           </person>
-          <person xml:id="fluellen" sex="MALE">
+          <person xml:id="fluellen" sex="MALE" ana="http://www.wikidata.org/entity/Q5462646">
             <persName>Fluellen</persName>
           </person>
           <person xml:id="gower" sex="MALE">
@@ -136,31 +136,31 @@
           <person xml:id="befehlshaber" sex="MALE">
             <persName>Befehlshaber von Harfleur</persName>
           </person>
-          <person xml:id="katharina" sex="FEMALE">
+          <person xml:id="katharina" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229192">
             <persName>Katharina</persName>
           </person>
           <person xml:id="alice" sex="FEMALE">
             <persName>Alice</persName>
           </person>
-          <person xml:id="bourbon" sex="MALE">
+          <person xml:id="bourbon" sex="MALE" ana="http://www.wikidata.org/entity/Q724225">
             <persName>Herzog von Bourbon</persName>
           </person>
-          <person xml:id="montjoye" sex="MALE">
+          <person xml:id="montjoye" sex="MALE" ana="http://www.wikidata.org/entity/Q30674292">
             <persName>Montjoye</persName>
           </person>
-          <person xml:id="gloster" sex="MALE">
+          <person xml:id="gloster" sex="MALE" ana="http://www.wikidata.org/entity/Q447541">
             <persName>Herzog von Gloster</persName>
           </person>
-          <person xml:id="orleans" sex="MALE">
+          <person xml:id="orleans" sex="MALE" ana="http://www.wikidata.org/entity/Q310146">
             <persName>Herzog von Orleans</persName>
           </person>
-          <person xml:id="rambures" sex="MALE">
+          <person xml:id="rambures" sex="MALE" ana="http://www.wikidata.org/entity/Q3019053">
             <persName>Rambures</persName>
           </person>
           <person xml:id="bote_iii-7" sex="MALE">
             <persName>Ein Bote (III/7)</persName>
           </person>
-          <person xml:id="erpingham" sex="MALE">
+          <person xml:id="erpingham" sex="MALE" ana="http://www.wikidata.org/entity/Q446018">
             <persName>Sir Thomas Erpingham</persName>
           </person>
           <person xml:id="court" sex="MALE">
@@ -169,7 +169,7 @@
           <person xml:id="bates" sex="MALE">
             <persName>Bates</persName>
           </person>
-          <person xml:id="williams" sex="MALE">
+          <person xml:id="williams" sex="MALE" ana="http://www.wikidata.org/entity/Q16238573">
             <persName>Williams</persName>
           </person>
           <person xml:id="bote_iv-2" sex="MALE">
@@ -178,25 +178,25 @@
           <person xml:id="grandpre" sex="MALE">
             <persName>Grandpré</persName>
           </person>
-          <person xml:id="salisbury" sex="MALE">
+          <person xml:id="salisbury" sex="MALE" ana="http://www.wikidata.org/entity/Q1000874">
             <persName>Graf von Salisbury</persName>
           </person>
-          <person xml:id="york" sex="MALE">
+          <person xml:id="york" sex="MALE" ana="http://www.wikidata.org/entity/Q452639">
             <persName>Herzog von York</persName>
           </person>
           <person xml:id="franzoesischer_soldat" sex="MALE">
             <persName>Ein französischer Soldat</persName>
           </person>
-          <person xml:id="warwick" sex="MALE">
+          <person xml:id="warwick" sex="MALE" ana="http://www.wikidata.org/entity/Q592988">
             <persName>Graf von Warwick</persName>
           </person>
           <person xml:id="herold" sex="MALE">
             <persName>Ein englischer Herold</persName>
           </person>
-          <person xml:id="isabelle" sex="FEMALE">
+          <person xml:id="isabelle" sex="FEMALE" ana="http://www.wikidata.org/entity/Q154064">
             <persName>Isabelle</persName>
           </person>
-          <person xml:id="burgund" sex="MALE">
+          <person xml:id="burgund" sex="MALE" ana="http://www.wikidata.org/entity/Q298901">
             <persName>Herzog von Burgund</persName>
           </person>
           <personGrp xml:id="alle_v-2" sex="UNKNOWN">
