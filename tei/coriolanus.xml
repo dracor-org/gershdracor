@@ -69,10 +69,11 @@
           <personGrp xml:id="alle_buerger_i-1" sex="MALE">
             <name>Alle Bürger (I/1)</name>
           </personGrp>
-          <person xml:id="menenius" sex="MALE">
+          <person xml:id="menenius" sex="MALE" ana="http://www.wikidata.org/entity/Q396971">
             <persName>Menenius Agrippa</persName>
           </person>
-          <person xml:id="marcius_coriolanus" sex="MALE">
+          <person xml:id="marcius_coriolanus" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q570532">
             <persName>Cajus Marcius Coriolanus</persName>
           </person>
           <person xml:id="bote_i-1" sex="MALE">
@@ -81,22 +82,22 @@
           <person xml:id="erster_senator_i-1" sex="MALE">
             <persName>Erster Senator (I/1)</persName>
           </person>
-          <person xml:id="cominius" sex="MALE">
+          <person xml:id="cominius" sex="MALE" ana="http://www.wikidata.org/entity/Q1236578">
             <persName>Cominius</persName>
           </person>
-          <person xml:id="titus" sex="MALE">
+          <person xml:id="titus" sex="MALE" ana="http://www.wikidata.org/entity/Q529867">
             <persName>Titus Lartius</persName>
           </person>
-          <person xml:id="sicinius" sex="MALE">
+          <person xml:id="sicinius" sex="MALE" ana="http://www.wikidata.org/entity/Q11934167">
             <persName>Sicinius Velutus</persName>
           </person>
-          <person xml:id="brutus" sex="MALE">
+          <person xml:id="brutus" sex="MALE" ana="http://www.wikidata.org/entity/Q223440">
             <persName>Junius Brutus</persName>
           </person>
           <person xml:id="erster_senator_i-2" sex="MALE">
             <persName>Erster Senator (I/2)</persName>
           </person>
-          <person xml:id="aufidius" sex="MALE">
+          <person xml:id="aufidius" sex="MALE" ana="http://www.wikidata.org/entity/Q2870125">
             <persName>Tullus Aufidius</persName>
           </person>
           <person xml:id="zweiter_senator_i-2" sex="MALE">
@@ -105,10 +106,10 @@
           <personGrp xml:id="alle_senatoren_i-2" sex="MALE">
             <name>Alle Senatoren (I/2)</name>
           </personGrp>
-          <person xml:id="volumnia" sex="FEMALE">
+          <person xml:id="volumnia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7940930">
             <persName>Volumnia</persName>
           </person>
-          <person xml:id="virgilia" sex="FEMALE">
+          <person xml:id="virgilia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q17043438">
             <persName>Virgilia</persName>
           </person>
           <person xml:id="dienerin" sex="FEMALE">

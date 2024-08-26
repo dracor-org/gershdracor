@@ -72,7 +72,7 @@
           <person xml:id="juwelier" sex="MALE">
             <persName>Ein Juwelier</persName>
           </person>
-          <person xml:id="timon" sex="MALE">
+          <person xml:id="timon" sex="MALE" ana="http://www.wikidata.org/entity/Q1747004">
             <persName>Timon</persName>
           </person>
           <person xml:id="ein_diener_des_ventidius" sex="MALE">
@@ -84,13 +84,13 @@
           <person xml:id="lucilius" sex="MALE">
             <persName>Lucilius</persName>
           </person>
-          <person xml:id="apemantus" sex="MALE">
+          <person xml:id="apemantus" sex="MALE" ana="http://www.wikidata.org/entity/Q4779338">
             <persName>Apemantus</persName>
           </person>
           <person xml:id="diener_i-1" sex="MALE">
             <persName>Ein Diener (I/1)</persName>
           </person>
-          <person xml:id="alcibiades" sex="MALE">
+          <person xml:id="alcibiades" sex="MALE" ana="http://www.wikidata.org/entity/Q187982">
             <persName>Alcibiades</persName>
           </person>
           <person xml:id="erster_lord_i-1" sex="MALE">
@@ -114,7 +114,7 @@
           <person xml:id="diener_i-2a" sex="MALE">
             <persName>Ein Diener (I/2)</persName>
           </person>
-          <person xml:id="cupido" sex="MALE">
+          <person xml:id="cupido" sex="MALE" ana="http://www.wikidata.org/entity/Q26904354">
             <persName>Cupido</persName>
           </person>
           <person xml:id="erste_dame" sex="FEMALE">

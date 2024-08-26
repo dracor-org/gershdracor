@@ -65,10 +65,10 @@
           <person xml:id="philo" sex="MALE">
             <persName>Philo</persName>
           </person>
-          <person xml:id="cleopatra" sex="FEMALE">
+          <person xml:id="cleopatra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q635">
             <persName>Cleopatra</persName>
           </person>
-          <person xml:id="antonius" sex="MALE">
+          <person xml:id="antonius" sex="MALE" ana="http://www.wikidata.org/entity/Q51673">
             <persName>Marcus Antonius</persName>
           </person>
           <person xml:id="bote_i-1" sex="MALE">
@@ -77,7 +77,7 @@
           <person xml:id="demetrius" sex="MALE">
             <persName>Demetrius</persName>
           </person>
-          <person xml:id="charmion" sex="FEMALE">
+          <person xml:id="charmion" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5086521">
             <persName>Charmion</persName>
           </person>
           <person xml:id="alexas" sex="MALE">
@@ -86,7 +86,7 @@
           <person xml:id="wahrsager" sex="MALE">
             <persName>Ein Wahrsager</persName>
           </person>
-          <person xml:id="enobarbus" sex="MALE">
+          <person xml:id="enobarbus" sex="MALE" ana="http://www.wikidata.org/entity/Q360920">
             <persName>Domitius Enobarbus</persName>
           </person>
           <person xml:id="iras" sex="FEMALE">
@@ -104,10 +104,10 @@
           <person xml:id="zweiter_bote" sex="MALE">
             <persName>Zweiter Bote</persName>
           </person>
-          <person xml:id="caesar" sex="MALE">
+          <person xml:id="caesar" sex="MALE" ana="http://www.wikidata.org/entity/Q1405">
             <persName>Octavius Cäsar</persName>
           </person>
-          <person xml:id="lepidus" sex="MALE">
+          <person xml:id="lepidus" sex="MALE" ana="http://www.wikidata.org/entity/Q105452">
             <persName>M. Ämilius Lepidus</persName>
           </person>
           <person xml:id="bote_i-4" sex="MALE">
@@ -116,7 +116,7 @@
           <person xml:id="mardian" sex="MALE">
             <persName>Mardian</persName>
           </person>
-          <person xml:id="pompejus" sex="MALE">
+          <person xml:id="pompejus" sex="MALE" ana="http://www.wikidata.org/entity/Q295228">
             <persName>Sextus Pompejus</persName>
           </person>
           <person xml:id="menecrates" sex="MALE">
@@ -125,16 +125,16 @@
           <person xml:id="varrius" sex="MALE">
             <persName>Varrius</persName>
           </person>
-          <person xml:id="menas" sex="MALE">
+          <person xml:id="menas" sex="MALE" ana="http://www.wikidata.org/entity/Q1283531">
             <persName>Menas</persName>
           </person>
-          <person xml:id="maecenas" sex="MALE">
+          <person xml:id="maecenas" sex="MALE" ana="http://www.wikidata.org/entity/Q8833">
             <persName>Mäcenas</persName>
           </person>
-          <person xml:id="agrippa" sex="MALE">
+          <person xml:id="agrippa" sex="MALE" ana="http://www.wikidata.org/entity/Q48174">
             <persName>Agrippa</persName>
           </person>
-          <person xml:id="octavia" sex="FEMALE">
+          <person xml:id="octavia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229483">
             <persName>Octavia</persName>
           </person>
           <person xml:id="diener_ii-5" sex="MALE">
@@ -155,7 +155,7 @@
           <person xml:id="der_knabe" sex="MALE">
             <persName>Ein Knabe (Lied)</persName>
           </person>
-          <person xml:id="ventidius" sex="MALE">
+          <person xml:id="ventidius" sex="MALE" ana="http://www.wikidata.org/entity/Q521552">
             <persName>Ventidius</persName>
           </person>
           <person xml:id="silius" sex="MALE">
@@ -164,7 +164,7 @@
           <person xml:id="eros" sex="MALE">
             <persName>Eros</persName>
           </person>
-          <person xml:id="canidius" sex="MALE">
+          <person xml:id="canidius" sex="MALE" ana="http://www.wikidata.org/entity/Q637205">
             <persName>Canidius</persName>
           </person>
           <person xml:id="bote_iii-7a" sex="MALE">
@@ -176,19 +176,19 @@
           <person xml:id="bote_iii-7b" sex="MALE">
             <persName>Ein Bote (III/7)</persName>
           </person>
-          <person xml:id="taurus" sex="MALE">
+          <person xml:id="taurus" sex="MALE" ana="http://www.wikidata.org/entity/Q2331658">
             <persName>Taurus</persName>
           </person>
-          <person xml:id="scarus" sex="MALE">
+          <person xml:id="scarus" sex="MALE" ana="http://www.wikidata.org/entity/Q3655539">
             <persName>Scarus</persName>
           </person>
           <personGrp xml:id="alle_iii-9" sex="MALE">
             <name>Alle (III/9)</name>
           </personGrp>
-          <person xml:id="dolabella" sex="MALE">
+          <person xml:id="dolabella" sex="MALE" ana="http://www.wikidata.org/entity/Q451597">
             <persName>Dolabella</persName>
           </person>
-          <person xml:id="euphronius" sex="MALE">
+          <person xml:id="euphronius" sex="MALE" ana="http://www.wikidata.org/entity/Q1374191">
             <persName>Euphronius</persName>
           </person>
           <person xml:id="thyreus" sex="MALE">
@@ -266,13 +266,13 @@
           <person xml:id="bote_v-1" sex="MALE">
             <persName>Ein Bote (V/1)</persName>
           </person>
-          <person xml:id="proculejus" sex="MALE">
+          <person xml:id="proculejus" sex="MALE" ana="http://www.wikidata.org/entity/Q1491494">
             <persName>Proculejus</persName>
           </person>
-          <person xml:id="gallus" sex="MALE">
+          <person xml:id="gallus" sex="MALE" ana="http://www.wikidata.org/entity/Q8825">
             <persName>Gallus</persName>
           </person>
-          <person xml:id="seleucus" sex="MALE">
+          <person xml:id="seleucus" sex="MALE" ana="http://www.wikidata.org/entity/Q575798">
             <persName>Seleucus</persName>
           </person>
           <person xml:id="soldat_v-2" sex="MALE">

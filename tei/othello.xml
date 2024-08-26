@@ -62,25 +62,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="rodrigo" sex="MALE">
+          <person xml:id="rodrigo" sex="MALE" ana="http://www.wikidata.org/entity/Q7356703">
             <persName>Rodrigo</persName>
           </person>
-          <person xml:id="jago" sex="MALE">
+          <person xml:id="jago" sex="MALE" ana="http://www.wikidata.org/entity/Q1655364">
             <persName>Jago</persName>
           </person>
-          <person xml:id="brabantio" sex="MALE">
+          <person xml:id="brabantio" sex="MALE" ana="http://www.wikidata.org/entity/Q4953161">
             <persName>Brabantio</persName>
           </person>
-          <person xml:id="othello" sex="MALE">
+          <person xml:id="othello" sex="MALE" ana="http://www.wikidata.org/entity/Q1966171">
             <persName>Othello</persName>
           </person>
-          <person xml:id="cassio" sex="MALE">
+          <person xml:id="cassio" sex="MALE" ana="http://www.wikidata.org/entity/Q6829164">
             <persName>Cassio</persName>
           </person>
           <person xml:id="gerichtsdiener" sex="MALE">
             <persName>Gerichtsdiener</persName>
           </person>
-          <person xml:id="herzog" sex="MALE">
+          <person xml:id="herzog" sex="MALE" ana="http://www.wikidata.org/entity/Q63115870">
             <persName>Herzog von Venedig</persName>
           </person>
           <person xml:id="erster_senator" sex="MALE">
@@ -101,10 +101,10 @@
           <personGrp xml:id="alle_i-3" sex="MALE">
             <name>Alle (I/3)</name>
           </personGrp>
-          <person xml:id="desdemona" sex="FEMALE">
+          <person xml:id="desdemona" sex="FEMALE" ana="http://www.wikidata.org/entity/Q3272719">
             <persName>Desdemona</persName>
           </person>
-          <person xml:id="montano" sex="MALE">
+          <person xml:id="montano" sex="MALE" ana="http://www.wikidata.org/entity/Q61636065">
             <persName>Montano</persName>
           </person>
           <person xml:id="erster_edelmann" sex="MALE">
@@ -116,7 +116,7 @@
           <person xml:id="dritter_edelmann" sex="MALE">
             <persName>Dritter Edelmann</persName>
           </person>
-          <person xml:id="emilia" sex="FEMALE">
+          <person xml:id="emilia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5371628">
             <persName>Emilia</persName>
           </person>
           <person xml:id="herold" sex="MALE">
@@ -134,13 +134,13 @@
           <personGrp xml:id="edelleute" sex="MALE">
             <name>Edelleute</name>
           </personGrp>
-          <person xml:id="bianca" sex="FEMALE">
+          <person xml:id="bianca" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5371628">
             <persName>Bianca</persName>
           </person>
-          <person xml:id="lodovico" sex="MALE">
+          <person xml:id="lodovico" sex="MALE" ana="http://www.wikidata.org/entity/Q61636041">
             <persName>Lodovico</persName>
           </person>
-          <person xml:id="gratiano" sex="MALE">
+          <person xml:id="gratiano" sex="MALE" ana="http://www.wikidata.org/entity/Q61635995">
             <persName>Gratiano</persName>
           </person>
         </listPerson>

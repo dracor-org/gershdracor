@@ -61,61 +61,61 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="flavius" sex="MALE">
+          <person xml:id="flavius" sex="MALE" ana="http://www.wikidata.org/entity/Q3621464">
             <persName>Flavius</persName>
           </person>
           <person xml:id="erster_buerger_i-1" sex="MALE">
             <persName>Erster Bürger (I/1)</persName>
           </person>
-          <person xml:id="marullus" sex="MALE">
+          <person xml:id="marullus" sex="MALE" ana="http://www.wikidata.org/entity/Q3462675">
             <persName>Marullus</persName>
           </person>
           <person xml:id="zweiter_buerger_i-1" sex="MALE">
             <persName>Zweiter Bürger (I/1)</persName>
           </person>
-          <person xml:id="caesar" sex="MALE">
+          <person xml:id="caesar" sex="MALE" ana="http://www.wikidata.org/entity/Q1048">
             <persName>Julius Cäsar</persName>
           </person>
-          <person xml:id="casca" sex="MALE">
+          <person xml:id="casca" sex="MALE" ana="http://www.wikidata.org/entity/Q1243545">
             <persName>Casca</persName>
           </person>
-          <person xml:id="calpurnia" sex="FEMALE">
+          <person xml:id="calpurnia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q235627">
             <persName>Calpurnia</persName>
           </person>
-          <person xml:id="antonius" sex="MALE">
+          <person xml:id="antonius" sex="MALE" ana="http://www.wikidata.org/entity/Q51673">
             <persName>Marcus Antonius</persName>
           </person>
           <person xml:id="wahrsager" sex="MALE">
             <persName>Ein Wahrsager</persName>
           </person>
-          <person xml:id="brutus" sex="MALE">
+          <person xml:id="brutus" sex="MALE" ana="http://www.wikidata.org/entity/Q172248">
             <persName>Marcus Brutus</persName>
           </person>
-          <person xml:id="cassius" sex="MALE">
+          <person xml:id="cassius" sex="MALE" ana="http://www.wikidata.org/entity/Q207370">
             <persName>Cassius</persName>
           </person>
-          <person xml:id="cicero" sex="MALE">
+          <person xml:id="cicero" sex="MALE" ana="http://www.wikidata.org/entity/Q1541">
             <persName>Cicero</persName>
           </person>
-          <person xml:id="cinna" sex="MALE">
+          <person xml:id="cinna" sex="MALE" ana="http://www.wikidata.org/entity/Q646993">
             <persName>Cinna</persName>
           </person>
           <person xml:id="lucius" sex="MALE">
             <persName>Lucius</persName>
           </person>
-          <person xml:id="decius" sex="MALE">
+          <person xml:id="decius" sex="MALE" ana="http://www.wikidata.org/entity/Q294846">
             <persName>Decius Brutus</persName>
           </person>
-          <person xml:id="metellus" sex="MALE">
+          <person xml:id="metellus" sex="MALE" ana="http://www.wikidata.org/entity/Q1228715">
             <persName>Metellus Cimber</persName>
           </person>
-          <person xml:id="trebonius" sex="MALE">
+          <person xml:id="trebonius" sex="MALE" ana="http://www.wikidata.org/entity/Q550560">
             <persName>Trebonius</persName>
           </person>
-          <person xml:id="portia" sex="FEMALE">
+          <person xml:id="portia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q255448">
             <persName>Portia</persName>
           </person>
-          <person xml:id="ligarius" sex="MALE">
+          <person xml:id="ligarius" sex="MALE" ana="http://www.wikidata.org/entity/Q773742">
             <persName>Ligarius</persName>
           </person>
           <person xml:id="diener_ii-2" sex="MALE">
@@ -124,10 +124,10 @@
           <person xml:id="publius" sex="MALE">
             <persName>Publius</persName>
           </person>
-          <person xml:id="artemidorus" sex="MALE">
+          <person xml:id="artemidorus" sex="MALE" ana="http://www.wikidata.org/entity/Q11906742">
             <persName>Artemidorus</persName>
           </person>
-          <person xml:id="popilius" sex="MALE">
+          <person xml:id="popilius" sex="MALE" ana="http://www.wikidata.org/entity/Q464897">
             <persName>Popilius Lena</persName>
           </person>
           <person xml:id="diener_iii-2" sex="MALE">
@@ -151,7 +151,7 @@
           <person xml:id="diener_iii-3" sex="MALE">
             <persName>Diener (III/3)</persName>
           </person>
-          <person xml:id="cinna_der_poet" sex="MALE">
+          <person xml:id="cinna_der_poet" sex="MALE" ana="http://www.wikidata.org/entity/Q372100">
             <persName>Cinna der Poet</persName>
           </person>
           <person xml:id="erster_buerger_iii-3" sex="MALE">
@@ -166,10 +166,10 @@
           <person xml:id="vierter_buerger_iii-3" sex="MALE">
             <persName>Vierter Bürger (III/3)</persName>
           </person>
-          <person xml:id="octavius" sex="MALE">
+          <person xml:id="octavius" sex="MALE" ana="http://www.wikidata.org/entity/Q1405">
             <persName>Octavius Cäsar</persName>
           </person>
-          <person xml:id="lepidus" sex="MALE">
+          <person xml:id="lepidus" sex="MALE" ana="http://www.wikidata.org/entity/Q105452">
             <persName>M. Ämilius Lepidus</persName>
           </person>
           <person xml:id="lucilius" sex="MALE">
@@ -181,13 +181,13 @@
           <person xml:id="ein_poet" sex="MALE">
             <persName>Ein Poet</persName>
           </person>
-          <person xml:id="messala" sex="MALE">
+          <person xml:id="messala" sex="MALE" ana="http://www.wikidata.org/entity/Q508117">
             <persName>Messala</persName>
           </person>
-          <person xml:id="titinius" sex="MALE">
+          <person xml:id="titinius" sex="MALE" ana="http://www.wikidata.org/entity/Q20102068">
             <persName>Titinius</persName>
           </person>
-          <person xml:id="varro" sex="MALE">
+          <person xml:id="varro" sex="MALE" ana="http://www.wikidata.org/entity/Q214765">
             <persName>Varro</persName>
           </person>
           <person xml:id="geist" sex="MALE">
@@ -199,7 +199,7 @@
           <person xml:id="bote" sex="MALE">
             <persName>Ein Bote</persName>
           </person>
-          <person xml:id="cato" sex="MALE">
+          <person xml:id="cato" sex="MALE" ana="http://www.wikidata.org/entity/Q1359509">
             <persName>Der junge Cato</persName>
           </person>
           <person xml:id="erster_soldat" sex="MALE">
@@ -214,7 +214,7 @@
           <person xml:id="dardanius" sex="MALE">
             <persName>Dardanius</persName>
           </person>
-          <person xml:id="volumnius" sex="MALE">
+          <person xml:id="volumnius" sex="MALE" ana="http://www.wikidata.org/entity/Q7258146">
             <persName>Volumnius</persName>
           </person>
           <person xml:id="strato" sex="MALE">

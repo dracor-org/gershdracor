@@ -61,43 +61,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="warwick" sex="MALE">
+          <person xml:id="warwick" sex="MALE" ana="http://www.wikidata.org/entity/Q437571">
             <persName>Graf von Warwick</persName>
           </person>
-          <person xml:id="york" sex="MALE">
+          <person xml:id="york" sex="MALE" ana="http://www.wikidata.org/entity/Q312137">
             <persName>Richard Plantagenet, Herzog von York</persName>
           </person>
-          <person xml:id="eduard" sex="MALE">
+          <person xml:id="eduard" sex="MALE" ana="http://www.wikidata.org/entity/Q160341">
             <persName>Eduard, Graf von March, nachmals König Eduard IV.</persName>
           </person>
-          <person xml:id="montague" sex="MALE">
-            <persName>Marquis von Montague</persName>
+          <person xml:id="montague_i" sex="MALE" ana="http://www.wikidata.org/entity/Q384856">
+            <persName>Marquis von Montague (Graf von Salisbury)</persName>
           </person>
-          <person xml:id="richard_gloster" sex="MALE">
+          <person xml:id="richard_gloster" sex="MALE" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard, nachmals Herzog von Glocester</persName>
           </person>
-          <person xml:id="norfolk" sex="MALE">
+          <person xml:id="norfolk" sex="MALE" ana="http://www.wikidata.org/entity/Q326769">
             <persName>Herzog von Norfolk</persName>
           </person>
-          <person xml:id="koenig_heinrich" sex="MALE">
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q160337">
             <persName>König Heinrich VI.</persName>
           </person>
-          <person xml:id="northumberland" sex="MALE">
+          <person xml:id="northumberland" sex="MALE" ana="http://www.wikidata.org/entity/Q2521911">
             <persName>Graf von Northumberland</persName>
           </person>
-          <person xml:id="clifford" sex="MALE">
+          <person xml:id="clifford" sex="MALE" ana="http://www.wikidata.org/entity/Q647319">
             <persName>Lord Clifford</persName>
           </person>
-          <person xml:id="westmoreland" sex="MALE">
+          <person xml:id="westmoreland" sex="MALE" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Graf von Westmoreland</persName>
           </person>
-          <person xml:id="exeter" sex="MALE">
+          <person xml:id="exeter" sex="MALE" ana="http://www.wikidata.org/entity/Q1452585">
             <persName>Herzog von Exeter</persName>
           </person>
-          <person xml:id="margareta" sex="FEMALE">
+          <person xml:id="margareta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Königin Margareta</persName>
           </person>
-          <person xml:id="prinz" sex="MALE">
+          <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q313262">
             <persName>Eduard, Prinz von Wales</persName>
           </person>
           <person xml:id="bote_i-2" sex="MALE">
@@ -106,7 +106,7 @@
           <person xml:id="sir_john" sex="MALE">
             <persName>Sir John Mortimer</persName>
           </person>
-          <person xml:id="rutland" sex="MALE">
+          <person xml:id="rutland" sex="MALE" ana="http://www.wikidata.org/entity/Q1285898">
             <persName>Edmund, Graf von Rutland</persName>
           </person>
           <person xml:id="lehrmeister" sex="MALE">
@@ -121,7 +121,7 @@
           <person xml:id="bote_ii-2" sex="MALE">
             <persName>Ein Bote (II/2)</persName>
           </person>
-          <person xml:id="george_clarence" sex="MALE">
+          <person xml:id="george_clarence" sex="MALE" ana="http://www.wikidata.org/entity/Q356173">
             <persName>Georg, nachmals Herzog von Clarence</persName>
           </person>
           <person xml:id="sohn" sex="MALE">
@@ -136,28 +136,32 @@
           <person xml:id="zweiter_foerster" sex="MALE">
             <persName>Zweiter Förster</persName>
           </person>
-          <person xml:id="lady_grey_koenigin_elisabeth" sex="FEMALE">
+          <person xml:id="lady_grey_koenigin_elisabeth" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q229214">
             <persName>Lady Grey, nachmals Gemahlin Eduards IV.</persName>
           </person>
           <person xml:id="edelmann" sex="MALE">
             <persName>Ein Edelmann</persName>
           </person>
-          <person xml:id="koenig_ludwig" sex="MALE">
+          <person xml:id="koenig_ludwig" sex="MALE" ana="http://www.wikidata.org/entity/Q8058">
             <persName>Ludwig XI., König von Frankreich</persName>
           </person>
-          <person xml:id="oxford" sex="MALE">
+          <person xml:id="oxford" sex="MALE" ana="http://www.wikidata.org/entity/Q1332495">
             <persName>Graf von Oxford</persName>
           </person>
-          <person xml:id="bona" sex="FEMALE">
+          <person xml:id="bona" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2721001">
             <persName>Bona</persName>
           </person>
           <person xml:id="bote_iii-3_und_iv-1" sex="MALE">
             <persName>Ein Bote (III/3 und IV/1)</persName>
           </person>
-          <person xml:id="somerset" sex="MALE">
+          <person xml:id="somerset" sex="MALE" ana="http://www.wikidata.org/entity/Q714475">
             <persName>Herzog von Somerset</persName>
           </person>
-          <person xml:id="hastings" sex="MALE">
+          <person xml:id="montague_iv-v" sex="MALE" ana="http://www.wikidata.org/entity/Q719793">
+            <persName>Marquis von Montague (John Neville)</persName>
+          </person>
+          <person xml:id="hastings" sex="MALE" ana="http://www.wikidata.org/entity/Q1396340">
             <persName>Lord Hastings</persName>
           </person>
           <person xml:id="erste_schildwache" sex="MALE">
@@ -169,7 +173,7 @@
           <person xml:id="dritte_schildwache" sex="MALE">
             <persName>Dritte Schildwache</persName>
           </person>
-          <person xml:id="rivers" sex="MALE">
+          <person xml:id="rivers" sex="MALE" ana="http://www.wikidata.org/entity/Q574171">
             <persName>Lord Rivers</persName>
           </person>
           <person xml:id="jaeger" sex="MALE">
@@ -334,7 +338,7 @@
             </lg>
             <stage>Zeigt sein blutiges Schwert.</stage>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_i">
             <speaker>MONTAGUE</speaker>
             <stage>zu York, das seinige zeigend.</stage>
             <lg>
@@ -640,7 +644,7 @@
             <speaker>EDUARD.</speaker>
             <l>Tut's, lieber Vater! Setzt sie Euch aufs Haupt!</l>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_i">
             <speaker>MONTAGUE</speaker>
             <stage>zu York.</stage>
             <lg>
@@ -941,7 +945,7 @@
             <speaker>NORFOLK.</speaker>
             <l>Ich will nach Norfolk hin mit meiner Schar.</l>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_i">
             <speaker>MONTAGUE.</speaker>
             <l>Und ich zur See zurück, woher ich kam.</l>
             <stage>York und seine Söhne, Warwick, Norfolk, Montague, Soldaten und Gefolge
@@ -1097,7 +1101,7 @@
             <speaker>EDUARD.</speaker>
             <l>Nicht doch, ich kann den Redner besser spielen.</l>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_i">
             <speaker>MONTAGUE.</speaker>
             <l>Doch ich weiß Gründe von Gewicht und Kraft.</l>
             <stage>York tritt auf.</stage>
@@ -1228,7 +1232,7 @@
               <l>Und nicht des schwachen Heinrichs Eiden traun.</l>
             </lg>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_i">
             <speaker>MONTAGUE.</speaker>
             <lg>
               <l>Bruder, ich geh', ich will sie schon gewinnen</l>
@@ -4636,7 +4640,7 @@
               <l>Die ich ersinnen kann, zufrieden stelle?</l>
             </lg>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_iv-v">
             <speaker>MONTAGUE.</speaker>
             <lg>
               <l>Doch solchen Bund mit Frankreich einzugehn,</l>
@@ -4651,7 +4655,7 @@
               <l>Für sich schon ist, bleibt es sich selbst nur treu?</l>
             </lg>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_iv-v">
             <speaker>MONTAGUE.</speaker>
             <l>Ja, doch gedeckt von Frankreich, sichrer noch.</l>
           </sp>
@@ -4893,7 +4897,7 @@
               <l>Daß ich nie Argwohn hege wider euch.</l>
             </lg>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_iv-v">
             <speaker>MONTAGUE.</speaker>
             <l>Gott helfe Montague nach seiner Treu'!</l>
           </sp>
@@ -5853,7 +5857,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Mein wohlgesinnter Clarence, sei beglückt!</l>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_iv-v">
             <speaker>MONTAGUE.</speaker>
             <l>Getrost, mein Fürst! Und somit nehm' ich Abschied.</l>
           </sp>
@@ -6152,7 +6156,7 @@
             <l>Willkommen, Oxford! Wir bedürfen dein.</l>
             <stage>Montague kommt mit klingendem Spiel und fliegenden Fahnen.</stage>
           </sp>
-          <sp who="#montague">
+          <sp who="#montague_iv-v">
             <speaker>MONTAGUE.</speaker>
             <l>Montague, Montague, für Lancaster!</l>
             <stage>Zieht mit seinen Truppen in die Stadt.</stage>

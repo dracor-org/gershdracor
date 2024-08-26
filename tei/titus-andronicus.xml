@@ -73,7 +73,7 @@
           <person xml:id="hauptmann" sex="MALE">
             <persName>Ein Hauptmann</persName>
           </person>
-          <person xml:id="titus" sex="MALE">
+          <person xml:id="titus" sex="MALE" ana="http://www.wikidata.org/entity/Q16930950">
             <persName>Titus Andronicus</persName>
           </person>
           <person xml:id="lucius" sex="MALE">

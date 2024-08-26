@@ -68,19 +68,19 @@
           <person xml:id="gloster" sex="MALE">
             <persName>Graf von Gloster</persName>
           </person>
-          <person xml:id="edmund" sex="MALE">
+          <person xml:id="edmund" sex="MALE" ana="http://www.wikidata.org/entity/Q5339222">
             <persName>Edmund</persName>
           </person>
-          <person xml:id="lear" sex="MALE">
+          <person xml:id="lear" sex="MALE" ana="http://www.wikidata.org/entity/Q28469410">
             <persName>Lear, König von Britannien</persName>
           </person>
-          <person xml:id="goneril" sex="FEMALE">
+          <person xml:id="goneril" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16385853">
             <persName>Goneril</persName>
           </person>
-          <person xml:id="cordelia" sex="FEMALE">
+          <person xml:id="cordelia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5169921">
             <persName>Cordelia</persName>
           </person>
-          <person xml:id="regan" sex="FEMALE">
+          <person xml:id="regan" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7307943">
             <persName>Regan</persName>
           </person>
           <person xml:id="albanien" sex="MALE">

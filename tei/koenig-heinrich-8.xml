@@ -60,16 +60,16 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="buckingham" sex="MALE">
+          <person xml:id="buckingham" sex="MALE" ana="http://www.wikidata.org/entity/Q726243">
             <persName>Herzog von Buckingham</persName>
           </person>
-          <person xml:id="norfolk" sex="MALE">
+          <person xml:id="norfolk" sex="MALE" ana="http://www.wikidata.org/entity/Q709340">
             <persName>Herzog von Norfolk</persName>
           </person>
-          <person xml:id="abergavenny" sex="MALE">
+          <person xml:id="abergavenny" sex="MALE" ana="http://www.wikidata.org/entity/Q1507985">
             <persName>Lord Abergavenny</persName>
           </person>
-          <person xml:id="wolsey" sex="MALE">
+          <person xml:id="wolsey" sex="MALE" ana="http://www.wikidata.org/entity/Q206512">
             <persName>Kardinal Wolsey</persName>
           </person>
           <person xml:id="schreiber_i-1" sex="MALE">
@@ -81,28 +81,28 @@
           <person xml:id="gerichtsdiener" sex="MALE">
             <persName>Ein Gerichtsdiener</persName>
           </person>
-          <person xml:id="koenig" sex="MALE">
+          <person xml:id="koenig" sex="MALE" ana="http://www.wikidata.org/entity/Q38370">
             <persName>König Heinrich VIII.</persName>
           </person>
-          <person xml:id="koenigin_katharina" sex="FEMALE">
+          <person xml:id="koenigin_katharina" sex="FEMALE" ana="http://www.wikidata.org/entity/Q162819">
             <persName>Katharina, Königin von England</persName>
           </person>
           <person xml:id="haushofmeister" sex="MALE">
             <persName>Haushofmeister des Herzogs von Buckingham</persName>
           </person>
-          <person xml:id="lord_kaemmerer" sex="MALE">
+          <person xml:id="lord_kaemmerer" sex="MALE" ana="http://www.wikidata.org/entity/Q549866">
             <persName>Lord Kämmerer</persName>
           </person>
-          <person xml:id="sands" sex="MALE">
+          <person xml:id="sands" sex="MALE" ana="http://www.wikidata.org/entity/Q8018111">
             <persName>Lord Sands</persName>
           </person>
-          <person xml:id="lovell" sex="MALE">
+          <person xml:id="lovell" sex="MALE" ana="http://www.wikidata.org/entity/Q7791938">
             <persName>Sir Thomas Lovell</persName>
           </person>
-          <person xml:id="guilford" sex="MALE">
+          <person xml:id="guilford" sex="MALE" ana="http://www.wikidata.org/entity/Q5722296">
             <persName>Sir Heinrich Guilford</persName>
           </person>
-          <person xml:id="anna" sex="FEMALE">
+          <person xml:id="anna" sex="FEMALE" ana="http://www.wikidata.org/entity/Q80823">
             <persName>Anna Bullen</persName>
           </person>
           <person xml:id="diener" sex="MALE">
@@ -114,16 +114,16 @@
           <person xml:id="zweiter" sex="MALE">
             <persName>Zweiter Edelmann</persName>
           </person>
-          <person xml:id="vaux" sex="MALE">
+          <person xml:id="vaux" sex="MALE" ana="http://www.wikidata.org/entity/Q8205978">
             <persName>Sir Nikolas Vaux</persName>
           </person>
-          <person xml:id="suffolk" sex="MALE">
+          <person xml:id="suffolk" sex="MALE" ana="http://www.wikidata.org/entity/Q337635">
             <persName>Herzog von Suffolk</persName>
           </person>
-          <person xml:id="campejus" sex="MALE">
+          <person xml:id="campejus" sex="MALE" ana="http://www.wikidata.org/entity/Q222941">
             <persName>Kardinal Campejus</persName>
           </person>
-          <person xml:id="gardiner" sex="MALE">
+          <person xml:id="gardiner" sex="MALE" ana="http://www.wikidata.org/entity/Q719423">
             <persName>Gardiner, Bischof von Winchester</persName>
           </person>
           <person xml:id="hofdame" sex="FEMALE">
@@ -138,37 +138,37 @@
           <person xml:id="griffith" sex="MALE">
             <persName>Griffith</persName>
           </person>
-          <person xml:id="lincoln" sex="MALE">
+          <person xml:id="lincoln" sex="MALE" ana="http://www.wikidata.org/entity/Q6245217">
             <persName>Bischof von Lincoln</persName>
           </person>
           <person xml:id="edelmann" sex="MALE">
             <persName>Ein Edelmann</persName>
           </person>
-          <person xml:id="surrey" sex="MALE">
+          <person xml:id="surrey" sex="MALE" ana="http://www.wikidata.org/entity/Q503816">
             <persName>Graf von Surrey</persName>
           </person>
-          <person xml:id="cromwell" sex="MALE">
+          <person xml:id="cromwell" sex="MALE" ana="http://www.wikidata.org/entity/Q44279">
             <persName>Cromwell</persName>
           </person>
           <person xml:id="dritter" sex="MALE">
             <persName>Dritter Edelmann</persName>
           </person>
-          <person xml:id="patienza" sex="FEMALE">
+          <person xml:id="patienza">
             <persName>Patienza</persName>
           </person>
           <person xml:id="bote" sex="MALE">
             <persName>Bote</persName>
           </person>
-          <person xml:id="capucius" sex="MALE">
+          <person xml:id="capucius" sex="MALE" ana="http://www.wikidata.org/entity/Q602596">
             <persName>Capucius</persName>
           </person>
           <person xml:id="page" sex="MALE">
             <persName>Ein Page</persName>
           </person>
-          <person xml:id="denny" sex="MALE">
+          <person xml:id="denny" sex="MALE" ana="http://www.wikidata.org/entity/Q3888459">
             <persName>Sir Anton Denny</persName>
           </person>
-          <person xml:id="cranmer" sex="MALE">
+          <person xml:id="cranmer" sex="MALE" ana="http://www.wikidata.org/entity/Q199894">
             <persName>Cranmer, Erzbischof von Canterbury</persName>
           </person>
           <person xml:id="hofkavalier" sex="MALE">
@@ -177,10 +177,10 @@
           <person xml:id="tuersteher" sex="MALE">
             <persName>Türsteher</persName>
           </person>
-          <person xml:id="butts" sex="MALE">
+          <person xml:id="butts" sex="MALE" ana="http://www.wikidata.org/entity/Q8006232">
             <persName>Doktor Butts</persName>
           </person>
-          <person xml:id="kanzler" sex="MALE">
+          <person xml:id="kanzler" sex="MALE" ana="http://www.wikidata.org/entity/Q42544">
             <persName>Lord Kanzler</persName>
           </person>
           <personGrp xml:id="alle_v-2" sex="MALE">

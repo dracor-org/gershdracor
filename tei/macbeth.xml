@@ -69,46 +69,46 @@
           <person xml:id="dritte_hexe" sex="FEMALE">
             <persName>Dritte Hexe</persName>
           </person>
-          <person xml:id="duncan" sex="MALE">
+          <person xml:id="duncan" sex="MALE" ana="http://www.wikidata.org/entity/Q15698348">
             <persName>Duncan, König von Schottland</persName>
           </person>
-          <person xml:id="malcolm" sex="MALE">
+          <person xml:id="malcolm" sex="MALE" ana="http://www.wikidata.org/entity/Q16203840">
             <persName>Malcolm</persName>
           </person>
-          <person xml:id="krieger" sex="MALE">
+          <person xml:id="krieger" sex="MALE" ana="http://www.wikidata.org/entity/Q64145671">
             <persName>Ein blutender Krieger</persName>
           </person>
-          <person xml:id="lenox" sex="MALE">
+          <person xml:id="lenox" sex="MALE" ana="http://www.wikidata.org/entity/Q64145662">
             <persName>Lenox</persName>
           </person>
-          <person xml:id="rosse" sex="MALE">
+          <person xml:id="rosse" sex="MALE" ana="http://www.wikidata.org/entity/Q64145659">
             <persName>Rosse</persName>
           </person>
-          <person xml:id="macbeth" sex="MALE">
+          <person xml:id="macbeth" sex="MALE" ana="http://www.wikidata.org/entity/Q10322723">
             <persName>Macbeth</persName>
           </person>
-          <person xml:id="banquo" sex="MALE">
+          <person xml:id="banquo" sex="MALE" ana="http://www.wikidata.org/entity/Q806945">
             <persName>Banquo</persName>
           </person>
-          <person xml:id="angus" sex="MALE">
+          <person xml:id="angus" sex="MALE" ana="http://www.wikidata.org/entity/Q64145663">
             <persName>Angus</persName>
           </person>
-          <person xml:id="lady_macbeth" sex="FEMALE">
+          <person xml:id="lady_macbeth" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2454065">
             <persName>Lady Macbeth</persName>
           </person>
           <person xml:id="diener_i-5" sex="MALE">
             <persName>Ein Diener (I/5)</persName>
           </person>
-          <person xml:id="fleance" sex="MALE">
+          <person xml:id="fleance" sex="MALE" ana="http://www.wikidata.org/entity/Q3429667">
             <persName>Fleance</persName>
           </person>
-          <person xml:id="pfoertner" sex="MALE">
+          <person xml:id="pfoertner" sex="MALE" ana="http://www.wikidata.org/entity/Q64145679">
             <persName>Ein Pförtner</persName>
           </person>
-          <person xml:id="macduff" sex="MALE">
+          <person xml:id="macduff" sex="MALE" ana="http://www.wikidata.org/entity/Q3842048">
             <persName>Macduff</persName>
           </person>
-          <person xml:id="donalbain" sex="MALE">
+          <person xml:id="donalbain" sex="MALE" ana="http://www.wikidata.org/entity/Q5293903">
             <persName>Donalbain</persName>
           </person>
           <person xml:id="alter" sex="MALE">
@@ -117,22 +117,22 @@
           <person xml:id="diener_iii-1" sex="MALE">
             <persName>Ein Diener (III/1)</persName>
           </person>
-          <person xml:id="erster_moerder" sex="MALE">
+          <person xml:id="erster_moerder" sex="MALE" ana="http://www.wikidata.org/entity/Q64145673">
             <persName>Erster Mörder</persName>
           </person>
-          <person xml:id="zweiter_moerder" sex="MALE">
+          <person xml:id="zweiter_moerder" sex="MALE" ana="http://www.wikidata.org/entity/Q64145675">
             <persName>Zweiter Mörder</persName>
           </person>
           <person xml:id="diener_iii-2" sex="MALE">
             <persName>Ein Diener (III/2)</persName>
           </person>
-          <person xml:id="dritter_moerder" sex="MALE">
+          <person xml:id="dritter_moerder" sex="MALE" ana="http://www.wikidata.org/entity/Q64145677">
             <persName>Dritter Mörder</persName>
           </person>
           <personGrp xml:id="lords" sex="MALE">
             <name>Lords</name>
           </personGrp>
-          <person xml:id="hekate" sex="FEMALE">
+          <person xml:id="hekate" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145668">
             <persName>Hekate</persName>
           </person>
           <person xml:id="gesang" sex="UNKNOWN">
@@ -144,10 +144,10 @@
           <person xml:id="die_erscheinung" sex="UNKNOWN">
             <persName>Die Erscheinung</persName>
           </person>
-          <person xml:id="lady_macduff" sex="FEMALE">
+          <person xml:id="lady_macduff" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6470383">
             <persName>Lady Macduff</persName>
           </person>
-          <person xml:id="sohn" sex="MALE">
+          <person xml:id="sohn" sex="MALE" ana="http://www.wikidata.org/entity/Q6723008">
             <persName>Macduffs kleiner Sohn</persName>
           </person>
           <person xml:id="bote_iv-2" sex="MALE">
@@ -156,28 +156,28 @@
           <person xml:id="moerder_iv-2" sex="MALE">
             <persName>Mörder (IV/2)</persName>
           </person>
-          <person xml:id="ein_englischer_arzt" sex="MALE">
+          <person xml:id="ein_englischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145681">
             <persName>Ein englischer Arzt</persName>
           </person>
-          <person xml:id="ein_schottischer_arzt" sex="MALE">
+          <person xml:id="ein_schottischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145683">
             <persName>Ein schottischer Arzt</persName>
           </person>
-          <person xml:id="kammerfrau" sex="FEMALE">
+          <person xml:id="kammerfrau" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145684">
             <persName>Eine Kammerfrau</persName>
           </person>
-          <person xml:id="menteth" sex="MALE">
+          <person xml:id="menteth" sex="MALE" ana="http://www.wikidata.org/entity/Q64145664">
             <persName>Menteth</persName>
           </person>
-          <person xml:id="cathness" sex="MALE">
+          <person xml:id="cathness" sex="MALE" ana="http://www.wikidata.org/entity/Q64145665">
             <persName>Cathness</persName>
           </person>
           <person xml:id="diener_v-3" sex="MALE">
             <persName>Ein Diener (V/3)</persName>
           </person>
-          <person xml:id="seyton" sex="MALE">
+          <person xml:id="seyton" sex="MALE" ana="http://www.wikidata.org/entity/Q64145666">
             <persName>Seyton</persName>
           </person>
-          <person xml:id="siward" sex="MALE">
+          <person xml:id="siward" sex="MALE" ana="http://www.wikidata.org/entity/Q68366">
             <persName>Siward</persName>
           </person>
           <person xml:id="ein_soldat" sex="MALE">
@@ -186,7 +186,7 @@
           <person xml:id="bote_v-5" sex="MALE">
             <persName>Ein Bote (V/5)</persName>
           </person>
-          <person xml:id="der_junge_siward" sex="MALE">
+          <person xml:id="der_junge_siward" sex="MALE" ana="http://www.wikidata.org/entity/Q16205679">
             <persName>Der junge Siward</persName>
           </person>
         </listPerson>
@@ -405,7 +405,7 @@
               <l>Wie deine Worte zieren dich die Wunden;</l>
               <l>Und Ehre strömt aus beiden. Schafft ihm Ärzte!</l>
             </lg>
-            <stage>Der Krieger wird fortgeführt. Rossetritt auf.</stage>
+            <stage>Der Krieger wird fortgeführt. Rosse tritt auf.</stage>
             <l>Wer nahet hier?</l>
           </sp>
           <sp who="#malcolm">
@@ -2191,7 +2191,7 @@
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Vor dem Schloß.</stage>
-          <stage>Rossetritt auf mit einem alten Mann.</stage>
+          <stage>Rosse tritt auf mit einem alten Mann.</stage>
           <sp who="#alter">
             <speaker>ALTER.</speaker>
             <lg>
@@ -4489,7 +4489,7 @@
               <l>So steht um seinen Thron vielfacher Segen,</l>
               <l>Ihn gottbegabt verkündend.</l>
             </lg>
-            <stage>Rossetritt auf.</stage>
+            <stage>Rosse tritt auf.</stage>
           </sp>
           <sp who="#macduff">
             <speaker>MACDUFF.</speaker>

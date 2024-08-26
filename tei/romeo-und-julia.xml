@@ -70,10 +70,10 @@
           <person xml:id="abraham" sex="MALE">
             <persName>Abraham</persName>
           </person>
-          <person xml:id="benvolio" sex="MALE">
+          <person xml:id="benvolio" sex="MALE" ana="http://www.wikidata.org/entity/Q939489">
             <persName>Benvolio</persName>
           </person>
-          <person xml:id="tybalt" sex="MALE">
+          <person xml:id="tybalt" sex="MALE" ana="http://www.wikidata.org/entity/Q2412073">
             <persName>Tybalt</persName>
           </person>
           <person xml:id="ein_buerger_i-1" sex="MALE">
@@ -82,37 +82,37 @@
           <person xml:id="capulet" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="graefin_capulet" sex="FEMALE">
+          <person xml:id="graefin_capulet" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Gräfin Capulet</persName>
           </person>
           <person xml:id="montague" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="graefin_montague" sex="FEMALE">
+          <person xml:id="graefin_montague" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Gräfin Montague</persName>
           </person>
-          <person xml:id="prinz" sex="MALE">
+          <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Escalus, Prinz von Verona</persName>
           </person>
-          <person xml:id="romeo" sex="MALE">
+          <person xml:id="romeo" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Romeo</persName>
           </person>
-          <person xml:id="paris" sex="MALE">
+          <person xml:id="paris" sex="MALE" ana="http://www.wikidata.org/entity/Q3687815">
             <persName>Graf Paris</persName>
           </person>
           <person xml:id="der_bediente_i-2" sex="MALE">
             <persName>Ein Bedienter (I/2)</persName>
           </person>
-          <person xml:id="waerterin" sex="FEMALE">
+          <person xml:id="waerterin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7070187">
             <persName>Wärterin</persName>
           </person>
-          <person xml:id="julia" sex="FEMALE">
+          <person xml:id="julia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1092632">
             <persName>Julia</persName>
           </person>
           <person xml:id="der_bediente_i-3" sex="MALE">
             <persName>Ein Bedienter (I/3)</persName>
           </person>
-          <person xml:id="mercutio" sex="MALE">
+          <person xml:id="mercutio" sex="MALE" ana="http://www.wikidata.org/entity/Q1767900">
             <persName>Mercutio</persName>
           </person>
           <person xml:id="erster_bediente_i-5" sex="MALE">
@@ -130,7 +130,7 @@
           <person xml:id="der_bediente_i-5" sex="MALE">
             <persName>Ein Bedienter (I/5)</persName>
           </person>
-          <person xml:id="lorenzo" sex="MALE">
+          <person xml:id="lorenzo" sex="MALE" ana="http://www.wikidata.org/entity/Q5503354">
             <persName>Bruder Lorenzo</persName>
           </person>
           <person xml:id="peter" sex="MALE">

@@ -81,16 +81,16 @@
           <person xml:id="dritte_koenigin" sex="FEMALE">
             <persName>Dritte Königin</persName>
           </person>
-          <person xml:id="theseus" sex="MALE">
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="hippolyta" sex="FEMALE">
+          <person xml:id="hippolyta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q210303">
             <persName>Hippolyta</persName>
           </person>
           <person xml:id="emilia" sex="FEMALE">
             <persName>Emilia</persName>
           </person>
-          <person xml:id="pirithous" sex="MALE">
+          <person xml:id="pirithous" sex="MALE" ana="http://www.wikidata.org/entity/Q502156">
             <persName>Pirithous</persName>
           </person>
           <person xml:id="arcites" sex="MALE">

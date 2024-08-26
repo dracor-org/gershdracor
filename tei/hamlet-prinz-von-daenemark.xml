@@ -61,52 +61,52 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bernardo" sex="MALE">
+          <person xml:id="bernardo" sex="MALE" ana="http://www.wikidata.org/entity/Q64145633">
             <persName>Bernardo</persName>
           </person>
-          <person xml:id="francisco" sex="MALE">
+          <person xml:id="francisco" sex="MALE" ana="http://www.wikidata.org/entity/Q64145634">
             <persName>Francisco</persName>
           </person>
-          <person xml:id="horatio" sex="MALE">
+          <person xml:id="horatio" sex="MALE" ana="http://www.wikidata.org/entity/Q3140503">
             <persName>Horatio</persName>
           </person>
-          <person xml:id="marcellus" sex="MALE">
+          <person xml:id="marcellus" sex="MALE" ana="http://www.wikidata.org/entity/Q64145631">
             <persName>Marcellus</persName>
           </person>
-          <person xml:id="koenig" sex="MALE">
+          <person xml:id="koenig" sex="MALE" ana="http://www.wikidata.org/entity/Q1811294">
             <persName>Claudius, König von Dänemark</persName>
           </person>
-          <person xml:id="cornelius" sex="MALE">
+          <person xml:id="cornelius" sex="MALE" ana="http://www.wikidata.org/entity/Q64145629">
             <persName>Cornelius</persName>
           </person>
-          <person xml:id="voltimand" sex="MALE">
+          <person xml:id="voltimand" sex="MALE" ana="http://www.wikidata.org/entity/Q64145627">
             <persName>Voltimand</persName>
           </person>
-          <person xml:id="laertes" sex="MALE">
+          <person xml:id="laertes" sex="MALE" ana="http://www.wikidata.org/entity/Q2471533">
             <persName>Laertes</persName>
           </person>
-          <person xml:id="polonius" sex="MALE">
+          <person xml:id="polonius" sex="MALE" ana="http://www.wikidata.org/entity/Q780191">
             <persName>Polonius</persName>
           </person>
-          <person xml:id="hamlet" sex="MALE">
+          <person xml:id="hamlet" sex="MALE" ana="http://www.wikidata.org/entity/Q2447542">
             <persName>Hamlet</persName>
           </person>
-          <person xml:id="koenigin" sex="FEMALE">
+          <person xml:id="koenigin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q546616">
             <persName>Gertrude, Königin von Dänemark</persName>
           </person>
-          <person xml:id="ophelia" sex="FEMALE">
+          <person xml:id="ophelia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1800888">
             <persName>Ophelia</persName>
           </person>
-          <person xml:id="geist" sex="MALE">
+          <person xml:id="geist" sex="MALE" ana="http://www.wikidata.org/entity/Q1813659">
             <persName>Der Geist von Hamlets Vater</persName>
           </person>
-          <person xml:id="reinhold" sex="MALE">
+          <person xml:id="reinhold" sex="MALE" ana="http://www.wikidata.org/entity/Q64145635">
             <persName>Reinhold</persName>
           </person>
-          <person xml:id="rosenkranz" sex="MALE">
+          <person xml:id="rosenkranz" sex="MALE" ana="http://www.wikidata.org/entity/Q64145623">
             <persName>Rosenkranz</persName>
           </person>
-          <person xml:id="gueldenstern" sex="MALE">
+          <person xml:id="gueldenstern" sex="MALE" ana="http://www.wikidata.org/entity/Q64145625">
             <persName>Güldenstern</persName>
           </person>
           <person xml:id="erster_schauspieler" sex="MALE">
@@ -124,10 +124,10 @@
           <person xml:id="lucianus" sex="MALE">
             <persName>Lucianus</persName>
           </person>
-          <person xml:id="fortinbras" sex="MALE">
+          <person xml:id="fortinbras" sex="MALE" ana="http://www.wikidata.org/entity/Q2568064">
             <persName>Fortinbras</persName>
           </person>
-          <person xml:id="hauptmann" sex="MALE">
+          <person xml:id="hauptmann" sex="MALE" ana="http://www.wikidata.org/entity/Q64145643">
             <persName>Ein Hauptmann</persName>
           </person>
           <person xml:id="edelmann_iv-5" sex="MALE">
@@ -157,7 +157,7 @@
           <personGrp xml:id="gefolge" sex="UNKNOWN">
             <name>Gefolge</name>
           </personGrp>
-          <person xml:id="osrick" sex="MALE">
+          <person xml:id="osrick" sex="MALE" ana="http://www.wikidata.org/entity/Q11801381">
             <persName>Osrick</persName>
           </person>
           <person xml:id="edelmann_v-2" sex="MALE">

@@ -61,40 +61,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="suffolk" sex="MALE">
+          <person xml:id="suffolk" sex="MALE" ana="http://www.wikidata.org/entity/Q584430">
             <persName>Herzog von Suffolk</persName>
           </person>
-          <person xml:id="koenig_heinrich" sex="MALE">
-            <persName>König Heinrich IV.</persName>
+          <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q160337">
+            <persName>König Heinrich VI.</persName>
           </person>
-          <person xml:id="margareta" sex="FEMALE">
-            <persName>Margareta</persName>
+          <person xml:id="margareta_koenigin" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q231145">
+            <persName>Margareta, König Heinrichs Gemahlin</persName>
           </person>
           <personGrp xml:id="alle_i-1" sex="UNKNOWN">
             <name>Alle (I/1)</name>
           </personGrp>
-          <person xml:id="gloster" sex="MALE">
+          <person xml:id="gloster" sex="MALE" ana="http://www.wikidata.org/entity/Q447541">
             <persName>Humphrey, Herzog von Gloster</persName>
           </person>
-          <person xml:id="kardinal" sex="MALE">
+          <person xml:id="kardinal_beaufort" sex="MALE" ana="http://www.wikidata.org/entity/Q982472">
             <persName>Kardinal Beaufort, Bischof von Winchester</persName>
           </person>
-          <person xml:id="salisbury" sex="MALE">
+          <person xml:id="salisbury" sex="MALE" ana="http://www.wikidata.org/entity/Q384856">
             <persName>Graf von Salisbury</persName>
           </person>
-          <person xml:id="warwick" sex="MALE">
+          <person xml:id="warwick" sex="MALE" ana="http://www.wikidata.org/entity/Q437571">
             <persName>Graf von Warwick</persName>
           </person>
-          <person xml:id="york" sex="MALE">
+          <person xml:id="york" sex="MALE" ana="http://www.wikidata.org/entity/Q312137">
             <persName>Richard Plantagenet, Herzog von York</persName>
           </person>
-          <person xml:id="buckingham" sex="MALE">
+          <person xml:id="buckingham" sex="MALE" ana="http://www.wikidata.org/entity/Q1265605">
             <persName>Herzog von Buckingham</persName>
           </person>
-          <person xml:id="somerset" sex="MALE">
+          <person xml:id="somerset" sex="MALE" ana="http://www.wikidata.org/entity/Q919338">
             <persName>Herzog von Somerset</persName>
           </person>
-          <person xml:id="herzogin" sex="FEMALE">
+          <person xml:id="herzogin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q25583">
             <persName>Leonora, Herzogin von Gloster</persName>
           </person>
           <person xml:id="bote_i-2" sex="MALE">
@@ -112,19 +113,16 @@
           <person xml:id="peter" sex="MALE">
             <persName>Peter</persName>
           </person>
-          <person xml:id="koenigin" sex="FEMALE">
-            <persName>Margareta, König Heinrichs Gemahlin</persName>
-          </person>
           <person xml:id="horner" sex="MALE">
             <persName>Thomas Horner</persName>
           </person>
-          <person xml:id="bolingbroke" sex="MALE">
+          <person xml:id="bolingbroke" sex="MALE" ana="http://www.wikidata.org/entity/Q7357881">
             <persName>Bolingbroke</persName>
           </person>
           <person xml:id="geist" sex="UNKNOWN">
             <persName>Geist</persName>
           </person>
-          <person xml:id="grete_jordan" sex="FEMALE">
+          <person xml:id="grete_jordan" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1895244">
             <persName>Grete Jordan</persName>
           </person>
           <person xml:id="einwohner" sex="MALE">
@@ -166,7 +164,7 @@
           <person xml:id="sheriff" sex="MALE">
             <persName>Ein Sheriff</persName>
           </person>
-          <person xml:id="stanley" sex="MALE">
+          <person xml:id="stanley" sex="MALE" ana="http://www.wikidata.org/entity/Q456361">
             <persName>Sir John Stanley</persName>
           </person>
           <person xml:id="bote_iii-1" sex="MALE">
@@ -183,9 +181,6 @@
           </personGrp>
           <person xml:id="vaux" sex="MALE">
             <persName>Vaux</persName>
-          </person>
-          <person xml:id="beaufort" sex="MALE">
-            <persName>Kardinal Beaufort, Bischof von Winchester</persName>
           </person>
           <person xml:id="schiffshauptmann" sex="MALE">
             <persName>Ein Schiffshauptmann</persName>
@@ -211,7 +206,7 @@
           <person xml:id="johann" sex="MALE">
             <persName>Johann Holland</persName>
           </person>
-          <person xml:id="cade" sex="MALE">
+          <person xml:id="cade" sex="MALE" ana="http://www.wikidata.org/entity/Q613385">
             <persName>Hans Cade</persName>
           </person>
           <person xml:id="maerten" sex="MALE">
@@ -221,7 +216,7 @@
             <persName>Smith der Leinweber</persName>
           </person>
           <personGrp xml:id="alle_iv" sex="UNKNOWN">
-            <name>Alle (IV), Cades Anhänger</name>
+            <name>Alle (IV)/Cades Anhänger</name>
           </personGrp>
           <person xml:id="schreiber" sex="MALE">
             <persName>Der Schreiber von Chatham</persName>
@@ -229,13 +224,14 @@
           <person xml:id="michel" sex="MALE">
             <persName>Michel</persName>
           </person>
-          <person xml:id="stafford" sex="MALE">
+          <person xml:id="stafford" sex="MALE" ana="http://www.wikidata.org/entity/Q75400614">
             <persName>Sir Humphrey Stafford</persName>
           </person>
-          <person xml:id="william_stafford" sex="MALE">
+          <person xml:id="william_stafford" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q85815750">
             <persName>William Stafford</persName>
           </person>
-          <person xml:id="say" sex="MALE">
+          <person xml:id="say" sex="MALE" ana="http://www.wikidata.org/entity/Q6133874">
             <persName>Lord Say</persName>
           </person>
           <person xml:id="bote_iv-4" sex="MALE">
@@ -244,7 +240,7 @@
           <person xml:id="zweiter_bote" sex="MALE">
             <persName>Zweiter Bote</persName>
           </person>
-          <person xml:id="scales" sex="MALE">
+          <person xml:id="scales" sex="MALE" ana="http://www.wikidata.org/entity/Q3525715">
             <persName>Lord Scales</persName>
           </person>
           <person xml:id="erster_buerger" sex="MALE">
@@ -256,22 +252,22 @@
           <person xml:id="bote_iv-7" sex="MALE">
             <persName>Ein Bote (IV/7)</persName>
           </person>
-          <person xml:id="clifford" sex="MALE">
+          <person xml:id="clifford" sex="MALE" ana="http://www.wikidata.org/entity/Q7788470">
             <persName>Lord Clifford</persName>
           </person>
           <person xml:id="bote_iv-9" sex="MALE">
             <persName>Ein Bote (IV/9)</persName>
           </person>
-          <person xml:id="iden" sex="MALE">
+          <person xml:id="iden" sex="MALE" ana="http://www.wikidata.org/entity/Q110622639">
             <persName>Alexander Iden</persName>
           </person>
-          <person xml:id="eduard" sex="MALE">
+          <person xml:id="eduard" sex="MALE" ana="http://www.wikidata.org/entity/Q160341">
             <persName>Eduard</persName>
           </person>
-          <person xml:id="richard" sex="MALE">
+          <person xml:id="richard" sex="MALE" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard</persName>
           </person>
-          <person xml:id="clifford_sohn" sex="MALE">
+          <person xml:id="clifford_sohn" sex="MALE" ana="http://www.wikidata.org/entity/Q647319">
             <persName>Der junge Clifford</persName>
           </person>
         </listPerson>
@@ -405,7 +401,7 @@
               <l>Wenn Liebes-Eintracht unsern Sinn verknüpft.</l>
             </lg>
           </sp>
-          <sp who="#margareta">
+          <sp who="#margareta_koenigin">
             <speaker>MARGARETA.</speaker>
             <lg>
               <l>Mein gnäd'ger Gatte, großer König Englands!</l>
@@ -434,7 +430,7 @@
             <l>Lang' lebe Margareta, Englands Heil!</l>
             <stage>Trompetenstoß.</stage>
           </sp>
-          <sp who="#margareta">
+          <sp who="#margareta_koenigin">
             <speaker>MARGARETA.</speaker>
             <l>Euch allen danken wir.</l>
           </sp>
@@ -474,7 +470,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Ich bitt' Euch, Ohm von Winchester, lest weiter!</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>liest.</stage>
             <p>»Ferner sind selbige übereingekommen, daß die Herzogtümer Anjou und Maine frei
@@ -534,7 +530,7 @@
               <l>Vernichtet alles, als wär's nie gewesen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Neffe, was soll die ungestüme Rede?</l>
@@ -598,7 +594,7 @@
               <l>Bevor –</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Mylord von Gloster, Ihr seid allzu hitzig:</l>
@@ -619,7 +615,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Da geht im Grimme der Protektor fort.</l>
@@ -653,7 +649,7 @@
               <l>Wir heben bald den Herzog aus dem Sitz.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Es leidet keinen Aufschub dies Geschäft.</l>
@@ -1032,7 +1028,7 @@
               <l>Euch für den Lord Protektor.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN</speaker>
             <stage>liest die Überschriften.</stage>
             <p>»An Mylord Protektor.« Sind eure Bittschriften an Seine Herrlichkeit gerichtet? Laßt
@@ -1059,7 +1055,7 @@
             <p>Gegen meinen Meister, Thomas Horner, weil er gesagt hat, daß der Herzog von York
               rechtmäßiger Erbe der Krone wäre.</p>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <p>Was sagst du? Sagte der Herzog von York, er wäre rechtmäßiger Erbe der Krone?</p>
           </sp>
@@ -1077,7 +1073,7 @@
               seinem Meister. – Wir wollen von Eurer Sache mehr vor dem Könige hören.</p>
             <stage>Bedienter mit Peter ab.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Was euch betrifft, die ihr Protektion</l>
@@ -1092,7 +1088,7 @@
             <l>Kommt! Laßt uns gehn!</l>
             <stage>Supplikanten ab.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Mylord von Suffolk, sagt, ist das die Art,</l>
@@ -1129,7 +1125,7 @@
               <l>In England völlig Euch zufriedenstellen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Nächst dem Protektor haben wir noch Beaufort,</l>
@@ -1146,7 +1142,7 @@
               <l>Salisbury und Warwick sind nicht bloße Pairs.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Mich kränken halb so sehr nicht all die Lords</l>
@@ -1213,7 +1209,7 @@
               <l>Wird nicht gefragt: York ist der würdigste.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Ehrgeiz'ger Warwick, laß die Obern reden.</l>
           </sp>
@@ -1236,7 +1232,7 @@
               <l>Daß Somerset hiebei sei vorzuziehn.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Ei, weil der König es so haben will.</l>
           </sp>
@@ -1247,7 +1243,7 @@
               <l>Um selbst zu stimmen; dies sind nicht Fraun-Geschäfte.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ist er schon alt genug, was braucht Eu'r Gnaden</l>
@@ -1272,7 +1268,7 @@
               <l>Wie Sklaven deiner Herrschaft hier gewesen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Das Volk hast du geplagt; der Klerisei</l>
@@ -1294,7 +1290,7 @@
               <l>Und gibt dich in die Willkür des Gesetzes.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Dein Ämter-Handel, und mit Städten Frankreichs,</l>
@@ -1704,7 +1700,7 @@
           <stage>Sankt-Albans.</stage>
           <stage>König Heinrich, Königin Margareta, Gloster, der Kardinal und Suffolk treten auf,
             mit Falkenieren, die ein Jagdgeschrei machen.</stage>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ja, glaubt mir, Lords, zu einem Wasserflug</l>
@@ -1738,7 +1734,7 @@
               <l>Nicht höher an, als sich ein Vogel schwingt.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Ich dacht' es wohl, er will bis in die Wolken.</l>
           </sp>
@@ -1753,7 +1749,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Den reichen Schoß der ew'gen Herrlichkeit!</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Dein Himmel ist auf Erden; Aug' und Sinn</l>
@@ -1794,7 +1790,7 @@
             <speaker>GLOSTER.</speaker>
             <l>Ja, Suffolk, England kennt schon deinen Trotz.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Und deinen Ehrgeiz, Gloster.</l>
           </sp>
@@ -1806,7 +1802,7 @@
               <l>Gesegnet, die auf Erden Frieden stiften.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Mein sei der Segen, wenn ich Frieden stifte</l>
@@ -1818,7 +1814,7 @@
             <stage>beiseit zum Kardinal.</stage>
             <l>Traun, frommer Ohm, ich wollt', es käm' dahin!</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>beiseit.</stage>
             <l>Hast du das Herz, nun gut!</l>
@@ -1831,7 +1827,7 @@
               <l>Dein eigner Leib steh' für den Unglimpf ein.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -1843,7 +1839,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Was gibt's, ihr Herrn?</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Glaubt mir, mein Vetter Gloster,</l>
@@ -1857,7 +1853,7 @@
             <speaker>GLOSTER.</speaker>
             <l>Gut, Oheim.</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>beiseit.</stage>
             <l>Ihr wißt Bescheid? Des Wäldchens Morgenseite?</l>
@@ -1881,7 +1877,7 @@
             </lg>
           </sp>
           <pb n="612"/>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>beiseit.</stage>
             <lg>
@@ -1933,7 +1929,7 @@
               Personen auf einem Sessel getragen, seine Frau und ein großer Haufe Volks folgt ihnen
               nach.</stage>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Da kommt die Bürgerschaft in Prozession,</l>
@@ -1999,7 +1995,7 @@
               <l>Und stets bedenke, was der Herr getan.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Sag, guter Mensch, kamst du durch Zufall her</l>
@@ -2022,7 +2018,7 @@
               <l>Hört' ich von solcher Stimme selbst ihn rufen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Wie, bist du lahm?</l>
           </sp>
@@ -2221,7 +2217,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>O Gott, du siehst dies und erträgst so lange?</p>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <p>Ich mußte lachen, wie der Bube lief.</p>
           </sp>
@@ -2239,7 +2235,7 @@
               sind.</p>
             <stage>Der Schulz, Büttel, Frau usw. ab.</stage>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Ein Wunder ist Herzog Humphrey heut gelungen.</l>
           </sp>
@@ -2276,7 +2272,7 @@
               <l>Wie Eure Hoheit soll des weitern wissen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL</speaker>
             <stage>beiseit zu Gloster.</stage>
             <lg>
@@ -2303,7 +2299,7 @@
               <l>Und häufen so Verwirrung auf ihr eignes Haupt!</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Gloster, da schau den Flecken deines Nestes;</l>
@@ -2561,7 +2557,7 @@
               <l>Als da du warst Protektor deinem König.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ich sehe nicht, warum ein münd'ger König</l>
@@ -2583,7 +2579,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ja, nun ist Heinrich Herr, Margreta Königin,</l>
@@ -2611,7 +2607,7 @@
               <l>Geruht Eu'r Hoheit das Gefecht zu sehn.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ja, mein Gemahl; denn dazu eben kam ich</l>
@@ -3002,7 +2998,7 @@
               <l>Was für ein Anlaß auch ihn jetzt entfernt.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Könnt Ihr nicht sehn und wollt Ihr nicht bemerken,</l>
@@ -3068,7 +3064,7 @@
               <l>Noch unergründet und voll tiefen Trugs.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Erfand er, dem Gesetz zuwider, nicht</l>
@@ -3106,7 +3102,7 @@
               <l>Er träumt kein Arg und sucht nicht mein Verderben.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ah, wie gefährlich ist dies blinde Zutrau'n!</l>
@@ -3207,7 +3203,7 @@
               <l>Und meinen Vorschuß nie zurück verlangt.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Es steht Euch an, Mylord, das zu behaupten.</l>
           </sp>
@@ -3293,7 +3289,7 @@
               <l>Einen Hund zu schlagen, find't sich bald ein Stock.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Mein Oberherr, sein Schmähn ist unerträglich.</l>
@@ -3313,7 +3309,7 @@
               <l>Zum Umsturz seiner Würde falsch zu schwören?</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Ich kann ja den Verlierer schelten lassen.</l>
           </sp>
@@ -3332,7 +3328,7 @@
               <l>Lord Kardinal, er ist in Eurer Haft.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <l>Ihr, bringt den Herzog fort, verwahrt ihn sicher!</l>
           </sp>
@@ -3355,7 +3351,7 @@
               <l>Beschließt, verwerft, als ob wir selbst hier wären.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Eu'r Hoheit will das Parlament verlassen?</l>
           </sp>
@@ -3391,7 +3387,7 @@
             </lg>
             <stage>Ab.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ihr freien Lords, Schnee schmilzt vom Sonnenstrahl.</l>
@@ -3408,7 +3404,7 @@
               <l>Von unsrer Furcht vor ihm uns loszumachen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Zwar, daß er sterb', ist würd'ge Politik,</l>
@@ -3446,7 +3442,7 @@
               <l>Und Herzog Humphrey zum Protektor stellen?</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>So wär' des armen Küchleins Tod gewiß.</l>
           </sp>
@@ -3469,7 +3465,7 @@
               <l>Der den erst schlägt, der erst sich legt auf Trug.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Du sprichst entschlossen, dreimal edler Suffolk?</l>
           </sp>
@@ -3484,7 +3480,7 @@
               <l>Sagt nur das Wort, ich will sein Priester sein.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Ich aber wünscht' ihn tot, Mylord von Suffolk,</l>
@@ -3499,7 +3495,7 @@
             <l>Hier meine Hand, die Tat ist tuenswert.</l>
           </sp>
           <pb n="634"/>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Das sag' auch ich.</l>
           </sp>
@@ -3522,7 +3518,7 @@
               <l>Denn, da sie frisch, steht Hülfe sehr zu hoffen.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Ein Bruch, der schleunigst ausgefüllt muß werden!</l>
@@ -3556,7 +3552,7 @@
               <l>Nicht leicht gewinnt, wer so den Leib beschützt.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ja, dann wird dieser Funk' ein wütend Feuer,</l>
@@ -3574,7 +3570,7 @@
             <speaker>SOMERSET.</speaker>
             <l>Und über dich zugleich, der Schande wünscht!</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Mylord von York, versucht nun Euer Glück.</l>
@@ -3612,7 +3608,7 @@
               <l>Doch kommt nun wieder auf den falschen Humphrey.</l>
             </lg>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Nichts mehr von ihm: ich will's mit ihm so machen,</l>
@@ -3770,7 +3766,7 @@
               <l>In seinen Taten schuldig wird erkannt.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Verhüte Gott, daß irgend Tücke walte,</l>
@@ -3792,11 +3788,11 @@
             <speaker>SUFFOLK.</speaker>
             <l>Herr, tot in seinem Bett; Gloster ist tot.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Verhüt' es Gott!</l>
           </sp>
-          <sp who="#kardinal">
+          <sp who="#kardinal_beaufort">
             <speaker>KARDINAL.</speaker>
             <lg>
               <l>Das sind die heimlichen Gerichte Gottes!</l>
@@ -3805,7 +3801,7 @@
             </lg>
             <stage>Der König fällt in Ohnmacht.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Was macht mein Fürst? – Helft, Lords! Der König stirbt.</l>
           </sp>
@@ -3813,7 +3809,7 @@
             <speaker>SOMERSET.</speaker>
             <l>Man richt' ihn auf, man kneip' ihn an der Nase.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Lauft, geht, helft, helft! – O Heinrich, schlag' die Augen auf!</l>
           </sp>
@@ -3825,7 +3821,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>O großer Gott!</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Wie fühlt sich mein Gemahl?</l>
           </sp>
@@ -3856,7 +3852,7 @@
               <l>Im Leben zwiefach Tod, da Gloster hin.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Was scheltet Ihr Mylord von Suffolk so?</l>
@@ -3881,7 +3877,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Ach! Weh um Gloster, um den armen Mann!</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Wehklag' um mich, die ärmer ist als er!</l>
@@ -4062,7 +4058,7 @@
               <l>Und, wie sich's kund gibt, fand er einen Feind.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>So scheint's, Ihr argwöhnt diese hohen Lords</l>
@@ -4082,7 +4078,7 @@
               <l>Ganz so verdächtig ist dies Trauerspiel.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Seid Ihr der Schlächter, Suffolk? Wo ist Eu'r Messer?</l>
@@ -4105,7 +4101,7 @@
             <speaker>WARWICK.</speaker>
             <l>Was darf, getrotzt vom falschen Suffolk, Warwick nicht?</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Er darf nicht seinen Schmähungsgeist bezähmen,</l>
@@ -4177,7 +4173,7 @@
             </lg>
             <stage>Man hört draußen Lärm.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Was für ein Lärm?</l>
             <stage>Suffolk und Warwick kommen mit gezogenen Degen zurück.</stage>
@@ -4273,7 +4269,7 @@
             <stage>Salisbury ab.</stage>
           </sp>
           <pb n="646"/>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>O laß mich für den holden Suffolk reden!</l>
           </sp>
@@ -4293,7 +4289,7 @@
             </lg>
             <stage>König Heinrich, Warwick, Lords u.s.w. ab.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Unheil und Kummer folg' Euch auf dem Fuß!</l>
@@ -4310,7 +4306,7 @@
               <l>Laß deinen Suffolk traurig Abschied nehmen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Pfui, feiges Weib! weichherziges Geschöpf!</l>
@@ -4343,7 +4339,7 @@
               <l>Der mächt'gen Hölle wüste Schrecken alle –</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Genug, mein Suffolk, denn du quälst dich selbst,</l>
@@ -4363,7 +4359,7 @@
               <l>Und hielt' es nur für 'ner Minute Scherz.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Oh, auf mein Flehn laß ab! Gib mir die Hand,</l>
@@ -4406,7 +4402,7 @@
             </lg>
             <stage>Vaux tritt auf.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Wohin geht Vaux so eilig? Sag, was gibt's?</l>
           </sp>
@@ -4426,7 +4422,7 @@
               <l>Daß er jetzt eben laut nach ihm geschrien.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Geh, sag dem König diese traur'ge Botschaft.</l>
             <stage>Vaux ab.</stage>
@@ -4462,7 +4458,7 @@
               <l>O laß mich bleiben, komme, was da will!</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Fort! Ist die Trennung schon ein ätzend Mittel,</l>
@@ -4476,7 +4472,7 @@
             <speaker>SUFFOLK.</speaker>
             <l>Ich gehe.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Und nimm mein Herz mit dir.</l>
           </sp>
@@ -4489,7 +4485,7 @@
               <l>Ich sinke hier zum Tod hinab.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Ich hier.</l>
             <stage>Beide von verschiedenen Seiten ab.</stage>
@@ -4504,7 +4500,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Wie geht's dir, Beaufort? Sprich zu deinem Fürsten!</l>
           </sp>
-          <sp who="#beaufort">
+          <sp who="#kardinal_beaufort">
             <speaker>BEAUFORT.</speaker>
             <lg>
               <l>Bist du der Tod, ich geb' dir Englands Schätze,</l>
@@ -4523,7 +4519,7 @@
             <speaker>WARWICK.</speaker>
             <l>Beaufort, es ist dein Fürst, der mit dir spricht.</l>
           </sp>
-          <sp who="#beaufort">
+          <sp who="#kardinal_beaufort">
             <speaker>BEAUFORT.</speaker>
             <lg>
               <l>Bringt zum Verhör mich, wann ihr immer wollt.</l>
@@ -5417,7 +5413,7 @@
           <stage>London. Ein Zimmer im Palast.</stage>
           <stage>König Heinrich, der eine Supplik liest; der Herzog von Buckingham und Lord Say
             neben ihm; in der Entfernung Königin Margareta, die über Suffolks Kopf trauert.</stage>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Oft hört' ich, Gram erweiche das Gemüt,</l>
@@ -5443,7 +5439,7 @@
               <l>Doch still, ich will's noch einmal überlesen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ah, die Barbaren! Hat dies holde Antlitz</l>
@@ -5476,7 +5472,7 @@
               <l>Du hättest nicht so sehr um mich getrauert.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Nein, mein Herz, ich trau'rte nicht, ich stürb' um dich.</l>
             <stage>Ein Bote tritt auf.</stage>
@@ -5512,7 +5508,7 @@
               <l>Bis man ein Heer versammelt, sie zu schlagen.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Ach, lebte Herzog Suffolk nun, wie bald</l>
@@ -5555,7 +5551,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Margreta, komm! Gott, unsre Hoffnung, hilft uns.</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Da Suffolk starb, ist meine Hoffnung hin.</l>
           </sp>
@@ -6464,7 +6460,7 @@
             </lg>
             <stage>Königin Margareta und Somerset.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Vor tausend Yorks soll er sein Haupt nicht bergen,</l>
@@ -6517,7 +6513,7 @@
               <l>Verpfänden sie ihr Schwert für meine Lösung.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Ruft Clifford her, heißt alsobald ihn kommen</l>
             <stage>Buckingham ab.</stage>
@@ -6540,7 +6536,7 @@
               <l>Da sind sie: seht! Ich steh' euch ein, sie tun's.</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Und hier kommt Clifford, die Gewähr zu weigern.</l>
           </sp>
@@ -6580,7 +6576,7 @@
               <l>Und haut herunter den rebell'schen Kopf!</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Er ist verhaftet, doch will nicht gehorchen;</l>
@@ -6705,7 +6701,7 @@
               <l>Als daß ein feierlicher Schwur ihn binde?</l>
             </lg>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>Verräterlist bedarf Sophisten nicht.</l>
           </sp>
@@ -6947,7 +6943,7 @@
             <stage>Getümmel. Angriffe. König Heinrich, Königin Margareta und andre kommen, auf dem
               Rückzuge begriffen.</stage>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <l>So langsam, mein Gemahl! Fort! Schämt Euch! Eilt!</l>
           </sp>
@@ -6955,7 +6951,7 @@
             <speaker>KÖNIG HEINRICH.</speaker>
             <l>Entläuft man wohl dem Himmel? Beste, weilt!</l>
           </sp>
-          <sp who="#koenigin">
+          <sp who="#margareta_koenigin">
             <speaker>KÖNIGIN.</speaker>
             <lg>
               <l>Wie seid Ihr doch? Ihr wollt nicht fliehn noch fechten.</l>

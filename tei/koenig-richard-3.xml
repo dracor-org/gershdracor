@@ -61,19 +61,19 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="gloster_richard" sex="MALE">
+          <person xml:id="gloster_richard" sex="MALE" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard, Herzog von Gloster, nachmals König Richard III.</persName>
           </person>
-          <person xml:id="clarence" sex="MALE">
+          <person xml:id="clarence" sex="MALE" ana="http://www.wikidata.org/entity/Q356173">
             <persName>George, Herzog von Clarence</persName>
           </person>
-          <person xml:id="brakenbury" sex="MALE">
+          <person xml:id="brakenbury" sex="MALE" ana="http://www.wikidata.org/entity/Q7342288">
             <persName>Sir Robert Brakenbury</persName>
           </person>
-          <person xml:id="hastings" sex="MALE">
+          <person xml:id="hastings" sex="MALE" ana="http://www.wikidata.org/entity/Q1396340">
             <persName>Lord Hastings</persName>
           </person>
-          <person xml:id="anna" sex="FEMALE">
+          <person xml:id="anna" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229218">
             <persName>Anna</persName>
           </person>
           <person xml:id="erster_edelmann" sex="MALE">
@@ -82,28 +82,28 @@
           <person xml:id="zweiter_edelmann" sex="MALE">
             <persName>Zweiter Edelmann</persName>
           </person>
-          <person xml:id="rivers" sex="MALE">
+          <person xml:id="rivers" sex="MALE" ana="http://www.wikidata.org/entity/Q574171">
             <persName>Graf Rivers</persName>
           </person>
-          <person xml:id="grey" sex="MALE">
+          <person xml:id="grey" sex="MALE" ana="http://www.wikidata.org/entity/Q756948">
             <persName>Lord Grey</persName>
           </person>
-          <person xml:id="elisabeth" sex="FEMALE">
+          <person xml:id="elisabeth" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229214">
             <persName>Elisabeth</persName>
           </person>
-          <person xml:id="buckingham" sex="MALE">
+          <person xml:id="buckingham" sex="MALE" ana="http://www.wikidata.org/entity/Q714480">
             <persName>Herzog von Buckingham</persName>
           </person>
-          <person xml:id="stanley" sex="MALE">
+          <person xml:id="stanley" sex="MALE" ana="http://www.wikidata.org/entity/Q335295">
             <persName>Lord Stanley</persName>
           </person>
-          <person xml:id="margareta" sex="FEMALE">
+          <person xml:id="margareta" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Margareta</persName>
           </person>
-          <person xml:id="dorset" sex="MALE">
+          <person xml:id="dorset" sex="MALE" ana="http://www.wikidata.org/entity/Q277577">
             <persName>Marquis von Dorset</persName>
           </person>
-          <person xml:id="catesby" sex="MALE">
+          <person xml:id="catesby" sex="MALE" ana="http://www.wikidata.org/entity/Q3568489">
             <persName>Sir William Catesby</persName>
           </person>
           <person xml:id="erster_moerder" sex="MALE">
@@ -112,16 +112,16 @@
           <person xml:id="zweiter_moerder" sex="MALE">
             <persName>Zweiter Mörder</persName>
           </person>
-          <person xml:id="eduard" sex="MALE">
+          <person xml:id="eduard" sex="MALE" ana="http://www.wikidata.org/entity/Q160341">
             <persName>König Eduard IV.</persName>
           </person>
-          <person xml:id="sohn" sex="MALE">
+          <person xml:id="sohn" sex="MALE" ana="http://www.wikidata.org/entity/Q725833">
             <persName>Ein junger Sohn des Clarence</persName>
           </person>
-          <person xml:id="herzogin" sex="FEMALE">
+          <person xml:id="herzogin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q238004">
             <persName>Herzogin von York</persName>
           </person>
-          <person xml:id="tochter" sex="FEMALE">
+          <person xml:id="tochter" sex="FEMALE" ana="http://www.wikidata.org/entity/Q241806">
             <persName>Eine junge Tochter des Clarence</persName>
           </person>
           <person xml:id="erster_buerger" sex="MALE">
@@ -133,22 +133,22 @@
           <person xml:id="dritter_buerger" sex="MALE">
             <persName>Dritter Bürger</persName>
           </person>
-          <person xml:id="erzbischof" sex="MALE">
+          <person xml:id="erzbischof" sex="MALE" ana="http://www.wikidata.org/entity/Q3525529">
             <persName>Erzbischof von York</persName>
           </person>
-          <person xml:id="york" sex="MALE">
+          <person xml:id="york" sex="MALE" ana="http://www.wikidata.org/entity/Q221367">
             <persName>Richard, Herzog von York</persName>
           </person>
           <person xml:id="bote_ii-4" sex="MALE">
             <persName>Ein Bote (II/4)</persName>
           </person>
-          <person xml:id="prinz" sex="MALE">
+          <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q170470">
             <persName>Eduard, Prinz von Wales, nachmals König Eduard V.</persName>
           </person>
-          <person xml:id="mayor" sex="MALE">
+          <person xml:id="mayor" sex="MALE" ana="http://www.wikidata.org/entity/Q5339819">
             <persName>Lord Mayor von London</persName>
           </person>
-          <person xml:id="kardinal" sex="MALE">
+          <person xml:id="kardinal" sex="MALE" ana="http://www.wikidata.org/entity/Q1968450">
             <persName>Kardinal Bourchier, Erzbischof von Canterbury</persName>
           </person>
           <person xml:id="bote_iii-2" sex="MALE">
@@ -160,16 +160,16 @@
           <person xml:id="priester" sex="MALE">
             <persName>Ein Priester</persName>
           </person>
-          <person xml:id="ratcliff" sex="MALE">
+          <person xml:id="ratcliff" sex="MALE" ana="http://www.wikidata.org/entity/Q7328600">
             <persName>Sir Richard Ratcliff</persName>
           </person>
-          <person xml:id="vaughan" sex="MALE">
+          <person xml:id="vaughan" sex="MALE" ana="http://www.wikidata.org/entity/Q6223054">
             <persName>Sir Thomas Vaughan</persName>
           </person>
-          <person xml:id="ely" sex="MALE">
+          <person xml:id="ely" sex="MALE" ana="http://www.wikidata.org/entity/Q672779">
             <persName>Bischof von Ely</persName>
           </person>
-          <person xml:id="lovel" sex="MALE">
+          <person xml:id="lovel" sex="MALE" ana="http://www.wikidata.org/entity/Q5481762">
             <persName>Lord Lovel</persName>
           </person>
           <person xml:id="kanzellist" sex="MALE">
@@ -181,7 +181,7 @@
           <person xml:id="edelknabe" sex="MALE">
             <persName>Ein Edelknabe</persName>
           </person>
-          <person xml:id="tyrrel" sex="MALE">
+          <person xml:id="tyrrel" sex="MALE" ana="http://www.wikidata.org/entity/Q1439554">
             <persName>Sir James Tyrrel</persName>
           </person>
           <person xml:id="bote_iv-4" sex="MALE">
@@ -196,28 +196,28 @@
           <person xml:id="vierter_bote" sex="MALE">
             <persName>Vierter Bote</persName>
           </person>
-          <person xml:id="urswick" sex="MALE">
+          <person xml:id="urswick" sex="MALE" ana="http://www.wikidata.org/entity/Q5113359">
             <persName>Christopher Urswick</persName>
           </person>
-          <person xml:id="sheriff" sex="MALE">
+          <person xml:id="sheriff" sex="MALE" ana="http://www.wikidata.org/entity/Q5725046">
             <persName>Sheriff von Wiltshire</persName>
           </person>
-          <person xml:id="richmond" sex="MALE">
+          <person xml:id="richmond" sex="MALE" ana="http://www.wikidata.org/entity/Q675493">
             <persName>Heinrich, Graf von Richmond, nachmals König Heinrich VII.</persName>
           </person>
-          <person xml:id="oxford" sex="MALE">
+          <person xml:id="oxford" sex="MALE" ana="http://www.wikidata.org/entity/Q1332495">
             <persName>Graf von Oxford</persName>
           </person>
-          <person xml:id="herbert" sex="MALE">
+          <person xml:id="herbert" sex="MALE" ana="http://www.wikidata.org/entity/Q75387604">
             <persName>Sir Walter Herbert</persName>
           </person>
-          <person xml:id="blunt" sex="MALE">
+          <person xml:id="blunt" sex="MALE" ana="http://www.wikidata.org/entity/Q6129895">
             <persName>Sir James Blunt</persName>
           </person>
-          <person xml:id="surrey" sex="MALE">
+          <person xml:id="surrey" sex="MALE" ana="http://www.wikidata.org/entity/Q709340">
             <persName>Graf von Surrey</persName>
           </person>
-          <person xml:id="norfolk" sex="MALE">
+          <person xml:id="norfolk" sex="MALE" ana="http://www.wikidata.org/entity/Q953120">
             <persName>Herzog von Norfolk</persName>
           </person>
           <person xml:id="geist_des_prinzen_eduard" sex="MALE">
