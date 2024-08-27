@@ -180,32 +180,49 @@
       <pb n="6"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Johann</castItem>
-        <castItem>Prinz Heinrich, sein Sohn, nachmaliger König Heinrich III.</castItem>
-        <castItem>Arthur, Herzog von Bretagne, Sohn des verstorbnen Herzogs Gottfried von Bretagne,
-          älteren Bruders vom König Johann</castItem>
-        <castItem>William Mareshall, Graf von Pembroke</castItem>
-        <castItem>Geffrey Fitz-Peter, Graf von Essex, Oberrichter von England</castItem>
-        <castItem>William Longsword, Graf von Salisbury</castItem>
-        <castItem>Robert Bigot, Graf von Norfolk</castItem>
-        <castItem>Hubert de Burgh, Kämmerer des Königs</castItem>
-        <castItem>Robert Faulconbridge, Sohn des Sir Robert Faulconbridge</castItem>
-        <castItem>Philipp Faulconbridge, sein Halbbruder, Bastard König Richard I.</castItem>
-        <castItem>Jakob Gurney, Diener der Lady Faulconbridge</castItem>
-        <castItem>Peter von Pomfret, ein Prophet</castItem>
-        <castItem>Philipp, König von Frankreich</castItem>
-        <castItem>Louis, der Dauphin</castItem>
-        <castItem>Der Erzherzog von Österreich</castItem>
-        <castItem>Kardinal Pandulpho, Legat des Papstes</castItem>
-        <castItem>Melun, ein französischer Edelmann</castItem>
-        <castItem>Chatillon, Gesandter von Frankreich an König Johann</castItem>
-        <castItem>Eleonore, die Witwe König Heinrich II. und Mutter König Johanns</castItem>
-        <castItem>Constanze, Arthurs Mutter</castItem>
-        <castItem>Blanca, Tochter Alfonsos, des Königs von Kastilien, und Nichte König
-          Johanns</castItem>
-        <castItem>Lady Faulconbridge, Mutter des Bastards und Robert Faulconbridges</castItem>
-        <castItem>Herren und Frauen, Bürger von Angers, ein Sheriff, Herolde, Beamte, Soldaten,
-          Boten und andres Gefolge</castItem>
+        <castItem><role>König Johann</role></castItem>
+        <castItem><role>Prinz Heinrich,</role>
+          <roleDesc>sein Sohn, nachmaliger König Heinrich III.</roleDesc></castItem>
+        <castItem><role>Arthur, Herzog von Bretagne,</role>
+          <roleDesc>Sohn des verstorbnen Herzogs Gottfried von Bretagne, älteren Bruders vom König
+            Johann</roleDesc></castItem>
+        <castItem><role>William Mareshall, Graf von Pembroke</role></castItem>
+        <castItem><role>Geffrey Fitz-Peter, Graf von Essex,</role>
+          <roleDesc>Oberrichter von England</roleDesc></castItem>
+        <castItem><role>William Longsword, Graf von Salisbury</role></castItem>
+        <castItem><role>Robert Bigot, Graf von Norfolk</role></castItem>
+        <castItem><role>Hubert de Burgh,</role>
+          <roleDesc>Kämmerer des Königs</roleDesc></castItem>
+        <castItem><role>Robert Faulconbridge,</role>
+          <roleDesc>Sohn des Sir Robert Faulconbridge</roleDesc></castItem>
+        <castItem><role>Philipp Faulconbridge,</role>
+          <roleDesc>sein Halbbruder, Bastard König Richard I.</roleDesc></castItem>
+        <castItem><role>Jakob Gurney,</role>
+          <roleDesc>Diener der Lady Faulconbridge</roleDesc></castItem>
+        <castItem><role>Peter von Pomfret,</role>
+          <roleDesc>ein Prophet</roleDesc></castItem>
+        <castItem><role>Philipp,</role>
+          <roleDesc>König von Frankreich</roleDesc></castItem>
+        <castItem><role>Louis,</role>
+          <roleDesc>der Dauphin</roleDesc></castItem>
+        <castItem><role>Der Erzherzog von Österreich</role></castItem>
+        <castItem><role>Kardinal Pandulpho,</role>
+          <roleDesc>Legat des Papstes</roleDesc></castItem>
+        <castItem><role>Melun,</role>
+          <roleDesc>ein französischer Edelmann</roleDesc></castItem>
+        <castItem><role>Chatillon,</role>
+          <roleDesc>Gesandter von Frankreich an König Johann</roleDesc></castItem>
+        <castItem><role>Eleonore,</role>
+          <roleDesc>die Witwe König Heinrich II. und Mutter König Johanns</roleDesc></castItem>
+        <castItem><role>Constanze,</role>
+          <roleDesc>Arthurs Mutter</roleDesc></castItem>
+        <castItem><role>Blanca,</role>
+          <roleDesc>Tochter Alfonsos, des Königs von Kastilien, und Nichte König
+          Johanns</roleDesc></castItem>
+        <castItem><role>Lady Faulconbridge,</role>
+          <roleDesc>Mutter des Bastards und Robert Faulconbridges</roleDesc></castItem>
+        <castItem><role>Herren und Frauen, Bürger von Angers, ein Sheriff, Herolde, Beamte,
+            Soldaten, Boten und andres Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist bald in England, bald in Frankreich</p>

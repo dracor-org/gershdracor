@@ -243,50 +243,57 @@
       <pb n="279"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Heinrich IV.</castItem>
+        <castItem><role>König Heinrich IV.</role></castItem>
         <castGroup>
-          <castItem>Prinz Heinrich von Wales</castItem>
-          <castItem>Thomas, Herzog von Clarence</castItem>
-          <castItem>Prinz Johann von Lancaster</castItem>
-          <castItem>Prinz Humphrey von Gloster</castItem>
+          <castItem><role>Prinz Heinrich von Wales</role></castItem>
+          <castItem><role>Thomas, Herzog von Clarence</role></castItem>
+          <castItem><role>Prinz Johann von Lancaster</role></castItem>
+          <castItem><role>Prinz Humphrey von Gloster</role></castItem>
           <roleDesc>Söhne des Königs</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Graf von Warwick</castItem>
-          <castItem>Graf von Westmoreland</castItem>
-          <castItem>Gower</castItem>
-          <castItem>Harcourt</castItem>
+          <castItem><role>Graf von Warwick</role></castItem>
+          <castItem><role>Graf von Westmoreland</role></castItem>
+          <castItem><role>Gower</role></castItem>
+          <castItem><role>Harcourt</role></castItem>
           <roleDesc>von des Königs Partei</roleDesc>
         </castGroup>
-        <castItem>Der Oberrichter von der königlichen Bank</castItem>
-        <castItem>Ein Unterbeamter im Gefolge des Oberrichters</castItem>
+        <castItem><role>Der Oberrichter von der königlichen Bank</role></castItem>
+        <castItem><role>Ein Unterbeamter im Gefolge des Oberrichters</role></castItem>
         <castGroup>
-          <castItem>Graf von Northumberland</castItem>
-          <castItem>Scroop, Erzbischof von York</castItem>
-          <castItem>Lord Mowbray</castItem>
-          <castItem>Lord Hastings</castItem>
-          <castItem>Lord Bardolph</castItem>
+          <castItem><role>Graf von Northumberland</role></castItem>
+          <castItem><role>Scroop, Erzbischof von York</role></castItem>
+          <castItem><role>Lord Mowbray</role></castItem>
+          <castItem><role>Lord Hastings</role></castItem>
+          <castItem><role>Lord Bardolph</role></castItem>
           <roleDesc>Feinde des Königs</roleDesc>
         </castGroup>
-        <castItem>Sir John Colevile</castItem>
-        <castItem>Travers und Morton, Bediente Northumberlands</castItem>
-        <castItem>Falstaff</castItem>
-        <castItem>Bardolph</castItem>
-        <castItem>Pistol</castItem>
-        <castItem>Ein Page</castItem>
-        <castItem>Poins und Peto, Begleiter Prinz Heinrichs</castItem>
-        <castItem>Schaal und Stille, Friedensrichter auf dem Lande</castItem>
-        <castItem>David, Schaals Bedienter</castItem>
-        <castItem>Schimmelig, Schatte, Warze, Schwächlich und Bullenkalb, Rekruten</castItem>
-        <castItem>Klaue und Schlinge, Gerichtsdiener</castItem>
-        <castItem>Ein Pförtner</castItem>
+        <castItem><role>Sir John Colevile</role></castItem>
+        <castItem><role>Travers und Morton,</role>
+          <roleDesc>Bediente Northumberlands</roleDesc></castItem>
+        <castItem><role>Falstaff</role></castItem>
+        <castItem><role>Bardolph</role></castItem>
+        <castItem><role>Pistol</role></castItem>
+        <castItem><role>Ein Page</role></castItem>
+        <castItem><role>Poins und Peto,</role>
+          <roleDesc>Begleiter Prinz Heinrichs</roleDesc></castItem>
+        <castItem><role>Schaal und Stille,</role>
+          <roleDesc>Friedensrichter auf dem Lande</roleDesc></castItem>
+        <castItem><role>David,</role>
+          <roleDesc>Schaals Bedienter</roleDesc></castItem>
+        <castItem><role>Schimmelig, Schatte, Warze, Schwächlich und Bullenkalb,</role>
+          <roleDesc>Rekruten</roleDesc></castItem>
+        <castItem><role>Klaue und Schlinge,</role>
+          <roleDesc>Gerichtsdiener</roleDesc></castItem>
+        <castItem><role>Ein Pförtner</role></castItem>
         <pb n="280"/>
-        <castItem>Lady Northumberland</castItem>
-        <castItem>Lady Percy</castItem>
-        <castItem>Frau Hurtig, Wirtin</castItem>
-        <castItem>Dortchen Lakenreißer</castItem>
-        <castItem>Lords und andres Gefolge, Offiziere, Soldaten, Bote, Küfer, Büttel, Kammerdiener
-          usw.</castItem>
+        <castItem><role>Lady Northumberland</role></castItem>
+        <castItem><role>Lady Percy</role></castItem>
+        <castItem><role>Frau Hurtig,</role>
+          <roleDesc>Wirtin</roleDesc></castItem>
+        <castItem><role>Dortchen Lakenreißer</role></castItem>
+        <castItem><role>Lords und andres Gefolge, Offiziere, Soldaten, Bote, Küfer, Büttel,
+            Kammerdiener usw.</role></castItem>
       </castList>
     </front>
     <pb n="281"/>

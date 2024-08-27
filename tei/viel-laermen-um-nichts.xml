@@ -170,33 +170,42 @@
       <pb n="554"/>
       <castList>
         <head>Personen</head>
-        <castItem>Don Pedro, Prinz von Arragon</castItem>
-        <castItem>Leonato, Gouverneur von Messina</castItem>
-        <castItem>Don Juan, Pedros Halbbruder</castItem>
-        <castItem>Claudio, ein florentinischer Graf</castItem>
-        <castItem>Benedikt, ein Edelmann aus Padua</castItem>
-        <castItem>Antonio, Leonatos Bruder</castItem>
-        <castItem>Balthasar, Don Pedros Diener</castItem>
+        <castItem><role>Don Pedro,</role>
+          <roleDesc>Prinz von Arragon</roleDesc></castItem>
+        <castItem><role>Leonato,</role>
+          <roleDesc>Gouverneur von Messina</roleDesc></castItem>
+        <castItem><role>Don Juan,</role>
+          <roleDesc>Pedros Halbbruder</roleDesc></castItem>
+        <castItem><role>Claudio,</role>
+          <roleDesc>ein florentinischer Graf</roleDesc></castItem>
+        <castItem><role>Benedikt,</role>
+          <roleDesc>ein Edelmann aus Padua</roleDesc></castItem>
+        <castItem><role>Antonio,</role>
+          <roleDesc>Leonatos Bruder</roleDesc></castItem>
+        <castItem><role>Balthasar,</role>
+          <roleDesc>Don Pedros Diener</roleDesc></castItem>
         <castGroup>
-          <castItem>Borachio</castItem>
-          <castItem>Konrad</castItem>
+          <castItem><role>Borachio</role></castItem>
+          <castItem><role>Konrad</role></castItem>
           <roleDesc>Don Juans Begleiter</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Holzapfel</castItem>
-          <castItem>Schlehwein</castItem>
+          <castItem><role>Holzapfel</role></castItem>
+          <castItem><role>Schlehwein</role></castItem>
           <roleDesc>einfältige Gerichtsdiener</roleDesc>
         </castGroup>
-        <castItem>Ein Schreiber</castItem>
-        <castItem>Hero, Leonatos Tochter</castItem>
-        <castItem>Beatrice, Leonatos Nichte</castItem>
+        <castItem><role>Ein Schreiber</role></castItem>
+        <castItem><role>Hero,</role>
+          <roleDesc>Leonatos Tochter</roleDesc></castItem>
+        <castItem><role>Beatrice,</role>
+          <roleDesc>Leonatos Nichte</roleDesc></castItem>
         <castGroup>
-          <castItem>Margareta</castItem>
-          <castItem>Ursula</castItem>
+          <castItem><role>Margareta</role></castItem>
+          <castItem><role>Ursula</role></castItem>
           <roleDesc>Heros Kammerfrauen</roleDesc>
         </castGroup>
-        <castItem>Ein Mönch</castItem>
-        <castItem>Ein Knabe, Boten, Wachen, Gefolge</castItem>
+        <castItem><role>Ein Mönch</role></castItem>
+        <castItem><role>Ein Knabe, Boten, Wachen, Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Messina</p>

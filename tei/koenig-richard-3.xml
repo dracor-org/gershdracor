@@ -290,46 +290,59 @@
       <pb n="791"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Eduard IV.</castItem>
+        <castItem><role>König Eduard IV.</role></castItem>
         <castGroup>
-          <castItem>Eduard, Prinz von Wales, nachmals König Eduard V.</castItem>
-          <castItem>Richard, Herzog von York</castItem>
+          <castItem><role>Eduard, Prinz von Wales,</role>
+            <roleDesc>nachmals König Eduard V.</roleDesc></castItem>
+          <castItem><role>Richard, Herzog von York</role></castItem>
           <roleDesc>Söhne des Königs</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>George, Herzog von Clarence</castItem>
-          <castItem>Richard, Herzog von Gloster, nachmals König Richard III.</castItem>
+          <castItem><role>George, Herzog von Clarence</role></castItem>
+          <castItem><role>Richard, Herzog von Gloster,</role>
+            <roleDesc>nachmals König Richard III.</roleDesc></castItem>
           <roleDesc>Brüder des Königs</roleDesc>
         </castGroup>
-        <castItem>Ein junger Sohn des Clarence</castItem>
-        <castItem>Heinrich, Graf von Richmond, nachmals König Heinrich VII.</castItem>
-        <castItem>Kardinal Bourchier, Erzbischof von Canterbury</castItem>
-        <castItem>Erzbischof von York</castItem>
-        <castItem>Bischof von Ely</castItem>
-        <castItem>Herzog von Buckingham</castItem>
-        <castItem>Herzog von Norfolk</castItem>
-        <castItem>Graf von Surrey, sein Sohn</castItem>
-        <castItem>Graf Rivers, Bruder der Gemahlin König Eduards</castItem>
-        <castItem>Marquis von Dorset und Lord Grey, ihre Söhne</castItem>
-        <castItem>Graf von Oxford</castItem>
-        <castItem>Lord Hastings</castItem>
-        <castItem>Lord Stanley</castItem>
-        <castItem>Lord Lovel</castItem>
-        <castItem>Sir Thomas Vaughan. Sir Richard Ratcliff</castItem>
-        <castItem>Sir William Catesby. Sir James Tyrrel</castItem>
-        <castItem>Sir James Blount. Sir Walter Herbert</castItem>
-        <castItem>Sir Robert Brakenbury, Kommandant des Turms</castItem>
-        <castItem>Christopher Urswick, ein Priester. Ein andrer Priester</castItem>
-        <castItem>Lord Mayor von London. Sheriff von Wiltshire</castItem>
-        <castItem>Elisabeth, Gemahlin König Eduards IV.</castItem>
-        <castItem>Margareta, Witwe König Heinrichs VI.</castItem>
-        <castItem>Herzogin von York, Mutter König Eduards IV., Clarences und Glosters</castItem>
+        <castItem><role>Ein junger Sohn des Clarence</role></castItem>
+        <castItem><role>Heinrich, Graf von Richmond,</role>
+          <roleDesc>nachmals König Heinrich VII.</roleDesc></castItem>
+        <castItem><role>Kardinal Bourchier, Erzbischof von Canterbury</role></castItem>
+        <castItem><role>Erzbischof von York</role></castItem>
+        <castItem><role>Bischof von Ely</role></castItem>
+        <castItem><role>Herzog von Buckingham</role></castItem>
+        <castItem><role>Herzog von Norfolk</role></castItem>
+        <castItem><role>Graf von Surrey,</role>
+          <roleDesc>sein Sohn</roleDesc></castItem>
+        <castItem><role>Graf Rivers,</role>
+          <roleDesc>Bruder der Gemahlin König Eduards</roleDesc></castItem>
+        <castItem><role>Marquis von Dorset und Lord Grey,</role>
+          <roleDesc>ihre Söhne</roleDesc></castItem>
+        <castItem><role>Graf von Oxford</role></castItem>
+        <castItem><role>Lord Hastings</role></castItem>
+        <castItem><role>Lord Stanley</role></castItem>
+        <castItem><role>Lord Lovel</role></castItem>
+        <castItem><role>Sir Thomas Vaughan. Sir Richard Ratcliff</role></castItem>
+        <castItem><role>Sir William Catesby. Sir James Tyrrel</role></castItem>
+        <castItem><role>Sir James Blount. Sir Walter Herbert</role></castItem>
+        <castItem><role>Sir Robert Brakenbury,</role>
+          <roleDesc>Kommandant des Turms</roleDesc></castItem>
+        <castItem><role>Christopher Urswick,</role>
+          <roleDesc>ein Priester.</roleDesc>
+          <role>Ein andrer Priester</role></castItem>
+        <castItem><role>Lord Mayor von London. Sheriff von Wiltshire</role></castItem>
+        <castItem><role>Elisabeth,</role>
+          <roleDesc>Gemahlin König Eduards IV.</roleDesc></castItem>
+        <castItem><role>Margareta,</role>
+          <roleDesc>Witwe König Heinrichs VI.</roleDesc></castItem>
+        <castItem><role>Herzogin von York,</role>
+          <roleDesc>Mutter König Eduards IV., Clarences und Glosters</roleDesc></castItem>
         <pb n="792"/>
-        <castItem>Anna, Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs VI., nachmals mit
-          Gloster vermählt</castItem>
-        <castItem>Eine junge Tochter des Clarence</castItem>
-        <castItem>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,
-          Mörder, Boten, Geister, Soldaten u.s.w.</castItem>
+        <castItem><role>Anna,</role>
+          <roleDesc>Witwe Eduards, Prinzen von Wales, Sohnes König Heinrichs VI., nachmals mit
+            Gloster vermählt</roleDesc></castItem>
+        <castItem><role>Eine junge Tochter des Clarence</role></castItem>
+        <castItem><role>Lords und andres Gefolge; zwei Edelleute, ein Herold, ein Schreiber, Bürger,
+            Mörder, Boten, Geister, Soldaten u.s.w.</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in England</p>

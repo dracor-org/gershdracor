@@ -172,37 +172,49 @@
       <pb n="380"/>
       <castList>
         <head>Personen</head>
-        <castItem>Der Doge von Venedig</castItem>
+        <castItem><role>Der Doge von Venedig</role></castItem>
         <castGroup>
-          <castItem>Prinz von Marokko</castItem>
-          <castItem>Prinz von Arragon</castItem>
+          <castItem><role>Prinz von Marokko</role></castItem>
+          <castItem><role>Prinz von Arragon</role></castItem>
           <roleDesc>Freier der Porzia</roleDesc>
         </castGroup>
-        <castItem>Antonio, der Kaufmann von Venedig</castItem>
-        <castItem>Bassanio, sein Freund</castItem>
+        <castItem><role>Antonio,</role>
+          <roleDesc>der Kaufmann von Venedig</roleDesc></castItem>
+        <castItem><role>Bassanio,</role>
+          <roleDesc>sein Freund</roleDesc></castItem>
         <castGroup>
-          <castItem>Solanio</castItem>
-          <castItem>Salarino</castItem>
-          <castItem>Graziano</castItem>
+          <castItem><role>Solanio</role></castItem>
+          <castItem><role>Salarino</role></castItem>
+          <castItem><role>Graziano</role></castItem>
           <roleDesc>Freunde des Antonio</roleDesc>
         </castGroup>
-        <castItem>Lorenzo, Liebhaber der Jessica</castItem>
-        <castItem>Shylock, ein Jude</castItem>
-        <castItem>Tubal, ein Jude, sein Freund</castItem>
-        <castItem>Lanzelot Gobbo, Shylocks Diener</castItem>
-        <castItem>Der alte Gobbo, Lanzelots Vater</castItem>
-        <castItem>Salerio, ein Bote von Venedig</castItem>
-        <castItem>Leonardo, Bassanios Diener</castItem>
+        <castItem><role>Lorenzo,</role>
+          <roleDesc>Liebhaber der Jessica</roleDesc></castItem>
+        <castItem><role>Shylock,</role>
+          <roleDesc>ein Jude</roleDesc></castItem>
+        <castItem><role>Tubal,</role>
+          <roleDesc>ein Jude, sein Freund</roleDesc></castItem>
+        <castItem><role>Lanzelot Gobbo,</role>
+          <roleDesc>Shylocks Diener</roleDesc></castItem>
+        <castItem><role>Der alte Gobbo,</role>
+          <roleDesc>Lanzelots Vater</roleDesc></castItem>
+        <castItem><role>Salerio,</role>
+          <roleDesc>ein Bote von Venedig</roleDesc></castItem>
+        <castItem><role>Leonardo,</role>
+          <roleDesc>Bassanios Diener</roleDesc></castItem>
         <castGroup>
-          <castItem>Balthasar</castItem>
-          <castItem>Stephano</castItem>
+          <castItem><role>Balthasar</role></castItem>
+          <castItem><role>Stephano</role></castItem>
           <roleDesc>Porzias Diener</roleDesc>
         </castGroup>
-        <castItem>Porzia, eine reiche Erbin</castItem>
-        <castItem>Nerissa, ihre Begleiterin</castItem>
-        <castItem>Jessica, Shylocks Tochter</castItem>
-        <castItem>Senatoren von Venedig, Beamte des Gerichtshofes, Gefangenwärter, Bediente und
-          andres Gefolge</castItem>
+        <castItem><role>Porzia,</role>
+          <roleDesc>eine reiche Erbin</roleDesc></castItem>
+        <castItem><role>Nerissa,</role>
+          <roleDesc>ihre Begleiterin</roleDesc></castItem>
+        <castItem><role>Jessica,</role>
+          <roleDesc>Shylocks Tochter</roleDesc></castItem>
+        <castItem><role>Senatoren von Venedig, Beamte des Gerichtshofes, Gefangenwärter, Bediente
+            und andres Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist teils zu Venedig, teils zu Belmont, Porzias Landsitz</p>

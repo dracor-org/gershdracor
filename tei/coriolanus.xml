@@ -388,31 +388,38 @@
       <pb n="798"/>
       <castList>
         <head>Personen</head>
-        <castItem>Cajus Marcius Coriolanus, ein edler Römer</castItem>
+        <castItem><role>Cajus Marcius Coriolanus,</role>
+          <roleDesc>ein edler Römer</roleDesc></castItem>
         <castGroup>
-          <castItem>Titus Lartius</castItem>
-          <castItem>Cominius</castItem>
+          <castItem><role>Titus Lartius</role></castItem>
+          <castItem><role>Cominius</role></castItem>
           <roleDesc>Anführer gegen die Volsker</roleDesc>
         </castGroup>
-        <castItem>Menenius Agrippa, Coriolans Freund</castItem>
+        <castItem><role>Menenius Agrippa,</role>
+          <roleDesc>Coriolans Freund</roleDesc></castItem>
         <castGroup>
-          <castItem>Sicinius Velutus</castItem>
-          <castItem>Junius Brutus</castItem>
+          <castItem><role>Sicinius Velutus</role></castItem>
+          <castItem><role>Junius Brutus</role></castItem>
           <roleDesc>Volkstribunen</roleDesc>
         </castGroup>
-        <castItem>Marcius, Coriolans Kleiner Sohn</castItem>
-        <castItem>Ein römischer Herold</castItem>
-        <castItem>Tullus Aufidius, Anführer der Volsker</castItem>
-        <castItem>Ein Unterfeldherr des Aufidius</castItem>
-        <castItem>Verschworne</castItem>
-        <castItem>Ein Bürger von Antium</castItem>
-        <castItem>Zwei volskische Wachen</castItem>
-        <castItem>Volumnia, Coriolans Mutter</castItem>
-        <castItem>Virgilia, Coriolans Gemahlin</castItem>
-        <castItem>Valeria, Virgilias Freundin</castItem>
-        <castItem>Dienerinnen der Virgilia</castItem>
-        <castItem>Römer und Volsker. Senatoren, Patrizier, Ädilen, Liktoren, Krieger, Bürger,
-          Boten</castItem>
+        <castItem><role>Marcius,</role>
+          <roleDesc>Coriolans kleiner Sohn</roleDesc></castItem>
+        <castItem><role>Ein römischer Herold</role></castItem>
+        <castItem><role>Tullus Aufidius,</role>
+          <roleDesc>Anführer der Volsker</roleDesc></castItem>
+        <castItem><role>Ein Unterfeldherr des Aufidius</role></castItem>
+        <castItem><role>Verschworne</role></castItem>
+        <castItem><role>Ein Bürger von Antium</role></castItem>
+        <castItem><role>Zwei volskische Wachen</role></castItem>
+        <castItem><role>Volumnia,</role>
+          <roleDesc>Coriolans Mutter</roleDesc></castItem>
+        <castItem><role>Virgilia,</role>
+          <roleDesc>Coriolans Gemahlin</roleDesc></castItem>
+        <castItem><role>Valeria,</role>
+          <roleDesc>Virgilias Freundin</roleDesc></castItem>
+        <castItem><role>Dienerinnen der Virgilia</role></castItem>
+        <castItem><role>Römer und Volsker. Senatoren, Patrizier, Ädilen, Liktoren, Krieger, Bürger,
+            Boten</role></castItem>
       </castList>
     </front>
     <pb n="799"/>

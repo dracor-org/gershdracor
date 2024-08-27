@@ -216,30 +216,43 @@
       <pb n="382"/>
       <castList>
         <head>Personen</head>
-        <castItem>Cymbeline, König von Britannien</castItem>
-        <castItem>Cloten, Sohn der Königin, von ihrem ersten Gemahl</castItem>
-        <castItem>Leonatus Posthumus, ein Edelmann, Imogens Gemahl</castItem>
-        <castItem>Bellarius, ein verbannter Lord, unter dem Namen Morgan</castItem>
+        <castItem><role>Cymbeline,</role>
+          <roleDesc>König von Britannien</roleDesc></castItem>
+        <castItem><role>Cloten,</role>
+          <roleDesc>Sohn der Königin, von ihrem ersten Gemahl</roleDesc></castItem>
+        <castItem><role>Leonatus Posthumus,</role>
+          <roleDesc>ein Edelmann, Imogens Gemahl</roleDesc></castItem>
+        <castItem><role>Bellarius,</role>
+          <roleDesc>ein verbannter Lord, unter dem Namen Morgan</roleDesc></castItem>
         <castGroup>
-          <castItem>Guiderius</castItem>
-          <castItem>Arviragus</castItem>
+          <castItem><role>Guiderius</role></castItem>
+          <castItem><role>Arviragus</role></castItem>
           <roleDesc>Cymbelines Söhne, unter den Namen Polydor und Cadwall; für Bellarius' Söhne
             gehalten</roleDesc>
         </castGroup>
-        <castItem>Philario, Posthumus' Freund</castItem>
-        <castItem>Jachimo, Philarios Freund</castItem>
-        <castItem>Ein französischer Edelmann, Philarios Freund</castItem>
-        <castItem>Cajus Lucius, römischer Feldherr</castItem>
-        <castItem>Ein römischer Hauptmann, zwei britische Hauptleute</castItem>
-        <castItem>Pisanio, Posthumus' Diener</castItem>
-        <castItem>Cornelius, ein Arzt</castItem>
-        <castItem>Zwei Edelleute</castItem>
-        <castItem>Zwei Kerkermeister</castItem>
-        <castItem>Die Königin, Cymbelines Gemahlin</castItem>
-        <castItem>Imogen, Cymbelines Tochter, von der vorigen Königin</castItem>
-        <castItem>Helene, Imogens Kammerfrau</castItem>
-        <castItem>Lords, Hofdamen, römische Senatoren, Tribunen, Geister, ein Wahrsager, ein
-          Holländer, ein Spanier, Musiker, Anführer, Soldaten, Boten, Gefolge</castItem>
+        <castItem><role>Philario,</role>
+          <roleDesc>Posthumus' Freund</roleDesc></castItem>
+        <castItem><role>Jachimo,</role>
+          <roleDesc>Philarios Freund</roleDesc></castItem>
+        <castItem><role>Ein französischer Edelmann,</role>
+          <roleDesc>Philarios Freund</roleDesc></castItem>
+        <castItem><role>Cajus Lucius,</role>
+          <roleDesc>römischer Feldherr</roleDesc></castItem>
+        <castItem><role>Ein römischer Hauptmann, zwei britische Hauptleute</role></castItem>
+        <castItem><role>Pisanio,</role>
+          <roleDesc>Posthumus' Diener</roleDesc></castItem>
+        <castItem><role>Cornelius,</role>
+          <roleDesc>ein Arzt</roleDesc></castItem>
+        <castItem><role>Zwei Edelleute</role></castItem>
+        <castItem><role>Zwei Kerkermeister</role></castItem>
+        <castItem><role>Die Königin,</role>
+          <roleDesc>Cymbelines Gemahlin</roleDesc></castItem>
+        <castItem><role>Imogen,</role>
+          <roleDesc>Cymbelines Tochter, von der vorigen Königin</roleDesc></castItem>
+        <castItem><role>Helene,</role>
+          <roleDesc>Imogens Kammerfrau</roleDesc></castItem>
+        <castItem><role>Lords, Hofdamen, römische Senatoren, Tribunen, Geister, ein Wahrsager, ein
+            Holländer, ein Spanier, Musiker, Anführer, Soldaten, Boten, Gefolge</role></castItem>
       </castList>
       <set>
         <p>Szene: abwechselnd in Britannien und Rom</p>

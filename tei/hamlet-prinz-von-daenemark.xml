@@ -202,37 +202,47 @@
       <pb n="264"/>
       <castList>
         <head>Personen</head>
-        <castItem>Claudius, König von Dänemark</castItem>
-        <castItem>Hamlet, Sohn des vorigen und Neffe des gegenwärtigen Königs</castItem>
-        <castItem>Polonius, Oberkämmerer</castItem>
-        <castItem>Horatio, Hamlets Freund</castItem>
-        <castItem>Laertes, Sohn des Polonius</castItem>
+        <castItem><role>Claudius,</role>
+          <roleDesc>König von Dänemark</roleDesc></castItem>
+        <castItem><role>Hamlet,</role>
+          <roleDesc>Sohn des vorigen und Neffe des gegenwärtigen Königs</roleDesc></castItem>
+        <castItem><role>Polonius,</role>
+          <roleDesc>Oberkämmerer</roleDesc></castItem>
+        <castItem><role>Horatio,</role>
+          <roleDesc>Hamlets Freund</roleDesc></castItem>
+        <castItem><role>Laertes,</role>
+          <roleDesc>Sohn des Polonius</roleDesc></castItem>
         <castGroup>
-          <castItem>Voltimand</castItem>
-          <castItem>Cornelius</castItem>
-          <castItem>Rosenkranz</castItem>
-          <castItem>Güldenstern</castItem>
+          <castItem><role>Voltimand</role></castItem>
+          <castItem><role>Cornelius</role></castItem>
+          <castItem><role>Rosenkranz</role></castItem>
+          <castItem><role>Güldenstern</role></castItem>
           <roleDesc>Hofleute</roleDesc>
         </castGroup>
-        <castItem>Osrick, ein Hofmann</castItem>
-        <castItem>Ein andrer Hofmann</castItem>
-        <castItem>Ein Priester</castItem>
+        <castItem><role>Osrick,</role>
+          <roleDesc>ein Hofmann</roleDesc></castItem>
+        <castItem><role>Ein andrer Hofmann</role></castItem>
+        <castItem><role>Ein Priester</role></castItem>
         <castGroup>
-          <castItem>Marcellus</castItem>
-          <castItem>Bernardo</castItem>
+          <castItem><role>Marcellus</role></castItem>
+          <castItem><role>Bernardo</role></castItem>
           <roleDesc>Offiziere</roleDesc>
         </castGroup>
-        <castItem>Francisco, ein Soldat</castItem>
-        <castItem>Reinhold, Diener des Polonius</castItem>
-        <castItem>Ein Hauptmann</castItem>
-        <castItem>Ein Gesandter</castItem>
-        <castItem>Der Geist von Hamlets Vater</castItem>
-        <castItem>Fortinbras, Prinz von Norwegen</castItem>
-        <castItem>Gertrude, Königin von Dänemark und Hamlets Mutter</castItem>
-        <castItem>Ophelia, Tochter des Polonius</castItem>
-        <castItem>Herren und Frauen vom Hofe, Offiziere</castItem>
-        <castItem>Soldaten, Schauspieler, Totengräber</castItem>
-        <castItem>Matrosen, Boten und andres Gefolge</castItem>
+        <castItem><role>Francisco,</role>
+          <roleDesc>ein Soldat</roleDesc></castItem>
+        <castItem><role>Reinhold,</role>
+          <roleDesc>Diener des Polonius</roleDesc></castItem>
+        <castItem><role>Ein Hauptmann</role></castItem>
+        <castItem><role>Ein Gesandter</role></castItem>
+        <castItem><role>Der Geist von Hamlets Vater</role></castItem>
+        <castItem><role>Fortinbras,</role>
+          <roleDesc>Prinz von Norwegen</roleDesc></castItem>
+        <castItem><role>Gertrude,</role>
+          <roleDesc>Königin von Dänemark und Hamlets Mutter</roleDesc></castItem>
+        <castItem><role>Ophelia,</role>
+          <roleDesc>Tochter des Polonius</roleDesc></castItem>
+        <castItem><role>Herren und Frauen vom Hofe, Offiziere, Soldaten, Schauspieler, Totengräber,
+            Matrosen, Boten und andres Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Helsingör</p>

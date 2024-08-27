@@ -258,32 +258,47 @@
       <pb n="302"/>
       <castList>
         <head>Personen</head>
-        <castItem>Antiochus, König von Antiochien</castItem>
-        <castItem>Perikles, Fürst von Tyrus</castItem>
+        <castItem><role>Antiochus,</role>
+          <roleDesc>König von Antiochien</roleDesc></castItem>
+        <castItem><role>Perikles,</role>
+          <roleDesc>Fürst von Tyrus</roleDesc></castItem>
         <castGroup>
-          <castItem>Helicanus</castItem>
-          <castItem>Escanes</castItem>
+          <castItem><role>Helicanus</role></castItem>
+          <castItem><role>Escanes</role></castItem>
           <roleDesc>Hofleute aus Tyrus</roleDesc>
         </castGroup>
-        <castItem>Simonides, König von Pentapolis</castItem>
-        <castItem>Cleon, Statthalter von Tharsus</castItem>
-        <castItem>Lysimachus, Statthalter von Mitylene</castItem>
-        <castItem>Cerimon, ein Hofmann aus Ephesus</castItem>
-        <castItem>Thaliard, ein Hofmann aus Antiochien</castItem>
-        <castItem>Philemon, Cerimons Diener</castItem>
-        <castItem>Leonin, Dionysas Diener</castItem>
-        <castItem>Marschall</castItem>
-        <castItem>Ein Kuppler</castItem>
-        <castItem>Bolz, sein Diener</castItem>
-        <castItem>Gower, an Stelle des Chores</castItem>
-        <castItem>Die Tochter des Antiochus</castItem>
-        <castItem>Thaisa, Tochter des Simonides</castItem>
-        <castItem>Marina, Tochter des Perikles und der Thaisa</castItem>
-        <castItem>Dionysa, Gemahlin des Cleon</castItem>
-        <castItem>Lychorida, Marinas Amme</castItem>
-        <castItem>Diana</castItem>
-        <castItem>Eine Kupplerin</castItem>
-        <castItem>Hofleute, Ritter, Matrosen, Seeräuber, Fischer, Boten</castItem>
+        <castItem><role>Simonides,</role>
+          <roleDesc>König von Pentapolis</roleDesc></castItem>
+        <castItem><role>Cleon,</role>
+          <roleDesc>Statthalter von Tharsus</roleDesc></castItem>
+        <castItem><role>Lysimachus,</role>
+          <roleDesc>Statthalter von Mitylene</roleDesc></castItem>
+        <castItem><role>Cerimon,</role>
+          <roleDesc>ein Hofmann aus Ephesus</roleDesc></castItem>
+        <castItem><role>Thaliard,</role>
+          <roleDesc>ein Hofmann aus Antiochien</roleDesc></castItem>
+        <castItem><role>Philemon,</role>
+          <roleDesc>Cerimons Diener</roleDesc></castItem>
+        <castItem><role>Leonin,</role>
+          <roleDesc>Dionysas Diener</roleDesc></castItem>
+        <castItem><role>Marschall</role></castItem>
+        <castItem><role>Ein Kuppler</role></castItem>
+        <castItem><role>Bolz,</role>
+          <roleDesc>sein Diener</roleDesc></castItem>
+        <castItem><role>Gower,</role>
+          <roleDesc>an Stelle des Chores</roleDesc></castItem>
+        <castItem><role>Die Tochter des Antiochus</role></castItem>
+        <castItem><role>Thaisa,</role>
+          <roleDesc>Tochter des Simonides</roleDesc></castItem>
+        <castItem><role>Marina,</role>
+          <roleDesc>Tochter des Perikles und der Thaisa</roleDesc></castItem>
+        <castItem><role>Dionysa,</role>
+          <roleDesc>Gemahlin des Cleon</roleDesc></castItem>
+        <castItem><role>Lychorida,</role>
+          <roleDesc>Marinas Amme</roleDesc></castItem>
+        <castItem><role>Diana</role></castItem>
+        <castItem><role>Eine Kupplerin</role></castItem>
+        <castItem><role>Hofleute, Ritter, Matrosen, Seeräuber, Fischer, Boten</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in verschiedenen Ländern</p>
@@ -5471,7 +5486,9 @@
           </sp>
         </div>
       </div>
-      <pb n="378"/>
+    </body>
+    <pb n="378"/>
+    <back>
       <div type="appendix">
         <head>Szeneneinteilung</head>
         <div type="act">
@@ -5518,6 +5535,6 @@
           <p>Vierte Szene: Im Tempel der Diana in Ephesus.</p>
         </div>
       </div>
-    </body>
+    </back>
   </text>
 </TEI>

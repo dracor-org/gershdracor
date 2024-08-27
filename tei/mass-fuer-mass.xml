@@ -167,30 +167,47 @@
       <pb n="212"/>
       <castList>
         <head>Personen</head>
-        <castItem>Vincentio, Herzog von Wien</castItem>
-        <castItem>Angelo, Statthalter während des Herzogs Abwesenheit</castItem>
-        <castItem>Escalus, ein alter Herr vom Staatsrat und Gehülfe des Angelo</castItem>
-        <castItem>Claudio, ein junger Edelmann</castItem>
-        <castItem>Lucio, ein Wüstling</castItem>
-        <castItem>Zwei junge Edelleute, Freunde des Lucio</castItem>
-        <castItem>Varrius, ein Edelmann, in des Herzogs Diensten</castItem>
-        <castItem>Ein Kerkermeister</castItem>
+        <castItem><role>Vincentio,</role>
+          <roleDesc>Herzog von Wien</roleDesc></castItem>
+        <castItem><role>Angelo,</role>
+          <roleDesc>Statthalter während des Herzogs Abwesenheit</roleDesc></castItem>
+        <castItem><role>Escalus,</role>
+          <roleDesc>ein alter Herr vom Staatsrat und Gehülfe des Angelo</roleDesc></castItem>
+        <castItem><role>Claudio,</role>
+          <roleDesc>ein junger Edelmann</roleDesc></castItem>
+        <castItem><role>Lucio,</role>
+          <roleDesc>ein Wüstling</roleDesc></castItem>
+        <castItem><role>Zwei junge Edelleute,</role>
+          <roleDesc>Freunde des Lucio</roleDesc></castItem>
+        <castItem><role>Varrius,</role>
+          <roleDesc>ein Edelmann, in des Herzogs Diensten</roleDesc></castItem>
+        <castItem><role>Ein Kerkermeister</role></castItem>
         <castGroup>
-          <castItem>Thomas</castItem>
-          <castItem>Peter</castItem>
+          <castItem><role>Thomas</role></castItem>
+          <castItem><role>Peter</role></castItem>
           <roleDesc>Mönche</roleDesc>
         </castGroup>
-        <castItem>Elbogen, ein einfältiger Gerichtsdiener</castItem>
-        <castItem>Schaum, ein alberner junger Mensch</castItem>
-        <castItem>Pompejus, Bierzapfer bei der Frau Überley</castItem>
-        <castItem>Grauslich, ein Scharfrichter</castItem>
-        <castItem>Bernardino, ein Mörder</castItem>
-        <castItem>Isabella, Schwester des Claudio</castItem>
-        <castItem>Mariane, Angelos Verlobte</castItem>
-        <castItem>Julia, Claudios Geliebte</castItem>
-        <castItem>Franziska, eine Nonne</castItem>
-        <castItem>Frau Überley, eine Kupplerin</castItem>
-        <castItem>Herren, Wachen, Gerichtsdiener und andres Gefolge</castItem>
+        <castItem><role>Elbogen,</role>
+          <roleDesc>ein einfältiger Gerichtsdiener</roleDesc></castItem>
+        <castItem><role>Schaum,</role>
+          <roleDesc>ein alberner junger Mensch</roleDesc></castItem>
+        <castItem><role>Pompejus,</role>
+          <roleDesc>Bierzapfer bei der Frau Überley</roleDesc></castItem>
+        <castItem><role>Grauslich,</role>
+          <roleDesc>ein Scharfrichter</roleDesc></castItem>
+        <castItem><role>Bernardino,</role>
+          <roleDesc>ein Mörder</roleDesc></castItem>
+        <castItem><role>Isabella,</role>
+          <roleDesc>Schwester des Claudio</roleDesc></castItem>
+        <castItem><role>Mariane,</role>
+          <roleDesc>Angelos Verlobte</roleDesc></castItem>
+        <castItem><role>Julia,</role>
+          <roleDesc>Claudios Geliebte</roleDesc></castItem>
+        <castItem><role>Franziska,</role>
+          <roleDesc>eine Nonne</roleDesc></castItem>
+        <castItem><role>Frau Überley,</role>
+          <roleDesc>eine Kupplerin</roleDesc></castItem>
+        <castItem><role>Herren, Wachen, Gerichtsdiener und andres Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Wien</p>

@@ -190,37 +190,52 @@
       <pb n="640"/>
       <castList>
         <head>Personen</head>
-        <castItem>Der Herzog, in der Verbannung</castItem>
-        <castItem>Friedrich, Bruder des Herzogs und Usurpator seines Gebiets</castItem>
+        <castItem><role>Der Herzog,</role>
+          <roleDesc>in der Verbannung</roleDesc></castItem>
+        <castItem><role>Friedrich,</role>
+          <roleDesc>Bruder des Herzogs und Usurpator seines Gebiets</roleDesc></castItem>
         <castGroup>
-          <castItem>Amiens</castItem>
-          <castItem>Jaques</castItem>
+          <castItem><role>Amiens</role></castItem>
+          <castItem><role>Jaques</role></castItem>
           <roleDesc>Edelleute, die den Herzog in der Verbannung begleiten</roleDesc>
         </castGroup>
-        <castItem>Le Beau, ein Hofmann in Friedrichs Diensten</castItem>
-        <castItem>Charles, Friedrichs Ringer</castItem>
+        <castItem><role>Le Beau,</role>
+          <roleDesc>ein Hofmann in Friedrichs Diensten</roleDesc></castItem>
+        <castItem><role>Charles,</role>
+          <roleDesc>Friedrichs Ringer</roleDesc></castItem>
         <castGroup>
-          <castItem>Oliver</castItem>
-          <castItem>Jakob</castItem>
-          <castItem>Orlando</castItem>
+          <castItem><role>Oliver</role></castItem>
+          <castItem><role>Jakob</role></castItem>
+          <castItem><role>Orlando</role></castItem>
           <roleDesc>Söhne des Freiherrn Roland de Boys</roleDesc>
         </castGroup>
-        <castItem>Adam</castItem>
-        <castItem>Dennis, Bediente Olivers</castItem>
-        <castItem>Probstein, der Narr</castItem>
-        <castItem>Ehrn Olivarius Textdreher, ein Pfarrer</castItem>
         <castGroup>
-          <castItem>Corinnus</castItem>
-          <castItem>Silvius</castItem>
+          <castItem><role>Adam</role></castItem>
+          <castItem><role>Dennis</role></castItem>
+          <roleDesc>Bediente Olivers</roleDesc>
+        </castGroup>
+        <castItem><role>Probstein,</role>
+          <roleDesc>der Narr</roleDesc></castItem>
+        <castItem><role>Ehrn Olivarius Textdreher,</role>
+          <roleDesc>ein Pfarrer</roleDesc></castItem>
+        <castGroup>
+          <castItem><role>Corinnus</role></castItem>
+          <castItem><role>Silvius</role></castItem>
           <roleDesc>Schäfer</roleDesc>
         </castGroup>
-        <castItem>Wilhelm, ein Bauernbursche, in Käthchen verliebt</castItem>
-        <castItem>Eine Person, die den Hymen vorstellt</castItem>
-        <castItem>Rosalinde, Tochter des vertriebnen Herzogs</castItem>
-        <castItem>Celia, Friedrichs Tochter</castItem>
-        <castItem>Phoebe, eine Schäferin</castItem>
-        <castItem>Käthchen, ein Bauernmädchen</castItem>
-        <castItem>Edelleute der beiden Herzoge, Pagen, Jäger und andres Gefolge</castItem>
+        <castItem><role>Wilhelm,</role>
+          <roleDesc>ein Bauernbursche, in Käthchen verliebt</roleDesc></castItem>
+        <castItem><role>Eine Person, die den Hymen vorstellt</role></castItem>
+        <castItem><role>Rosalinde,</role>
+          <roleDesc>Tochter des vertriebnen Herzogs</roleDesc></castItem>
+        <castItem><role>Celia,</role>
+          <roleDesc>Friedrichs Tochter</roleDesc></castItem>
+        <castItem><role>Phoebe,</role>
+          <roleDesc>eine Schäferin</roleDesc></castItem>
+        <castItem><role>Käthchen,</role>
+          <roleDesc>ein Bauernmädchen</roleDesc></castItem>
+        <castItem><role>Edelleute der beiden Herzoge, Pagen, Jäger und andres
+          Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist anfänglich bei Olivers Hause; nachher teils am Hofe des Usurpators, teils

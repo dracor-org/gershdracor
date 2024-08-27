@@ -304,52 +304,70 @@
       <pb n="587"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Heinrich VI.</castItem>
-        <castItem>Humphrey, Herzog von Gloster, sein Oheim</castItem>
-        <castItem>Kardinal Beaufort, Bischof von Winchester, Großoheim des Königs</castItem>
-        <castItem>Richard Plantagenet, Herzog von York</castItem>
-        <castItem>Eduard und Richard, seine Söhne</castItem>
+        <castItem><role>König Heinrich VI.</role></castItem>
+        <castItem><role>Humphrey, Herzog von Gloster,</role>
+          <roleDesc>sein Oheim</roleDesc></castItem>
+        <castItem><role>Kardinal Beaufort, Bischof von Winchester,</role>
+          <roleDesc>Großoheim des Königs</roleDesc></castItem>
+        <castItem><role>Richard Plantagenet, Herzog von York</role></castItem>
+        <castItem><role>Eduard und Richard,</role>
+          <roleDesc>seine Söhne</roleDesc></castItem>
         <castGroup>
-          <castItem>Herzog von Somerset</castItem>
-          <castItem>Herzog von Suffolk</castItem>
-          <castItem>Herzog von Buckingham</castItem>
-          <castItem>Lord Clifford</castItem>
-          <castItem>Der junge Clifford, sein Sohn</castItem>
+          <castItem><role>Herzog von Somerset</role></castItem>
+          <castItem><role>Herzog von Suffolk</role></castItem>
+          <castItem><role>Herzog von Buckingham</role></castItem>
+          <castItem><role>Lord Clifford</role></castItem>
+          <castItem><role>Der junge Clifford,</role>
+            <roleDesc>sein Sohn</roleDesc></castItem>
           <roleDesc>von der königlichen Partei</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Graf von Salisbury</castItem>
-          <castItem>Graf von Warwick</castItem>
+          <castItem><role>Graf von Salisbury</role></castItem>
+          <castItem><role>Graf von Warwick</role></castItem>
           <roleDesc>von der Yorkschen Partei</roleDesc>
         </castGroup>
-        <castItem>Lord Scales, Befehlshaber des Turmes</castItem>
-        <castItem>Lord Say</castItem>
-        <castItem>Sir Humphrey Stafford und sein Bruder</castItem>
-        <castItem>Sir John Stanley</castItem>
-        <castItem>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart Wittmer</castItem>
-        <castItem>Zwei Edelleute, nebst Suffolk gefangen</castItem>
-        <castItem>Ein Herold</castItem>
-        <castItem>Vaux</castItem>
-        <castItem>Hume und Southwell, zwei Pfaffen</castItem>
-        <castItem>Bolingbroke, ein Beschwörer. Ein von ihm aufgerufner Geist</castItem>
-        <castItem>Thomas Horner, ein Waffenschmied</castItem>
-        <castItem>Peter, sein Geselle</castItem>
-        <castItem>Der Schreiber von Chatham</castItem>
-        <castItem>Der Schulz von Sankt-Albans</castItem>
-        <castItem>Simpcox, ein Betrüger</castItem>
-        <castItem>Zwei Mörder</castItem>
-        <castItem>Hans Cade, ein Rebell</castItem>
-        <castItem>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel u.a.,
-          seine Anhänger</castItem>
-        <castItem>Alexander Iden, ein kentischer Edelmann</castItem>
+        <castItem><role>Lord Scales,</role>
+          <roleDesc>Befehlshaber des Turmes</roleDesc></castItem>
+        <castItem><role>Lord Say</role></castItem>
+        <castItem><role>Sir Humphrey Stafford und sein Bruder</role></castItem>
+        <castItem><role>Sir John Stanley</role></castItem>
+        <castItem><role>Ein Schiffshauptmann, der Patron und sein Gehülfe, und Seyfart
+            Wittmer</role></castItem>
+        <castItem><role>Zwei Edelleute,</role>
+          <roleDesc>nebst Suffolk gefangen</roleDesc></castItem>
+        <castItem><role>Ein Herold</role></castItem>
+        <castItem><role>Vaux</role></castItem>
+        <castItem><role>Hume und Southwell,</role>
+          <roleDesc>zwei Pfaffen</roleDesc></castItem>
+        <castItem><role>Bolingbroke,</role>
+          <roleDesc>ein Beschwörer.</roleDesc>
+          <role>Ein von ihm aufgerufner Geist</role></castItem>
+        <castItem><role>Thomas Horner,</role>
+          <roleDesc>ein Waffenschmied</roleDesc></castItem>
+        <castItem><role>Peter,</role>
+          <roleDesc>sein Geselle</roleDesc></castItem>
+        <castItem><role>Der Schreiber von Chatham</role></castItem>
+        <castItem><role>Der Schulz von Sankt-Albans</role></castItem>
+        <castItem><role>Simpcox,</role>
+          <roleDesc>ein Betrüger</roleDesc></castItem>
+        <castItem><role>Zwei Mörder</role></castItem>
+        <castItem><role>Hans Cade,</role>
+          <roleDesc>ein Rebell</roleDesc></castItem>
+        <castItem><role>Georg Bevis, Johann Holland, Märten der Metzger, Smith der Leinweber, Michel
+            u.a.,</role>
+          <roleDesc>seine Anhänger</roleDesc></castItem>
+        <castItem><role>Alexander Iden,</role>
+          <roleDesc>ein kentischer Edelmann</roleDesc></castItem>
         <pb n="588"/>
-        <castItem>Margareta, König Heinrichs Gemahlin</castItem>
-        <castItem>Leonora, Herzogin von Gloster</castItem>
-        <castItem>Grete Jordan, eine Hexe</castItem>
-        <castItem>Simpcoxens Frau</castItem>
-        <castItem>Herren und Frauen von Adel und sonstiges Gefolge; Supplikanten, Aldermänner, ein
-          Büttel, Sheriff und Beamte; Bürger, Lehrbursche, Falkeniere, Wachen, Soldaten, Boten
-          usw.</castItem>
+        <castItem><role>Margareta,</role>
+          <roleDesc>König Heinrichs Gemahlin</roleDesc></castItem>
+        <castItem><role>Leonora, Herzogin von Gloster</role></castItem>
+        <castItem><role>Grete Jordan,</role>
+          <roleDesc>eine Hexe</roleDesc></castItem>
+        <castItem><role>Simpcoxens Frau</role></castItem>
+        <castItem><role>Herren und Frauen von Adel und sonstiges Gefolge; Supplikanten, Aldermänner,
+            ein Büttel, Sheriff und Beamte; Bürger, Lehrbursche, Falkeniere, Wachen, Soldaten, Boten
+            usw.</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist abwechselnd in verschiednen Gegenden Englands</p>

@@ -176,25 +176,35 @@
       <pb n="390"/>
       <castList>
         <head>Personen</head>
-        <castItem>Herzog von Venedig</castItem>
-        <castItem>Brabantio, Senator</castItem>
-        <castItem>Mehrere Senatoren</castItem>
+        <castItem><role>Herzog von Venedig</role></castItem>
+        <castItem><role>Brabantio,</role>
+          <roleDesc>Senator</roleDesc></castItem>
+        <castItem><role>Mehrere Senatoren</role></castItem>
         <castGroup>
-          <castItem>Gratiano</castItem>
-          <castItem>Lodovico</castItem>
+          <castItem><role>Gratiano</role></castItem>
+          <castItem><role>Lodovico</role></castItem>
           <roleDesc>Verwandte des Brabantio</roleDesc>
         </castGroup>
-        <castItem>Othello, Feldherr; Mohr</castItem>
-        <castItem>Cassio, sein Leutnant</castItem>
-        <castItem>Jago, sein Fähndrich</castItem>
-        <castItem>Rodrigo, ein junger Venetianer</castItem>
-        <castItem>Montano, Statthalter von Cypern</castItem>
-        <castItem>Ein Diener des Othello</castItem>
-        <castItem>Herold</castItem>
-        <castItem>Desdemona, Brabantios Tochter</castItem>
-        <castItem>Emilie, Jagos Frau</castItem>
-        <castItem>Bianca, Kurtisane</castItem>
-        <castItem>Offiziere, Edelleute, Boten, Musikanten, Matrosen, Gefolge u.s.w.</castItem>
+        <castItem><role>Othello,</role>
+          <roleDesc>Feldherr; Mohr</roleDesc></castItem>
+        <castItem><role>Cassio,</role>
+          <roleDesc>sein Leutnant</roleDesc></castItem>
+        <castItem><role>Jago,</role>
+          <roleDesc>sein Fähndrich</roleDesc></castItem>
+        <castItem><role>Rodrigo,</role>
+          <roleDesc>ein junger Venetianer</roleDesc></castItem>
+        <castItem><role>Montano,</role>
+          <roleDesc>Statthalter von Cypern</roleDesc></castItem>
+        <castItem><role>Ein Diener des Othello</role></castItem>
+        <castItem><role>Herold</role></castItem>
+        <castItem><role>Desdemona,</role>
+          <roleDesc>Brabantios Tochter</roleDesc></castItem>
+        <castItem><role>Emilie,</role>
+          <roleDesc>Jagos Frau</roleDesc></castItem>
+        <castItem><role>Bianca,</role>
+          <roleDesc>Kurtisane</roleDesc></castItem>
+        <castItem><role>Offiziere, Edelleute, Boten, Musikanten, Matrosen, Gefolge
+          u.s.w.</role></castItem>
       </castList>
       <set>
         <p>Szene im ersten Aufzug in Venedig; hernach in Cypern</p>

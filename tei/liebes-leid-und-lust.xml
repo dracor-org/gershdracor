@@ -158,31 +158,38 @@
       <pb n="222"/>
       <castList>
         <head>Personen</head>
-        <castItem>Der König von Navarra</castItem>
+        <castItem><role>Der König von Navarra</role></castItem>
         <castGroup>
-          <castItem>Biron</castItem>
-          <castItem>Longaville</castItem>
-          <castItem>Dumain</castItem>
+          <castItem><role>Biron</role></castItem>
+          <castItem><role>Longaville</role></castItem>
+          <castItem><role>Dumain</role></castItem>
           <roleDesc>Herren im Gefolge des Königs</roleDesc>
         </castGroup>
-        <castItem>Boyet</castItem>
-        <castItem>Mercade</castItem>
-        <castItem>Don Adriano de Armado, ein Spanier</castItem>
-        <castItem>Nathanael, ein Dorfpfarrer</castItem>
-        <castItem>Dumm, ein Konstabel</castItem>
-        <castItem>Holofernes, ein Schulmeister</castItem>
-        <castItem>Schädel, ein Bauer</castItem>
-        <castItem>Motte, Page des Don Adriano de Armado</castItem>
-        <castItem>Ein Förster</castItem>
-        <castItem>Die Prinzessin von Frankreich</castItem>
+        <castItem><role>Boyet</role></castItem>
+        <castItem><role>Mercade</role></castItem>
+        <castItem><role>Don Adriano de Armado,</role>
+          <roleDesc>ein Spanier</roleDesc></castItem>
+        <castItem><role>Nathanael,</role>
+          <roleDesc>ein Dorfpfarrer</roleDesc></castItem>
+        <castItem><role>Dumm,</role>
+          <roleDesc>ein Konstabel</roleDesc></castItem>
+        <castItem><role>Holofernes,</role>
+          <roleDesc>ein Schulmeister</roleDesc></castItem>
+        <castItem><role>Schädel,</role>
+          <roleDesc>ein Bauer</roleDesc></castItem>
+        <castItem><role>Motte,</role>
+          <roleDesc>Page des Don Adriano de Armado</roleDesc></castItem>
+        <castItem><role>Ein Förster</role></castItem>
+        <castItem><role>Die Prinzessin von Frankreich</role></castItem>
         <castGroup>
-          <castItem>Rosaline</castItem>
-          <castItem>Maria</castItem>
-          <castItem>Katharine</castItem>
+          <castItem><role>Rosaline</role></castItem>
+          <castItem><role>Maria</role></castItem>
+          <castItem><role>Katharine</role></castItem>
           <roleDesc>Hoffräulein der Prinzessin</roleDesc>
         </castGroup>
-        <castItem>Jacquenette, ein Milchmädchen</castItem>
-        <castItem>Gefolge des Königs und der Prinzessin</castItem>
+        <castItem><role>Jacquenette,</role>
+          <roleDesc>ein Milchmädchen</roleDesc></castItem>
+        <castItem><role>Gefolge des Königs und der Prinzessin</role></castItem>
       </castList>
       <set>
         <p>Szene: in Navarra</p>

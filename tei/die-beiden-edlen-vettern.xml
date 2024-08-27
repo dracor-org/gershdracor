@@ -222,33 +222,42 @@
       <pb n="11"/>
       <castList>
         <head>Personen:</head>
-        <castItem>Theseus, Herzog von Athen.</castItem>
-        <castItem>Pirithous, atheniensischer Feldherr.</castItem>
-        <castItem>Artesius, atheniensischer Hauptmann.</castItem>
+        <castItem><role>Theseus,</role>
+          <roleDesc>Herzog von Athen.</roleDesc></castItem>
+        <castItem><role>Pirithous,</role>
+          <roleDesc>atheniensischer Feldherr.</roleDesc></castItem>
+        <castItem><role>Artesius,</role>
+          <roleDesc>atheniensischer Hauptmann.</roleDesc></castItem>
         <castGroup>
-          <castItem>Palämon,</castItem>
-          <castItem>Arcites,</castItem>
+          <castItem><role>Palämon,</role></castItem>
+          <castItem><role>Arcites,</role></castItem>
           <roleDesc>Neffen des thebanischen Königs Kreon.</roleDesc>
         </castGroup>
-        <castItem>Valerius, ein thebanischer Edelmann.</castItem>
-        <castItem>Sechs Ritter.</castItem>
-        <castItem>Ein Herold.</castItem>
-        <castItem>Kerkermeister.</castItem>
-        <castItem>Ein Freier der Tochter des Kerkermeisters.</castItem>
-        <castItem>Ein Arzt.</castItem>
+        <castItem><role>Valerius,</role>
+          <roleDesc>ein thebanischer Edelmann.</roleDesc></castItem>
+        <castItem><role>Sechs Ritter.</role></castItem>
+        <castItem><role>Ein Herold.</role></castItem>
+        <castItem><role>Kerkermeister.</role></castItem>
+        <castItem><role>Ein Freier</role>
+          <roleDesc>der Tochter des Kerkermeisters.</roleDesc></castItem>
+        <castItem><role>Ein Arzt.</role></castItem>
         <castGroup>
-          <castItem>Bruder</castItem>
-          <castItem>Freunde</castItem>
+          <castItem><role>Bruder</role></castItem>
+          <castItem><role>Freunde</role></castItem>
           <roleDesc>des Kerkermeisters.</roleDesc>
         </castGroup>
-        <castItem>Ein Edelmann.</castItem>
-        <castItem>Gerrold, ein Schulmeister.</castItem>
-        <castItem>Hippolyta, eine Amazone, Braut des Theseus.</castItem>
-        <castItem>Emilia, Schwester des Theseus.</castItem>
-        <castItem>Drei Königinnen.</castItem>
-        <castItem>Die Tochter des Kerkermeisters.</castItem>
-        <castItem>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen vorstellt. Ein
-          Knabe. Ein Henker. Wache. Dienstboten. Landmädchen. Nymphen.</castItem>
+        <castItem><role>Ein Edelmann.</role></castItem>
+        <castItem><role>Gerrold,</role>
+          <roleDesc>ein Schulmeister.</roleDesc></castItem>
+        <castItem><role>Hippolyta,</role>
+          <roleDesc>eine Amazone, Braut des Theseus.</roleDesc></castItem>
+        <castItem><role>Emilia,</role>
+          <roleDesc>Schwester des Theseus.</roleDesc></castItem>
+        <castItem><role>Drei Königinnen.</role></castItem>
+        <castItem><role>Die Tochter des Kerkermeisters.</role></castItem>
+        <castItem><role>Dienstfrauen der Emilia. Landleute. Boten. Ein Mann, welcher Hymen
+            vorstellt. Ein Knabe. Ein Henker. Wache. Dienstboten. Landmädchen.
+          Nymphen.</role></castItem>
       </castList>
       <set>
         <p>Scene: Athen und seine Umgebung, außer im ersten Act, wo die Handlung auch in Theben und

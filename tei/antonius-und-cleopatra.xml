@@ -199,10 +199,10 @@
           </person>
           <person xml:id="diener_iii-11b" sex="MALE">
             <persName>Ein Diener (III/11)</persName>
-          </person>          
+          </person>
           <person xml:id="diener_iv-2" sex="MALE">
             <persName>Ein Diener (IV/2)</persName>
-          </person>          
+          </person>
           <person xml:id="erster_soldat_iv-3" sex="MALE">
             <persName>Erster Soldat (IV/3)</persName>
           </person>
@@ -321,58 +321,64 @@
       <castList>
         <head>Personen</head>
         <castGroup>
-          <castItem>Marcus Antonius</castItem>
-          <castItem>Octavius Cäsar</castItem>
-          <castItem>M. Ämilius Lepidus</castItem>
+          <castItem><role>Marcus Antonius</role></castItem>
+          <castItem><role>Octavius Cäsar</role></castItem>
+          <castItem><role>M. Ämilius Lepidus</role></castItem>
           <roleDesc>Triumvirn</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Sextus Pompejus</castItem>
-          <castItem>Domitius Enobarbus</castItem>
-          <castItem>Ventidius</castItem>
-          <castItem>Eros</castItem>
-          <castItem>Scarus</castItem>
-          <castItem>Dercetas</castItem>
-          <castItem>Demetrius</castItem>
-          <castItem>Philo</castItem>
+          <castItem><role>Sextus Pompejus</role></castItem>
+          <castItem><role>Domitius Enobarbus</role></castItem>
+          <castItem><role>Ventidius</role></castItem>
+          <castItem><role>Eros</role></castItem>
+          <castItem><role>Scarus</role></castItem>
+          <castItem><role>Dercetas</role></castItem>
+          <castItem><role>Demetrius</role></castItem>
+          <castItem><role>Philo</role></castItem>
           <roleDesc>Freunde des Antonius</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Mäcenas</castItem>
-          <castItem>Agrippa</castItem>
-          <castItem>Dolabella</castItem>
-          <castItem>Proculejus</castItem>
-          <castItem>Thyräus</castItem>
-          <castItem>Gallus</castItem>
+          <castItem><role>Mäcenas</role></castItem>
+          <castItem><role>Agrippa</role></castItem>
+          <castItem><role>Dolabella</role></castItem>
+          <castItem><role>Proculejus</role></castItem>
+          <castItem><role>Thyräus</role></castItem>
+          <castItem><role>Gallus</role></castItem>
           <roleDesc>Freunde des Cäsar</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Menas</castItem>
-          <castItem>Menecrates</castItem>
-          <castItem>Varrius</castItem>
+          <castItem><role>Menas</role></castItem>
+          <castItem><role>Menecrates</role></castItem>
+          <castItem><role>Varrius</role></castItem>
           <roleDesc>Freunde des Pompejus</roleDesc>
         </castGroup>
-        <castItem>Taurus, Oberbefehlshaber unter Cäsar</castItem>
-        <castItem>Canidius, Oberbefehlshaber unter Antonius</castItem>
-        <castItem>Silius, ein Offizier in der Armee des Ventidius</castItem>
-        <castItem>Euphronius, ein Gesandter des Antonius an Cäsar</castItem>
+        <castItem><role>Taurus,</role>
+          <roleDesc>Oberbefehlshaber unter Cäsar</roleDesc></castItem>
+        <castItem><role>Canidius,</role>
+          <roleDesc>Oberbefehlshaber unter Antonius</roleDesc></castItem>
+        <castItem><role>Silius,</role>
+          <roleDesc>ein Offizier in der Armee des Ventidius</roleDesc></castItem>
+        <castItem><role>Euphronius,</role>
+          <roleDesc>ein Gesandter des Antonius an Cäsar</roleDesc></castItem>
         <castGroup>
-          <castItem>Alexas</castItem>
-          <castItem>Mardian</castItem>
-          <castItem>Seleucus</castItem>
-          <castItem>Diomedes</castItem>
+          <castItem><role>Alexas</role></castItem>
+          <castItem><role>Mardian</role></castItem>
+          <castItem><role>Seleucus</role></castItem>
+          <castItem><role>Diomedes</role></castItem>
           <roleDesc>im Dienste der Cleopatra</roleDesc>
         </castGroup>
-        <castItem>Ein Wahrsager</castItem>
-        <castItem>Ein Bauer</castItem>
-        <castItem>Cleopatra, Königin von Ägypten</castItem>
-        <castItem>Octavia, Cäsars Schwester, Gemahlin des Antonius</castItem>
+        <castItem><role>Ein Wahrsager</role></castItem>
+        <castItem><role>Ein Bauer</role></castItem>
+        <castItem><role>Cleopatra,</role>
+          <roleDesc>Königin von Ägypten</roleDesc></castItem>
+        <castItem><role>Octavia,</role>
+          <roleDesc>Cäsars Schwester, Gemahlin des Antonius</roleDesc></castItem>
         <castGroup>
-          <castItem>Charmion</castItem>
-          <castItem>Iras</castItem>
+          <castItem><role>Charmion</role></castItem>
+          <castItem><role>Iras</role></castItem>
           <roleDesc>im Dienste der Cleopatra</roleDesc>
         </castGroup>
-        <castItem>Hauptleute, Soldaten, Boten und Gefolge</castItem>
+        <castItem><role>Hauptleute, Soldaten, Boten und Gefolge</role></castItem>
       </castList>
     </front>
     <pb n="687"/>

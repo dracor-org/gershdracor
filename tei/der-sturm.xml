@@ -152,32 +152,43 @@
       <pb n="596"/>
       <castList>
         <head>Personen</head>
-        <castItem>Alonso, König von Neapel</castItem>
-        <castItem>Sebastian, sein Bruder</castItem>
-        <castItem>Prospero, der rechtmäßige Herzog von Mailand</castItem>
-        <castItem>Antonio, sein Bruder, der unrechtmäßige Herzog von Mailand</castItem>
-        <castItem>Ferdinand, Sohn des Königs von Neapel</castItem>
-        <castItem>Gonzalo, ein ehrlicher alter Rat des Königs</castItem>
+        <castItem><role>Alonso,</role>
+          <roleDesc>König von Neapel</roleDesc></castItem>
+        <castItem><role>Sebastian,</role>
+          <roleDesc>sein Bruder</roleDesc></castItem>
+        <castItem><role>Prospero,</role>
+          <roleDesc>der rechtmäßige Herzog von Mailand</roleDesc></castItem>
+        <castItem><role>Antonio,</role>
+          <roleDesc>sein Bruder, der unrechtmäßige Herzog von Mailand</roleDesc></castItem>
+        <castItem><role>Ferdinand,</role>
+          <roleDesc>Sohn des Königs von Neapel</roleDesc></castItem>
+        <castItem><role>Gonzalo,</role>
+          <roleDesc>ein ehrlicher alter Rat des Königs</roleDesc></castItem>
         <castGroup>
-          <castItem>Adrian</castItem>
-          <castItem>Francisco</castItem>
+          <castItem><role>Adrian</role></castItem>
+          <castItem><role>Francisco</role></castItem>
           <roleDesc>Herren vom Hofe</roleDesc>
         </castGroup>
-        <castItem>Caliban, ein wilder und mißgestalter Sklav'</castItem>
-        <castItem>Trinculo, ein Spaßmacher</castItem>
-        <castItem>Stephano, ein betrunkener Kellner</castItem>
-        <castItem>Ein Schiffepatron, Bootsmann und Matrosen</castItem>
-        <castItem>Miranda, Tochter des Prospero</castItem>
-        <castItem>Ariel, ein Luftgeist</castItem>
+        <castItem><role>Caliban,</role>
+          <roleDesc>ein wilder und mißgestalter Sklav'</roleDesc></castItem>
+        <castItem><role>Trinculo,</role>
+          <roleDesc>ein Spaßmacher</roleDesc></castItem>
+        <castItem><role>Stephano,</role>
+          <roleDesc>ein betrunkener Kellner</roleDesc></castItem>
+        <castItem><role>Ein Schiffepatron, Bootsmann und Matrosen</role></castItem>
+        <castItem><role>Miranda,</role>
+          <roleDesc>Tochter des Prospero</roleDesc></castItem>
+        <castItem><role>Ariel,</role>
+          <roleDesc>ein Luftgeist</roleDesc></castItem>
         <castGroup>
-          <castItem>Iris</castItem>
-          <castItem>Ceres</castItem>
-          <castItem>Juno</castItem>
-          <castItem>Nymphen</castItem>
-          <castItem>Schnitter</castItem>
+          <castItem><role>Iris</role></castItem>
+          <castItem><role>Ceres</role></castItem>
+          <castItem><role>Juno</role></castItem>
+          <castItem><role>Nymphen</role></castItem>
+          <castItem><role>Schnitter</role></castItem>
           <roleDesc>Geister</roleDesc>
         </castGroup>
-        <castItem>Andre dem Prospero dienende Geister</castItem>
+        <castItem><role>Andre dem Prospero dienende Geister</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist anfänglich die See mit einem Schiffe, nachher eine unbewohnte Insel</p>

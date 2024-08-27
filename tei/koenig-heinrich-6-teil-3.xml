@@ -243,58 +243,69 @@
       <pb n="691"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Heinrich VI.</castItem>
-        <castItem>Eduard, Prinz von Wales, sein Sohn</castItem>
-        <castItem>Ludwig XI., König von Frankreich</castItem>
+        <castItem><role>König Heinrich VI.</role></castItem>
+        <castItem><role>Eduard, Prinz von Wales,</role>
+          <roleDesc>sein Sohn</roleDesc></castItem>
+        <castItem><role>Ludwig XI.,</role>
+          <roleDesc>König von Frankreich</roleDesc></castItem>
         <castGroup>
-          <castItem>Herzog von Somerset</castItem>
-          <castItem>Herzog von Exeter</castItem>
-          <castItem>Graf von Oxford</castItem>
-          <castItem>Graf von Northumberland</castItem>
-          <castItem>Graf von Westmoreland</castItem>
-          <castItem>Lord Clifford</castItem>
+          <castItem><role>Herzog von Somerset</role></castItem>
+          <castItem><role>Herzog von Exeter</role></castItem>
+          <castItem><role>Graf von Oxford</role></castItem>
+          <castItem><role>Graf von Northumberland</role></castItem>
+          <castItem><role>Graf von Westmoreland</role></castItem>
+          <castItem><role>Lord Clifford</role></castItem>
           <roleDesc>von König Heinrichs Partei</roleDesc>
         </castGroup>
-        <castItem>Richard Plantagenet, Herzog von York</castItem>
+        <castItem><role>Richard Plantagenet, Herzog von York</role></castItem>
         <castGroup>
-          <castItem>Eduard, Graf von March, nachmals König Eduard IV.</castItem>
-          <castItem>Edmund, Graf von Rutland</castItem>
-          <castItem>Georg, nachmals Herzog von Clarence</castItem>
-          <castItem>Richard, nachmals Herzog von Glocester</castItem>
+          <castItem><role>Eduard, Graf von March,</role>
+            <roleDesc>nachmals König Eduard IV.</roleDesc></castItem>
+          <castItem><role>Edmund, Graf von Rutland</role></castItem>
+          <castItem><role>Georg,</role>
+            <roleDesc>nachmals Herzog von Clarence</roleDesc></castItem>
+          <castItem><role>Richard,</role>
+            <roleDesc>nachmals Herzog von Glocester</roleDesc></castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Herzog von Norfolk</castItem>
-          <castItem>Marquis von Montague</castItem>
-          <castItem>Graf von Warwick</castItem>
-          <castItem>Graf von Pembroke</castItem>
-          <castItem>Lord Hastings</castItem>
-          <castItem>Lord Stafford</castItem>
+          <castItem><role>Herzog von Norfolk</role></castItem>
+          <castItem><role>Marquis von Montague</role></castItem>
+          <castItem><role>Graf von Warwick</role></castItem>
+          <castItem><role>Graf von Pembroke</role></castItem>
+          <castItem><role>Lord Hastings</role></castItem>
+          <castItem><role>Lord Stafford</role></castItem>
           <roleDesc>von des Herzogs von York Partei</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Sir John Mortimer</castItem>
-          <castItem>Sir Hugh Mortimer</castItem>
+          <castItem><role>Sir John Mortimer</role></castItem>
+          <castItem><role>Sir Hugh Mortimer</role></castItem>
           <roleDesc>Oheime des Herzogs von York</roleDesc>
         </castGroup>
-        <castItem>Henry, der junge Graf von Richmond</castItem>
-        <castItem>Lord Rivers, Bruder der Lady Grey</castItem>
-        <castItem>Sir William Stanley</castItem>
-        <castItem>Sir John Montgomery</castItem>
-        <castItem>Sir John Somerville</castItem>
-        <castItem>Der Lehrmeister Rutlands</castItem>
-        <castItem>Der Schultheiß von York</castItem>
-        <castItem>Der Kommandant des Turmes</castItem>
-        <castItem>Ein Edelmann</castItem>
-        <castItem>Zwei Förster, ein Jäger</castItem>
+        <castItem><role>Henry,</role>
+          <roleDesc>der junge Graf von Richmond</roleDesc></castItem>
+        <castItem><role>Lord Rivers,</role>
+          <roleDesc>Bruder der Lady Grey</roleDesc></castItem>
+        <castItem><role>Sir William Stanley</role></castItem>
+        <castItem><role>Sir John Montgomery</role></castItem>
+        <castItem><role>Sir John Somerville</role></castItem>
+        <castItem><role>Der Lehrmeister Rutlands</role></castItem>
+        <castItem><role>Der Schultheiß von York</role></castItem>
+        <castItem><role>Der Kommandant des Turmes</role></castItem>
+        <castItem><role>Ein Edelmann</role></castItem>
+        <castItem><role>Zwei Förster, ein Jäger</role></castItem>
         <pb n="692"/>
-        <castItem>Ein Sohn, der seinen Vater umgebracht hat</castItem>
-        <castItem>Ein Vater, der seinen Sohn umgebracht hat</castItem>
-        <castItem>Königin Margareta</castItem>
-        <castItem>Lady Grey, nachmals Gemahlin Eduards IV.</castItem>
-        <castItem>Bona, Schwester des Königs von Frankreich</castItem>
-        <castItem>Soldaten und andres Gefolge König Heinrichs und König Eduards, Boten, Wächter
-          u.s.w.</castItem>
+        <castItem><role>Ein Sohn,</role>
+          <roleDesc>der seinen Vater umgebracht hat</roleDesc></castItem>
+        <castItem><role>Ein Vater,</role>
+          <roleDesc>der seinen Sohn umgebracht hat</roleDesc></castItem>
+        <castItem><role>Königin Margareta</role></castItem>
+        <castItem><role>Lady Grey,</role>
+          <roleDesc>nachmals Gemahlin Eduards IV.</roleDesc></castItem>
+        <castItem><role>Bona,</role>
+          <roleDesc>Schwester des Königs von Frankreich</roleDesc></castItem>
+        <castItem><role>Soldaten und andres Gefolge König Heinrichs und König Eduards, Boten,
+            Wächter u.s.w.</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist im dritten Aufzuge zum Teil in Frankreich, während des ganzen übrigen

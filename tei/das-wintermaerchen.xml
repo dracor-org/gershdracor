@@ -207,36 +207,44 @@
       <pb n="496"/>
       <castList>
         <head>Personen</head>
-        <castItem>Leontes, König von Sizilien</castItem>
-        <castItem>Hermione, seine Gemahlin</castItem>
+        <castItem><role>Leontes,</role>
+          <roleDesc>König von Sizilien</roleDesc></castItem>
+        <castItem><role>Hermione,</role>
+          <roleDesc>seine Gemahlin</roleDesc></castItem>
         <castGroup>
-          <castItem>Mamillius</castItem>
-          <castItem>Perdita</castItem>
+          <castItem><role>Mamillius</role></castItem>
+          <castItem><role>Perdita</role></castItem>
           <roleDesc>seine Kinder</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Camillo</castItem>
-          <castItem>Antigonus</castItem>
-          <castItem>Cleomenes</castItem>
-          <castItem>Dion</castItem>
+          <castItem><role>Camillo</role></castItem>
+          <castItem><role>Antigonus</role></castItem>
+          <castItem><role>Cleomenes</role></castItem>
+          <castItem><role>Dion</role></castItem>
           <roleDesc>vornehme Sizilianer</roleDesc>
         </castGroup>
-        <castItem>Herren vom Hofe und sizilianische Edelleute</castItem>
-        <castItem>Paulina, Antigonus' Gemahlin</castItem>
-        <castItem>Emilia, Kammerfrau der Königin</castItem>
-        <castItem>Hofdamen</castItem>
-        <castItem>Ein Beamter und mehrere Gerichtsdiener</castItem>
-        <castItem>Ein Kerkermeister</castItem>
-        <castItem>Ein Matrose</castItem>
-        <castItem>Polyxenes, König von Böhmen</castItem>
-        <castItem>Florizel, sein Sohn</castItem>
-        <castItem>Archidamus, am Hofe des Königs</castItem>
-        <castItem>Ein alter Schäfer</castItem>
-        <castItem>Sein Sohn</castItem>
-        <castItem>Autolycus, ein Spitzbube</castItem>
-        <castItem>Mopsa und Dorcas. Schäferinnen.</castItem>
-        <castItem>Schäfer. Knechte</castItem>
-        <castItem>Die Zeit als Chorus</castItem>
+        <castItem><role>Herren vom Hofe und sizilianische Edelleute</role></castItem>
+        <castItem><role>Paulina,</role>
+          <roleDesc>Antigonus' Gemahlin</roleDesc></castItem>
+        <castItem><role>Emilia,</role>
+          <roleDesc>Kammerfrau der Königin</roleDesc></castItem>
+        <castItem><role>Hofdamen</role></castItem>
+        <castItem><role>Ein Beamter und mehrere Gerichtsdiener</role></castItem>
+        <castItem><role>Ein Kerkermeister</role></castItem>
+        <castItem><role>Ein Matrose</role></castItem>
+        <castItem><role>Polyxenes,</role>
+          <roleDesc>König von Böhmen</roleDesc></castItem>
+        <castItem><role>Florizel,</role>
+          <roleDesc>sein Sohn</roleDesc></castItem>
+        <castItem><role>Archidamus,</role>
+          <roleDesc>am Hofe des Königs</roleDesc></castItem>
+        <castItem><role>Ein alter Schäfer</role></castItem>
+        <castItem><role>Sein Sohn</role></castItem>
+        <castItem><role>Autolycus,</role>
+          <roleDesc>ein Spitzbube</roleDesc></castItem>
+        <castItem><role>Mopsa und Dorcas. Schäferinnen.</role></castItem>
+        <castItem><role>Schäfer. Knechte</role></castItem>
+        <castItem><role>Die Zeit als Chorus</role></castItem>
       </castList>
     </front>
     <pb n="497"/>

@@ -176,28 +176,33 @@
       <pb n="116"/>
       <castList>
         <head>Personen</head>
-        <castItem>Der König von Frankreich</castItem>
-        <castItem>Der Herzog von Florenz</castItem>
-        <castItem>Bertram, Graf von Roussillon</castItem>
-        <castItem>Lafeu, ein Vasall des Königs</castItem>
-        <castItem>Parolles, Gesellschafter des Grafen</castItem>
-        <castItem>Mehrere junge französische Edelleute</castItem>
+        <castItem><role>Der König von Frankreich</role></castItem>
+        <castItem><role>Der Herzog von Florenz</role></castItem>
+        <castItem><role>Bertram,</role>
+          <roleDesc>Graf von Roussillon</roleDesc></castItem>
+        <castItem><role>Lafeu,</role>
+          <roleDesc>ein Vasall des Königs</roleDesc></castItem>
+        <castItem><role>Parolles,</role>
+          <roleDesc>Gesellschafter des Grafen</roleDesc></castItem>
+        <castItem><role>Mehrere junge französische Edelleute</role></castItem>
         <castGroup>
-          <castItem>Haushofmeister</castItem>
-          <castItem>Narr</castItem>
-          <castItem>[Ein Page]</castItem>
+          <castItem><role>Haushofmeister</role></castItem>
+          <castItem><role>Narr</role></castItem>
+          <castItem><role>[Ein Page]</role></castItem>
           <roleDesc>in Diensten der Gräfin von Roussillon</roleDesc>
         </castGroup>
-        <castItem>Die Gräfin von Roussillon</castItem>
-        <castItem>Helena, ihre Pflegetochter</castItem>
-        <castItem>Eine Witwe</castItem>
-        <castItem>Diana, deren Tochter</castItem>
+        <castItem><role>Die Gräfin von Roussillon</role></castItem>
+        <castItem><role>Helena,</role>
+          <roleDesc>ihre Pflegetochter</roleDesc></castItem>
+        <castItem><role>Eine Witwe</role></castItem>
+        <castItem><role>Diana,</role>
+          <roleDesc>deren Tochter</roleDesc></castItem>
         <castGroup>
-          <castItem>Violenta</castItem>
-          <castItem>Mariane</castItem>
+          <castItem><role>Violenta</role></castItem>
+          <castItem><role>Mariane</role></castItem>
           <roleDesc>Dianens Freundinen</roleDesc>
         </castGroup>
-        <castItem>Herren vom Hofe; Hauptleute; Soldaten</castItem>
+        <castItem><role>Herren vom Hofe; Hauptleute; Soldaten</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist teils in Frankreich, teils in Toskana</p>

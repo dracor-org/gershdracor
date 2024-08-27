@@ -169,43 +169,58 @@
       <pb n="310"/>
       <castList>
         <head>Personen</head>
-        <castItem>Theseus, Herzog von Athen</castItem>
-        <castItem>Egeus, Vater der Hermia</castItem>
+        <castItem><role>Theseus,</role>
+          <roleDesc>Herzog von Athen</roleDesc></castItem>
+        <castItem><role>Egeus,</role>
+          <roleDesc>Vater der Hermia</roleDesc></castItem>
         <castGroup>
-          <castItem>Lysander</castItem>
-          <castItem>Demetrius</castItem>
+          <castItem><role>Lysander</role></castItem>
+          <castItem><role>Demetrius</role></castItem>
           <roleDesc>Liebhaber der Hermia</roleDesc>
         </castGroup>
-        <castItem>Philostrat, Aufseher der Lustbarkeiten am Hofe des Theseus</castItem>
-        <castItem>Squenz, der Zimmermann</castItem>
-        <castItem>Schnock, der Schreiner</castItem>
-        <castItem>Zettel, der Weber</castItem>
-        <castItem>Flaut, der Bälgenflicker</castItem>
-        <castItem>Schnauz, der Kesselflicker</castItem>
-        <castItem>Schlucker, der Schneider</castItem>
-        <castItem>Hippolyta, Königin der Amazonen, mit Theseus verlobt</castItem>
-        <castItem>Hermia, Tochter des Egeus, in Lysander verliebt</castItem>
-        <castItem>Helena, in Demetrius verliebt</castItem>
-        <castItem>Oberon, König der Elfen</castItem>
-        <castItem>Titania, Königin der Elfen</castItem>
-        <castItem>Droll, ein Elfe</castItem>
+        <castItem><role>Philostrat,</role>
+          <roleDesc>Aufseher der Lustbarkeiten am Hofe des Theseus</roleDesc></castItem>
+        <castItem><role>Squenz,</role>
+          <roleDesc>der Zimmermann</roleDesc></castItem>
+        <castItem><role>Schnock,</role>
+          <roleDesc>der Schreiner</roleDesc></castItem>
+        <castItem><role>Zettel,</role>
+          <roleDesc>der Weber</roleDesc></castItem>
+        <castItem><role>Flaut,</role>
+          <roleDesc>der Bälgenflicker</roleDesc></castItem>
+        <castItem><role>Schnauz,</role>
+          <roleDesc>der Kesselflicker</roleDesc></castItem>
+        <castItem><role>Schlucker,</role>
+          <roleDesc>der Schneider</roleDesc></castItem>
+        <castItem><role>Hippolyta,</role>
+          <roleDesc>Königin der Amazonen, mit Theseus verlobt</roleDesc></castItem>
+        <castItem><role>Hermia,</role>
+          <roleDesc>Tochter des Egeus, in Lysander verliebt</roleDesc></castItem>
+        <castItem><role>Helena,</role>
+          <roleDesc>in Demetrius verliebt</roleDesc></castItem>
+        <castItem><role>Oberon,</role>
+          <roleDesc>König der Elfen</roleDesc></castItem>
+        <castItem><role>Titania,</role>
+          <roleDesc>Königin der Elfen</roleDesc></castItem>
+        <castItem><role>Droll,</role>
+          <roleDesc>ein Elfe</roleDesc></castItem>
         <castGroup>
-          <castItem>Bohnenblüte</castItem>
-          <castItem>Spinnweb</castItem>
-          <castItem>Motte</castItem>
-          <castItem>Senfsamen</castItem>
+          <castItem><role>Bohnenblüte</role></castItem>
+          <castItem><role>Spinnweb</role></castItem>
+          <castItem><role>Motte</role></castItem>
+          <castItem><role>Senfsamen</role></castItem>
           <roleDesc>Elfen</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Pyramus</castItem>
-          <castItem>Thisbe</castItem>
-          <castItem>Wand</castItem>
-          <castItem>Mondschein</castItem>
-          <castItem>Löwe</castItem>
+          <castItem><role>Pyramus</role></castItem>
+          <castItem><role>Thisbe</role></castItem>
+          <castItem><role>Wand</role></castItem>
+          <castItem><role>Mondschein</role></castItem>
+          <castItem><role>Löwe</role></castItem>
           <roleDesc>Rollen in dem Zwischenspiele, das von den Rüpeln vorgestellt wird</roleDesc>
         </castGroup>
-        <castItem>Andere Elfen, im Gefolge des Königs und der Königin. Gefolge des Theseus und der
-          Hippolyta</castItem>
+        <castItem><role>Andere Elfen, im Gefolge des Königs und der Königin. Gefolge des Theseus und
+            der Hippolyta</role></castItem>
       </castList>
       <set>
         <p>Szene: Athen und ein nahe gelegener Wald</p>

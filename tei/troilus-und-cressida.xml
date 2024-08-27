@@ -191,42 +191,52 @@
       <pb n="6"/>
       <castList>
         <head>Personen</head>
-        <castItem>Priamus, König von Troja</castItem>
+        <castItem><role>Priamus,</role>
+          <roleDesc>König von Troja</roleDesc></castItem>
         <castGroup>
-          <castItem>Hektor</castItem>
-          <castItem>Troilus</castItem>
-          <castItem>Paris</castItem>
-          <castItem>Deiphobus</castItem>
-          <castItem>Helenus</castItem>
+          <castItem><role>Hektor</role></castItem>
+          <castItem><role>Troilus</role></castItem>
+          <castItem><role>Paris</role></castItem>
+          <castItem><role>Deiphobus</role></castItem>
+          <castItem><role>Helenus</role></castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Äneas</castItem>
-          <castItem>Antenor</castItem>
+          <castItem><role>Äneas</role></castItem>
+          <castItem><role>Antenor</role></castItem>
           <roleDesc>trojanische Heerführer</roleDesc>
         </castGroup>
-        <castItem>Kalchas, ein Priester</castItem>
-        <castItem>Pandarus, Oheim der Cressida</castItem>
-        <castItem>Margarelon</castItem>
-        <castItem>Agamemnon, Oberanführer der Griechen</castItem>
-        <castItem>Menelaus, sein Bruder</castItem>
+        <castItem><role>Kalchas,</role>
+          <roleDesc>ein Priester</roleDesc></castItem>
+        <castItem><role>Pandarus,</role>
+          <roleDesc>Oheim der Cressida</roleDesc></castItem>
+        <castItem><role>Margarelon</role></castItem>
+        <castItem><role>Agamemnon,</role>
+          <roleDesc>Oberanführer der Griechen</roleDesc></castItem>
+        <castItem><role>Menelaus,</role>
+          <roleDesc>sein Bruder</roleDesc></castItem>
         <castGroup>
-          <castItem>Achilles</castItem>
-          <castItem>Ajax</castItem>
-          <castItem>Ulysses</castItem>
-          <castItem>Nestor</castItem>
-          <castItem>Diomedes</castItem>
-          <castItem>Patroklus</castItem>
+          <castItem><role>Achilles</role></castItem>
+          <castItem><role>Ajax</role></castItem>
+          <castItem><role>Ulysses</role></castItem>
+          <castItem><role>Nestor</role></castItem>
+          <castItem><role>Diomedes</role></castItem>
+          <castItem><role>Patroklus</role></castItem>
           <roleDesc>griechische Heerführer</roleDesc>
         </castGroup>
-        <castItem>Thersites</castItem>
-        <castItem>Alexander, Diener der Cressida</castItem>
-        <castItem>Edelknaben</castItem>
-        <castItem>Helena, Gemahlin des Menelaus</castItem>
-        <castItem>Andromache, Gemahlin des Hektor</castItem>
-        <castItem>Kassandra, Tochter des Priamus</castItem>
-        <castItem>Cressida, Tochter des Kalchas</castItem>
-        <castItem>Trojanische und griechische Krieger und Gefolge</castItem>
+        <castItem><role>Thersites</role></castItem>
+        <castItem><role>Alexander,</role>
+          <roleDesc>Diener der Cressida</roleDesc></castItem>
+        <castItem><role>Edelknaben</role></castItem>
+        <castItem><role>Helena,</role>
+          <roleDesc>Gemahlin des Menelaus</roleDesc></castItem>
+        <castItem><role>Andromache,</role>
+          <roleDesc>Gemahlin des Hektor</roleDesc></castItem>
+        <castItem><role>Kassandra,</role>
+          <roleDesc>Tochter des Priamus</roleDesc></castItem>
+        <castItem><role>Cressida,</role>
+          <roleDesc>Tochter des Kalchas</roleDesc></castItem>
+        <castItem><role>Trojanische und griechische Krieger und Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Troja und im griechischen Lager vor dieser Stadt</p>

@@ -144,24 +144,32 @@
       <pb n="150"/>
       <castList>
         <head>Personen</head>
-        <castItem>Der Herzog von Mailand</castItem>
+        <castItem><role>Der Herzog von Mailand</role></castItem>
         <castGroup>
-          <castItem>Valentin</castItem>
-          <castItem>Proteus</castItem>
+          <castItem><role>Valentin</role></castItem>
+          <castItem><role>Proteus</role></castItem>
           <roleDesc>zwei junge Veroneser</roleDesc>
         </castGroup>
-        <castItem>Antonio, Vater des Proteus</castItem>
-        <castItem>Thurio, Nebenbuhler des Valentin</castItem>
-        <castItem>Eglamour</castItem>
-        <castItem>Flink, Diener des Valentin</castItem>
-        <castItem>Lanz, Diener des Proteus</castItem>
-        <castItem>Panthino, Diener des Antonio</castItem>
-        <castItem>Ein Wirt</castItem>
-        <castItem>Räuber</castItem>
-        <castItem>Julia, eine edle Veroneserin</castItem>
-        <castItem>Silvia, des Herzogs Tochter</castItem>
-        <castItem>Lucetta, Kammermädchen der Julia</castItem>
-        <castItem>Diener. Musikanten</castItem>
+        <castItem><role>Antonio,</role>
+          <roleDesc>Vater des Proteus</roleDesc></castItem>
+        <castItem><role>Thurio,</role>
+          <roleDesc>Nebenbuhler des Valentin</roleDesc></castItem>
+        <castItem><role>Eglamour</role></castItem>
+        <castItem><role>Flink,</role>
+          <roleDesc>Diener des Valentin</roleDesc></castItem>
+        <castItem><role>Lanz,</role>
+          <roleDesc>Diener des Proteus</roleDesc></castItem>
+        <castItem><role>Panthino,</role>
+          <roleDesc>Diener des Antonio</roleDesc></castItem>
+        <castItem><role>Ein Wirt</role></castItem>
+        <castItem><role>Räuber</role></castItem>
+        <castItem><role>Julia,</role>
+          <roleDesc>eine edle Veroneserin</roleDesc></castItem>
+        <castItem><role>Silvia,</role>
+          <roleDesc>des Herzogs Tochter</roleDesc></castItem>
+        <castItem><role>Lucetta,</role>
+          <roleDesc>Kammermädchen der Julia</roleDesc></castItem>
+        <castItem><role>Diener. Musikanten</role></castItem>
       </castList>
       <set>
         <p>Szene: Verona; Mailand; das Grenzgebiet Mantuas</p>

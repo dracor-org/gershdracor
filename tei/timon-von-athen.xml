@@ -327,43 +327,46 @@
       <pb n="916"/>
       <castList>
         <head>Personen</head>
-        <castItem>Timon, ein edler Athenienser</castItem>
+        <castItem><role>Timon,</role>
+          <roleDesc>ein edler Athenienser</roleDesc></castItem>
         <castGroup>
-          <castItem>Lucius</castItem>
-          <castItem>Lucullus</castItem>
-          <castItem>Sempronius</castItem>
-          <castItem>Ventidius</castItem>
+          <castItem><role>Lucius</role></castItem>
+          <castItem><role>Lucullus</role></castItem>
+          <castItem><role>Sempronius</role></castItem>
+          <castItem><role>Ventidius</role></castItem>
           <roleDesc>seine Freunde</roleDesc>
         </castGroup>
-        <castItem>Apemantus, Philosoph</castItem>
-        <castItem>Alcibiades, Feldherr</castItem>
-        <castItem>Flavius, Timons Haushofmeister</castItem>
+        <castItem><role>Apemantus,</role>
+          <roleDesc>Philosoph</roleDesc></castItem>
+        <castItem><role>Alcibiades,</role>
+          <roleDesc>Feldherr</roleDesc></castItem>
+        <castItem><role>Flavius,</role>
+          <roleDesc>Timons Haushofmeister</roleDesc></castItem>
         <castGroup>
-          <castItem>Flaminius</castItem>
-          <castItem>Lucilius</castItem>
+          <castItem><role>Flaminius</role></castItem>
+          <castItem><role>Lucilius</role></castItem>
           <roleDesc>Timons Diener</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Servilius</castItem>
-          <castItem>Caphis</castItem>
-          <castItem>Philotus</castItem>
-          <castItem>Titus</castItem>
-          <castItem>Lucius</castItem>
-          <castItem>Hortensius</castItem>
+          <castItem><role>Servilius</role></castItem>
+          <castItem><role>Caphis</role></castItem>
+          <castItem><role>Philotus</role></castItem>
+          <castItem><role>Titus</role></castItem>
+          <castItem><role>Lucius</role></castItem>
+          <castItem><role>Hortensius</role></castItem>
           <roleDesc>Diener von Timons Gläubigern</roleDesc>
         </castGroup>
-        <castItem>Zwei Diener des Varrus</castItem>
-        <castItem>Ein Diener des Isidor</castItem>
-        <castItem>Cupido und andre Masken. Zwei Fremde</castItem>
-        <castItem>Ein Dichter, ein Maler, ein Kaufmann und</castItem>
-        <castItem>ein Juwelier</castItem>
-        <castItem>Ein alter Athenienser, ein Page, ein Narr</castItem>
+        <castItem><role>Zwei Diener des Varrus</role></castItem>
+        <castItem><role>Ein Diener des Isidor</role></castItem>
+        <castItem><role>Cupido und andre Masken. Zwei Fremde</role></castItem>
+        <castItem><role>Ein Dichter, ein Maler, ein Kaufmann und ein Juwelier</role></castItem>
+        <castItem><role>Ein alter Athenienser, ein Page, ein Narr</role></castItem>
         <castGroup>
-          <castItem>Phrynia</castItem>
-          <castItem>Timandra</castItem>
+          <castItem><role>Phrynia</role></castItem>
+          <castItem><role>Timandra</role></castItem>
           <roleDesc>Kurtisanen</roleDesc>
         </castGroup>
-        <castItem>Senatoren, Hauptleute, Krieger, Diebe, Gefolge</castItem>
+        <castItem><role>Senatoren, Hauptleute, Krieger, Diebe, Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Athen und dem nahen Walde</p>

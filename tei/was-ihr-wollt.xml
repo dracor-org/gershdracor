@@ -148,28 +148,35 @@
       <pb n="728"/>
       <castList>
         <head>Personen</head>
-        <castItem>Orsino, Herzog von Illyrien</castItem>
-        <castItem>Sebastian, ein junger Edelmann, Violas Bruder</castItem>
-        <castItem>Antonio, ein Schiffshauptmann</castItem>
-        <castItem>Ein Schiffshauptmann</castItem>
+        <castItem><role>Orsino,</role>
+          <roleDesc>Herzog von Illyrien</roleDesc></castItem>
+        <castItem><role>Sebastian,</role>
+          <roleDesc>ein junger Edelmann, Violas Bruder</roleDesc></castItem>
+        <castItem><role>Antonio,</role>
+          <roleDesc>ein Schiffshauptmann</roleDesc></castItem>
+        <castItem><role>Ein Schiffshauptmann</role></castItem>
         <castGroup>
-          <castItem>Valentin</castItem>
-          <castItem>Curio</castItem>
+          <castItem><role>Valentin</role></castItem>
+          <castItem><role>Curio</role></castItem>
           <roleDesc>Kavaliere des Herzogs</roleDesc>
         </castGroup>
-        <castItem>Junker Tobias von Rülp, Olivias Oheim</castItem>
-        <castItem>Junker Christoph von Bleichenwang</castItem>
-        <castItem>Malvolio, Olivias Haushofmeister</castItem>
+        <castItem><role>Junker Tobias von Rülp,</role>
+          <roleDesc>Olivias Oheim</roleDesc></castItem>
+        <castItem><role>Junker Christoph von Bleichenwang</role></castItem>
+        <castItem><role>Malvolio,</role>
+          <roleDesc>Olivias Haushofmeister</roleDesc></castItem>
         <castGroup>
-          <castItem>Fabio</castItem>
-          <castItem>Narr</castItem>
+          <castItem><role>Fabio</role></castItem>
+          <castItem><role>Narr</role></castItem>
           <roleDesc>in Olivias Dienst</roleDesc>
         </castGroup>
-        <castItem>Olivia, eine reiche Gräfin</castItem>
-        <castItem>Viola</castItem>
-        <castItem>Maria, Olivias Kammermädchen</castItem>
-        <castItem>Herren vom Hofe, ein Priester, Matrosen, Gerichtsdiener, Musikanten und andres
-          Gefolge</castItem>
+        <castItem><role>Olivia,</role>
+          <roleDesc>eine reiche Gräfin</roleDesc></castItem>
+        <castItem><role>Viola</role></castItem>
+        <castItem><role>Maria,</role>
+          <roleDesc>Olivias Kammermädchen</roleDesc></castItem>
+        <castItem><role>Herren vom Hofe, ein Priester, Matrosen, Gerichtsdiener, Musikanten und
+            andres Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist eine Stadt in Illyrien und die benachbarte Seeküste</p>

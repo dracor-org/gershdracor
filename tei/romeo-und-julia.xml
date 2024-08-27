@@ -82,13 +82,15 @@
           <person xml:id="capulet" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="graefin_capulet" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
+          <person xml:id="graefin_capulet" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Gräfin Capulet</persName>
           </person>
           <person xml:id="montague" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="graefin_montague" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
+          <person xml:id="graefin_montague" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Gräfin Montague</persName>
           </person>
           <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
@@ -214,38 +216,50 @@
       <pb n="84"/>
       <castList>
         <head>Personen</head>
-        <castItem>Escalus, Prinz von Verona</castItem>
-        <castItem>Graf Paris, Verwandter des Prinzen</castItem>
+        <castItem><role>Escalus,</role>
+          <roleDesc>Prinz von Verona</roleDesc></castItem>
+        <castItem><role>Graf Paris,</role>
+          <roleDesc>Verwandter des Prinzen</roleDesc></castItem>
         <castGroup>
-          <castItem>Montague</castItem>
-          <castItem>Capulet</castItem>
+          <castItem><role>Montague</role></castItem>
+          <castItem><role>Capulet</role></castItem>
           <roleDesc>Häupter zweier Häuser, welche in Zwist mit einander sind</roleDesc>
         </castGroup>
-        <castItem>Romeo, Montagues Sohn</castItem>
-        <castItem>Mercutio, Verwandter des Prinzen und Romeos Freund</castItem>
-        <castItem>Benvolio, Montagues Neffe und Romeos Freund</castItem>
-        <castItem>Tybalt, Neffe der Gräfin Capulet</castItem>
-        <castItem>Ein alter Mann, Capulets Oheim</castItem>
-        <castItem>Bruder Lorenzo, ein Franziskaner</castItem>
-        <castItem>Bruder Marcus, von demselben Orden</castItem>
-        <castItem>Balthasar, Romeos Diener</castItem>
+        <castItem><role>Romeo,</role>
+          <roleDesc>Montagues Sohn</roleDesc></castItem>
+        <castItem><role>Mercutio,</role>
+          <roleDesc>Verwandter des Prinzen und Romeos Freund</roleDesc></castItem>
+        <castItem><role>Benvolio,</role>
+          <roleDesc>Montagues Neffe und Romeos Freund</roleDesc></castItem>
+        <castItem><role>Tybalt,</role>
+          <roleDesc>Neffe der Gräfin Capulet</roleDesc></castItem>
+        <castItem><role>Ein alter Mann,</role>
+          <roleDesc>Capulets Oheim</roleDesc></castItem>
+        <castItem><role>Bruder Lorenzo,</role>
+          <roleDesc>ein Franziskaner</roleDesc></castItem>
+        <castItem><role>Bruder Marcus,</role>
+          <roleDesc>von demselben Orden</roleDesc></castItem>
+        <castItem><role>Balthasar,</role>
+          <roleDesc>Romeos Diener</roleDesc></castItem>
         <castGroup>
-          <castItem>Simson</castItem>
-          <castItem>Gregorio</castItem>
+          <castItem><role>Simson</role></castItem>
+          <castItem><role>Gregorio</role></castItem>
           <roleDesc>Bediente Capulets</roleDesc>
         </castGroup>
-        <castItem>Abraham, Bedienter Montagues</castItem>
-        <castItem>Peter</castItem>
-        <castItem>Drei Musikanten</castItem>
-        <castItem>Ein Page des Paris</castItem>
-        <castItem>Ein Offizier</castItem>
-        <castItem>Ein Apotheker</castItem>
-        <castItem>Gräfin Montague</castItem>
-        <castItem>Gräfin Capulet</castItem>
-        <castItem>Julia, Capulets Tochter</castItem>
-        <castItem>Juliens Amme</castItem>
-        <castItem>Bürger von Verona. Verschiedene Männer und Frauen, Verwandte beider Häuser.
-          Masken, Wachen und andres Gefolge.</castItem>
+        <castItem><role>Abraham,</role>
+          <roleDesc>Bedienter Montagues</roleDesc></castItem>
+        <castItem><role>Peter</role></castItem>
+        <castItem><role>Drei Musikanten</role></castItem>
+        <castItem><role>Ein Page des Paris</role></castItem>
+        <castItem><role>Ein Offizier</role></castItem>
+        <castItem><role>Ein Apotheker</role></castItem>
+        <castItem><role>Gräfin Montague</role></castItem>
+        <castItem><role>Gräfin Capulet</role></castItem>
+        <castItem><role>Julia,</role>
+          <roleDesc>Capulets Tochter</roleDesc></castItem>
+        <castItem><role>Juliens Amme</role></castItem>
+        <castItem><role>Bürger von Verona. Verschiedene Männer und Frauen, Verwandte beider Häuser.
+            Masken, Wachen und andres Gefolge.</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist den größten Teil des Stücks hindurch in Verona; zu Anfang des fünften

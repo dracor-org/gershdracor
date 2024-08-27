@@ -14,7 +14,7 @@ The corpus is released under the Creative Commons Zero copyright waiver ([CC0](h
 We have made many adjustments and improvements, which we document in more detail below.
 
 ## Main benefits of this corpus
-* Assignment of character IDs for all speaking instances, including groups and every secondary character.
+* Assignment of character IDs for all speaking instances, including groups and every secondary character (```particDesc```).
 * Assignment of Wikidata IDs to characters, if applicable (mythological, historical, fictional characters).
 
 The actual core of this digital edition is the introduction of character IDs, as is common in all DraCor corpora. This opens up possibilities for fine-grained digital analyses. It will be particularly useful for visualising and analysing the co-occurrence networks of the plays. Disambiguating all 1.497 characters was the most time-consuming part of the corpus work.
@@ -23,9 +23,10 @@ Although completed for the time being, the assignment of Wikidata IDs to charact
 
 ## Minor benefits
 * Page breaks adjusted.
-* Detailed bibliographic info.
+* Detailed bibliographic info added.
 * Reintegrated text parts lost in the TextGrid conversion.
 * Typos removed, especially regarding names.
+* Introduced ```<role>``` and ```<roleDesc>``` in ```<castList>```.
 
 It is important to emphasise that **this is not a critical edition**, but our attempt to optimise the existing digitised version of this corpus for computer-aided analysis using the tools of the digital humanities.
 
@@ -50,8 +51,5 @@ We have adopted this information, although the issue of translatorship in this c
 * Assignment of character IDs completed. End of beta phase.
 ### 26.08.2024
 * Assignment of Wikidata IDs to characters completed.
-
-## To Do
-* Introduce ```<role>``` and ```<roleDesc>``` in ```castList```.
-* Deletion of ```<lg>``` if a line group is only intended to demarcate character speeches. In this case, the additional ```<lg>``` markup is not needed, as every speech is already delimited with ```<sp>```. For poems and the like, ```<lg>``` will be retained.
-* Move ```<stage>``` outside of an ```<sp>``` element if the stage direction does not have the same line indentation as the speech text, but is centred.
+### 27.08.2024
+* Enrich ```<castList>``` with ```<role>``` and ```<roleDesc>```.

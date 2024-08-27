@@ -148,28 +148,38 @@
       <pb n="2"/>
       <castList>
         <head>Personen</head>
-        <castItem>Solinus, Herzog von Ephesus</castItem>
-        <castItem>Ägeon, ein Kaufmann aus Syrakus</castItem>
+        <castItem><role>Solinus,</role>
+          <roleDesc>Herzog von Ephesus</roleDesc></castItem>
+        <castItem><role>Ägeon,</role>
+          <roleDesc>ein Kaufmann aus Syrakus</roleDesc></castItem>
         <castGroup>
-          <castItem>Antipholus von Ephesus</castItem>
-          <castItem>Antipholus von Syrakus</castItem>
+          <castItem><role>Antipholus von Ephesus</role></castItem>
+          <castItem><role>Antipholus von Syrakus</role></castItem>
           <roleDesc>Zwillingsbrüder und Söhne des Ägeon</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Dromio von Ephesus</castItem>
-          <castItem>Dromio von Syrakus</castItem>
+          <castItem><role>Dromio von Ephesus</role></castItem>
+          <castItem><role>Dromio von Syrakus</role></castItem>
           <roleDesc>Zwillingsbrüder und Sklaven der beiden Antipholus</roleDesc>
         </castGroup>
-        <castItem>Balthasar, ein Kaufmann</castItem>
-        <castItem>Angelo, ein Goldschmied</castItem>
-        <castItem>Ein Kaufmann, Freund des Antipholus von Syrakus</castItem>
-        <castItem>Doktor Zwick, ein Schulmeister und Beschwörer</castItem>
-        <castItem>Ämilia, Frau des Ägeon, Äbtissin zu Ephesus</castItem>
-        <castItem>Adriana, Frau des Antipholus von Ephesus</castItem>
-        <castItem>Luciana, Schwester der Adriana</castItem>
-        <castItem>Lucie, Adrianens Kammermädchen</castItem>
-        <castItem>Eine Kurtisane</castItem>
-        <castItem>Kerkermeister, Gerichtsdiener und Gefolge</castItem>
+        <castItem><role>Balthasar,</role>
+          <roleDesc>ein Kaufmann</roleDesc></castItem>
+        <castItem><role>Angelo,</role>
+          <roleDesc>ein Goldschmied</roleDesc></castItem>
+        <castItem><role>Ein Kaufmann,</role>
+          <roleDesc>Freund des Antipholus von Syrakus</roleDesc></castItem>
+        <castItem><role>Doktor Zwick,</role>
+          <roleDesc>ein Schulmeister und Beschwörer</roleDesc></castItem>
+        <castItem><role>Ämilia,</role>
+          <roleDesc>Frau des Ägeon, Äbtissin zu Ephesus</roleDesc></castItem>
+        <castItem><role>Adriana,</role>
+          <roleDesc>Frau des Antipholus von Ephesus</roleDesc></castItem>
+        <castItem><role>Luciana,</role>
+          <roleDesc>Schwester der Adriana</roleDesc></castItem>
+        <castItem><role>Lucie,</role>
+          <roleDesc>Adrianens Kammermädchen</roleDesc></castItem>
+        <castItem><role>Eine Kurtisane</role></castItem>
+        <castItem><role>Kerkermeister, Gerichtsdiener und Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Ephesus</p>

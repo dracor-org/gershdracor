@@ -170,30 +170,37 @@
       <pb n="464"/>
       <castList>
         <head>Personen</head>
-        <castItem>Sir John Falstaff</castItem>
-        <castItem>Fenton</castItem>
-        <castItem>Schaal, Friedensrichter</castItem>
-        <castItem>Schmächtig, Schaals Vetter</castItem>
+        <castItem><role>Sir John Falstaff</role></castItem>
+        <castItem><role>Fenton</role></castItem>
+        <castItem><role>Schaal,</role>
+          <roleDesc>Friedensrichter</roleDesc></castItem>
+        <castItem><role>Schmächtig,</role>
+          <roleDesc>Schaals Vetter</roleDesc></castItem>
         <castGroup>
-          <castItem>Herr Page</castItem>
-          <castItem>Herr Fluth</castItem>
+          <castItem><role>Herr Page</role></castItem>
+          <castItem><role>Herr Fluth</role></castItem>
           <roleDesc>Bürger von Windsor</roleDesc>
         </castGroup>
-        <castItem>Sir Hugh Evans, ein wallisischer Pfarrer</castItem>
-        <castItem>Doktor Cajus</castItem>
-        <castItem>Der Wirt zum Hosenbande</castItem>
-        <castItem>Bardolph</castItem>
-        <castItem>Pistol</castItem>
-        <castItem>Nym</castItem>
-        <castItem>Robin, Falstaffs Page</castItem>
-        <castItem>Wilhelm, des Herrn Page kleiner Sohn</castItem>
-        <castItem>Simpel, Schmächtigs Diener</castItem>
-        <castItem>Rugby, Cajus' Diener</castItem>
-        <castItem>Frau Page</castItem>
-        <castItem>Frau Fluth</castItem>
-        <castItem>Jungfer Anne Page</castItem>
-        <castItem>Frau Hurtig</castItem>
-        <castItem>Knechte des Herrn Fluth</castItem>
+        <castItem><role>Sir Hugh Evans,</role>
+          <roleDesc>ein wallisischer Pfarrer</roleDesc></castItem>
+        <castItem><role>Doktor Cajus</role></castItem>
+        <castItem><role>Der Wirt zum Hosenbande</role></castItem>
+        <castItem><role>Bardolph</role></castItem>
+        <castItem><role>Pistol</role></castItem>
+        <castItem><role>Nym</role></castItem>
+        <castItem><role>Robin,</role>
+          <roleDesc>Falstaffs Page</roleDesc></castItem>
+        <castItem><role>Wilhelm,</role>
+          <roleDesc>des Herrn Page kleiner Sohn</roleDesc></castItem>
+        <castItem><role>Simpel,</role>
+          <roleDesc>Schmächtigs Diener</roleDesc></castItem>
+        <castItem><role>Rugby,</role>
+          <roleDesc>Cajus' Diener</roleDesc></castItem>
+        <castItem><role>Frau Page</role></castItem>
+        <castItem><role>Frau Fluth</role></castItem>
+        <castItem><role>Jungfer Anne Page</role></castItem>
+        <castItem><role>Frau Hurtig</role></castItem>
+        <castItem><role>Knechte des Herrn Fluth</role></castItem>
       </castList>
       <set>
         <p>Szene: Windsor und die umliegende Gegend</p>

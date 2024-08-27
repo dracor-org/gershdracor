@@ -236,54 +236,67 @@
       <pb n="387"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Heinrich V.</castItem>
+        <castItem><role>König Heinrich V.</role></castItem>
         <castGroup>
-          <castItem>Herzog von Gloster</castItem>
-          <castItem>Herzog von Bedford</castItem>
+          <castItem><role>Herzog von Gloster</role></castItem>
+          <castItem><role>Herzog von Bedford</role></castItem>
           <roleDesc>Brüder des Königs</roleDesc>
         </castGroup>
-        <castItem>Herzog von Exeter, Oheim des Königs</castItem>
-        <castItem>Herzog von York, Vetter des Königs</castItem>
-        <castItem>Graf von Salisbury</castItem>
-        <castItem>Graf von Westmoreland</castItem>
-        <castItem>Graf von Warwick</castItem>
-        <castItem>Erzbischof von Canterbury</castItem>
-        <castItem>Bischof von Ely</castItem>
+        <castItem><role>Herzog von Exeter,</role>
+          <roleDesc>Oheim des Königs</roleDesc></castItem>
+        <castItem><role>Herzog von York,</role>
+          <roleDesc>Vetter des Königs</roleDesc></castItem>
+        <castItem><role>Graf von Salisbury</role></castItem>
+        <castItem><role>Graf von Westmoreland</role></castItem>
+        <castItem><role>Graf von Warwick</role></castItem>
+        <castItem><role>Erzbischof von Canterbury</role></castItem>
+        <castItem><role>Bischof von Ely</role></castItem>
         <castGroup>
-          <castItem>Graf von Cambridge</castItem>
-          <castItem>Lord Scroop</castItem>
-          <castItem>Sir Thomas Grey</castItem>
+          <castItem><role>Graf von Cambridge</role></castItem>
+          <castItem><role>Lord Scroop</role></castItem>
+          <castItem><role>Sir Thomas Grey</role></castItem>
           <roleDesc>Verschworne gegen den König</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Sir Thomas Erpingham</castItem>
-          <castItem>Gower</castItem>
-          <castItem>Fluellen</castItem>
-          <castItem>Macmorris</castItem>
-          <castItem>Jamy</castItem>
+          <castItem><role>Sir Thomas Erpingham</role></castItem>
+          <castItem><role>Gower</role></castItem>
+          <castItem><role>Fluellen</role></castItem>
+          <castItem><role>Macmorris</role></castItem>
+          <castItem><role>Jamy</role></castItem>
           <roleDesc>Offiziere in Heinrichs Armee</roleDesc>
         </castGroup>
-        <castItem>Bates, Court, Williams, Soldaten in derselben</castItem>
-        <castItem>Nym, Bardolph, Pistol, ehemals Bediente Falstaffs, jetzt ebenfalls Soldaten in
-          derselben</castItem>
-        <castItem>Ein Bursch, der sie bedient</castItem>
-        <castItem>Karl VI., König von Frankreich</castItem>
-        <castItem>Louis, der Dauphin</castItem>
-        <castItem>Herzog von Burgund</castItem>
-        <castItem>Herzog von Orleans</castItem>
-        <castItem>Herzog von Bourbon</castItem>
-        <castItem>Der Connetable von Frankreich</castItem>
-        <castItem>Rambures und Grandpré, französische Edelleute</castItem>
+        <castItem><role>Bates, Court, Williams,</role>
+          <roleDesc>Soldaten in derselben</roleDesc></castItem>
+        <castItem><role>Nym, Bardolph, Pistol,</role>
+          <roleDesc>ehemals Bediente Falstaffs, jetzt ebenfalls Soldaten in
+          derselben</roleDesc></castItem>
+        <castItem><role>Ein Bursch,</role>
+          <roleDesc>der sie bedient</roleDesc></castItem>
+        <castItem><role>Karl VI.,</role>
+          <roleDesc>König von Frankreich</roleDesc></castItem>
+        <castItem><role>Louis,</role>
+          <roleDesc>der Dauphin</roleDesc></castItem>
+        <castItem><role>Herzog von Burgund</role></castItem>
+        <castItem><role>Herzog von Orleans</role></castItem>
+        <castItem><role>Herzog von Bourbon</role></castItem>
+        <castItem><role>Der Connetable von Frankreich</role></castItem>
+        <castItem><role>Rambures und Grandpré,</role>
+          <roleDesc>französische Edelleute</roleDesc></castItem>
         <pb n="388"/>
-        <castItem>Befehlshaber von Harfleur</castItem>
-        <castItem>Montjoye, ein französischer Herold</castItem>
-        <castItem>Gesandte an den König von England</castItem>
-        <castItem>Isabelle, Königin von Frankreich</castItem>
-        <castItem>Katharina, Tochter Karls und Isabellens</castItem>
-        <castItem>Alice, ein Fräulein im Gefolge der Prinzessin Katharina</castItem>
-        <castItem>Wirtin Hurtig, Pistols Frau</castItem>
-        <castItem>Herren und Frauen vom Adel, Offiziere, französische und englische Soldaten, Boten
-          und Gefolge</castItem>
+        <castItem><role>Befehlshaber von Harfleur</role></castItem>
+        <castItem><role>Montjoye,</role>
+          <roleDesc>ein französischer Herold</roleDesc></castItem>
+        <castItem><role>Gesandte an den König von England</role></castItem>
+        <castItem><role>Isabelle,</role>
+          <roleDesc>Königin von Frankreich</roleDesc></castItem>
+        <castItem><role>Katharina,</role>
+          <roleDesc>Tochter Karls und Isabellens</roleDesc></castItem>
+        <castItem><role>Alice,</role>
+          <roleDesc>ein Fräulein im Gefolge der Prinzessin Katharina</roleDesc></castItem>
+        <castItem><role>Wirtin Hurtig,</role>
+          <roleDesc>Pistols Frau</roleDesc></castItem>
+        <castItem><role>Herren und Frauen vom Adel, Offiziere, französische und englische Soldaten,
+            Boten und Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist anfangs in England, nachher ununterbrochen in Frankreich</p>

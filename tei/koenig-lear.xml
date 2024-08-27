@@ -194,31 +194,38 @@
       <pb n="498"/>
       <castList>
         <head>Personen</head>
-        <castItem>Lear, König von Britannien</castItem>
-        <castItem>König von Frankreich</castItem>
-        <castItem>Herzog von Burgund</castItem>
-        <castItem>Herzog von Cornwall</castItem>
-        <castItem>Herzog von Albanien</castItem>
-        <castItem>Graf von Gloster</castItem>
-        <castItem>Graf von Kent</castItem>
-        <castItem>Edgar, Glosters Sohn</castItem>
-        <castItem>Edmund, Glosters Bastard</castItem>
-        <castItem>Curan, ein Höfling</castItem>
-        <castItem>Ein Arzt</castItem>
-        <castItem>Der Narr</castItem>
-        <castItem>Oswald, Gonerils Haushofmeister</castItem>
-        <castItem>Ein Hauptmann</castItem>
-        <castItem>Ein Edelmann im Gefolge der Cordelia</castItem>
-        <castItem>Ein Herold</castItem>
-        <castItem>Ein alter Mann, Glosters Pachter</castItem>
-        <castItem>Bediente von Cornwall</castItem>
+        <castItem><role>Lear,</role>
+          <roleDesc>König von Britannien</roleDesc></castItem>
+        <castItem><role>König von Frankreich</role></castItem>
+        <castItem><role>Herzog von Burgund</role></castItem>
+        <castItem><role>Herzog von Cornwall</role></castItem>
+        <castItem><role>Herzog von Albanien</role></castItem>
+        <castItem><role>Graf von Gloster</role></castItem>
+        <castItem><role>Graf von Kent</role></castItem>
+        <castItem><role>Edgar,</role>
+          <roleDesc>Glosters Sohn</roleDesc></castItem>
+        <castItem><role>Edmund,</role>
+          <roleDesc>Glosters Bastard</roleDesc></castItem>
+        <castItem><role>Curan,</role>
+          <roleDesc>ein Höfling</roleDesc></castItem>
+        <castItem><role>Ein Arzt</role></castItem>
+        <castItem><role>Der Narr</role></castItem>
+        <castItem><role>Oswald,</role>
+          <roleDesc>Gonerils Haushofmeister</roleDesc></castItem>
+        <castItem><role>Ein Hauptmann</role></castItem>
+        <castItem><role>Ein Edelmann im Gefolge der Cordelia</role></castItem>
+        <castItem><role>Ein Herold</role></castItem>
+        <castItem><role>Ein alter Mann,</role>
+          <roleDesc>Glosters Pachter</roleDesc></castItem>
+        <castItem><role>Bediente von Cornwall</role></castItem>
         <castGroup>
-          <castItem>Goneril</castItem>
-          <castItem>Regan</castItem>
-          <castItem>Cordelia</castItem>
+          <castItem><role>Goneril</role></castItem>
+          <castItem><role>Regan</role></castItem>
+          <castItem><role>Cordelia</role></castItem>
           <roleDesc>Lears Töchter</roleDesc>
         </castGroup>
-        <castItem>Ritter im Gefolge des Königs, Offiziere, Boten, Soldaten und Gefolge</castItem>
+        <castItem><role>Ritter im Gefolge des Königs, Offiziere, Boten, Soldaten und
+          Gefolge</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist in Britannien</p>

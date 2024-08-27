@@ -254,61 +254,66 @@
       <pb n="181"/>
       <castList>
         <head>Personen</head>
-        <castItem>Julius Cäsar</castItem>
+        <castItem><role>Julius Cäsar</role></castItem>
         <castGroup>
-          <castItem>Octavius Cäsar</castItem>
-          <castItem>Marcus Antonius</castItem>
-          <castItem>M. Ämilius Lepidus</castItem>
+          <castItem><role>Octavius Cäsar</role></castItem>
+          <castItem><role>Marcus Antonius</role></castItem>
+          <castItem><role>M. Ämilius Lepidus</role></castItem>
           <roleDesc>Triumvirn nach dem Tode des Julius Cäsar</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Cicero</castItem>
-          <castItem>Publius</castItem>
-          <castItem>Popilius Lena</castItem>
+          <castItem><role>Cicero</role></castItem>
+          <castItem><role>Publius</role></castItem>
+          <castItem><role>Popilius Lena</role></castItem>
           <roleDesc>Senatoren</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Marcus Brutus</castItem>
-          <castItem>Cassius</castItem>
-          <castItem>Casca</castItem>
-          <castItem>Trebonius</castItem>
-          <castItem>Ligarius</castItem>
-          <castItem>Decius Brutus</castItem>
-          <castItem>Metellus Cimber</castItem>
-          <castItem>Cinna</castItem>
+          <castItem><role>Marcus Brutus</role></castItem>
+          <castItem><role>Cassius</role></castItem>
+          <castItem><role>Casca</role></castItem>
+          <castItem><role>Trebonius</role></castItem>
+          <castItem><role>Ligarius</role></castItem>
+          <castItem><role>Decius Brutus</role></castItem>
+          <castItem><role>Metellus Cimber</role></castItem>
+          <castItem><role>Cinna</role></castItem>
           <roleDesc>Verschworne gegen Julius Cäsar</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Flavius</castItem>
-          <castItem>Marullus</castItem>
+          <castItem><role>Flavius</role></castItem>
+          <castItem><role>Marullus</role></castItem>
           <roleDesc>Tribunen</roleDesc>
         </castGroup>
-        <castItem>Artemidorus, ein Sophist von Knidos</castItem>
-        <castItem>Ein Wahrsager</castItem>
-        <castItem>Cinna, ein Poet</castItem>
-        <castItem>Ein andrer Poet</castItem>
+        <castItem><role>Artemidorus,</role>
+          <roleDesc>ein Sophist von Knidos</roleDesc></castItem>
+        <castItem><role>Ein Wahrsager</role></castItem>
+        <castItem><role>Cinna,</role>
+          <roleDesc>ein Poet</roleDesc></castItem>
+        <castItem><role>Ein andrer Poet</role></castItem>
         <castGroup>
-          <castItem>Lucilius</castItem>
-          <castItem>Titinius</castItem>
-          <castItem>Messala</castItem>
-          <castItem>Der junge Cato</castItem>
-          <castItem>Volumnius</castItem>
+          <castItem><role>Lucilius</role></castItem>
+          <castItem><role>Titinius</role></castItem>
+          <castItem><role>Messala</role></castItem>
+          <castItem><role>Der junge Cato</role></castItem>
+          <castItem><role>Volumnius</role></castItem>
           <roleDesc>Freunde des Brutus und Cassius</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Varro</castItem>
-          <castItem>Clitus</castItem>
-          <castItem>Claudius</castItem>
-          <castItem>Strato</castItem>
-          <castItem>Lucius</castItem>
-          <castItem>Dardanius</castItem>
+          <castItem><role>Varro</role></castItem>
+          <castItem><role>Clitus</role></castItem>
+          <castItem><role>Claudius</role></castItem>
+          <castItem><role>Strato</role></castItem>
+          <castItem><role>Lucius</role></castItem>
+          <castItem><role>Dardanius</role></castItem>
           <roleDesc>Diener des Brutus</roleDesc>
         </castGroup>
         <pb n="182"/>
-        <castItem>Pindarus, Diener des Cassius</castItem>
-        <castItem>Calpurnia, Gemahlin des Cäsar</castItem>
-        <castItem>Portia, Gemahlin des Brutus</castItem>
-        <castItem>Senatoren, Bürger, Wache, Gefolge u.s.w.</castItem>
+        <castItem><role>Pindarus,</role>
+          <roleDesc>Diener des Cassius</roleDesc></castItem>
+        <castItem><role>Calpurnia,</role>
+          <roleDesc>Gemahlin des Cäsar</roleDesc></castItem>
+        <castItem><role>Portia,</role>
+          <roleDesc>Gemahlin des Brutus</roleDesc></castItem>
+        <castItem><role>Senatoren, Bürger, Wache, Gefolge u.s.w.</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist einen großen Teil des Stücks hindurch zu Rom, nachher zu Sardes und bei

@@ -156,10 +156,12 @@
           <person xml:id="moerder_iv-2" sex="MALE">
             <persName>Mörder (IV/2)</persName>
           </person>
-          <person xml:id="ein_englischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145681">
+          <person xml:id="ein_englischer_arzt" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q64145681">
             <persName>Ein englischer Arzt</persName>
           </person>
-          <person xml:id="ein_schottischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145683">
+          <person xml:id="ein_schottischer_arzt" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q64145683">
             <persName>Ein schottischer Arzt</persName>
           </person>
           <person xml:id="kammerfrau" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145684">
@@ -186,7 +188,8 @@
           <person xml:id="bote_v-5" sex="MALE">
             <persName>Ein Bote (V/5)</persName>
           </person>
-          <person xml:id="der_junge_siward" sex="MALE" ana="http://www.wikidata.org/entity/Q16205679">
+          <person xml:id="der_junge_siward" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q16205679">
             <persName>Der junge Siward</persName>
           </person>
         </listPerson>
@@ -222,39 +225,44 @@
       <pb n="606"/>
       <castList>
         <head>Personen</head>
-        <castItem>Duncan, König von Schottland</castItem>
+        <castItem><role>Duncan,</role>
+          <roleDesc>König von Schottland</roleDesc></castItem>
         <castGroup>
-          <castItem>Malcolm</castItem>
-          <castItem>Donalbain</castItem>
+          <castItem><role>Malcolm</role></castItem>
+          <castItem><role>Donalbain</role></castItem>
           <roleDesc>seine Söhne</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Macbeth</castItem>
-          <castItem>Banquo</castItem>
+          <castItem><role>Macbeth</role></castItem>
+          <castItem><role>Banquo</role></castItem>
           <roleDesc>Anführer des königlichen Heeres</roleDesc>
         </castGroup>
         <castGroup>
-          <castItem>Macduff</castItem>
-          <castItem>Lenox</castItem>
-          <castItem>Rosse</castItem>
-          <castItem>Menteth</castItem>
-          <castItem>Angus</castItem>
-          <castItem>Cathness</castItem>
+          <castItem><role>Macduff</role></castItem>
+          <castItem><role>Lenox</role></castItem>
+          <castItem><role>Rosse</role></castItem>
+          <castItem><role>Menteth</role></castItem>
+          <castItem><role>Angus</role></castItem>
+          <castItem><role>Cathness</role></castItem>
           <roleDesc>schottische Edle</roleDesc>
         </castGroup>
-        <castItem>Fleance, Banquos Sohn</castItem>
-        <castItem>Siward, Graf von Northumberland, Führer der englischen Truppen</castItem>
-        <castItem>Der junge Siward, sein Sohn</castItem>
-        <castItem>Seyton, ein Offizier in Macbeths Gefolge</castItem>
-        <castItem>Macduffs kleiner Sohn</castItem>
-        <castItem>Ein englischer Arzt und ein schottischer Arzt</castItem>
-        <castItem>Ein Soldat, ein Pförtner, ein alter Mann</castItem>
-        <castItem>Lady Macbeth</castItem>
-        <castItem>Lady Macduff</castItem>
-        <castItem>Eine Kammerfrau der Lady Macbeth</castItem>
-        <castItem>Hekate und drei Hexen</castItem>
-        <castItem>Lords, Edelleute, Anführer, Krieger, Mörder, Boten, Banquos Geist und andere
-          Erscheinungen</castItem>
+        <castItem><role>Fleance,</role>
+          <roleDesc>Banquos Sohn</roleDesc></castItem>
+        <castItem><role>Siward, Graf von Northumberland,</role>
+          <roleDesc>Führer der englischen Truppen</roleDesc></castItem>
+        <castItem><role>Der junge Siward,</role>
+          <roleDesc>sein Sohn</roleDesc></castItem>
+        <castItem><role>Seyton,</role>
+          <roleDesc>ein Offizier in Macbeths Gefolge</roleDesc></castItem>
+        <castItem><role>Macduffs kleiner Sohn</role></castItem>
+        <castItem><role>Ein englischer Arzt und ein schottischer Arzt</role></castItem>
+        <castItem><role>Ein Soldat, ein Pförtner, ein alter Mann</role></castItem>
+        <castItem><role>Lady Macbeth</role></castItem>
+        <castItem><role>Lady Macduff</role></castItem>
+        <castItem><role>Eine Kammerfrau der Lady Macbeth</role></castItem>
+        <castItem><role>Hekate und drei Hexen</role></castItem>
+        <castItem><role>Lords, Edelleute, Anführer, Krieger, Mörder, Boten, Banquos Geist und andere
+            Erscheinungen</role></castItem>
       </castList>
       <set>
         <p>Szene: Schottland. Zu Ende des vierten Aufzugs: England</p>

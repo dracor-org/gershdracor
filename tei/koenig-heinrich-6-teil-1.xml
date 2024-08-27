@@ -279,49 +279,63 @@
       <pb n="495"/>
       <castList>
         <head>Personen</head>
-        <castItem>König Heinrich VI.</castItem>
-        <castItem>Herzog von Gloster, Oheim des Königs und Protektor</castItem>
-        <castItem>Herzog von Bedford, Oheim des Königs und Regent von Frankreich</castItem>
-        <castItem>Thomas Beaufort, Herzog von Exeter, Großoheim des Königs</castItem>
-        <castItem>Heinrich Beaufort, Großoheim des Königs, Bischof von Winchester und nachmals
-          Kardinal</castItem>
-        <castItem>Johann Beaufort, Graf von Somerset, nachmals Herzog</castItem>
-        <castItem>Richard Plantagenet, ältester Sohn des hingerichteten Grafen von Cambridge,
-          nachmals Herzog von York</castItem>
-        <castItem>Graf von Warwick</castItem>
-        <castItem>Graf von Salisbury</castItem>
-        <castItem>Graf von Suffolk</castItem>
-        <castItem>Lord Talbot, nachmals Graf von Shrewsbury</castItem>
-        <castItem>Johann Talbot, sein Sohn</castItem>
-        <castItem>Edmund Mortimer, Graf von March</castItem>
-        <castItem>Mortimers Gefangenwarter</castItem>
-        <castItem>Ein Rechtsgelehrter</castItem>
-        <castItem>Sir John Fastolfe</castItem>
-        <castItem>Sir William Lucy</castItem>
-        <castItem>Sir William Glansdale</castItem>
-        <castItem>Sir Thomas Gargrave</castItem>
-        <castItem>Schultheiß von London</castItem>
-        <castItem>Woodville, Kommandant des Turmes</castItem>
-        <castItem>Vernon</castItem>
-        <castItem>Basset</castItem>
-        <castItem>Karl, Dauphin, nachmaliger König von Frankreich</castItem>
-        <castItem>Reignier, Herzog von Anjou und Titular-König von Neapel</castItem>
-        <castItem>Herzog von Burgund</castItem>
-        <castItem>Herzog von Alençon</castItem>
-        <castItem>Der Statthalter von Paris</castItem>
-        <castItem>Bastard von Orleans</castItem>
+        <castItem><role>König Heinrich VI.</role></castItem>
+        <castItem><role>Herzog von Gloster,</role>
+          <roleDesc>Oheim des Königs und Protektor</roleDesc></castItem>
+        <castItem><role>Herzog von Bedford,</role>
+          <roleDesc>Oheim des Königs und Regent von Frankreich</roleDesc></castItem>
+        <castItem><role>Thomas Beaufort, Herzog von Exeter,</role>
+          <roleDesc>Großoheim des Königs</roleDesc></castItem>
+        <castItem><role>Heinrich Beaufort,</role>
+          <roleDesc>Großoheim des Königs, Bischof von Winchester und nachmals
+          Kardinal</roleDesc></castItem>
+        <castItem><role>Johann Beaufort, Graf von Somerset,</role>
+          <roleDesc>nachmals Herzog</roleDesc></castItem>
+        <castItem><role>Richard Plantagenet,</role>
+          <roleDesc>ältester Sohn des hingerichteten Grafen von Cambridge, nachmals Herzog von
+            York</roleDesc></castItem>
+        <castItem><role>Graf von Warwick</role></castItem>
+        <castItem><role>Graf von Salisbury</role></castItem>
+        <castItem><role>Graf von Suffolk</role></castItem>
+        <castItem><role>Lord Talbot,</role>
+          <roleDesc>nachmals Graf von Shrewsbury</roleDesc></castItem>
+        <castItem><role>Johann Talbot,</role>
+          <roleDesc>sein Sohn</roleDesc></castItem>
+        <castItem><role>Edmund Mortimer, Graf von March</role></castItem>
+        <castItem><role>Mortimers Gefangenwärter</role></castItem>
+        <castItem><role>Ein Rechtsgelehrter</role></castItem>
+        <castItem><role>Sir John Fastolfe</role></castItem>
+        <castItem><role>Sir William Lucy</role></castItem>
+        <castItem><role>Sir William Glansdale</role></castItem>
+        <castItem><role>Sir Thomas Gargrave</role></castItem>
+        <castItem><role>Schultheiß von London</role></castItem>
+        <castItem><role>Woodville,</role>
+          <roleDesc>Kommandant des Turmes</roleDesc></castItem>
+        <castItem><role>Vernon</role></castItem>
+        <castItem><role>Basset</role></castItem>
+        <castItem><role>Karl,</role>
+          <roleDesc>Dauphin, nachmaliger König von Frankreich</roleDesc></castItem>
+        <castItem><role>Reignier,</role>
+          <roleDesc>Herzog von Anjou und Titular-König von Neapel</roleDesc></castItem>
+        <castItem><role>Herzog von Burgund</role></castItem>
+        <castItem><role>Herzog von Alençon</role></castItem>
+        <castItem><role>Der Statthalter von Paris</role></castItem>
+        <castItem><role>Bastard von Orleans</role></castItem>
         <pb n="496"/>
-        <castItem>Der Büchsenmeister von Orleans und sein Sohn</castItem>
-        <castItem>Der General der französischen Truppen in Bordeaux</castItem>
-        <castItem>Ein französischer Sergeant</castItem>
-        <castItem>Ein Torwärter</castItem>
-        <castItem>Ein alter Schäfer, Vater der Pucelle</castItem>
-        <castItem>Margareta, Reigniers Tochter</castItem>
-        <castItem>Gräfin von Auvergne</castItem>
-        <castItem>Jeanne d'Arc, genannt La Pucelle</castItem>
-        <castItem>Böse Geister, die der Pucelle erscheinen, Herren von Adel, Wächter des Turmes,
-          Herolde, Offiziere, Soldaten, Boten und Gefolge sowohl der englischen als französischen
-          Herrscharten</castItem>
+        <castItem><role>Der Büchsenmeister von Orleans und sein Sohn</role></castItem>
+        <castItem><role>Der General der französischen Truppen in Bordeaux</role></castItem>
+        <castItem><role>Ein französischer Sergeant</role></castItem>
+        <castItem><role>Ein Torwärter</role></castItem>
+        <castItem><role>Ein alter Schäfer,</role>
+          <roleDesc>Vater der Pucelle</roleDesc></castItem>
+        <castItem><role>Margareta,</role>
+          <roleDesc>Reigniers Tochter</roleDesc></castItem>
+        <castItem><role>Gräfin von Auvergne</role></castItem>
+        <castItem><role>Jeanne d'Arc,</role>
+          <roleDesc>genannt La Pucelle</roleDesc></castItem>
+        <castItem><role>Böse Geister, die der Pucelle erscheinen, Herren von Adel, Wächter des
+            Turmes, Herolde, Offiziere, Soldaten, Boten und Gefolge sowohl der englischen als
+            französischen Herrscharten</role></castItem>
       </castList>
       <set>
         <p>Die Szene ist teils in England, teils in Frankreich</p>

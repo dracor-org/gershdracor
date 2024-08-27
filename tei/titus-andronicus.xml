@@ -178,36 +178,48 @@
       <pb n="6"/>
       <castList>
         <head>Personen</head>
-        <castItem>Saturninus, Sohn des letzten römischen Kaisern, späterhin selbst Kaiser</castItem>
-        <castItem>Bassianus, dessen Bruder, Liebhaber der Lavinia</castItem>
-        <castItem>Titus Andronicus, ein edler Kölner und Heerführer wider die Goten</castItem>
-        <castItem>Marcus Andronicus, Volkstribun, des Titus Bruder</castItem>
+        <castItem><role>Saturninus,</role>
+          <roleDesc>Sohn des letzten römischen Kaisern, späterhin selbst
+          Kaiser</roleDesc></castItem>
+        <castItem><role>Bassianus,</role>
+          <roleDesc>dessen Bruder, Liebhaber der Lavinia</roleDesc></castItem>
+        <castItem><role>Titus Andronicus,</role>
+          <roleDesc>ein edler Kölner und Heerführer wider die Goten</roleDesc></castItem>
+        <castItem><role>Marcus Andronicus,</role>
+          <roleDesc>Volkstribun, des Titus Bruder</roleDesc></castItem>
         <castGroup>
-          <castItem>Lucius</castItem>
-          <castItem>Quintus</castItem>
-          <castItem>Mutius</castItem>
-          <castItem>Marcius</castItem>
+          <castItem><role>Lucius</role></castItem>
+          <castItem><role>Quintus</role></castItem>
+          <castItem><role>Mutius</role></castItem>
+          <castItem><role>Marcius</role></castItem>
           <roleDesc>Söhne des Titus Andronicus</roleDesc>
         </castGroup>
-        <castItem>Der jüngere Lucius, Lucius' Sohn. Titus' Enkel</castItem>
-        <castItem>Publius, Sohn des Marcus Andronicus</castItem>
-        <castItem>Ämilius, römischer Patrizier</castItem>
+        <castItem><role>Der jüngere Lucius,</role>
+          <roleDesc>Lucius' Sohn, Titus' Enkel</roleDesc></castItem>
+        <castItem><role>Publius,</role>
+          <roleDesc>Sohn des Marcus Andronicus</roleDesc></castItem>
+        <castItem><role>Ämilius,</role>
+          <roleDesc>römischer Patrizier</roleDesc></castItem>
         <castGroup>
-          <castItem>Alarbus</castItem>
-          <castItem>Chiron</castItem>
-          <castItem>Demetrius</castItem>
+          <castItem><role>Alarbus</role></castItem>
+          <castItem><role>Chiron</role></castItem>
+          <castItem><role>Demetrius</role></castItem>
           <roleDesc>Söhne der Tamora</roleDesc>
         </castGroup>
-        <castItem>Aaron, ein Mohr, Tamoras Geliebter</castItem>
-        <castItem>Ein Hauptmann</castItem>
-        <castItem>Ein Tribun</castItem>
-        <castItem>Ein Bote</castItem>
-        <castItem>Ein Bauer</castItem>
-        <castItem>Tamora, Königin der Goten</castItem>
-        <castItem>Lavinia, Tochter des Titus Andronicus</castItem>
-        <castItem>Eine Wärterin</castItem>
-        <castItem>Ein Mohrenkind</castItem>
-        <castItem>Senatoren, Tribunen, Gerichtsdiener, Kriegsleute und andres Gefolge</castItem>
+        <castItem><role>Aaron,</role>
+          <roleDesc>ein Mohr, Tamoras Geliebter</roleDesc></castItem>
+        <castItem><role>Ein Hauptmann</role></castItem>
+        <castItem><role>Ein Tribun</role></castItem>
+        <castItem><role>Ein Bote</role></castItem>
+        <castItem><role>Ein Bauer</role></castItem>
+        <castItem><role>Tamora,</role>
+          <roleDesc>Königin der Goten</roleDesc></castItem>
+        <castItem><role>Lavinia,</role>
+          <roleDesc>Tochter des Titus Andronicus</roleDesc></castItem>
+        <castItem><role>Eine Wärterin</role></castItem>
+        <castItem><role>Ein Mohrenkind</role></castItem>
+        <castItem><role>Senatoren, Tribunen, Gerichtsdiener, Kriegsleute und andres
+          Gefolge</role></castItem>
       </castList>
       <set>
         <p>Szene: Rom und die umliegende Gegend</p>
