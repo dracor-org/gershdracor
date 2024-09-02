@@ -24,6 +24,10 @@
           <idno type="wikidata">Q215699</idno>
           <idno type="pnd">118507206</idno>
         </author>
+        <respStmt>
+          <resp>This digital edition was prepared by</resp>
+          <name ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
