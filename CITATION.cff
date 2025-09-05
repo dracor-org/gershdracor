@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  German Shakespeare Drama Corpus (GerShDraCor):
+  Shakespeare's plays in their German translations, edited
+  by Friedrich Schlegel and Ludwig Tieck
+message: 'If you use this corpus, please cite it as below.'
+type: dataset
+authors:
+  - given-names: Frank
+    family-names: Fischer
+    email: fr.fischer@fu-berlin.de
+    affiliation: Freie Universität Berlin
+    orcid: 'https://orcid.org/0000-0003-2419-6629'
+identifiers:
+  - type: url
+    value: 'https://github.com/dracor-org/gershdracor'
+url: 'https://dracor.org/gersh'
+abstract: >-
+  This TEI-encoded corpus contains all 37 of Shakespeare's
+  plays in their German translations, edited by Schlegel and
+  Tieck, in the edition published by Aufbau-Verlag
+  Berlin/Weimar (3rd edition 1975), which is based on the
+  last edition published during Schlegel's lifetime (3rd
+  edition 1843/44). The digitised print edition was obtained
+  from TextGrid Repository, which in turn is a TEI
+  conversion of the Zeno.org digitisation. This collection
+  provided an additional play (»Die beiden edlen Vettern«)
+  that Shakespeare is now considered to have co-authored.
+  Explore the corpus in the DraCor frontend:
+  https://dracor.org/gersh
+keywords:
+  - William Shakespeare
+  - August Wilhelm Schlegel
+  - Ludwig Tieck
+  - Wolf Heinrich von Baudissin
+  - Dorothea Tieck
+  - Plays
+  - German translation
+  - Text Encoding Initiative
+  - TEI
+license: CC0-1.0
+date-released: '2021-10-21'
