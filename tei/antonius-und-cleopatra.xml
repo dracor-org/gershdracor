@@ -308,8 +308,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000001"
-        passive="http://www.wikidata.org/entity/Q606830"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000001" passive="http://www.wikidata.org/entity/Q606830"/>
     </listRelation>
   </standOff>
   <text>
@@ -3536,8 +3535,7 @@
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <p>Der nicht, der selbst nicht so ist; und das ist Marc Anton. Sein ägyptisches Mahl
-              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb
-                n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
+              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
               unmittelbare Veranlassung ihrer Entzweiung werden. Antonius wird seine Liebe zeigen,
               wo sie ist; hier hat er nur seinen Vorteil geheiratet. –</p>
           </sp>

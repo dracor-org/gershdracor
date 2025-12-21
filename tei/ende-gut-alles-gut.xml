@@ -164,8 +164,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000013"
-        passive="http://www.wikidata.org/entity/Q506865"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000013" passive="http://www.wikidata.org/entity/Q506865"/>
     </listRelation>
   </standOff>
   <text>
@@ -6071,8 +6070,7 @@
             <speaker>KÖNIG</speaker>
             <stage>liest.</stage>
             <p>- »Auf seine vielen Beteurungen, mich zu heiraten, wenn seine Gattin tot wäre – ich
-              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb
-                n="202"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
+              erröte, es zu sagen –, gewann er mich. Jetzt ist der Graf Roussillon ein Witwer, <pb n="202"/> seine Gelübde sind mir verfallen, und ich habe ihn mit meiner Ehre
               bezahlt. Er verließ Florenz heimlich, ohne Abschied zu nehmen, und ich folge ihm in
               sein Vaterland, um Recht zu finden. Gewährt es mir, o König: es steht völlig bei Euch;
               sonst triumphiert ein Verführer, und ein armes Mädchen ist verloren.</p>

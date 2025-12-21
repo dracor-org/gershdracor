@@ -47,8 +47,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Othello</title>. In: <title
-              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Othello</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
@@ -164,8 +163,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000030"
-        passive="http://www.wikidata.org/entity/Q26833"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000030" passive="http://www.wikidata.org/entity/Q26833"/>
     </listRelation>
   </standOff>
   <text>
@@ -1328,8 +1326,7 @@
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <p>Der Türke segelt mit gewaltiger Kriegsrüstung gegen Cypern. Othello, Euch ist die
-              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb
-                n="407"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
+              Festigkeit des Orts am besten bekannt, und obgleich wir dort einen Statthalter <pb n="407"/> von unbestrittner Fähigkeit besitzen, so hegt doch die öffentliche
               Meinung, jene unbeschränkte Gebieterin des Erfolgs, eine größere Zuversicht zu Euch.
               Ihr müßt Euch deshalb gefallen lassen, den Glanz Eures neuen Glücks durch diese rauhe
               und stürmische Unternehmung zu verdunkeln.</p>

@@ -49,8 +49,7 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">Die lustigen Weiber von
               Windsor</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
-              >1</biblScope>: Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>: Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
             <date>1975</date>, S. <biblScope unit="page" from="463" to="552">463–552</biblScope>.
           </bibl>
@@ -158,8 +157,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000011"
-        passive="http://www.wikidata.org/entity/Q844836"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000011" passive="http://www.wikidata.org/entity/Q844836"/>
     </listRelation>
   </standOff>
   <text>
@@ -1362,8 +1360,7 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Wißt Ihr das auch schon? Ja, wahrhaftig, eine tüchtige Last, und dabei früh auf sein
-              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb
-                n="481"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
+              und spät zu Bett; – aber mit alle dem (ich sage Euch das ins Ohr, ich möchte <pb n="481"/> nicht viel Gerede davon haben), – mein Herr ist selbst verliebt in Jungfer
               Anne Page; – aber mit alle dem, – ich weiß, wie Annchen denkt; es ist weder hier noch
               dort was.</p>
           </sp>
@@ -1509,8 +1506,7 @@
             <p>Welch ein Herodes von Judäa das ist! O gottlose, gottlose Welt! – Ist er doch schon
               vom Alter fast ganz aufgetragen und gebärdet sich wie ein junger Liebhaber! Welch
               unbedachtes Betragen hat denn mit des Teufels Beistand dieser flämische Trunkenbold
-              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb
-                n="484"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
+              aus meinem Gespräch aufgeschnappt, daß er sich auf diese Weise an mich wagen darf? <pb n="484"/> Wahrhaftig, er ist kaum dreimal in meiner Gesellschaft gewesen! – Was
               sollt' ich ihm sagen? Ich war doch damals sparsam mit meiner Lustigkeit; der Himmel
               verzeihe mir's! – Wahrhaftig, ich will auf eine Akte im Parlament antragen, um alle
               Männer abzuschaffen. Wie soll ich mich an ihm rächen? Denn rächen will ich mich, so
@@ -1695,8 +1691,7 @@
             <p>Und dies ist wahr; der Humor des Lügens ist mir zuwider. Er hat mich in gewissen
               Humoren beleidigt: ich habe einen Degen, und der muß die Zähne zeigen, wann's not tut.
               Er liebt Euer Weib, das ist das Kurze und das Lange. Mein Nam' ist Korporal Nym; ich
-              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb
-                n="487"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
+              rede und agnosziere: 's ist wahr; mein Nam' ist Nym', und Falstaff liebt Euer <pb n="487"/> Weib. – Lebt wohl! Ich hasse den Humor von Brot und Käse, und das ist der
               Humor davon. Lebt wohl! <stage>Nym geht ab.</stage>
             </p>
           </sp>
@@ -4244,8 +4239,7 @@
           <sp who="#frau_hurtig">
             <speaker>FRAU HURTIG.</speaker>
             <p>Schlimm genug mit der Geschichte vom ersten Fall; muß der Junge auch noch von einem
-              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb
-                n="526"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
+              zweiten hören? Und was heißt das, wenn Ihr sprecht, so'n Fall geh' nit tief? <pb n="526"/> – Und erzählt ihm da von Huren und von ihren Haaren und Ohren?</p>
           </sp>
           <sp who="#evans">
             <speaker>EVANS.</speaker>
@@ -5803,8 +5797,7 @@
           <sp who="#fluth">
             <speaker>FLUTH.</speaker>
             <p>Ich dächte, Sir, wir führten Euch nach Windsor zu einem gewissen Herrn Bach, den Ihr
-              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb
-                n="550"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
+              um sein Geld geprellt habt, und dem Ihr einen Kupplerdienst verspracht. Nach <pb n="550"/> allem, was Ihr bisher ausgestanden habt, wird die Rückzahlung des Geldes
               Euch noch der bitterste Schmerz sein.</p>
           </sp>
           <sp who="#page">

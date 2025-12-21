@@ -146,8 +146,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000027"
-        passive="http://www.wikidata.org/entity/Q128610"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000027" passive="http://www.wikidata.org/entity/Q128610"/>
     </listRelation>
   </standOff>
   <text>
@@ -1145,8 +1144,7 @@
           <sp who="#armado">
             <speaker>ARMADO.</speaker>
             <p>Ich will diesen Gegenstand von neuem bearbeiten lassen, damit ich ein Beispiel habe
-              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb
-                n="235"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
+              für meine Abirrung an einem erhabenen Vorgänger. Knabe, ich liebe das Landmädchen, <pb n="235"/> welches ich im Park mit dem vernunftbegabten Tiere Schädel ergriff; sie
               kann Ansprüche machen ...</p>
           </sp>
           <sp who="#motte">
@@ -4087,8 +4085,7 @@
           <sp who="#schaedel">
             <speaker>SCHÄDEL.</speaker>
             <p>Oh, sie zehren schon lange aus dem Almosenkorb der Worte. Mich wundert, daß dein Herr
-              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb
-                n="276"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
+              dich nicht schon als ein Wort aufgegessen hat; denn du bist von Kopf zu Fuß <pb n="276"/> noch nicht so lang als honorificabilitudinitatibus: man schlingt dich
               leichter hinunter als ein Mandelschiffchen.</p>
           </sp>
           <sp who="#motte">

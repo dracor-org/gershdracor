@@ -46,8 +46,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Julius Cäsar</title>. In: <title
-              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Julius Cäsar</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
@@ -241,8 +240,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000015"
-        passive="http://www.wikidata.org/entity/Q215750"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000015" passive="http://www.wikidata.org/entity/Q215750"/>
     </listRelation>
   </standOff>
   <text>

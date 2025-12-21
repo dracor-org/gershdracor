@@ -160,8 +160,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000005"
-        passive="http://www.wikidata.org/entity/Q206400"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000005" passive="http://www.wikidata.org/entity/Q206400"/>
     </listRelation>
   </standOff>
   <text>
@@ -1284,8 +1283,7 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Schlagt Euch rechter Hand an der nächsten Ecke, aber bei der allernächsten Ecke
-              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb
-                n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
+              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
               herum.</p>
           </sp>
           <sp who="#gobbo">

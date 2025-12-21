@@ -47,8 +47,7 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">Perikles. Fürst von
             Tyrus</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
-              >2</biblScope>: Komödien. Poetische Werke. <edition>3. Auflage</edition>.
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische Werke. <edition>3. Auflage</edition>.
               <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
               <publisher>Aufbau-Verlag</publisher>
             <date>1975</date>, S. <biblScope unit="page" from="301" to="379">301–379</biblScope>.
@@ -246,8 +245,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000031"
-        passive="http://www.wikidata.org/entity/Q584729"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000031" passive="http://www.wikidata.org/entity/Q584729"/>
     </listRelation>
   </standOff>
   <text>

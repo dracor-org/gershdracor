@@ -158,8 +158,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000036"
-        passive="http://www.wikidata.org/entity/Q130851"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000036" passive="http://www.wikidata.org/entity/Q130851"/>
     </listRelation>
   </standOff>
   <text>
@@ -746,8 +745,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>Gut, andre Zeiten, andre Gedanken. Für jetzt, lieber Signor Benedikt, geht hinein zu
-              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="563"
-              /> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
+              Leonato, empfehlt mich ihm und sagt ihm, ich werde mich zum Abendessen bei <pb n="563"/> ihm einfinden; denn wie ich höre, macht er große Zurüstungen.</p>
           </sp>
           <sp who="#benedikt">
             <speaker>BENEDIKT.</speaker>
@@ -1626,8 +1624,7 @@
           <sp who="#don_pedro">
             <speaker>DON PEDRO.</speaker>
             <p>In Wahrheit, Fräulein, diese heraldische Auslegung trifft zu; obgleich ich schwören
-              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb
-                n="577"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
+              kann, daß, wenn dies der Fall ist, sein Argwohn im Irrtum sei. Sieh, Claudio, ich <pb n="577"/> warb in deinem Namen, und die schöne Hero ist gewonnen; ich hielt bei
               ihrem Vater an und habe seine Einwilligung erhalten. Bestimme jetzt deinen
               Hochzeitstag, und Gott schenke dir seinen Segen!</p>
           </sp>
@@ -2059,8 +2056,7 @@
             <speaker>BENEDIKT</speaker>
             <stage>beiseit.</stage>
             <p>Wär's ein Hund gewesen, der so geheult hätte, sie hätten ihn aufgehängt. Nun, Gott
-              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb
-                n="584"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
+              gebe, daß seine heisre Stimme kein Unglück bedeute! – Ich hätte ebenso gern den <pb n="584"/> Nachtraben gehört, wäre auch alles erdenkliche Unglück danach erfolgt.</p>
           </sp>
           <sp who="#don_pedro">
             <speaker>DON PEDRO</speaker>
@@ -3313,8 +3309,7 @@
           <sp who="#margareta">
             <speaker>MARGARETA.</speaker>
             <p>Euren neuen Aufsatz finde ich allerliebst, wenn das Haar nur um einen Gedanken
-              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb
-                n="602"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
+              brauner wäre; und Euer Kleid ist nach der geschmackvollsten Mode, das ist gewiß. <pb n="602"/> Ich habe das Kleid der Herzogin von Mailand gesehn, von dem man so viel
               Wesens macht.</p>
           </sp>
           <sp who="#hero">

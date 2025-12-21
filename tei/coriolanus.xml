@@ -45,8 +45,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Coriolanus</title>. In: <title
-              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Coriolanus</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
@@ -76,8 +75,7 @@
           <person xml:id="menenius" sex="MALE" ana="http://www.wikidata.org/entity/Q396971">
             <persName>Menenius Agrippa</persName>
           </person>
-          <person xml:id="marcius_coriolanus" sex="MALE"
-            ana="http://www.wikidata.org/entity/Q570532">
+          <person xml:id="marcius_coriolanus" sex="MALE" ana="http://www.wikidata.org/entity/Q570532">
             <persName>Cajus Marcius Coriolanus</persName>
           </person>
           <person xml:id="bote_i-1" sex="MALE">
@@ -376,8 +374,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000002"
-        passive="http://www.wikidata.org/entity/Q463126"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000002" passive="http://www.wikidata.org/entity/Q463126"/>
     </listRelation>
   </standOff>
   <text>
@@ -548,8 +545,7 @@
           <sp who="#erster_buerger_i-1">
             <speaker>ERSTER BÜRGER.</speaker>
             <p>Unsre Sache ist dem Senat nicht unbekannt; sie haben davon munkeln hören seit
-              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="801"
-              /> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
+              vierzehn Tagen, was wir vorhaben, und das wollen wir ihnen nun durch Taten <pb n="801"/> zeigen. Sie sagen, arme Klienten haben schlimmen Atem: sie sollen erfahren, daß wir
               auch schlimme Arme haben.</p>
           </sp>
           <sp who="#menenius">

@@ -195,8 +195,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000004"
-        passive="http://www.wikidata.org/entity/Q743194"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000004" passive="http://www.wikidata.org/entity/Q743194"/>
     </listRelation>
   </standOff>
   <text>
@@ -6208,8 +6207,7 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich dachte es wohl, daß sie dort etwas Wichtiges vor habe, denn seit Hermiones Tode
-              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"
-              /> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
+              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
           </sp>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>

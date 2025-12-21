@@ -48,8 +48,7 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">König Heinrich IV. Erster
               Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
-              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
             <date>1975</date>, S. <biblScope unit="page" from="179" to="275">179–275</biblScope>.
           </bibl>
@@ -187,8 +186,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000016"
-        passive="http://www.wikidata.org/entity/Q631855"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000016" passive="http://www.wikidata.org/entity/Q631855"/>
     </listRelation>
   </standOff>
   <text>
@@ -1817,8 +1815,7 @@
               jetzt bei dem Schurken wäre, so könnte ich ihm mit seiner Frauen Fächer den Kopf
               einschlagen. Ist nicht mein Vater, mein Oheim und ich selbst dabei? Lord Edmund
               Mortimer, der Erzbischof von York und Owen Glendower? Ist nicht endlich der Douglas
-              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb
-                n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
+              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
               ausgerückt? Was ist das für ein ungläubiger Schurke? Ein Heide! Ha, ihr sollt nun
               sehen, aus wahrer, aufrichtiger Furcht und Engherzigkeit wird er zum Könige gehn und
               ihm alle unsre Anstalten vorlegen. Oh, ich könnte mich zerteilen und mir Maulschellen

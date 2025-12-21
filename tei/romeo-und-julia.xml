@@ -86,15 +86,13 @@
           <person xml:id="capulet" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="graefin_capulet" sex="FEMALE"
-            ana="http://www.wikidata.org/entity/Q63882427">
+          <person xml:id="graefin_capulet" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Gräfin Capulet</persName>
           </person>
           <person xml:id="montague" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="graefin_montague" sex="FEMALE"
-            ana="http://www.wikidata.org/entity/Q63882426">
+          <person xml:id="graefin_montague" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Gräfin Montague</persName>
           </person>
           <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
@@ -204,8 +202,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000032"
-        passive="http://www.wikidata.org/entity/Q83186"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000032" passive="http://www.wikidata.org/entity/Q83186"/>
     </listRelation>
   </standOff>
   <text>
@@ -2749,8 +2746,7 @@
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Ach, der arme Romeo! Er ist ja schon tot! durchbohrt von einer weißen Dirne schwarzem
-              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="118"
-              /> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
+              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="118"/> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
               Mann darnach, es mit dem Tybalt aufzunehmen?</p>
           </sp>
           <sp who="#benvolio">

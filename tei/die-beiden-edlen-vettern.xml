@@ -56,9 +56,7 @@
           <bibl type="originalSource">
             <author>John Fletcher (und [Philip] Massinger)</author>: <title level="a">Die beiden
               edlen Vettern</title>. In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit.
-              Zwölf Dramen seiner Zeitgenossen.</title> Uebersetzt von <editor role="translator"
-              >F[erdinand] A[dolph] Gelbcke</editor>. Mit Einleitungen von <editor role="preface"
-              >Robert Boyle</editor>. <biblScope unit="volume">Dritter Theil</biblScope>.
+              Zwölf Dramen seiner Zeitgenossen.</title> Uebersetzt von <editor role="translator">F[erdinand] A[dolph] Gelbcke</editor>. Mit Einleitungen von <editor role="preface">Robert Boyle</editor>. <biblScope unit="volume">Dritter Theil</biblScope>.
               <pubPlace>Leipzig</pubPlace>: <publisher>F.A. Brockhaus</publisher>
             <date>1890</date>, S. <biblScope unit="page" from="1" to="105">1–105</biblScope>.
           </bibl>
@@ -210,8 +208,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000038"
-        passive="http://www.wikidata.org/entity/Q53590"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000038" passive="http://www.wikidata.org/entity/Q53590"/>
     </listRelation>
   </standOff>
   <text>

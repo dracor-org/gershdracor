@@ -46,8 +46,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">König Johann</title>. In: <title
-              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">König Johann</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
@@ -168,8 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000023"
-        passive="http://www.wikidata.org/entity/Q661222"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000023" passive="http://www.wikidata.org/entity/Q661222"/>
     </listRelation>
   </standOff>
   <text>
