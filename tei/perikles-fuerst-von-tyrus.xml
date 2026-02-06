@@ -23,8 +23,8 @@
           <idno type="pnd">12989432X</idno>
         </author>
         <respStmt>
-          <resp>This digital edition was prepared by</resp>
-          <name ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</name>
+          <resp when="2021-10-21">This digital edition was prepared by</resp>
+          <persName ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</persName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
