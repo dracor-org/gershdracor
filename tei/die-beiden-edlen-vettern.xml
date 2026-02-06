@@ -55,15 +55,15 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <author>John Fletcher (und [Philip] Massinger)</author>: <title level="a">Die beiden
-              edlen Vettern</title>. In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit.
-              Zwölf Dramen seiner Zeitgenossen.</title> Uebersetzt von <editor role="translator"
-              >F[erdinand] A[dolph] Gelbcke</editor>. Mit Einleitungen von <editor role="preface"
-              >Robert Boyle</editor>. <biblScope unit="volume">Dritter Theil</biblScope>.
-              <pubPlace>Leipzig</pubPlace>: <publisher>F.A. Brockhaus</publisher>
-            <date>1890</date>, S. <biblScope unit="page" from="1" to="105">1–105</biblScope>.</bibl>
         </bibl>
+        <bibl type="originalSource">
+          <author>John Fletcher (und [Philip] Massinger)</author>: <title level="a">Die beiden edlen
+            Vettern</title>. In: <title level="s">Die Englische Bühne zu Shakespeare's Zeit. Zwölf
+            Dramen seiner Zeitgenossen.</title> Uebersetzt von <editor role="translator">F[erdinand]
+            A[dolph] Gelbcke</editor>. Mit Einleitungen von <editor role="preface">Robert
+            Boyle</editor>. <biblScope unit="volume">Dritter Theil</biblScope>.
+            <pubPlace>Leipzig</pubPlace>: <publisher>F.A. Brockhaus</publisher>
+          <date>1890</date>, S. <biblScope unit="page" from="1" to="105">1–105</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

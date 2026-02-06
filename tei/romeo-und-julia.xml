@@ -48,15 +48,14 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Romeo und Julia</title>. In:
-              <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von
-              <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
-            Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
-              <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="83" to="178"
-            >83–178</biblScope>.</bibl>
         </bibl>
+        <bibl type="originalSource">
+          <author>William Shakespeare</author>: <title level="a">Romeo und Julia</title>. In: <title
+            level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien. <edition>3.
+            Auflage</edition>. <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+            <publisher>Aufbau-Verlag</publisher>
+          <date>1975</date>, S. <biblScope unit="page" from="83" to="178">83–178</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
