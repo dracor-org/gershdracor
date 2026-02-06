@@ -34,6 +34,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1765). Die vorliegende
+          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 9,
+          Berlin (Georg Andreas Reimer) 1832.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -42,20 +48,15 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Macbeth</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Macbeth</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="605" to="683">605–683</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="605" to="683"
+            >605–683</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1765). Die vorliegende
-          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 9,
-          Berlin (Georg Andreas Reimer) 1832.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -156,10 +157,12 @@
           <person xml:id="moerder_iv-2" sex="MALE">
             <persName>Mörder (IV/2)</persName>
           </person>
-          <person xml:id="ein_englischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145681">
+          <person xml:id="ein_englischer_arzt" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q64145681">
             <persName>Ein englischer Arzt</persName>
           </person>
-          <person xml:id="ein_schottischer_arzt" sex="MALE" ana="http://www.wikidata.org/entity/Q64145683">
+          <person xml:id="ein_schottischer_arzt" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q64145683">
             <persName>Ein schottischer Arzt</persName>
           </person>
           <person xml:id="kammerfrau" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145684">
@@ -186,7 +189,8 @@
           <person xml:id="bote_v-5" sex="MALE">
             <persName>Ein Bote (V/5)</persName>
           </person>
-          <person xml:id="der_junge_siward" sex="MALE" ana="http://www.wikidata.org/entity/Q16205679">
+          <person xml:id="der_junge_siward" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q16205679">
             <persName>Der junge Siward</persName>
           </person>
         </listPerson>
@@ -206,7 +210,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000028" passive="http://www.wikidata.org/entity/Q130283"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000028"
+        passive="http://www.wikidata.org/entity/Q130283"/>
     </listRelation>
   </standOff>
   <text>

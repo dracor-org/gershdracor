@@ -34,6 +34,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
+          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
+          Berlin (Georg Andreas Reimer) 1832.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -47,16 +53,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
             Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="915" to="993">915–993</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="915" to="993"
+            >915–993</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
-          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
-          Berlin (Georg Andreas Reimer) 1832.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -312,7 +312,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000033" passive="http://www.wikidata.org/entity/Q284641"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000033"
+        passive="http://www.wikidata.org/entity/Q284641"/>
     </listRelation>
   </standOff>
   <text>

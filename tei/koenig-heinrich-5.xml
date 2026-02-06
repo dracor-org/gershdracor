@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1776). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 7, Berlin (Johann Friedrich Unger)
+          1801.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -48,16 +54,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
             Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="385" to="491">385–491</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="385" to="491"
+            >385–491</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1776). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 7, Berlin (Johann Friedrich Unger)
-          1801.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -220,7 +220,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000018" passive="http://www.wikidata.org/entity/Q495954"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000018"
+        passive="http://www.wikidata.org/entity/Q495954"/>
     </listRelation>
   </standOff>
   <text>
@@ -1247,7 +1248,8 @@
           <sp who="#bursch">
             <speaker>BURSCH.</speaker>
             <p>Herr Wirt Pistol, Ihr müßt zu meinem Herrn kommen, – Ihr auch, Wirtin; – er ist sehr
-              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb n="407"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
+              krank und will zu Bett. – Guter Bardolph, steck' die Nase zwischen seine Bettlaken <pb
+                n="407"/> und verrichte den Dienst eines Bettwärmers; wahrhaftig, ihm ist sehr
               schlimm.</p>
           </sp>
           <sp who="#bardolph">
@@ -3456,7 +3458,8 @@
           <sp who="#connetable">
             <speaker>CONNETABLE.</speaker>
             <p>Ganz recht, und die Menschen sympathisieren mit den Bullenbeißern im kräftigen und
-              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="443"/> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
+              rauhen Angreifen, sie lassen ihren Witz bei ihren Frauen zurück, und dann <pb n="443"
+              /> gebt ihnen große Mahlzeiten von Rindfleisch, und Eisen und Stahl, so werden sie
               fressen wie Wölfe und fechten wie Teufel.</p>
           </sp>
           <sp who="#orleans">
@@ -3734,7 +3737,8 @@
             <p>Nun, im Namen Jessu Christi, sprecht doch leiser! Es ist das Allerverwunderlichste in
               der sämtlichen Welt, wenn die wahren und uralten Prifilegien und Gesetze des Krieges
               nicht beobachtet sein. Wenn Ihr Euch nur die Mühe nehmen wolltet, die Kriege von
-              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb n="448"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
+              Pompejus dem Großen zu untersuchen, so werdet Ihr finden, dafür stehe ich Euch, <pb
+                n="448"/> daß im Lager des Pompejus kein Schnickschnack und Wischewasche ist; ich
               stehe Euch dafür, Ihr werdet finden daß die Cärimonien des Krieges, und die Sorgfalt
               in selbigem, und die Sitten in selbigem, und die Nüchternheit in selbigem, und die
               Bescheidenheit in selbigem ganz anders sein.</p>
@@ -3809,7 +3813,8 @@
           <sp who="#koenig_heinrich">
             <speaker>KÖNIG HEINRICH.</speaker>
             <p>Nein, und er muß es auch nicht tun. Denn, ob ich es Euch schon sage, ich denke, der
-              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb n="449"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
+              König ist nur ein Mensch, wie ich bin. Die Viole riecht ihm, wie sie mir tut, <pb
+                n="449"/> das Firmament erscheint ihm wie mir, alle seine Sinne stehen unter
               menschlichen Bedingungen; seine Zeremonien bei Seite gesetzt, erscheint er in seiner
               Nacktheit nur als ein Mensch, und wiewohl seine Neigungen einen höheren Schwung nehmen
               als unsre, so senken sie sich doch mit demselben Fittig, wenn sie sich senken. Daher
@@ -5085,7 +5090,8 @@
           <sp who="#williams">
             <speaker>WILLIAMS.</speaker>
             <p>Mit Euer Majestät Erlaubnis, ein Schelm, der mir letzte Nacht was vorschwadronierte;
-              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb n="470"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
+              dem ich, wenn er noch lebt und jemals das Herz hat, seinen Handschuh zu fodern, <pb
+                n="470"/> geschworen habe, ich wollte ihm eine Ohrfeige geben; oder wenn ich meinen
               Handschuh an seiner Mütze zu sehen kriege (und er schwur, so wahr er ein Soldat wäre,
               er wollte ihn tragen, wenn er am Leben bliebe), so will ich ihn ihm tüchtig herunter
               schlagen.</p>
@@ -5345,7 +5351,8 @@
           <sp who="#fluellen">
             <speaker>FLUELLEN.</speaker>
             <p>Es geschieht mit gutem Willen; ich sage Euch, Ihr könnt Eure Schuh' damit flicken
-              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb n="474"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
+              lassen. Geht, weshalb wollt Ihr so plöde sein? Eure Schuh' sein nicht gar zu gut; <pb
+                n="474"/> es ist ein guter Schilling, ich versichre Euch, sonst will ich ihn Euch
               wechseln.</p>
             <stage>Ein englischer Herold tritt auf.</stage>
           </sp>

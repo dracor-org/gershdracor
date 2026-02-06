@@ -36,6 +36,10 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck: Hamburg (Fr. Perthes) 1818.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -49,14 +53,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>:
             Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="907" to="1009">907–1009</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="907" to="1009"
+            >907–1009</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
-          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck: Hamburg (Fr. Perthes) 1818.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -85,7 +85,8 @@
           <person xml:id="koenig" sex="MALE" ana="http://www.wikidata.org/entity/Q38370">
             <persName>König Heinrich VIII.</persName>
           </person>
-          <person xml:id="koenigin_katharina" sex="FEMALE" ana="http://www.wikidata.org/entity/Q162819">
+          <person xml:id="koenigin_katharina" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q162819">
             <persName>Katharina, Königin von England</persName>
           </person>
           <person xml:id="haushofmeister" sex="MALE">
@@ -216,7 +217,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000022" passive="http://www.wikidata.org/entity/Q672059"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000022"
+        passive="http://www.wikidata.org/entity/Q672059"/>
     </listRelation>
   </standOff>
   <text>

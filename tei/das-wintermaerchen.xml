@@ -34,6 +34,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1766). Die vorliegende
+          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 8,
+          Berlin (Georg Andreas Reimer) 1832.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -47,16 +53,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>:
             Komödien. Poetische Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="495" to="593">495–593</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="495" to="593"
+            >495–593</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1766). Die vorliegende
-          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 8,
-          Berlin (Georg Andreas Reimer) 1832.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -192,7 +192,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000004" passive="http://www.wikidata.org/entity/Q743194"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000004"
+        passive="http://www.wikidata.org/entity/Q743194"/>
     </listRelation>
   </standOff>
   <text>
@@ -6204,7 +6205,8 @@
           <sp who="#erster_edelmann">
             <speaker>ERSTER EDELMANN.</speaker>
             <p>Ich dachte es wohl, daß sie dort etwas Wichtiges vor habe, denn seit Hermiones Tode
-              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"/> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
+              hat sie ganz geheim das entlegene Haus täglich zwei- oder dreimal besucht. <pb n="586"
+              /> Wollen wir hin und durch unsre Gegenwart an der Freude teil nehmen?</p>
           </sp>
           <sp who="#zweiter_edelmann">
             <speaker>ZWEITER EDELMANN.</speaker>

@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 4, Berlin (Johann Friedrich Unger)
+          1799.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -48,16 +54,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
             Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="639" to="725">639–725</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="639" to="725"
+            >639–725</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 4, Berlin (Johann Friedrich Unger)
-          1799.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -175,7 +175,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000008" passive="http://www.wikidata.org/entity/Q237572"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000008"
+        passive="http://www.wikidata.org/entity/Q237572"/>
     </listRelation>
   </standOff>
   <text>
@@ -5070,7 +5071,8 @@
               guten Gaben. Ich sage dies nicht, damit Ihr eine gute Meinung von meiner Wissenschaft
               fassen sollt, insofern ich sage: ich weiß, daß Ihr es seid; noch strebe ich nach einer
               größern Achtung, als die Euch einigermaßen Glauben ablocken kann, zu Eurem eignen
-              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb n="715"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
+              Besten, nicht zu meinem Ruhm. Glaubt denn, wenn's Euch beliebt, daß ich wunderbare <pb
+                n="715"/> Dinge vermag: seit meinem dritten Jahre hatte ich Verkehr mit einem
               Zauberer von der tiefsten Einsicht in seiner Kunst, ohne doch verdammlich zu sein.
               Wenn Euch Rosalinde so sehr am Herzen liegt, als Euer Benehmen laut bezeugt, so sollt
               Ihr sie heiraten, wann Euer Bruder Aliena heiratet. Ich weiß, in welche bedrängte Lage

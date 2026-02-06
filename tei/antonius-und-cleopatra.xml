@@ -36,6 +36,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 5,
+          Berlin (Georg Andreas Reimer) 1831.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -49,16 +55,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
             Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="685" to="796">685–796</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="685" to="796"
+            >685–796</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
-          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 5,
-          Berlin (Georg Andreas Reimer) 1831.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -305,7 +305,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000001" passive="http://www.wikidata.org/entity/Q606830"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000001"
+        passive="http://www.wikidata.org/entity/Q606830"/>
     </listRelation>
   </standOff>
   <text>
@@ -3532,7 +3533,8 @@
           <sp who="#enobarbus">
             <speaker>ENOBARBUS.</speaker>
             <p>Der nicht, der selbst nicht so ist; und das ist Marc Anton. Sein ägyptisches Mahl
-              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
+              wird ihn zurückziehen: dann werden Octavias Seufzer Cäsars Feuer anfachen, und wie <pb
+                n="726"/> ich vorhin sagte: was die Befestigung ihres Bundes scheint wird die
               unmittelbare Veranlassung ihrer Entzweiung werden. Antonius wird seine Liebe zeigen,
               wo sie ist; hier hat er nur seinen Vorteil geheiratet. –</p>
           </sp>

@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erste deutsche Übersetzungen von Caspar Wilhelm von Borck (1741) und Christoph Martin
+          Wieland (1764). Die vorliegende Übersetzung stammt von August Wilhelm Schlegel. Erstdruck
+          in: Shakspeare's dramatische Werke. Übersetzt von August Wilhelm Schlegel, Bd. 2, Berlin
+          (Johann Friedrich Unger) 1797.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -43,20 +49,15 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Julius Cäsar</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Julius Cäsar</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien.
               <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="179" to="262">179–262</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="179" to="262"
+            >179–262</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erste deutsche Übersetzungen von Caspar Wilhelm von Borck (1741) und Christoph Martin
-          Wieland (1764). Die vorliegende Übersetzung stammt von August Wilhelm Schlegel. Erstdruck
-          in: Shakspeare's dramatische Werke. Übersetzt von August Wilhelm Schlegel, Bd. 2, Berlin
-          (Johann Friedrich Unger) 1797.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -237,7 +238,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000015" passive="http://www.wikidata.org/entity/Q215750"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000015"
+        passive="http://www.wikidata.org/entity/Q215750"/>
     </listRelation>
   </standOff>
   <text>

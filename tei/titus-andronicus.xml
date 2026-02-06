@@ -36,6 +36,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 6,
+          Berlin (Georg Andreas Reimer) 1831.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -49,15 +55,9 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
             Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="5" to="82">5–82</biblScope>. </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="5" to="82">5–82</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
-          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 6,
-          Berlin (Georg Andreas Reimer) 1831.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -163,7 +163,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000034" passive="http://www.wikidata.org/entity/Q272169"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000034"
+        passive="http://www.wikidata.org/entity/Q272169"/>
     </listRelation>
   </standOff>
   <text>

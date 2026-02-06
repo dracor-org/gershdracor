@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1776). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 8, Berlin (Johann Friedrich Unger)
+          1801.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -45,18 +51,13 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">König Heinrich VI. Zweiter
               Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="585" to="687">585–687</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="585" to="687"
+            >585–687</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1776). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 8, Berlin (Johann Friedrich Unger)
-          1801.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -67,7 +68,8 @@
           <person xml:id="koenig_heinrich" sex="MALE" ana="http://www.wikidata.org/entity/Q160337">
             <persName>König Heinrich VI.</persName>
           </person>
-          <person xml:id="margareta_koenigin" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
+          <person xml:id="margareta_koenigin" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q231145">
             <persName>Margareta, König Heinrichs Gemahlin</persName>
           </person>
           <personGrp xml:id="alle_i-1" sex="UNKNOWN">
@@ -226,7 +228,8 @@
           <person xml:id="stafford" sex="MALE" ana="http://www.wikidata.org/entity/Q75400614">
             <persName>Sir Humphrey Stafford</persName>
           </person>
-          <person xml:id="william_stafford" sex="MALE" ana="http://www.wikidata.org/entity/Q85815750">
+          <person xml:id="william_stafford" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q85815750">
             <persName>William Stafford</persName>
           </person>
           <person xml:id="say" sex="MALE" ana="http://www.wikidata.org/entity/Q6133874">
@@ -285,7 +288,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000020" passive="http://www.wikidata.org/entity/Q1236216"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000020"
+        passive="http://www.wikidata.org/entity/Q1236216"/>
     </listRelation>
   </standOff>
   <text>

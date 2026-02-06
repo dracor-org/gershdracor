@@ -36,6 +36,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 5,
+          Berlin (Georg Andreas Reimer) 1831.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -44,20 +50,15 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>William Shakespeare</author>: <title level="a">Maß für Maß</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
+            <author>William Shakespeare</author>: <title level="a">Maß für Maß</title>. In: <title
+              level="s">Sämtliche Werke in vier Bänden</title>. Herausgegeben von <editor>Anselm
               Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>: Komödien. Poetische
             Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="211" to="300">211–300</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="211" to="300"
+            >211–300</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
-          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 5,
-          Berlin (Georg Andreas Reimer) 1831.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -151,7 +152,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000029" passive="http://www.wikidata.org/entity/Q665446"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000029"
+        passive="http://www.wikidata.org/entity/Q665446"/>
     </listRelation>
   </standOff>
   <text>
@@ -3359,7 +3361,8 @@
               Schönheit gering geachtet, läßt auch der Schönheit nicht lange ihre Güte; aber
               Sittsamkeit, die Seele Eurer Züge, wird Euch auch immer schön erhalten. Von dem
               Angriff, den Angelo auf Euch versucht, hat mich der Zufall in Kenntnis gesetzt, und
-              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="255"/> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
+              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich <pb n="255"
+              /> würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
               zufrieden zu stellen und Euren Bruder zu retten?</p>
           </sp>
           <sp who="#isabella">
@@ -4263,7 +4266,8 @@
           <sp who="#pompejus">
             <speaker>POMPEJUS.</speaker>
             <p>Das Malen, Herr, habe ich sagen hören, sei eine Kunst; und da die Huren, Herr, unter
-              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb n="270"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
+              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine <pb
+                n="270"/> Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
               und wenn Ihr mich hängen wolltet –, das kann ich nicht einsehn.</p>
           </sp>
           <sp who="#grauslich">

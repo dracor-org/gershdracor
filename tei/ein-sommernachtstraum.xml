@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1762). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 1, Berlin (Johann Friedrich Unger)
+          1797.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -48,16 +54,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
             Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="309" to="377">309–377</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="309" to="377"
+            >309–377</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1762). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 1, Berlin (Johann Friedrich Unger)
-          1797.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -154,7 +154,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000012" passive="http://www.wikidata.org/entity/Q104871"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000012"
+        passive="http://www.wikidata.org/entity/Q104871"/>
     </listRelation>
   </standOff>
   <text>

@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 6, Berlin (Johann Friedrich Unger)
+          1800.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -45,18 +51,13 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">König Heinrich IV. Zweiter
               Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="277" to="384">277–384</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="277" to="384"
+            >277–384</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 6, Berlin (Johann Friedrich Unger)
-          1800.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -112,7 +113,8 @@
           <person xml:id="gower" sex="MALE">
             <persName>Gower</persName>
           </person>
-          <person xml:id="prinz_heinrich_koenig" sex="MALE" ana="http://www.wikidata.org/entity/Q131581">
+          <person xml:id="prinz_heinrich_koenig" sex="MALE"
+            ana="http://www.wikidata.org/entity/Q131581">
             <persName>Prinz Heinrich von Wales/Heinrich V.</persName>
           </person>
           <person xml:id="poins" sex="MALE" ana="http://www.wikidata.org/entity/Q18752824">
@@ -225,7 +227,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000017" passive="http://www.wikidata.org/entity/Q1232349"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000017"
+        passive="http://www.wikidata.org/entity/Q1232349"/>
     </listRelation>
   </standOff>
   <text>
@@ -1983,7 +1986,8 @@
             <p>»John Falstaff, Ritter« – jedermann muß das wissen, so oft er Gelegenheit hat, sich
               zu nennen. Grade wie die Leute, die mit dem König verwandt sind, denn die stechen sich
               niemals in den Finger, ohne zu sagen: »Da wird etwas von des Königs Blut vergossen.« –
-              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb n="310"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
+              »Wie geht das zu?« sagt einer, der sich heraus nimmt, nicht zu begreifen, und die <pb
+                n="310"/> Antwort ist so geschwind bei der Hand wie eine geborgte Mütze: »Ich bin
               des Königs armer Vetter, mein Herr.«</p>
           </sp>
           <sp who="#prinz_heinrich_koenig">
@@ -2685,7 +2689,8 @@
           <sp who="#dortchen">
             <speaker>DORTCHEN.</speaker>
             <p>Wahrhaftig, und du warst wie ein Kirchturm hinter ihm drein. Du verwettertes,
-              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb n="321"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
+              kleines, zuckergebacknes Weihnachts-Schweinchen, wenn wirst du das Fechten bei <pb
+                n="321"/> Tage und das Raufen bei Nacht lassen und anfangen, deinen alten Leib für
               den Himmel zurecht zu flicken?</p>
             <stage>Im Hintergrunde erscheinen Prinz Heinrich und Poins, in Küfer verkleidet.</stage>
           </sp>
@@ -3733,7 +3738,8 @@
           <sp who="#schimmelig">
             <speaker>SCHIMMELIG.</speaker>
             <p>Und lieber Herr Korporal Kapitän, meiner alten Hausfrauen wegen, legt ein gut Wort
-              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb n="336"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
+              für mich ein! Sie hat niemanden, der ihr was verrichten kann, wenn ich weg bin, <pb
+                n="336"/> denn sie ist alt und kann sich selbst nicht helfen; Ihr sollt auch vierzig
               Schillinge haben, Herr.</p>
           </sp>
           <sp who="#bardolph">
@@ -3803,7 +3809,8 @@
               den Geist kommt es an, Herr Schaal. Da habt Ihr Warze, – Ihr seht, was es für eine
               ruppige Figur ist: der ladet und schießt Euch so flink, wie ein Zinngießer hämmert:
               läuft auf und ab, geschwinder wie einer, der des Brauers Eimer am Schwengel trägt. Und
-              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb n="337"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
+              der Gesell da mit dem Halbgesicht, Schatte, – gebt mir den Menschen! Er gibt dem <pb
+                n="337"/> Feinde keine Fläche zum Treffen; der Feind kann eben so gut auf die
               Schneide eines Federmessers zielen; und geht's zum Rückzuge: – wie geschwind wird
               dieser Schwächlich, der Frauenschneider, davon laufen! O gebt mir die unansehnlichen
               Leute, so will ich die großen gar nicht ansehn. – Gib dem Warze eine Muskete in die

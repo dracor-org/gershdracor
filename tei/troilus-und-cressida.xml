@@ -36,6 +36,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
+          Berlin (Georg Andreas Reimer) 1832.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -49,16 +55,9 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">2</biblScope>:
             Komödien. Poetische Werke. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="5" to="114">5–114</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="5" to="114">5–114</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Johann Joachim Eschenburg (1777). Die vorliegende
-          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
-          Berlin (Georg Andreas Reimer) 1832.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -176,7 +175,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000035" passive="http://www.wikidata.org/entity/Q183304"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000035"
+        passive="http://www.wikidata.org/entity/Q183304"/>
     </listRelation>
   </standOff>
   <text>
@@ -341,7 +341,8 @@
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
             <p>Ja, aufs Säuern; aber nun kommt noch in dem Wort <emph>hernach</emph> das Kneten, das
-              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb n="9"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
+              Formen des Kuchens, das Heizen des Ofens und das Backen; ja, Ihr müßt auch noch <pb
+                n="9"/> das Kaltwerden abwarten, oder Ihr lauft Gefahr, Euch die Lippen zu
               verbrennen.</p>
           </sp>
           <sp who="#troilus">
@@ -826,7 +827,8 @@
             <speaker>CRESSIDA.</speaker>
             <p>So hätte Troilus denn zu viel Farbe; wenn sie sein Kolorit <emph>über</emph> das des
               andern stellt, ist er höher an Farbe; wenn nun Paris rot genug ist und Troilus
-              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb n="15"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
+              hochrot, so ist das ein zu feuriges Lob für ein gutes Kolorit. Eben so gern hätte <pb
+                n="15"/> Helenas goldne Zunge den Troilus wegen einer Kupfernase rühmen können.</p>
           </sp>
           <sp who="#pandarus">
             <speaker>PANDARUS.</speaker>
@@ -4622,7 +4624,8 @@
           <sp who="#thersites">
             <speaker>THERSITES.</speaker>
             <p>Nein, in eben solcher Verstimmung. Wie viel Musik in ihm nachbleibt, wenn Hektor ihm
-              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb n="70"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
+              den Schädel eingeschlagen hat, das weiß ich nicht, aber ich denke gar keine: <pb
+                n="70"/> Fiedler Apollo müßte denn seine Sehnen nehmen und sich Darmsaiten daraus
               machen.</p>
           </sp>
           <sp who="#achilles">

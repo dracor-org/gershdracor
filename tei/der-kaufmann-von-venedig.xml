@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 4, Berlin (Johann Friedrich Unger)
+          1799.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -48,16 +54,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
             Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="379" to="461">379–461</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="379" to="461"
+            >379–461</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 4, Berlin (Johann Friedrich Unger)
-          1799.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -157,7 +157,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000005" passive="http://www.wikidata.org/entity/Q206400"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000005"
+        passive="http://www.wikidata.org/entity/Q206400"/>
     </listRelation>
   </standOff>
   <text>
@@ -1280,7 +1281,8 @@
           <sp who="#lanzelot">
             <speaker>LANZELOT.</speaker>
             <p>Schlagt Euch rechter Hand an der nächsten Ecke, aber bei der allernächsten Ecke
-              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
+              linker Hand; versteht, bei der ersten nächsten Ecke schlagt Euch weder rechts noch <pb
+                n="399"/> links, sondern dreht Euch schnurgerade aus nach des Juden seinem Hause
               herum.</p>
           </sp>
           <sp who="#gobbo">

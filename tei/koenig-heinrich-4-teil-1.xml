@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 6, Berlin (Johann Friedrich Unger)
+          1800.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -45,18 +51,13 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">König Heinrich IV. Erster
               Teil</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >3</biblScope>: Historien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="179" to="275">179–275</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="179" to="275"
+            >179–275</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1764). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 6, Berlin (Johann Friedrich Unger)
-          1800.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -183,7 +184,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000016" passive="http://www.wikidata.org/entity/Q631855"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000016"
+        passive="http://www.wikidata.org/entity/Q631855"/>
     </listRelation>
   </standOff>
   <text>
@@ -1812,7 +1814,8 @@
               jetzt bei dem Schurken wäre, so könnte ich ihm mit seiner Frauen Fächer den Kopf
               einschlagen. Ist nicht mein Vater, mein Oheim und ich selbst dabei? Lord Edmund
               Mortimer, der Erzbischof von York und Owen Glendower? Ist nicht endlich der Douglas
-              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
+              dabei? Habe ich nicht Briefe von allen, daß sie mich am Neunten des nächsten <pb
+                n="208"/> Monats bewaffnet treffen wollen? Und sind nicht einige von ihnen schon
               ausgerückt? Was ist das für ein ungläubiger Schurke? Ein Heide! Ha, ihr sollt nun
               sehen, aus wahrer, aufrichtiger Furcht und Engherzigkeit wird er zum Könige gehn und
               ihm alle unsre Anstalten vorlegen. Oh, ich könnte mich zerteilen und mir Maulschellen

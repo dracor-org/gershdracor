@@ -34,6 +34,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1765). Die vorliegende
+          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
+          Berlin (Georg Andreas Reimer) 1832.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -47,16 +53,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">1</biblScope>:
             Komödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="149" to="219">149–219</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="149" to="219"
+            >149–219</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1765). Die vorliegende
-          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
-          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 7,
-          Berlin (Georg Andreas Reimer) 1832.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -129,7 +129,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000009" passive="http://www.wikidata.org/entity/Q232042"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000009"
+        passive="http://www.wikidata.org/entity/Q232042"/>
     </listRelation>
   </standOff>
   <text>
@@ -1253,7 +1254,8 @@
               Geschmack zu finden wie ein Rotkehlchen; allein einherzuschreiten wie ein Pestkranker;
               zu ächzen wie ein Schulknabe, der sein ABC verloren hat; zu weinen wie eine junge
               Dirne, die ihre Großmutter begrub; zu fasten wie einer, der in der Hungerkur liegt; zu
-              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb n="164"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
+              wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am <pb
+                n="164"/> Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu
               krähen; wenn Ihr einher ginget, wie ein Löwe zu wandeln; wenn Ihr fastetet, war es
               gleich nach dem Essen; wenn Ihr finster blicktet, war es, weil Euch Geld fehlte; und
               jetzt seid Ihr von Eurer Dame verwandelt, daß, wenn ich Euch ansehe, ich Euch kaum für
@@ -4622,7 +4624,8 @@
               Geschenk von meinem Herrn zu überbringen, und kaum bin ich in den Speisesaal getreten,
               so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel. Oh, es ist ein
               böses Ding, wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß! Ich
-              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb n="206"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
+              wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu <pb
+                n="206"/> sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich
               nicht mehr Verstand gehabt hätte, als er, und den Fehler auf mich genommen, den er
               beging, so glaube ich wahrhaftig, er wäre dafür gehängt. So wahr ich lebe, sie hätten
               ihn dafür hingerichtet! Urteilt selbst: da schiebt er sich ein in die Gesellschaft von

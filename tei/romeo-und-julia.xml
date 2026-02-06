@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erste deutsche Übersetzungen von von Simon Grynaeus (1758), Christoph Martin Wieland
+          (1766). Die vorliegende Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in:
+          Shakspeare's dramatische Werke. Übersetzt von August Wilhelm Schlegel, Bd. 1, Berlin
+          (Johann Friedrich Unger) 1797.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -48,16 +54,10 @@
               <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>:
             Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace> und
               <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="83" to="178">83–178</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="83" to="178"
+            >83–178</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erste deutsche Übersetzungen von von Simon Grynaeus (1758), Christoph Martin Wieland
-          (1766). Die vorliegende Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in:
-          Shakspeare's dramatische Werke. Übersetzt von August Wilhelm Schlegel, Bd. 1, Berlin
-          (Johann Friedrich Unger) 1797.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -83,13 +83,15 @@
           <person xml:id="capulet" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="graefin_capulet" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
+          <person xml:id="graefin_capulet" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Gräfin Capulet</persName>
           </person>
           <person xml:id="montague" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="graefin_montague" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
+          <person xml:id="graefin_montague" sex="FEMALE"
+            ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Gräfin Montague</persName>
           </person>
           <person xml:id="prinz" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
@@ -199,7 +201,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000032" passive="http://www.wikidata.org/entity/Q83186"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000032"
+        passive="http://www.wikidata.org/entity/Q83186"/>
     </listRelation>
   </standOff>
   <text>
@@ -2743,7 +2746,8 @@
           <sp who="#mercutio">
             <speaker>MERCUTIO.</speaker>
             <p>Ach, der arme Romeo! Er ist ja schon tot! durchbohrt von einer weißen Dirne schwarzem
-              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="118"/> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
+              Auge; durchs Ohr geschossen mit einem Liebesliedchen; seine Herzensscheibe <pb n="118"
+              /> durch den Pfeil des kleinen blinden Schützen mitten entzwei gespalten! Ist er der
               Mann darnach, es mit dem Tybalt aufzunehmen?</p>
           </sp>
           <sp who="#benvolio">

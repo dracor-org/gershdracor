@@ -35,6 +35,12 @@
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1766). Die vorliegende
+          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
+          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 3, Berlin (Johann Friedrich Unger)
+          1798.</note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>TextGrid Repository</name>
@@ -45,18 +51,13 @@
           <bibl type="originalSource">
             <author>William Shakespeare</author>: <title level="a">Hamlet. Prinz von
               Dänemark</title>. In: <title level="s">Sämtliche Werke in vier Bänden</title>.
-            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume">4</biblScope>: Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
+            Herausgegeben von <editor>Anselm Schlösser</editor>. Band <biblScope unit="volume"
+              >4</biblScope>: Tragödien. <edition>3. Auflage</edition>. <pubPlace>Berlin</pubPlace>
             und <pubPlace>Weimar</pubPlace>: <publisher>Aufbau-Verlag</publisher>
-            <date>1975</date>, S. <biblScope unit="page" from="263" to="387">263–387</biblScope>.
-          </bibl>
+            <date>1975</date>, S. <biblScope unit="page" from="263" to="387"
+            >263–387</biblScope>.</bibl>
         </bibl>
       </sourceDesc>
-      <notesStmt>
-        <note>Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1766). Die vorliegende
-          Übersetzung stammt von August Wilhelm Schlegel. Erstdruck in: Shakspeare's dramatische
-          Werke. Übersetzt von August Wilhelm Schlegel, Bd. 3, Berlin (Johann Friedrich Unger)
-          1798.</note>
-      </notesStmt>
     </fileDesc>
     <profileDesc>
       <particDesc>
@@ -186,7 +187,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/gersh000014" passive="http://www.wikidata.org/entity/Q41567"/>
+      <relation name="wikidata" active="https://dracor.org/entity/gersh000014"
+        passive="http://www.wikidata.org/entity/Q41567"/>
     </listRelation>
   </standOff>
   <text>
@@ -3174,7 +3176,8 @@
             <p>Ich will euch sagen, warum; so wird mein Erraten eurer Entdeckung zuvorkommen, und
               eure Verschwiegenheit gegen den König und die Königin braucht keinen Zollbreit zu
               wanken. Ich habe seit kurzem – ich weiß nicht wodurch – alle meine Munterkeit
-              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb n="305"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
+              eingebüßt, meine gewohnten Übungen aufgegeben; und es steht in der Tat so übel um <pb
+                n="305"/> meine Gemütslage, daß die Erde, dieser treffliche Bau, mir nur ein kahles
               Vorgebirge scheint; seht ihr, dieser herrliche Baldachin, die Luft, dies wackre
               umwölbende Firmament, dies majestätische Dach mit goldnem Feuer ausgelegt: kommt es
               mir doch nicht anders vor, als ein fauler verpesteter Haufe von Dünsten. Welch ein
@@ -4338,7 +4341,8 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>So lange schon? Ei, so mag der Teufel schwarz gehn: ich will einen Zobelpelz tragen.
-              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb n="324"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
+              O Himmel! Vor zwei Monaten gestorben und noch nicht vergessen! So ist Hoffnung <pb
+                n="324"/> da, daß das Andenken eines großen Mannes sein Leben ein halbes Jahr
               überleben kann. Aber, bei unsrer lieben Frauen! Kirchen muß er stiften, sonst denkt
               man nicht an ihn: es geht ihm wie dem Steckenpferde, dessen Grabschrift ist:</p>
             <lg>
@@ -4782,7 +4786,8 @@
           <sp who="#hamlet">
             <speaker>HAMLET.</speaker>
             <p>Euch eine gesunde Antwort geben. Mein Verstand ist krank. Aber, Herr, solche Antwort,
-              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb n="330"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
+              als ich geben kann, ist zu Eurem Befehl; oder vielmehr, wie Ihr sagt, zu meiner <pb
+                n="330"/> Mutter Befehl; drum nichts weiter, sondern zur Sache: Meine Mutter, sagt
               Ihr –</p>
           </sp>
           <sp who="#rosenkranz">
@@ -5861,7 +5866,8 @@
             <p>Nicht wo er speist, sondern wo er gespeist wird. Eine gewisse Reichsversammlung von
               politischen Würmern hat sich eben an ihn gemacht. So 'n Wurm ist Euch der einzige
               Kaiser, was die Tafel betrifft. Wir mästen alle andere Kreaturen, um uns zu mästen;
-              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb n="347"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
+              und uns selbst mästen wir für Maden. Der fette König und der magre Bettler sind <pb
+                n="347"/> nur verschiedne Gerichte; zwei Schüsseln, aber für eine Tafel: das ist das
               Ende vom Liede.</p>
           </sp>
           <sp who="#koenig">
@@ -8023,7 +8029,8 @@
             <p>Erlaubt mir, wertester Prinz, zu meiner eignen Bequemlichkeit. Vor kurzem, Herr, ist
               Laertes hier an den Hof gekommen: auf meine Ehre, ein vollkommner Kavalier, von den
               vortrefflichsten Auszeichnungen, von einer sehr gefälligen Unterhaltung und glänzendem
-              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb n="378"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
+              Äußern. In der Tat, um mit Sinn von ihm zu sprechen, er ist die Musterkarte <pb
+                n="378"/> der feinen Lebensart, denn Ihr werdet in ihm den Inbegriff aller Gaben
               finden, die ein Kavalier nur wünschen kann zu sehn.</p>
           </sp>
           <sp who="#hamlet">
