@@ -42,8 +42,7 @@
       </notesStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>TextGrid Repository</name>
-          <idno type="URL">http://www.textgridrep.org/textgrid:vn79.0</idno>
+          <ref target="http://www.textgridrep.org/textgrid:vn79.0">TextGrid Repository</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
