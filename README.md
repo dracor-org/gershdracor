@@ -14,7 +14,7 @@ The corpus is released under the Creative Commons Zero copyright waiver ([CC0](h
 We have made many adjustments and improvements, which we document in more detail below.
 
 ## Main benefits of this corpus
-* Assignment of character IDs for all speaking instances, including groups and every secondary character (```particDesc```).
+* Assignment of character IDs for all speaking instances, including groups and every secondary character (```<particDesc>```).
 * Assignment of Wikidata IDs to characters, if applicable (mythological, historical, fictional characters).
 
 The actual core of this digital edition is the introduction of character IDs, as is common in all DraCor corpora. This opens up possibilities for fine-grained digital analyses. It will be particularly useful for visualising and analysing the co-occurrence networks of the plays. Disambiguating all 1.497 characters was the most time-consuming part of the corpus work.
@@ -53,3 +53,5 @@ We have adopted this information, although the issue of translatorship in this c
 * Assignment of Wikidata IDs to characters completed.
 ### 27.08.2024
 * Enrich ```<castList>``` with ```<role>``` and ```<roleDesc>```.
+### 10.04.2026
+* Use ```<editor role="translator">``` instead of ```<author>``` for translators to distinguish them from the author.

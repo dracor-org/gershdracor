@@ -14,7 +14,7 @@
           <idno type="wikidata">Q692</idno>
           <idno type="pnd">118613723</idno>
         </author>
-        <author>
+        <editor role="translator">
           <persName>
             <forename>August</forename>
             <forename>Wilhelm</forename>
@@ -22,7 +22,7 @@
           </persName>
           <idno type="wikidata">Q57281</idno>
           <idno type="pnd">118607960</idno>
-        </author>
+        </editor>
         <respStmt>
           <resp when="2021-10-21">This digital edition was prepared by</resp>
           <persName ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</persName>
