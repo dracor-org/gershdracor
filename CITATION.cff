@@ -5,7 +5,7 @@ cff-version: 1.2.0
 title: >-
   German Shakespeare Drama Corpus (GerShDraCor):
   Shakespeare's plays in their German translations, edited
-  by Friedrich Schlegel and Ludwig Tieck
+  by August Wilhelm Schlegel and Ludwig Tieck
 message: 'If you use this corpus, please cite it as below.'
 type: dataset
 authors:

@@ -7,7 +7,7 @@ After a prolonged beta phase from 2021 to 2024, this corpus is now ready to join
 
 … we suggest the following:
 
-* Frank Fischer (ed.): German Shakespeare Drama Corpus (GerShDraCor): Shakespeare's plays in their German translations, edited by Friedrich Schlegel and Ludwig Tieck. Hosted on GitHub, 2021–. https://github.com/dracor-org/gershdracor
+* Frank Fischer (ed.): German Shakespeare Drama Corpus (GerShDraCor): Shakespeare's plays in their German translations, edited by August Wilhelm Schlegel and Ludwig Tieck. Hosted on GitHub, 2021–. https://github.com/dracor-org/gershdracor
 
 The corpus is released under the Creative Commons Zero copyright waiver ([CC0](https://creativecommons.org/public-domain/cc0/)).
 
