@@ -1,20 +1,20 @@
 # GerShDraCor
 **Ger**man **Sh**akespeare **Dra**ma **Cor**pus. Edited by [Frank Fischer](https://lehkost.github.io/). This TEI-encoded corpus contains all 37 of Shakespeare's plays in their German translations, edited by Schlegel and Tieck, in the edition published by Aufbau-Verlag Berlin/Weimar (3rd edition 1975), which is based on the last edition published during Schlegel's lifetime (3rd edition 1843/44). The digitised print edition was obtained from [TextGrid Repository](https://hdl.handle.net/11858/00-1734-0000-0005-0B3F-D), which in turn is a TEI conversion of the [Zeno.org](http://www.zeno.org/nid/20005683920) digitisation. This collection provided an additional play (»Die beiden edlen Vettern«) that Shakespeare is now considered to have co-authored.
 
-After a prolonged beta phase from 2021 to 2024, this corpus is now ready to join the other stable corpora in the DraCor ecosystem. Explore the corpus in the DraCor frontend: **https://dracor.org/gersh**
+After a prolonged beta phase from 2021 to 2024, this corpus joined the other stable corpora in the DraCor ecosystem. Version 1.0.0 (November 2026) is the first versioned release, archived on Zenodo. Explore the corpus in the DraCor frontend: **https://dracor.org/gersh**
 
 ## To cite GerShDraCor …
 
 … we suggest the following:
 
-* Frank Fischer (ed.): German Shakespeare Drama Corpus (GerShDraCor): Shakespeare's plays in their German translations, edited by August Wilhelm Schlegel and Ludwig Tieck. Hosted on GitHub, 2021–. https://github.com/dracor-org/gershdracor
+* Frank Fischer (ed.): German Shakespeare Drama Corpus (GerShDraCor): Shakespeare's plays in their German translations, edited by August Wilhelm Schlegel and Ludwig Tieck. Version 1.0.0. Zenodo, 2026.
 
 The corpus is released under the Creative Commons Zero copyright waiver ([CC0](https://creativecommons.org/public-domain/cc0/)).
 
 We have made many adjustments and improvements, which we document in more detail below.
 
 ## Main benefits of this corpus
-* Assignment of character IDs for all speaking instances, including groups and every secondary character (```<particDesc>```).
+* Assignment of character IDs for all speaking instances, including groups and every secondary character (`<particDesc>`).
 * Assignment of Wikidata IDs to characters, if applicable (mythological, historical, fictional characters).
 
 The actual core of this digital edition is the introduction of character IDs, as is common in all DraCor corpora. This opens up possibilities for fine-grained digital analyses. It will be particularly useful for visualising and analysing the co-occurrence networks of the plays. Disambiguating all 1.497 characters was the most time-consuming part of the corpus work.
@@ -26,7 +26,7 @@ Although completed for the time being, the assignment of Wikidata IDs to charact
 * Detailed bibliographic info added.
 * Reintegrated text parts lost in the TextGrid conversion.
 * Typos removed, especially regarding names.
-* Introduced ```<role>``` and ```<roleDesc>``` in ```<castList>```.
+* Introduced `<role>` and `<roleDesc>` in `<castList>`.
 
 It is important to emphasise that **this is not a critical edition**, but our attempt to optimise the existing digitised version of this corpus for computer-aided analysis using the tools of the digital humanities.
 
@@ -52,6 +52,8 @@ We have adopted this information, although the issue of translatorship in this c
 ### 26.08.2024
 * Assignment of Wikidata IDs to characters completed.
 ### 27.08.2024
-* Enrich ```<castList>``` with ```<role>``` and ```<roleDesc>```.
+* Enrich `<castList>` with `<role>` and `<roleDesc>`.
 ### 10.04.2026
-* Use ```<editor role="translator">``` instead of ```<author>``` for translators to distinguish them from the author.
+* Use `<editor role="translator">` instead of `<author>` for translators to distinguish them from the author.
+### 17.11.2026
+* First versioned release (1.0.0), archived on Zenodo. Corresponds to the state of the corpus as of this date; no content changes compared to the previous entry.
